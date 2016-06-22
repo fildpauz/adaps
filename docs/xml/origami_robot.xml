@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<title>US scientists create prototype of autonomous origami-inspired
+		robot
+	</title>
+	<citation>Wikinews contributors, &#8220;US scientists create prototype
+		of autonomous origami-inspired robot,&#8221; Wikinews, The free news
+		source you can write,
+		https://en.wikinews.org/w/index.php?title=US_scientists_create_prototype_of_autonomous_origami-inspired_robot&amp;oldid=3569382
+		(accessed April 29, 2016).
+	</citation>
+	<url>https://en.wikinews.org/wiki/US_scientists_create_prototype_of_autonomous_origami-inspired_robot
+	</url>
+	<body>
+		<paragraph id="p1">
+			<sentence par-function="topic" id="p1-s1">
+				<t id="p1-s1-t1" type="GSL1">A</t>
+				<t id="p1-s1-t2" type="AWL">research</t>
+				<t id="p1-s1-t3" type="AWL">team</t>
+				<t id="p1-s1-t4" type="GSL1">from</t>
+				<t id="p1-s1-t5" type="GSL1">the</t>
+				<t id="p1-s1-t6">Massachusetts</t>
+				<t id="p1-s1-t7" type="AWL">Institute</t>
+				<t id="p1-s1-t8" type="GSL1">of</t>
+				<t id="p1-s1-t9" type="AWL">Technology</t>
+				<punc>(</punc>
+				<abbr id="p1-s1-b1" info="p1-s1-t6:p1-s1-t9">
+					<t id="p1-s1-t10">MIT</t>
+				</abbr>
+				<punc>)</punc>
+				<t id="p1-s1-t11" type="GSL1">and</t>
+				<t id="p1-s1-t12">Harvard</t>
+				<t id="p1-s1-t13" type="GSL1">University&apos;s</t>
+				<t id="p1-s1-t14">Wyss</t>
+				<t id="p1-s1-t15" type="AWL">Institute</t>
+				<t id="p1-s1-t16" type="GSL1">for</t>
+				<t id="p1-s1-t17" parts="bio+logy+ical+ly">Biologically</t>
+				<t id="p1-s1-t18">Inspired</t>
+				<t id="p1-s1-t19" type="GSL2">Engineering</t>
+				<t id="p1-s1-t20" type="GSL1">has</t>
+				<t id="p1-s1-t21" type="GSL1">developed</t>
+				<t id="p1-s1-t22" type="GSL1">a</t>
+				<t id="p1-s1-t23">robot</t>
+				<t id="p1-s1-t24" type="GSL1">that</t>
+				<t id="p1-s1-t25" type="AWL">assembles</t>
+				<t id="p1-s1-t26" type="GSL1">itself</t>
+				<t id="p1-s1-t27" type="GSL1">within</t>
+				<t id="p1-s1-t28" type="GSL1">four</t>
+				<t id="p1-s1-t29" type="GSL1">minutes</t>
+				<t id="p1-s1-t30" type="GSL1">from</t>
+				<t id="p1-s1-t31" type="GSL1">a</t>
+				<t id="p1-s1-t32" type="GSL2">flat</t>
+				<t id="p1-s1-t33" type="GSL2">sheet</t>
+				<t id="p1-s1-t34" type="GSL1">into</t>
+				<t id="p1-s1-t35" type="GSL1">a</t>
+				<abbr id="p1-s1-b2" info="p1-s1-t37:p1-s1-t38">
+					<t id="p1-s1-t36">3D</t>
+				</abbr>
+				<punc>(</punc>
+				<t id="p1-s1-t37" type="GSL1">three</t>
+				<punc>-</punc>
+				<t id="p1-s1-t38" type="AWL">dimensional</t>
+				<punc>)</punc>
+				<t id="p1-s1-t39" type="GSL1">moving</t>
+				<t id="p1-s1-t40" type="AWL">structure</t>
+				<punc>.</punc>
+			</sentence>
+			<sentence par-function="supporting" id="p1-s2">
+				<t id="p1-s2-t1" type="GSL1">Unlike</t>
+				<t id="p1-s2-t2" type="AWL">previous</t>
+				<t id="p1-s2-t3" type="GSL2">self</t>
+				<punc>-</punc>
+				<t id="p1-s2-t4" type="GSL2">folding</t>
+				<t id="p1-s2-t5" type="GSL1">machines</t>
+				<punc>,</punc>
+				<anaphor id="p1-s2-a1" info="p1-s1-t22:p1-s1-t23">
+					<t id="p1-s2-t6" type="GSL1">the</t>
+					<t id="p1-s2-t7">robot</t>
+				</anaphor>
+				<t id="p1-s2-t8" type="GSL1">can</t>
+				<t id="p1-s2-t9" type="AWL">function</t>
+				<t id="p1-s2-t10" parts="auto+nom+ous+ly">autonomously</t>
+				<punc>.</punc>
+			</sentence>
+			<sentence par-function="supporting" id="p1-s3">
+				<emph>
+					<t id="p1-s3-t1" type="GSL1">Science</t>
+				</emph>
+				<t id="p1-s3-t2" type="AWL">published</t>
+				<anaphor id="p1-s3-a1" info="p1-s1-t1:p1-s2-t10">
+					<t id="p1-s3-t3" type="GSL1">the</t>
+					<t id="p1-s3-t4" type="GSL1">study</t>
+				</anaphor>
+				<t id="p1-s3-t5" type="GSL1">this</t>
+				<t id="p1-s3-t6" type="GSL1">Friday</t>
+				<punc>.</punc>
+			</sentence>
+		</paragraph>
+		<paragraph id="p2">
+			<sentence par-function="topic" id="p2-s1">
+				<connector id="p2-s1-c1" type="elaboration" info="p1-s3-t1:p1-s3-t6,p2-s1-t2:p2-s1-t23">
+					<t id="p2-s1-t1" type="GSL1">Also</t>
+				</connector>
+				<t id="p2-s1-t2" type="GSL1">on</t>
+				<t id="p2-s1-t3" type="GSL1">Friday</t>
+				<punc>,</punc>
+				<emph>
+					<t id="p2-s1-t4" type="GSL1">Science</t>
+				</emph>
+				<t id="p2-s1-t5" type="AWL">published</t>
+				<t id="p2-s1-t6" type="GSL1">a</t>
+				<t id="p2-s1-t7" type="GSL1">report</t>
+				<t id="p2-s1-t8" type="GSL1">of</t>
+				<t id="p2-s1-t9" type="GSL1">a</t>
+				<t id="p2-s1-t10">Cornell</t>
+				<t id="p2-s1-t11" type="GSL1">University</t>
+				<punc>-</punc>
+				<t id="p2-s1-t12" type="GSL1">led</t>
+				<t id="p2-s1-t13" type="AWL">research</t>
+				<t id="p2-s1-t14" type="AWL">team</t>
+				<t id="p2-s1-t15" type="GSL1">on</t>
+				<t id="p2-s1-t16" type="GSL1">applications</t>
+				<t id="p2-s1-t17" type="GSL1">of</t>
+				<t id="p2-s1-t18">origami</t>
+				<t id="p2-s1-t19" type="GSL1">in</t>
+				<t id="p2-s1-t20" type="AWL">design</t>
+				<t id="p2-s1-t21" type="GSL1">of</t>
+				<t id="p2-s1-t22">programmable</t>
+				<t id="p2-s1-t23" parts="meta+material+s">metamaterials</t>
+				<punc>.</punc>
+			</sentence>
+		</paragraph>
+		<paragraph id="p3">
+			<sentence par-function="topic" id="p3-s1">
+				<t id="p3-s1-t1" type="GSL1">As</t>
+				<emph>
+					<t id="p3-s1-t2" type="GSL1">The</t>
+					<t id="p3-s1-t3">Guardian</t>
+				</emph>
+				<connector id="p3-s1-c1" type="attribution" info="p3-s1-t2:p3-s1-t3,p3-s1-t5:p3-s1-t42">
+					<t id="p3-s1-t4" type="GSL1">reported</t>
+				</connector>
+				<punc>,</punc>
+				<t id="p3-s1-t5">MIT</t>
+				<punc>–</punc>
+				<t id="p3-s1-t6">Harvard</t>
+				<t id="p3-s1-t7" type="AWL">team</t>
+				<t id="p3-s1-t8" type="GSL1">lead</t>
+				<t id="p3-s1-t9" type="AWL">author</t>
+				<t id="p3-s1-t10">Sam</t>
+				<t id="p3-s1-t11">Felton</t>
+				<punc>,</punc>
+				<t id="p3-s1-t12" type="GSL1">a</t>
+				<t id="p3-s1-t13">Harvard</t>
+				<t id="p3-s1-t14" type="GSL1">University</t>
+				<t id="p3-s1-t15">Ph.D.</t>
+				<t id="p3-s1-t16">candidate</t>
+				<punc>,</punc>
+				<t id="p3-s1-t17" type="GSL1">priced</t>
+				<t id="p3-s1-t18" type="GSL1">the</t>
+				<t id="p3-s1-t19" type="GSL1">manufacturing</t>
+				<t id="p3-s1-t20" type="AWL">equipment</t>
+				<t id="p3-s1-t21" type="GSL1">for</t>
+				<anaphor id="p3-s1-a1" info="p1-s2-t6:p1-s2-t7">
+					<t id="p3-s1-t22" type="GSL1">the</t>
+					<t id="p3-s1-t23">robot</t>
+				</anaphor>
+				<t id="p3-s1-t24" type="GSL1">at</t>
+				<t id="p3-s1-t25">$3,000</t>
+				<punc>,</punc>
+				<t id="p3-s1-t26" type="GSL1">which</t>
+				<t id="p3-s1-t27" type="GSL1">could</t>
+				<t id="p3-s1-t28" type="GSL1">then</t>
+				<t id="p3-s1-t29" type="GSL1">make</t>
+				<t id="p3-s1-t30" type="GSL1">each</t>
+				<t id="p3-s1-t31" type="AWL">individual</t>
+				<t id="p3-s1-t32" type="GSL1">unit</t>
+				<punc>—</punc>
+				<t id="p3-s1-t33" type="GSL1">a</t>
+				<t id="p3-s1-t34">13</t>
+				<t id="p3-s1-t35">cm</t>
+				<punc>-</punc>
+				<t id="p3-s1-t36" type="GSL1">long</t>
+				<punc>,</punc>
+				<t id="p3-s1-t37" parts="trans+form+er">Transformer</t>
+				<punc>-</punc>
+				<t id="p3-s1-t38" type="GSL1">like</t>
+				<t id="p3-s1-t39">robot</t>
+				<punc>—</punc>
+				<t id="p3-s1-t40" type="GSL1">for</t>
+				<t id="p3-s1-t41" type="GSL1">about</t>
+				<t id="p3-s1-t42">$100</t>
+				<punc>.</punc>
+			</sentence>
+		</paragraph>
+		<paragraph id="p4">
+			<sentence par-function="topic" id="p4-s1">
+				<t id="p4-s1-t1" type="GSL1">As</t>
+				<connector id="p4-s1-c1" type="attribution" info="p4-s1-t4:p4-s1-t5,p4-s1-t6:p4-s1-t34">
+					<t id="p4-s1-t2" type="GSL1">described</t>
+				</connector>
+				<t id="p4-s1-t3" type="GSL1">by</t>
+				<t id="p4-s1-t4">MIT</t>
+				<t id="p4-s1-t5" type="AWL">researchers</t>
+				<punc>,</punc>
+				<t id="p4-s1-t6" type="GSL1">the</t>
+				<t id="p4-s1-t7" type="AWL">initially</t>
+				<t id="p4-s1-t8" type="GSL2">flat</t>
+				<t id="p4-s1-t9" type="GSL2">sheet</t>
+				<t id="p4-s1-t10" type="AWL">consists</t>
+				<t id="p4-s1-t11" type="GSL1">of</t>
+				<t id="p4-s1-t12" type="GSL1">five</t>
+				<t id="p4-s1-t13" type="AWL">layers</t>
+				<punc>:</punc>
+				<t id="p4-s1-t14" type="GSL2">copper</t>
+				<t id="p4-s1-t15" type="GSL2">wires</t>
+				<t id="p4-s1-t16" type="GSL1">in</t>
+				<t id="p4-s1-t17" type="GSL1">the</t>
+				<t id="p4-s1-t18" type="GSL1">middle</t>
+				<punc>,</punc>
+				<t id="p4-s1-t19" type="GSL1">then</t>
+				<t id="p4-s1-t20" type="GSL1">two</t>
+				<t id="p4-s1-t21" type="AWL">layers</t>
+				<t id="p4-s1-t22" type="GSL1">of</t>
+				<t id="p4-s1-t23" type="GSL1">paper</t>
+				<punc>(</punc>
+				<t id="p4-s1-t24" type="GSL1">above</t>
+				<t id="p4-s1-t25" type="GSL1">and</t>
+				<t id="p4-s1-t26" type="GSL1">below</t>
+				<punc>)</punc>
+				<punc>,</punc>
+				<t id="p4-s1-t27" type="GSL1">and</t>
+				<t id="p4-s1-t28" type="GSL1">two</t>
+				<t id="p4-s1-t29" type="GSL1">outer</t>
+				<t id="p4-s1-t30" type="AWL">layers</t>
+				<t id="p4-s1-t31" type="GSL1">of</t>
+				<t id="p4-s1-t32" type="GSL1">shape</t>
+				<t id="p4-s1-t33" type="GSL1">memory</t>
+				<t id="p4-s1-t34">polymer</t>
+				<punc>.</punc>
+			</sentence>
+			<sentence par-function="supporting" id="p4-s2">
+				<t id="p4-s2-t1" type="GSL1">The</t>
+				<t id="p4-s2-t2">embedded</t>
+				<t id="p4-s2-t3" type="GSL1">heating</t>
+				<t id="p4-s2-t4">circuits</t>
+				<t id="p4-s2-t5">activate</t>
+				<anaphor id="p4-s2-a1" info="p3-s1-t22:p3-s1-t23">
+					<t id="p4-s2-t6" type="GSL1">the</t>
+					<t id="p4-s2-t7">robot&apos;s</t>
+				</anaphor>
+				<t id="p4-s2-t8" type="GSL2">self</t>
+				<punc>-</punc>
+				<t id="p4-s2-t9" type="GSL2">folding</t>
+				<t id="p4-s2-t10" type="GSL1">by</t>
+				<t id="p4-s2-t11" type="GSL1">heating</t>
+				<t id="p4-s2-t12" type="GSL1">shape</t>
+				<t id="p4-s2-t13" type="GSL1">memory</t>
+				<t id="p4-s2-t14">polymers</t>
+				<t id="p4-s2-t15" type="GSL1">at</t>
+				<t id="p4-s2-t16" type="GSL1">the</t>
+				<t id="p4-s2-t17">hinges</t>
+				<punc>.</punc>
+			</sentence>
+			<sentence par-function="supporting" id="p4-s3">
+				<t id="p4-s3-t1" type="GSL1">The</t>
+				<t id="p4-s3-t2" type="AWL">parameters</t>
+				<t id="p4-s3-t3" type="AWL">defining</t>
+				<t id="p4-s3-t4" type="GSL1">the</t>
+				<t id="p4-s3-t5" type="GSL2">fold</t>
+				<t id="p4-s3-t6" type="GSL2">pattern</t>
+				<t id="p4-s3-t7" type="GSL1">which</t>
+				<t id="p4-s3-t8" type="GSL1">determines</t>
+				<t id="p4-s3-t9" type="GSL1">the</t>
+				<t id="p4-s3-t10" type="AWL">final</t>
+				<t id="p4-s3-t11">3D</t>
+				<t id="p4-s3-t12" type="GSL1">shape</t>
+				<t id="p4-s3-t13" type="GSL1">are</t>
+				<t id="p4-s3-t14">placement</t>
+				<t id="p4-s3-t15" type="GSL1">of</t>
+				<t id="p4-s3-t16" type="GSL1">the</t>
+				<t id="p4-s3-t17" type="GSL2">self</t>
+				<punc>-</punc>
+				<t id="p4-s3-t18" type="GSL2">folding</t>
+				<t id="p4-s3-t19">hinges</t>
+				<punc>,</punc>
+				<t id="p4-s3-t20" type="GSL1">and</t>
+				<t id="p4-s3-t21" type="GSL1">the</t>
+				<t id="p4-s3-t22" type="GSL1">order</t>
+				<t id="p4-s3-t23" type="GSL1">of</t>
+				<anaphor id="p4-s3-a1" info="p4-s3-t16:p4-s3-t19">
+					<t id="p4-s3-t24" type="GSL1">their</t>
+				</anaphor>
+				<t id="p4-s3-t25" type="AWL">triggering</t>
+				<punc>.</punc>
+			</sentence>
+			<sentence par-function="supporting" id="p4-s4">
+				<t id="p4-s4-t1">Felton</t>
+				<connector id="p4-s4-c1" type="attribution" info="p4-s4-t1:p4-s4-t1,p4-s4-t4:p4-s4-1-t17">
+					<t id="p4-s4-t2" type="GSL1">told</t>
+					<t id="p4-s4-t3" type="GSL1">about</t>
+				</connector>
+				<t id="p4-s4-t4" type="AWL">creation</t>
+				<t id="p4-s4-t5" type="GSL1">of</t>
+				<anaphor id="p4-s4-a1" info="p4-s3-t4:p4-s3-t6">
+					<t id="p4-s4-t6" type="GSL1">the</t>
+					<t id="p4-s4-t7" type="GSL2">pattern</t>
+				</anaphor>
+				<punc>:</punc>
+				<punc>&#8220;</punc>
+				<sentence par-function="supporting" id="p4-s4-1">
+					<t id="p4-s4-1-t1" type="AWL">Cyclic</t>
+					<t id="p4-s4-1-t2" type="GSL2">folds</t>
+					<t id="p4-s4-1-t3" type="GSL1">are</t>
+					<t id="p4-s4-1-t4" type="GSL1">used</t>
+					<t id="p4-s4-1-t5" type="GSL1">by</t>
+					<t id="p4-s4-1-t6" type="GSL1">a</t>
+					<t id="p4-s4-1-t7">software</t>
+					<t id="p4-s4-1-t8" type="GSL2">program</t>
+					<t id="p4-s4-1-t9" type="GSL1">called</t>
+					<punc>&apos;</punc>
+					<term id="p4-s4-1-e1" info="p4-s4-1-t6:p4-s4-1-t8">
+						<t id="p4-s4-1-t10" parts="origami+ize+er">Origamizer</t>
+					</term>
+					<punc>&apos;</punc>
+					<t id="p4-s4-1-t11" type="GSL1">as</t>
+					<t id="p4-s4-1-t12" type="GSL1">building</t>
+					<t id="p4-s4-1-t13" type="GSL2">blocks</t>
+					<t id="p4-s4-1-t14" type="GSL1">to</t>
+					<t id="p4-s4-1-t15" type="AWL">create</t>
+					<t id="p4-s4-1-t16" type="GSL1">any</t>
+					<t id="p4-s4-1-t17">polyhedron</t>
+					<punc>.</punc>
+				</sentence>
+				<sentence par-function="supporting" id="p4-s4-2">
+					<t id="p4-s4-2-t1" type="GSL1">We&apos;ve</t>
+					<t id="p4-s4-2-t2" type="GSL1">discovered</t>
+					<t id="p4-s4-2-t3" type="GSL1">that</t>
+					<t id="p4-s4-2-t4" type="GSL1">we</t>
+					<t id="p4-s4-2-t5" type="GSL1">can</t>
+					<punc>[...]</punc>
+					<t id="p4-s4-2-t6" type="AWL">create</t>
+					<t id="p4-s4-2-t7" type="GSL1">a</t>
+					<t id="p4-s4-2-t8" type="GSL1">wide</t>
+					<t id="p4-s4-2-t9" type="GSL1">variety</t>
+					<t id="p4-s4-2-t10" type="GSL1">of</t>
+					<t id="p4-s4-2-t11" type="AWL">structures</t>
+					<t id="p4-s4-2-t12" type="GSL1">and</t>
+					<t id="p4-s4-2-t13" type="GSL1">machines</t>
+					<punc>.</punc>
+				</sentence>
+				<punc>&#8221;</punc>
+			</sentence>
+		</paragraph>
+		<paragraph id="p5">
+			<sentence par-function="topic" id="p5-s1">
+				<connector id="p5-s1-c1" type="temporal sequence" info="p5-s1-t2:p5-s1-t8,p5-s1-t9:p5-s1-t39">
+					<t id="p5-s1-t1" type="GSL1">Once</t>
+				</connector>
+				<t id="p5-s1-t2" type="GSL1">the</t>
+				<t id="p5-s1-t3">battery</t>
+				<t id="p5-s1-t4" type="GSL1">is</t>
+				<t id="p5-s1-t5" type="AWL">attached</t>
+				<t id="p5-s1-t6" type="GSL1">to</t>
+				<t id="p5-s1-t7" type="GSL1">the</t>
+				<t id="p5-s1-t8" type="AWL">design</t>
+				<punc>,</punc>
+				<anaphor id="p5-s1-a1" info="p4-s2-t6:p4-s2-t7">
+					<t id="p5-s1-t9" type="GSL1">the</t>
+					<t id="p5-s1-t10">robot</t>
+				</anaphor>
+				<t id="p5-s1-t11" type="GSL2">folds</t>
+				<t id="p5-s1-t12" type="GSL1">itself</t>
+				<t id="p5-s1-t13" type="GSL1">into</t>
+				<t id="p5-s1-t14" type="GSL1">the</t>
+				<t id="p5-s1-t15">pre</t>
+				<punc>-</punc>
+				<t id="p5-s1-t16" type="GSL1">determined</t>
+				<t id="p5-s1-t17" type="GSL1">shape</t>
+				<t id="p5-s1-t18" type="GSL1">and</t>
+				<t id="p5-s1-t19" type="GSL1">walks</t>
+				<t id="p5-s1-t20" type="GSL1">away</t>
+				<punc>,</punc>
+				<t id="p5-s1-t21" type="GSL1">with</t>
+				<t id="p5-s1-t22" type="GSL2">motion</t>
+				<t id="p5-s1-t23" type="GSL1">of</t>
+				<t id="p5-s1-t24" type="GSL1">the</t>
+				<t id="p5-s1-t25" type="GSL1">four</t>
+				<punc>-</punc>
+				<t id="p5-s1-t26">legged</t>
+				<t id="p5-s1-t27">robot</t>
+				<t id="p5-s1-t28" type="GSL1">controlled</t>
+				<t id="p5-s1-t29" type="GSL1">by</t>
+				<t id="p5-s1-t30" type="GSL1">the</t>
+				<t id="p5-s1-t31" type="GSL1">included</t>
+				<t id="p5-s1-t32" parts="micro-process+or">microprocessor</t>
+				<t id="p5-s1-t33" type="GSL1">and</t>
+				<t id="p5-s1-t34" type="GSL1">two</t>
+				<t id="p5-s1-t35" type="GSL1">small</t>
+				<t id="p5-s1-t36" type="GSL1">motors</t>
+				<t id="p5-s1-t37" parts="syn+chron+ise+ed">synchronised</t>
+				<t id="p5-s1-t38" type="GSL1">by</t>
+				<anaphor id="p5-s1-a2" info="p5-s1-t30:p5-s1-t32">
+					<t id="p5-s1-t39" type="GSL1">it</t>
+				</anaphor>
+				<punc>.</punc>
+			</sentence>
+			<sentence par-function="supporting" id="p5-s2">
+				<t id="p5-s2-t1" type="GSL1">Each</t>
+				<t id="p5-s2-t2" type="GSL1">of</t>
+				<anaphor id="p5-s2-a1" info="p5-s1-t25:p5-s1-t26">
+					<t id="p5-s2-t3" type="GSL1">the</t>
+					<t id="p5-s2-t4" type="GSL1">four</t>
+					<t id="p5-s2-t5" type="GSL2">legs</t>
+				</anaphor>
+				<t id="p5-s2-t6" type="GSL1">has</t>
+				<t id="p5-s2-t7" type="GSL1">eight</t>
+				<punc>&#8220;</punc>
+				<t id="p5-s2-t8" type="AWL" parts="link+age+s">linkages</t>
+				<punc>&#8221;</punc>
+				<t id="p5-s2-t9" type="GSL1">which</t>
+				<t id="p5-s2-t10" type="AWL">convert</t>
+				<t id="p5-s2-t11" type="GSL1">the</t>
+				<t id="p5-s2-t12" type="GSL1">force</t>
+				<t id="p5-s2-t13" type="GSL1">applied</t>
+				<t id="p5-s2-t14" type="GSL1">by</t>
+				<t id="p5-s2-t15" type="GSL1">a</t>
+				<t id="p5-s2-t16" type="GSL1">motor</t>
+				<t id="p5-s2-t17" type="GSL1">into</t>
+				<t id="p5-s2-t18" type="GSL2">motion</t>
+				<punc>.</punc>
+			</sentence>
+			<sentence par-function="supporting" id="p5-s3">
+				<punc>&#8220;</punc>
+				<anaphor id="p5-s3-a1" info="p5-s2-t1:p5-s2-t18">
+					<t id="p5-s3-t1" type="GSL1">It</t>
+				</anaphor>
+				<t id="p5-s3-t2" type="GSL1">lets</t>
+				<t id="p5-s3-t3" type="GSL1">you</t>
+				<t id="p5-s3-t4" type="AWL">transfer</t>
+				<t id="p5-s3-t5" type="GSL1">just</t>
+				<t id="p5-s3-t6" type="GSL1">one</t>
+				<t id="p5-s3-t7" type="GSL1">degree</t>
+				<t id="p5-s3-t8" type="GSL1">of</t>
+				<t id="p5-s3-t9" type="GSL1">freedom</t>
+				<t id="p5-s3-t10" type="GSL1">into</t>
+				<t id="p5-s3-t11" type="GSL1">a</t>
+				<t id="p5-s3-t12" type="GSL1">whole</t>
+				<t id="p5-s3-t13" type="GSL2">complicated</t>
+				<t id="p5-s3-t14" type="GSL2">motion</t>
+				<punc>,</punc>
+				<t id="p5-s3-t15" type="GSL1">all</t>
+				<t id="p5-s3-t16" type="GSL1">through</t>
+				<t id="p5-s3-t17" type="GSL1">the</t>
+				<t id="p5-s3-t18" type="GSL2">mechanics</t>
+				<t id="p5-s3-t19" type="GSL1">of</t>
+				<t id="p5-s3-t20" type="GSL1">the</t>
+				<t id="p5-s3-t21" type="AWL">structure</t>
+				<punc>,</punc>
+				<punc>&#8221;</punc>
+				<connector id="p5-s3-c1" type="attribution" info="p5-s3-t1:p5-s3-t21,p5-s3-t23:p5-s3-t32">
+					<t id="p5-s3-t22" type="GSL1">says</t>
+				</connector>
+				<t id="p5-s3-t23" parts="co+author">coauthor</t>
+				<t id="p5-s3-t24">Erik</t>
+				<t id="p5-s3-t25">Demaine</t>
+				<punc>,</punc>
+				<t id="p5-s3-t26">MIT</t>
+				<t id="p5-s3-t27">professor</t>
+				<t id="p5-s3-t28" type="GSL1">of</t>
+				<t id="p5-s3-t29" type="AWL">computer</t>
+				<t id="p5-s3-t30" type="GSL1">science</t>
+				<t id="p5-s3-t31" type="GSL1">and</t>
+				<t id="p5-s3-t32" type="GSL2">engineering</t>
+				<punc>.</punc>
+			</sentence>
+		</paragraph>
+		<paragraph id="p6">
+			<sentence par-function="topic" id="p6-s1">
+				<anaphor id="p6-s1-a1" info="p5-s1-t24:p5-s1-t27">
+					<t id="p6-s1-t1" type="GSL1">The</t>
+					<t id="p6-s1-t2">robot</t>
+				</anaphor>
+				<t id="p6-s1-t3" type="GSL1">moved</t>
+				<t id="p6-s1-t4" type="GSL2">during</t>
+				<t id="p6-s1-t5" type="GSL1">testing</t>
+				<t id="p6-s1-t6" type="GSL1">at</t>
+				<t id="p6-s1-t7" type="GSL1">about</t>
+				<t id="p6-s1-t8">5.4</t>
+				<t id="p6-s1-t9">centimeters</t>
+				<t id="p6-s1-t10" type="GSL1">per</t>
+				<t id="p6-s1-t11" type="GSL1">second</t>
+				<punc>,</punc>
+				<t id="p6-s1-t12" type="GSL1">over</t>
+				<t id="p6-s1-t13" type="GSL1">a</t>
+				<t id="p6-s1-t14">pre</t>
+				<punc>-</punc>
+				<t id="p6-s1-t15" type="GSL1">determined</t>
+				<t id="p6-s1-t16" type="AWL">route</t>
+				<punc>,</punc>
+				<t id="p6-s1-t17" type="GSL1">not</t>
+				<t id="p6-s1-t18" type="GSL1">just</t>
+				<t id="p6-s1-t19" type="GSL1">a</t>
+				<t id="p6-s1-t20" type="GSL2">straight</t>
+				<t id="p6-s1-t21" type="GSL1">line</t>
+				<punc>—</punc>
+				<t id="p6-s1-t22" type="GSL1">without</t>
+				<t id="p6-s1-t23" type="GSL1">any</t>
+				<t id="p6-s1-t24" type="GSL1">outside</t>
+				<t id="p6-s1-t25" type="AWL">assistance</t>
+				<punc>.</punc>
+			</sentence>
+			<sentence par-function="supporting" id="p6-s2">
+				<t id="p6-s2-t1">Marc</t>
+				<t id="p6-s2-t2">Lavine</t>
+				<punc>,</punc>
+				<t id="p6-s2-t3" type="GSL1">a</t>
+				<t id="p6-s2-t4">senior</t>
+				<emph>
+					<t id="p6-s2-t5" type="GSL1">Science</t>
+				</emph>
+				<t id="p6-s2-t6" type="AWL">editor</t>
+				<punc>,</punc>
+				<connector id="p6-s2-c1" type="attribution" info="p6-s2-t1:p6-s2-t6,p6-s2-t8:p6-s2-t33">
+					<t id="p6-s2-t7" type="GSL1">suggested</t>
+				</connector>
+				<anaphor id="p6-s2-a1" info="p6-s1-t1:p6-s1-t2">
+					<t id="p6-s2-t8" type="GSL1">such</t>
+					<t id="p6-s2-t9">robots</t>
+				</anaphor>
+				<t id="p6-s2-t10" type="GSL1">might</t>
+				<t id="p6-s2-t11" type="GSL1">be</t>
+				<t id="p6-s2-t12" type="GSL1">put</t>
+				<t id="p6-s2-t13" type="GSL1">in</t>
+				<t id="p6-s2-t14" type="GSL1">place</t>
+				<punc>&#8220;</punc>
+				<t id="p6-s2-t15" type="GSL1">through</t>
+				<t id="p6-s2-t16" type="GSL1">a</t>
+				<t id="p6-s2-t17" type="AWL">confined</t>
+				<t id="p6-s2-t18">passageway</t>
+				<punc>,</punc>
+				<t id="p6-s2-t19" type="GSL1">such</t>
+				<t id="p6-s2-t20" type="GSL1">as</t>
+				<t id="p6-s2-t21" type="GSL1">a</t>
+				<t id="p6-s2-t22" type="AWL">collapsed</t>
+				<t id="p6-s2-t23" type="GSL1">building</t>
+				<punc>,</punc>
+				<connector id="p6-s2-c2" type="temporal sequence" info="p6-s2-t8:p6-s2-t23,p6-s2-t26:p6-s2-t33">
+					<t id="p6-s2-t24" type="GSL1">after</t>
+				</connector>
+				<t id="p6-s2-t25" type="GSL1">which</t>
+				<t id="p6-s2-t26" type="GSL1">they</t>
+				<t id="p6-s2-t27" type="GSL1">would</t>
+				<t id="p6-s2-t28" type="AWL">assemble</t>
+				<t id="p6-s2-t29" type="GSL1">into</t>
+				<anaphor id="p6-s2-a2" info="p6-s2-t8:p6-s2-t9">
+					<t id="p6-s2-t30" type="GSL1">their</t>
+				</anaphor>
+				<t id="p6-s2-t31" type="AWL">final</t>
+				<t id="p6-s2-t32" type="GSL1">form</t>
+				<t id="p6-s2-t33" parts="auto+nom+ous+ly">autonomously</t>
+				<punc>&#8221;</punc>
+				<punc>.</punc>
+			</sentence>
+		</paragraph>
+		<paragraph id="p7">
+			<sentence par-function="topic" id="p7-s1">
+				<t id="p7-s1-t1" type="GSL1">The</t>
+				<t id="p7-s1-t2" type="GSL2">folding</t>
+				<t id="p7-s1-t3" type="GSL2">pattern</t>
+				<t id="p7-s1-t4" type="GSL1">studied</t>
+				<t id="p7-s1-t5" type="GSL1">by</t>
+				<t id="p7-s1-t6" type="GSL1">the</t>
+				<t id="p7-s1-t7">Cornell</t>
+				<punc>-</punc>
+				<t id="p7-s1-t8" type="GSL1">led</t>
+				<t id="p7-s1-t9" type="AWL">research</t>
+				<t id="p7-s1-t10" type="AWL">team</t>
+				<t id="p7-s1-t11" type="GSL1">is</t>
+				<t id="p7-s1-t12" type="GSL1">well</t>
+				<punc>-</punc>
+				<t id="p7-s1-t13" type="GSL1">known</t>
+				<t id="p7-s1-t14" type="GSL1">in</t>
+				<t id="p7-s1-t15">origami</t>
+				<t id="p7-s1-t16" type="GSL1">as</t>
+				<term id="p7-s1-e1" info="p7-s1-t1:p7-s1-t10">
+					<t id="p7-s1-t17">Miura-ori</t>
+				</term>
+				<punc>,</punc>
+				<t id="p7-s1-t18" type="GSL1">whose</t>
+				<t id="p7-s1-t19" type="GSL1">unusual</t>
+				<t id="p7-s1-t20" type="GSL2">engineering</t>
+				<t id="p7-s1-t21" type="GSL1">properties</t>
+				<t id="p7-s1-t22" type="GSL1">caught</t>
+				<t id="p7-s1-t23" type="GSL1">the</t>
+				<t id="p7-s1-t24" type="GSL2">attention</t>
+				<t id="p7-s1-t25" type="GSL1">of</t>
+				<t id="p7-s1-t26" type="AWL">team</t>
+				<t id="p7-s1-t27" type="GSL1">member</t>
+				<t id="p7-s1-t28">Chris</t>
+				<t id="p7-s1-t29">Santangelo</t>
+				<t id="p7-s1-t30" type="GSL1">of</t>
+				<t id="p7-s1-t31" type="GSL1">the</t>
+				<t id="p7-s1-t32" type="GSL1">University</t>
+				<t id="p7-s1-t33" type="GSL1">of</t>
+				<t id="p7-s1-t34">Massachusetts</t>
+				<t id="p7-s1-t35">Amherst</t>
+				<punc>.</punc>
+			</sentence>
+		</paragraph>
+		<paragraph id="p8">
+			<sentence par-function="topic" id="p8-s1">
+				<t id="p8-s1-t1">Cornell</t>
+				<t id="p8-s1-t2" type="GSL1">University</t>
+				<t id="p8-s1-t3" type="GSL1">lead</t>
+				<t id="p8-s1-t4" type="AWL">author</t>
+				<t id="p8-s1-t5">Jesse</t>
+				<t id="p8-s1-t6">Silverberg</t>
+				<t id="p8-s1-t7" type="AWL">commented</t>
+				<t id="p8-s1-t8" type="GSL1">on</t>
+				<t id="p8-s1-t9" type="AWL">potential</t>
+				<t id="p8-s1-t10" type="GSL1">of</t>
+				<t id="p8-s1-t11">origami</t>
+				<punc>-</punc>
+				<t id="p8-s1-t12" type="GSL1">based</t>
+				<t id="p8-s1-t13" type="GSL2">engineering</t>
+				<punc>:</punc>
+				<punc>&#8220;</punc>
+				<t id="p8-s1-t14" type="GSL1">When</t>
+				<t id="p8-s1-t15" type="AWL">incorporated</t>
+				<t id="p8-s1-t16" type="GSL1">into</t>
+				<t id="p8-s1-t17" type="GSL1">more</t>
+				<t id="p8-s1-t18" type="AWL">complex</t>
+				<t id="p8-s1-t19" type="AWL">devices</t>
+				<punc>,</punc>
+				<anaphor id="p8-s1-a1" info="p8-s1-t11:p8-s1-t13">
+					<t id="p8-s1-t20" type="GSL1">these</t>
+					<t id="p8-s1-t21" type="GSL1">materials</t>
+				</anaphor>
+				<t id="p8-s1-t22" type="GSL1">will</t>
+				<t id="p8-s1-t23" type="AWL">enable</t>
+				<t id="p8-s1-t24" type="GSL1">on</t>
+				<punc>-</punc>
+				<t id="p8-s1-t25" type="GSL1">the</t>
+				<punc>-</punc>
+				<t id="p8-s1-t26" type="GSL1">fly</t>
+				<t id="p8-s1-t27" type="AWL" parts="trans+form+ation">transformation</t>
+				<t id="p8-s1-t28" type="GSL1">of</t>
+				<t id="p8-s1-t29" type="GSL2">mechanical</t>
+				<t id="p8-s1-t30" type="AWL">function</t>
+				<punc>.</punc>
+			</sentence>
+			<sentence par-function="supporting" id="p8-s2">
+				<t id="p8-s2-t1" type="GSL1">We</t>
+				<t id="p8-s2-t2" parts="en+vision">envision</t>
+				<t id="p8-s2-t3" type="GSL2">combining</t>
+				<anaphor id="p8-s2-a1" info="p8-s1-t20:p8-s1-t21">
+					<t id="p8-s2-t4" type="GSL1">these</t>
+					<t id="p8-s2-t5">origami</t>
+					<punc>-</punc>
+					<t id="p8-s2-t6">inspired</t>
+					<t id="p8-s2-t7" type="GSL1">materials</t>
+				</anaphor>
+				<t id="p8-s2-t8" type="GSL1">with</t>
+				<t id="p8-s2-t9" type="AWL">computer</t>
+				<punc>-</punc>
+				<t id="p8-s2-t10" type="GSL1">controlled</t>
+				<t id="p8-s2-t11">actuators</t>
+				<t id="p8-s2-t12" type="GSL1">to</t>
+				<t id="p8-s2-t13" type="GSL1">build</t>
+				<t id="p8-s2-t14" type="GSL1">more</t>
+				<t id="p8-s2-t15" type="AWL">complex</t>
+				<t id="p8-s2-t16" type="GSL1">machines</t>
+				<punc>,</punc>
+				<t id="p8-s2-t17" type="GSL1">such</t>
+				<t id="p8-s2-t18" type="GSL1">as</t>
+				<t id="p8-s2-t19" type="GSL1">hardening</t>
+				<t id="p8-s2-t20" type="GSL2">shells</t>
+				<punc>,</punc>
+				<t id="p8-s2-t21" type="GSL2">locked</t>
+				<punc>-</punc>
+				<t id="p8-s2-t22" type="GSL1">in</t>
+				<t id="p8-s2-t23" type="GSL1">joints</t>
+				<t id="p8-s2-t24" type="GSL1">and</t>
+				<t id="p8-s2-t25">deployable</t>
+				<t id="p8-s2-t26">barriers</t>
+				<punc>;</punc>
+				<connector id="p8-s2-c1" type="temporal sequence" info="p8-s2-t1:p8-s2-t26,p8-s2-t29:p8-s2-t56">
+					<t id="p8-s2-t27" type="GSL1">and</t>
+					<t id="p8-s2-t28" type="AWL">ultimately</t>
+				</connector>
+				<punc>,</punc>
+				<anaphor id="p8-s2-a2" info="p8-s2-t4:p8-s2-t7">
+					<t id="p8-s2-t29" type="GSL1">this</t>
+					<t id="p8-s2-t30" parts="trans+form+er">transformer</t>
+					<t id="p8-s2-t31" type="AWL">technology</t>
+				</anaphor>
+				<t id="p8-s2-t32" type="GSL1">will</t>
+				<t id="p8-s2-t33" type="AWL">revolutionize</t>
+				<t id="p8-s2-t34" type="GSL1">the</t>
+				<t id="p8-s2-t35" type="GSL1">way</t>
+				<t id="p8-s2-t36" type="GSL1">we</t>
+				<t id="p8-s2-t37" type="GSL1">think</t>
+				<t id="p8-s2-t38" type="GSL1">about</t>
+				<t id="p8-s2-t39" type="GSL1">materials</t>
+				<punc>,</punc>
+				<t id="p8-s2-t40" type="GSL1">moving</t>
+				<anaphor id="p8-s2-a3" info="p8-s2-t39:p8-s2-t39">
+					<t id="p8-s2-t41" type="GSL1">them</t>
+				</anaphor>
+				<t id="p8-s2-t42" type="GSL1">beyond</t>
+				<anaphor id="p8-s2-a4" info="p8-s2-t41:p8-s2-t41">
+					<t id="p8-s2-t43" type="GSL1">their</t>
+				</anaphor>
+				<t id="p8-s2-t44" type="GSL1">current</t>
+				<t id="p8-s2-t45">static</t>
+				<t id="p8-s2-t46" type="GSL1">form</t>
+				<punc>,</punc>
+				<t id="p8-s2-t47" type="GSL1">and</t>
+				<t id="p8-s2-t48" type="AWL">revealing</t>
+				<t id="p8-s2-t49" type="GSL1">more</t>
+				<t id="p8-s2-t50" parts="funct+ion+al+ity">functionality</t>
+				<t id="p8-s2-t51" type="GSL1">than</t>
+				<t id="p8-s2-t52" type="GSL1">what</t>
+				<t id="p8-s2-t53" type="GSL2" parts="origin+al+ly">originally</t>
+				<t id="p8-s2-t54" type="GSL1">meets</t>
+				<t id="p8-s2-t55" type="GSL1">the</t>
+				<t id="p8-s2-t56" type="GSL1">eye</t>
+				<punc>&#8221;</punc>
+				<punc>.</punc>
+			</sentence>
+		</paragraph>
+	</body>
+</document>
