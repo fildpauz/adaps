@@ -1,0 +1,150 @@
+@CHARSET "UTF-8";
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color: silver;	
+	font-style: normal;
+	font-size: 100%;
+	color: black;
+}
+
+#header {
+	text-align: center;
+}
+
+#header p {
+	margin: 1px;
+}
+
+#control-buttons {
+	margin: 0;
+	padding: 1px 1px 5px;
+	text-align: center;
+}
+
+button {
+	margin: 0 2px;
+}
+
+#content {
+	margin: 10px 10px;
+	background-color: white;
+	border: 1px solid black;
+	box-shadow: 3px 3px 5px black;
+	padding: 2px 8px;
+}
+
+#title {
+	margin: 2px 8px;
+}
+
+h1 {
+	text-align: center;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+h2 {
+	font-size: 1.25em;
+	font-weight: bold;
+}
+
+h3 {
+	font-size: 1.1em;
+	font-weight: bold;
+}
+
+.paragraph {
+	margin: 2px 8px 8px;
+	background-color: white;
+	padding: 2px 8px;
+	text-align: justify;
+}
+
+.paragraph-hover {
+	background-color: silver;
+}
+
+.sentence {
+}
+
+.sentence-hover {
+	color: Blue;
+}
+
+.topic {
+	
+}
+
+.topic-highlight {
+	text-decoration: underline !important; /* "important" keyword is not recommended */
+}
+
+.awl {
+	
+}
+
+.awl-highlight {
+	background-color: Khaki !important; /* "important" keyword is not recommended */
+}
+
+.paragraph .sentence .awl a {
+	font-weight: normal;
+}
+
+.paragraph .sentence .awl a:hover {
+	background-color: black;
+	color: Khaki;
+}
+
+.gsl1 {
+	
+}
+
+.gsl1-highlight {
+	background-color: LightGreen !important; /* "important" keyword is not recommended */
+}
+
+.gsl2 {
+	
+}
+
+.gsl2-highlight {
+	background-color: LightSalmon !important; /* "important" keyword is not recommended */
+}
+
+.technical-term {
+	
+}
+
+.term-highlight {
+	background-color: LightBlue !important; /* "important" keyword is not recommended */
+}
+
+.abbreviation {
+	
+}
+
+.abbr-highlight {
+	background-color: Plum !important; /* "important" keyword is not recommended */
+}
+
+.connector {
+	
+}
+
+.connector-highlight {
+	color: Red !important; /* "important" keyword is not recommended */
+}
+
+#citations {
+	margin: 18px 16px 2px;
+	border-top: 1px solid black;
+}
+
+.citation {
+	background-color: white;
+	text-align: left;
+	font-size: 0.8em;
+}
