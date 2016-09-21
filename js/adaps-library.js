@@ -5,6 +5,8 @@
  * and Presentation System (ADAPS)
  */
 
+"use strict";
+
 /*
  * The following function is supposed to take a word and look up its
  * first definition in the Pearson dictionary using their API. However,
@@ -16,7 +18,7 @@ function getPearsonDefinition($word) {
 	var $searchURL = $baseURL + $word;
 	var $result = "definition not found";
 	$.getJSON($searchURL, function(data) {
-		if (data.results[0].senses[0].definition != undefined) {
+		if (data.results[0].senses[0].definition !== undefined) {
 			//alert(data.results[0].senses[0].definition);
 			$result = data.results[0].senses[0].definition;
 		}
@@ -26,11 +28,11 @@ function getPearsonDefinition($word) {
 }
 
 function todaydate(){
-    var today_date= new Date()
-    var myyear=today_date.getYear()
-    var mymonth=today_date.getMonth()+1
-    var mytoday=today_date.getDate()
-    document.write(myyear+"/"+mymonth+"/"+mytoday)
+    var today_date= new Date();
+    var myyear=today_date.getYear();
+    var mymonth=today_date.getMonth()+1;
+    var mytoday=today_date.getDate();
+    document.write(myyear+"/"+mymonth+"/"+mytoday);
 };
 
 $(document).ready(function(){
@@ -51,7 +53,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#awl-button").click(function(){
-    	if ($(this).text() == "AWL on") {
+    	if ($(this).text() === "AWL on") {
     		$(".awl").addClass("awl-highlight");
     		$(this).addClass("awl-highlight");
     		$(this).text("AWL off");
@@ -65,7 +67,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#gsl1-button").click(function(){
-    	if ($(this).text() == "GSL1 on") {
+    	if ($(this).text() === "GSL1 on") {
     		$(".gsl1").addClass("gsl1-highlight");
     		$(this).addClass("gsl1-highlight");
     		$(this).text("GSL1 off");
@@ -79,7 +81,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#gsl2-button").click(function(){
-    	if ($(this).text() == "GSL2 on") {
+    	if ($(this).text() === "GSL2 on") {
     		$(".gsl2").addClass("gsl2-highlight");
     		$(this).addClass("gsl2-highlight");
     		$(this).text("GSL2 off");
@@ -93,7 +95,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#abbr-button").click(function(){
-    	if ($(this).text() == "Abbreviations on") {
+    	if ($(this).text() === "Abbreviations on") {
     		$(".abbreviation").addClass("abbr-highlight");
     		$(this).addClass("abbr-highlight");
     		$(this).text("Abbreviations off");
@@ -107,7 +109,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#term-button").click(function(){
-    	if ($(this).text() == "Technical terms on") {
+    	if ($(this).text() === "Technical terms on") {
     		$(".technical-term").addClass("term-highlight");
     		$(this).addClass("term-highlight");
     		$(this).text("Technical terms off");
@@ -121,7 +123,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#connector-button").click(function(){
-    	if ($(this).text() == "Connectors on") {
+    	if ($(this).text() === "Connectors on") {
     		$(".connector").addClass("connector-highlight");
     		$(this).addClass("connector-highlight");
     		$(this).text("Connectors off");
@@ -135,7 +137,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#topic-button").click(function(){
-    	if ($(this).text() == "Topic sentences on") {
+    	if ($(this).text() === "Topic sentences on") {
     		$(".topic").addClass("topic-highlight");
     		$(this).addClass("topic-highlight");
     		$(this).text("Topic sentences off");
@@ -149,7 +151,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#all-button").click(function(){
-    	if ($(this).text() == "All on") {
+    	if ($(this).text() === "All on") {
     		$(".awl").addClass("awl-highlight");
     		$("#awl-button").addClass("awl-highlight");
     		$("#awl-button").text("AWL off");
@@ -201,7 +203,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $(".awl").mouseenter(function(){
-    	if ($(this).css("background-color") == "rgb(240, 230, 140)") {
+    	if ($(this).css("background-color") === "rgb(240, 230, 140)") {
     		var popupID = "#" + $(this).attr("id") + "-popup";
     		$(this).html("<a href='" + popupID + "' data-rel='popup'>" + $(this).attr("content") + "</a>");
 //    		$(this).html("<a href='#" + $(this).attr("id") + ".popup' data-rel='popup' class='ui-btn ui-btn-inline ui-corner-all'>" + $(this).attr("content") + "</a>");
@@ -209,8 +211,8 @@ $(document).ready(function(){
     		var $baseURL = 'http://api.pearson.com/v2/dictionaries/entries?headword=';
     		var $searchURL = $baseURL + $(this).attr("content");
     		$.getJSON($searchURL, function(data) {
-       			$(popupID).css("background-color", "Khaki")
-    			if (data.results[0].senses[0].definition != undefined) {
+       			$(popupID).css("background-color", "Khaki");
+    			if (data.results[0].senses[0].definition !== undefined) {
     				//alert(data.results[0].senses[0].definition);
     	   			$(popupID).html("<p>" + data.results[0].senses[0].definition + "</p>");
     			} else {
@@ -224,7 +226,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $(".awl").mouseleave(function(){
-    	if ($(this).css("background-color") == "rgb(240, 230, 140)") {
+    	if ($(this).css("background-color") === "rgb(240, 230, 140)") {
     		$(this).text($(this).attr("content"));
     	} else {
     	}
