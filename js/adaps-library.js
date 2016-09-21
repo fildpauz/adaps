@@ -12,7 +12,7 @@
  * 'definition not found'.
  */
 function getPearsonDefinition($word) {
-	var $baseURL = 'http://api.pearson.com/v2/dictionaries/entries?headword=';
+	var $baseURL = 'https://api.pearson.com/v2/dictionaries/entries?headword=';
 	var $searchURL = $baseURL + $word;
 	var $result = "definition not found";
 	$.getJSON($searchURL, function(data) {
@@ -206,7 +206,7 @@ $(document).ready(function(){
     		$(this).html("<a href='" + popupID + "' data-rel='popup'>" + $(this).attr("content") + "</a>");
 //    		$(this).html("<a href='#" + $(this).attr("id") + ".popup' data-rel='popup' class='ui-btn ui-btn-inline ui-corner-all'>" + $(this).attr("content") + "</a>");
 //    		var definition = getPearsonDefinition($(this).attr("content"));
-    		var $baseURL = 'http://api.pearson.com/v2/dictionaries/entries?headword=';
+    		var $baseURL = 'https://api.pearson.com/v2/dictionaries/entries?headword=';
     		var $searchURL = $baseURL + $(this).attr("content");
     		$.getJSON($searchURL, function(data) {
        			$(popupID).css("background-color", "Khaki")
