@@ -34,7 +34,7 @@
                 <xsl:apply-templates select="child::node()" />
             </xsl:element>
         </xsl:element>
-        <xsl:for-each select=".//t[@type='AWL']">
+        <xsl:for-each select=".//t[@type='AWL' or starts-with(@type, 'Coxhead-AWL')]">
             <xsl:variable name="tokenID" select="@id" />
             <xsl:element name="div">
                 <xsl:attribute name="id">
@@ -49,7 +49,7 @@
                 <xsl:attribute name="data-arrow">
                     <xsl:text>t</xsl:text>
                 </xsl:attribute>
-                <xsl:text>This is an AWL word: </xsl:text>
+                <xsl:text>AWL: </xsl:text>
                 <xsl:value-of select="."/>
                 <xsl:text>!</xsl:text>
             </xsl:element>
@@ -76,14 +76,27 @@
 
     <xsl:template match="t">
         <xsl:variable name="tokenID" select="@id" />
-        <xsl:variable name="type" select="@type" />
+        <xsl:variable name="type" select="translate(@type, $uppercase, $lowercase)" />
         <xsl:element name="span">
             <xsl:attribute name="id">
                 <xsl:value-of select="$tokenID" />
             </xsl:attribute>
             <xsl:attribute name="class">
                 <xsl:text>token </xsl:text>
-                <xsl:value-of select="translate($type, $uppercase, $lowercase)" />
+                <xsl:choose>
+                    <xsl:when test="starts-with($type, 'coxhead-awl')">
+                        <xsl:text>awl</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="starts-with($type, 'gsl-1')">
+                        <xsl:text>gsl1</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="starts-with($type, 'gsl-2')">
+                        <xsl:text>gsl2</xsl:text>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:value-of select="$type" />
+                    </xsl:otherwise>
+                </xsl:choose>
             </xsl:attribute>
             <xsl:attribute name="content">
                 <xsl:value-of select="." />
