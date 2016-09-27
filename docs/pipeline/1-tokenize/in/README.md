@@ -28,7 +28,7 @@ With a blank line between paragraphs.
 4. Various characters need to be replaced with entity strings, as follows.
 
 * left and right double quotes: “ &#8220; and ”&#8221;
-* left and right single quotes: ‘ &#145; and ’ &#146;
+* left and right single quotes: ‘ &#8216; and ’ &#8217;
 * apostrophe: ' &apos;
 * less-than or greater-than signs: < &lt; and > &gt;
 
