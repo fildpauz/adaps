@@ -9,5 +9,7 @@ Files in the `in` directory should be copied from the `1-tokenize/out` directory
 
 2. Check that words have been tokenized correctly. The tokenize process uses spacing to decide tokens and may incorrectly characterize the following.
 
+* A footnote symbol or number appears after a word and is included as part of a single token.
 * Math equations and expressions (e.g., "Pi = 3.1415", "2x + y"). Format them as one whole token.
 * Use of long dash might cause two unrelated words to be connected together in one token. Separate words as individual tokens and make the dash a `punc` element.
+* Some very unusual script (foreign/rare characters) may have been undetected and hence excluded from the output.
