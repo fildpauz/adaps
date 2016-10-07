@@ -2,7 +2,7 @@
 
 Files in the `in` directory should adhere to the following formatting conventions so that they will be properly processed by the `tokenize.xsl` script.
 
-1. Filename can be anything, but should end with `.xsl`. However, a simple file name that reflects the content of the would be optimal.
+1. Filename can be anything, but should end with `.xml`. However, a simple file name that reflects the content of the would be optimal.
 
 2. The file must have the following header, according to `xml` conventions.
 
@@ -15,8 +15,10 @@ Files in the `in` directory should adhere to the following formatting convention
 ```
 <document>
 <title>The title of the article/text</title>
-<citation>Full reference information for the article (e.g., author, year, title, where published, url, when downloaded, etc.)</citation>
-<url>A url for the article or its abstract page if the article itself is not openly available</url>
+<citation>Full reference information for the article (e.g., author,
+year, title, where published, url, when downloaded, etc.)</citation>
+<url>A url for the article or its abstract page if the article itself
+is not openly available</url>
 <body>
 The body of the article.
 
