@@ -258,7 +258,9 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t>resulting</t>
 <t>in</t>
 <t>2000</t>
-<t>organisms—an</t>
+<t>organisms</t>
+<punc>—</punc>
+<t>an</t>
 <t>increase</t>
 <t>of</t>
 <t>1000</t>
@@ -321,7 +323,9 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t>the</t>
 <t>population</t>
 <t>growth</t>
-<t>rate—the</t>
+<t>rate</t>
+<punc>—</punc>
+<t>the</t>
 <t>number</t>
 <t>of</t>
 <t>organisms</t>
@@ -329,7 +333,9 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t>in</t>
 <t>each</t>
 <t>reproductive</t>
-<t>generation—is</t>
+<t>generation</t>
+<punc>—</punc>
+<t>is</t>
 <t>accelerating</t>
 <punc>;</punc>
 <t>that</t>
@@ -384,7 +390,9 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t>time</t>
 <punc>,</punc>
 <t>a</t>
-<t>J-shaped</t>
+<t>J</t>
+<punc>-</punc>
+<t>shaped</t>
 <t>growth</t>
 <t>curve</t>
 <t>is</t>
@@ -550,7 +558,8 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t>death</t>
 <t>rate</t>
 <punc>)</punc>
-<t>=dN</t>
+<t>=</t>
+<t>dN</t>
 <punc>(</punc>
 <t>the</t>
 <t>per</t>
@@ -625,7 +634,9 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t>time</t>
 <t>with</t>
 <t>an</t>
-<t>instant-specific</t>
+<t>instant</t>
+<punc>-</punc>
+<t>specific</t>
 <t>measurement</t>
 <t>of</t>
 <t>number</t>
@@ -1092,7 +1103,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t>expression</t>
 <punc>“</punc>
 <t>K</t>
-<t>–</t>
+<punc>–</punc>
 <t>N</t>
 <punc>”</punc>
 <t>is</t>
@@ -1115,7 +1126,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t>and</t>
 <punc>“</punc>
 <t>K</t>
-<t>–</t>
+<punc>–</punc>
 <t>N</t>
 <punc>”</punc>
 <t>divided</t>
@@ -1167,8 +1178,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t>very</t>
 <t>small</t>
 <punc>,</punc>
-<punc>(</punc>
-<t>K-N)/K</t>
+<t>(K-N)/K</t>
 <t>becomes</t>
 <t>close</t>
 <t>to</t>
@@ -1214,8 +1224,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t>is</t>
 <t>large</t>
 <punc>,</punc>
-<punc>(</punc>
-<t>K-N)/K</t>
+<t>(K-N)/K</t>
 <t>come</t>
 <t>close</t>
 <t>to</t>
@@ -1293,8 +1302,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t>the</t>
 <t>value</t>
 <t>of</t>
-<punc>(</punc>
-<t>K-N)/K</t>
+<t>(K-N)/K</t>
 <t>is</t>
 <t>negative</t>
 <punc>)</punc>
@@ -1310,7 +1318,9 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t>equation</t>
 <t>yields</t>
 <t>an</t>
-<t>S-shaped</t>
+<t>S</t>
+<punc>-</punc>
+<t>shaped</t>
 <t>curve</t>
 <punc>(</punc>
 <t>Figure</t>
@@ -1339,7 +1349,9 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t>sections</t>
 <t>to</t>
 <t>an</t>
-<t>S-shaped</t>
+<t>S</t>
+<punc>-</punc>
+<t>shaped</t>
 <t>curve</t>
 <punc>.</punc>
 </sentence>
@@ -1550,7 +1562,9 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t>below</t>
 <t>their</t>
 <t>carrying</t>
-<t>capacity—resources</t>
+<t>capacity</t>
+<punc>—</punc>
+<t>resources</t>
 <t>are</t>
 <t>plentiful</t>
 <t>and</t>
@@ -1612,7 +1626,9 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t>exhibits</t>
 <t>the</t>
 <t>classical</t>
-<t>S-shaped</t>
+<t>S</t>
+<punc>-</punc>
+<t>shaped</t>
 <t>curve</t>
 <t>when</t>
 <t>grown</t>
@@ -1621,7 +1637,8 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t>test</t>
 <t>tube</t>
 <punc>(</punc>
-<t>Figurea</t>
+<t>Figure</t>
+<t>a</t>
 <punc>)</punc>
 <punc>.</punc>
 </sentence>
@@ -1672,7 +1689,8 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t>harbor</t>
 <t>seals</t>
 <punc>(</punc>
-<t>Figureb</t>
+<t>Figure</t>
+<t>b</t>
 <punc>)</punc>
 <punc>.</punc>
 </sentence>

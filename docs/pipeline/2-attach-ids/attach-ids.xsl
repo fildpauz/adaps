@@ -21,7 +21,7 @@
         <xsl:copy>
             <xsl:attribute name="id">
                 <xsl:text>p</xsl:text>
-                <xsl:number value="position()" format="01"/>
+                <xsl:number value="count(preceding-sibling::paragraph)+1" format="01"/>
             </xsl:attribute>
             <xsl:apply-templates select="@*|node()"/>
         </xsl:copy>
@@ -37,7 +37,7 @@
                     <xsl:number value="count(parent::sentence/preceding-sibling::sentence)+1" format="01"/>
                     <xsl:text>-</xsl:text>
                 </xsl:if>
-                <xsl:number value="position()" format="01"/>
+                <xsl:number value="count(preceding-sibling::sentence)+1" format="01"/>
             </xsl:attribute>
             <xsl:apply-templates select="@*|node()"/>
         </xsl:copy>
