@@ -112,17 +112,22 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t>weight</t>
 <t>divided</t>
 <t>by</t>
-<t/>
+<t>height2</t>
 <punc>)</punc>
 <t>at</t>
 <t>or</t>
 <t>above</t>
-<t/>
+<t>25</t>
+<t>kg m-2</t>
 <punc>,</punc>
 <t>with</t>
 <t>obesity</t>
 <t>defined</t>
 <t>as</t>
+<t>BMI</t>
+<t>≥</t>
+<t>30</t>
+<t>kg m-2</t>
 <punc>[</punc>
 <t>1</t>
 <punc>]</punc>
@@ -172,7 +177,9 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <paragraph>
 <sentence>
 <t>These</t>
-<t>BMI-based</t>
+<t>BMI</t>
+<punc>-</punc>
+<t>based</t>
 <t>obesity</t>
 <t>guidelines</t>
 <t>have</t>
@@ -205,7 +212,11 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t>fat</t>
 <t>accumulation</t>
 <punc>[</punc>
-<t>3]–[6</t>
+<t>3</t>
+<punc>]</punc>
+<punc>–</punc>
+<punc>[</punc>
+<t>6</t>
 <punc>]</punc>
 <punc>,</punc>
 <t>and</t>
@@ -261,7 +272,11 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t>particularly</t>
 <t>perilous</t>
 <punc>[</punc>
-<t>8]–[11</t>
+<t>8</t>
+<punc>]</punc>
+<punc>–</punc>
+<punc>[</punc>
+<t>11</t>
 <punc>]</punc>
 <punc>.</punc>
 </sentence>
@@ -301,7 +316,11 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t>than</t>
 <t>BMI</t>
 <punc>[</punc>
-<t>12]–[17</t>
+<t>12</t>
+<punc>]</punc>
+<punc>–</punc>
+<punc>[</punc>
+<t>17</t>
 <punc>]</punc>
 <punc>.</punc>
 </sentence>
@@ -329,7 +348,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t>be</t>
 <t>used</t>
 <t>as</t>
-<t>a</t>
+<t>an</t>
 <t>alternative</t>
 <t>to</t>
 <t>BMI</t>

@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
+<document>
+<title>Assessing the Impact of Water Filters and Improved Cook Stoves on Drinking Water Quality and Household Air Pollution: A Randomised Controlled Trial in Rwanda</title>
+<citation>Rosa G, Majorin F, Boisson S, Barstow C, Johnson M, et al (2014) Assessing the Impact of Water Filters and Improved Cook Stoves on Drinking Water Quality and Household Air Pollution: A Randomised Controlled Trial in Rwanda. PLoS ONE 9(3):e91011. doi:10.1371/journal/pone.0091011
+Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091011 on 04 Oct 2016.</citation>
+<url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091011</url>
+<body>
+<paragraph id="p01">
+<sentence id="p01-s01">
+<t id="p01-s01-t01" type="Coxhead-AWL-1,AR-AWL-1a">Environmental</t>
+<t id="p01-s01-t02">contamination</t>
+<t id="p01-s01-t03" type="GSL-1">at</t>
+<t id="p01-s01-t04" type="GSL-1">the</t>
+<t id="p01-s01-t05">household</t>
+<t id="p01-s01-t06" type="GSL-1">level</t>
+<t id="p01-s01-t07" type="GSL-1">is</t>
+<t id="p01-s01-t08" type="GSL-1">a</t>
+<t id="p01-s01-t09" type="Coxhead-AWL-1,AR-AWL-1b">major</t>
+<t id="p01-s01-t10" type="GSL-1">cause</t>
+<t id="p01-s01-t11" type="GSL-1">of</t>
+<t id="p01-s01-t12" type="GSL-1">death</t>
+<t id="p01-s01-t13" type="GSL-1">and</t>
+<t id="p01-s01-t14" type="GSL-2">disease</t>
+<punc>,</punc>
+<t id="p01-s01-t15" type="GSL-1">particularly</t>
+<t id="p01-s01-t16" type="GSL-1">among</t>
+<t id="p01-s01-t17">rural</t>
+<t id="p01-s01-t18" type="GSL-1">populations</t>
+<t id="p01-s01-t19" type="GSL-1">in</t>
+<t id="p01-s01-t20" type="GSL-1">low</t>
+<punc>-</punc>
+<t id="p01-s01-t21" type="Coxhead-AWL-1,AR-AWL-1a">income</t>
+<t id="p01-s01-t22" type="GSL-1">countries</t>
+<punc>.</punc>
+</sentence>
+<sentence id="p01-s02">
+<t id="p01-s02-t01">Unsafe</t>
+<t id="p01-s02-t02" type="GSL-1">drinking</t>
+<t id="p01-s02-t03" type="GSL-1">water</t>
+<punc>,</punc>
+<t id="p01-s02-t04" type="GSL-1">together</t>
+<t id="p01-s02-t05" type="GSL-1">with</t>
+<t id="p01-s02-t06" type="GSL-1">poor</t>
+<t id="p01-s02-t07">sanitation</t>
+<punc>,</punc>
+<t id="p01-s02-t08" type="GSL-1">account</t>
+<t id="p01-s02-t09" type="GSL-1">for</t>
+<t id="p01-s02-t10" type="GSL-1">an</t>
+<t id="p01-s02-t11" type="Coxhead-AWL-1,AR-AWL-1a">estimated</t>
+<t id="p01-s02-t12">0.9%</t>
+<t id="p01-s02-t13" type="GSL-1">of</t>
+<t id="p01-s02-t14" type="GSL-1">the</t>
+<t id="p01-s02-t15" type="Coxhead-AWL-7,AR-AWL-7a">global</t>
+<t id="p01-s02-t16">burden</t>
+<t id="p01-s02-t17" type="GSL-1">of</t>
+<t id="p01-s02-t18" type="GSL-2">disease</t>
+<t id="p01-s02-t19" type="GSL-1">and</t>
+<t id="p01-s02-t20">0.3</t>
+<t id="p01-s02-t21" type="GSL-1">million</t>
+<t id="p01-s02-t22" type="GSL-1">deaths</t>
+<punc>[</punc>
+<t id="p01-s02-t23">1</t>
+<punc>]</punc>
+<punc>.</punc>
+</sentence>
+<sentence id="p01-s03">
+<t id="p01-s03-t01" type="GSL-1">Much</t>
+<t id="p01-s03-t02" type="GSL-1">of</t>
+<t id="p01-s03-t03" type="GSL-1">this</t>
+<t id="p01-s03-t04" type="GSL-2">disease</t>
+<t id="p01-s03-t05">burden</t>
+<t id="p01-s03-t06" type="GSL-1">is</t>
+<t id="p01-s03-t07" type="GSL-1">associated</t>
+<t id="p01-s03-t08" type="GSL-1">with</t>
+<t id="p01-s03-t09">diarrhoea</t>
+<punc>,</punc>
+<t id="p01-s03-t10" type="GSL-1">which</t>
+<t id="p01-s03-t11" type="GSL-1">alone</t>
+<t id="p01-s03-t12" type="GSL-1">accounts</t>
+<t id="p01-s03-t13" type="GSL-1">for</t>
+<t id="p01-s03-t14">10.5%</t>
+<t id="p01-s03-t15" type="GSL-1">of</t>
+<t id="p01-s03-t16" type="GSL-1">deaths</t>
+<t id="p01-s03-t17" type="GSL-1">in</t>
+<t id="p01-s03-t18" type="GSL-1">children</t>
+<t id="p01-s03-t19" type="GSL-1">under</t>
+<t id="p01-s03-t20">5</t>
+<t id="p01-s03-t21" type="GSL-1">years</t>
+<t id="p01-s03-t22" type="GSL-1">in</t>
+<t id="p01-s03-t23" type="GSL-1">low</t>
+<punc>-</punc>
+<t id="p01-s03-t24" type="Coxhead-AWL-1,AR-AWL-1a">income</t>
+<t id="p01-s03-t25" type="GSL-1">countries</t>
+<punc>[</punc>
+<t id="p01-s03-t26">2</t>
+<punc>]</punc>
+<punc>.</punc>
+</sentence>
+<sentence id="p01-s04">
+<t id="p01-s04-t01">Household</t>
+<t id="p01-s04-t02" type="GSL-1">air</t>
+<t id="p01-s04-t03">pollution</t>
+<punc>(</punc>
+<t id="p01-s04-t04">HAP</t>
+<punc>)</punc>
+<t id="p01-s04-t05" type="GSL-1">from</t>
+<t id="p01-s04-t06">biomass</t>
+<t id="p01-s04-t07">fuel</t>
+<t id="p01-s04-t08" type="GSL-2">smoke</t>
+<t id="p01-s04-t09" type="GSL-1">has</t>
+<t id="p01-s04-t10" type="GSL-1">been</t>
+<t id="p01-s04-t11" type="Coxhead-AWL-3,AR-AWL-3b">linked</t>
+<t id="p01-s04-t12" type="GSL-1">to</t>
+<t id="p01-s04-t13" type="GSL-1">increased</t>
+<t id="p01-s04-t14" type="GSL-2">risk</t>
+<t id="p01-s04-t15" type="GSL-1">of</t>
+<t id="p01-s04-t16">respiratory</t>
+<t id="p01-s04-t17">tract</t>
+<t id="p01-s04-t18">infections</t>
+<punc>,</punc>
+<t id="p01-s04-t19" type="GSL-1">low</t>
+<t id="p01-s04-t20" type="GSL-2">birth</t>
+<t id="p01-s04-t21" type="GSL-2">weight</t>
+<punc>,</punc>
+<t id="p01-s04-t22">exacerbations</t>
+<t id="p01-s04-t23" type="GSL-1">of</t>
+<t id="p01-s04-t24">inflammatory</t>
+<t id="p01-s04-t25" type="GSL-2">lung</t>
+<t id="p01-s04-t26" type="GSL-1">conditions</t>
+<punc>,</punc>
+<t id="p01-s04-t27">cardiac</t>
+<t id="p01-s04-t28" type="GSL-1">events</t>
+<punc>,</punc>
+<t id="p01-s04-t29" type="GSL-1">stroke</t>
+<punc>,</punc>
+<t id="p01-s04-t30" type="GSL-1">eye</t>
+<t id="p01-s04-t31" type="GSL-2">disease</t>
+<punc>,</punc>
+<t id="p01-s04-t32">tuberculosis</t>
+<punc>,</punc>
+<t id="p01-s04-t33">cancer</t>
+<t id="p01-s04-t34" type="GSL-1">and</t>
+<t id="p01-s04-t35">nutritional</t>
+<t id="p01-s04-t36">deficiencies</t>
+<punc>[</punc>
+<t id="p01-s04-t37">3</t>
+<punc>]</punc>
+<punc>.</punc>
+</sentence>
+<sentence id="p01-s05">
+<t id="p01-s05-t01" type="GSL-1">The</t>
+<t id="p01-s05-t02" type="Coxhead-AWL-7,AR-AWL-7a">Global</t>
+<t id="p01-s05-t03">Burden</t>
+<t id="p01-s05-t04" type="GSL-1">of</t>
+<t id="p01-s05-t05" type="GSL-2">Disease</t>
+<punc>(</punc>
+<t id="p01-s05-t06">GBD</t>
+<punc>)</punc>
+<t id="p01-s05-t07">2010</t>
+<t id="p01-s05-t08" type="Coxhead-AWL-4,AR-AWL-4b">project</t>
+<t id="p01-s05-t09" type="Coxhead-AWL-9,AR-AWL-9a">found</t>
+<t id="p01-s05-t10">HAP</t>
+<t id="p01-s05-t11" type="GSL-1">from</t>
+<t id="p01-s05-t12" type="GSL-2">solid</t>
+<t id="p01-s05-t13">fuels</t>
+<t id="p01-s05-t14" type="GSL-1">to</t>
+<t id="p01-s05-t15" type="GSL-1">be</t>
+<t id="p01-s05-t16" type="GSL-2">responsible</t>
+<t id="p01-s05-t17" type="GSL-1">for</t>
+<t id="p01-s05-t18">3.5</t>
+<t id="p01-s05-t19" type="GSL-1">million</t>
+<t id="p01-s05-t20">premature</t>
+<t id="p01-s05-t21" type="GSL-1">deaths</t>
+<t id="p01-s05-t22" type="Coxhead-AWL-7,AR-AWL-7a">globally</t>
+<punc>[</punc>
+<t id="p01-s05-t23">1</t>
+<punc>]</punc>
+<punc>.</punc>
+</sentence>
+<sentence id="p01-s06">
+<t id="p01-s06-t01" type="GSL-1">In</t>
+<t id="p01-s06-t02" type="GSL-1">this</t>
+<t id="p01-s06-t03" type="GSL-1">same</t>
+<t id="p01-s06-t04" type="Coxhead-AWL-1,AR-AWL-1a">assessment</t>
+<punc>,</punc>
+<t id="p01-s06-t05" type="GSL-2">smoke</t>
+<t id="p01-s06-t06" type="GSL-1">from</t>
+<t id="p01-s06-t07">household</t>
+<t id="p01-s06-t08" type="GSL-2">cooking</t>
+<t id="p01-s06-t09">fuels</t>
+<t id="p01-s06-t10" type="GSL-1">was</t>
+<t id="p01-s06-t11" type="GSL-1">also</t>
+<t id="p01-s06-t12" type="GSL-2">responsible</t>
+<t id="p01-s06-t13" type="GSL-1">for</t>
+<t id="p01-s06-t14" type="GSL-1">another</t>
+<t id="p01-s06-t15" type="GSL-1">half</t>
+<t id="p01-s06-t16" type="GSL-1">a</t>
+<t id="p01-s06-t17" type="GSL-1">million</t>
+<t id="p01-s06-t18">premature</t>
+<t id="p01-s06-t19" type="GSL-1">deaths</t>
+<t id="p01-s06-t20" type="GSL-1">due</t>
+<t id="p01-s06-t21" type="GSL-1">to</t>
+<t id="p01-s06-t22" type="Coxhead-AWL-3,AR-AWL-3a">contributions</t>
+<t id="p01-s06-t23" type="GSL-1">to</t>
+<t id="p01-s06-t24">outdoor</t>
+<t id="p01-s06-t25" type="GSL-1">air</t>
+<t id="p01-s06-t26">pollution</t>
+<punc>[</punc>
+<t id="p01-s06-t27">1</t>
+<punc>]</punc>
+<punc>.</punc>
+</sentence>
+<sentence id="p01-s07">
+<t id="p01-s07-t01" type="GSL-1">These</t>
+<t id="p01-s07-t02" type="Coxhead-AWL-1,AR-AWL-1a">environmental</t>
+<t id="p01-s07-t03">hazards</t>
+<t id="p01-s07-t04" type="GSL-1">are</t>
+<t id="p01-s07-t05">aggravated</t>
+<t id="p01-s07-t06" type="GSL-1">among</t>
+<t id="p01-s07-t07">rural</t>
+<t id="p01-s07-t08">inhabitants</t>
+<t id="p01-s07-t09" type="GSL-1">of</t>
+<t id="p01-s07-t10">sub</t>
+<punc>-</punc>
+<t id="p01-s07-t11">Saharan</t>
+<t id="p01-s07-t12">Africa</t>
+<t id="p01-s07-t13" type="GSL-1">who</t>
+<t id="p01-s07-t14" type="GSL-1">are</t>
+<t id="p01-s07-t15" type="GSL-1">more</t>
+<t id="p01-s07-t16" type="GSL-1">likely</t>
+<t id="p01-s07-t17" type="GSL-1">to</t>
+<t id="p01-s07-t18" type="Coxhead-AWL-3,AR-AWL-3b">rely</t>
+<t id="p01-s07-t19" type="GSL-1">on</t>
+<t id="p01-s07-t20">unsafe</t>
+<t id="p01-s07-t21" type="GSL-1">water</t>
+<t id="p01-s07-t22" type="GSL-1">supplies</t>
+<t id="p01-s07-t23" type="GSL-1">and</t>
+<t id="p01-s07-t24" type="GSL-2">cook</t>
+<t id="p01-s07-t25" type="GSL-1">using</t>
+<t id="p01-s07-t26">biomass</t>
+<t id="p01-s07-t27">fuels</t>
+<t id="p01-s07-t28" type="GSL-1">on</t>
+<t id="p01-s07-t29" type="GSL-1">inefficient</t>
+<t id="p01-s07-t30" type="GSL-2">stoves</t>
+<punc>[</punc>
+<t id="p01-s07-t31">4</t>
+<punc>]</punc>
+<punc>–</punc>
+<punc>[</punc>
+<t id="p01-s07-t32">6</t>
+<punc>]</punc>
+<punc>.</punc>
+</sentence>
+</paragraph>
+<paragraph id="p02">
+<sentence id="p02-s01">
+<t id="p02-s01-t01" type="GSL-1">Inefficient</t>
+<t id="p02-s01-t02">cookstoves</t>
+<t id="p02-s01-t03" type="GSL-1">also</t>
+<t id="p02-s01-t04" type="GSL-1">present</t>
+<t id="p02-s01-t05" type="GSL-1">substantial</t>
+<t id="p02-s01-t06" type="Coxhead-AWL-1,AR-AWL-1a">economic</t>
+<punc>,</punc>
+<t id="p02-s01-t07">developmental</t>
+<t id="p02-s01-t08" type="GSL-1">and</t>
+<t id="p02-s01-t09" type="Coxhead-AWL-1,AR-AWL-1a">environmental</t>
+<t id="p02-s01-t10" type="GSL-1">costs</t>
+<punc>.</punc>
+</sentence>
+<sentence id="p02-s02">
+<t id="p02-s02-t01" type="GSL-1">At</t>
+<t id="p02-s02-t02" type="GSL-1">the</t>
+<t id="p02-s02-t03">household</t>
+<t id="p02-s02-t04" type="GSL-1">level</t>
+<punc>,</punc>
+<t id="p02-s02-t05" type="GSL-1">poverty</t>
+<t id="p02-s02-t06" type="GSL-1">is</t>
+<t id="p02-s02-t07">exacerbated</t>
+<t id="p02-s02-t08" type="GSL-1">and</t>
+<t id="p02-s02-t09" type="GSL-1">time</t>
+<t id="p02-s02-t10" type="GSL-1">spent</t>
+<t id="p02-s02-t11" type="GSL-1">at</t>
+<t id="p02-s02-t12" type="GSL-1">school</t>
+<t id="p02-s02-t13" type="GSL-1">is</t>
+<t id="p02-s02-t14" type="GSL-1">reduced</t>
+<t id="p02-s02-t15" type="GSL-1">by</t>
+<t id="p02-s02-t16" type="GSL-1">the</t>
+<t id="p02-s02-t17">burden</t>
+<t id="p02-s02-t18" type="GSL-1">of</t>
+<t id="p02-s02-t19" type="GSL-2">collecting</t>
+<t id="p02-s02-t20" type="GSL-1">more</t>
+<t id="p02-s02-t21">fuel</t>
+<t id="p02-s02-t22" type="GSL-1">for</t>
+<t id="p02-s02-t23" type="GSL-2">boiling</t>
+<t id="p02-s02-t24" type="GSL-1">drinking</t>
+<t id="p02-s02-t25" type="GSL-1">water</t>
+<t id="p02-s02-t26" type="GSL-1">and</t>
+<t id="p02-s02-t27" type="GSL-2">cooking</t>
+<punc>[</punc>
+<t id="p02-s02-t28">7</t>
+<punc>]</punc>
+<punc>.</punc>
+</sentence>
+<sentence id="p02-s03">
+<t id="p02-s03-t01" type="Coxhead-AWL-1,AR-AWL-1b">Individuals</t>
+<punc>,</punc>
+<t id="p02-s03-t02">households</t>
+<t id="p02-s03-t03" type="GSL-1">and</t>
+<t id="p02-s03-t04" type="GSL-2">governments</t>
+<t id="p02-s03-t05" type="GSL-1">bear</t>
+<t id="p02-s03-t06" type="GSL-1">the</t>
+<t id="p02-s03-t07" type="GSL-1">cost</t>
+<t id="p02-s03-t08" type="GSL-1">of</t>
+<t id="p02-s03-t09">expenditures</t>
+<t id="p02-s03-t10" type="GSL-1">for</t>
+<t id="p02-s03-t11" type="Coxhead-AWL-2,AR-AWL-2b">seeking</t>
+<t id="p02-s03-t12" type="GSL-2">treatment</t>
+<t id="p02-s03-t13" type="GSL-1">of</t>
+<t id="p02-s03-t14">enteric</t>
+<t id="p02-s03-t15" type="GSL-1">and</t>
+<t id="p02-s03-t16">respiratory</t>
+<t id="p02-s03-t17">infections</t>
+<punc>.</punc>
+</sentence>
+<sentence id="p02-s04">
+<t id="p02-s04-t01">Cookstove</t>
+<t id="p02-s04-t02">emissions</t>
+<t id="p02-s04-t03" type="GSL-1">also</t>
+<t id="p02-s04-t04" type="Coxhead-AWL-3,AR-AWL-3a">contribute</t>
+<t id="p02-s04-t05" type="GSL-1">to</t>
+<t id="p02-s04-t06">greenhouse</t>
+<t id="p02-s04-t07" type="GSL-1">gas</t>
+<t id="p02-s04-t08" type="GSL-1">and</t>
+<t id="p02-s04-t09" type="GSL-1">black</t>
+<t id="p02-s04-t10">carbon</t>
+<t id="p02-s04-t11">emissions</t>
+<punc>,</punc>
+<t id="p02-s04-t12" type="GSL-1">and</t>
+<t id="p02-s04-t13" type="GSL-1">in</t>
+<t id="p02-s04-t14" type="GSL-1">some</t>
+<t id="p02-s04-t15" type="GSL-1">cases</t>
+<t id="p02-s04-t16" type="GSL-1">the</t>
+<t id="p02-s04-t17">fuel</t>
+<t id="p02-s04-t18" type="GSL-2">harvesting</t>
+<t id="p02-s04-t19" type="GSL-1">can</t>
+<t id="p02-s04-t20" type="GSL-1">result</t>
+<t id="p02-s04-t21" type="GSL-1">in</t>
+<t id="p02-s04-t22">denuding</t>
+<t id="p02-s04-t23" type="GSL-1">of</t>
+<t id="p02-s04-t24" type="GSL-1">forests</t>
+<punc>[</punc>
+<t id="p02-s04-t25">8</t>
+<punc>]</punc>
+<punc>,</punc>
+<punc>[</punc>
+<t id="p02-s04-t26">9</t>
+<punc>]</punc>
+<punc>.</punc>
+</sentence>
+</paragraph>
+<paragraph id="p03">
+<sentence id="p03-s01">
+<t id="p03-s01-t01" type="GSL-1">With</t>
+<t id="p03-s01-t02" type="GSL-1">a</t>
+<t id="p03-s01-t03" type="GSL-1">population</t>
+<t id="p03-s01-t04" type="GSL-1">of</t>
+<t id="p03-s01-t05">10.5</t>
+<t id="p03-s01-t06" type="GSL-1">million</t>
+<t id="p03-s01-t07" type="GSL-1">and</t>
+<t id="p03-s01-t08" type="GSL-1">a</t>
+<t id="p03-s01-t09">density</t>
+<t id="p03-s01-t10" type="GSL-1">of</t>
+<t id="p03-s01-t11">412</t>
+<t id="p03-s01-t12" type="GSL-1">persons</t>
+<t id="p03-s01-t13" type="GSL-1">per</t>
+<t id="p03-s01-t14">sq</t>
+<punc>.</punc>
+<t id="p03-s01-t15">km</t>
+<punc>,</punc>
+<t id="p03-s01-t16">Rwanda</t>
+<t id="p03-s01-t17" type="GSL-1">is</t>
+<t id="p03-s01-t18" type="GSL-1">the</t>
+<t id="p03-s01-t19" type="GSL-1">most</t>
+<t id="p03-s01-t20">densely</t>
+<t id="p03-s01-t21" type="GSL-1">populated</t>
+<t id="p03-s01-t22" type="GSL-1">country</t>
+<t id="p03-s01-t23" type="GSL-1">in</t>
+<t id="p03-s01-t24" type="GSL-1">East</t>
+<t id="p03-s01-t25">Africa</t>
+<punc>[</punc>
+<t id="p03-s01-t26">10</t>
+<punc>]</punc>
+<punc>.</punc>
+</sentence>
+<sentence id="p03-s02">
+<t id="p03-s02-t01" type="GSL-1">Eighty</t>
+<t id="p03-s02-t02" type="GSL-1">per</t>
+<t id="p03-s02-t03" type="GSL-2">cent</t>
+<t id="p03-s02-t04" type="GSL-1">of</t>
+<t id="p03-s02-t05" type="GSL-1">the</t>
+<t id="p03-s02-t06" type="GSL-1">population</t>
+<t id="p03-s02-t07" type="GSL-1">of</t>
+<t id="p03-s02-t08">Rwanda</t>
+<t id="p03-s02-t09" type="GSL-1">lives</t>
+<t id="p03-s02-t10" type="GSL-1">in</t>
+<t id="p03-s02-t11">rural</t>
+<t id="p03-s02-t12" type="Coxhead-AWL-1,AR-AWL-1a">areas</t>
+<t id="p03-s02-t13" type="GSL-1">and</t>
+<t id="p03-s02-t14" type="GSL-1">is</t>
+<t id="p03-s02-t15">engaged</t>
+<t id="p03-s02-t16" type="GSL-1">in</t>
+<t id="p03-s02-t17" type="GSL-2">agriculture</t>
+<punc>[</punc>
+<t id="p03-s02-t18">11</t>
+<punc>]</punc>
+<punc>.</punc>
+</sentence>
+<sentence id="p03-s03">
+<t id="p03-s03-t01" type="Coxhead-AWL-4,AR-AWL-4a">Despite</t>
+<t id="p03-s03-t02" type="Coxhead-AWL-1,AR-AWL-1b">significant</t>
+<t id="p03-s03-t03" type="GSL-1">progress</t>
+<t id="p03-s03-t04" type="GSL-1">over</t>
+<t id="p03-s03-t05" type="GSL-1">the</t>
+<t id="p03-s03-t06" type="GSL-1">last</t>
+<t id="p03-s03-t07" type="Coxhead-AWL-7,AR-AWL-7a">decade</t>
+<punc>,</punc>
+<t id="p03-s03-t08">57%</t>
+<t id="p03-s03-t09" type="GSL-1">of</t>
+<t id="p03-s03-t10" type="GSL-1">the</t>
+<t id="p03-s03-t11" type="GSL-1">population</t>
+<t id="p03-s03-t12" type="GSL-1">is</t>
+<t id="p03-s03-t13" type="GSL-1">living</t>
+<t id="p03-s03-t14" type="GSL-1">below</t>
+<t id="p03-s03-t15" type="GSL-1">the</t>
+<t id="p03-s03-t16" type="GSL-1">poverty</t>
+<t id="p03-s03-t17" type="GSL-1">line</t>
+<punc>,</punc>
+<t id="p03-s03-t18">37%</t>
+<t id="p03-s03-t19" type="GSL-1">of</t>
+<t id="p03-s03-t20" type="GSL-1">them</t>
+<t id="p03-s03-t21" type="GSL-1">living</t>
+<t id="p03-s03-t22" type="GSL-1">in</t>
+<t id="p03-s03-t23" type="GSL-2">extreme</t>
+<t id="p03-s03-t24" type="GSL-1">poverty</t>
+<punc>[</punc>
+<t id="p03-s03-t25">11</t>
+<punc>]</punc>
+<punc>.</punc>
+</sentence>
+<sentence id="p03-s04">
+<t id="p03-s04-t01" type="GSL-1">While</t>
+<t id="p03-s04-t02" type="GSL-1">a</t>
+<t id="p03-s04-t03" type="GSL-1">large</t>
+<t id="p03-s04-t04" type="Coxhead-AWL-3,AR-AWL-3b">proportion</t>
+<t id="p03-s04-t05" type="GSL-1">of</t>
+<t id="p03-s04-t06" type="GSL-1">the</t>
+<t id="p03-s04-t07">rural</t>
+<t id="p03-s04-t08" type="GSL-1">population</t>
+<t id="p03-s04-t09" type="GSL-1">has</t>
+<t id="p03-s04-t10" type="Coxhead-AWL-4,AR-AWL-4a">access</t>
+<t id="p03-s04-t11" type="GSL-1">to</t>
+<t id="p03-s04-t12" type="GSL-2">improved</t>
+<t id="p03-s04-t13" type="GSL-1">water</t>
+<t id="p03-s04-t14" type="Coxhead-AWL-1,AR-AWL-1b">sources</t>
+<punc>(</punc>
+<t id="p03-s04-t15">71.2%</t>
+<punc>)</punc>
+<punc>,</punc>
+<t id="p03-s04-t16" type="GSL-1">mainly</t>
+<t id="p03-s04-t17" type="GSL-1">through</t>
+<t id="p03-s04-t18" type="GSL-1">protected</t>
+<t id="p03-s04-t19" type="GSL-1">springs</t>
+<punc>,</punc>
+<t id="p03-s04-t20" type="GSL-1">only</t>
+<t id="p03-s04-t21">2.2%</t>
+<t id="p03-s04-t22" type="GSL-1">of</t>
+<t id="p03-s04-t23">rural</t>
+<t id="p03-s04-t24" type="Coxhead-AWL-1,AR-AWL-1a">areas</t>
+<t id="p03-s04-t25" type="GSL-1">have</t>
+<t id="p03-s04-t26" type="GSL-1">water</t>
+<t id="p03-s04-t27" type="GSL-1">on</t>
+<t id="p03-s04-t28" type="GSL-1">their</t>
+<t id="p03-s04-t29">premises</t>
+<punc>[</punc>
+<t id="p03-s04-t30">12</t>
+<punc>]</punc>
+<punc>,</punc>
+<t id="p03-s04-t31" type="GSL-1">resulting</t>
+<t id="p03-s04-t32" type="GSL-1">in</t>
+<t id="p03-s04-t33" type="GSL-1">an</t>
+<t id="p03-s04-t34" type="GSL-1">increased</t>
+<t id="p03-s04-t35" type="GSL-2">risk</t>
+<t id="p03-s04-t36" type="GSL-1">for</t>
+<t id="p03-s04-t37" type="GSL-1">drinking</t>
+<t id="p03-s04-t38" type="GSL-1">water</t>
+<t id="p03-s04-t39">contamination</t>
+<t id="p03-s04-t40" type="GSL-2">during</t>
+<t id="p03-s04-t41" type="Coxhead-AWL-6,AR-AWL-6b">transport</t>
+<t id="p03-s04-t42" type="GSL-1">and</t>
+<t id="p03-s04-t43">storage</t>
+<punc>[</punc>
+<t id="p03-s04-t44">13</t>
+<punc>]</punc>
+<punc>.</punc>
+</sentence>
+<sentence id="p03-s05">
+<t id="p03-s05-t01" type="GSL-1">Almost</t>
+<t id="p03-s05-t02" type="GSL-1">all</t>
+<t id="p03-s05-t03" type="GSL-1">of</t>
+<t id="p03-s05-t04">rural</t>
+<t id="p03-s05-t05">Rwanda</t>
+<punc>(</punc>
+<t id="p03-s05-t06">99.0%</t>
+<punc>)</punc>
+<t id="p03-s05-t07" type="Coxhead-AWL-3,AR-AWL-3b">relies</t>
+<t id="p03-s05-t08" type="GSL-1">on</t>
+<t id="p03-s05-t09">biomass</t>
+<t id="p03-s05-t10" type="GSL-1">for</t>
+<t id="p03-s05-t11" type="GSL-1">their</t>
+<t id="p03-s05-t12" type="GSL-2">cooking</t>
+<t id="p03-s05-t13" type="GSL-1">needs</t>
+<punc>[</punc>
+<t id="p03-s05-t14">12</t>
+<punc>]</punc>
+<punc>.</punc>
+</sentence>
+<sentence id="p03-s06">
+<t id="p03-s06-t01">Morbidity</t>
+<t id="p03-s06-t02" type="GSL-1">and</t>
+<t id="p03-s06-t03">mortality</t>
+<t id="p03-s06-t04" type="GSL-1">are</t>
+<t id="p03-s06-t05" type="GSL-1">largely</t>
+<t id="p03-s06-t06" type="Coxhead-AWL-3,AR-AWL-3a">dominated</t>
+<t id="p03-s06-t07" type="GSL-1">by</t>
+<t id="p03-s06-t08" type="Coxhead-AWL-4,AR-AWL-4a">communicable</t>
+<t id="p03-s06-t09" type="GSL-2">diseases</t>
+<punc>,</punc>
+<t id="p03-s06-t10" type="GSL-1">including</t>
+<t id="p03-s06-t11">HIV</t>
+<punc>/</punc>
+<t id="p03-s06-t12" type="Coxhead-AWL-7,AR-AWL-7a">AIDS</t>
+<punc>,</punc>
+<t id="p03-s06-t13">acute</t>
+<t id="p03-s06-t14">respiratory</t>
+<t id="p03-s06-t15">infections</t>
+<punc>,</punc>
+<t id="p03-s06-t16">diarrhoeal</t>
+<t id="p03-s06-t17" type="GSL-2">diseases</t>
+<punc>,</punc>
+<t id="p03-s06-t18">intestinal</t>
+<t id="p03-s06-t19">parisitoses</t>
+<punc>,</punc>
+<t id="p03-s06-t20" type="GSL-1">and</t>
+<t id="p03-s06-t21">malaria</t>
+<punc>[</punc>
+<t id="p03-s06-t22">14</t>
+<punc>]</punc>
+<punc>.</punc>
+</sentence>
+<sentence id="p03-s07">
+<t id="p03-s07-t01" type="GSL-1">Among</t>
+<t id="p03-s07-t02" type="GSL-1">deaths</t>
+<t id="p03-s07-t03" type="GSL-1">of</t>
+<t id="p03-s07-t04" type="GSL-1">children</t>
+<t id="p03-s07-t05" type="GSL-1">under</t>
+<t id="p03-s07-t06">5</t>
+<punc>,</punc>
+<t id="p03-s07-t07">pneumonia</t>
+<t id="p03-s07-t08" type="GSL-1">accounts</t>
+<t id="p03-s07-t09" type="GSL-1">for</t>
+<t id="p03-s07-t10">20%</t>
+<t id="p03-s07-t11" type="GSL-1">and</t>
+<t id="p03-s07-t12">diarrhoea</t>
+<t id="p03-s07-t13" type="GSL-1">for</t>
+<t id="p03-s07-t14">12%</t>
+<punc>[</punc>
+<t id="p03-s07-t15">15</t>
+<punc>]</punc>
+<punc>.</punc>
+</sentence>
+</paragraph>
+<paragraph id="p04">
+<sentence id="p04-s01">
+<t id="p04-s01-t01" type="GSL-1">In</t>
+<t id="p04-s01-t02" type="GSL-1">an</t>
+<t id="p04-s01-t03" type="GSL-1">effort</t>
+<t id="p04-s01-t04" type="GSL-1">to</t>
+<t id="p04-s01-t05" type="GSL-1">reduce</t>
+<t id="p04-s01-t06" type="GSL-1">the</t>
+<t id="p04-s01-t07" type="GSL-2">disease</t>
+<t id="p04-s01-t08">burden</t>
+<t id="p04-s01-t09" type="GSL-1">in</t>
+<t id="p04-s01-t10">rural</t>
+<t id="p04-s01-t11">Rwanda</t>
+<punc>,</punc>
+<t id="p04-s01-t12" type="GSL-2">decrease</t>
+<t id="p04-s01-t13" type="GSL-1">poverty</t>
+<t id="p04-s01-t14" type="GSL-1">associated</t>
+<t id="p04-s01-t15" type="GSL-1">with</t>
+<t id="p04-s01-t16">expenditures</t>
+<t id="p04-s01-t17" type="GSL-1">for</t>
+<t id="p04-s01-t18">fuel</t>
+<punc>,</punc>
+<t id="p04-s01-t19" type="GSL-1">and</t>
+<t id="p04-s01-t20" type="Coxhead-AWL-8,AR-AWL-8b">minimize</t>
+<t id="p04-s01-t21" type="GSL-1">the</t>
+<t id="p04-s01-t22" type="Coxhead-AWL-2,AR-AWL-2a">impact</t>
+<t id="p04-s01-t23" type="GSL-1">of</t>
+<t id="p04-s01-t24">greenhouse</t>
+<t id="p04-s01-t25" type="GSL-1">gases</t>
+<t id="p04-s01-t26" type="GSL-1">from</t>
+<t id="p04-s01-t27" type="GSL-1">inefficient</t>
+<t id="p04-s01-t28">combustion</t>
+<t id="p04-s01-t29" type="GSL-1">of</t>
+<t id="p04-s01-t30">biomass</t>
+<t id="p04-s01-t31" type="GSL-1">in</t>
+<t id="p04-s01-t32" type="GSL-1">low</t>
+<punc>-</punc>
+<t id="p04-s01-t33" type="GSL-1">efficiency</t>
+<t id="p04-s01-t34" type="GSL-2">stoves</t>
+<punc>,</punc>
+<t id="p04-s01-t35" type="GSL-1">the</t>
+<t id="p04-s01-t36">Rwanda</t>
+<t id="p04-s01-t37" type="Coxhead-AWL-6,AR-AWL-6b">Ministry</t>
+<t id="p04-s01-t38" type="GSL-1">of</t>
+<t id="p04-s01-t39" type="GSL-2">Health</t>
+<punc>(</punc>
+<t id="p04-s01-t40">MiniSante</t>
+<punc>)</punc>
+<t id="p04-s01-t41" type="GSL-1">and</t>
+<t id="p04-s01-t42" type="GSL-1">the</t>
+<t id="p04-s01-t43">Rwanda</t>
+<t id="p04-s01-t44" type="Coxhead-AWL-1,AR-AWL-1a">Environmental</t>
+<t id="p04-s01-t45" type="GSL-2">Management</t>
+<t id="p04-s01-t46" type="Coxhead-AWL-1,AR-AWL-1a">Authority</t>
+<punc>(</punc>
+<t id="p04-s01-t47">REMA</t>
+<punc>)</punc>
+<t id="p04-s01-t48" type="GSL-1">have</t>
+<t id="p04-s01-t49">partnered</t>
+<t id="p04-s01-t50" type="GSL-1">with</t>
+<t id="p04-s01-t51">DelAgua</t>
+<t id="p04-s01-t52" type="GSL-2">Health</t>
+<punc>(</punc>
+<t id="p04-s01-t53">implementer</t>
+<punc>)</punc>
+<t id="p04-s01-t54" type="GSL-1">to</t>
+<t id="p04-s01-t55" type="Coxhead-AWL-2,AR-AWL-2a">design</t>
+<punc>,</punc>
+<t id="p04-s01-t56">deploy</t>
+<t id="p04-s01-t57" type="GSL-1">and</t>
+<t id="p04-s01-t58" type="Coxhead-AWL-2,AR-AWL-2a">evaluate</t>
+<t id="p04-s01-t59" type="GSL-1">the</t>
+<t id="p04-s01-t60" type="Coxhead-AWL-2,AR-AWL-2a">impact</t>
+<t id="p04-s01-t61" type="GSL-1">of</t>
+<t id="p04-s01-t62" type="GSL-1">a</t>
+<t id="p04-s01-t63" type="Coxhead-AWL-4,AR-AWL-4b">project</t>
+<t id="p04-s01-t64" type="GSL-1">that</t>
+<t id="p04-s01-t65" type="GSL-1">will</t>
+<t id="p04-s01-t66" type="GSL-2">deliver</t>
+<t id="p04-s01-t67" type="GSL-1">and</t>
+<t id="p04-s01-t68" type="Coxhead-AWL-4,AR-AWL-4b">promote</t>
+<t id="p04-s01-t69" type="GSL-1">the</t>
+<t id="p04-s01-t70" type="GSL-1">use</t>
+<t id="p04-s01-t71" type="GSL-1">of</t>
+<t id="p04-s01-t72" type="GSL-1">advanced</t>
+<t id="p04-s01-t73" type="GSL-1">water</t>
+<t id="p04-s01-t74">filters</t>
+<t id="p04-s01-t75" type="GSL-1">and</t>
+<t id="p04-s01-t76" type="GSL-1">high</t>
+<t id="p04-s01-t77" type="GSL-1">efficiency</t>
+<t id="p04-s01-t78">cookstoves</t>
+<t id="p04-s01-t79" type="GSL-1">to</t>
+<t id="p04-s01-t80" type="GSL-1">low</t>
+<punc>-</punc>
+<t id="p04-s01-t81" type="Coxhead-AWL-1,AR-AWL-1a">income</t>
+<t id="p04-s01-t82">households</t>
+<t id="p04-s01-t83" type="GSL-1">in</t>
+<t id="p04-s01-t84">Rwanda</t>
+<punc>.</punc>
+</sentence>
+<sentence id="p04-s02">
+<t id="p04-s02-t01" type="Coxhead-AWL-4,AR-AWL-4b">Prior</t>
+<t id="p04-s02-t02" type="GSL-1">to</t>
+<t id="p04-s02-t03" type="Coxhead-AWL-6,AR-AWL-6b">initiating</t>
+<t id="p04-s02-t04" type="GSL-1">the</t>
+<t id="p04-s02-t05" type="GSL-1">full</t>
+<t id="p04-s02-t06">campaign</t>
+<punc>,</punc>
+<t id="p04-s02-t07" type="GSL-1">the</t>
+<t id="p04-s02-t08">implementer</t>
+<t id="p04-s02-t09" type="GSL-1">with</t>
+<t id="p04-s02-t10" type="GSL-1">the</t>
+<t id="p04-s02-t11" type="Coxhead-AWL-6,AR-AWL-6b">Ministry</t>
+<t id="p04-s02-t12" type="GSL-1">of</t>
+<t id="p04-s02-t13" type="GSL-2">Health</t>
+<t id="p04-s02-t14" type="Coxhead-AWL-4,AR-AWL-4b">undertook</t>
+<t id="p04-s02-t15" type="GSL-1">a</t>
+<t id="p04-s02-t16">pilot</t>
+<t id="p04-s02-t17" type="Coxhead-AWL-1,AR-AWL-1a">distribution</t>
+<t id="p04-s02-t18" type="GSL-1">of</t>
+<t id="p04-s02-t19">filters</t>
+<t id="p04-s02-t20" type="GSL-1">and</t>
+<t id="p04-s02-t21">cookstoves</t>
+<t id="p04-s02-t22" type="GSL-1">to</t>
+<t id="p04-s02-t23" type="Coxhead-AWL-4,AR-AWL-4a">approximately</t>
+<t id="p04-s02-t24">2200</t>
+<t id="p04-s02-t25">households</t>
+<t id="p04-s02-t26" type="GSL-1">in</t>
+<t id="p04-s02-t27">15</t>
+<t id="p04-s02-t28" type="GSL-1">villages</t>
+<t id="p04-s02-t29" type="GSL-1">in</t>
+<t id="p04-s02-t30">11</t>
+<t id="p04-s02-t31" type="GSL-1">of</t>
+<t id="p04-s02-t32" type="GSL-1">the</t>
+<t id="p04-s02-t33">country's</t>
+<t id="p04-s02-t34">30</t>
+<t id="p04-s02-t35" type="GSL-1">districts</t>
+<punc>.</punc>
+</sentence>
+<sentence id="p04-s03">
+<t id="p04-s03-t01" type="GSL-1">We</t>
+<t id="p04-s03-t02" type="Coxhead-AWL-2,AR-AWL-2a">conducted</t>
+<t id="p04-s03-t03" type="GSL-1">this</t>
+<t id="p04-s03-t04" type="GSL-1">study</t>
+<t id="p04-s03-t05" type="GSL-1">in</t>
+<t id="p04-s03-t06" type="GSL-1">three</t>
+<t id="p04-s03-t07" type="GSL-1">of</t>
+<t id="p04-s03-t08" type="GSL-1">those</t>
+<t id="p04-s03-t09" type="GSL-1">villages</t>
+<t id="p04-s03-t10" type="GSL-1">in</t>
+<t id="p04-s03-t11" type="GSL-1">order</t>
+<t id="p04-s03-t12" type="GSL-1">to</t>
+<t id="p04-s03-t13" type="Coxhead-AWL-1,AR-AWL-1a">assess</t>
+<t id="p04-s03-t14" type="GSL-1">the</t>
+<t id="p04-s03-t15">uptake</t>
+<t id="p04-s03-t16" type="GSL-1">of</t>
+<t id="p04-s03-t17" type="GSL-1">the</t>
+<t id="p04-s03-t18" type="Coxhead-AWL-7,AR-AWL-7b">intervention</t>
+<t id="p04-s03-t19" type="GSL-1">and</t>
+<t id="p04-s03-t20" type="GSL-1">its</t>
+<t id="p04-s03-t21" type="Coxhead-AWL-2,AR-AWL-2a">impact</t>
+<t id="p04-s03-t22" type="GSL-1">on</t>
+<t id="p04-s03-t23" type="GSL-1">drinking</t>
+<t id="p04-s03-t24" type="GSL-1">water</t>
+<t id="p04-s03-t25" type="GSL-1">quality</t>
+<t id="p04-s03-t26" type="GSL-1">and</t>
+<t id="p04-s03-t27">household</t>
+<t id="p04-s03-t28" type="GSL-1">air</t>
+<t id="p04-s03-t29">pollution</t>
+<punc>.</punc>
+</sentence>
+</paragraph>
+</body>
+</document>

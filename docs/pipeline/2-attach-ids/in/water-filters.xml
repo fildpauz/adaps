@@ -28,7 +28,9 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t>rural</t>
 <t>populations</t>
 <t>in</t>
-<t>low-income</t>
+<t>low</t>
+<punc>-</punc>
+<t>income</t>
 <t>countries</t>
 <punc>.</punc>
 </sentence>
@@ -86,7 +88,9 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t>5</t>
 <t>years</t>
 <t>in</t>
-<t>low-income</t>
+<t>low</t>
+<punc>-</punc>
+<t>income</t>
 <t>countries</t>
 <punc>[</punc>
 <t>2</t>
@@ -217,7 +221,9 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t>rural</t>
 <t>inhabitants</t>
 <t>of</t>
-<t>sub-Saharan</t>
+<t>sub</t>
+<punc>-</punc>
+<t>Saharan</t>
 <t>Africa</t>
 <t>who</t>
 <t>are</t>
@@ -238,7 +244,11 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t>inefficient</t>
 <t>stoves</t>
 <punc>[</punc>
-<t>4]–[6</t>
+<t>4</t>
+<punc>]</punc>
+<punc>–</punc>
+<punc>[</punc>
+<t>6</t>
 <punc>]</punc>
 <punc>.</punc>
 </sentence>
@@ -366,8 +376,6 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t>per</t>
 <t>sq</t>
 <punc>.</punc>
-</sentence>
-<sentence>
 <t>km</t>
 <punc>,</punc>
 <t>Rwanda</t>
@@ -529,7 +537,9 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t>diseases</t>
 <punc>,</punc>
 <t>including</t>
-<t>HIV/AIDS</t>
+<t>HIV</t>
+<punc>/</punc>
+<t>AIDS</t>
 <punc>,</punc>
 <t>acute</t>
 <t>respiratory</t>
@@ -605,7 +615,9 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t>of</t>
 <t>biomass</t>
 <t>in</t>
-<t>low-efficiency</t>
+<t>low</t>
+<punc>-</punc>
+<t>efficiency</t>
 <t>stoves</t>
 <punc>,</punc>
 <t>the</t>
@@ -660,7 +672,9 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t>efficiency</t>
 <t>cookstoves</t>
 <t>to</t>
-<t>lower-income</t>
+<t>low</t>
+<punc>-</punc>
+<t>income</t>
 <t>households</t>
 <t>in</t>
 <t>Rwanda</t>
