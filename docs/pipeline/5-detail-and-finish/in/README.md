@@ -44,7 +44,7 @@ The `type` attribute refers to the type of logical connector. This should be fil
 * `elaboration` - Idea 2 provides extra information or detail related to idea 1: 1 Dolphins make whistle and clicking noises to each other. *Furthermore*, 2 dolphins communicate by jumping above the water's surface.
 * `generalization` - Idea 2 is a more general idea that includes idea 1: 1 Koko the gorilla uses some sign language with her trainer. *In general*, 2 many animals have learned human communication systems.
 * `example` - Idea 2 is a specific example or instance of idea 1: 1 Elephants are social animals. *To illustrate*, 2 Indian elephants live in family units.
-* `cause - Event 1 is a cause of event 2: 1 Mary worked more than 15 hours a day for two weeks. *As a result*, 2 she had a heart attack and went to the hospital.
+* `cause` - Event 1 is a cause of event 2: 1 Mary worked more than 15 hours a day for two weeks. *As a result*, 2 she had a heart attack and went to the hospital.
 * `explanation` - Event 2 explains event 1 in some way: 1 Brian became a millionaire instantly *because* 2 he won the grand prize in the year-end lottery.
 * `condition` - One event is a condition that must be true for the other event to become true: 1 John will enter the university *if* 2 he manages to pass the entrance exam.
 * `violated expectation` - One event contradicts an expectation that the other event typically causes: 1 *Although* the construction worker slipped and fell 12 floors, 2 he walked away with only a broken arm.
