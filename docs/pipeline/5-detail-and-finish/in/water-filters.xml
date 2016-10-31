@@ -7,7 +7,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091011</url>
 <body>
 <paragraph id="p01">
-<sentence id="p01-s01">
+<sentence par-function="topic|supporting|concluding" id="p01-s01">
 <t id="p01-s01-t01" type="Coxhead-AWL-1,AR-AWL-1a">Environmental</t>
 <t id="p01-s01-t02">contamination</t>
 <t id="p01-s01-t03" type="GSL-1">at</t>
@@ -34,7 +34,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t id="p01-s01-t22" type="GSL-1">countries</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p01-s02">
+<sentence par-function="topic|supporting|concluding" id="p01-s02">
 <t id="p01-s02-t01">Unsafe</t>
 <t id="p01-s02-t02" type="GSL-1">drinking</t>
 <t id="p01-s02-t03" type="GSL-1">water</t>
@@ -64,10 +64,10 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <punc>]</punc>
 <punc>.</punc>
 </sentence>
-<sentence id="p01-s03">
+<sentence par-function="topic|supporting|concluding" id="p01-s03">
 <t id="p01-s03-t01" type="GSL-1">Much</t>
 <t id="p01-s03-t02" type="GSL-1">of</t>
-<anaphor>
+<anaphor id="p01-s03-a01" info="">
 <t id="p01-s03-t03" type="GSL-1">this</t>
 <t id="p01-s03-t04" type="GSL-2">disease</t>
 <t id="p01-s03-t05">burden</t>
@@ -99,12 +99,12 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <punc>]</punc>
 <punc>.</punc>
 </sentence>
-<sentence id="p01-s04">
+<sentence par-function="topic|supporting|concluding" id="p01-s04">
 <t id="p01-s04-t01">Household</t>
 <t id="p01-s04-t02" type="GSL-1">air</t>
 <t id="p01-s04-t03">pollution</t>
 <punc>(</punc>
-<abbr>
+<abbr id="p01-s04-b01" info="">
 <t id="p01-s04-t04">HAP</t>
 </abbr>
 <punc>)</punc>
@@ -152,14 +152,14 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <punc>]</punc>
 <punc>.</punc>
 </sentence>
-<sentence id="p01-s05">
+<sentence par-function="topic|supporting|concluding" id="p01-s05">
 <t id="p01-s05-t01" type="GSL-1">The</t>
 <t id="p01-s05-t02" type="Coxhead-AWL-7,AR-AWL-7a">Global</t>
 <t id="p01-s05-t03">Burden</t>
 <t id="p01-s05-t04" type="GSL-1">of</t>
 <t id="p01-s05-t05" type="GSL-2">Disease</t>
 <punc>(</punc>
-<abbr>
+<abbr id="p01-s05-b01" info="">
 <t id="p01-s05-t06">GBD</t>
 </abbr>
 <punc>)</punc>
@@ -184,9 +184,9 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <punc>]</punc>
 <punc>.</punc>
 </sentence>
-<sentence id="p01-s06">
+<sentence par-function="topic|supporting|concluding" id="p01-s06">
 <t id="p01-s06-t01" type="GSL-1">In</t>
-<anaphor>
+<anaphor id="p01-s06-a01" info="">
 <t id="p01-s06-t02" type="GSL-1">this</t>
 <t id="p01-s06-t03" type="GSL-1">same</t>
 <t id="p01-s06-t04" type="Coxhead-AWL-1,AR-AWL-1a">assessment</t>
@@ -219,8 +219,8 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <punc>]</punc>
 <punc>.</punc>
 </sentence>
-<sentence id="p01-s07">
-<anaphor>
+<sentence par-function="topic|supporting|concluding" id="p01-s07">
+<anaphor id="p01-s07-a01" info="">
 <t id="p01-s07-t01" type="GSL-1">These</t>
 <t id="p01-s07-t02" type="Coxhead-AWL-1,AR-AWL-1a">environmental</t>
 <t id="p01-s07-t03">hazards</t>
@@ -264,7 +264,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 </sentence>
 </paragraph>
 <paragraph id="p02">
-<sentence id="p02-s01">
+<sentence par-function="topic|supporting|concluding" id="p02-s01">
 <t id="p02-s01-t01" type="GSL-1">Inefficient</t>
 <t id="p02-s01-t02">cookstoves</t>
 <t id="p02-s01-t03" type="GSL-1">also</t>
@@ -278,7 +278,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t id="p02-s01-t10" type="GSL-1">costs</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p02-s02">
+<sentence par-function="topic|supporting|concluding" id="p02-s02">
 <t id="p02-s02-t01" type="GSL-1">At</t>
 <t id="p02-s02-t02" type="GSL-1">the</t>
 <t id="p02-s02-t03">household</t>
@@ -312,7 +312,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <punc>]</punc>
 <punc>.</punc>
 </sentence>
-<sentence id="p02-s03">
+<sentence par-function="topic|supporting|concluding" id="p02-s03">
 <t id="p02-s03-t01" type="Coxhead-AWL-1,AR-AWL-1b">Individuals</t>
 <punc>,</punc>
 <t id="p02-s03-t02">households</t>
@@ -333,7 +333,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t id="p02-s03-t17">infections</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p02-s04">
+<sentence par-function="topic|supporting|concluding" id="p02-s04">
 <t id="p02-s04-t01">Cookstove</t>
 <t id="p02-s04-t02">emissions</t>
 <t id="p02-s04-t03" type="GSL-1">also</t>
@@ -346,7 +346,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t id="p02-s04-t10">carbon</t>
 <t id="p02-s04-t11">emissions</t>
 <punc>,</punc>
-<connector>
+<connector id="p02-s04-c01" type="" info="">
 <t id="p02-s04-t12" type="GSL-1">and</t>
 </connector>
 <t id="p02-s04-t13" type="GSL-1">in</t>
@@ -372,7 +372,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 </sentence>
 </paragraph>
 <paragraph id="p03">
-<sentence id="p03-s01">
+<sentence par-function="topic|supporting|concluding" id="p03-s01">
 <t id="p03-s01-t01" type="GSL-1">With</t>
 <t id="p03-s01-t02" type="GSL-1">a</t>
 <t id="p03-s01-t03" type="GSL-1">population</t>
@@ -405,7 +405,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <punc>]</punc>
 <punc>.</punc>
 </sentence>
-<sentence id="p03-s02">
+<sentence par-function="topic|supporting|concluding" id="p03-s02">
 <t id="p03-s02-t01" type="GSL-1">Eighty</t>
 <t id="p03-s02-t02" type="GSL-1">per</t>
 <t id="p03-s02-t03" type="GSL-2">cent</t>
@@ -428,7 +428,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <punc>]</punc>
 <punc>.</punc>
 </sentence>
-<sentence id="p03-s03">
+<sentence par-function="topic|supporting|concluding" id="p03-s03">
 <t id="p03-s03-t01" type="Coxhead-AWL-4,AR-AWL-4a">Despite</t>
 <t id="p03-s03-t02" type="Coxhead-AWL-1,AR-AWL-1b">significant</t>
 <t id="p03-s03-t03" type="GSL-1">progress</t>
@@ -460,8 +460,8 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <punc>]</punc>
 <punc>.</punc>
 </sentence>
-<sentence id="p03-s04">
-<connector>
+<sentence par-function="topic|supporting|concluding" id="p03-s04">
+<connector id="p03-s04-c01" type="" info="">
 <t id="p03-s04-t01" type="GSL-1">While</t>
 </connector>
 <t id="p03-s04-t02" type="GSL-1">a</t>
@@ -494,7 +494,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t id="p03-s04-t25" type="GSL-1">have</t>
 <t id="p03-s04-t26" type="GSL-1">water</t>
 <t id="p03-s04-t27" type="GSL-1">on</t>
-<anaphor>
+<anaphor id="p03-s04-a01" info="">
 <t id="p03-s04-t28" type="GSL-1">their</t>
 </anaphor>
 <t id="p03-s04-t29">premises</t>
@@ -520,7 +520,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <punc>]</punc>
 <punc>.</punc>
 </sentence>
-<sentence id="p03-s05">
+<sentence par-function="topic|supporting|concluding" id="p03-s05">
 <t id="p03-s05-t01" type="GSL-1">Almost</t>
 <t id="p03-s05-t02" type="GSL-1">all</t>
 <t id="p03-s05-t03" type="GSL-1">of</t>
@@ -533,7 +533,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t id="p03-s05-t08" type="GSL-1">on</t>
 <t id="p03-s05-t09">biomass</t>
 <t id="p03-s05-t10" type="GSL-1">for</t>
-<anaphor>
+<anaphor id="p03-s05-a01" info="">
 <t id="p03-s05-t11" type="GSL-1">their</t>
 </anaphor>
 <t id="p03-s05-t12" type="GSL-2">cooking</t>
@@ -543,7 +543,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <punc>]</punc>
 <punc>.</punc>
 </sentence>
-<sentence id="p03-s06">
+<sentence par-function="topic|supporting|concluding" id="p03-s06">
 <t id="p03-s06-t01">Morbidity</t>
 <t id="p03-s06-t02" type="GSL-1">and</t>
 <t id="p03-s06-t03">mortality</t>
@@ -576,7 +576,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <punc>]</punc>
 <punc>.</punc>
 </sentence>
-<sentence id="p03-s07">
+<sentence par-function="topic|supporting|concluding" id="p03-s07">
 <t id="p03-s07-t01" type="GSL-1">Among</t>
 <t id="p03-s07-t02" type="GSL-1">deaths</t>
 <t id="p03-s07-t03" type="GSL-1">of</t>
@@ -599,7 +599,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 </sentence>
 </paragraph>
 <paragraph id="p04">
-<sentence id="p04-s01">
+<sentence par-function="topic|supporting|concluding" id="p04-s01">
 <t id="p04-s01-t01" type="GSL-1">In</t>
 <t id="p04-s01-t02" type="GSL-1">an</t>
 <t id="p04-s01-t03" type="GSL-1">effort</t>
@@ -644,7 +644,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t id="p04-s01-t38" type="GSL-1">of</t>
 <t id="p04-s01-t39" type="GSL-2">Health</t>
 <punc>(</punc>
-<abbr>
+<abbr id="p04-s01-b01" info="">
 <t id="p04-s01-t40">MiniSante</t>
 </abbr>
 <punc>)</punc>
@@ -655,7 +655,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t id="p04-s01-t45" type="GSL-2">Management</t>
 <t id="p04-s01-t46" type="Coxhead-AWL-1,AR-AWL-1a">Authority</t>
 <punc>(</punc>
-<abbr>
+<abbr id="p04-s01-b02" info="">
 <t id="p04-s01-t47">REMA</t>
 </abbr>
 <punc>)</punc>
@@ -702,11 +702,11 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t id="p04-s01-t84">Rwanda</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p04-s02">
+<sentence par-function="topic|supporting|concluding" id="p04-s02">
 <t id="p04-s02-t01" type="Coxhead-AWL-4,AR-AWL-4b">Prior</t>
 <t id="p04-s02-t02" type="GSL-1">to</t>
 <t id="p04-s02-t03" type="Coxhead-AWL-6,AR-AWL-6b">initiating</t>
-<anaphor>
+<anaphor id="p04-s02-a01" info="">
 <t id="p04-s02-t04" type="GSL-1">the</t>
 <t id="p04-s02-t05" type="GSL-1">full</t>
 <t id="p04-s02-t06">campaign</t>
@@ -743,17 +743,17 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t id="p04-s02-t35" type="GSL-1">districts</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p04-s03">
+<sentence par-function="topic|supporting|concluding" id="p04-s03">
 <t id="p04-s03-t01" type="GSL-1">We</t>
 <t id="p04-s03-t02" type="Coxhead-AWL-2,AR-AWL-2a">conducted</t>
-<anaphor>
+<anaphor id="p04-s03-a01" info="">
 <t id="p04-s03-t03" type="GSL-1">this</t>
 <t id="p04-s03-t04" type="GSL-1">study</t>
 </anaphor>
 <t id="p04-s03-t05" type="GSL-1">in</t>
 <t id="p04-s03-t06" type="GSL-1">three</t>
 <t id="p04-s03-t07" type="GSL-1">of</t>
-<anaphor>
+<anaphor id="p04-s03-a02" info="">
 <t id="p04-s03-t08" type="GSL-1">those</t>
 <t id="p04-s03-t09" type="GSL-1">villages</t>
 </anaphor>
@@ -767,7 +767,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t id="p04-s03-t17" type="GSL-1">the</t>
 <t id="p04-s03-t18" type="Coxhead-AWL-7,AR-AWL-7b">intervention</t>
 <t id="p04-s03-t19" type="GSL-1">and</t>
-<anaphor>
+<anaphor id="p04-s03-a03" info="">
 <t id="p04-s03-t20" type="GSL-1">its</t>
 </anaphor>
 <t id="p04-s03-t21" type="Coxhead-AWL-2,AR-AWL-2a">impact</t>

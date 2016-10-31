@@ -7,8 +7,8 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <url>http://cnx.org/content/col11448/latest/</url>
 <body>
 <paragraph id="p01">
-<sentence id="p01-s01">
-<connector>
+<sentence par-function="topic|supporting|concluding" id="p01-s01">
+<connector id="p01-s01-c01" type="" info="">
 <t id="p01-s01-t01" type="GSL-1">Although</t>
 </connector>
 <t id="p01-s01-t02" type="GSL-1">life</t>
@@ -24,7 +24,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <punc>(</punc>
 <t id="p01-s01-t12" type="GSL-1">such</t>
 <t id="p01-s01-t13" type="GSL-1">as</t>
-<anaphor>
+<anaphor id="p01-s01-a01" info="">
 <t id="p01-s01-t14" type="GSL-1">their</t>
 </anaphor>
 <t id="p01-s01-t15" type="GSL-1">age</t>
@@ -54,8 +54,8 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p01-s01-t37">mathematically</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p01-s02">
-<anaphor>
+<sentence par-function="topic|supporting|concluding" id="p01-s02">
+<anaphor id="p01-s02-a01" info="">
 <t id="p01-s02-t01" type="GSL-1">These</t>
 <t id="p01-s02-t02" type="GSL-1">more</t>
 <t id="p01-s02-t03" type="Coxhead-AWL-5,AR-AWL-5b">precise</t>
@@ -80,7 +80,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p01-s02-t21" type="GSL-1">changes</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p01-s03">
+<sentence par-function="topic|supporting|concluding" id="p01-s03">
 <t id="p01-s03-t01" type="GSL-1">Certain</t>
 <t id="p01-s03-t02" type="GSL-2">models</t>
 <t id="p01-s03-t03" type="GSL-1">that</t>
@@ -98,7 +98,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p01-s03-t15" type="Coxhead-AWL-8,AR-AWL-8a">abandoned</t>
 <t id="p01-s03-t16" type="GSL-1">due</t>
 <t id="p01-s03-t17" type="GSL-1">to</t>
-<anaphor>
+<anaphor id="p01-s03-a01" info="">
 <t id="p01-s03-t18" type="GSL-1">their</t>
 </anaphor>
 <t id="p01-s03-t19" type="GSL-1">lack</t>
@@ -106,7 +106,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p01-s03-t21">predictive</t>
 <t id="p01-s03-t22" type="GSL-1">ability</t>
 <punc>,</punc>
-<connector>
+<connector id="p01-s03-c01" type="" info="">
 <t id="p01-s03-t23" type="GSL-1">and</t>
 </connector>
 <t id="p01-s03-t24">scholars</t>
@@ -120,12 +120,12 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 </sentence>
 </paragraph>
 <paragraph id="p02">
-<sentence id="p02-s01">
+<sentence par-function="topic|supporting|concluding" id="p02-s01">
 <t id="p02-s01-t01">Charles</t>
 <t id="p02-s01-t02">Darwin</t>
 <punc>,</punc>
 <t id="p02-s01-t03" type="GSL-1">in</t>
-<anaphor>
+<anaphor id="p02-s01-a01" info="">
 <t id="p02-s01-t04" type="GSL-1">his</t>
 </anaphor>
 <t id="p02-s01-t05" type="Coxhead-AWL-1,AR-AWL-1b">theory</t>
@@ -144,14 +144,14 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p02-s01-t17">Malthus</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p02-s02">
+<sentence par-function="topic|supporting|concluding" id="p02-s02">
 <t id="p02-s02-t01">Malthus</t>
 <t id="p02-s02-t02" type="Coxhead-AWL-3,AR-AWL-3b">published</t>
 <t id="p02-s02-t03" type="GSL-1">a</t>
 <t id="p02-s02-t04" type="GSL-1">book</t>
 <t id="p02-s02-t05" type="GSL-1">in</t>
 <t id="p02-s02-t06">1798</t>
-<connector>
+<connector id="p02-s02-c01" type="" info="">
 <t id="p02-s02-t07" type="GSL-1">stating</t>
 <t id="p02-s02-t08" type="GSL-1">that</t>
 </connector>
@@ -164,7 +164,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p02-s02-t15" type="GSL-1">very</t>
 <t id="p02-s02-t16" type="GSL-2">rapidly</t>
 <punc>,</punc>
-<connector>
+<connector id="p02-s02-c02" type="" info="">
 <t id="p02-s02-t17" type="GSL-1">and</t>
 <t id="p02-s02-t18" type="GSL-1">then</t>
 </connector>
@@ -177,8 +177,8 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p02-s02-t25">depleted</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p02-s03">
-<anaphor>
+<sentence par-function="topic|supporting|concluding" id="p02-s03">
+<anaphor id="p02-s03-a01" info="">
 <t id="p02-s03-t01" type="GSL-1">This</t>
 <t id="p02-s03-t02">accelerating</t>
 <t id="p02-s03-t03" type="GSL-2">pattern</t>
@@ -190,7 +190,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p02-s03-t08" type="GSL-1">is</t>
 <t id="p02-s03-t09" type="GSL-1">called</t>
 <emph>
-<term>
+<term id="p02-s03-e01" info="">
 <t id="p02-s03-t10">exponential</t>
 <t id="p02-s03-t11" type="GSL-1">growth</t>
 </term>
@@ -199,7 +199,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 </sentence>
 </paragraph>
 <paragraph id="p03">
-<sentence id="p03-s01">
+<sentence par-function="topic|supporting|concluding" id="p03-s01">
 <t id="p03-s01-t01" type="GSL-1">The</t>
 <t id="p03-s01-t02" type="GSL-1">best</t>
 <t id="p03-s01-t03" type="GSL-1">example</t>
@@ -212,7 +212,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p03-s01-t10">bacteria</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p03-s02">
+<sentence par-function="topic|supporting|concluding" id="p03-s02">
 <t id="p03-s02-t01">Bacteria</t>
 <t id="p03-s02-t02" type="GSL-1">are</t>
 <t id="p03-s02-t03">prokaryotes</t>
@@ -223,8 +223,8 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p03-s02-t08">fission</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p03-s03">
-<anaphor>
+<sentence par-function="topic|supporting|concluding" id="p03-s03">
+<anaphor id="p03-s03-a01" info="">
 <t id="p03-s03-t01" type="GSL-1">This</t>
 <t id="p03-s03-t02" type="GSL-1">division</t>
 </anaphor>
@@ -238,8 +238,8 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p03-s03-t10">species</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p03-s04">
-<connector>
+<sentence par-function="topic|supporting|concluding" id="p03-s04">
+<connector id="p03-s04-c01" type="" info="">
 <t id="p03-s04-t01" type="GSL-1">If</t>
 </connector>
 <t id="p03-s04-t02">1000</t>
@@ -257,7 +257,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p03-s04-t14" type="GSL-1">of</t>
 <t id="p03-s04-t15">nutrients</t>
 <punc>,</punc>
-<connector>
+<connector id="p03-s04-c02" type="" info="">
 <t id="p03-s04-t23" type="GSL-1">after</t>
 <t id="p03-s04-t24" type="GSL-1">an</t>
 <t id="p03-s04-t25" type="GSL-1">hour</t>
@@ -269,7 +269,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p03-s04-t29" type="GSL-1">round</t>
 <t id="p03-s04-t30" type="GSL-1">of</t>
 <t id="p03-s04-t31" type="GSL-1">division</t>
-<connector>
+<connector id="p03-s04-c03" type="" info="">
 <t id="p03-s04-t32" type="GSL-1">and</t>
 </connector>
 <t id="p03-s04-t33" type="GSL-1">each</t>
@@ -287,8 +287,8 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p03-s04-t43">1000</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p03-s05">
-<connector>
+<sentence par-function="topic|supporting|concluding" id="p03-s05">
+<connector id="p03-s05-c01" type="" info="">
 <t id="p03-s05-t01" type="GSL-1">In</t>
 <t id="p03-s05-t02" type="GSL-1">another</t>
 <t id="p03-s05-t03" type="GSL-1">hour</t>
@@ -296,7 +296,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <punc>,</punc>
 <t id="p03-s05-t04" type="GSL-1">each</t>
 <t id="p03-s05-t05" type="GSL-1">of</t>
-<anaphor>
+<anaphor id="p03-s05-a01" info="">
 <t id="p03-s05-t06" type="GSL-1">the</t>
 <t id="p03-s05-t07">2000</t>
 <t id="p03-s05-t08">organisms</t>
@@ -314,8 +314,8 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p03-s05-t17">organisms</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p03-s06">
-<connector>
+<sentence par-function="topic|supporting|concluding" id="p03-s06">
+<connector id="p03-s06-c01" type="" info="">
 <t id="p03-s06-t01" type="GSL-1">After</t>
 <t id="p03-s06-t02" type="GSL-1">the</t>
 <t id="p03-s06-t03" type="GSL-1">third</t>
@@ -328,7 +328,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p03-s06-t08">8000</t>
 <t id="p03-s06-t09">bacteria</t>
 <t id="p03-s06-t10" type="GSL-1">in</t>
-<anaphor>
+<anaphor id="p03-s06-a01" info="">
 <t id="p03-s06-t11" type="GSL-1">the</t>
 <t id="p03-s06-t12">flask</t>
 </anaphor>
@@ -340,7 +340,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p03-s06-t17">organisms</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p03-s07">
+<sentence par-function="topic|supporting|concluding" id="p03-s07">
 <t id="p03-s07-t01" type="GSL-1">The</t>
 <t id="p03-s07-t02" type="GSL-1">important</t>
 <t id="p03-s07-t03" type="Coxhead-AWL-1,AR-AWL-1a">concept</t>
@@ -351,7 +351,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p03-s07-t08" type="GSL-1">that</t>
 <t id="p03-s07-t09" type="GSL-1">the</t>
 <emph>
-<term>
+<term id="p03-s07-e01" info="">
 <t id="p03-s07-t10" type="GSL-1">population</t>
 <t id="p03-s07-t11" type="GSL-1">growth</t>
 <t id="p03-s07-t12" type="GSL-1">rate</t>
@@ -371,12 +371,12 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p03-s07-t22" type="GSL-1">is</t>
 <t id="p03-s07-t23">accelerating</t>
 <punc>;</punc>
-<connector>
+<connector id="p03-s07-c01" type="" info="">
 <t id="p03-s07-t24" type="GSL-1">that</t>
 <t id="p03-s07-t25" type="GSL-1">is</t>
 </connector>
 <punc>,</punc>
-<anaphor>
+<anaphor id="p03-s07-a01" info="">
 <t id="p03-s07-t26" type="GSL-1">it</t>
 </anaphor>
 <t id="p03-s07-t27" type="GSL-1">is</t>
@@ -389,8 +389,8 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p03-s07-t34" type="GSL-1">rate</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p03-s08">
-<connector>
+<sentence par-function="topic|supporting|concluding" id="p03-s08">
+<connector id="p03-s08-c01" type="" info="">
 <t id="p03-s08-t01" type="GSL-1">After</t>
 <t id="p03-s08-t02">1</t>
 <t id="p03-s08-t03" type="GSL-1">day</t>
@@ -401,7 +401,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p03-s08-t08" type="Coxhead-AWL-4,AR-AWL-4a">cycles</t>
 </connector>
 <punc>,</punc>
-<anaphor>
+<anaphor id="p03-s08-a01" info="">
 <t id="p03-s08-t09" type="GSL-1">the</t>
 <t id="p03-s08-t10" type="GSL-1">population</t>
 </anaphor>
@@ -417,13 +417,13 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p03-s08-t20" type="GSL-2">billion</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p03-s09">
+<sentence par-function="topic|supporting|concluding" id="p03-s09">
 <t id="p03-s09-t01" type="GSL-1">When</t>
 <t id="p03-s09-t02" type="GSL-1">the</t>
 <t id="p03-s09-t03" type="GSL-1">population</t>
 <t id="p03-s09-t04" type="GSL-1">size</t>
 <punc>,</punc>
-<abbr>
+<abbr id="p03-s09-b01" info="">
 <t id="p03-s09-t05">N</t>
 </abbr>
 <punc>,</punc>
@@ -449,7 +449,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 </sentence>
 </paragraph>
 <paragraph id="p04">
-<sentence id="p04-s01">
+<sentence par-function="topic|supporting|concluding" id="p04-s01">
 <t id="p04-s01-t01" type="GSL-1">The</t>
 <t id="p04-s01-t02">bacteria</t>
 <t id="p04-s01-t03" type="GSL-1">example</t>
@@ -466,8 +466,8 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p04-s01-t14" type="GSL-1">limited</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p04-s02">
-<connector>
+<sentence par-function="topic|supporting|concluding" id="p04-s02">
+<connector id="p04-s02-c01" type="" info="">
 <t id="p04-s02-t01" type="Coxhead-AWL-6,AR-AWL-6a">Furthermore</t>
 </connector>
 <punc>,</punc>
@@ -476,7 +476,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p04-s02-t04" type="GSL-1">will</t>
 <t id="p04-s02-t05" type="GSL-1">die</t>
 <t id="p04-s02-t06" type="GSL-2">during</t>
-<anaphor>
+<anaphor id="p04-s02-a01" info="">
 <t id="p04-s02-t07" type="GSL-1">the</t>
 <t id="p04-s02-t08" type="GSL-1">experiment</t>
 </anaphor>
@@ -487,21 +487,21 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <punc>,</punc>
 <t id="p04-s02-t13" type="GSL-1">lowering</t>
 <t id="p04-s02-t14" type="GSL-1">the</t>
-<term>
+<term id="p04-s02-e01" info="">
 <t id="p04-s02-t15" type="GSL-1">growth</t>
 <t id="p04-s02-t16" type="GSL-1">rate</t>
 </term>
 <punc>.</punc>
 </sentence>
-<sentence id="p04-s03">
-<connector>
+<sentence par-function="topic|supporting|concluding" id="p04-s03">
+<connector id="p04-s03-c01" type="" info="">
 <t id="p04-s03-t01" type="GSL-1">Therefore</t>
 </connector>
 <punc>,</punc>
 <t id="p04-s03-t02" type="GSL-1">when</t>
 <t id="p04-s03-t03" type="GSL-2">calculating</t>
 <t id="p04-s03-t04" type="GSL-1">the</t>
-<term>
+<term id="p04-s03-e01" info="">
 <t id="p04-s03-t05" type="GSL-1">growth</t>
 <t id="p04-s03-t06" type="GSL-1">rate</t>
 </term>
@@ -511,14 +511,14 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <punc>,</punc>
 <t id="p04-s03-t10" type="GSL-1">the</t>
 <emph>
-<term>
+<term id="p04-s03-e02" info="">
 <t id="p04-s03-t11" type="GSL-1">death</t>
 <t id="p04-s03-t12" type="GSL-1">rate</t>
 </term>
 </emph>
 <punc>(</punc>
 <emph>
-<abbr>
+<abbr id="p04-s03-b01" info="">
 <t id="p04-s03-t13">D</t>
 </abbr>
 </emph>
@@ -539,14 +539,14 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p04-s03-t25" type="GSL-1">from</t>
 <t id="p04-s03-t26" type="GSL-1">the</t>
 <emph>
-<term>
+<term id="p04-s03-e03" info="">
 <t id="p04-s03-t27" type="GSL-2">birth</t>
 <t id="p04-s03-t28" type="GSL-1">rate</t>
 </term>
 </emph>
 <punc>(</punc>
 <emph>
-<abbr>
+<abbr id="p04-s03-b02" info="">
 <t id="p04-s03-t29">B</t>
 </abbr>
 </emph>
@@ -563,8 +563,8 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <punc>)</punc>
 <punc>.</punc>
 </sentence>
-<sentence id="p04-s04">
-<anaphor>
+<sentence par-function="topic|supporting|concluding" id="p04-s04">
+<anaphor id="p04-s04-a01" info="">
 <t id="p04-s04-t01" type="GSL-1">This</t>
 </anaphor>
 <t id="p04-s04-t02" type="GSL-1">is</t>
@@ -577,7 +577,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 </sentence>
 </paragraph>
 <paragraph id="p05">
-<sentence id="p05-s01">
+<sentence par-function="topic|supporting|concluding" id="p05-s01">
 <t id="p05-s01-t01" type="GSL-1">The</t>
 <t id="p05-s01-t02" type="GSL-2">birth</t>
 <t id="p05-s01-t03" type="GSL-1">rate</t>
@@ -596,12 +596,12 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p05-s01-t14" type="GSL-1">basis</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p05-s02">
-<connector>
+<sentence par-function="topic|supporting|concluding" id="p05-s02">
+<connector id="p05-s02-c01" type="" info="">
 <t id="p05-s02-t01" type="GSL-1">Thus</t>
 </connector>
 <punc>,</punc>
-<abbr>
+<abbr id="p05-s02-b01" info="">
 <t id="p05-s02-t02">B</t>
 </abbr>
 <punc>(</punc>
@@ -609,7 +609,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p05-s02-t04" type="GSL-1">rate</t>
 <punc>)</punc>
 <t id="p05-s02-t05">=</t>
-<abbr>
+<abbr id="p05-s02-b02" info="">
 <t id="p05-s02-t06">bN</t>
 </abbr>
 <punc>(</punc>
@@ -619,7 +619,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p05-s02-t10" type="GSL-2">birth</t>
 <t id="p05-s02-t11" type="GSL-1">rate</t>
 <punc>“</punc>
-<abbr>
+<abbr id="p05-s02-b03" info="">
 <t id="p05-s02-t12">b</t>
 </abbr>
 <punc>”</punc>
@@ -630,15 +630,15 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p05-s02-t17" type="GSL-1">of</t>
 <t id="p05-s02-t18" type="Coxhead-AWL-1,AR-AWL-1b">individuals</t>
 <punc>“</punc>
-<abbr>
+<abbr id="p05-s02-b04" info="">
 <t id="p05-s02-t19">N</t>
 </abbr>
 <punc>”</punc>
 <punc>)</punc>
-<connector>
+<connector id="p05-s02-c02" type="" info="">
 <t id="p05-s02-t20" type="GSL-1">and</t>
 </connector>
-<abbr>
+<abbr id="p05-s02-b05" info="">
 <t id="p05-s02-t21">D</t>
 </abbr>
 <punc>(</punc>
@@ -646,7 +646,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p05-s02-t23" type="GSL-1">rate</t>
 <punc>)</punc>
 <t id="p05-s02-t24">=</t>
-<abbr>
+<abbr id="p05-s02-b06" info="">
 <t id="p05-s02-t25">dN</t>
 </abbr>
 <punc>(</punc>
@@ -656,7 +656,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p05-s02-t29" type="GSL-1">death</t>
 <t id="p05-s02-t30" type="GSL-1">rate</t>
 <punc>“</punc>
-<abbr>
+<abbr id="p05-s02-b07" info="">
 <t id="p05-s02-t31">d</t>
 </abbr>
 <punc>”</punc>
@@ -667,15 +667,15 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p05-s02-t36" type="GSL-1">of</t>
 <t id="p05-s02-t37" type="Coxhead-AWL-1,AR-AWL-1b">individuals</t>
 <punc>“</punc>
-<abbr>
+<abbr id="p05-s02-b08" info="">
 <t id="p05-s02-t38">N</t>
 </abbr>
 <punc>”</punc>
 <punc>)</punc>
 <punc>.</punc>
 </sentence>
-<sentence id="p05-s03">
-<connector>
+<sentence par-function="topic|supporting|concluding" id="p05-s03">
+<connector id="p05-s03-c01" type="" info="">
 <t id="p05-s03-t01">Additionally</t>
 </connector>
 <punc>,</punc>
@@ -699,10 +699,10 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p05-s03-t18" type="Coxhead-AWL-6,AR-AWL-6b">interval</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p05-s04">
-<connector>
+<sentence par-function="topic|supporting|concluding" id="p05-s04">
+<connector id="p05-s04-c01" type="" info="">
 <t id="p05-s04-t01" type="GSL-1">For</t>
-<anaphor>
+<anaphor id="p05-s04-a01" info="">
 <t id="p05-s04-t02" type="GSL-1">this</t>
 <t id="p05-s04-t03" type="GSL-1">reason</t>
 </anaphor>
@@ -745,7 +745,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 </sentence>
 </paragraph>
 <paragraph id="p06">
-<sentence id="p06-s01">
+<sentence par-function="topic|supporting|concluding" id="p06-s01">
 <t id="p06-s01-t01" type="GSL-1">The</t>
 <t id="p06-s01-t02" type="GSL-1">difference</t>
 <t id="p06-s01-t03" type="GSL-1">between</t>
@@ -761,7 +761,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p06-s01-t13" type="GSL-1">the</t>
 <t id="p06-s01-t14" type="GSL-1">term</t>
 <punc>“</punc>
-<abbr>
+<abbr id="p06-s01-b01" info="">
 <t id="p06-s01-t15">r</t>
 </abbr>
 <punc>”</punc>
@@ -783,8 +783,8 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 </sentence>
 </paragraph>
 <paragraph id="p07">
-<sentence id="p07-s01">
-<anaphor>
+<sentence par-function="topic|supporting|concluding" id="p07-s01">
+<anaphor id="p07-s01-a01" info="">
 <t id="p07-s01-t01" type="GSL-1">The</t>
 <t id="p07-s01-t02" type="GSL-1">value</t>
 <punc>“</punc>
@@ -795,7 +795,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p07-s01-t05" type="GSL-1">be</t>
 <t id="p07-s01-t06" type="Coxhead-AWL-2,AR-AWL-2b">positive</t>
 <punc>,</punc>
-<connector>
+<connector id="p07-s01-c01" type="" info="">
 <t id="p07-s01-t07" type="GSL-1">meaning</t>
 </connector>
 <t id="p07-s01-t08" type="GSL-1">the</t>
@@ -808,7 +808,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p07-s01-t14" type="GSL-1">or</t>
 <t id="p07-s01-t15" type="Coxhead-AWL-3,AR-AWL-3b">negative</t>
 <punc>,</punc>
-<connector>
+<connector id="p07-s01-c02" type="" info="">
 <t id="p07-s01-t16" type="GSL-1">meaning</t>
 </connector>
 <t id="p07-s01-t17" type="GSL-1">the</t>
@@ -821,7 +821,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p07-s01-t23" type="GSL-1">or</t>
 <t id="p07-s01-t24" type="GSL-2">zero</t>
 <punc>,</punc>
-<connector>
+<connector id="p07-s01-c03" type="" info="">
 <t id="p07-s01-t25" type="GSL-1">where</t>
 </connector>
 <t id="p07-s01-t26" type="GSL-1">the</t>
@@ -835,7 +835,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p07-s01-t33" type="GSL-1">known</t>
 <t id="p07-s01-t34" type="GSL-1">as</t>
 <emph>
-<term>
+<term id="p07-s01-e01" info="">
 <t id="p07-s01-t35" type="GSL-2">zero</t>
 <t id="p07-s01-t36" type="GSL-1">population</t>
 <t id="p07-s01-t37" type="GSL-1">growth</t>
@@ -843,12 +843,12 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 </emph>
 <punc>.</punc>
 </sentence>
-<sentence id="p07-s02">
+<sentence par-function="topic|supporting|concluding" id="p07-s02">
 <t id="p07-s02-t01" type="GSL-1">A</t>
 <t id="p07-s02-t02" type="GSL-1">further</t>
 <t id="p07-s02-t03" type="Coxhead-AWL-9,AR-AWL-9b">refinement</t>
 <t id="p07-s02-t04" type="GSL-1">of</t>
-<anaphor>
+<anaphor id="p07-s02-a01" info="">
 <t id="p07-s02-t05" type="GSL-1">the</t>
 <t id="p07-s02-t06" type="Coxhead-AWL-1,AR-AWL-1a">formula</t>
 </anaphor>
@@ -860,7 +860,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p07-s02-t12" type="Coxhead-AWL-9,AR-AWL-9a">inherent</t>
 <t id="p07-s02-t13" type="GSL-1">differences</t>
 <t id="p07-s02-t14" type="GSL-1">in</t>
-<anaphor>
+<anaphor id="p07-s02-a02" info="">
 <t id="p07-s02-t15" type="GSL-1">their</t>
 </anaphor>
 <t id="p07-s02-t16" type="Coxhead-AWL-10,AR-AWL-10">intrinsic</t>
@@ -884,8 +884,8 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p07-s02-t31" type="GSL-1">conditions</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p07-s03">
-<connector>
+<sentence par-function="topic|supporting|concluding" id="p07-s03">
+<connector id="p07-s03-c01" type="" info="">
 <t id="p07-s03-t01" type="Coxhead-AWL-4,AR-AWL-4b">Obviously</t>
 </connector>
 <punc>,</punc>
@@ -908,7 +908,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p07-s03-t18" type="GSL-1">human</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p07-s04">
+<sentence par-function="topic|supporting|concluding" id="p07-s04">
 <t id="p07-s04-t01" type="GSL-1">The</t>
 <t id="p07-s04-t02">maximal</t>
 <t id="p07-s04-t03" type="GSL-1">growth</t>
@@ -919,7 +919,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p07-s04-t08" type="GSL-1">is</t>
 <t id="p07-s04-t09" type="GSL-1">its</t>
 <emph>
-<term>
+<term id="p07-s04-e01" info="">
 <t id="p07-s04-t10">biotic</t>
 <t id="p07-s04-t11" type="Coxhead-AWL-2,AR-AWL-2b">potential</t>
 </term>
@@ -927,14 +927,14 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <punc>,</punc>
 <t id="p07-s04-t12" type="GSL-1">or</t>
 <emph>
-<abbr>
+<abbr id="p07-s04-b01" info="">
 <t id="p07-s04-t13">rmax</t>
 </abbr>
 </emph>
 <punc>,</punc>
 <t id="p07-s04-t14" type="GSL-1">thus</t>
 <t id="p07-s04-t15" type="GSL-1">changing</t>
-<anaphor>
+<anaphor id="p07-s04-a01" info="">
 <t id="p07-s04-t16" type="GSL-1">the</t>
 <t id="p07-s04-t17" type="Coxhead-AWL-2,AR-AWL-2a">equation</t>
 </anaphor>
@@ -943,12 +943,12 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 </sentence>
 </paragraph>
 <paragraph id="p08">
-<sentence id="p08-s01">
+<sentence par-function="topic|supporting|concluding" id="p08-s01">
 <t id="p08-s01-t01">Exponential</t>
 <t id="p08-s01-t02" type="GSL-1">growth</t>
 <t id="p08-s01-t03" type="GSL-1">is</t>
 <t id="p08-s01-t04" type="GSL-1">possible</t>
-<connector>
+<connector id="p08-s01-c01" type="" info="">
 <t id="p08-s01-t05" type="GSL-1">only</t>
 <t id="p08-s01-t06" type="GSL-1">when</t>
 </connector>
@@ -958,7 +958,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p08-s01-t10" type="GSL-1">are</t>
 <t id="p08-s01-t11" type="Coxhead-AWL-1,AR-AWL-1a">available</t>
 <punc>;</punc>
-<anaphor>
+<anaphor id="p08-s01-a01" info="">
 <t id="p08-s01-t12" type="GSL-1">this</t>
 </anaphor>
 <t id="p08-s01-t13" type="GSL-1">is</t>
@@ -971,23 +971,23 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p08-s01-t20" type="GSL-1">world</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p08-s02">
+<sentence par-function="topic|supporting|concluding" id="p08-s02">
 <t id="p08-s02-t01">Charles</t>
 <t id="p08-s02-t02">Darwin</t>
 <t id="p08-s02-t03" type="GSL-1">recognized</t>
-<anaphor>
+<anaphor id="p08-s02-a01" info="">
 <t id="p08-s02-t04" type="GSL-1">this</t>
 <t id="p08-s02-t05" type="GSL-1">fact</t>
 </anaphor>
 <t id="p08-s02-t06" type="GSL-1">in</t>
-<anaphor>
+<anaphor id="p08-s02-a02" info="">
 <t id="p08-s02-t07" type="GSL-1">his</t>
 </anaphor>
 <t id="p08-s02-t08" type="GSL-1">description</t>
 <t id="p08-s02-t09" type="GSL-1">of</t>
 <t id="p08-s02-t10" type="GSL-1">the</t>
 <punc>“</punc>
-<term>
+<term id="p08-s02-e01" info="">
 <t id="p08-s02-t11" type="GSL-1">struggle</t>
 <t id="p08-s02-t12" type="GSL-1">for</t>
 <t id="p08-s02-t13" type="GSL-1">existence</t>
@@ -995,7 +995,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <punc>,</punc>
 <punc>”</punc>
 <t id="p08-s02-t14" type="GSL-1">which</t>
-<connector>
+<connector id="p08-s02-c01" type="" info="">
 <t id="p08-s02-t15" type="GSL-1">states</t>
 <t id="p08-s02-t16" type="GSL-1">that</t>
 </connector>
@@ -1006,7 +1006,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p08-s02-t20" type="GSL-1">with</t>
 <t id="p08-s02-t21" type="GSL-1">members</t>
 <t id="p08-s02-t22" type="GSL-1">of</t>
-<anaphor>
+<anaphor id="p08-s02-a03" info="">
 <t id="p08-s02-t23" type="GSL-1">their</t>
 </anaphor>
 <t id="p08-s02-t24" type="GSL-1">own</t>
@@ -1019,10 +1019,10 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p08-s02-t30" type="Coxhead-AWL-2,AR-AWL-2b">resources</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p08-s03">
+<sentence par-function="topic|supporting|concluding" id="p08-s03">
 <t id="p08-s03-t01" type="GSL-1">The</t>
 <t id="p08-s03-t02" type="GSL-1">successful</t>
-<anaphor>
+<anaphor id="p08-s03-a01" info="">
 <t id="p08-s03-t03" type="GSL-1">ones</t>
 </anaphor>
 <t id="p08-s03-t04" type="GSL-1">will</t>
@@ -1030,7 +1030,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p08-s03-t06" type="GSL-1">to</t>
 <t id="p08-s03-t07" type="GSL-1">pass</t>
 <t id="p08-s03-t08" type="GSL-1">on</t>
-<anaphor>
+<anaphor id="p08-s03-a02" info="">
 <t id="p08-s03-t09" type="GSL-1">their</t>
 </anaphor>
 <t id="p08-s03-t10" type="GSL-1">own</t>
@@ -1061,7 +1061,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <punc>)</punc>
 <punc>.</punc>
 </sentence>
-<sentence id="p08-s04">
+<sentence par-function="topic|supporting|concluding" id="p08-s04">
 <t id="p08-s04-t01" type="GSL-1">To</t>
 <t id="p08-s04-t02" type="GSL-2">model</t>
 <t id="p08-s04-t03" type="GSL-1">the</t>
@@ -1083,14 +1083,14 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 </sentence>
 </paragraph>
 <paragraph id="p09">
-<sentence id="p09-s01">
+<sentence par-function="topic|supporting|concluding" id="p09-s01">
 <t id="p09-s01-t01" type="GSL-1">In</t>
 <t id="p09-s01-t02" type="GSL-1">the</t>
 <t id="p09-s01-t03" type="GSL-1">real</t>
 <t id="p09-s01-t04" type="GSL-1">world</t>
 <punc>,</punc>
 <t id="p09-s01-t05" type="GSL-1">with</t>
-<anaphor>
+<anaphor id="p09-s01-a01" info="">
 <t id="p09-s01-t06" type="GSL-1">its</t>
 </anaphor>
 <t id="p09-s01-t07" type="GSL-1">limited</t>
@@ -1103,7 +1103,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p09-s01-t13" type="Coxhead-AWL-7,AR-AWL-7a">indefinitely</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p09-s02">
+<sentence par-function="topic|supporting|concluding" id="p09-s02">
 <t id="p09-s02-t01">Exponential</t>
 <t id="p09-s02-t02" type="GSL-1">growth</t>
 <t id="p09-s02-t03" type="GSL-1">may</t>
@@ -1120,7 +1120,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p09-s02-t14" type="Coxhead-AWL-2,AR-AWL-2b">resources</t>
 <punc>,</punc>
 <t id="p09-s02-t15" type="GSL-1">but</t>
-<connector>
+<connector id="p09-s02-c01" type="" info="">
 <t id="p09-s02-t16" type="GSL-1">when</t>
 </connector>
 <t id="p09-s02-t17" type="GSL-1">the</t>
@@ -1142,8 +1142,8 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p09-s02-t31" type="GSL-1">rate</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p09-s03">
-<connector>
+<sentence par-function="topic|supporting|concluding" id="p09-s03">
+<connector id="p09-s03-c01" type="" info="">
 <t id="p09-s03-t01" type="Coxhead-AWL-8,AR-AWL-8a">Eventually</t>
 </connector>
 <punc>,</punc>
@@ -1160,8 +1160,8 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <punc>)</punc>
 <punc>.</punc>
 </sentence>
-<sentence id="p09-s04">
-<anaphor>
+<sentence par-function="topic|supporting|concluding" id="p09-s04">
+<anaphor id="p09-s04-a01" info="">
 <t id="p09-s04-t01" type="GSL-1">This</t>
 <t id="p09-s04-t02" type="GSL-1">population</t>
 <t id="p09-s04-t03" type="GSL-1">size</t>
@@ -1184,7 +1184,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p09-s04-t17" type="GSL-1">called</t>
 <t id="p09-s04-t18" type="GSL-1">the</t>
 <emph>
-<term>
+<term id="p09-s04-e01" info="">
 <t id="p09-s04-t19" type="GSL-1">carrying</t>
 <t id="p09-s04-t20" type="Coxhead-AWL-5,AR-AWL-5a">capacity</t>
 </term>
@@ -1192,7 +1192,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <punc>,</punc>
 <t id="p09-s04-t21" type="GSL-1">or</t>
 <emph>
-<abbr>
+<abbr id="p09-s04-b01" info="">
 <t id="p09-s04-t22">K</t>
 </abbr>
 </emph>
@@ -1200,7 +1200,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 </sentence>
 </paragraph>
 <paragraph id="p10">
-<sentence id="p10-s01">
+<sentence par-function="topic|supporting|concluding" id="p10-s01">
 <t id="p10-s01-t01" type="GSL-1">The</t>
 <t id="p10-s01-t02" type="Coxhead-AWL-1,AR-AWL-1a">formula</t>
 <t id="p10-s01-t03" type="GSL-1">we</t>
@@ -1223,7 +1223,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p10-s01-t20" type="GSL-1">rate</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p10-s02">
+<sentence par-function="topic|supporting|concluding" id="p10-s02">
 <t id="p10-s02-t01" type="GSL-1">The</t>
 <t id="p10-s02-t02" type="GSL-1">expression</t>
 <punc>“</punc>
@@ -1246,7 +1246,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p10-s02-t19" type="GSL-1">given</t>
 <t id="p10-s02-t20" type="GSL-1">stage</t>
 <punc>,</punc>
-<connector>
+<connector id="p10-s02-c01" type="" info="">
 <t id="p10-s02-t21" type="GSL-1">and</t>
 </connector>
 <punc>“</punc>
@@ -1270,8 +1270,8 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p10-s02-t37" type="GSL-1">growth</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p10-s03">
-<connector>
+<sentence par-function="topic|supporting|concluding" id="p10-s03">
+<connector id="p10-s03-c01" type="" info="">
 <t id="p10-s03-t01" type="GSL-1">Thus</t>
 </connector>
 <punc>,</punc>
@@ -1282,7 +1282,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p10-s03-t06" type="GSL-1">is</t>
 <t id="p10-s03-t07" type="Coxhead-AWL-2,AR-AWL-2b">restricted</t>
 <t id="p10-s03-t08" type="GSL-1">by</t>
-<anaphor>
+<anaphor id="p10-s03-a01" info="">
 <t id="p10-s03-t09" type="GSL-1">this</t>
 <t id="p10-s03-t10" type="Coxhead-AWL-1,AR-AWL-1a">factor</t>
 </anaphor>
@@ -1296,10 +1296,10 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 </sentence>
 </paragraph>
 <paragraph id="p11">
-<sentence id="p11-s01">
+<sentence par-function="topic|supporting|concluding" id="p11-s01">
 <t id="p11-s01-t01" type="GSL-1">Notice</t>
 <t id="p11-s01-t02" type="GSL-1">that</t>
-<connector>
+<connector id="p11-s01-c01" type="" info="">
 <t id="p11-s01-t03" type="GSL-1">when</t>
 </connector>
 <t id="p11-s01-t04">N</t>
@@ -1315,7 +1315,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p11-s01-t13" type="GSL-1">or</t>
 <t id="p11-s01-t14">1</t>
 <punc>,</punc>
-<connector>
+<connector id="p11-s01-c02" type="" info="">
 <t id="p11-s01-t15" type="GSL-1">and</t>
 </connector>
 <t id="p11-s01-t16" type="GSL-1">the</t>
@@ -1328,7 +1328,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p11-s01-t23" type="GSL-1">to</t>
 <t id="p11-s01-t24">rmaxN</t>
 <punc>,</punc>
-<connector>
+<connector id="p11-s01-c03" type="" info="">
 <t id="p11-s01-t25" type="GSL-1">which</t>
 <t id="p11-s01-t26" type="GSL-1">means</t>
 </connector>
@@ -1346,8 +1346,8 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p11-s01-t38" type="Coxhead-AWL-5,AR-AWL-5a">capacity</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p11-s02">
-<connector>
+<sentence par-function="topic|supporting|concluding" id="p11-s02">
+<connector id="p11-s02-c01" type="" info="">
 <t id="p11-s02-t01" type="GSL-1">On</t>
 <t id="p11-s02-t02" type="GSL-1">the</t>
 <t id="p11-s02-t03" type="GSL-1">other</t>
@@ -1365,7 +1365,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p11-s02-t12" type="GSL-1">to</t>
 <t id="p11-s02-t13" type="GSL-2">zero</t>
 <punc>,</punc>
-<connector>
+<connector id="p11-s02-c02" type="" info="">
 <t id="p11-s02-t14" type="GSL-1">which</t>
 <t id="p11-s02-t15" type="GSL-1">means</t>
 <t id="p11-s02-t16" type="GSL-1">that</t>
@@ -1381,8 +1381,8 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p11-s02-t25" type="GSL-1">stopped</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p11-s03">
-<connector>
+<sentence par-function="topic|supporting|concluding" id="p11-s03">
+<connector id="p11-s03-c01" type="" info="">
 <t id="p11-s03-t01" type="GSL-1">Thus</t>
 </connector>
 <punc>,</punc>
@@ -1398,13 +1398,13 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p11-s03-t11" type="GSL-1">the</t>
 <t id="p11-s03-t12" type="GSL-1">carrying</t>
 <t id="p11-s03-t13" type="Coxhead-AWL-5,AR-AWL-5a">capacity</t>
-<abbr>
+<abbr id="p11-s03-b01" info="">
 <t id="p11-s03-t14">K</t>
 </abbr>
 <punc>.</punc>
 </sentence>
-<sentence id="p11-s04">
-<anaphor>
+<sentence par-function="topic|supporting|concluding" id="p11-s04">
+<anaphor id="p11-s04-a01" info="">
 <t id="p11-s04-t01" type="GSL-1">This</t>
 <t id="p11-s04-t02" type="GSL-2">model</t>
 </anaphor>
@@ -1425,8 +1425,8 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p11-s04-t16" type="Coxhead-AWL-5,AR-AWL-5a">decline</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p11-s05">
-<anaphor>
+<sentence par-function="topic|supporting|concluding" id="p11-s05">
+<anaphor id="p11-s05-a01" info="">
 <t id="p11-s05-t01" type="GSL-1">This</t>
 </anaphor>
 <t id="p11-s05-t02" type="Coxhead-AWL-1,AR-AWL-1b">occurs</t>
@@ -1455,11 +1455,11 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 </sentence>
 </paragraph>
 <paragraph id="p12">
-<sentence id="p12-s01">
+<sentence par-function="topic|supporting|concluding" id="p12-s01">
 <t id="p12-s01-t01" type="GSL-1">A</t>
 <t id="p12-s01-t02">graph</t>
 <t id="p12-s01-t03" type="GSL-1">of</t>
-<anaphor>
+<anaphor id="p12-s01-a01" info="">
 <t id="p12-s01-t04" type="GSL-1">this</t>
 <t id="p12-s01-t05" type="Coxhead-AWL-2,AR-AWL-2a">equation</t>
 </anaphor>
@@ -1475,10 +1475,10 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p12-s01-t11" type="GSL-1">Figure</t>
 <punc>)</punc>
 <punc>,</punc>
-<connector>
+<connector id="p12-s01-c01" type="" info="">
 <t id="p12-s01-t12" type="GSL-1">and</t>
 </connector>
-<anaphor>
+<anaphor id="p12-s01-a02" info="">
 <t id="p12-s01-t13" type="GSL-1">it</t>
 </anaphor>
 <t id="p12-s01-t14" type="GSL-1">is</t>
@@ -1494,7 +1494,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p12-s01-t24" type="GSL-1">growth</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p12-s02">
+<sentence par-function="topic|supporting|concluding" id="p12-s02">
 <t id="p12-s02-t01" type="GSL-1">There</t>
 <t id="p12-s02-t02" type="GSL-1">are</t>
 <t id="p12-s02-t03" type="GSL-1">three</t>
@@ -1508,8 +1508,8 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p12-s02-t10" type="GSL-2">curve</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p12-s03">
-<connector>
+<sentence par-function="topic|supporting|concluding" id="p12-s03">
+<connector id="p12-s03-c01" type="" info="">
 <t id="p12-s03-t01" type="Coxhead-AWL-3,AR-AWL-3a">Initially</t>
 </connector>
 <punc>,</punc>
@@ -1527,8 +1527,8 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p12-s03-t13" type="Coxhead-AWL-1,AR-AWL-1a">available</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p12-s04">
-<connector>
+<sentence par-function="topic|supporting|concluding" id="p12-s04">
+<connector id="p12-s04-c01" type="" info="">
 <t id="p12-s04-t01" type="GSL-1">Then</t>
 </connector>
 <punc>,</punc>
@@ -1545,8 +1545,8 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p12-s04-t11" type="GSL-2">decreases</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p12-s05">
-<connector>
+<sentence par-function="topic|supporting|concluding" id="p12-s05">
+<connector id="p12-s05-c01" type="" info="">
 <t id="p12-s05-t01" type="Coxhead-AWL-2,AR-AWL-2a">Finally</t>
 </connector>
 <punc>,</punc>
@@ -1573,8 +1573,8 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 </sentence>
 </paragraph>
 <paragraph id="p13">
-<sentence id="p13-s01">
-<anaphor>
+<sentence par-function="topic|supporting|concluding" id="p13-s01">
+<anaphor id="p13-s01-a01" info="">
 <t id="p13-s01-t01" type="GSL-1">The</t>
 <t id="p13-s01-t02">logistic</t>
 <t id="p13-s01-t03" type="GSL-2">model</t>
@@ -1594,7 +1594,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p13-s01-t16" type="Coxhead-AWL-2,AR-AWL-2b">resources</t>
 <t id="p13-s01-t17" type="GSL-1">and</t>
 <punc>,</punc>
-<connector>
+<connector id="p13-s01-c01" type="" info="">
 <t id="p13-s01-t18" type="GSL-1">thus</t>
 </connector>
 <punc>,</punc>
@@ -1605,7 +1605,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p13-s01-t23" type="Coxhead-AWL-7,AR-AWL-7b">survival</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p13-s02">
+<sentence par-function="topic|supporting|concluding" id="p13-s02">
 <t id="p13-s02-t01" type="GSL-1">For</t>
 <t id="p13-s02-t02" type="GSL-1">plants</t>
 <punc>,</punc>
@@ -1628,7 +1628,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p13-s02-t16" type="GSL-1">important</t>
 <t id="p13-s02-t17" type="Coxhead-AWL-2,AR-AWL-2b">resources</t>
 <punc>,</punc>
-<connector>
+<connector id="p13-s02-c01" type="" info="">
 <t id="p13-s02-t18" type="Coxhead-AWL-5,AR-AWL-5b">whereas</t>
 </connector>
 <t id="p13-s02-t19" type="GSL-1">in</t>
@@ -1652,7 +1652,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 </sentence>
 </paragraph>
 <paragraph id="p14">
-<sentence id="p14-s01">
+<sentence par-function="topic|supporting|concluding" id="p14-s01">
 <t id="p14-s01-t01" type="GSL-1">In</t>
 <t id="p14-s01-t02" type="GSL-1">the</t>
 <t id="p14-s01-t03" type="GSL-1">real</t>
@@ -1674,17 +1674,17 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p14-s01-t18" type="GSL-1">better</t>
 <t id="p14-s01-t19" type="Coxhead-AWL-7,AR-AWL-7a">adapted</t>
 <t id="p14-s01-t20" type="GSL-1">to</t>
-<anaphor>
+<anaphor id="p14-s01-a01" info="">
 <t id="p14-s01-t21" type="GSL-1">their</t>
 </anaphor>
 <t id="p14-s01-t22" type="Coxhead-AWL-1,AR-AWL-1a">environment</t>
 <t id="p14-s01-t23" type="GSL-1">than</t>
-<anaphor>
+<anaphor id="p14-s01-a02" info="">
 <t id="p14-s01-t24" type="GSL-1">others</t>
 </anaphor>
 <punc>.</punc>
 </sentence>
-<sentence id="p14-s02">
+<sentence par-function="topic|supporting|concluding" id="p14-s02">
 <t id="p14-s02-t01" type="GSL-1">The</t>
 <t id="p14-s02-t02" type="GSL-1">resulting</t>
 <t id="p14-s02-t03" type="GSL-2">competition</t>
@@ -1699,7 +1699,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p14-s02-t12" type="Coxhead-AWL-2,AR-AWL-2b">resources</t>
 <t id="p14-s02-t13" type="GSL-1">is</t>
 <t id="p14-s02-t14">termed</t>
-<term>
+<term id="p14-s02-e01" info="">
 <t id="p14-s02-t15">intraspecific</t>
 <t id="p14-s02-t16" type="GSL-2">competition</t>
 </term>
@@ -1718,7 +1718,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <punc>)</punc>
 <punc>.</punc>
 </sentence>
-<sentence id="p14-s03">
+<sentence par-function="topic|supporting|concluding" id="p14-s03">
 <t id="p14-s03-t01">Intraspecific</t>
 <t id="p14-s03-t02" type="GSL-2">competition</t>
 <t id="p14-s03-t03" type="GSL-1">for</t>
@@ -1731,7 +1731,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p14-s03-t10" type="GSL-1">are</t>
 <t id="p14-s03-t11" type="GSL-1">well</t>
 <t id="p14-s03-t12" type="GSL-1">below</t>
-<anaphor>
+<anaphor id="p14-s03-a01" info="">
 <t id="p14-s03-t13" type="GSL-1">their</t>
 </anaphor>
 <t id="p14-s03-t14" type="GSL-1">carrying</t>
@@ -1746,14 +1746,14 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p14-s03-t22" type="GSL-1">can</t>
 <t id="p14-s03-t23" type="Coxhead-AWL-2,AR-AWL-2b">obtain</t>
 <t id="p14-s03-t24" type="GSL-1">what</t>
-<anaphor>
+<anaphor id="p14-s03-a02" info="">
 <t id="p14-s03-t25" type="GSL-1">they</t>
 </anaphor>
 <t id="p14-s03-t26" type="GSL-1">need</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p14-s04">
-<connector>
+<sentence par-function="topic|supporting|concluding" id="p14-s04">
+<connector id="p14-s04-c01" type="" info="">
 <t id="p14-s04-t01" type="GSL-1">However</t>
 </connector>
 <punc>,</punc>
@@ -1762,15 +1762,15 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p14-s04-t04" type="GSL-1">size</t>
 <t id="p14-s04-t05" type="GSL-1">increases</t>
 <punc>,</punc>
-<anaphor>
+<anaphor id="p14-s04-a01" info="">
 <t id="p14-s04-t06" type="GSL-1">this</t>
 <t id="p14-s04-t07" type="GSL-2">competition</t>
 </anaphor>
 <t id="p14-s04-t08" type="Coxhead-AWL-8,AR-AWL-8b">intensifies</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p14-s05">
-<connector>
+<sentence par-function="topic|supporting|concluding" id="p14-s05">
+<connector id="p14-s05-c01" type="" info="">
 <t id="p14-s05-t01" type="GSL-1">In</t>
 <t id="p14-s05-t02" type="GSL-1">addition</t>
 </connector>
@@ -1790,7 +1790,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 </sentence>
 </paragraph>
 <paragraph id="p15">
-<sentence id="p15-s01">
+<sentence par-function="topic|supporting|concluding" id="p15-s01">
 <t id="p15-s01-t01">Yeast</t>
 <punc>,</punc>
 <t id="p15-s01-t02" type="GSL-1">a</t>
@@ -1823,8 +1823,8 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <punc>)</punc>
 <punc>.</punc>
 </sentence>
-<sentence id="p15-s02">
-<anaphor>
+<sentence par-function="topic|supporting|concluding" id="p15-s02">
+<anaphor id="p15-s02-a01" info="">
 <t id="p15-s02-t01" type="GSL-1">Its</t>
 </anaphor>
 <t id="p15-s02-t02" type="GSL-1">growth</t>
@@ -1840,19 +1840,19 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p15-s02-t12" type="GSL-1">are</t>
 <t id="p15-s02-t13" type="GSL-1">necessary</t>
 <t id="p15-s02-t14" type="GSL-1">for</t>
-<anaphor>
+<anaphor id="p15-s02-a02" info="">
 <t id="p15-s02-t15" type="GSL-1">its</t>
 </anaphor>
 <t id="p15-s02-t16" type="GSL-1">growth</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p15-s03">
+<sentence par-function="topic|supporting|concluding" id="p15-s03">
 <t id="p15-s03-t01" type="GSL-1">In</t>
 <t id="p15-s03-t02" type="GSL-1">the</t>
 <t id="p15-s03-t03" type="GSL-1">real</t>
 <t id="p15-s03-t04" type="GSL-1">world</t>
 <punc>,</punc>
-<connector>
+<connector id="p15-s03-c01" type="" info="">
 <t id="p15-s03-t05" type="GSL-1">however</t>
 </connector>
 <punc>,</punc>
@@ -1860,14 +1860,14 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p15-s03-t07" type="GSL-1">are</t>
 <t id="p15-s03-t08" type="Coxhead-AWL-1,AR-AWL-1b">variations</t>
 <t id="p15-s03-t09" type="GSL-1">to</t>
-<anaphor>
+<anaphor id="p15-s03-a01" info="">
 <t id="p15-s03-t10" type="GSL-1">this</t>
 <t id="p15-s03-t11">idealized</t>
 <t id="p15-s03-t12" type="GSL-2">curve</t>
 </anaphor>
 <punc>.</punc>
 </sentence>
-<sentence id="p15-s04">
+<sentence par-function="topic|supporting|concluding" id="p15-s04">
 <t id="p15-s04-t01" type="GSL-1">Examples</t>
 <t id="p15-s04-t02" type="GSL-1">in</t>
 <t id="p15-s04-t03" type="GSL-1">wild</t>
@@ -1883,7 +1883,7 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <punc>)</punc>
 <punc>.</punc>
 </sentence>
-<sentence id="p15-s05">
+<sentence par-function="topic|supporting|concluding" id="p15-s05">
 <t id="p15-s05-t01" type="GSL-1">In</t>
 <t id="p15-s05-t02" type="GSL-1">both</t>
 <t id="p15-s05-t03" type="GSL-1">examples</t>
@@ -1910,8 +1910,8 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p15-s05-t23" type="GSL-1">afterwards</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p15-s06">
-<anaphor>
+<sentence par-function="topic|supporting|concluding" id="p15-s06">
+<anaphor id="p15-s06-a01" info="">
 <t id="p15-s06-t01" type="GSL-1">This</t>
 <t id="p15-s06-t02" type="Coxhead-AWL-8,AR-AWL-8a">fluctuation</t>
 <t id="p15-s06-t03" type="GSL-1">in</t>
@@ -1926,26 +1926,26 @@ http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
 <t id="p15-s06-t11" type="GSL-1">population</t>
 <t id="p15-s06-t12">oscillates</t>
 <t id="p15-s06-t13" type="GSL-1">around</t>
-<anaphor>
+<anaphor id="p15-s06-a02" info="">
 <t id="p15-s06-t14" type="GSL-1">its</t>
 </anaphor>
 <t id="p15-s06-t15" type="GSL-1">carrying</t>
 <t id="p15-s06-t16" type="Coxhead-AWL-5,AR-AWL-5a">capacity</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p15-s07">
+<sentence par-function="topic|supporting|concluding" id="p15-s07">
 <t id="p15-s07-t01" type="GSL-1">Still</t>
 <punc>,</punc>
-<connector>
+<connector id="p15-s07-c01" type="" info="">
 <t id="p15-s07-t02" type="GSL-1">even</t>
 </connector>
 <t id="p15-s07-t03" type="GSL-1">with</t>
-<anaphor>
+<anaphor id="p15-s07-a01" info="">
 <t id="p15-s07-t04" type="GSL-1">this</t>
 <t id="p15-s07-t05">oscillation</t>
 </anaphor>
 <punc>,</punc>
-<anaphor>
+<anaphor id="p15-s07-a02" info="">
 <t id="p15-s07-t06" type="GSL-1">the</t>
 <t id="p15-s07-t07">logistic</t>
 <t id="p15-s07-t08" type="GSL-2">model</t>

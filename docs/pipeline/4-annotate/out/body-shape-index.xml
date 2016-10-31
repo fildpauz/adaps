@@ -7,8 +7,8 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0039504</url>
 <body>
 <paragraph id="p01">
-<sentence id="p01-s01">
-<connector>
+<sentence par-function="topic|supporting|concluding" id="p01-s01">
+<connector id="p01-s01-c01" type="" info="">
 <t id="p01-s01-t01" type="GSL-1">According</t>
 <t id="p01-s01-t02" type="GSL-1">to</t>
 </connector>
@@ -17,7 +17,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t id="p01-s01-t05" type="GSL-2">Health</t>
 <t id="p01-s01-t06" type="GSL-1">Organization</t>
 <punc>(</punc>
-<abbr>
+<abbr id="p01-s01-b01" info="">
 <t id="p01-s01-t07" type="GSL-1">WHO</t>
 </abbr>
 <punc>)</punc>
@@ -58,7 +58,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t id="p01-s01-t37">inactivity</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p01-s02">
+<sentence par-function="topic|supporting|concluding" id="p01-s02">
 <t id="p01-s02-t01" type="GSL-1">In</t>
 <t id="p01-s02-t02" type="GSL-1">high</t>
 <t id="p01-s02-t03" type="GSL-1">and</t>
@@ -102,10 +102,10 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t id="p01-s02-t38" type="GSL-1">use</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p01-s03">
+<sentence par-function="topic|supporting|concluding" id="p01-s03">
 <t id="p01-s03-t01" type="GSL-1">WHO</t>
 <t id="p01-s03-t02" type="Coxhead-AWL-1,AR-AWL-1a">defined</t>
-<term>
+<term id="p01-s03-e01" info="">
 <t id="p01-s03-t03">overweight</t>
 </term>
 <t id="p01-s03-t04" type="GSL-1">as</t>
@@ -113,7 +113,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t id="p01-s03-t06" type="GSL-1">mass</t>
 <t id="p01-s03-t07" type="Coxhead-AWL-6,AR-AWL-6b">index</t>
 <punc>(</punc>
-<abbr>
+<abbr id="p01-s03-b01" info="">
 <t id="p01-s03-t08">BMI</t>
 </abbr>
 <punc>;</punc>
@@ -141,7 +141,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <punc>]</punc>
 <punc>.</punc>
 </sentence>
-<sentence id="p01-s04">
+<sentence par-function="topic|supporting|concluding" id="p01-s04">
 <t id="p01-s04-t01" type="Coxhead-AWL-8,AR-AWL-8a">Guidelines</t>
 <t id="p01-s04-t02" type="Coxhead-AWL-3,AR-AWL-3b">published</t>
 <t id="p01-s04-t03" type="GSL-1">by</t>
@@ -153,7 +153,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t id="p01-s04-t09" type="GSL-2">Health</t>
 <punc>,</punc>
 <t id="p01-s04-t10" type="GSL-1">using</t>
-<anaphor>
+<anaphor id="p01-s04-a01" info="">
 <t id="p01-s04-t11" type="GSL-1">the</t>
 <t id="p01-s04-t12" type="GSL-1">same</t>
 <t id="p01-s04-t13" type="Coxhead-AWL-1,AR-AWL-1a">definition</t>
@@ -185,8 +185,8 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 </sentence>
 </paragraph>
 <paragraph id="p02">
-<sentence id="p02-s01">
-<anaphor>
+<sentence par-function="topic|supporting|concluding" id="p02-s01">
+<anaphor id="p02-s01-a01" info="">
 <t id="p02-s01-t01" type="GSL-1">These</t>
 <t id="p02-s01-t02">BMI</t>
 <punc>-</punc>
@@ -213,7 +213,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t id="p02-s01-t22">obesity</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p02-s02">
+<sentence par-function="topic|supporting|concluding" id="p02-s02">
 <t id="p02-s02-t01">BMI</t>
 <t id="p02-s02-t02" type="GSL-1">does</t>
 <t id="p02-s02-t03" type="GSL-1">not</t>
@@ -231,7 +231,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t id="p02-s02-t11">6</t>
 <punc>]</punc>
 <punc>,</punc>
-<connector>
+<connector id="p02-s02-c01" type="" info="">
 <t id="p02-s02-t12" type="GSL-1">and</t>
 </connector>
 <t id="p02-s02-t13" type="GSL-1">there</t>
@@ -261,8 +261,8 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <punc>]</punc>
 <punc>.</punc>
 </sentence>
-<sentence id="p02-s03">
-<connector>
+<sentence par-function="topic|supporting|concluding" id="p02-s03">
+<connector id="p02-s03-c01" type="" info="">
 <t id="p02-s03-t01" type="GSL-1">As</t>
 <t id="p02-s03-t02" type="GSL-1">well</t>
 </connector>
@@ -275,7 +275,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t id="p02-s03-t08" type="GSL-2">fat</t>
 <t id="p02-s03-t09" type="Coxhead-AWL-3,AR-AWL-3b">locations</t>
 <punc>,</punc>
-<connector>
+<connector id="p02-s03-c02" type="" info="">
 <t id="p02-s03-t10" type="GSL-1">when</t>
 </connector>
 <t id="p02-s03-t11" type="GSL-1">central</t>
@@ -298,7 +298,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <punc>]</punc>
 <punc>.</punc>
 </sentence>
-<sentence id="p02-s04">
+<sentence par-function="topic|supporting|concluding" id="p02-s04">
 <t id="p02-s04-t01" type="GSL-2">Waist</t>
 <t id="p02-s04-t02">circumference</t>
 <punc>(</punc>
@@ -318,7 +318,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t id="p02-s04-t15" type="GSL-2">risk</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p02-s05">
+<sentence par-function="topic|supporting|concluding" id="p02-s05">
 <t id="p02-s05-t01" type="GSL-1">A</t>
 <t id="p02-s05-t02" type="GSL-1">number</t>
 <t id="p02-s05-t03" type="GSL-1">of</t>
@@ -342,7 +342,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <punc>]</punc>
 <punc>.</punc>
 </sentence>
-<sentence id="p02-s06">
+<sentence par-function="topic|supporting|concluding" id="p02-s06">
 <t id="p02-s06-t01" type="GSL-1">A</t>
 <t id="p02-s06-t02" type="GSL-1">recent</t>
 <t id="p02-s06-t03" type="GSL-1">WHO</t>
@@ -358,7 +358,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t id="p02-s06-t13" type="GSL-2">disease</t>
 <t id="p02-s06-t14" type="GSL-2">risk</t>
 <punc>,</punc>
-<connector>
+<connector id="p02-s06-c01" type="" info="">
 <t id="p02-s06-t15" type="GSL-1">and</t>
 <t id="p02-s06-t16" type="GSL-1">suggests</t>
 <t id="p02-s06-t17" type="GSL-1">that</t>
@@ -379,14 +379,14 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 </sentence>
 </paragraph>
 <paragraph id="p03">
-<sentence id="p03-s01">
+<sentence par-function="topic|supporting|concluding" id="p03-s01">
 <t id="p03-s01-t01" type="GSL-1">A</t>
 <t id="p03-s01-t02" type="GSL-2">key</t>
 <t id="p03-s01-t03" type="GSL-1">limitation</t>
 <punc>,</punc>
 <t id="p03-s01-t04" type="GSL-1">mentioned</t>
 <t id="p03-s01-t05" type="GSL-1">in</t>
-<anaphor>
+<anaphor id="p03-s01-a01" info="">
 <t id="p03-s01-t06" type="GSL-1">the</t>
 <t id="p03-s01-t07" type="GSL-1">WHO</t>
 <t id="p03-s01-t08" type="GSL-1">report</t>
@@ -404,7 +404,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t id="p03-s01-t18" type="Coxhead-AWL-1,AR-AWL-1a">distribution</t>
 <t id="p03-s01-t19" type="GSL-1">is</t>
 <t id="p03-s01-t20" type="GSL-1">that</t>
-<anaphor>
+<anaphor id="p03-s01-a02" info="">
 <t id="p03-s01-t21" type="GSL-1">it</t>
 </anaphor>
 <t id="p03-s01-t22" type="GSL-1">is</t>
@@ -427,8 +427,8 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t id="p03-s01-t37" type="Coxhead-AWL-1,AR-AWL-1a">distribution</t>
 <punc>.</punc>
 </sentence>
-<sentence id="p03-s02">
-<connector>
+<sentence par-function="topic|supporting|concluding" id="p03-s02">
+<connector id="p03-s02-c01" type="" info="">
 <t id="p03-s02-t01" type="GSL-1">In</t>
 <t id="p03-s02-t02" type="GSL-1">fact</t>
 </connector>
@@ -445,7 +445,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t id="p03-s02-t11" type="GSL-1">extent</t>
 <t id="p03-s02-t12" type="GSL-1">that</t>
 <t id="p03-s02-t13" type="Coxhead-AWL-7,AR-AWL-7a">differentiating</t>
-<anaphor>
+<anaphor id="p03-s02-a01" info="">
 <t id="p03-s02-t14" type="GSL-1">the</t>
 <t id="p03-s02-t15" type="GSL-1">two</t>
 </anaphor>
@@ -461,8 +461,8 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <punc>]</punc>
 <punc>.</punc>
 </sentence>
-<sentence id="p03-s03">
-<connector>
+<sentence par-function="topic|supporting|concluding" id="p03-s03">
+<connector id="p03-s03-c01" type="" info="">
 <t id="p03-s03-t01" type="GSL-1">According</t>
 <t id="p03-s03-t02" type="GSL-1">to</t>
 </connector>
@@ -507,7 +507,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <punc>.</punc>
 <punc>”</punc>
 </sentence>
-<sentence id="p03-s04">
+<sentence par-function="topic|supporting|concluding" id="p03-s04">
 <t id="p03-s04-t01">Scaling</t>
 <t id="p03-s04-t02">WC</t>
 <t id="p03-s04-t03" type="Coxhead-AWL-8,AR-AWL-8b">via</t>
@@ -532,7 +532,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t id="p03-s04-t22" type="GSL-1">on</t>
 <t id="p03-s04-t23" type="GSL-2">health</t>
 <t id="p03-s04-t24" type="GSL-1">of</t>
-<term>
+<term id="p03-s04-e01" info="">
 <t id="p03-s04-t25" type="GSL-1">body</t>
 <t id="p03-s04-t26" type="GSL-1">shape</t>
 </term>
@@ -550,11 +550,11 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <t id="p03-s04-t36">deposits</t>
 <punc>)</punc>
 <t id="p03-s04-t37" type="GSL-1">from</t>
-<anaphor>
+<anaphor id="p03-s04-a01" info="">
 <t id="p03-s04-t38" type="GSL-1">that</t>
 </anaphor>
 <t id="p03-s04-t39" type="GSL-1">of</t>
-<term>
+<term id="p03-s04-e02" info="">
 <t id="p03-s04-t40" type="GSL-1">body</t>
 <t id="p03-s04-t41" type="GSL-1">size</t>
 </term>
@@ -571,7 +571,7 @@ Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 <punc>)</punc>
 <punc>.</punc>
 </sentence>
-<sentence id="p03-s05">
+<sentence par-function="topic|supporting|concluding" id="p03-s05">
 <t id="p03-s05-t01" type="GSL-1">In</t>
 <t id="p03-s05-t02" type="GSL-1">this</t>
 <t id="p03-s05-t03" type="GSL-1">paper</t>

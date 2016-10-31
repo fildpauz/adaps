@@ -73,10 +73,10 @@
   >
 
 <!--- Put your DTDDoc comment here. -->
-<!ELEMENT emph (t)*>
+<!ELEMENT emph (t|punc|abbr|anaphor|term)*>
 
 <!--- Put your DTDDoc comment here. -->
-<!ELEMENT connector (t)*>
+<!ELEMENT connector (t|anaphor)*>
 <!ATTLIST connector
     id CDATA #IMPLIED
     type CDATA #IMPLIED
