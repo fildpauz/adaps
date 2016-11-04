@@ -1,1100 +1,1100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
 <document>
-<title>Critically Endangered Hawaiian Crow Joins the Tool-Users Club</title>
-<citation>Bates, M. (2016) Critically Endangered Hawaiian Crow Joins the Tool-Users Club. PLOS Ecology Community (PLoS ONE blog). Retrieved from http://blogs.plos.org/ecology/2016/09/14/critically-endangered-hawaiian-crow-joins-the-tool-users-club/ on 27 Sep 2016.</citation>
-<url>http://blogs.plos.org/ecology/2016/09/14/critically-endangered-hawaiian-crow-joins-the-tool-users-club/</url>
-<body>
-<paragraph id="p01">
-<sentence par-function="topic|supporting|concluding" id="p01-s01">
-<t id="p01-s01-t01">Hawaiian</t>
-<t id="p01-s01-t02">crows</t>
-<punc>(</punc>
-<t id="p01-s01-t03">Corvus</t>
-<t id="p01-s01-t04">hawaiiensis</t>
-<punc>)</punc>
-<t id="p01-s01-t05" type="GSL-1">use</t>
-<t id="p01-s01-t06" type="GSL-2">tools</t>
-<t id="p01-s01-t07" type="GSL-1">when</t>
-<t id="p01-s01-t08">foraging</t>
-<t id="p01-s01-t09" type="GSL-1">for</t>
-<t id="p01-s01-t10" type="GSL-1">food</t>
-<punc>,</punc>
-<connector id="p01-s01-c01" type="" info="">
-<t id="p01-s01-t11" type="GSL-1">finds</t>
-</connector>
-<t id="p01-s01-t12" type="GSL-1">an</t>
-<t id="p01-s01-t13" type="GSL-2">international</t>
-<t id="p01-s01-t14" type="Coxhead-AWL-9,AR-AWL-9b">team</t>
-<t id="p01-s01-t15" type="GSL-1">of</t>
-<t id="p01-s01-t16" type="GSL-1">scientists</t>
-<t id="p01-s01-t17" type="GSL-1">and</t>
-<t id="p01-s01-t18">conservationists</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p01-s02">
-<anaphor id="p01-s02-a01" info="">
-<t id="p01-s02-t01" type="GSL-1">These</t>
-<t id="p01-s02-t02" type="GSL-1">birds</t>
-</anaphor>
-<punc>,</punc>
-<t id="p01-s02-t03" type="GSL-1">also</t>
-<t id="p01-s02-t04" type="GSL-1">known</t>
-<t id="p01-s02-t05" type="GSL-1">as</t>
-<term id="p01-s02-e01" info="">
-<t id="p01-s02-t06">‘Alalā</t>
-</term>
-<punc>,</punc>
-<t id="p01-s02-t07" type="GSL-2">rival</t>
-<t id="p01-s02-t08" type="GSL-1">New</t>
-<t id="p01-s02-t09">Caledonian</t>
-<t id="p01-s02-t10">crows</t>
-<t id="p01-s02-t11" type="GSL-1">in</t>
-<anaphor id="p01-s02-a02" info="">
-<t id="p01-s02-t12" type="GSL-1">their</t>
-</anaphor>
-<t id="p01-s02-t13">proficiency</t>
-<t id="p01-s02-t14" type="GSL-1">and</t>
-<t id="p01-s02-t15">dexterity</t>
-<t id="p01-s02-t16" type="GSL-1">with</t>
-<t id="p01-s02-t17" type="GSL-2">tools</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p01-s03">
-<anaphor id="p01-s03-a01" info="">
-<t id="p01-s03-t01" type="GSL-1">The</t>
-<t id="p01-s03-t02" type="GSL-1">discovery</t>
-</anaphor>
-<t id="p01-s03-t03" type="GSL-1">was</t>
-<t id="p01-s03-t04" type="Coxhead-AWL-3,AR-AWL-3b">published</t>
-<t id="p01-s03-t05" type="GSL-1">on</t>
-<t id="p01-s03-t06" type="GSL-1">Wednesday</t>
-<t id="p01-s03-t07" type="GSL-1">in</t>
-<t id="p01-s03-t08" type="GSL-1">the</t>
-<t id="p01-s03-t09" type="Coxhead-AWL-2,AR-AWL-2b">journal</t>
-<t id="p01-s03-t10" type="GSL-1">Nature</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p02">
-<sentence par-function="topic|supporting|concluding" id="p02-s01">
-<t id="p02-s01-t01" type="GSL-1">Only</t>
-<t id="p02-s01-t02" type="GSL-1">a</t>
-<t id="p02-s01-t03" type="GSL-1">handful</t>
-<t id="p02-s01-t04" type="GSL-1">of</t>
-<t id="p02-s01-t05" type="GSL-1">bird</t>
-<t id="p02-s01-t06">species</t>
-<t id="p02-s01-t07" type="GSL-1">use</t>
-<t id="p02-s01-t08">foraging</t>
-<t id="p02-s01-t09" type="GSL-2">tools</t>
-<t id="p02-s01-t10" type="GSL-1">in</t>
-<t id="p02-s01-t11" type="GSL-1">the</t>
-<t id="p02-s01-t12" type="GSL-1">wild</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p02-s02">
-<t id="p02-s02-t01" type="GSL-1">The</t>
-<t id="p02-s02-t02" type="GSL-1">New</t>
-<t id="p02-s02-t03">Caledonian</t>
-<t id="p02-s02-t04">crow</t>
-<punc>(</punc>
-<t id="p02-s02-t05">Corvus</t>
-<t id="p02-s02-t06">moneduloides</t>
-<punc>)</punc>
-<t id="p02-s02-t07" type="GSL-1">is</t>
-<t id="p02-s02-t08" type="GSL-1">a</t>
-<t id="p02-s02-t09" type="GSL-1">stand</t>
-<punc>-</punc>
-<t id="p02-s02-t10" type="GSL-1">out</t>
-<t id="p02-s02-t11" type="GSL-1">even</t>
-<t id="p02-s02-t12" type="GSL-1">amongst</t>
-<anaphor id="p02-s02-a01" info="">
-<t id="p02-s02-t13" type="GSL-1">this</t>
-<t id="p02-s02-t14" type="Coxhead-AWL-2,AR-AWL-2b">select</t>
-<t id="p02-s02-t15" type="GSL-1">group</t>
-</anaphor>
-<punc>,</punc>
-<t id="p02-s02-t16" type="GSL-1">due</t>
-<t id="p02-s02-t17" type="GSL-1">to</t>
-<anaphor id="p02-s02-a02" info="">
-<t id="p02-s02-t18" type="GSL-1">its</t>
-</anaphor>
-<t id="p02-s02-t19" type="GSL-1">highly</t>
-<t id="p02-s02-t20">sophisticated</t>
-<t id="p02-s02-t21" type="GSL-2">tool</t>
-<punc>-</punc>
-<t id="p02-s02-t22" type="GSL-1">making</t>
-<t id="p02-s02-t23" type="GSL-1">and</t>
-<t id="p02-s02-t24" type="GSL-1">using</t>
-<t id="p02-s02-t25" type="GSL-2">skills</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p02-s03">
-<t id="p02-s03-t01" type="GSL-1">New</t>
-<t id="p02-s03-t02">Caledonian</t>
-<t id="p02-s03-t03">crows</t>
-<t id="p02-s03-t04" type="GSL-1">live</t>
-<t id="p02-s03-t05" type="GSL-1">only</t>
-<t id="p02-s03-t06" type="GSL-1">on</t>
-<t id="p02-s03-t07" type="GSL-1">the</t>
-<t id="p02-s03-t08">remote</t>
-<t id="p02-s03-t09" type="GSL-1">South</t>
-<t id="p02-s03-t10">Pacific</t>
-<t id="p02-s03-t11" type="GSL-2">island</t>
-<t id="p02-s03-t12" type="GSL-1">of</t>
-<t id="p02-s03-t13" type="GSL-1">New</t>
-<t id="p02-s03-t14">Caledonia</t>
-<t id="p02-s03-t15" type="GSL-1">where</t>
-<anaphor id="p02-s03-a01" info="">
-<t id="p02-s03-t16" type="GSL-1">they</t>
-</anaphor>
-<t id="p02-s03-t17" type="GSL-1">have</t>
-<t id="p02-s03-t18" type="GSL-1">long</t>
-<t id="p02-s03-t19">impressed</t>
-<t id="p02-s03-t20" type="GSL-1">and</t>
-<t id="p02-s03-t21">intrigued</t>
-<t id="p02-s03-t22" type="GSL-1">scientists</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p02-s04">
-<t id="p02-s04-t01" type="GSL-1">The</t>
-<t id="p02-s04-t02" type="GSL-1">big</t>
-<t id="p02-s04-t03" type="GSL-1">question</t>
-<t id="p02-s04-t04" type="GSL-1">was</t>
-<t id="p02-s04-t05" type="GSL-1">why</t>
-<anaphor id="p02-s04-a01" info="">
-<t id="p02-s04-t06" type="GSL-1">this</t>
-</anaphor>
-<t id="p02-s04-t07">species</t>
-<punc>,</punc>
-<t id="p02-s04-t08" type="GSL-1">but</t>
-<t id="p02-s04-t09" type="Coxhead-AWL-4,AR-AWL-4a">apparently</t>
-<t id="p02-s04-t10" type="GSL-1">no</t>
-<t id="p02-s04-t11" type="GSL-1">other</t>
-<t id="p02-s04-t12" type="GSL-1">members</t>
-<t id="p02-s04-t13" type="GSL-1">of</t>
-<t id="p02-s04-t14" type="GSL-1">the</t>
-<t id="p02-s04-t15">crow</t>
-<t id="p02-s04-t16" type="GSL-1">family</t>
-<punc>,</punc>
-<t id="p02-s04-t17" type="GSL-1">used</t>
-<t id="p02-s04-t18" type="GSL-2">tools</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p03">
-<sentence par-function="topic|supporting|concluding" id="p03-s01">
-<t id="p03-s01-t01" type="GSL-1">While</t>
-<t id="p03-s01-t02" type="GSL-1">working</t>
-<t id="p03-s01-t03" type="GSL-1">with</t>
-<t id="p03-s01-t04" type="GSL-1">New</t>
-<t id="p03-s01-t05">Caledonian</t>
-<t id="p03-s01-t06">crows</t>
-<punc>,</punc>
-<t id="p03-s01-t07">St.</t>
-<t id="p03-s01-t08">Andrews</t>
-<t id="p03-s01-t09" type="GSL-1">University</t>
-<t id="p03-s01-t10">biologist</t>
-<t id="p03-s01-t11">Christian</t>
-<t id="p03-s01-t12">Rutz</t>
-<t id="p03-s01-t13" type="GSL-1">noticed</t>
-<anaphor id="p03-s01-a01" info="">
-<t id="p03-s01-t14" type="GSL-1">the</t>
-<t id="p03-s01-t15">birds'</t>
-</anaphor>
-<t id="p03-s01-t16" type="GSL-1">unusually</t>
-<t id="p03-s01-t17" type="GSL-2">straight</t>
-<t id="p03-s01-t18" type="GSL-1">bills</t>
-<t id="p03-s01-t19" type="GSL-1">and</t>
-<t id="p03-s01-t20" type="GSL-1">large</t>
-<punc>,</punc>
-<t id="p03-s01-t21" type="GSL-1">highly</t>
-<t id="p03-s01-t22">mobile</t>
-<t id="p03-s01-t23" type="GSL-1">eyes</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p03-s02">
-<t id="p03-s02-t01">Rutz</t>
-<t id="p03-s02-t02" type="GSL-1">wondered</t>
-<t id="p03-s02-t03" type="GSL-1">whether</t>
-<anaphor id="p03-s02-a01" info="">
-<t id="p03-s02-t04" type="GSL-1">these</t>
-</anaphor>
-<t id="p03-s02-t05" type="GSL-1">could</t>
-<t id="p03-s02-t06" type="GSL-1">be</t>
-<t id="p03-s02-t07" type="Coxhead-AWL-7,AR-AWL-7a">adaptations</t>
-<t id="p03-s02-t08" type="GSL-1">for</t>
-<t id="p03-s02-t09" type="GSL-1">holding</t>
-<t id="p03-s02-t10" type="GSL-1">and</t>
-<t id="p03-s02-t11" type="GSL-2">handling</t>
-<t id="p03-s02-t12" type="GSL-2">tools</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p04">
-<sentence par-function="topic|supporting|concluding" id="p04-s01">
-<punc>“</punc>
-<t id="p04-s01-t01" type="GSL-1">There</t>
-<t id="p04-s01-t02" type="GSL-1">are</t>
-<t id="p04-s01-t03" type="GSL-1">over</t>
-<t id="p04-s01-t04">40</t>
-<t id="p04-s01-t05">species</t>
-<t id="p04-s01-t06" type="GSL-1">of</t>
-<t id="p04-s01-t07">crows</t>
-<t id="p04-s01-t08" type="GSL-1">and</t>
-<t id="p04-s01-t09">ravens</t>
-<t id="p04-s01-t10" type="GSL-1">in</t>
-<t id="p04-s01-t11" type="GSL-1">the</t>
-<t id="p04-s01-t12" type="GSL-1">world</t>
-<punc>,</punc>
-<connector id="p04-s01-c01" type="" info="">
-<t id="p04-s01-t13" type="GSL-1">and</t>
-</connector>
-<t id="p04-s01-t14" type="GSL-1">many</t>
-<t id="p04-s01-t15" type="GSL-1">of</t>
-<anaphor id="p04-s01-a01" info="">
-<t id="p04-s01-t16" type="GSL-1">them</t>
-</anaphor>
-<t id="p04-s01-t17" type="GSL-1">are</t>
-<t id="p04-s01-t18" type="GSL-1">poorly</t>
-<t id="p04-s01-t19" type="GSL-1">studied</t>
-<t id="p04-s01-t20" type="GSL-1">because</t>
-<anaphor id="p04-s01-a02" info="">
-<t id="p04-s01-t21" type="GSL-1">they</t>
-</anaphor>
-<t id="p04-s01-t22" type="GSL-1">live</t>
-<t id="p04-s01-t23" type="GSL-1">in</t>
-<t id="p04-s01-t24">remote</t>
-<t id="p04-s01-t25">tropical</t>
-<t id="p04-s01-t26" type="Coxhead-AWL-3,AR-AWL-3b">locations</t>
-<punc>,</punc>
-<punc>”</punc>
-<t id="p04-s01-t27" type="GSL-1">says</t>
-<t id="p04-s01-t28">Rutz</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p04-s02">
-<punc>“</punc>
-<t id="p04-s02-t01" type="GSL-1">I</t>
-<t id="p04-s02-t02" type="GSL-2">suspected</t>
-<t id="p04-s02-t03" type="GSL-1">there</t>
-<t id="p04-s02-t04" type="GSL-1">could</t>
-<t id="p04-s02-t05" type="GSL-1">be</t>
-<t id="p04-s02-t06" type="GSL-1">other</t>
-<punc>,</punc>
-<t id="p04-s02-t07">unstudied</t>
-<t id="p04-s02-t08">crow</t>
-<t id="p04-s02-t09">species</t>
-<t id="p04-s02-t10" type="GSL-1">out</t>
-<t id="p04-s02-t11" type="GSL-1">there</t>
-<t id="p04-s02-t12" type="GSL-1">that</t>
-<t id="p04-s02-t13" type="GSL-1">have</t>
-<t id="p04-s02-t14" type="GSL-1">the</t>
-<t id="p04-s02-t15" type="GSL-1">same</t>
-<t id="p04-s02-t16" type="GSL-2">tool</t>
-<punc>-</punc>
-<t id="p04-s02-t17" type="GSL-1">using</t>
-<t id="p04-s02-t18" type="GSL-2">skills</t>
-<t id="p04-s02-t19" type="GSL-1">as</t>
-<t id="p04-s02-t20" type="GSL-1">the</t>
-<t id="p04-s02-t21" type="GSL-1">New</t>
-<t id="p04-s02-t22">Caledonian</t>
-<t id="p04-s02-t23">crow</t>
-<punc>,</punc>
-<connector id="p04-s02-c01" type="" info="">
-<t id="p04-s02-t24" type="GSL-1">and</t>
-</connector>
-<t id="p04-s02-t25" type="GSL-1">we</t>
-<t id="p04-s02-t26" type="GSL-1">could</t>
-<t id="p04-s02-t27" type="GSL-1">systematically</t>
-<t id="p04-s02-t28" type="GSL-2">search</t>
-<t id="p04-s02-t29" type="GSL-1">for</t>
-<anaphor id="p04-s02-a01" info="">
-<t id="p04-s02-t30" type="GSL-1">them</t>
-</anaphor>
-<t id="p04-s02-t31" type="GSL-1">by</t>
-<t id="p04-s02-t32" type="GSL-1">looking</t>
-<t id="p04-s02-t33" type="GSL-1">for</t>
-<anaphor id="p04-s02-a02" info="">
-<t id="p04-s02-t34" type="GSL-1">these</t>
-<t id="p04-s02-t35" type="GSL-1">unusual</t>
-<t id="p04-s02-t36">facial</t>
-<t id="p04-s02-t37" type="Coxhead-AWL-2,AR-AWL-2a">features</t>
-</anaphor>
-<punc>.</punc>
-<punc>”</punc>
-</sentence>
-</paragraph>
-<paragraph id="p05">
-<sentence par-function="topic|supporting|concluding" id="p05-s01">
-<connector id="p05-s01-c01" type="" info="">
-<t id="p05-s01-t01" type="GSL-1">When</t>
-</connector>
-<t id="p05-s01-t02">Rutz</t>
-<t id="p05-s01-t03" type="GSL-1">looked</t>
-<t id="p05-s01-t04" type="GSL-1">for</t>
-<t id="p05-s01-t05" type="GSL-1">other</t>
-<t id="p05-s01-t06">crow</t>
-<t id="p05-s01-t07">species</t>
-<t id="p05-s01-t08" type="GSL-1">with</t>
-<t id="p05-s01-t09" type="GSL-2">straight</t>
-<t id="p05-s01-t10" type="GSL-1">bills</t>
-<t id="p05-s01-t11" type="GSL-1">and</t>
-<t id="p05-s01-t12" type="GSL-1">large</t>
-<t id="p05-s01-t13" type="GSL-1">eyes</t>
-<punc>,</punc>
-<t id="p05-s01-t14" type="GSL-1">the</t>
-<t id="p05-s01-t15">species</t>
-<t id="p05-s01-t16" type="GSL-1">that</t>
-<t id="p05-s01-t17" type="GSL-1">stood</t>
-<t id="p05-s01-t18" type="GSL-1">out</t>
-<t id="p05-s01-t19" type="GSL-1">was</t>
-<t id="p05-s01-t20" type="GSL-1">the</t>
-<t id="p05-s01-t21">Hawaiian</t>
-<t id="p05-s01-t22">crow</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p06">
-<sentence par-function="topic|supporting|concluding" id="p06-s01">
-<t id="p06-s01-t01" type="GSL-1">But</t>
-<t id="p06-s01-t02" type="GSL-1">the</t>
-<t id="p06-s01-t03">Hawaiian</t>
-<t id="p06-s01-t04">crow</t>
-<t id="p06-s01-t05" type="GSL-1">is</t>
-<t id="p06-s01-t06">extinct</t>
-<t id="p06-s01-t07" type="GSL-1">in</t>
-<t id="p06-s01-t08" type="GSL-1">the</t>
-<t id="p06-s01-t09" type="GSL-1">wild</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p06-s02">
-<t id="p06-s02-t01" type="GSL-1">In</t>
-<t id="p06-s02-t02" type="GSL-1">the</t>
-<t id="p06-s02-t03" type="GSL-1">midst</t>
-<t id="p06-s02-t04" type="GSL-1">of</t>
-<t id="p06-s02-t05" type="GSL-1">a</t>
-<t id="p06-s02-t06">precipitous</t>
-<t id="p06-s02-t07" type="Coxhead-AWL-5,AR-AWL-5a">decline</t>
-<t id="p06-s02-t08" type="GSL-1">in</t>
-<t id="p06-s02-t09" type="GSL-1">the</t>
-<t id="p06-s02-t10" type="GSL-1">late</t>
-<t id="p06-s02-t11">20th</t>
-<t id="p06-s02-t12" type="GSL-2">century</t>
-<punc>,</punc>
-<t id="p06-s02-t13">conservationists</t>
-<t id="p06-s02-t14" type="GSL-1">caught</t>
-<t id="p06-s02-t15" type="GSL-1">the</t>
-<t id="p06-s02-t16" type="GSL-1">remaining</t>
-<t id="p06-s02-t17" type="GSL-1">wild</t>
-<t id="p06-s02-t18" type="GSL-1">birds</t>
-<t id="p06-s02-t19" type="GSL-1">and</t>
-<t id="p06-s02-t20" type="GSL-1">brought</t>
-<anaphor id="p06-s02-a01" info="">
-<t id="p06-s02-t21" type="GSL-1">them</t>
-</anaphor>
-<t id="p06-s02-t22" type="GSL-1">into</t>
-<t id="p06-s02-t23">captivity</t>
-<t id="p06-s02-t24" type="GSL-1">for</t>
-<t id="p06-s02-t25" type="GSL-1">a</t>
-<t id="p06-s02-t26">breed</t>
-<punc>-</punc>
-<t id="p06-s02-t27" type="GSL-1">and</t>
-<punc>-</punc>
-<t id="p06-s02-t28" type="Coxhead-AWL-7,AR-AWL-7b">release</t>
-<t id="p06-s02-t29" type="GSL-2">program</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p07">
-<sentence par-function="topic|supporting|concluding" id="p07-s01">
-<punc>“</punc>
-<t id="p07-s01-t01" type="GSL-1">I</t>
-<t id="p07-s01-t02" type="GSL-1">got</t>
-<t id="p07-s01-t03" type="GSL-1">in</t>
-<t id="p07-s01-t04" type="GSL-1">touch</t>
-<t id="p07-s01-t05" type="GSL-1">with</t>
-<t id="p07-s01-t06" type="GSL-1">the</t>
-<t id="p07-s01-t07" type="Coxhead-AWL-9,AR-AWL-9b">team</t>
-<t id="p07-s01-t08" type="GSL-1">that</t>
-<t id="p07-s01-t09" type="GSL-1">looks</t>
-<t id="p07-s01-t10" type="GSL-1">after</t>
-<anaphor id="p07-s01-a01" info="">
-<t id="p07-s01-t11" type="GSL-1">these</t>
-<t id="p07-s01-t12">crows</t>
-</anaphor>
-<t id="p07-s01-t13" type="GSL-1">in</t>
-<t id="p07-s01-t14">captivity</t>
-<t id="p07-s01-t15" type="GSL-1">in</t>
-<t id="p07-s01-t16">Hawaii</t>
-<punc>,</punc>
-<connector id="p07-s01-c01" type="" info="">
-<t id="p07-s01-t17" type="GSL-1">and</t>
-</connector>
-<t id="p07-s01-t18" type="GSL-1">I</t>
-<t id="p07-s01-t19" type="GSL-1">told</t>
-<t id="p07-s01-t20" type="GSL-1">them</t>
-<t id="p07-s01-t21" type="GSL-1">I</t>
-<t id="p07-s01-t22" type="GSL-1">had</t>
-<t id="p07-s01-t23" type="GSL-1">a</t>
-<t id="p07-s01-t24">hunch</t>
-<anaphor id="p07-s01-a02" info="">
-<t id="p07-s01-t25" type="GSL-1">their</t>
-</anaphor>
-<t id="p07-s01-t26">crows</t>
-<t id="p07-s01-t27" type="GSL-1">may</t>
-<t id="p07-s01-t28" type="GSL-1">be</t>
-<t id="p07-s01-t29" type="GSL-2">tool</t>
-<t id="p07-s01-t30" type="GSL-1">users</t>
-<punc>,</punc>
-<punc>”</punc>
-<t id="p07-s01-t31" type="GSL-1">says</t>
-<t id="p07-s01-t32">Rutz</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p07-s02">
-<punc>“</punc>
-<anaphor id="p07-s02-a01" info="">
-<t id="p07-s02-t01" type="GSL-1">They</t>
-</anaphor>
-<t id="p07-s02-t02" type="GSL-1">said</t>
-<punc>,</punc>
-<punc>‘</punc>
-<t id="p07-s02-t03">Yeah</t>
-<punc>,</punc>
-<t id="p07-s02-t04" type="GSL-1">we</t>
-<t id="p07-s02-t05" type="GSL-1">see</t>
-<t id="p07-s02-t06" type="GSL-1">that</t>
-<t id="p07-s02-t07" type="GSL-1">all</t>
-<t id="p07-s02-t08" type="GSL-1">the</t>
-<t id="p07-s02-t09" type="GSL-1">time</t>
-<punc>.</punc>
-<punc>’</punc>
-<punc>”</punc>
-</sentence>
-</paragraph>
-<paragraph id="p08">
-<sentence par-function="topic|supporting|concluding" id="p08-s01">
-<anaphor id="p08-s01-a01" info="">
-<t id="p08-s01-t01" type="GSL-1">The</t>
-<t id="p08-s01-t02" type="GSL-1">scientists</t>
-</anaphor>
-<t id="p08-s01-t03" type="GSL-1">and</t>
-<t id="p08-s01-t04">conservationists</t>
-<t id="p08-s01-t05">collaborated</t>
-<t id="p08-s01-t06" type="GSL-1">to</t>
-<t id="p08-s01-t07" type="GSL-2">examine</t>
-<t id="p08-s01-t08" type="GSL-1">the</t>
-<t id="p08-s01-t09" type="GSL-2">tool</t>
-<punc>-</punc>
-<t id="p08-s01-t10" type="GSL-1">using</t>
-<t id="p08-s01-t11" type="GSL-2">skills</t>
-<t id="p08-s01-t12" type="GSL-1">of</t>
-<t id="p08-s01-t13">Hawaiian</t>
-<t id="p08-s01-t14">crows</t>
-<t id="p08-s01-t15" type="GSL-1">under</t>
-<t id="p08-s01-t16" type="GSL-1">controlled</t>
-<t id="p08-s01-t17" type="GSL-1">conditions</t>
-<punc>,</punc>
-<t id="p08-s01-t18" type="GSL-1">testing</t>
-<t id="p08-s01-t19">104</t>
-<t id="p08-s01-t20" type="GSL-1">of</t>
-<t id="p08-s01-t21" type="GSL-1">the</t>
-<t id="p08-s01-t22">109</t>
-<t id="p08-s01-t23">Hawaiian</t>
-<t id="p08-s01-t24">crows</t>
-<t id="p08-s01-t25" type="GSL-2">alive</t>
-<t id="p08-s01-t26" type="GSL-1">at</t>
-<t id="p08-s01-t27" type="GSL-1">the</t>
-<t id="p08-s01-t28" type="GSL-1">time</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p08-s02">
-<t id="p08-s02-t01" type="GSL-1">They</t>
-<connector id="p08-s02-c01" type="" info="">
-<t id="p08-s02-t02" type="Coxhead-AWL-9,AR-AWL-9a">found</t>
-</connector>
-<t id="p08-s02-t03" type="GSL-1">that</t>
-<t id="p08-s02-t04">78%</t>
-<t id="p08-s02-t05" type="GSL-1">of</t>
-<anaphor id="p08-s02-a01" info="">
-<t id="p08-s02-t06" type="GSL-1">the</t>
-<t id="p08-s02-t07" type="GSL-1">birds</t>
-</anaphor>
-<t id="p08-s02-t08">spontaneously</t>
-<t id="p08-s02-t09" type="GSL-1">used</t>
-<t id="p08-s02-t10" type="GSL-2">stick</t>
-<t id="p08-s02-t11" type="GSL-2">tools</t>
-<t id="p08-s02-t12" type="GSL-1">to</t>
-<t id="p08-s02-t13">probe</t>
-<t id="p08-s02-t14" type="GSL-1">for</t>
-<t id="p08-s02-t15" type="GSL-1">food</t>
-<t id="p08-s02-t16" type="GSL-1">in</t>
-<t id="p08-s02-t17" type="GSL-2">holes</t>
-<t id="p08-s02-t18" type="GSL-1">in</t>
-<t id="p08-s02-t19" type="GSL-1">a</t>
-<t id="p08-s02-t20" type="GSL-1">wooden</t>
-<t id="p08-s02-t21" type="GSL-2">log</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p08-s03">
-<t id="p08-s03-t01" type="GSL-1">Nearly</t>
-<t id="p08-s03-t02" type="GSL-1">all</t>
-<t id="p08-s03-t03" type="GSL-1">the</t>
-<t id="p08-s03-t04" type="Coxhead-AWL-7,AR-AWL-7a">adult</t>
-<t id="p08-s03-t05" type="GSL-1">birds</t>
-<t id="p08-s03-t06" type="GSL-1">used</t>
-<t id="p08-s03-t07" type="GSL-2">tools</t>
-<punc>,</punc>
-<connector id="p08-s03-c01" type="" info="">
-<t id="p08-s03-t08" type="GSL-1">while</t>
-</connector>
-<t id="p08-s03-t09">juveniles</t>
-<t id="p08-s03-t10" type="GSL-1">learned</t>
-<t id="p08-s03-t11" type="GSL-1">to</t>
-<t id="p08-s03-t12" type="GSL-1">use</t>
-<t id="p08-s03-t13" type="GSL-2">tools</t>
-<t id="p08-s03-t14" type="GSL-1">over</t>
-<t id="p08-s03-t15" type="GSL-1">time</t>
-<punc>,</punc>
-<connector id="p08-s03-c02" type="" info="">
-<t id="p08-s03-t16" type="GSL-1">even</t>
-<t id="p08-s03-t17" type="GSL-1">when</t>
-</connector>
-<anaphor id="p08-s03-a01" info="">
-<t id="p08-s03-t18" type="GSL-1">they</t>
-</anaphor>
-<t id="p08-s03-t19" type="GSL-1">were</t>
-<t id="p08-s03-t20" type="GSL-1">never</t>
-<t id="p08-s03-t21" type="Coxhead-AWL-5,AR-AWL-5a">exposed</t>
-<t id="p08-s03-t22" type="GSL-1">to</t>
-<t id="p08-s03-t23" type="Coxhead-AWL-7,AR-AWL-7a">adults</t>
-<t id="p08-s03-t24" type="GSL-2">modeling</t>
-<t id="p08-s03-t25" type="GSL-2">tool</t>
-<t id="p08-s03-t26" type="GSL-2">behavior</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p09">
-<sentence par-function="topic|supporting|concluding" id="p09-s01">
-<punc>“</punc>
-<t id="p09-s01-t01" type="GSL-1">It</t>
-<t id="p09-s01-t02">didn't</t>
-<t id="p09-s01-t03" type="GSL-1">look</t>
-<t id="p09-s01-t04" type="GSL-1">like</t>
-<t id="p09-s01-t05" type="GSL-1">the</t>
-<t id="p09-s01-t06" type="GSL-1">kind</t>
-<t id="p09-s01-t07" type="GSL-1">of</t>
-<t id="p09-s01-t08" type="GSL-2">tool</t>
-<t id="p09-s01-t09" type="GSL-2">behavior</t>
-<t id="p09-s01-t10" type="GSL-1">that</t>
-<t id="p09-s01-t11" type="GSL-1">sometimes</t>
-<t id="p09-s01-t12" type="GSL-1">arises</t>
-<t id="p09-s01-t13" type="GSL-1">in</t>
-<t id="p09-s01-t14" type="GSL-1">a</t>
-<t id="p09-s01-t15">species</t>
-<t id="p09-s01-t16" type="GSL-1">in</t>
-<t id="p09-s01-t17">captivity</t>
-<punc>,</punc>
-<t id="p09-s01-t18" type="GSL-1">where</t>
-<t id="p09-s01-t19" type="GSL-1">the</t>
-<t id="p09-s01-t20" type="GSL-1">animal</t>
-<t id="p09-s01-t21" type="GSL-1">does</t>
-<t id="p09-s01-t22" type="GSL-1">not</t>
-<t id="p09-s01-t23" type="GSL-1">naturally</t>
-<t id="p09-s01-t24" type="GSL-1">use</t>
-<t id="p09-s01-t25" type="GSL-2">tools</t>
-<t id="p09-s01-t26" type="GSL-1">in</t>
-<t id="p09-s01-t27" type="GSL-1">the</t>
-<t id="p09-s01-t28" type="GSL-1">wild</t>
-<punc>,</punc>
-<punc>”</punc>
-<t id="p09-s01-t29" type="GSL-1">says</t>
-<t id="p09-s01-t30">Rutz</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p09-s02">
-<punc>“</punc>
-<anaphor id="p09-s02-a01" info="">
-<t id="p09-s02-t01" type="GSL-1">Those</t>
-<t id="p09-s02-t02" type="GSL-1">attempts</t>
-</anaphor>
-<t id="p09-s02-t03" type="GSL-1">are</t>
-<t id="p09-s02-t04" type="GSL-1">often</t>
-<t id="p09-s02-t05" type="GSL-1">quite</t>
-<t id="p09-s02-t06">clumsy</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p09-s03">
-<t id="p09-s03-t01" type="GSL-1">With</t>
-<t id="p09-s03-t02" type="GSL-1">the</t>
-<t id="p09-s03-t03">Hawaiian</t>
-<t id="p09-s03-t04">crows</t>
-<punc>,</punc>
-<anaphor id="p09-s03-a01" info="">
-<t id="p09-s03-t05" type="GSL-1">they</t>
-</anaphor>
-<t id="p09-s03-t06" type="GSL-1">are</t>
-<t id="p09-s03-t07" type="GSL-1">so</t>
-<t id="p09-s03-t08" type="GSL-2">quick</t>
-<t id="p09-s03-t09" type="GSL-1">and</t>
-<t id="p09-s03-t10">dexterous</t>
-<t id="p09-s03-t11" type="GSL-1">in</t>
-<t id="p09-s03-t12" type="GSL-1">how</t>
-<anaphor id="p09-s03-a02" info="">
-<t id="p09-s03-t13" type="GSL-1">they</t>
-</anaphor>
-<t id="p09-s03-t14" type="GSL-2">pick</t>
-<t id="p09-s03-t15" type="GSL-1">up</t>
-<t id="p09-s03-t16" type="GSL-1">the</t>
-<t id="p09-s03-t17" type="GSL-2">tools</t>
-<t id="p09-s03-t18" type="GSL-1">and</t>
-<t id="p09-s03-t19" type="GSL-1">how</t>
-<anaphor id="p09-s03-a03" info="">
-<t id="p09-s03-t20" type="GSL-1">they</t>
-</anaphor>
-<t id="p09-s03-t21" type="Coxhead-AWL-5,AR-AWL-5b">modify</t>
-<anaphor id="p09-s03-a04" info="">
-<t id="p09-s03-t22" type="GSL-1">them</t>
-</anaphor>
-<t id="p09-s03-t23" type="GSL-1">for</t>
-<t id="p09-s03-t24" type="GSL-1">use</t>
-<punc>.</punc>
-<punc>”</punc>
-</sentence>
-</paragraph>
-<paragraph id="p10">
-<sentence par-function="topic|supporting|concluding" id="p10-s01">
-<t id="p10-s01-t01">Rutz</t>
-<t id="p10-s01-t02" type="GSL-1">also</t>
-<connector id="p10-s01-c01" type="" info="">
-<t id="p10-s01-t03" type="GSL-1">points</t>
-<t id="p10-s01-t04" type="GSL-1">out</t>
-</connector>
-<t id="p10-s01-t05" type="GSL-1">that</t>
-<connector id="p10-s01-c02" type="" info="">
-<t id="p10-s01-t06" type="GSL-1">if</t>
-</connector>
-<t id="p10-s01-t07" type="GSL-2">tool</t>
-<t id="p10-s01-t08" type="GSL-1">use</t>
-<t id="p10-s01-t09" type="GSL-1">were</t>
-<t id="p10-s01-t10" type="GSL-1">an</t>
-<t id="p10-s01-t11">artifact</t>
-<t id="p10-s01-t12" type="GSL-1">of</t>
-<t id="p10-s01-t13" type="GSL-1">living</t>
-<t id="p10-s01-t14" type="GSL-1">in</t>
-<t id="p10-s01-t15">captivity</t>
-<punc>,</punc>
-<t id="p10-s01-t16" type="GSL-1">one</t>
-<t id="p10-s01-t17" type="GSL-1">might</t>
-<t id="p10-s01-t18" type="GSL-1">expect</t>
-<t id="p10-s01-t19" type="GSL-1">only</t>
-<t id="p10-s01-t20" type="GSL-1">a</t>
-<t id="p10-s01-t21" type="GSL-1">handful</t>
-<t id="p10-s01-t22" type="GSL-1">of</t>
-<t id="p10-s01-t23" type="Coxhead-AWL-1,AR-AWL-1b">individuals</t>
-<t id="p10-s01-t24" type="GSL-1">to</t>
-<t id="p10-s01-t25" type="GSL-1">try</t>
-<anaphor id="p10-s01-a01" info="">
-<t id="p10-s01-t26" type="GSL-1">the</t>
-<t id="p10-s01-t27" type="GSL-2">behavior</t>
-</anaphor>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p10-s02">
-<t id="p10-s02-t01" type="GSL-1">But</t>
-<t id="p10-s02-t02" type="GSL-2">tool</t>
-<t id="p10-s02-t03" type="GSL-1">use</t>
-<t id="p10-s02-t04" type="GSL-1">appears</t>
-<t id="p10-s02-t05" type="GSL-1">to</t>
-<t id="p10-s02-t06" type="GSL-1">be</t>
-<t id="p10-s02-t07" type="GSL-1">a</t>
-<t id="p10-s02-t08">species</t>
-<punc>-</punc>
-<t id="p10-s02-t09" type="GSL-1">wide</t>
-<t id="p10-s02-t10" type="Coxhead-AWL-5,AR-AWL-5a">capacity</t>
-<t id="p10-s02-t11" type="GSL-1">in</t>
-<t id="p10-s02-t12">Hawaiian</t>
-<t id="p10-s02-t13">crows</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p11">
-<sentence par-function="topic|supporting|concluding" id="p11-s01">
-<t id="p11-s01-t01" type="GSL-1">One</t>
-<t id="p11-s01-t02" type="GSL-1">more</t>
-<t id="p11-s01-t03" type="GSL-1">line</t>
-<t id="p11-s01-t04" type="GSL-1">of</t>
-<t id="p11-s01-t05" type="Coxhead-AWL-1,AR-AWL-1a">evidence</t>
-<t id="p11-s01-t06" type="GSL-1">suggests</t>
-<t id="p11-s01-t07" type="GSL-1">that</t>
-<t id="p11-s01-t08" type="GSL-2">tool</t>
-<t id="p11-s01-t09" type="GSL-1">use</t>
-<t id="p11-s01-t10" type="GSL-1">is</t>
-<t id="p11-s01-t11" type="GSL-1">part</t>
-<t id="p11-s01-t12" type="GSL-1">of</t>
-<t id="p11-s01-t13" type="GSL-1">the</t>
-<t id="p11-s01-t14">Hawaiian</t>
-<t id="p11-s01-t15">crow's</t>
-<t id="p11-s01-t16" type="GSL-1">natural</t>
-<t id="p11-s01-t17" type="GSL-2">behavioral</t>
-<t id="p11-s01-t18">repertoire</t>
-<punc>:</punc>
-<t id="p11-s01-t19">juvenile</t>
-<t id="p11-s01-t20">crows</t>
-<t id="p11-s01-t21" type="GSL-1">developed</t>
-<t id="p11-s01-t22" type="Coxhead-AWL-1,AR-AWL-1a">functional</t>
-<t id="p11-s01-t23" type="GSL-2">tool</t>
-<t id="p11-s01-t24" type="GSL-1">use</t>
-<t id="p11-s01-t25" type="GSL-1">without</t>
-<t id="p11-s01-t26" type="GSL-1">training</t>
-<t id="p11-s01-t27" type="GSL-1">or</t>
-<t id="p11-s01-t28" type="GSL-1">the</t>
-<t id="p11-s01-t29" type="GSL-1">opportunity</t>
-<t id="p11-s01-t30" type="GSL-1">to</t>
-<t id="p11-s01-t31" type="GSL-1">observe</t>
-<t id="p11-s01-t32" type="Coxhead-AWL-7,AR-AWL-7a">adults</t>
-<t id="p11-s01-t33" type="GSL-1">successfully</t>
-<t id="p11-s01-t34">foraging</t>
-<t id="p11-s01-t35" type="GSL-1">with</t>
-<t id="p11-s01-t36" type="GSL-2">tools</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p11-s02">
-<connector id="p11-s02-c01" type="" info="">
-<t id="p11-s02-t01" type="GSL-1">So</t>
-</connector>
-<punc>,</punc>
-<t id="p11-s02-t02" type="GSL-1">since</t>
-<t id="p11-s02-t03" type="GSL-1">almost</t>
-<anaphor id="p11-s02-a01" info="">
-<t id="p11-s02-t04" type="GSL-1">all</t>
-<t id="p11-s02-t05" type="GSL-1">the</t>
-<t id="p11-s02-t06" type="GSL-1">birds</t>
-</anaphor>
-<t id="p11-s02-t07">1</t>
-<punc>)</punc>
-<t id="p11-s02-t08" type="GSL-1">used</t>
-<t id="p11-s02-t09" type="GSL-2">tools</t>
-<t id="p11-s02-t10" type="GSL-1">when</t>
-<anaphor id="p11-s02-a02" info="">
-<t id="p11-s02-t11" type="GSL-1">they</t>
-</anaphor>
-<t id="p11-s02-t12" type="GSL-1">were</t>
-<t id="p11-s02-t13" type="GSL-1">given</t>
-<t id="p11-s02-t14" type="GSL-1">the</t>
-<t id="p11-s02-t15" type="GSL-1">opportunity</t>
-<punc>,</punc>
-<t id="p11-s02-t16">2</t>
-<punc>)</punc>
-<t id="p11-s02-t17" type="GSL-1">were</t>
-<t id="p11-s02-t18" type="GSL-1">quite</t>
-<t id="p11-s02-t19">skillful</t>
-<t id="p11-s02-t20" type="GSL-1">with</t>
-<anaphor id="p11-s02-a03" info="">
-<t id="p11-s02-t21" type="GSL-1">the</t>
-<t id="p11-s02-t22" type="GSL-2">tools</t>
-</anaphor>
-<punc>,</punc>
-<t id="p11-s02-t23" type="GSL-1">and</t>
-<t id="p11-s02-t24">3</t>
-<punc>)</punc>
-<t id="p11-s02-t25" type="Coxhead-AWL-2,AR-AWL-2a">acquired</t>
-<t id="p11-s02-t26" type="GSL-2">tool</t>
-<t id="p11-s02-t27" type="GSL-1">use</t>
-<t id="p11-s02-t28" type="GSL-2">behavior</t>
-<t id="p11-s02-t29" type="GSL-1">with</t>
-<t id="p11-s02-t30" type="GSL-1">no</t>
-<t id="p11-s02-t31" type="GSL-1">training</t>
-<punc>,</punc>
-<t id="p11-s02-t32" type="GSL-1">it</t>
-<t id="p11-s02-t33" type="GSL-1">seems</t>
-<t id="p11-s02-t34" type="GSL-1">likely</t>
-<t id="p11-s02-t35" type="GSL-1">that</t>
-<t id="p11-s02-t36">Hawaiian</t>
-<t id="p11-s02-t37">crows</t>
-<t id="p11-s02-t38" type="GSL-1">once</t>
-<t id="p11-s02-t39" type="GSL-1">used</t>
-<t id="p11-s02-t40" type="GSL-2">tools</t>
-<t id="p11-s02-t41" type="GSL-1">in</t>
-<t id="p11-s02-t42" type="GSL-1">the</t>
-<t id="p11-s02-t43" type="GSL-1">wild</t>
-<t id="p11-s02-t44" type="GSL-1">as</t>
-<t id="p11-s02-t45" type="GSL-1">part</t>
-<t id="p11-s02-t46" type="GSL-1">of</t>
-<anaphor id="p11-s02-a04" info="">
-<t id="p11-s02-t47" type="GSL-1">their</t>
-</anaphor>
-<t id="p11-s02-t48" type="Coxhead-AWL-2,AR-AWL-2b">normal</t>
-<t id="p11-s02-t49" type="GSL-2">behavior</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p12">
-<sentence par-function="topic|supporting|concluding" id="p12-s01">
-<t id="p12-s01-t01" type="GSL-1">As</t>
-<t id="p12-s01-t02">crow</t>
-<t id="p12-s01-t03">species</t>
-<t id="p12-s01-t04" type="GSL-1">go</t>
-<punc>,</punc>
-<t id="p12-s01-t05" type="GSL-1">the</t>
-<t id="p12-s01-t06">Hawaiian</t>
-<t id="p12-s01-t07">crow</t>
-<t id="p12-s01-t08" type="GSL-1">and</t>
-<t id="p12-s01-t09" type="GSL-1">New</t>
-<t id="p12-s01-t10">Caledonian</t>
-<t id="p12-s01-t11">crow</t>
-<t id="p12-s01-t12" type="GSL-1">are</t>
-<t id="p12-s01-t13" type="GSL-1">only</t>
-<t id="p12-s01-t14">distantly</t>
-<t id="p12-s01-t15" type="GSL-1">related</t>
-<punc>,</punc>
-<t id="p12-s01-t16" type="GSL-1">suggesting</t>
-<t id="p12-s01-t17" type="GSL-1">that</t>
-<t id="p12-s01-t18" type="GSL-2">tool</t>
-<t id="p12-s01-t19" type="GSL-1">use</t>
-<t id="p12-s01-t20" type="Coxhead-AWL-5,AR-AWL-5a">evolved</t>
-<t id="p12-s01-t21" type="GSL-1">independently</t>
-<t id="p12-s01-t22" type="GSL-1">in</t>
-<t id="p12-s01-t23" type="GSL-1">each</t>
-<t id="p12-s01-t24" type="GSL-1">bird</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p12-s02">
-<t id="p12-s02-t01" type="GSL-1">What</t>
-<anaphor id="p12-s02-a01" info="">
-<t id="p12-s02-t02" type="GSL-1">the</t>
-<t id="p12-s02-t03" type="GSL-1">two</t>
-<t id="p12-s02-t04">species</t>
-</anaphor>
-<t id="p12-s02-t05" type="GSL-1">have</t>
-<t id="p12-s02-t06" type="GSL-1">in</t>
-<t id="p12-s02-t07" type="GSL-1">common</t>
-<t id="p12-s02-t08" type="GSL-1">is</t>
-<t id="p12-s02-t09" type="GSL-1">that</t>
-<anaphor id="p12-s02-a02" info="">
-<t id="p12-s02-t10" type="GSL-1">they</t>
-</anaphor>
-<t id="p12-s02-t11" type="Coxhead-AWL-5,AR-AWL-5a">evolved</t>
-<t id="p12-s02-t12" type="GSL-1">on</t>
-<t id="p12-s02-t13" type="Coxhead-AWL-1,AR-AWL-1b">similar</t>
-<t id="p12-s02-t14">remote</t>
-<t id="p12-s02-t15">tropical</t>
-<t id="p12-s02-t16" type="GSL-2">islands</t>
-<t id="p12-s02-t17" type="GSL-1">in</t>
-<t id="p12-s02-t18" type="GSL-1">the</t>
-<t id="p12-s02-t19">Pacific</t>
-<t id="p12-s02-t20" type="GSL-2">Ocean</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p12-s03">
-<t id="p12-s03-t01" type="GSL-1">New</t>
-<t id="p12-s03-t02">Caledonia</t>
-<t id="p12-s03-t03" type="GSL-1">and</t>
-<t id="p12-s03-t04">Hawaii</t>
-<t id="p12-s03-t05" type="GSL-1">both</t>
-<t id="p12-s03-t06" type="GSL-1">lack</t>
-<t id="p12-s03-t07">woodpeckers</t>
-<punc>(</punc>
-<t id="p12-s03-t08" type="GSL-1">reducing</t>
-<t id="p12-s03-t09" type="GSL-2">competition</t>
-<t id="p12-s03-t10" type="GSL-1">for</t>
-<t id="p12-s03-t11">prey</t>
-<t id="p12-s03-t12">embedded</t>
-<t id="p12-s03-t13" type="GSL-1">in</t>
-<t id="p12-s03-t14" type="GSL-1">trees</t>
-<punc>)</punc>
-<t id="p12-s03-t15" type="GSL-1">and</t>
-<t id="p12-s03-t16">ferocious</t>
-<t id="p12-s03-t17" type="GSL-1">bird</t>
-<t id="p12-s03-t18">predators</t>
-<punc>(</punc>
-<t id="p12-s03-t19" type="GSL-1">reducing</t>
-<t id="p12-s03-t20" type="GSL-1">the</t>
-<t id="p12-s03-t21" type="GSL-2">risk</t>
-<t id="p12-s03-t22" type="GSL-1">of</t>
-<t id="p12-s03-t23">predation</t>
-<t id="p12-s03-t24" type="GSL-1">while</t>
-<t id="p12-s03-t25">foraging</t>
-<punc>)</punc>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p12-s04">
-<t id="p12-s04-t01" type="GSL-1">Conditions</t>
-<t id="p12-s04-t02" type="GSL-1">like</t>
-<anaphor id="p12-s04-a01" info="">
-<t id="p12-s04-t03" type="GSL-1">these</t>
-</anaphor>
-<t id="p12-s04-t04" type="GSL-1">could</t>
-<t id="p12-s04-t05" type="Coxhead-AWL-5,AR-AWL-5a">facilitate</t>
-<t id="p12-s04-t06">foraging</t>
-<t id="p12-s04-t07" type="GSL-2">tool</t>
-<t id="p12-s04-t08" type="GSL-1">use</t>
-<t id="p12-s04-t09" type="GSL-1">in</t>
-<t id="p12-s04-t10" type="GSL-1">birds</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p13">
-<sentence par-function="topic|supporting|concluding" id="p13-s01">
-<t id="p13-s01-t01" type="GSL-1">The</t>
-<t id="p13-s01-t02" type="GSL-1">first</t>
-<t id="p13-s01-t03" type="Coxhead-AWL-7,AR-AWL-7b">release</t>
-<t id="p13-s01-t04" type="GSL-1">of</t>
-<t id="p13-s01-t05">captive</t>
-<punc>-</punc>
-<t id="p13-s01-t06">bred</t>
-<t id="p13-s01-t07">Hawaiian</t>
-<t id="p13-s01-t08">crows</t>
-<t id="p13-s01-t09" type="GSL-1">into</t>
-<t id="p13-s01-t10" type="GSL-1">the</t>
-<t id="p13-s01-t11" type="GSL-1">wild</t>
-<t id="p13-s01-t12" type="GSL-1">is</t>
-<t id="p13-s01-t13" type="Coxhead-AWL-8,AR-AWL-8b">scheduled</t>
-<t id="p13-s01-t14" type="GSL-1">in</t>
-<t id="p13-s01-t15" type="GSL-1">only</t>
-<t id="p13-s01-t16" type="GSL-1">a</t>
-<t id="p13-s01-t17" type="GSL-1">few</t>
-<t id="p13-s01-t18">months'</t>
-<t id="p13-s01-t19" type="GSL-1">time</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p13-s02">
-<t id="p13-s02-t01" type="Coxhead-AWL-1,AR-AWL-1b">Research</t>
-<t id="p13-s02-t02" type="GSL-1">like</t>
-<anaphor id="p13-s02-a01" info="">
-<t id="p13-s02-t03" type="GSL-1">this</t>
-</anaphor>
-<t id="p13-s02-t04" type="GSL-1">provides</t>
-<t id="p13-s02-t05" type="GSL-1">useful</t>
-<t id="p13-s02-t06" type="GSL-2">information</t>
-<t id="p13-s02-t07" type="GSL-1">for</t>
-<t id="p13-s02-t08" type="GSL-1">the</t>
-<t id="p13-s02-t09">species'</t>
-<t id="p13-s02-t10">conservation</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p14">
-<sentence par-function="topic|supporting|concluding" id="p14-s01">
-<punc>“</punc>
-<t id="p14-s01-t01" type="GSL-1">The</t>
-<t id="p14-s01-t02" type="GSL-1">discovery</t>
-<t id="p14-s01-t03" type="GSL-1">that</t>
-<t id="p14-s01-t04">Hawaiian</t>
-<t id="p14-s01-t05">crows</t>
-<t id="p14-s01-t06" type="GSL-1">naturally</t>
-<t id="p14-s01-t07" type="GSL-1">use</t>
-<t id="p14-s01-t08" type="GSL-2">tools</t>
-<t id="p14-s01-t09" type="GSL-1">provides</t>
-<t id="p14-s01-t10" type="GSL-1">an</t>
-<t id="p14-s01-t11">unexpected</t>
-<t id="p14-s01-t12" type="Coxhead-AWL-9,AR-AWL-9a">insight</t>
-<t id="p14-s01-t13" type="GSL-1">into</t>
-<anaphor id="p14-s01-a01" info="">
-<t id="p14-s01-t14" type="GSL-1">these</t>
-<t id="p14-s01-t15">birds'</t>
-</anaphor>
-<t id="p14-s01-t16">ecological</t>
-<t id="p14-s01-t17" type="GSL-1">needs</t>
-<t id="p14-s01-t18" type="GSL-1">that</t>
-<t id="p14-s01-t19" type="GSL-1">we</t>
-<t id="p14-s01-t20" type="GSL-1">will</t>
-<t id="p14-s01-t21" type="GSL-1">use</t>
-<t id="p14-s01-t22" type="GSL-1">for</t>
-<t id="p14-s01-t23" type="GSL-1">the</t>
-<t id="p14-s01-t24" type="Coxhead-AWL-10,AR-AWL-10">forthcoming</t>
-<t id="p14-s01-t25">reintroduction</t>
-<punc>,</punc>
-<punc>”</punc>
-<t id="p14-s01-t26" type="GSL-1">says</t>
-<t id="p14-s01-t27">Rutz</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p14-s02">
-<punc>“</punc>
-<t id="p14-s02-t01" type="GSL-1">We</t>
-<t id="p14-s02-t02" type="GSL-1">can</t>
-<t id="p14-s02-t03" type="GSL-1">look</t>
-<t id="p14-s02-t04" type="GSL-1">at</t>
-<t id="p14-s02-t05" type="GSL-1">the</t>
-<t id="p14-s02-t06" type="GSL-1">New</t>
-<t id="p14-s02-t07">Caledonian</t>
-<t id="p14-s02-t08">crow</t>
-<t id="p14-s02-t09" type="GSL-1">and</t>
-<t id="p14-s02-t10" type="GSL-1">try</t>
-<t id="p14-s02-t11" type="GSL-1">to</t>
-<t id="p14-s02-t12" type="Coxhead-AWL-9,AR-AWL-9a">anticipate</t>
-<t id="p14-s02-t13" type="GSL-1">and</t>
-<t id="p14-s02-t14" type="GSL-2">model</t>
-<t id="p14-s02-t15" type="GSL-1">what</t>
-<anaphor id="p14-s02-a01" info="">
-<t id="p14-s02-t16" type="GSL-1">these</t>
-<t id="p14-s02-t17" type="GSL-1">birds</t>
-</anaphor>
-<t id="p14-s02-t18" type="GSL-1">will</t>
-<t id="p14-s02-t19" type="Coxhead-AWL-1,AR-AWL-1b">require</t>
-<t id="p14-s02-t20" type="GSL-1">upon</t>
-<t id="p14-s02-t21" type="GSL-1">being</t>
-<t id="p14-s02-t22" type="Coxhead-AWL-7,AR-AWL-7b">released</t>
-<punc>;</punc>
-<t id="p14-s02-t23" type="GSL-1">a</t>
-<t id="p14-s02-t24" type="GSL-2">tool</t>
-<punc>-</punc>
-<t id="p14-s02-t25" type="GSL-1">using</t>
-<t id="p14-s02-t26">species</t>
-<t id="p14-s02-t27" type="Coxhead-AWL-4,AR-AWL-4b">occupies</t>
-<t id="p14-s02-t28" type="GSL-1">a</t>
-<t id="p14-s02-t29" type="GSL-1">different</t>
-<t id="p14-s02-t30">ecological</t>
-<t id="p14-s02-t31">niche</t>
-<t id="p14-s02-t32" type="GSL-1">than</t>
-<t id="p14-s02-t33" type="GSL-1">a</t>
-<t id="p14-s02-t34">non</t>
-<punc>-</punc>
-<t id="p14-s02-t35" type="GSL-2">tool</t>
-<punc>-</punc>
-<t id="p14-s02-t36" type="GSL-1">using</t>
-<t id="p14-s02-t37">species</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p15">
-<sentence par-function="topic|supporting|concluding" id="p15-s01">
-<punc>“</punc>
-<t id="p15-s01-t01">Hopefully</t>
-<punc>,</punc>
-<t id="p15-s01-t02" type="GSL-1">learning</t>
-<t id="p15-s01-t03" type="GSL-1">about</t>
-<anaphor id="p15-s01-a01" info="">
-<t id="p15-s01-t04" type="GSL-1">this</t>
-<t id="p15-s01-t05" type="GSL-1">interesting</t>
-<t id="p15-s01-t06" type="Coxhead-AWL-1,AR-AWL-1b">research</t>
-</anaphor>
-<t id="p15-s01-t07" type="GSL-1">will</t>
-<t id="p15-s01-t08">familiarize</t>
-<t id="p15-s01-t09" type="GSL-1">people</t>
-<t id="p15-s01-t10" type="GSL-1">with</t>
-<anaphor id="p15-s01-a02" info="">
-<t id="p15-s01-t11" type="GSL-1">these</t>
-<t id="p15-s01-t12" type="GSL-1">birds</t>
-</anaphor>
-<t id="p15-s01-t13" type="GSL-1">and</t>
-<t id="p15-s01-t14" type="GSL-2">encourage</t>
-<t id="p15-s01-t15" type="GSL-1">people</t>
-<t id="p15-s01-t16" type="GSL-1">to</t>
-<t id="p15-s01-t17" type="GSL-1">care</t>
-<t id="p15-s01-t18" type="GSL-1">about</t>
-<anaphor id="p15-s01-a03" info="">
-<t id="p15-s01-t19" type="GSL-1">them</t>
-</anaphor>
-<t id="p15-s01-t20" type="GSL-1">and</t>
-<t id="p15-s01-t21" type="GSL-1">support</t>
-<t id="p15-s01-t22">conservation</t>
-<t id="p15-s01-t23" type="GSL-1">efforts</t>
-<punc>.</punc>
-<punc>”</punc>
-</sentence>
-</paragraph>
-</body>
+    <title>Critically Endangered Hawaiian Crow Joins the Tool-Users Club</title>
+    <citation>Bates, M. (2016) Critically Endangered Hawaiian Crow Joins the Tool-Users Club. PLOS Ecology Community (PLoS ONE blog). Retrieved from http://blogs.plos.org/ecology/2016/09/14/critically-endangered-hawaiian-crow-joins-the-tool-users-club/ on 27 Sep 2016.</citation>
+    <url>http://blogs.plos.org/ecology/2016/09/14/critically-endangered-hawaiian-crow-joins-the-tool-users-club/</url>
+    <body>
+        <paragraph id="p01">
+            <sentence par-function="topic" id="p01-s01">
+                <t id="p01-s01-t01">Hawaiian</t>
+                <t id="p01-s01-t02">crows</t>
+                <punc>(</punc>
+                <t id="p01-s01-t03">Corvus</t>
+                <t id="p01-s01-t04">hawaiiensis</t>
+                <punc>)</punc>
+                <t id="p01-s01-t05" type="GSL-1">use</t>
+                <t id="p01-s01-t06" type="GSL-2">tools</t>
+                <t id="p01-s01-t07" type="GSL-1">when</t>
+                <t id="p01-s01-t08">foraging</t>
+                <t id="p01-s01-t09" type="GSL-1">for</t>
+                <t id="p01-s01-t10" type="GSL-1">food</t>
+                <punc>,</punc>
+                <connector id="p01-s01-c01" type="attribution" info="p01-s01-t12:p01-s01-t18,p01-s01-t01:p01-s01-t10">
+                    <t id="p01-s01-t11" type="GSL-1">finds</t>
+                </connector>
+                <t id="p01-s01-t12" type="GSL-1">an</t>
+                <t id="p01-s01-t13" type="GSL-2">international</t>
+                <t id="p01-s01-t14" type="Coxhead-AWL-9,AR-AWL-9b">team</t>
+                <t id="p01-s01-t15" type="GSL-1">of</t>
+                <t id="p01-s01-t16" type="GSL-1">scientists</t>
+                <t id="p01-s01-t17" type="GSL-1">and</t>
+                <t id="p01-s01-t18">conservationists</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s02">
+                <anaphor id="p01-s02-a01" info="p01-s01-t01:p01-s01-t02">
+                    <t id="p01-s02-t01" type="GSL-1">These</t>
+                    <t id="p01-s02-t02" type="GSL-1">birds</t>
+                </anaphor>
+                <punc>,</punc>
+                <t id="p01-s02-t03" type="GSL-1">also</t>
+                <t id="p01-s02-t04" type="GSL-1">known</t>
+                <t id="p01-s02-t05" type="GSL-1">as</t>
+                <term id="p01-s02-e01" info="p01-s01-t01:p01-s01-t02">
+                    <t id="p01-s02-t06">‘Alalā</t>
+                </term>
+                <punc>,</punc>
+                <t id="p01-s02-t07" type="GSL-2">rival</t>
+                <t id="p01-s02-t08" type="GSL-1">New</t>
+                <t id="p01-s02-t09">Caledonian</t>
+                <t id="p01-s02-t10">crows</t>
+                <t id="p01-s02-t11" type="GSL-1">in</t>
+                <anaphor id="p01-s02-a02" info="p01-s01-t01:p01-s01-t02">
+                    <t id="p01-s02-t12" type="GSL-1">their</t>
+                </anaphor>
+                <t id="p01-s02-t13">proficiency</t>
+                <t id="p01-s02-t14" type="GSL-1">and</t>
+                <t id="p01-s02-t15">dexterity</t>
+                <t id="p01-s02-t16" type="GSL-1">with</t>
+                <t id="p01-s02-t17" type="GSL-2">tools</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s03">
+                <anaphor id="p01-s03-a01" info="p01-s01-t01:p01-s01-t10">
+                    <t id="p01-s03-t01" type="GSL-1">The</t>
+                    <t id="p01-s03-t02" type="GSL-1">discovery</t>
+                </anaphor>
+                <t id="p01-s03-t03" type="GSL-1">was</t>
+                <t id="p01-s03-t04" type="Coxhead-AWL-3,AR-AWL-3b">published</t>
+                <t id="p01-s03-t05" type="GSL-1">on</t>
+                <t id="p01-s03-t06" type="GSL-1">Wednesday</t>
+                <t id="p01-s03-t07" type="GSL-1">in</t>
+                <t id="p01-s03-t08" type="GSL-1">the</t>
+                <t id="p01-s03-t09" type="Coxhead-AWL-2,AR-AWL-2b">journal</t>
+                <t id="p01-s03-t10" type="GSL-1">Nature</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence par-function="topic" id="p02-s01">
+                <t id="p02-s01-t01" type="GSL-1">Only</t>
+                <t id="p02-s01-t02" type="GSL-1">a</t>
+                <t id="p02-s01-t03" type="GSL-1">handful</t>
+                <t id="p02-s01-t04" type="GSL-1">of</t>
+                <t id="p02-s01-t05" type="GSL-1">bird</t>
+                <t id="p02-s01-t06">species</t>
+                <t id="p02-s01-t07" type="GSL-1">use</t>
+                <t id="p02-s01-t08">foraging</t>
+                <t id="p02-s01-t09" type="GSL-2">tools</t>
+                <t id="p02-s01-t10" type="GSL-1">in</t>
+                <t id="p02-s01-t11" type="GSL-1">the</t>
+                <t id="p02-s01-t12" type="GSL-1">wild</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p02-s02">
+                <t id="p02-s02-t01" type="GSL-1">The</t>
+                <t id="p02-s02-t02" type="GSL-1">New</t>
+                <t id="p02-s02-t03">Caledonian</t>
+                <t id="p02-s02-t04">crow</t>
+                <punc>(</punc>
+                <t id="p02-s02-t05">Corvus</t>
+                <t id="p02-s02-t06">moneduloides</t>
+                <punc>)</punc>
+                <t id="p02-s02-t07" type="GSL-1">is</t>
+                <t id="p02-s02-t08" type="GSL-1">a</t>
+                <t id="p02-s02-t09" type="GSL-1">stand</t>
+                <punc>-</punc>
+                <t id="p02-s02-t10" type="GSL-1">out</t>
+                <t id="p02-s02-t11" type="GSL-1">even</t>
+                <t id="p02-s02-t12" type="GSL-1">amongst</t>
+                <anaphor id="p02-s02-a01" info="p02-s01-t02:p02-s01-t06">
+                    <t id="p02-s02-t13" type="GSL-1">this</t>
+                    <t id="p02-s02-t14" type="Coxhead-AWL-2,AR-AWL-2b">select</t>
+                    <t id="p02-s02-t15" type="GSL-1">group</t>
+                </anaphor>
+                <punc>,</punc>
+                <t id="p02-s02-t16" type="GSL-1">due</t>
+                <t id="p02-s02-t17" type="GSL-1">to</t>
+                <anaphor id="p02-s02-a02" info="p02-s02-t02:p02-s02-t04">
+                    <t id="p02-s02-t18" type="GSL-1">its</t>
+                </anaphor>
+                <t id="p02-s02-t19" type="GSL-1">highly</t>
+                <t id="p02-s02-t20">sophisticated</t>
+                <t id="p02-s02-t21" type="GSL-2">tool</t>
+                <punc>-</punc>
+                <t id="p02-s02-t22" type="GSL-1">making</t>
+                <t id="p02-s02-t23" type="GSL-1">and</t>
+                <t id="p02-s02-t24" type="GSL-1">using</t>
+                <t id="p02-s02-t25" type="GSL-2">skills</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p02-s03">
+                <t id="p02-s03-t01" type="GSL-1">New</t>
+                <t id="p02-s03-t02">Caledonian</t>
+                <t id="p02-s03-t03">crows</t>
+                <t id="p02-s03-t04" type="GSL-1">live</t>
+                <t id="p02-s03-t05" type="GSL-1">only</t>
+                <t id="p02-s03-t06" type="GSL-1">on</t>
+                <t id="p02-s03-t07" type="GSL-1">the</t>
+                <t id="p02-s03-t08">remote</t>
+                <t id="p02-s03-t09" type="GSL-1">South</t>
+                <t id="p02-s03-t10">Pacific</t>
+                <t id="p02-s03-t11" type="GSL-2">island</t>
+                <t id="p02-s03-t12" type="GSL-1">of</t>
+                <t id="p02-s03-t13" type="GSL-1">New</t>
+                <t id="p02-s03-t14">Caledonia</t>
+                <t id="p02-s03-t15" type="GSL-1">where</t>
+                <anaphor id="p02-s03-a01" info="p02-s03-t01:p02-s03-t03">
+                    <t id="p02-s03-t16" type="GSL-1">they</t>
+                </anaphor>
+                <t id="p02-s03-t17" type="GSL-1">have</t>
+                <t id="p02-s03-t18" type="GSL-1">long</t>
+                <t id="p02-s03-t19">impressed</t>
+                <t id="p02-s03-t20" type="GSL-1">and</t>
+                <t id="p02-s03-t21">intrigued</t>
+                <t id="p02-s03-t22" type="GSL-1">scientists</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p02-s04">
+                <t id="p02-s04-t01" type="GSL-1">The</t>
+                <t id="p02-s04-t02" type="GSL-1">big</t>
+                <t id="p02-s04-t03" type="GSL-1">question</t>
+                <t id="p02-s04-t04" type="GSL-1">was</t>
+                <t id="p02-s04-t05" type="GSL-1">why</t>
+                <anaphor id="p02-s04-a01" info="p02-s03-t01:p02-s03-t03">
+                    <t id="p02-s04-t06" type="GSL-1">this</t>
+                </anaphor>
+                <t id="p02-s04-t07">species</t>
+                <punc>,</punc>
+                <t id="p02-s04-t08" type="GSL-1">but</t>
+                <t id="p02-s04-t09" type="Coxhead-AWL-4,AR-AWL-4a">apparently</t>
+                <t id="p02-s04-t10" type="GSL-1">no</t>
+                <t id="p02-s04-t11" type="GSL-1">other</t>
+                <t id="p02-s04-t12" type="GSL-1">members</t>
+                <t id="p02-s04-t13" type="GSL-1">of</t>
+                <t id="p02-s04-t14" type="GSL-1">the</t>
+                <t id="p02-s04-t15">crow</t>
+                <t id="p02-s04-t16" type="GSL-1">family</t>
+                <punc>,</punc>
+                <t id="p02-s04-t17" type="GSL-1">used</t>
+                <t id="p02-s04-t18" type="GSL-2">tools</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p03">
+            <sentence par-function="topic" id="p03-s01">
+                <t id="p03-s01-t01" type="GSL-1">While</t>
+                <t id="p03-s01-t02" type="GSL-1">working</t>
+                <t id="p03-s01-t03" type="GSL-1">with</t>
+                <t id="p03-s01-t04" type="GSL-1">New</t>
+                <t id="p03-s01-t05">Caledonian</t>
+                <t id="p03-s01-t06">crows</t>
+                <punc>,</punc>
+                <t id="p03-s01-t07">St.</t>
+                <t id="p03-s01-t08">Andrews</t>
+                <t id="p03-s01-t09" type="GSL-1">University</t>
+                <t id="p03-s01-t10">biologist</t>
+                <t id="p03-s01-t11">Christian</t>
+                <t id="p03-s01-t12">Rutz</t>
+                <t id="p03-s01-t13" type="GSL-1">noticed</t>
+                <anaphor id="p03-s01-a01" info="p03-s01-t04:p03-s01-t06">
+                    <t id="p03-s01-t14" type="GSL-1">the</t>
+                    <t id="p03-s01-t15">birds'</t>
+                </anaphor>
+                <t id="p03-s01-t16" type="GSL-1">unusually</t>
+                <t id="p03-s01-t17" type="GSL-2">straight</t>
+                <t id="p03-s01-t18" type="GSL-1">bills</t>
+                <t id="p03-s01-t19" type="GSL-1">and</t>
+                <t id="p03-s01-t20" type="GSL-1">large</t>
+                <punc>,</punc>
+                <t id="p03-s01-t21" type="GSL-1">highly</t>
+                <t id="p03-s01-t22">mobile</t>
+                <t id="p03-s01-t23" type="GSL-1">eyes</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p03-s02">
+                <t id="p03-s02-t01">Rutz</t>
+                <t id="p03-s02-t02" type="GSL-1">wondered</t>
+                <t id="p03-s02-t03" type="GSL-1">whether</t>
+                <anaphor id="p03-s02-a01" info="p03-s01-t16:p03-s01-t23">
+                    <t id="p03-s02-t04" type="GSL-1">these</t>
+                </anaphor>
+                <t id="p03-s02-t05" type="GSL-1">could</t>
+                <t id="p03-s02-t06" type="GSL-1">be</t>
+                <t id="p03-s02-t07" type="Coxhead-AWL-7,AR-AWL-7a">adaptations</t>
+                <t id="p03-s02-t08" type="GSL-1">for</t>
+                <t id="p03-s02-t09" type="GSL-1">holding</t>
+                <t id="p03-s02-t10" type="GSL-1">and</t>
+                <t id="p03-s02-t11" type="GSL-2">handling</t>
+                <t id="p03-s02-t12" type="GSL-2">tools</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p04">
+            <sentence par-function="topic" id="p04-s01">
+                <punc>“</punc>
+                <t id="p04-s01-t01" type="GSL-1">There</t>
+                <t id="p04-s01-t02" type="GSL-1">are</t>
+                <t id="p04-s01-t03" type="GSL-1">over</t>
+                <t id="p04-s01-t04">40</t>
+                <t id="p04-s01-t05">species</t>
+                <t id="p04-s01-t06" type="GSL-1">of</t>
+                <t id="p04-s01-t07">crows</t>
+                <t id="p04-s01-t08" type="GSL-1">and</t>
+                <t id="p04-s01-t09">ravens</t>
+                <t id="p04-s01-t10" type="GSL-1">in</t>
+                <t id="p04-s01-t11" type="GSL-1">the</t>
+                <t id="p04-s01-t12" type="GSL-1">world</t>
+                <punc>,</punc>
+                <connector id="p04-s01-c01" type="elaboration" info="p04-s01-t01:p04-s01-t12,p04-s01-t14:p04-s01-t26">
+                    <t id="p04-s01-t13" type="GSL-1">and</t>
+                </connector>
+                <t id="p04-s01-t14" type="GSL-1">many</t>
+                <t id="p04-s01-t15" type="GSL-1">of</t>
+                <anaphor id="p04-s01-a01" info="p04-s01-t07:p04-s01-t09">
+                    <t id="p04-s01-t16" type="GSL-1">them</t>
+                </anaphor>
+                <t id="p04-s01-t17" type="GSL-1">are</t>
+                <t id="p04-s01-t18" type="GSL-1">poorly</t>
+                <t id="p04-s01-t19" type="GSL-1">studied</t>
+                <t id="p04-s01-t20" type="GSL-1">because</t>
+                <anaphor id="p04-s01-a02" info="p04-s01-t07:p04-s01-t09">
+                    <t id="p04-s01-t21" type="GSL-1">they</t>
+                </anaphor>
+                <t id="p04-s01-t22" type="GSL-1">live</t>
+                <t id="p04-s01-t23" type="GSL-1">in</t>
+                <t id="p04-s01-t24">remote</t>
+                <t id="p04-s01-t25">tropical</t>
+                <t id="p04-s01-t26" type="Coxhead-AWL-3,AR-AWL-3b">locations</t>
+                <punc>,</punc>
+                <punc>”</punc>
+                <t id="p04-s01-t27" type="GSL-1">says</t>
+                <t id="p04-s01-t28">Rutz</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p04-s02">
+                <punc>“</punc>
+                <t id="p04-s02-t01" type="GSL-1">I</t>
+                <t id="p04-s02-t02" type="GSL-2">suspected</t>
+                <t id="p04-s02-t03" type="GSL-1">there</t>
+                <t id="p04-s02-t04" type="GSL-1">could</t>
+                <t id="p04-s02-t05" type="GSL-1">be</t>
+                <t id="p04-s02-t06" type="GSL-1">other</t>
+                <punc>,</punc>
+                <t id="p04-s02-t07">unstudied</t>
+                <t id="p04-s02-t08">crow</t>
+                <t id="p04-s02-t09">species</t>
+                <t id="p04-s02-t10" type="GSL-1">out</t>
+                <t id="p04-s02-t11" type="GSL-1">there</t>
+                <t id="p04-s02-t12" type="GSL-1">that</t>
+                <t id="p04-s02-t13" type="GSL-1">have</t>
+                <t id="p04-s02-t14" type="GSL-1">the</t>
+                <t id="p04-s02-t15" type="GSL-1">same</t>
+                <t id="p04-s02-t16" type="GSL-2">tool</t>
+                <punc>-</punc>
+                <t id="p04-s02-t17" type="GSL-1">using</t>
+                <t id="p04-s02-t18" type="GSL-2">skills</t>
+                <t id="p04-s02-t19" type="GSL-1">as</t>
+                <t id="p04-s02-t20" type="GSL-1">the</t>
+                <t id="p04-s02-t21" type="GSL-1">New</t>
+                <t id="p04-s02-t22">Caledonian</t>
+                <t id="p04-s02-t23">crow</t>
+                <punc>,</punc>
+                <connector id="p04-s02-c01" type="elaboration" info="p04-s02-t03:p04-s02-t23,p04-s02-t25:p04-s02-t37">
+                    <t id="p04-s02-t24" type="GSL-1">and</t>
+                </connector>
+                <t id="p04-s02-t25" type="GSL-1">we</t>
+                <t id="p04-s02-t26" type="GSL-1">could</t>
+                <t id="p04-s02-t27" type="GSL-1">systematically</t>
+                <t id="p04-s02-t28" type="GSL-2">search</t>
+                <t id="p04-s02-t29" type="GSL-1">for</t>
+                <anaphor id="p04-s02-a01" info="p04-s02-t06:p04-s02-t23">
+                    <t id="p04-s02-t30" type="GSL-1">them</t>
+                </anaphor>
+                <t id="p04-s02-t31" type="GSL-1">by</t>
+                <t id="p04-s02-t32" type="GSL-1">looking</t>
+                <t id="p04-s02-t33" type="GSL-1">for</t>
+                <anaphor id="p04-s02-a02" info="p03-s01-t17:p03-s01-t23">
+                    <t id="p04-s02-t34" type="GSL-1">these</t>
+                    <t id="p04-s02-t35" type="GSL-1">unusual</t>
+                    <t id="p04-s02-t36">facial</t>
+                    <t id="p04-s02-t37" type="Coxhead-AWL-2,AR-AWL-2a">features</t>
+                </anaphor>
+                <punc>.</punc>
+                <punc>”</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p05">
+            <sentence par-function="topic" id="p05-s01">
+                <connector id="p05-s01-c01" type="condition" info="p05-s01-t14:p05-s01-t22,p05-s01-t02:p05-s01-t13">
+                    <t id="p05-s01-t01" type="GSL-1">When</t>
+                </connector>
+                <t id="p05-s01-t02">Rutz</t>
+                <t id="p05-s01-t03" type="GSL-1">looked</t>
+                <t id="p05-s01-t04" type="GSL-1">for</t>
+                <t id="p05-s01-t05" type="GSL-1">other</t>
+                <t id="p05-s01-t06">crow</t>
+                <t id="p05-s01-t07">species</t>
+                <t id="p05-s01-t08" type="GSL-1">with</t>
+                <t id="p05-s01-t09" type="GSL-2">straight</t>
+                <t id="p05-s01-t10" type="GSL-1">bills</t>
+                <t id="p05-s01-t11" type="GSL-1">and</t>
+                <t id="p05-s01-t12" type="GSL-1">large</t>
+                <t id="p05-s01-t13" type="GSL-1">eyes</t>
+                <punc>,</punc>
+                <t id="p05-s01-t14" type="GSL-1">the</t>
+                <t id="p05-s01-t15">species</t>
+                <t id="p05-s01-t16" type="GSL-1">that</t>
+                <t id="p05-s01-t17" type="GSL-1">stood</t>
+                <t id="p05-s01-t18" type="GSL-1">out</t>
+                <t id="p05-s01-t19" type="GSL-1">was</t>
+                <t id="p05-s01-t20" type="GSL-1">the</t>
+                <t id="p05-s01-t21">Hawaiian</t>
+                <t id="p05-s01-t22">crow</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p06">
+            <sentence par-function="topic" id="p06-s01">
+                <t id="p06-s01-t01" type="GSL-1">But</t>
+                <t id="p06-s01-t02" type="GSL-1">the</t>
+                <t id="p06-s01-t03">Hawaiian</t>
+                <t id="p06-s01-t04">crow</t>
+                <t id="p06-s01-t05" type="GSL-1">is</t>
+                <t id="p06-s01-t06">extinct</t>
+                <t id="p06-s01-t07" type="GSL-1">in</t>
+                <t id="p06-s01-t08" type="GSL-1">the</t>
+                <t id="p06-s01-t09" type="GSL-1">wild</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p06-s02">
+                <t id="p06-s02-t01" type="GSL-1">In</t>
+                <t id="p06-s02-t02" type="GSL-1">the</t>
+                <t id="p06-s02-t03" type="GSL-1">midst</t>
+                <t id="p06-s02-t04" type="GSL-1">of</t>
+                <t id="p06-s02-t05" type="GSL-1">a</t>
+                <t id="p06-s02-t06">precipitous</t>
+                <t id="p06-s02-t07" type="Coxhead-AWL-5,AR-AWL-5a">decline</t>
+                <t id="p06-s02-t08" type="GSL-1">in</t>
+                <t id="p06-s02-t09" type="GSL-1">the</t>
+                <t id="p06-s02-t10" type="GSL-1">late</t>
+                <t id="p06-s02-t11">20th</t>
+                <t id="p06-s02-t12" type="GSL-2">century</t>
+                <punc>,</punc>
+                <t id="p06-s02-t13">conservationists</t>
+                <t id="p06-s02-t14" type="GSL-1">caught</t>
+                <t id="p06-s02-t15" type="GSL-1">the</t>
+                <t id="p06-s02-t16" type="GSL-1">remaining</t>
+                <t id="p06-s02-t17" type="GSL-1">wild</t>
+                <t id="p06-s02-t18" type="GSL-1">birds</t>
+                <t id="p06-s02-t19" type="GSL-1">and</t>
+                <t id="p06-s02-t20" type="GSL-1">brought</t>
+                <anaphor id="p06-s02-a01" info="p06-s02-t16:p06-s02-t18">
+                    <t id="p06-s02-t21" type="GSL-1">them</t>
+                </anaphor>
+                <t id="p06-s02-t22" type="GSL-1">into</t>
+                <t id="p06-s02-t23">captivity</t>
+                <t id="p06-s02-t24" type="GSL-1">for</t>
+                <t id="p06-s02-t25" type="GSL-1">a</t>
+                <t id="p06-s02-t26">breed</t>
+                <punc>-</punc>
+                <t id="p06-s02-t27" type="GSL-1">and</t>
+                <punc>-</punc>
+                <t id="p06-s02-t28" type="Coxhead-AWL-7,AR-AWL-7b">release</t>
+                <t id="p06-s02-t29" type="GSL-2">program</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p07">
+            <sentence par-function="topic" id="p07-s01">
+                <punc>“</punc>
+                <t id="p07-s01-t01" type="GSL-1">I</t>
+                <t id="p07-s01-t02" type="GSL-1">got</t>
+                <t id="p07-s01-t03" type="GSL-1">in</t>
+                <t id="p07-s01-t04" type="GSL-1">touch</t>
+                <t id="p07-s01-t05" type="GSL-1">with</t>
+                <t id="p07-s01-t06" type="GSL-1">the</t>
+                <t id="p07-s01-t07" type="Coxhead-AWL-9,AR-AWL-9b">team</t>
+                <t id="p07-s01-t08" type="GSL-1">that</t>
+                <t id="p07-s01-t09" type="GSL-1">looks</t>
+                <t id="p07-s01-t10" type="GSL-1">after</t>
+                <anaphor id="p07-s01-a01" info="p06-s01-t03:p06-s01-t04">
+                    <t id="p07-s01-t11" type="GSL-1">these</t>
+                    <t id="p07-s01-t12">crows</t>
+                </anaphor>
+                <t id="p07-s01-t13" type="GSL-1">in</t>
+                <t id="p07-s01-t14">captivity</t>
+                <t id="p07-s01-t15" type="GSL-1">in</t>
+                <t id="p07-s01-t16">Hawaii</t>
+                <punc>,</punc>
+                <connector id="p07-s01-c01" type="elaboration" info="p07-s01-t01:p07-s01-t16,p07-s01-t18:p07-s01-t30">
+                    <t id="p07-s01-t17" type="GSL-1">and</t>
+                </connector>
+                <t id="p07-s01-t18" type="GSL-1">I</t>
+                <t id="p07-s01-t19" type="GSL-1">told</t>
+                <t id="p07-s01-t20" type="GSL-1">them</t>
+                <t id="p07-s01-t21" type="GSL-1">I</t>
+                <t id="p07-s01-t22" type="GSL-1">had</t>
+                <t id="p07-s01-t23" type="GSL-1">a</t>
+                <t id="p07-s01-t24">hunch</t>
+                <anaphor id="p07-s01-a02" info="p07-s01-t07:p07-s01-t16">
+                    <t id="p07-s01-t25" type="GSL-1">their</t>
+                </anaphor>
+                <t id="p07-s01-t26">crows</t>
+                <t id="p07-s01-t27" type="GSL-1">may</t>
+                <t id="p07-s01-t28" type="GSL-1">be</t>
+                <t id="p07-s01-t29" type="GSL-2">tool</t>
+                <t id="p07-s01-t30" type="GSL-1">users</t>
+                <punc>,</punc>
+                <punc>”</punc>
+                <t id="p07-s01-t31" type="GSL-1">says</t>
+                <t id="p07-s01-t32">Rutz</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p07-s02">
+                <punc>“</punc>
+                <anaphor id="p07-s02-a01" info="p07-s01-t07:p07-s01-t16">
+                    <t id="p07-s02-t01" type="GSL-1">They</t>
+                </anaphor>
+                <t id="p07-s02-t02" type="GSL-1">said</t>
+                <punc>,</punc>
+                <punc>‘</punc>
+                <t id="p07-s02-t03">Yeah</t>
+                <punc>,</punc>
+                <t id="p07-s02-t04" type="GSL-1">we</t>
+                <t id="p07-s02-t05" type="GSL-1">see</t>
+                <t id="p07-s02-t06" type="GSL-1">that</t>
+                <t id="p07-s02-t07" type="GSL-1">all</t>
+                <t id="p07-s02-t08" type="GSL-1">the</t>
+                <t id="p07-s02-t09" type="GSL-1">time</t>
+                <punc>.</punc>
+                <punc>’</punc>
+                <punc>”</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p08">
+            <sentence par-function="topic" id="p08-s01">
+                <anaphor id="p08-s01-a01" info="p01-s01-t13:p01-s01-t16">
+                    <t id="p08-s01-t01" type="GSL-1">The</t>
+                    <t id="p08-s01-t02" type="GSL-1">scientists</t>
+                </anaphor>
+                <t id="p08-s01-t03" type="GSL-1">and</t>
+                <t id="p08-s01-t04">conservationists</t>
+                <t id="p08-s01-t05">collaborated</t>
+                <t id="p08-s01-t06" type="GSL-1">to</t>
+                <t id="p08-s01-t07" type="GSL-2">examine</t>
+                <t id="p08-s01-t08" type="GSL-1">the</t>
+                <t id="p08-s01-t09" type="GSL-2">tool</t>
+                <punc>-</punc>
+                <t id="p08-s01-t10" type="GSL-1">using</t>
+                <t id="p08-s01-t11" type="GSL-2">skills</t>
+                <t id="p08-s01-t12" type="GSL-1">of</t>
+                <t id="p08-s01-t13">Hawaiian</t>
+                <t id="p08-s01-t14">crows</t>
+                <t id="p08-s01-t15" type="GSL-1">under</t>
+                <t id="p08-s01-t16" type="GSL-1">controlled</t>
+                <t id="p08-s01-t17" type="GSL-1">conditions</t>
+                <punc>,</punc>
+                <t id="p08-s01-t18" type="GSL-1">testing</t>
+                <t id="p08-s01-t19">104</t>
+                <t id="p08-s01-t20" type="GSL-1">of</t>
+                <t id="p08-s01-t21" type="GSL-1">the</t>
+                <t id="p08-s01-t22">109</t>
+                <t id="p08-s01-t23">Hawaiian</t>
+                <t id="p08-s01-t24">crows</t>
+                <t id="p08-s01-t25" type="GSL-2">alive</t>
+                <t id="p08-s01-t26" type="GSL-1">at</t>
+                <t id="p08-s01-t27" type="GSL-1">the</t>
+                <t id="p08-s01-t28" type="GSL-1">time</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p08-s02">
+                <t id="p08-s02-t01" type="GSL-1">They</t>
+                <connector id="p08-s02-c01" type="attribution" info="p08-s02-t01:p08-s02-t01,p08-s02-t04:p08-s02-t21">
+                    <t id="p08-s02-t02" type="Coxhead-AWL-9,AR-AWL-9a">found</t>
+                </connector>
+                <t id="p08-s02-t03" type="GSL-1">that</t>
+                <t id="p08-s02-t04">78%</t>
+                <t id="p08-s02-t05" type="GSL-1">of</t>
+                <anaphor id="p08-s02-a01" info="p08-s01-t19:p08-s01-t28">
+                    <t id="p08-s02-t06" type="GSL-1">the</t>
+                    <t id="p08-s02-t07" type="GSL-1">birds</t>
+                </anaphor>
+                <t id="p08-s02-t08">spontaneously</t>
+                <t id="p08-s02-t09" type="GSL-1">used</t>
+                <t id="p08-s02-t10" type="GSL-2">stick</t>
+                <t id="p08-s02-t11" type="GSL-2">tools</t>
+                <t id="p08-s02-t12" type="GSL-1">to</t>
+                <t id="p08-s02-t13">probe</t>
+                <t id="p08-s02-t14" type="GSL-1">for</t>
+                <t id="p08-s02-t15" type="GSL-1">food</t>
+                <t id="p08-s02-t16" type="GSL-1">in</t>
+                <t id="p08-s02-t17" type="GSL-2">holes</t>
+                <t id="p08-s02-t18" type="GSL-1">in</t>
+                <t id="p08-s02-t19" type="GSL-1">a</t>
+                <t id="p08-s02-t20" type="GSL-1">wooden</t>
+                <t id="p08-s02-t21" type="GSL-2">log</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p08-s03">
+                <t id="p08-s03-t01" type="GSL-1">Nearly</t>
+                <t id="p08-s03-t02" type="GSL-1">all</t>
+                <t id="p08-s03-t03" type="GSL-1">the</t>
+                <t id="p08-s03-t04" type="Coxhead-AWL-7,AR-AWL-7a">adult</t>
+                <t id="p08-s03-t05" type="GSL-1">birds</t>
+                <t id="p08-s03-t06" type="GSL-1">used</t>
+                <t id="p08-s03-t07" type="GSL-2">tools</t>
+                <punc>,</punc>
+                <connector id="p08-s03-c01" type="contrast" info="p08-s03-t01:p08-s03-t07,p08-s03-t09:p08-s03-t15">
+                    <t id="p08-s03-t08" type="GSL-1">while</t>
+                </connector>
+                <t id="p08-s03-t09">juveniles</t>
+                <t id="p08-s03-t10" type="GSL-1">learned</t>
+                <t id="p08-s03-t11" type="GSL-1">to</t>
+                <t id="p08-s03-t12" type="GSL-1">use</t>
+                <t id="p08-s03-t13" type="GSL-2">tools</t>
+                <t id="p08-s03-t14" type="GSL-1">over</t>
+                <t id="p08-s03-t15" type="GSL-1">time</t>
+                <punc>,</punc>
+                <connector id="p08-s03-c02" type="violated expectation" info="p08-s03-t09:p08-s03-t15,p08-s03-t18:p08-s03-t26">
+                    <t id="p08-s03-t16" type="GSL-1">even</t>
+                    <t id="p08-s03-t17" type="GSL-1">when</t>
+                </connector>
+                <anaphor id="p08-s03-a01" info="p08-s03-t09:p08-s03-t09">
+                    <t id="p08-s03-t18" type="GSL-1">they</t>
+                </anaphor>
+                <t id="p08-s03-t19" type="GSL-1">were</t>
+                <t id="p08-s03-t20" type="GSL-1">never</t>
+                <t id="p08-s03-t21" type="Coxhead-AWL-5,AR-AWL-5a">exposed</t>
+                <t id="p08-s03-t22" type="GSL-1">to</t>
+                <t id="p08-s03-t23" type="Coxhead-AWL-7,AR-AWL-7a">adults</t>
+                <t id="p08-s03-t24" type="GSL-2">modeling</t>
+                <t id="p08-s03-t25" type="GSL-2">tool</t>
+                <t id="p08-s03-t26" type="GSL-2">behavior</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p09">
+            <sentence par-function="topic" id="p09-s01">
+                <punc>“</punc>
+                <t id="p09-s01-t01" type="GSL-1">It</t>
+                <t id="p09-s01-t02">didn't</t>
+                <t id="p09-s01-t03" type="GSL-1">look</t>
+                <t id="p09-s01-t04" type="GSL-1">like</t>
+                <t id="p09-s01-t05" type="GSL-1">the</t>
+                <t id="p09-s01-t06" type="GSL-1">kind</t>
+                <t id="p09-s01-t07" type="GSL-1">of</t>
+                <t id="p09-s01-t08" type="GSL-2">tool</t>
+                <t id="p09-s01-t09" type="GSL-2">behavior</t>
+                <t id="p09-s01-t10" type="GSL-1">that</t>
+                <t id="p09-s01-t11" type="GSL-1">sometimes</t>
+                <t id="p09-s01-t12" type="GSL-1">arises</t>
+                <t id="p09-s01-t13" type="GSL-1">in</t>
+                <t id="p09-s01-t14" type="GSL-1">a</t>
+                <t id="p09-s01-t15">species</t>
+                <t id="p09-s01-t16" type="GSL-1">in</t>
+                <t id="p09-s01-t17">captivity</t>
+                <punc>,</punc>
+                <t id="p09-s01-t18" type="GSL-1">where</t>
+                <t id="p09-s01-t19" type="GSL-1">the</t>
+                <t id="p09-s01-t20" type="GSL-1">animal</t>
+                <t id="p09-s01-t21" type="GSL-1">does</t>
+                <t id="p09-s01-t22" type="GSL-1">not</t>
+                <t id="p09-s01-t23" type="GSL-1">naturally</t>
+                <t id="p09-s01-t24" type="GSL-1">use</t>
+                <t id="p09-s01-t25" type="GSL-2">tools</t>
+                <t id="p09-s01-t26" type="GSL-1">in</t>
+                <t id="p09-s01-t27" type="GSL-1">the</t>
+                <t id="p09-s01-t28" type="GSL-1">wild</t>
+                <punc>,</punc>
+                <punc>”</punc>
+                <t id="p09-s01-t29" type="GSL-1">says</t>
+                <t id="p09-s01-t30">Rutz</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p09-s02">
+                <punc>“</punc>
+                <anaphor id="p09-s02-a01" info="p09-s01-t06:p09-s01-t17">
+                    <t id="p09-s02-t01" type="GSL-1">Those</t>
+                    <t id="p09-s02-t02" type="GSL-1">attempts</t>
+                </anaphor>
+                <t id="p09-s02-t03" type="GSL-1">are</t>
+                <t id="p09-s02-t04" type="GSL-1">often</t>
+                <t id="p09-s02-t05" type="GSL-1">quite</t>
+                <t id="p09-s02-t06">clumsy</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p09-s03">
+                <t id="p09-s03-t01" type="GSL-1">With</t>
+                <t id="p09-s03-t02" type="GSL-1">the</t>
+                <t id="p09-s03-t03">Hawaiian</t>
+                <t id="p09-s03-t04">crows</t>
+                <punc>,</punc>
+                <anaphor id="p09-s03-a01" info="p09-s03-t03:p09-s03-t04">
+                    <t id="p09-s03-t05" type="GSL-1">they</t>
+                </anaphor>
+                <t id="p09-s03-t06" type="GSL-1">are</t>
+                <t id="p09-s03-t07" type="GSL-1">so</t>
+                <t id="p09-s03-t08" type="GSL-2">quick</t>
+                <t id="p09-s03-t09" type="GSL-1">and</t>
+                <t id="p09-s03-t10">dexterous</t>
+                <t id="p09-s03-t11" type="GSL-1">in</t>
+                <t id="p09-s03-t12" type="GSL-1">how</t>
+                <anaphor id="p09-s03-a02" info="p09-s03-t03:p09-s03-t04">
+                    <t id="p09-s03-t13" type="GSL-1">they</t>
+                </anaphor>
+                <t id="p09-s03-t14" type="GSL-2">pick</t>
+                <t id="p09-s03-t15" type="GSL-1">up</t>
+                <t id="p09-s03-t16" type="GSL-1">the</t>
+                <t id="p09-s03-t17" type="GSL-2">tools</t>
+                <t id="p09-s03-t18" type="GSL-1">and</t>
+                <t id="p09-s03-t19" type="GSL-1">how</t>
+                <anaphor id="p09-s03-a03" info="p09-s03-t03:p09-s03-t04">
+                    <t id="p09-s03-t20" type="GSL-1">they</t>
+                </anaphor>
+                <t id="p09-s03-t21" type="Coxhead-AWL-5,AR-AWL-5b">modify</t>
+                <anaphor id="p09-s03-a04" info="p09-s03-t16:p09-s03-t17">
+                    <t id="p09-s03-t22" type="GSL-1">them</t>
+                </anaphor>
+                <t id="p09-s03-t23" type="GSL-1">for</t>
+                <t id="p09-s03-t24" type="GSL-1">use</t>
+                <punc>.</punc>
+                <punc>”</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p10">
+            <sentence par-function="topic" id="p10-s01">
+                <t id="p10-s01-t01">Rutz</t>
+                <t id="p10-s01-t02" type="GSL-1">also</t>
+                <connector id="p10-s01-c01" type="attribution" info="p10-s01-t01:p10-s01-t01,p10-s01-t06:p10-s01-t27">
+                    <t id="p10-s01-t03" type="GSL-1">points</t>
+                    <t id="p10-s01-t04" type="GSL-1">out</t>
+                </connector>
+                <t id="p10-s01-t05" type="GSL-1">that</t>
+                <connector id="p10-s01-c02" type="condition" info="p10-s01-t16:p10-s01-t27,p10-s01-t07:p10-s01-t15">
+                    <t id="p10-s01-t06" type="GSL-1">if</t>
+                </connector>
+                <t id="p10-s01-t07" type="GSL-2">tool</t>
+                <t id="p10-s01-t08" type="GSL-1">use</t>
+                <t id="p10-s01-t09" type="GSL-1">were</t>
+                <t id="p10-s01-t10" type="GSL-1">an</t>
+                <t id="p10-s01-t11">artifact</t>
+                <t id="p10-s01-t12" type="GSL-1">of</t>
+                <t id="p10-s01-t13" type="GSL-1">living</t>
+                <t id="p10-s01-t14" type="GSL-1">in</t>
+                <t id="p10-s01-t15">captivity</t>
+                <punc>,</punc>
+                <t id="p10-s01-t16" type="GSL-1">one</t>
+                <t id="p10-s01-t17" type="GSL-1">might</t>
+                <t id="p10-s01-t18" type="GSL-1">expect</t>
+                <t id="p10-s01-t19" type="GSL-1">only</t>
+                <t id="p10-s01-t20" type="GSL-1">a</t>
+                <t id="p10-s01-t21" type="GSL-1">handful</t>
+                <t id="p10-s01-t22" type="GSL-1">of</t>
+                <t id="p10-s01-t23" type="Coxhead-AWL-1,AR-AWL-1b">individuals</t>
+                <t id="p10-s01-t24" type="GSL-1">to</t>
+                <t id="p10-s01-t25" type="GSL-1">try</t>
+                <anaphor id="p10-s01-a01" info="p10-s01-t07:p10-s01-t08">
+                    <t id="p10-s01-t26" type="GSL-1">the</t>
+                    <t id="p10-s01-t27" type="GSL-2">behavior</t>
+                </anaphor>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p10-s02">
+                <t id="p10-s02-t01" type="GSL-1">But</t>
+                <t id="p10-s02-t02" type="GSL-2">tool</t>
+                <t id="p10-s02-t03" type="GSL-1">use</t>
+                <t id="p10-s02-t04" type="GSL-1">appears</t>
+                <t id="p10-s02-t05" type="GSL-1">to</t>
+                <t id="p10-s02-t06" type="GSL-1">be</t>
+                <t id="p10-s02-t07" type="GSL-1">a</t>
+                <t id="p10-s02-t08">species</t>
+                <punc>-</punc>
+                <t id="p10-s02-t09" type="GSL-1">wide</t>
+                <t id="p10-s02-t10" type="Coxhead-AWL-5,AR-AWL-5a">capacity</t>
+                <t id="p10-s02-t11" type="GSL-1">in</t>
+                <t id="p10-s02-t12">Hawaiian</t>
+                <t id="p10-s02-t13">crows</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p11">
+            <sentence par-function="topic" id="p11-s01">
+                <t id="p11-s01-t01" type="GSL-1">One</t>
+                <t id="p11-s01-t02" type="GSL-1">more</t>
+                <t id="p11-s01-t03" type="GSL-1">line</t>
+                <t id="p11-s01-t04" type="GSL-1">of</t>
+                <t id="p11-s01-t05" type="Coxhead-AWL-1,AR-AWL-1a">evidence</t>
+                <t id="p11-s01-t06" type="GSL-1">suggests</t>
+                <t id="p11-s01-t07" type="GSL-1">that</t>
+                <t id="p11-s01-t08" type="GSL-2">tool</t>
+                <t id="p11-s01-t09" type="GSL-1">use</t>
+                <t id="p11-s01-t10" type="GSL-1">is</t>
+                <t id="p11-s01-t11" type="GSL-1">part</t>
+                <t id="p11-s01-t12" type="GSL-1">of</t>
+                <t id="p11-s01-t13" type="GSL-1">the</t>
+                <t id="p11-s01-t14">Hawaiian</t>
+                <t id="p11-s01-t15">crow's</t>
+                <t id="p11-s01-t16" type="GSL-1">natural</t>
+                <t id="p11-s01-t17" type="GSL-2">behavioral</t>
+                <t id="p11-s01-t18">repertoire</t>
+                <punc>:</punc>
+                <t id="p11-s01-t19">juvenile</t>
+                <t id="p11-s01-t20">crows</t>
+                <t id="p11-s01-t21" type="GSL-1">developed</t>
+                <t id="p11-s01-t22" type="Coxhead-AWL-1,AR-AWL-1a">functional</t>
+                <t id="p11-s01-t23" type="GSL-2">tool</t>
+                <t id="p11-s01-t24" type="GSL-1">use</t>
+                <t id="p11-s01-t25" type="GSL-1">without</t>
+                <t id="p11-s01-t26" type="GSL-1">training</t>
+                <t id="p11-s01-t27" type="GSL-1">or</t>
+                <t id="p11-s01-t28" type="GSL-1">the</t>
+                <t id="p11-s01-t29" type="GSL-1">opportunity</t>
+                <t id="p11-s01-t30" type="GSL-1">to</t>
+                <t id="p11-s01-t31" type="GSL-1">observe</t>
+                <t id="p11-s01-t32" type="Coxhead-AWL-7,AR-AWL-7a">adults</t>
+                <t id="p11-s01-t33" type="GSL-1">successfully</t>
+                <t id="p11-s01-t34">foraging</t>
+                <t id="p11-s01-t35" type="GSL-1">with</t>
+                <t id="p11-s01-t36" type="GSL-2">tools</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p11-s02">
+                <connector id="p11-s02-c01" type="generalization" info="p11-s02-t02:p11-s02-t31,p11-s02-t32:p11-s02-t49">
+                    <t id="p11-s02-t01" type="GSL-1">So</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p11-s02-t02" type="GSL-1">since</t>
+                <t id="p11-s02-t03" type="GSL-1">almost</t>
+                <anaphor id="p11-s02-a01" info="p08-s01-t22:p08-s01-t28">
+                    <t id="p11-s02-t04" type="GSL-1">all</t>
+                    <t id="p11-s02-t05" type="GSL-1">the</t>
+                    <t id="p11-s02-t06" type="GSL-1">birds</t>
+                </anaphor>
+                <t id="p11-s02-t07">1</t>
+                <punc>)</punc>
+                <t id="p11-s02-t08" type="GSL-1">used</t>
+                <t id="p11-s02-t09" type="GSL-2">tools</t>
+                <t id="p11-s02-t10" type="GSL-1">when</t>
+                <anaphor id="p11-s02-a02" info="p08-s01-t19:p08-s01-t28">
+                    <t id="p11-s02-t11" type="GSL-1">they</t>
+                </anaphor>
+                <t id="p11-s02-t12" type="GSL-1">were</t>
+                <t id="p11-s02-t13" type="GSL-1">given</t>
+                <t id="p11-s02-t14" type="GSL-1">the</t>
+                <t id="p11-s02-t15" type="GSL-1">opportunity</t>
+                <punc>,</punc>
+                <t id="p11-s02-t16">2</t>
+                <punc>)</punc>
+                <t id="p11-s02-t17" type="GSL-1">were</t>
+                <t id="p11-s02-t18" type="GSL-1">quite</t>
+                <t id="p11-s02-t19">skillful</t>
+                <t id="p11-s02-t20" type="GSL-1">with</t>
+                <anaphor id="p11-s02-a03" info="p08-s02-t10:p08-s02-t11">
+                    <t id="p11-s02-t21" type="GSL-1">the</t>
+                    <t id="p11-s02-t22" type="GSL-2">tools</t>
+                </anaphor>
+                <punc>,</punc>
+                <t id="p11-s02-t23" type="GSL-1">and</t>
+                <t id="p11-s02-t24">3</t>
+                <punc>)</punc>
+                <t id="p11-s02-t25" type="Coxhead-AWL-2,AR-AWL-2a">acquired</t>
+                <t id="p11-s02-t26" type="GSL-2">tool</t>
+                <t id="p11-s02-t27" type="GSL-1">use</t>
+                <t id="p11-s02-t28" type="GSL-2">behavior</t>
+                <t id="p11-s02-t29" type="GSL-1">with</t>
+                <t id="p11-s02-t30" type="GSL-1">no</t>
+                <t id="p11-s02-t31" type="GSL-1">training</t>
+                <punc>,</punc>
+                <t id="p11-s02-t32" type="GSL-1">it</t>
+                <t id="p11-s02-t33" type="GSL-1">seems</t>
+                <t id="p11-s02-t34" type="GSL-1">likely</t>
+                <t id="p11-s02-t35" type="GSL-1">that</t>
+                <t id="p11-s02-t36">Hawaiian</t>
+                <t id="p11-s02-t37">crows</t>
+                <t id="p11-s02-t38" type="GSL-1">once</t>
+                <t id="p11-s02-t39" type="GSL-1">used</t>
+                <t id="p11-s02-t40" type="GSL-2">tools</t>
+                <t id="p11-s02-t41" type="GSL-1">in</t>
+                <t id="p11-s02-t42" type="GSL-1">the</t>
+                <t id="p11-s02-t43" type="GSL-1">wild</t>
+                <t id="p11-s02-t44" type="GSL-1">as</t>
+                <t id="p11-s02-t45" type="GSL-1">part</t>
+                <t id="p11-s02-t46" type="GSL-1">of</t>
+                <anaphor id="p11-s02-a04" info="p11-s02-t36:p11-s02-t37">
+                    <t id="p11-s02-t47" type="GSL-1">their</t>
+                </anaphor>
+                <t id="p11-s02-t48" type="Coxhead-AWL-2,AR-AWL-2b">normal</t>
+                <t id="p11-s02-t49" type="GSL-2">behavior</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p12">
+            <sentence par-function="topic" id="p12-s01">
+                <t id="p12-s01-t01" type="GSL-1">As</t>
+                <t id="p12-s01-t02">crow</t>
+                <t id="p12-s01-t03">species</t>
+                <t id="p12-s01-t04" type="GSL-1">go</t>
+                <punc>,</punc>
+                <t id="p12-s01-t05" type="GSL-1">the</t>
+                <t id="p12-s01-t06">Hawaiian</t>
+                <t id="p12-s01-t07">crow</t>
+                <t id="p12-s01-t08" type="GSL-1">and</t>
+                <t id="p12-s01-t09" type="GSL-1">New</t>
+                <t id="p12-s01-t10">Caledonian</t>
+                <t id="p12-s01-t11">crow</t>
+                <t id="p12-s01-t12" type="GSL-1">are</t>
+                <t id="p12-s01-t13" type="GSL-1">only</t>
+                <t id="p12-s01-t14">distantly</t>
+                <t id="p12-s01-t15" type="GSL-1">related</t>
+                <punc>,</punc>
+                <t id="p12-s01-t16" type="GSL-1">suggesting</t>
+                <t id="p12-s01-t17" type="GSL-1">that</t>
+                <t id="p12-s01-t18" type="GSL-2">tool</t>
+                <t id="p12-s01-t19" type="GSL-1">use</t>
+                <t id="p12-s01-t20" type="Coxhead-AWL-5,AR-AWL-5a">evolved</t>
+                <t id="p12-s01-t21" type="GSL-1">independently</t>
+                <t id="p12-s01-t22" type="GSL-1">in</t>
+                <t id="p12-s01-t23" type="GSL-1">each</t>
+                <t id="p12-s01-t24" type="GSL-1">bird</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p12-s02">
+                <t id="p12-s02-t01" type="GSL-1">What</t>
+                <anaphor id="p12-s02-a01" info="p12-s01-t06:p12-s01-t11">
+                    <t id="p12-s02-t02" type="GSL-1">the</t>
+                    <t id="p12-s02-t03" type="GSL-1">two</t>
+                    <t id="p12-s02-t04">species</t>
+                </anaphor>
+                <t id="p12-s02-t05" type="GSL-1">have</t>
+                <t id="p12-s02-t06" type="GSL-1">in</t>
+                <t id="p12-s02-t07" type="GSL-1">common</t>
+                <t id="p12-s02-t08" type="GSL-1">is</t>
+                <t id="p12-s02-t09" type="GSL-1">that</t>
+                <anaphor id="p12-s02-a02" info="p12-s01-t06:p12-s01-t11">
+                    <t id="p12-s02-t10" type="GSL-1">they</t>
+                </anaphor>
+                <t id="p12-s02-t11" type="Coxhead-AWL-5,AR-AWL-5a">evolved</t>
+                <t id="p12-s02-t12" type="GSL-1">on</t>
+                <t id="p12-s02-t13" type="Coxhead-AWL-1,AR-AWL-1b">similar</t>
+                <t id="p12-s02-t14">remote</t>
+                <t id="p12-s02-t15">tropical</t>
+                <t id="p12-s02-t16" type="GSL-2">islands</t>
+                <t id="p12-s02-t17" type="GSL-1">in</t>
+                <t id="p12-s02-t18" type="GSL-1">the</t>
+                <t id="p12-s02-t19">Pacific</t>
+                <t id="p12-s02-t20" type="GSL-2">Ocean</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p12-s03">
+                <t id="p12-s03-t01" type="GSL-1">New</t>
+                <t id="p12-s03-t02">Caledonia</t>
+                <t id="p12-s03-t03" type="GSL-1">and</t>
+                <t id="p12-s03-t04">Hawaii</t>
+                <t id="p12-s03-t05" type="GSL-1">both</t>
+                <t id="p12-s03-t06" type="GSL-1">lack</t>
+                <t id="p12-s03-t07">woodpeckers</t>
+                <punc>(</punc>
+                <t id="p12-s03-t08" type="GSL-1">reducing</t>
+                <t id="p12-s03-t09" type="GSL-2">competition</t>
+                <t id="p12-s03-t10" type="GSL-1">for</t>
+                <t id="p12-s03-t11">prey</t>
+                <t id="p12-s03-t12">embedded</t>
+                <t id="p12-s03-t13" type="GSL-1">in</t>
+                <t id="p12-s03-t14" type="GSL-1">trees</t>
+                <punc>)</punc>
+                <t id="p12-s03-t15" type="GSL-1">and</t>
+                <t id="p12-s03-t16">ferocious</t>
+                <t id="p12-s03-t17" type="GSL-1">bird</t>
+                <t id="p12-s03-t18">predators</t>
+                <punc>(</punc>
+                <t id="p12-s03-t19" type="GSL-1">reducing</t>
+                <t id="p12-s03-t20" type="GSL-1">the</t>
+                <t id="p12-s03-t21" type="GSL-2">risk</t>
+                <t id="p12-s03-t22" type="GSL-1">of</t>
+                <t id="p12-s03-t23">predation</t>
+                <t id="p12-s03-t24" type="GSL-1">while</t>
+                <t id="p12-s03-t25">foraging</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p12-s04">
+                <t id="p12-s04-t01" type="GSL-1">Conditions</t>
+                <t id="p12-s04-t02" type="GSL-1">like</t>
+                <anaphor id="p12-s04-a01" info="p12-s03-t06:p12-s03-t25">
+                    <t id="p12-s04-t03" type="GSL-1">these</t>
+                </anaphor>
+                <t id="p12-s04-t04" type="GSL-1">could</t>
+                <t id="p12-s04-t05" type="Coxhead-AWL-5,AR-AWL-5a">facilitate</t>
+                <t id="p12-s04-t06">foraging</t>
+                <t id="p12-s04-t07" type="GSL-2">tool</t>
+                <t id="p12-s04-t08" type="GSL-1">use</t>
+                <t id="p12-s04-t09" type="GSL-1">in</t>
+                <t id="p12-s04-t10" type="GSL-1">birds</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p13">
+            <sentence par-function="topic" id="p13-s01">
+                <t id="p13-s01-t01" type="GSL-1">The</t>
+                <t id="p13-s01-t02" type="GSL-1">first</t>
+                <t id="p13-s01-t03" type="Coxhead-AWL-7,AR-AWL-7b">release</t>
+                <t id="p13-s01-t04" type="GSL-1">of</t>
+                <t id="p13-s01-t05">captive</t>
+                <punc>-</punc>
+                <t id="p13-s01-t06">bred</t>
+                <t id="p13-s01-t07">Hawaiian</t>
+                <t id="p13-s01-t08">crows</t>
+                <t id="p13-s01-t09" type="GSL-1">into</t>
+                <t id="p13-s01-t10" type="GSL-1">the</t>
+                <t id="p13-s01-t11" type="GSL-1">wild</t>
+                <t id="p13-s01-t12" type="GSL-1">is</t>
+                <t id="p13-s01-t13" type="Coxhead-AWL-8,AR-AWL-8b">scheduled</t>
+                <t id="p13-s01-t14" type="GSL-1">in</t>
+                <t id="p13-s01-t15" type="GSL-1">only</t>
+                <t id="p13-s01-t16" type="GSL-1">a</t>
+                <t id="p13-s01-t17" type="GSL-1">few</t>
+                <t id="p13-s01-t18">months'</t>
+                <t id="p13-s01-t19" type="GSL-1">time</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p13-s02">
+                <t id="p13-s02-t01" type="Coxhead-AWL-1,AR-AWL-1b">Research</t>
+                <t id="p13-s02-t02" type="GSL-1">like</t>
+                <anaphor id="p13-s02-a01" info="p06-s02-t26:p06-s02-t29">
+                    <t id="p13-s02-t03" type="GSL-1">this</t>
+                </anaphor>
+                <t id="p13-s02-t04" type="GSL-1">provides</t>
+                <t id="p13-s02-t05" type="GSL-1">useful</t>
+                <t id="p13-s02-t06" type="GSL-2">information</t>
+                <t id="p13-s02-t07" type="GSL-1">for</t>
+                <t id="p13-s02-t08" type="GSL-1">the</t>
+                <t id="p13-s02-t09">species'</t>
+                <t id="p13-s02-t10">conservation</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p14">
+            <sentence par-function="topic" id="p14-s01">
+                <punc>“</punc>
+                <t id="p14-s01-t01" type="GSL-1">The</t>
+                <t id="p14-s01-t02" type="GSL-1">discovery</t>
+                <t id="p14-s01-t03" type="GSL-1">that</t>
+                <t id="p14-s01-t04">Hawaiian</t>
+                <t id="p14-s01-t05">crows</t>
+                <t id="p14-s01-t06" type="GSL-1">naturally</t>
+                <t id="p14-s01-t07" type="GSL-1">use</t>
+                <t id="p14-s01-t08" type="GSL-2">tools</t>
+                <t id="p14-s01-t09" type="GSL-1">provides</t>
+                <t id="p14-s01-t10" type="GSL-1">an</t>
+                <t id="p14-s01-t11">unexpected</t>
+                <t id="p14-s01-t12" type="Coxhead-AWL-9,AR-AWL-9a">insight</t>
+                <t id="p14-s01-t13" type="GSL-1">into</t>
+                <anaphor id="p14-s01-a01" info="p14-s01-t04:p14-s01-t05">
+                    <t id="p14-s01-t14" type="GSL-1">these</t>
+                    <t id="p14-s01-t15">birds'</t>
+                </anaphor>
+                <t id="p14-s01-t16">ecological</t>
+                <t id="p14-s01-t17" type="GSL-1">needs</t>
+                <t id="p14-s01-t18" type="GSL-1">that</t>
+                <t id="p14-s01-t19" type="GSL-1">we</t>
+                <t id="p14-s01-t20" type="GSL-1">will</t>
+                <t id="p14-s01-t21" type="GSL-1">use</t>
+                <t id="p14-s01-t22" type="GSL-1">for</t>
+                <t id="p14-s01-t23" type="GSL-1">the</t>
+                <t id="p14-s01-t24" type="Coxhead-AWL-10,AR-AWL-10">forthcoming</t>
+                <t id="p14-s01-t25">reintroduction</t>
+                <punc>,</punc>
+                <punc>”</punc>
+                <t id="p14-s01-t26" type="GSL-1">says</t>
+                <t id="p14-s01-t27">Rutz</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p14-s02">
+                <punc>“</punc>
+                <t id="p14-s02-t01" type="GSL-1">We</t>
+                <t id="p14-s02-t02" type="GSL-1">can</t>
+                <t id="p14-s02-t03" type="GSL-1">look</t>
+                <t id="p14-s02-t04" type="GSL-1">at</t>
+                <t id="p14-s02-t05" type="GSL-1">the</t>
+                <t id="p14-s02-t06" type="GSL-1">New</t>
+                <t id="p14-s02-t07">Caledonian</t>
+                <t id="p14-s02-t08">crow</t>
+                <t id="p14-s02-t09" type="GSL-1">and</t>
+                <t id="p14-s02-t10" type="GSL-1">try</t>
+                <t id="p14-s02-t11" type="GSL-1">to</t>
+                <t id="p14-s02-t12" type="Coxhead-AWL-9,AR-AWL-9a">anticipate</t>
+                <t id="p14-s02-t13" type="GSL-1">and</t>
+                <t id="p14-s02-t14" type="GSL-2">model</t>
+                <t id="p14-s02-t15" type="GSL-1">what</t>
+                <anaphor id="p14-s02-a01" info="p14-s02-t06:p14-s02-t08">
+                    <t id="p14-s02-t16" type="GSL-1">these</t>
+                    <t id="p14-s02-t17" type="GSL-1">birds</t>
+                </anaphor>
+                <t id="p14-s02-t18" type="GSL-1">will</t>
+                <t id="p14-s02-t19" type="Coxhead-AWL-1,AR-AWL-1b">require</t>
+                <t id="p14-s02-t20" type="GSL-1">upon</t>
+                <t id="p14-s02-t21" type="GSL-1">being</t>
+                <t id="p14-s02-t22" type="Coxhead-AWL-7,AR-AWL-7b">released</t>
+                <punc>;</punc>
+                <t id="p14-s02-t23" type="GSL-1">a</t>
+                <t id="p14-s02-t24" type="GSL-2">tool</t>
+                <punc>-</punc>
+                <t id="p14-s02-t25" type="GSL-1">using</t>
+                <t id="p14-s02-t26">species</t>
+                <t id="p14-s02-t27" type="Coxhead-AWL-4,AR-AWL-4b">occupies</t>
+                <t id="p14-s02-t28" type="GSL-1">a</t>
+                <t id="p14-s02-t29" type="GSL-1">different</t>
+                <t id="p14-s02-t30">ecological</t>
+                <t id="p14-s02-t31">niche</t>
+                <t id="p14-s02-t32" type="GSL-1">than</t>
+                <t id="p14-s02-t33" type="GSL-1">a</t>
+                <t id="p14-s02-t34">non</t>
+                <punc>-</punc>
+                <t id="p14-s02-t35" type="GSL-2">tool</t>
+                <punc>-</punc>
+                <t id="p14-s02-t36" type="GSL-1">using</t>
+                <t id="p14-s02-t37">species</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p15">
+            <sentence par-function="topic" id="p15-s01">
+                <punc>“</punc>
+                <t id="p15-s01-t01">Hopefully</t>
+                <punc>,</punc>
+                <t id="p15-s01-t02" type="GSL-1">learning</t>
+                <t id="p15-s01-t03" type="GSL-1">about</t>
+                <anaphor id="p15-s01-a01" info="p14-s02-t12:p14-s02-t37">
+                    <t id="p15-s01-t04" type="GSL-1">this</t>
+                    <t id="p15-s01-t05" type="GSL-1">interesting</t>
+                    <t id="p15-s01-t06" type="Coxhead-AWL-1,AR-AWL-1b">research</t>
+                </anaphor>
+                <t id="p15-s01-t07" type="GSL-1">will</t>
+                <t id="p15-s01-t08">familiarize</t>
+                <t id="p15-s01-t09" type="GSL-1">people</t>
+                <t id="p15-s01-t10" type="GSL-1">with</t>
+                <anaphor id="p15-s01-a02" info="">
+                    <t id="p15-s01-t11" type="GSL-1">these</t>
+                    <t id="p15-s01-t12" type="GSL-1">birds</t>
+                </anaphor>
+                <t id="p15-s01-t13" type="GSL-1">and</t>
+                <t id="p15-s01-t14" type="GSL-2">encourage</t>
+                <t id="p15-s01-t15" type="GSL-1">people</t>
+                <t id="p15-s01-t16" type="GSL-1">to</t>
+                <t id="p15-s01-t17" type="GSL-1">care</t>
+                <t id="p15-s01-t18" type="GSL-1">about</t>
+                <anaphor id="p15-s01-a03" info="">
+                    <t id="p15-s01-t19" type="GSL-1">them</t>
+                </anaphor>
+                <t id="p15-s01-t20" type="GSL-1">and</t>
+                <t id="p15-s01-t21" type="GSL-1">support</t>
+                <t id="p15-s01-t22">conservation</t>
+                <t id="p15-s01-t23" type="GSL-1">efforts</t>
+                <punc>.</punc>
+                <punc>”</punc>
+            </sentence>
+        </paragraph>
+    </body>
 </document>
