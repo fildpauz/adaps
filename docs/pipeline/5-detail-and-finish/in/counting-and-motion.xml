@@ -1,1051 +1,1051 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
 <document>
-<title>Counting Is Easier while Experiencing a Congruent Motion</title>
-<citation>Lugli L, Baroni G, Anelli F, Borghi AM, Nicoletti R (2013) Counting Is Easier while Experiencing a Congruent Motion. PLoS ONE 8(5):e64500. doi:10.1371/journal/pone.0064500
-Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064500 on 04 Oct 2016.</citation>
-<url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064500</url>
-<body>
-<paragraph id="p01">
-<sentence par-function="topic|supporting|concluding" id="p01-s01">
-<t id="p01-s01-t01" type="GSL-1">We</t>
-<t id="p01-s01-t02" type="GSL-2">calculate</t>
-<t id="p01-s01-t03" type="GSL-2">during</t>
-<t id="p01-s01-t04" type="GSL-1">each</t>
-<t id="p01-s01-t05" type="Coxhead-AWL-4,AR-AWL-4b">phase</t>
-<t id="p01-s01-t06" type="GSL-1">of</t>
-<t id="p01-s01-t07" type="GSL-1">our</t>
-<t id="p01-s01-t08" type="GSL-1">lives</t>
-<punc>:</punc>
-<t id="p01-s01-t09" type="GSL-1">we</t>
-<t id="p01-s01-t10" type="GSL-1">try</t>
-<t id="p01-s01-t11" type="GSL-1">to</t>
-<t id="p01-s01-t12" type="GSL-1">understand</t>
-<t id="p01-s01-t13" type="GSL-1">what</t>
-<t id="p01-s01-t14" type="GSL-1">happens</t>
-<t id="p01-s01-t15" type="GSL-1">when</t>
-<t id="p01-s01-t16" type="GSL-1">we</t>
-<t id="p01-s01-t17" type="Coxhead-AWL-2,AR-AWL-2b">invest</t>
-<t id="p01-s01-t18" type="GSL-1">our</t>
-<t id="p01-s01-t19" type="GSL-1">money</t>
-<punc>,</punc>
-<t id="p01-s01-t20" type="GSL-1">when</t>
-<t id="p01-s01-t21" type="GSL-1">we</t>
-<t id="p01-s01-t22" type="GSL-1">try</t>
-<t id="p01-s01-t23" type="GSL-1">to</t>
-<t id="p01-s01-t24" type="GSL-1">keep</t>
-<t id="p01-s01-t25" type="GSL-1">time</t>
-<t id="p01-s01-t26" type="GSL-1">and</t>
-<t id="p01-s01-t27" type="GSL-1">when</t>
-<t id="p01-s01-t28" type="GSL-1">we</t>
-<t id="p01-s01-t29" type="GSL-1">have</t>
-<t id="p01-s01-t30" type="GSL-1">to</t>
-<t id="p01-s01-t31" type="GSL-1">go</t>
-<t id="p01-s01-t32" type="GSL-1">home</t>
-<t id="p01-s01-t33" type="GSL-1">taking</t>
-<t id="p01-s01-t34" type="GSL-1">the</t>
-<t id="p01-s01-t35" type="GSL-1">right</t>
-<t id="p01-s01-t36" type="GSL-2">bus</t>
-<t id="p01-s01-t37" type="GSL-1">at</t>
-<t id="p01-s01-t38" type="GSL-1">the</t>
-<t id="p01-s01-t39" type="GSL-1">right</t>
-<t id="p01-s01-t40" type="GSL-1">time</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p01-s02">
-<t id="p01-s02-t01" type="GSL-1">All</t>
-<t id="p01-s02-t02" type="GSL-1">these</t>
-<t id="p01-s02-t03" type="GSL-1">everyday</t>
-<t id="p01-s02-t04" type="GSL-1">activities</t>
-<t id="p01-s02-t05" type="Coxhead-AWL-1,AR-AWL-1b">involve</t>
-<t id="p01-s02-t06" type="GSL-1">numbers</t>
-<t id="p01-s02-t07" type="GSL-1">and</t>
-<t id="p01-s02-t08" type="GSL-1">the</t>
-<t id="p01-s02-t09" type="GSL-1">relation</t>
-<t id="p01-s02-t10" type="GSL-1">between</t>
-<t id="p01-s02-t11" type="GSL-1">numbers</t>
-<t id="p01-s02-t12" type="GSL-1">and</t>
-<anaphor id="p01-s02-a01" info="">
-<t id="p01-s02-t13" type="GSL-1">their</t>
-</anaphor>
-<t id="p01-s02-t14">magnitude</t>
-<punc>,</punc>
-<t id="p01-s02-t15" type="GSL-1">which</t>
-<t id="p01-s02-t16" type="GSL-1">means</t>
-<t id="p01-s02-t17" type="GSL-1">counting</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p01-s03">
-<t id="p01-s03-t01" type="GSL-1">Different</t>
-<t id="p01-s03-t02" type="Coxhead-AWL-1,AR-AWL-1b">researches</t>
-<t id="p01-s03-t03" type="GSL-1">have</t>
-<t id="p01-s03-t04" type="Coxhead-AWL-1,AR-AWL-1a">consistently</t>
-<t id="p01-s03-t05" type="GSL-1">suggested</t>
-<t id="p01-s03-t06" type="GSL-1">that</t>
-<t id="p01-s03-t07" type="GSL-1">numerical</t>
-<t id="p01-s03-t08">magnitude</t>
-<t id="p01-s03-t09" type="GSL-1">is</t>
-<t id="p01-s03-t10" type="Coxhead-AWL-3,AR-AWL-3b">linked</t>
-<t id="p01-s03-t11" type="GSL-1">with</t>
-<t id="p01-s03-t12" type="GSL-1">the</t>
-<t id="p01-s03-t13" type="Coxhead-AWL-1,AR-AWL-1b">processing</t>
-<t id="p01-s03-t14" type="GSL-1">of</t>
-<t id="p01-s03-t15">spatial</t>
-<t id="p01-s03-t16" type="GSL-2">information</t>
-<punc>[</punc>
-<t id="p01-s03-t17">1</t>
-<punc>]</punc>
-<punc>,</punc>
-<punc>[</punc>
-<t id="p01-s03-t18">2</t>
-<punc>]</punc>
-<punc>,</punc>
-<t id="p01-s03-t19" type="GSL-1">to</t>
-<t id="p01-s03-t20" type="GSL-1">the</t>
-<t id="p01-s03-t21" type="GSL-1">extent</t>
-<t id="p01-s03-t22" type="GSL-1">that</t>
-<t id="p01-s03-t23" type="GSL-1">it</t>
-<t id="p01-s03-t24" type="GSL-1">has</t>
-<t id="p01-s03-t25" type="GSL-1">been</t>
-<t id="p01-s03-t26">postulated</t>
-<t id="p01-s03-t27" type="GSL-1">a</t>
-<t id="p01-s03-t28" type="GSL-1">common</t>
-<t id="p01-s03-t29">cortical</t>
-<t id="p01-s03-t30">metrics</t>
-<t id="p01-s03-t31" type="GSL-1">of</t>
-<t id="p01-s03-t32" type="GSL-1">time</t>
-<punc>,</punc>
-<t id="p01-s03-t33" type="GSL-1">space</t>
-<punc>,</punc>
-<t id="p01-s03-t34" type="GSL-1">and</t>
-<t id="p01-s03-t35" type="GSL-1">quantity</t>
-<punc>[</punc>
-<t id="p01-s03-t36">3</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p01-s04">
-<t id="p01-s04-t01" type="GSL-1">A</t>
-<t id="p01-s04-t02" type="Coxhead-AWL-10,AR-AWL-10">straightforward</t>
-<t id="p01-s04-t03" type="Coxhead-AWL-3,AR-AWL-3a">demonstration</t>
-<t id="p01-s04-t04" type="GSL-1">of</t>
-<t id="p01-s04-t05" type="GSL-1">the</t>
-<t id="p01-s04-t06" type="GSL-1">strong</t>
-<t id="p01-s04-t07" type="GSL-1">association</t>
-<t id="p01-s04-t08" type="GSL-1">between</t>
-<t id="p01-s04-t09" type="GSL-1">numbers</t>
-<t id="p01-s04-t10" type="GSL-1">and</t>
-<t id="p01-s04-t11" type="GSL-1">space</t>
-<t id="p01-s04-t12" type="GSL-1">can</t>
-<t id="p01-s04-t13" type="GSL-1">be</t>
-<t id="p01-s04-t14" type="Coxhead-AWL-9,AR-AWL-9a">found</t>
-<t id="p01-s04-t15" type="GSL-1">in</t>
-<t id="p01-s04-t16" type="GSL-1">the</t>
-<t id="p01-s04-t17" type="GSL-1">so</t>
-<punc>-</punc>
-<t id="p01-s04-t18" type="GSL-1">called</t>
-<abbr id="p01-s04-b01" info="">
-<t id="p01-s04-t19">SNARC</t>
-</abbr>
-<punc>(</punc>
-<t id="p01-s04-t20">Spatial</t>
-<t id="p01-s04-t21" type="GSL-1">Numerical</t>
-<t id="p01-s04-t22" type="GSL-1">Association</t>
-<t id="p01-s04-t23" type="GSL-1">of</t>
-<t id="p01-s04-t24" type="Coxhead-AWL-1,AR-AWL-1b">Response</t>
-<t id="p01-s04-t25" type="Coxhead-AWL-4,AR-AWL-4a">Codes</t>
-<punc>)</punc>
-<t id="p01-s04-t26" type="GSL-1">effect</t>
-<punc>[</punc>
-<t id="p01-s04-t27">4</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p01-s05">
-<t id="p01-s05-t01" type="GSL-1">In</t>
-<anaphor id="p01-s05-a01" info="">
-<t id="p01-s05-t02" type="GSL-1">this</t>
-<t id="p01-s05-t03" type="Coxhead-AWL-3,AR-AWL-3b">task</t>
-</anaphor>
-<punc>,</punc>
-<t id="p01-s05-t04" type="Coxhead-AWL-2,AR-AWL-2b">participants</t>
-<t id="p01-s05-t05" type="GSL-1">are</t>
-<t id="p01-s05-t06" type="GSL-2">typically</t>
-<t id="p01-s05-t07" type="GSL-1">faced</t>
-<t id="p01-s05-t08" type="GSL-1">with</t>
-<t id="p01-s05-t09" type="GSL-1">numbers</t>
-<t id="p01-s05-t10" type="Coxhead-AWL-2,AR-AWL-2b">ranging</t>
-<t id="p01-s05-t11" type="GSL-1">from</t>
-<t id="p01-s05-t12">1</t>
-<t id="p01-s05-t13" type="GSL-1">to</t>
-<t id="p01-s05-t14">9</t>
-<t id="p01-s05-t15" type="GSL-1">and</t>
-<t id="p01-s05-t16" type="GSL-1">asked</t>
-<t id="p01-s05-t17" type="GSL-1">to</t>
-<t id="p01-s05-t18" type="GSL-1">make</t>
-<t id="p01-s05-t19" type="GSL-1">a</t>
-<t id="p01-s05-t20">parity</t>
-<t id="p01-s05-t21" type="GSL-1">judgment</t>
-<t id="p01-s05-t22" type="GSL-1">by</t>
-<t id="p01-s05-t23" type="GSL-1">pressing</t>
-<t id="p01-s05-t24" type="GSL-1">a</t>
-<t id="p01-s05-t25" type="GSL-1">left</t>
-<t id="p01-s05-t26" type="GSL-1">or</t>
-<t id="p01-s05-t27" type="GSL-1">right</t>
-<t id="p01-s05-t28" type="GSL-2">key</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p01-s06">
-<t id="p01-s06-t01" type="GSL-1">Results</t>
-<t id="p01-s06-t02" type="GSL-1">show</t>
-<t id="p01-s06-t03" type="GSL-1">better</t>
-<t id="p01-s06-t04" type="GSL-2">performances</t>
-<t id="p01-s06-t05" type="GSL-1">when</t>
-<t id="p01-s06-t06" type="Coxhead-AWL-1,AR-AWL-1b">responding</t>
-<t id="p01-s06-t07" type="GSL-1">with</t>
-<t id="p01-s06-t08" type="GSL-1">the</t>
-<t id="p01-s06-t09" type="GSL-1">left</t>
-<t id="p01-s06-t10" type="GSL-2">key</t>
-<t id="p01-s06-t11" type="GSL-1">to</t>
-<t id="p01-s06-t12" type="GSL-1">small</t>
-<t id="p01-s06-t13" type="GSL-1">numbers</t>
-<punc>(</punc>
-<t id="p01-s06-t14">e</t>
-<punc>.</punc>
-<t id="p01-s06-t15">g</t>
-<punc>.</punc>
-<punc>,</punc>
-<t id="p01-s06-t16">2</t>
-<punc>)</punc>
-<t id="p01-s06-t17" type="GSL-1">and</t>
-<t id="p01-s06-t18" type="GSL-1">with</t>
-<t id="p01-s06-t19" type="GSL-1">the</t>
-<t id="p01-s06-t20" type="GSL-1">right</t>
-<t id="p01-s06-t21" type="GSL-2">key</t>
-<t id="p01-s06-t22" type="GSL-1">to</t>
-<t id="p01-s06-t23" type="GSL-1">large</t>
-<t id="p01-s06-t24" type="GSL-1">numbers</t>
-<punc>(</punc>
-<t id="p01-s06-t25">e</t>
-<punc>.</punc>
-<t id="p01-s06-t26">g</t>
-<punc>.</punc>
-<punc>,</punc>
-<t id="p01-s06-t27">7</t>
-<punc>)</punc>
-<punc>,</punc>
-<t id="p01-s06-t28" type="GSL-1">with</t>
-<t id="p01-s06-t29" type="GSL-1">respect</t>
-<t id="p01-s06-t30" type="GSL-1">to</t>
-<anaphor id="p01-s06-a01" info="">
-<t id="p01-s06-t31" type="GSL-1">the</t>
-<t id="p01-s06-t32" type="GSL-2">opposite</t>
-<t id="p01-s06-t33" type="Coxhead-AWL-6,AR-AWL-6b">instructions</t>
-</anaphor>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p01-s07">
-<anaphor id="p01-s07-a01" info="">
-<t id="p01-s07-t01" type="GSL-1">This</t>
-<t id="p01-s07-t02" type="Coxhead-AWL-1,AR-AWL-1a">evidence</t>
-</anaphor>
-<t id="p01-s07-t03" type="GSL-1">led</t>
-<t id="p01-s07-t04">Dehaene</t>
-<t id="p01-s07-t05" type="GSL-1">and</t>
-<t id="p01-s07-t06" type="Coxhead-AWL-6,AR-AWL-6a">authors</t>
-<punc>-</punc>
-<t id="p01-s07-t07" type="Coxhead-AWL-6,AR-AWL-6a">authors</t>
-<t id="p01-s07-t08" type="GSL-1">to</t>
-<t id="p01-s07-t09">postulate</t>
-<t id="p01-s07-t10" type="GSL-1">the</t>
-<t id="p01-s07-t11" type="GSL-1">existence</t>
-<t id="p01-s07-t12" type="GSL-1">of</t>
-<t id="p01-s07-t13" type="GSL-1">an</t>
-<t id="p01-s07-t14">horizontal</t>
-<t id="p01-s07-t15" type="Coxhead-AWL-5,AR-AWL-5b">mental</t>
-<t id="p01-s07-t16" type="GSL-1">number</t>
-<t id="p01-s07-t17" type="GSL-1">line</t>
-<punc>(</punc>
-<abbr id="p01-s07-b01" info="">
-<t id="p01-s07-t18">MNL</t>
-</abbr>
-<punc>)</punc>
-<t id="p01-s07-t19" type="GSL-1">where</t>
-<t id="p01-s07-t20" type="GSL-1">numbers</t>
-<t id="p01-s07-t21" type="GSL-1">are</t>
-<t id="p01-s07-t22" type="GSL-1">progressively</t>
-<t id="p01-s07-t23" type="Coxhead-AWL-3,AR-AWL-3b">located</t>
-<t id="p01-s07-t24" type="GSL-1">from</t>
-<t id="p01-s07-t25" type="GSL-1">left</t>
-<t id="p01-s07-t26" type="GSL-1">to</t>
-<t id="p01-s07-t27" type="GSL-1">right</t>
-<t id="p01-s07-t28" type="GSL-1">according</t>
-<t id="p01-s07-t29" type="GSL-1">to</t>
-<anaphor id="p01-s07-a02" info="">
-<t id="p01-s07-t30" type="GSL-1">their</t>
-</anaphor>
-<t id="p01-s07-t31">magnitude</t>
-<punc>(</punc>
-<t id="p01-s07-t32" type="GSL-1">see</t>
-<punc>[</punc>
-<t id="p01-s07-t33">5</t>
-<punc>]</punc>
-<punc>,</punc>
-<punc>[</punc>
-<t id="p01-s07-t34">6</t>
-<punc>]</punc>
-<punc>,</punc>
-<punc>[</punc>
-<t id="p01-s07-t35">7</t>
-<punc>]</punc>
-<punc>,</punc>
-<t id="p01-s07-t36" type="GSL-1">see</t>
-<t id="p01-s07-t37" type="GSL-1">also</t>
-<punc>[</punc>
-<t id="p01-s07-t38">8</t>
-<punc>]</punc>
-<t id="p01-s07-t39" type="GSL-1">for</t>
-<t id="p01-s07-t40" type="GSL-1">a</t>
-<t id="p01-s07-t41" type="GSL-1">different</t>
-<t id="p01-s07-t42" type="GSL-1">account</t>
-<punc>)</punc>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p01-s08">
-<t id="p01-s08-t01" type="GSL-1">The</t>
-<t id="p01-s08-t02" type="GSL-1">existence</t>
-<t id="p01-s08-t03" type="GSL-1">of</t>
-<t id="p01-s08-t04" type="GSL-1">an</t>
-<t id="p01-s08-t05">horizontal</t>
-<t id="p01-s08-t06">MNL</t>
-<t id="p01-s08-t07" type="GSL-1">has</t>
-<t id="p01-s08-t08" type="GSL-1">gathered</t>
-<t id="p01-s08-t09" type="GSL-1">support</t>
-<t id="p01-s08-t10" type="GSL-1">by</t>
-<t id="p01-s08-t11" type="GSL-1">several</t>
-<t id="p01-s08-t12" type="Coxhead-AWL-1,AR-AWL-1a">evidence</t>
-<t id="p01-s08-t13" type="GSL-1">so</t>
-<t id="p01-s08-t14" type="GSL-1">far</t>
-<punc>,</punc>
-<t id="p01-s08-t15" type="GSL-1">while</t>
-<t id="p01-s08-t16" type="GSL-1">few</t>
-<t id="p01-s08-t17" type="GSL-1">studies</t>
-<t id="p01-s08-t18" type="GSL-1">have</t>
-<t id="p01-s08-t19" type="Coxhead-AWL-9,AR-AWL-9a">found</t>
-<t id="p01-s08-t20" type="GSL-1">a</t>
-<t id="p01-s08-t21">SNARC</t>
-<t id="p01-s08-t22" type="GSL-1">effect</t>
-<t id="p01-s08-t23" type="GSL-1">also</t>
-<t id="p01-s08-t24" type="GSL-1">for</t>
-<t id="p01-s08-t25">vertical</t>
-<t id="p01-s08-t26" type="GSL-1">number</t>
-<t id="p01-s08-t27" type="GSL-2">arrangements</t>
-<punc>(</punc>
-<t id="p01-s08-t28" type="GSL-1">i</t>
-<punc>.</punc>
-<t id="p01-s08-t29">e</t>
-<punc>.</punc>
-<punc>,</punc>
-<t id="p01-s08-t30" type="GSL-1">a</t>
-<t id="p01-s08-t31" type="Coxhead-AWL-5,AR-AWL-5a">facilitation</t>
-<t id="p01-s08-t32" type="GSL-1">for</t>
-<t id="p01-s08-t33" type="GSL-2">upward</t>
-<t id="p01-s08-t34" type="GSL-1">or</t>
-<t id="p01-s08-t35">downward</t>
-<t id="p01-s08-t36" type="Coxhead-AWL-1,AR-AWL-1b">responses</t>
-<t id="p01-s08-t37" type="GSL-1">to</t>
-<t id="p01-s08-t38" type="GSL-1">large</t>
-<t id="p01-s08-t39" type="GSL-1">and</t>
-<t id="p01-s08-t40" type="GSL-1">small</t>
-<t id="p01-s08-t41" type="GSL-1">numbers</t>
-<punc>,</punc>
-<t id="p01-s08-t42" type="GSL-1">respectively</t>
-<punc>)</punc>
-<t id="p01-s08-t43" type="GSL-1">across</t>
-<t id="p01-s08-t44" type="GSL-1">different</t>
-<t id="p01-s08-t45" type="Coxhead-AWL-1,AR-AWL-1b">response</t>
-<t id="p01-s08-t46">modalities</t>
-<punc>,</punc>
-<t id="p01-s08-t47" type="GSL-1">such</t>
-<t id="p01-s08-t48" type="GSL-1">as</t>
-<t id="p01-s08-t49" type="GSL-2">key</t>
-<punc>-</punc>
-<t id="p01-s08-t50" type="GSL-1">presses</t>
-<punc>[</punc>
-<t id="p01-s08-t51">9</t>
-<punc>]</punc>
-<t id="p01-s08-t52" type="GSL-1">and</t>
-<t id="p01-s08-t53" type="GSL-1">eye</t>
-<t id="p01-s08-t54" type="GSL-1">movements</t>
-<punc>[</punc>
-<t id="p01-s08-t55">10</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p01-s09">
-<connector id="p01-s09-c01" type="" info="">
-<t id="p01-s09-t01" type="GSL-1">Recently</t>
-</connector>
-<punc>,</punc>
-<t id="p01-s09-t02">Holmes</t>
-<t id="p01-s09-t03" type="GSL-1">and</t>
-<t id="p01-s09-t04">Lourenco</t>
-<punc>[</punc>
-<t id="p01-s09-t05">11</t>
-<punc>]</punc>
-<t id="p01-s09-t06" type="Coxhead-AWL-2,AR-AWL-2a">focused</t>
-<t id="p01-s09-t07" type="GSL-1">on</t>
-<t id="p01-s09-t08" type="GSL-1">the</t>
-<t id="p01-s09-t09" type="GSL-1">relative</t>
-<t id="p01-s09-t10" type="GSL-1">strength</t>
-<t id="p01-s09-t11" type="GSL-1">of</t>
-<t id="p01-s09-t12" type="GSL-1">the</t>
-<t id="p01-s09-t13">horizontal</t>
-<t id="p01-s09-t14" type="GSL-1">and</t>
-<t id="p01-s09-t15">vertical</t>
-<t id="p01-s09-t16" type="Coxhead-AWL-5,AR-AWL-5b">mental</t>
-<t id="p01-s09-t17" type="GSL-1">number</t>
-<t id="p01-s09-t18" type="GSL-1">organization</t>
-<t id="p01-s09-t19" type="GSL-1">and</t>
-<t id="p01-s09-t20" type="Coxhead-AWL-9,AR-AWL-9a">found</t>
-<t id="p01-s09-t21" type="GSL-1">that</t>
-<t id="p01-s09-t22" type="GSL-1">the</t>
-<t id="p01-s09-t23">vertical</t>
-<t id="p01-s09-t24">axis</t>
-<t id="p01-s09-t25" type="GSL-1">would</t>
-<t id="p01-s09-t26" type="GSL-1">be</t>
-<t id="p01-s09-t27" type="GSL-1">only</t>
-<t id="p01-s09-t28" type="Coxhead-AWL-9,AR-AWL-9b">triggered</t>
-<t id="p01-s09-t29" type="GSL-1">when</t>
-<t id="p01-s09-t30" type="GSL-1">numbers</t>
-<t id="p01-s09-t31" type="GSL-1">are</t>
-<t id="p01-s09-t32">conceptualized</t>
-<t id="p01-s09-t33" type="GSL-1">as</t>
-<t id="p01-s09-t34">magnitudes</t>
-<t id="p01-s09-t35" type="GSL-1">that</t>
-<t id="p01-s09-t36">elicit</t>
-<t id="p01-s09-t37" type="GSL-1">an</t>
-<t id="p01-s09-t38" type="Coxhead-AWL-5,AR-AWL-5b">orientation</t>
-<punc>(</punc>
-<t id="p01-s09-t39">e</t>
-<punc>.</punc>
-<t id="p01-s09-t40">g</t>
-<punc>.</punc>
-<punc>,</punc>
-<t id="p01-s09-t41">1st</t>
-<t id="p01-s09-t42" type="GSL-1">floor</t>
-<t id="p01-s09-t43" type="GSL-1">from</t>
-<t id="p01-s09-t44" type="GSL-1">surface</t>
-<punc>,</punc>
-<t id="p01-s09-t45">2nd</t>
-<t id="p01-s09-t46" type="GSL-1">floor</t>
-<t id="p01-s09-t47" type="GSL-1">from</t>
-<t id="p01-s09-t48" type="GSL-1">surface</t>
-<punc>,</punc>
-<t id="p01-s09-t49">etc</t>
-<punc>)</punc>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p02">
-<sentence par-function="topic|supporting|concluding" id="p02-s01">
-<t id="p02-s01-t01" type="Coxhead-AWL-4,AR-AWL-4a">Despite</t>
-<t id="p02-s01-t02" type="GSL-1">the</t>
-<t id="p02-s01-t03" type="Coxhead-AWL-1,AR-AWL-1b">majority</t>
-<t id="p02-s01-t04" type="GSL-1">of</t>
-<t id="p02-s01-t05" type="GSL-1">the</t>
-<t id="p02-s01-t06">SNARC</t>
-<t id="p02-s01-t07" type="GSL-1">studies</t>
-<t id="p02-s01-t08" type="Coxhead-AWL-2,AR-AWL-2a">focused</t>
-<t id="p02-s01-t09" type="GSL-1">on</t>
-<t id="p02-s01-t10" type="GSL-1">the</t>
-<t id="p02-s01-t11" type="GSL-1">influence</t>
-<t id="p02-s01-t12" type="GSL-1">that</t>
-<t id="p02-s01-t13" type="GSL-1">number</t>
-<t id="p02-s01-t14" type="GSL-1">representation</t>
-<t id="p02-s01-t15" type="GSL-1">has</t>
-<t id="p02-s01-t16" type="GSL-1">on</t>
-<t id="p02-s01-t17">spatial</t>
-<t id="p02-s01-t18" type="GSL-2">attention</t>
-<punc>[</punc>
-<t id="p02-s01-t19">12</t>
-<punc>]</punc>
-<punc>,</punc>
-<punc>[</punc>
-<t id="p02-s01-t20">13</t>
-<punc>]</punc>
-<punc>,</punc>
-<punc>[</punc>
-<t id="p02-s01-t21">14</t>
-<punc>]</punc>
-<punc>,</punc>
-<t id="p02-s01-t22" type="GSL-1">several</t>
-<t id="p02-s01-t23" type="Coxhead-AWL-1,AR-AWL-1b">researches</t>
-<t id="p02-s01-t24" type="GSL-1">have</t>
-<t id="p02-s01-t25" type="GSL-1">shown</t>
-<t id="p02-s01-t26" type="GSL-1">that</t>
-<t id="p02-s01-t27" type="GSL-1">numerical</t>
-<t id="p02-s01-t28">magnitude</t>
-<t id="p02-s01-t29" type="GSL-1">can</t>
-<t id="p02-s01-t30" type="GSL-1">also</t>
-<t id="p02-s01-t31">modulate</t>
-<t id="p02-s01-t32" type="GSL-1">action</t>
-<punc>-</punc>
-<t id="p02-s01-t33" type="GSL-1">related</t>
-<t id="p02-s01-t34" type="Coxhead-AWL-1,AR-AWL-1b">processes</t>
-<punc>[</punc>
-<t id="p02-s01-t35">15</t>
-<punc>]</punc>
-<punc>,</punc>
-<punc>[</punc>
-<t id="p02-s01-t36">16</t>
-<punc>]</punc>
-<punc>,</punc>
-<punc>[</punc>
-<t id="p02-s01-t37">17</t>
-<punc>]</punc>
-<punc>,</punc>
-<punc>[</punc>
-<t id="p02-s01-t38">18</t>
-<punc>]</punc>
-<punc>,</punc>
-<punc>[</punc>
-<t id="p02-s01-t39">19</t>
-<punc>]</punc>
-<punc>,</punc>
-<punc>[</punc>
-<t id="p02-s01-t40">20</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p02-s02">
-<t id="p02-s02-t01" type="GSL-1">Further</t>
-<t id="p02-s02-t02" type="GSL-1">studies</t>
-<t id="p02-s02-t03" type="Coxhead-AWL-3,AR-AWL-3a">demonstrated</t>
-<t id="p02-s02-t04" type="GSL-1">a</t>
-<t id="p02-s02-t05">bidirectional</t>
-<t id="p02-s02-t06" type="GSL-1">relation</t>
-<t id="p02-s02-t07" type="GSL-1">between</t>
-<t id="p02-s02-t08" type="GSL-1">numbers</t>
-<t id="p02-s02-t09" type="Coxhead-AWL-1,AR-AWL-1b">processing</t>
-<t id="p02-s02-t10" type="GSL-1">and</t>
-<t id="p02-s02-t11" type="GSL-1">action</t>
-<punc>-</punc>
-<t id="p02-s02-t12" type="GSL-1">related</t>
-<t id="p02-s02-t13" type="Coxhead-AWL-1,AR-AWL-1b">processes</t>
-<punc>(</punc>
-<t id="p02-s02-t14" type="GSL-1">i</t>
-<punc>.</punc>
-<t id="p02-s02-t15">e</t>
-<punc>.</punc>
-<punc>,</punc>
-<t id="p02-s02-t16" type="GSL-1">motor</t>
-<punc>-</punc>
-<t id="p02-s02-t17" type="GSL-1">to</t>
-<punc>-</punc>
-<t id="p02-s02-t18">semantic</t>
-<t id="p02-s02-t19" type="GSL-1">effect</t>
-<punc>,</punc>
-<punc>[</punc>
-<t id="p02-s02-t20">21</t>
-<punc>]</punc>
-<punc>,</punc>
-<punc>[</punc>
-<t id="p02-s02-t21">23</t>
-<punc>]</punc>
-<punc>)</punc>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p02-s03">
-<t id="p02-s03-t01" type="GSL-1">More</t>
-<t id="p02-s03-t02" type="Coxhead-AWL-1,AR-AWL-1b">specifically</t>
-<punc>,</punc>
-<t id="p02-s03-t03" type="GSL-1">the</t>
-<t id="p02-s03-t04" type="GSL-1">motor</t>
-<punc>-</punc>
-<t id="p02-s03-t05" type="GSL-1">to</t>
-<punc>-</punc>
-<t id="p02-s03-t06">semantic</t>
-<t id="p02-s03-t07" type="GSL-1">effect</t>
-<t id="p02-s03-t08" type="Coxhead-AWL-6,AR-AWL-6b">revealed</t>
-<t id="p02-s03-t09" type="GSL-1">a</t>
-<t id="p02-s03-t10" type="Coxhead-AWL-5,AR-AWL-5a">facilitation</t>
-<punc>,</punc>
-<t id="p02-s03-t11" type="GSL-1">in</t>
-<t id="p02-s03-t12" type="GSL-1">terms</t>
-<t id="p02-s03-t13" type="GSL-1">of</t>
-<t id="p02-s03-t14" type="Coxhead-AWL-1,AR-AWL-1b">response</t>
-<t id="p02-s03-t15">latencies</t>
-<punc>,</punc>
-<t id="p02-s03-t16" type="GSL-1">when</t>
-<t id="p02-s03-t17" type="Coxhead-AWL-2,AR-AWL-2b">participants</t>
-<t id="p02-s03-t18" type="GSL-1">observed</t>
-<t id="p02-s03-t19" type="GSL-1">a</t>
-<t id="p02-s03-t20" type="GSL-1">closing</t>
-<t id="p02-s03-t21">grip</t>
-<t id="p02-s03-t22">posture</t>
-<t id="p02-s03-t23" type="GSL-1">of</t>
-<t id="p02-s03-t24" type="GSL-1">a</t>
-<t id="p02-s03-t25">biological</t>
-<t id="p02-s03-t26" type="GSL-1">hand</t>
-<t id="p02-s03-t27" type="GSL-1">and</t>
-<t id="p02-s03-t28" type="GSL-1">had</t>
-<t id="p02-s03-t29" type="GSL-1">to</t>
-<t id="p02-s03-t30" type="Coxhead-AWL-5,AR-AWL-5a">generate</t>
-<t id="p02-s03-t31" type="GSL-1">small</t>
-<t id="p02-s03-t32" type="GSL-1">numbers</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p02-s04">
-<t id="p02-s04-t01">Badets</t>
-<t id="p02-s04-t02">et</t>
-<t id="p02-s04-t03">al</t>
-<punc>.</punc>
-<punc>[</punc>
-<t id="p02-s04-t04">21</t>
-<punc>]</punc>
-<t id="p02-s04-t05" type="GSL-1">claimed</t>
-<t id="p02-s04-t06" type="GSL-1">that</t>
-<t id="p02-s04-t07" type="GSL-1">the</t>
-<punc>“</punc>
-<t id="p02-s04-t08" type="GSL-1">motor</t>
-<punc>-</punc>
-<t id="p02-s04-t09" type="GSL-1">to</t>
-<punc>-</punc>
-<t id="p02-s04-t10">semantic</t>
-<t id="p02-s04-t11" type="GSL-1">effect</t>
-<t id="p02-s04-t12" type="GSL-1">is</t>
-<t id="p02-s04-t13" type="Coxhead-AWL-1,AR-AWL-1a">assumed</t>
-<t id="p02-s04-t14" type="GSL-1">to</t>
-<t id="p02-s04-t15" type="GSL-1">come</t>
-<t id="p02-s04-t16" type="GSL-1">from</t>
-<t id="p02-s04-t17" type="GSL-1">the</t>
-<t id="p02-s04-t18" type="GSL-1">action</t>
-<t id="p02-s04-t19" type="GSL-1">system</t>
-<t id="p02-s04-t20" type="GSL-1">of</t>
-<anaphor id="p02-s04-a01" info="">
-<t id="p02-s04-t21" type="GSL-1">the</t>
-<t id="p02-s04-t22" type="Coxhead-AWL-2,AR-AWL-2b">participant</t>
-</anaphor>
-<t id="p02-s04-t23" type="GSL-1">who</t>
-<t id="p02-s04-t24" type="GSL-1">either</t>
-<t id="p02-s04-t25" type="GSL-1">actively</t>
-<t id="p02-s04-t26" type="GSL-2">performs</t>
-<t id="p02-s04-t27" type="GSL-1">an</t>
-<t id="p02-s04-t28" type="GSL-1">action</t>
-<t id="p02-s04-t29" type="GSL-1">or</t>
-<t id="p02-s04-t30" type="Coxhead-AWL-9,AR-AWL-9b">passively</t>
-<t id="p02-s04-t31" type="GSL-1">experience</t>
-<t id="p02-s04-t32" type="GSL-1">a</t>
-<t id="p02-s04-t33" type="GSL-2">motion</t>
-<t id="p02-s04-t34" type="GSL-1">and</t>
-<t id="p02-s04-t35" type="Coxhead-AWL-5,AR-AWL-5a">generates</t>
-<t id="p02-s04-t36" type="GSL-1">a</t>
-<t id="p02-s04-t37" type="GSL-1">number</t>
-<t id="p02-s04-t38" type="GSL-1">after</t>
-<punc>”</punc>
-<punc>(</punc>
-<t id="p02-s04-t39">ibidem</t>
-<punc>,</punc>
-<t id="p02-s04-t40">p</t>
-<punc>.</punc>
-<t id="p02-s04-t41">2</t>
-<punc>)</punc>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p02-s05">
-<anaphor id="p02-s05-a01" info="">
-<t id="p02-s05-t01" type="GSL-1">Other</t>
-<t id="p02-s05-t02" type="GSL-1">studies</t>
-</anaphor>
-<t id="p02-s05-t03" type="GSL-1">have</t>
-<t id="p02-s05-t04" type="Coxhead-AWL-4,AR-AWL-4b">investigated</t>
-<t id="p02-s05-t05" type="GSL-1">the</t>
-<t id="p02-s05-t06" type="GSL-1">influence</t>
-<t id="p02-s05-t07" type="GSL-1">of</t>
-<t id="p02-s05-t08" type="GSL-1">the</t>
-<t id="p02-s05-t09" type="Coxhead-AWL-1,AR-AWL-1b">specific</t>
-<t id="p02-s05-t10" type="GSL-1">body</t>
-<t id="p02-s05-t11">parts'</t>
-<t id="p02-s05-t12" type="GSL-1">movements</t>
-<punc>,</punc>
-<t id="p02-s05-t13" type="GSL-1">such</t>
-<t id="p02-s05-t14" type="GSL-1">as</t>
-<t id="p02-s05-t15" type="GSL-1">head</t>
-<t id="p02-s05-t16" type="GSL-1">positions</t>
-<punc>[</punc>
-<t id="p02-s05-t17">24</t>
-<punc>]</punc>
-<t id="p02-s05-t18" type="GSL-1">or</t>
-<t id="p02-s05-t19">ocular</t>
-<t id="p02-s05-t20">saccades</t>
-<punc>[</punc>
-<t id="p02-s05-t21">25</t>
-<punc>]</punc>
-<punc>,</punc>
-<t id="p02-s05-t22" type="GSL-1">on</t>
-<t id="p02-s05-t23" type="GSL-1">the</t>
-<t id="p02-s05-t24" type="Coxhead-AWL-5,AR-AWL-5a">generation</t>
-<t id="p02-s05-t25" type="GSL-1">of</t>
-<t id="p02-s05-t26" type="GSL-1">small</t>
-<t id="p02-s05-t27" type="GSL-1">numbers</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p03">
-<sentence par-function="topic|supporting|concluding" id="p03-s01">
-<t id="p03-s01-t01" type="GSL-1">In</t>
-<t id="p03-s01-t02" type="GSL-1">our</t>
-<t id="p03-s01-t03" type="GSL-1">study</t>
-<t id="p03-s01-t04" type="GSL-1">we</t>
-<t id="p03-s01-t05" type="Coxhead-AWL-1,AR-AWL-1a">assess</t>
-<t id="p03-s01-t06" type="GSL-1">whether</t>
-<t id="p03-s01-t07" type="GSL-1">and</t>
-<t id="p03-s01-t08" type="GSL-1">to</t>
-<t id="p03-s01-t09" type="GSL-1">what</t>
-<t id="p03-s01-t10" type="GSL-1">extent</t>
-<t id="p03-s01-t11" type="GSL-2">motions</t>
-<t id="p03-s01-t12" type="GSL-1">experienced</t>
-<t id="p03-s01-t13" type="GSL-1">with</t>
-<t id="p03-s01-t14" type="GSL-1">the</t>
-<t id="p03-s01-t15" type="GSL-1">whole</t>
-<t id="p03-s01-t16" type="GSL-1">body</t>
-<t id="p03-s01-t17" type="GSL-1">can</t>
-<t id="p03-s01-t18" type="GSL-1">influence</t>
-<t id="p03-s01-t19">arithmetical</t>
-<t id="p03-s01-t20" type="GSL-2">calculations</t>
-<t id="p03-s01-t21" type="GSL-1">of</t>
-<t id="p03-s01-t22" type="GSL-1">addition</t>
-<t id="p03-s01-t23" type="GSL-1">and</t>
-<t id="p03-s01-t24">subtraction</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p03-s02">
-<t id="p03-s02-t01" type="GSL-1">We</t>
-<t id="p03-s02-t02" type="Coxhead-AWL-4,AR-AWL-4a">hypothesize</t>
-<punc>,</punc>
-<t id="p03-s02-t03" type="GSL-1">thus</t>
-<punc>,</punc>
-<t id="p03-s02-t04" type="GSL-1">that</t>
-<anaphor id="p03-s02-a01" info="">
-<t id="p03-s02-t05" type="GSL-1">these</t>
-<t id="p03-s02-t06" type="GSL-2">calculations</t>
-</anaphor>
-<punc>,</punc>
-<t id="p03-s02-t07" type="GSL-1">both</t>
-<t id="p03-s02-t08" type="GSL-1">leading</t>
-<t id="p03-s02-t09" type="GSL-1">to</t>
-<t id="p03-s02-t10" type="GSL-1">numerical</t>
-<t id="p03-s02-t11">magnitudes</t>
-<punc>,</punc>
-<t id="p03-s02-t12" type="GSL-1">can</t>
-<t id="p03-s02-t13" type="GSL-1">be</t>
-<t id="p03-s02-t14">conceptualized</t>
-<t id="p03-s02-t15" type="GSL-1">along</t>
-<t id="p03-s02-t16" type="GSL-1">an</t>
-<t id="p03-s02-t17" type="GSL-2">upward</t>
-<t id="p03-s02-t18" type="GSL-1">and</t>
-<t id="p03-s02-t19">downward</t>
-<t id="p03-s02-t20" type="Coxhead-AWL-5,AR-AWL-5b">orientation</t>
-<t id="p03-s02-t21" type="GSL-1">for</t>
-<t id="p03-s02-t22" type="GSL-1">additions</t>
-<t id="p03-s02-t23" type="GSL-1">and</t>
-<t id="p03-s02-t24">subtractions</t>
-<punc>,</punc>
-<t id="p03-s02-t25" type="GSL-1">respectively</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p03-s03">
-<t id="p03-s03-t01" type="GSL-1">A</t>
-<t id="p03-s03-t02" type="GSL-1">study</t>
-<t id="p03-s03-t03" type="GSL-1">by</t>
-<t id="p03-s03-t04">Knops</t>
-<punc>,</punc>
-<t id="p03-s03-t05">Viarouge</t>
-<punc>,</punc>
-<t id="p03-s03-t06" type="GSL-1">and</t>
-<t id="p03-s03-t07">Dehaene</t>
-<punc>[</punc>
-<t id="p03-s03-t08">26</t>
-<punc>]</punc>
-<t id="p03-s03-t09" type="Coxhead-AWL-3,AR-AWL-3a">demonstrated</t>
-<t id="p03-s03-t10" type="GSL-1">that</t>
-<t id="p03-s03-t11">arithmetical</t>
-<t id="p03-s03-t12" type="GSL-2">calculations</t>
-<t id="p03-s03-t13" type="Coxhead-AWL-8,AR-AWL-8a">bias</t>
-<t id="p03-s03-t14" type="Coxhead-AWL-3,AR-AWL-3a">corresponding</t>
-<t id="p03-s03-t15">spatial</t>
-<t id="p03-s03-t16" type="Coxhead-AWL-3,AR-AWL-3b">location</t>
-<t id="p03-s03-t17" type="GSL-1">over</t>
-<anaphor id="p03-s03-a01" info="">
-<t id="p03-s03-t18" type="GSL-1">others</t>
-</anaphor>
-<punc>:</punc>
-<t id="p03-s03-t19" type="Coxhead-AWL-2,AR-AWL-2b">participants</t>
-<t id="p03-s03-t20" type="GSL-2">tended</t>
-<t id="p03-s03-t21" type="GSL-1">to</t>
-<t id="p03-s03-t22" type="Coxhead-AWL-2,AR-AWL-2b">select</t>
-<t id="p03-s03-t23" type="GSL-1">the</t>
-<t id="p03-s03-t24">numerosity</t>
-<t id="p03-s03-t25" type="Coxhead-AWL-6,AR-AWL-6a">displayed</t>
-<t id="p03-s03-t26" type="GSL-1">in</t>
-<t id="p03-s03-t27" type="GSL-1">the</t>
-<t id="p03-s03-t28" type="GSL-2">upper</t>
-<t id="p03-s03-t29" type="GSL-1">right</t>
-<t id="p03-s03-t30" type="Coxhead-AWL-3,AR-AWL-3b">location</t>
-<t id="p03-s03-t31" type="GSL-1">for</t>
-<t id="p03-s03-t32" type="GSL-1">additions</t>
-<punc>,</punc>
-<t id="p03-s03-t33" type="GSL-1">and</t>
-<t id="p03-s03-t34" type="GSL-1">in</t>
-<t id="p03-s03-t35" type="GSL-1">the</t>
-<t id="p03-s03-t36" type="GSL-2">upper</t>
-<t id="p03-s03-t37" type="GSL-1">left</t>
-<t id="p03-s03-t38" type="Coxhead-AWL-3,AR-AWL-3b">location</t>
-<t id="p03-s03-t39" type="GSL-1">for</t>
-<t id="p03-s03-t40">subtractions</t>
-<punc>(</punc>
-<t id="p03-s03-t41" type="GSL-1">Space</t>
-<punc>-</punc>
-<t id="p03-s03-t42" type="GSL-1">Operation</t>
-<t id="p03-s03-t43" type="GSL-1">Association</t>
-<t id="p03-s03-t44" type="GSL-1">of</t>
-<t id="p03-s03-t45" type="Coxhead-AWL-1,AR-AWL-1b">Responses</t>
-<punc>:</punc>
-<abbr id="p03-s03-b01" info="">
-<t id="p03-s03-t46">SOAR</t>
-</abbr>
-<punc>)</punc>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p03-s04">
-<t id="p03-s04-t01" type="GSL-1">Differently</t>
-<t id="p03-s04-t02" type="GSL-1">from</t>
-<t id="p03-s04-t03">Knops</t>
-<t id="p03-s04-t04" type="GSL-1">and</t>
-<t id="p03-s04-t05" type="Coxhead-AWL-10,AR-AWL-10">colleagues</t>
-<punc>,</punc>
-<t id="p03-s04-t06" type="GSL-1">we</t>
-<t id="p03-s04-t07" type="GSL-1">ask</t>
-<t id="p03-s04-t08" type="Coxhead-AWL-2,AR-AWL-2b">participants</t>
-<punc>:</punc>
-<punc>(</punc>
-<t id="p03-s04-t09" type="GSL-1">a</t>
-<punc>)</punc>
-<t id="p03-s04-t10" type="GSL-1">to</t>
-<t id="p03-s04-t11" type="GSL-1">keep</t>
-<t id="p03-s04-t12" type="GSL-1">adding</t>
-<t id="p03-s04-t13" type="GSL-1">or</t>
-<t id="p03-s04-t14">subtracting</t>
-<t id="p03-s04-t15" type="GSL-1">the</t>
-<t id="p03-s04-t16" type="GSL-1">same</t>
-<t id="p03-s04-t17" type="GSL-1">quantity</t>
-<punc>(</punc>
-<t id="p03-s04-t18" type="GSL-1">i</t>
-<punc>.</punc>
-<t id="p03-s04-t19">e</t>
-<punc>.</punc>
-<punc>,</punc>
-<t id="p03-s04-t20">3</t>
-<punc>)</punc>
-<t id="p03-s04-t21" type="GSL-1">from</t>
-<t id="p03-s04-t22" type="GSL-1">a</t>
-<t id="p03-s04-t23" type="GSL-1">starting</t>
-<t id="p03-s04-t24" type="GSL-1">number</t>
-<punc>(</punc>
-<t id="p03-s04-t25">e</t>
-<punc>.</punc>
-<t id="p03-s04-t26">g</t>
-<punc>.</punc>
-<punc>,</punc>
-<t id="p03-s04-t27">578</t>
-<punc>)</punc>
-<t id="p03-s04-t28" type="GSL-1">in</t>
-<t id="p03-s04-t29" type="GSL-1">a</t>
-<t id="p03-s04-t30" type="GSL-1">set</t>
-<t id="p03-s04-t31" type="Coxhead-AWL-1,AR-AWL-1b">period</t>
-<t id="p03-s04-t32" type="GSL-1">of</t>
-<t id="p03-s04-t33" type="GSL-1">time</t>
-<punc>(</punc>
-<t id="p03-s04-t34">22</t>
-<t id="p03-s04-t35" type="GSL-1">seconds</t>
-<punc>)</punc>
-<punc>;</punc>
-<punc>(</punc>
-<t id="p03-s04-t36">b</t>
-<punc>)</punc>
-<t id="p03-s04-t37" type="GSL-1">to</t>
-<t id="p03-s04-t38" type="GSL-1">report</t>
-<t id="p03-s04-t39" type="GSL-1">the</t>
-<t id="p03-s04-t40" type="GSL-1">result</t>
-<t id="p03-s04-t41" type="GSL-1">of</t>
-<t id="p03-s04-t42" type="GSL-1">each</t>
-<t id="p03-s04-t43" type="GSL-2">calculation</t>
-<t id="p03-s04-t44" type="GSL-2">aloud</t>
-<punc>,</punc>
-<t id="p03-s04-t45" type="GSL-1">so</t>
-<t id="p03-s04-t46" type="GSL-1">that</t>
-<anaphor id="p03-s04-a01" info="">
-<t id="p03-s04-t47" type="GSL-1">they</t>
-</anaphor>
-<t id="p03-s04-t48" type="GSL-1">could</t>
-<t id="p03-s04-t49" type="GSL-1">be</t>
-<t id="p03-s04-t50" type="GSL-1">more</t>
-<t id="p03-s04-t51" type="Coxhead-AWL-2,AR-AWL-2a">focused</t>
-<t id="p03-s04-t52" type="GSL-1">on</t>
-<t id="p03-s04-t53" type="GSL-1">the</t>
-<t id="p03-s04-t54" type="GSL-2">calculation</t>
-<t id="p03-s04-t55" type="Coxhead-AWL-1,AR-AWL-1b">process</t>
-<t id="p03-s04-t56" type="GSL-1">which</t>
-<t id="p03-s04-t57" type="GSL-1">was</t>
-<t id="p03-s04-t58" type="Coxhead-AWL-1,AR-AWL-1b">occurring</t>
-<t id="p03-s04-t59" type="GSL-1">on</t>
-<punc>-</punc>
-<t id="p03-s04-t60" type="GSL-1">line</t>
-<t id="p03-s04-t61" type="GSL-1">and</t>
-<t id="p03-s04-t62" type="GSL-1">progressively</t>
-<punc>;</punc>
-<punc>(</punc>
-<t id="p03-s04-t63">c</t>
-<punc>)</punc>
-<t id="p03-s04-t64" type="GSL-1">to</t>
-<t id="p03-s04-t65" type="GSL-1">experience</t>
-<t id="p03-s04-t66">ascending</t>
-<t id="p03-s04-t67" type="GSL-1">and</t>
-<t id="p03-s04-t68" type="GSL-2">descending</t>
-<t id="p03-s04-t69" type="GSL-2">motions</t>
-<t id="p03-s04-t70" type="GSL-1">with</t>
-<t id="p03-s04-t71" type="GSL-1">the</t>
-<t id="p03-s04-t72" type="GSL-1">whole</t>
-<t id="p03-s04-t73" type="GSL-1">body</t>
-<punc>,</punc>
-<t id="p03-s04-t74" type="GSL-1">either</t>
-<t id="p03-s04-t75" type="GSL-1">in</t>
-<t id="p03-s04-t76" type="GSL-1">a</t>
-<t id="p03-s04-t77" type="Coxhead-AWL-9,AR-AWL-9b">passive</t>
-<punc>(</punc>
-<t id="p03-s04-t78" type="GSL-1">going</t>
-<t id="p03-s04-t79" type="GSL-1">up</t>
-<t id="p03-s04-t80" type="GSL-1">and</t>
-<t id="p03-s04-t81" type="GSL-1">down</t>
-<t id="p03-s04-t82" type="GSL-1">taking</t>
-<t id="p03-s04-t83" type="GSL-1">an</t>
-<t id="p03-s04-t84">elevator</t>
-<punc>)</punc>
-<t id="p03-s04-t85" type="GSL-1">or</t>
-<t id="p03-s04-t86" type="GSL-1">in</t>
-<t id="p03-s04-t87" type="GSL-1">an</t>
-<t id="p03-s04-t88" type="GSL-1">active</t>
-<punc>(</punc>
-<t id="p03-s04-t89" type="GSL-1">walking</t>
-<t id="p03-s04-t90" type="GSL-1">up</t>
-<t id="p03-s04-t91" type="GSL-1">and</t>
-<t id="p03-s04-t92" type="GSL-1">down</t>
-<t id="p03-s04-t93" type="GSL-1">the</t>
-<t id="p03-s04-t94" type="GSL-2">stairs</t>
-<punc>)</punc>
-<t id="p03-s04-t95" type="Coxhead-AWL-7,AR-AWL-7b">mode</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p04">
-<sentence par-function="topic|supporting|concluding" id="p04-s01">
-<t id="p04-s01-t01" type="GSL-1">To</t>
-<t id="p04-s01-t02" type="Coxhead-AWL-4,AR-AWL-4b">summarize</t>
-<punc>,</punc>
-<t id="p04-s01-t03" type="GSL-1">we</t>
-<t id="p04-s01-t04" type="Coxhead-AWL-4,AR-AWL-4b">predict</t>
-<t id="p04-s01-t05" type="GSL-1">a</t>
-<t id="p04-s01-t06">congruency</t>
-<t id="p04-s01-t07" type="GSL-1">effect</t>
-<t id="p04-s01-t08" type="GSL-1">between</t>
-<t id="p04-s01-t09" type="GSL-1">the</t>
-<t id="p04-s01-t10" type="GSL-1">direction</t>
-<t id="p04-s01-t11" type="GSL-1">of</t>
-<t id="p04-s01-t12" type="GSL-1">the</t>
-<t id="p04-s01-t13" type="GSL-1">experienced</t>
-<t id="p04-s01-t14" type="GSL-2">motion</t>
-<t id="p04-s01-t15" type="GSL-1">and</t>
-<t id="p04-s01-t16" type="GSL-1">the</t>
-<t id="p04-s01-t17">spatial</t>
-<t id="p04-s01-t18" type="Coxhead-AWL-5,AR-AWL-5b">orientation</t>
-<t id="p04-s01-t19" type="Coxhead-AWL-7,AR-AWL-7b">inferred</t>
-<t id="p04-s01-t20" type="GSL-1">by</t>
-<t id="p04-s01-t21" type="GSL-1">the</t>
-<t id="p04-s01-t22" type="GSL-1">type</t>
-<t id="p04-s01-t23" type="GSL-1">of</t>
-<t id="p04-s01-t24" type="GSL-2">calculation</t>
-<t id="p04-s01-t25" type="GSL-1">made</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p04-s02">
-<t id="p04-s02-t01" type="GSL-1">More</t>
-<t id="p04-s02-t02" type="Coxhead-AWL-1,AR-AWL-1b">specifically</t>
-<punc>,</punc>
-<t id="p04-s02-t03" type="GSL-1">we</t>
-<t id="p04-s02-t04" type="Coxhead-AWL-4,AR-AWL-4a">hypothesize</t>
-<t id="p04-s02-t05" type="GSL-1">a</t>
-<t id="p04-s02-t06" type="Coxhead-AWL-5,AR-AWL-5a">facilitation</t>
-<t id="p04-s02-t07" type="GSL-1">for</t>
-<t id="p04-s02-t08" type="GSL-1">the</t>
-<t id="p04-s02-t09">congruent</t>
-<t id="p04-s02-t10" type="GSL-1">conditions</t>
-<punc>(</punc>
-<t id="p04-s02-t11" type="GSL-1">i</t>
-<punc>.</punc>
-<t id="p04-s02-t12">e</t>
-<punc>.</punc>
-<punc>,</punc>
-<t id="p04-s02-t13">ascending</t>
-<t id="p04-s02-t14" type="GSL-1">body</t>
-<t id="p04-s02-t15" type="GSL-2">motion</t>
-<punc>/</punc>
-<t id="p04-s02-t16" type="GSL-2">upward</t>
-<t id="p04-s02-t17" type="Coxhead-AWL-5,AR-AWL-5b">orientation</t>
-<punc>:</punc>
-<t id="p04-s02-t18" type="GSL-1">additions</t>
-<punc>;</punc>
-<t id="p04-s02-t19" type="GSL-2">descending</t>
-<t id="p04-s02-t20" type="GSL-1">body</t>
-<t id="p04-s02-t21" type="GSL-2">motion</t>
-<punc>/</punc>
-<t id="p04-s02-t22">downward</t>
-<t id="p04-s02-t23" type="Coxhead-AWL-5,AR-AWL-5b">orientation</t>
-<punc>:</punc>
-<t id="p04-s02-t24">subtractions</t>
-<punc>)</punc>
-<t id="p04-s02-t25" type="GSL-1">with</t>
-<t id="p04-s02-t26" type="GSL-1">respect</t>
-<t id="p04-s02-t27" type="GSL-1">to</t>
-<t id="p04-s02-t28" type="GSL-1">the</t>
-<t id="p04-s02-t29">incongruent</t>
-<t id="p04-s02-t30" type="GSL-1">ones</t>
-<punc>(</punc>
-<t id="p04-s02-t31" type="GSL-1">i</t>
-<punc>.</punc>
-<t id="p04-s02-t32">e</t>
-<punc>.</punc>
-<punc>,</punc>
-<t id="p04-s02-t33" type="GSL-2">descending</t>
-<t id="p04-s02-t34" type="GSL-1">body</t>
-<t id="p04-s02-t35" type="GSL-2">motion</t>
-<punc>/</punc>
-<t id="p04-s02-t36" type="GSL-2">upward</t>
-<t id="p04-s02-t37" type="Coxhead-AWL-5,AR-AWL-5b">orientation</t>
-<punc>:</punc>
-<t id="p04-s02-t38" type="GSL-1">additions</t>
-<punc>;</punc>
-<t id="p04-s02-t39">ascending</t>
-<t id="p04-s02-t40" type="GSL-1">body</t>
-<t id="p04-s02-t41" type="GSL-2">motion</t>
-<punc>/</punc>
-<t id="p04-s02-t42">downward</t>
-<t id="p04-s02-t43" type="Coxhead-AWL-5,AR-AWL-5b">orientation</t>
-<punc>:</punc>
-<t id="p04-s02-t44">subtractions</t>
-<punc>)</punc>
-<punc>.</punc>
-</sentence>
-</paragraph>
-</body>
+    <title>Counting Is Easier while Experiencing a Congruent Motion</title>
+    <citation>Lugli L, Baroni G, Anelli F, Borghi AM, Nicoletti R (2013) Counting Is Easier while Experiencing a Congruent Motion. PLoS ONE 8(5):e64500. doi:10.1371/journal/pone.0064500
+        Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064500 on 04 Oct 2016.</citation>
+    <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064500</url>
+    <body>
+        <paragraph id="p01">
+            <sentence par-function="topic" id="p01-s01">
+                <t id="p01-s01-t01" type="GSL-1">We</t>
+                <t id="p01-s01-t02" type="GSL-2">calculate</t>
+                <t id="p01-s01-t03" type="GSL-2">during</t>
+                <t id="p01-s01-t04" type="GSL-1">each</t>
+                <t id="p01-s01-t05" type="Coxhead-AWL-4,AR-AWL-4b">phase</t>
+                <t id="p01-s01-t06" type="GSL-1">of</t>
+                <t id="p01-s01-t07" type="GSL-1">our</t>
+                <t id="p01-s01-t08" type="GSL-1">lives</t>
+                <punc>:</punc>
+                <t id="p01-s01-t09" type="GSL-1">we</t>
+                <t id="p01-s01-t10" type="GSL-1">try</t>
+                <t id="p01-s01-t11" type="GSL-1">to</t>
+                <t id="p01-s01-t12" type="GSL-1">understand</t>
+                <t id="p01-s01-t13" type="GSL-1">what</t>
+                <t id="p01-s01-t14" type="GSL-1">happens</t>
+                <t id="p01-s01-t15" type="GSL-1">when</t>
+                <t id="p01-s01-t16" type="GSL-1">we</t>
+                <t id="p01-s01-t17" type="Coxhead-AWL-2,AR-AWL-2b">invest</t>
+                <t id="p01-s01-t18" type="GSL-1">our</t>
+                <t id="p01-s01-t19" type="GSL-1">money</t>
+                <punc>,</punc>
+                <t id="p01-s01-t20" type="GSL-1">when</t>
+                <t id="p01-s01-t21" type="GSL-1">we</t>
+                <t id="p01-s01-t22" type="GSL-1">try</t>
+                <t id="p01-s01-t23" type="GSL-1">to</t>
+                <t id="p01-s01-t24" type="GSL-1">keep</t>
+                <t id="p01-s01-t25" type="GSL-1">time</t>
+                <t id="p01-s01-t26" type="GSL-1">and</t>
+                <t id="p01-s01-t27" type="GSL-1">when</t>
+                <t id="p01-s01-t28" type="GSL-1">we</t>
+                <t id="p01-s01-t29" type="GSL-1">have</t>
+                <t id="p01-s01-t30" type="GSL-1">to</t>
+                <t id="p01-s01-t31" type="GSL-1">go</t>
+                <t id="p01-s01-t32" type="GSL-1">home</t>
+                <t id="p01-s01-t33" type="GSL-1">taking</t>
+                <t id="p01-s01-t34" type="GSL-1">the</t>
+                <t id="p01-s01-t35" type="GSL-1">right</t>
+                <t id="p01-s01-t36" type="GSL-2">bus</t>
+                <t id="p01-s01-t37" type="GSL-1">at</t>
+                <t id="p01-s01-t38" type="GSL-1">the</t>
+                <t id="p01-s01-t39" type="GSL-1">right</t>
+                <t id="p01-s01-t40" type="GSL-1">time</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s02">
+                <t id="p01-s02-t01" type="GSL-1">All</t>
+                <t id="p01-s02-t02" type="GSL-1">these</t>
+                <t id="p01-s02-t03" type="GSL-1">everyday</t>
+                <t id="p01-s02-t04" type="GSL-1">activities</t>
+                <t id="p01-s02-t05" type="Coxhead-AWL-1,AR-AWL-1b">involve</t>
+                <t id="p01-s02-t06" type="GSL-1">numbers</t>
+                <t id="p01-s02-t07" type="GSL-1">and</t>
+                <t id="p01-s02-t08" type="GSL-1">the</t>
+                <t id="p01-s02-t09" type="GSL-1">relation</t>
+                <t id="p01-s02-t10" type="GSL-1">between</t>
+                <t id="p01-s02-t11" type="GSL-1">numbers</t>
+                <t id="p01-s02-t12" type="GSL-1">and</t>
+                <anaphor id="p01-s02-a01" info="">
+                    <t id="p01-s02-t13" type="GSL-1">their</t>
+                </anaphor>
+                <t id="p01-s02-t14">magnitude</t>
+                <punc>,</punc>
+                <t id="p01-s02-t15" type="GSL-1">which</t>
+                <t id="p01-s02-t16" type="GSL-1">means</t>
+                <t id="p01-s02-t17" type="GSL-1">counting</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s03">
+                <t id="p01-s03-t01" type="GSL-1">Different</t>
+                <t id="p01-s03-t02" type="Coxhead-AWL-1,AR-AWL-1b">researches</t>
+                <t id="p01-s03-t03" type="GSL-1">have</t>
+                <t id="p01-s03-t04" type="Coxhead-AWL-1,AR-AWL-1a">consistently</t>
+                <t id="p01-s03-t05" type="GSL-1">suggested</t>
+                <t id="p01-s03-t06" type="GSL-1">that</t>
+                <t id="p01-s03-t07" type="GSL-1">numerical</t>
+                <t id="p01-s03-t08">magnitude</t>
+                <t id="p01-s03-t09" type="GSL-1">is</t>
+                <t id="p01-s03-t10" type="Coxhead-AWL-3,AR-AWL-3b">linked</t>
+                <t id="p01-s03-t11" type="GSL-1">with</t>
+                <t id="p01-s03-t12" type="GSL-1">the</t>
+                <t id="p01-s03-t13" type="Coxhead-AWL-1,AR-AWL-1b">processing</t>
+                <t id="p01-s03-t14" type="GSL-1">of</t>
+                <t id="p01-s03-t15">spatial</t>
+                <t id="p01-s03-t16" type="GSL-2">information</t>
+                <punc>[</punc>
+                <t id="p01-s03-t17">1</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p01-s03-t18">2</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <t id="p01-s03-t19" type="GSL-1">to</t>
+                <t id="p01-s03-t20" type="GSL-1">the</t>
+                <t id="p01-s03-t21" type="GSL-1">extent</t>
+                <t id="p01-s03-t22" type="GSL-1">that</t>
+                <t id="p01-s03-t23" type="GSL-1">it</t>
+                <t id="p01-s03-t24" type="GSL-1">has</t>
+                <t id="p01-s03-t25" type="GSL-1">been</t>
+                <t id="p01-s03-t26">postulated</t>
+                <t id="p01-s03-t27" type="GSL-1">a</t>
+                <t id="p01-s03-t28" type="GSL-1">common</t>
+                <t id="p01-s03-t29">cortical</t>
+                <t id="p01-s03-t30">metrics</t>
+                <t id="p01-s03-t31" type="GSL-1">of</t>
+                <t id="p01-s03-t32" type="GSL-1">time</t>
+                <punc>,</punc>
+                <t id="p01-s03-t33" type="GSL-1">space</t>
+                <punc>,</punc>
+                <t id="p01-s03-t34" type="GSL-1">and</t>
+                <t id="p01-s03-t35" type="GSL-1">quantity</t>
+                <punc>[</punc>
+                <t id="p01-s03-t36">3</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s04">
+                <t id="p01-s04-t01" type="GSL-1">A</t>
+                <t id="p01-s04-t02" type="Coxhead-AWL-10,AR-AWL-10">straightforward</t>
+                <t id="p01-s04-t03" type="Coxhead-AWL-3,AR-AWL-3a">demonstration</t>
+                <t id="p01-s04-t04" type="GSL-1">of</t>
+                <t id="p01-s04-t05" type="GSL-1">the</t>
+                <t id="p01-s04-t06" type="GSL-1">strong</t>
+                <t id="p01-s04-t07" type="GSL-1">association</t>
+                <t id="p01-s04-t08" type="GSL-1">between</t>
+                <t id="p01-s04-t09" type="GSL-1">numbers</t>
+                <t id="p01-s04-t10" type="GSL-1">and</t>
+                <t id="p01-s04-t11" type="GSL-1">space</t>
+                <t id="p01-s04-t12" type="GSL-1">can</t>
+                <t id="p01-s04-t13" type="GSL-1">be</t>
+                <t id="p01-s04-t14" type="Coxhead-AWL-9,AR-AWL-9a">found</t>
+                <t id="p01-s04-t15" type="GSL-1">in</t>
+                <t id="p01-s04-t16" type="GSL-1">the</t>
+                <t id="p01-s04-t17" type="GSL-1">so</t>
+                <punc>-</punc>
+                <t id="p01-s04-t18" type="GSL-1">called</t>
+                <abbr id="p01-s04-b01" info="">
+                    <t id="p01-s04-t19">SNARC</t>
+                </abbr>
+                <punc>(</punc>
+                <t id="p01-s04-t20">Spatial</t>
+                <t id="p01-s04-t21" type="GSL-1">Numerical</t>
+                <t id="p01-s04-t22" type="GSL-1">Association</t>
+                <t id="p01-s04-t23" type="GSL-1">of</t>
+                <t id="p01-s04-t24" type="Coxhead-AWL-1,AR-AWL-1b">Response</t>
+                <t id="p01-s04-t25" type="Coxhead-AWL-4,AR-AWL-4a">Codes</t>
+                <punc>)</punc>
+                <t id="p01-s04-t26" type="GSL-1">effect</t>
+                <punc>[</punc>
+                <t id="p01-s04-t27">4</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s05">
+                <t id="p01-s05-t01" type="GSL-1">In</t>
+                <anaphor id="p01-s05-a01" info="">
+                    <t id="p01-s05-t02" type="GSL-1">this</t>
+                    <t id="p01-s05-t03" type="Coxhead-AWL-3,AR-AWL-3b">task</t>
+                </anaphor>
+                <punc>,</punc>
+                <t id="p01-s05-t04" type="Coxhead-AWL-2,AR-AWL-2b">participants</t>
+                <t id="p01-s05-t05" type="GSL-1">are</t>
+                <t id="p01-s05-t06" type="GSL-2">typically</t>
+                <t id="p01-s05-t07" type="GSL-1">faced</t>
+                <t id="p01-s05-t08" type="GSL-1">with</t>
+                <t id="p01-s05-t09" type="GSL-1">numbers</t>
+                <t id="p01-s05-t10" type="Coxhead-AWL-2,AR-AWL-2b">ranging</t>
+                <t id="p01-s05-t11" type="GSL-1">from</t>
+                <t id="p01-s05-t12">1</t>
+                <t id="p01-s05-t13" type="GSL-1">to</t>
+                <t id="p01-s05-t14">9</t>
+                <t id="p01-s05-t15" type="GSL-1">and</t>
+                <t id="p01-s05-t16" type="GSL-1">asked</t>
+                <t id="p01-s05-t17" type="GSL-1">to</t>
+                <t id="p01-s05-t18" type="GSL-1">make</t>
+                <t id="p01-s05-t19" type="GSL-1">a</t>
+                <t id="p01-s05-t20">parity</t>
+                <t id="p01-s05-t21" type="GSL-1">judgment</t>
+                <t id="p01-s05-t22" type="GSL-1">by</t>
+                <t id="p01-s05-t23" type="GSL-1">pressing</t>
+                <t id="p01-s05-t24" type="GSL-1">a</t>
+                <t id="p01-s05-t25" type="GSL-1">left</t>
+                <t id="p01-s05-t26" type="GSL-1">or</t>
+                <t id="p01-s05-t27" type="GSL-1">right</t>
+                <t id="p01-s05-t28" type="GSL-2">key</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s06">
+                <t id="p01-s06-t01" type="GSL-1">Results</t>
+                <t id="p01-s06-t02" type="GSL-1">show</t>
+                <t id="p01-s06-t03" type="GSL-1">better</t>
+                <t id="p01-s06-t04" type="GSL-2">performances</t>
+                <t id="p01-s06-t05" type="GSL-1">when</t>
+                <t id="p01-s06-t06" type="Coxhead-AWL-1,AR-AWL-1b">responding</t>
+                <t id="p01-s06-t07" type="GSL-1">with</t>
+                <t id="p01-s06-t08" type="GSL-1">the</t>
+                <t id="p01-s06-t09" type="GSL-1">left</t>
+                <t id="p01-s06-t10" type="GSL-2">key</t>
+                <t id="p01-s06-t11" type="GSL-1">to</t>
+                <t id="p01-s06-t12" type="GSL-1">small</t>
+                <t id="p01-s06-t13" type="GSL-1">numbers</t>
+                <punc>(</punc>
+                <t id="p01-s06-t14">e</t>
+                <punc>.</punc>
+                <t id="p01-s06-t15">g</t>
+                <punc>.</punc>
+                <punc>,</punc>
+                <t id="p01-s06-t16">2</t>
+                <punc>)</punc>
+                <t id="p01-s06-t17" type="GSL-1">and</t>
+                <t id="p01-s06-t18" type="GSL-1">with</t>
+                <t id="p01-s06-t19" type="GSL-1">the</t>
+                <t id="p01-s06-t20" type="GSL-1">right</t>
+                <t id="p01-s06-t21" type="GSL-2">key</t>
+                <t id="p01-s06-t22" type="GSL-1">to</t>
+                <t id="p01-s06-t23" type="GSL-1">large</t>
+                <t id="p01-s06-t24" type="GSL-1">numbers</t>
+                <punc>(</punc>
+                <t id="p01-s06-t25">e</t>
+                <punc>.</punc>
+                <t id="p01-s06-t26">g</t>
+                <punc>.</punc>
+                <punc>,</punc>
+                <t id="p01-s06-t27">7</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p01-s06-t28" type="GSL-1">with</t>
+                <t id="p01-s06-t29" type="GSL-1">respect</t>
+                <t id="p01-s06-t30" type="GSL-1">to</t>
+                <anaphor id="p01-s06-a01" info="">
+                    <t id="p01-s06-t31" type="GSL-1">the</t>
+                    <t id="p01-s06-t32" type="GSL-2">opposite</t>
+                    <t id="p01-s06-t33" type="Coxhead-AWL-6,AR-AWL-6b">instructions</t>
+                </anaphor>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s07">
+                <anaphor id="p01-s07-a01" info="">
+                    <t id="p01-s07-t01" type="GSL-1">This</t>
+                    <t id="p01-s07-t02" type="Coxhead-AWL-1,AR-AWL-1a">evidence</t>
+                </anaphor>
+                <t id="p01-s07-t03" type="GSL-1">led</t>
+                <t id="p01-s07-t04">Dehaene</t>
+                <t id="p01-s07-t05" type="GSL-1">and</t>
+                <t id="p01-s07-t06" type="Coxhead-AWL-6,AR-AWL-6a">authors</t>
+                <punc>-</punc>
+                <t id="p01-s07-t07" type="Coxhead-AWL-6,AR-AWL-6a">authors</t>
+                <t id="p01-s07-t08" type="GSL-1">to</t>
+                <t id="p01-s07-t09">postulate</t>
+                <t id="p01-s07-t10" type="GSL-1">the</t>
+                <t id="p01-s07-t11" type="GSL-1">existence</t>
+                <t id="p01-s07-t12" type="GSL-1">of</t>
+                <t id="p01-s07-t13" type="GSL-1">an</t>
+                <t id="p01-s07-t14">horizontal</t>
+                <t id="p01-s07-t15" type="Coxhead-AWL-5,AR-AWL-5b">mental</t>
+                <t id="p01-s07-t16" type="GSL-1">number</t>
+                <t id="p01-s07-t17" type="GSL-1">line</t>
+                <punc>(</punc>
+                <abbr id="p01-s07-b01" info="">
+                    <t id="p01-s07-t18">MNL</t>
+                </abbr>
+                <punc>)</punc>
+                <t id="p01-s07-t19" type="GSL-1">where</t>
+                <t id="p01-s07-t20" type="GSL-1">numbers</t>
+                <t id="p01-s07-t21" type="GSL-1">are</t>
+                <t id="p01-s07-t22" type="GSL-1">progressively</t>
+                <t id="p01-s07-t23" type="Coxhead-AWL-3,AR-AWL-3b">located</t>
+                <t id="p01-s07-t24" type="GSL-1">from</t>
+                <t id="p01-s07-t25" type="GSL-1">left</t>
+                <t id="p01-s07-t26" type="GSL-1">to</t>
+                <t id="p01-s07-t27" type="GSL-1">right</t>
+                <t id="p01-s07-t28" type="GSL-1">according</t>
+                <t id="p01-s07-t29" type="GSL-1">to</t>
+                <anaphor id="p01-s07-a02" info="">
+                    <t id="p01-s07-t30" type="GSL-1">their</t>
+                </anaphor>
+                <t id="p01-s07-t31">magnitude</t>
+                <punc>(</punc>
+                <t id="p01-s07-t32" type="GSL-1">see</t>
+                <punc>[</punc>
+                <t id="p01-s07-t33">5</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p01-s07-t34">6</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p01-s07-t35">7</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <t id="p01-s07-t36" type="GSL-1">see</t>
+                <t id="p01-s07-t37" type="GSL-1">also</t>
+                <punc>[</punc>
+                <t id="p01-s07-t38">8</t>
+                <punc>]</punc>
+                <t id="p01-s07-t39" type="GSL-1">for</t>
+                <t id="p01-s07-t40" type="GSL-1">a</t>
+                <t id="p01-s07-t41" type="GSL-1">different</t>
+                <t id="p01-s07-t42" type="GSL-1">account</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s08">
+                <t id="p01-s08-t01" type="GSL-1">The</t>
+                <t id="p01-s08-t02" type="GSL-1">existence</t>
+                <t id="p01-s08-t03" type="GSL-1">of</t>
+                <t id="p01-s08-t04" type="GSL-1">an</t>
+                <t id="p01-s08-t05">horizontal</t>
+                <t id="p01-s08-t06">MNL</t>
+                <t id="p01-s08-t07" type="GSL-1">has</t>
+                <t id="p01-s08-t08" type="GSL-1">gathered</t>
+                <t id="p01-s08-t09" type="GSL-1">support</t>
+                <t id="p01-s08-t10" type="GSL-1">by</t>
+                <t id="p01-s08-t11" type="GSL-1">several</t>
+                <t id="p01-s08-t12" type="Coxhead-AWL-1,AR-AWL-1a">evidence</t>
+                <t id="p01-s08-t13" type="GSL-1">so</t>
+                <t id="p01-s08-t14" type="GSL-1">far</t>
+                <punc>,</punc>
+                <t id="p01-s08-t15" type="GSL-1">while</t>
+                <t id="p01-s08-t16" type="GSL-1">few</t>
+                <t id="p01-s08-t17" type="GSL-1">studies</t>
+                <t id="p01-s08-t18" type="GSL-1">have</t>
+                <t id="p01-s08-t19" type="Coxhead-AWL-9,AR-AWL-9a">found</t>
+                <t id="p01-s08-t20" type="GSL-1">a</t>
+                <t id="p01-s08-t21">SNARC</t>
+                <t id="p01-s08-t22" type="GSL-1">effect</t>
+                <t id="p01-s08-t23" type="GSL-1">also</t>
+                <t id="p01-s08-t24" type="GSL-1">for</t>
+                <t id="p01-s08-t25">vertical</t>
+                <t id="p01-s08-t26" type="GSL-1">number</t>
+                <t id="p01-s08-t27" type="GSL-2">arrangements</t>
+                <punc>(</punc>
+                <t id="p01-s08-t28" type="GSL-1">i</t>
+                <punc>.</punc>
+                <t id="p01-s08-t29">e</t>
+                <punc>.</punc>
+                <punc>,</punc>
+                <t id="p01-s08-t30" type="GSL-1">a</t>
+                <t id="p01-s08-t31" type="Coxhead-AWL-5,AR-AWL-5a">facilitation</t>
+                <t id="p01-s08-t32" type="GSL-1">for</t>
+                <t id="p01-s08-t33" type="GSL-2">upward</t>
+                <t id="p01-s08-t34" type="GSL-1">or</t>
+                <t id="p01-s08-t35">downward</t>
+                <t id="p01-s08-t36" type="Coxhead-AWL-1,AR-AWL-1b">responses</t>
+                <t id="p01-s08-t37" type="GSL-1">to</t>
+                <t id="p01-s08-t38" type="GSL-1">large</t>
+                <t id="p01-s08-t39" type="GSL-1">and</t>
+                <t id="p01-s08-t40" type="GSL-1">small</t>
+                <t id="p01-s08-t41" type="GSL-1">numbers</t>
+                <punc>,</punc>
+                <t id="p01-s08-t42" type="GSL-1">respectively</t>
+                <punc>)</punc>
+                <t id="p01-s08-t43" type="GSL-1">across</t>
+                <t id="p01-s08-t44" type="GSL-1">different</t>
+                <t id="p01-s08-t45" type="Coxhead-AWL-1,AR-AWL-1b">response</t>
+                <t id="p01-s08-t46">modalities</t>
+                <punc>,</punc>
+                <t id="p01-s08-t47" type="GSL-1">such</t>
+                <t id="p01-s08-t48" type="GSL-1">as</t>
+                <t id="p01-s08-t49" type="GSL-2">key</t>
+                <punc>-</punc>
+                <t id="p01-s08-t50" type="GSL-1">presses</t>
+                <punc>[</punc>
+                <t id="p01-s08-t51">9</t>
+                <punc>]</punc>
+                <t id="p01-s08-t52" type="GSL-1">and</t>
+                <t id="p01-s08-t53" type="GSL-1">eye</t>
+                <t id="p01-s08-t54" type="GSL-1">movements</t>
+                <punc>[</punc>
+                <t id="p01-s08-t55">10</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s09">
+                <connector id="p01-s09-c01" type="" info="">
+                    <t id="p01-s09-t01" type="GSL-1">Recently</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p01-s09-t02">Holmes</t>
+                <t id="p01-s09-t03" type="GSL-1">and</t>
+                <t id="p01-s09-t04">Lourenco</t>
+                <punc>[</punc>
+                <t id="p01-s09-t05">11</t>
+                <punc>]</punc>
+                <t id="p01-s09-t06" type="Coxhead-AWL-2,AR-AWL-2a">focused</t>
+                <t id="p01-s09-t07" type="GSL-1">on</t>
+                <t id="p01-s09-t08" type="GSL-1">the</t>
+                <t id="p01-s09-t09" type="GSL-1">relative</t>
+                <t id="p01-s09-t10" type="GSL-1">strength</t>
+                <t id="p01-s09-t11" type="GSL-1">of</t>
+                <t id="p01-s09-t12" type="GSL-1">the</t>
+                <t id="p01-s09-t13">horizontal</t>
+                <t id="p01-s09-t14" type="GSL-1">and</t>
+                <t id="p01-s09-t15">vertical</t>
+                <t id="p01-s09-t16" type="Coxhead-AWL-5,AR-AWL-5b">mental</t>
+                <t id="p01-s09-t17" type="GSL-1">number</t>
+                <t id="p01-s09-t18" type="GSL-1">organization</t>
+                <t id="p01-s09-t19" type="GSL-1">and</t>
+                <t id="p01-s09-t20" type="Coxhead-AWL-9,AR-AWL-9a">found</t>
+                <t id="p01-s09-t21" type="GSL-1">that</t>
+                <t id="p01-s09-t22" type="GSL-1">the</t>
+                <t id="p01-s09-t23">vertical</t>
+                <t id="p01-s09-t24">axis</t>
+                <t id="p01-s09-t25" type="GSL-1">would</t>
+                <t id="p01-s09-t26" type="GSL-1">be</t>
+                <t id="p01-s09-t27" type="GSL-1">only</t>
+                <t id="p01-s09-t28" type="Coxhead-AWL-9,AR-AWL-9b">triggered</t>
+                <t id="p01-s09-t29" type="GSL-1">when</t>
+                <t id="p01-s09-t30" type="GSL-1">numbers</t>
+                <t id="p01-s09-t31" type="GSL-1">are</t>
+                <t id="p01-s09-t32">conceptualized</t>
+                <t id="p01-s09-t33" type="GSL-1">as</t>
+                <t id="p01-s09-t34">magnitudes</t>
+                <t id="p01-s09-t35" type="GSL-1">that</t>
+                <t id="p01-s09-t36">elicit</t>
+                <t id="p01-s09-t37" type="GSL-1">an</t>
+                <t id="p01-s09-t38" type="Coxhead-AWL-5,AR-AWL-5b">orientation</t>
+                <punc>(</punc>
+                <t id="p01-s09-t39">e</t>
+                <punc>.</punc>
+                <t id="p01-s09-t40">g</t>
+                <punc>.</punc>
+                <punc>,</punc>
+                <t id="p01-s09-t41">1st</t>
+                <t id="p01-s09-t42" type="GSL-1">floor</t>
+                <t id="p01-s09-t43" type="GSL-1">from</t>
+                <t id="p01-s09-t44" type="GSL-1">surface</t>
+                <punc>,</punc>
+                <t id="p01-s09-t45">2nd</t>
+                <t id="p01-s09-t46" type="GSL-1">floor</t>
+                <t id="p01-s09-t47" type="GSL-1">from</t>
+                <t id="p01-s09-t48" type="GSL-1">surface</t>
+                <punc>,</punc>
+                <t id="p01-s09-t49">etc</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence par-function="topic" id="p02-s01">
+                <t id="p02-s01-t01" type="Coxhead-AWL-4,AR-AWL-4a">Despite</t>
+                <t id="p02-s01-t02" type="GSL-1">the</t>
+                <t id="p02-s01-t03" type="Coxhead-AWL-1,AR-AWL-1b">majority</t>
+                <t id="p02-s01-t04" type="GSL-1">of</t>
+                <t id="p02-s01-t05" type="GSL-1">the</t>
+                <t id="p02-s01-t06">SNARC</t>
+                <t id="p02-s01-t07" type="GSL-1">studies</t>
+                <t id="p02-s01-t08" type="Coxhead-AWL-2,AR-AWL-2a">focused</t>
+                <t id="p02-s01-t09" type="GSL-1">on</t>
+                <t id="p02-s01-t10" type="GSL-1">the</t>
+                <t id="p02-s01-t11" type="GSL-1">influence</t>
+                <t id="p02-s01-t12" type="GSL-1">that</t>
+                <t id="p02-s01-t13" type="GSL-1">number</t>
+                <t id="p02-s01-t14" type="GSL-1">representation</t>
+                <t id="p02-s01-t15" type="GSL-1">has</t>
+                <t id="p02-s01-t16" type="GSL-1">on</t>
+                <t id="p02-s01-t17">spatial</t>
+                <t id="p02-s01-t18" type="GSL-2">attention</t>
+                <punc>[</punc>
+                <t id="p02-s01-t19">12</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p02-s01-t20">13</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p02-s01-t21">14</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <t id="p02-s01-t22" type="GSL-1">several</t>
+                <t id="p02-s01-t23" type="Coxhead-AWL-1,AR-AWL-1b">researches</t>
+                <t id="p02-s01-t24" type="GSL-1">have</t>
+                <t id="p02-s01-t25" type="GSL-1">shown</t>
+                <t id="p02-s01-t26" type="GSL-1">that</t>
+                <t id="p02-s01-t27" type="GSL-1">numerical</t>
+                <t id="p02-s01-t28">magnitude</t>
+                <t id="p02-s01-t29" type="GSL-1">can</t>
+                <t id="p02-s01-t30" type="GSL-1">also</t>
+                <t id="p02-s01-t31">modulate</t>
+                <t id="p02-s01-t32" type="GSL-1">action</t>
+                <punc>-</punc>
+                <t id="p02-s01-t33" type="GSL-1">related</t>
+                <t id="p02-s01-t34" type="Coxhead-AWL-1,AR-AWL-1b">processes</t>
+                <punc>[</punc>
+                <t id="p02-s01-t35">15</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p02-s01-t36">16</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p02-s01-t37">17</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p02-s01-t38">18</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p02-s01-t39">19</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p02-s01-t40">20</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p02-s02">
+                <t id="p02-s02-t01" type="GSL-1">Further</t>
+                <t id="p02-s02-t02" type="GSL-1">studies</t>
+                <t id="p02-s02-t03" type="Coxhead-AWL-3,AR-AWL-3a">demonstrated</t>
+                <t id="p02-s02-t04" type="GSL-1">a</t>
+                <t id="p02-s02-t05">bidirectional</t>
+                <t id="p02-s02-t06" type="GSL-1">relation</t>
+                <t id="p02-s02-t07" type="GSL-1">between</t>
+                <t id="p02-s02-t08" type="GSL-1">numbers</t>
+                <t id="p02-s02-t09" type="Coxhead-AWL-1,AR-AWL-1b">processing</t>
+                <t id="p02-s02-t10" type="GSL-1">and</t>
+                <t id="p02-s02-t11" type="GSL-1">action</t>
+                <punc>-</punc>
+                <t id="p02-s02-t12" type="GSL-1">related</t>
+                <t id="p02-s02-t13" type="Coxhead-AWL-1,AR-AWL-1b">processes</t>
+                <punc>(</punc>
+                <t id="p02-s02-t14" type="GSL-1">i</t>
+                <punc>.</punc>
+                <t id="p02-s02-t15">e</t>
+                <punc>.</punc>
+                <punc>,</punc>
+                <t id="p02-s02-t16" type="GSL-1">motor</t>
+                <punc>-</punc>
+                <t id="p02-s02-t17" type="GSL-1">to</t>
+                <punc>-</punc>
+                <t id="p02-s02-t18">semantic</t>
+                <t id="p02-s02-t19" type="GSL-1">effect</t>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p02-s02-t20">21</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p02-s02-t21">23</t>
+                <punc>]</punc>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p02-s03">
+                <t id="p02-s03-t01" type="GSL-1">More</t>
+                <t id="p02-s03-t02" type="Coxhead-AWL-1,AR-AWL-1b">specifically</t>
+                <punc>,</punc>
+                <t id="p02-s03-t03" type="GSL-1">the</t>
+                <t id="p02-s03-t04" type="GSL-1">motor</t>
+                <punc>-</punc>
+                <t id="p02-s03-t05" type="GSL-1">to</t>
+                <punc>-</punc>
+                <t id="p02-s03-t06">semantic</t>
+                <t id="p02-s03-t07" type="GSL-1">effect</t>
+                <t id="p02-s03-t08" type="Coxhead-AWL-6,AR-AWL-6b">revealed</t>
+                <t id="p02-s03-t09" type="GSL-1">a</t>
+                <t id="p02-s03-t10" type="Coxhead-AWL-5,AR-AWL-5a">facilitation</t>
+                <punc>,</punc>
+                <t id="p02-s03-t11" type="GSL-1">in</t>
+                <t id="p02-s03-t12" type="GSL-1">terms</t>
+                <t id="p02-s03-t13" type="GSL-1">of</t>
+                <t id="p02-s03-t14" type="Coxhead-AWL-1,AR-AWL-1b">response</t>
+                <t id="p02-s03-t15">latencies</t>
+                <punc>,</punc>
+                <t id="p02-s03-t16" type="GSL-1">when</t>
+                <t id="p02-s03-t17" type="Coxhead-AWL-2,AR-AWL-2b">participants</t>
+                <t id="p02-s03-t18" type="GSL-1">observed</t>
+                <t id="p02-s03-t19" type="GSL-1">a</t>
+                <t id="p02-s03-t20" type="GSL-1">closing</t>
+                <t id="p02-s03-t21">grip</t>
+                <t id="p02-s03-t22">posture</t>
+                <t id="p02-s03-t23" type="GSL-1">of</t>
+                <t id="p02-s03-t24" type="GSL-1">a</t>
+                <t id="p02-s03-t25">biological</t>
+                <t id="p02-s03-t26" type="GSL-1">hand</t>
+                <t id="p02-s03-t27" type="GSL-1">and</t>
+                <t id="p02-s03-t28" type="GSL-1">had</t>
+                <t id="p02-s03-t29" type="GSL-1">to</t>
+                <t id="p02-s03-t30" type="Coxhead-AWL-5,AR-AWL-5a">generate</t>
+                <t id="p02-s03-t31" type="GSL-1">small</t>
+                <t id="p02-s03-t32" type="GSL-1">numbers</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p02-s04">
+                <t id="p02-s04-t01">Badets</t>
+                <t id="p02-s04-t02">et</t>
+                <t id="p02-s04-t03">al</t>
+                <punc>.</punc>
+                <punc>[</punc>
+                <t id="p02-s04-t04">21</t>
+                <punc>]</punc>
+                <t id="p02-s04-t05" type="GSL-1">claimed</t>
+                <t id="p02-s04-t06" type="GSL-1">that</t>
+                <t id="p02-s04-t07" type="GSL-1">the</t>
+                <punc>“</punc>
+                <t id="p02-s04-t08" type="GSL-1">motor</t>
+                <punc>-</punc>
+                <t id="p02-s04-t09" type="GSL-1">to</t>
+                <punc>-</punc>
+                <t id="p02-s04-t10">semantic</t>
+                <t id="p02-s04-t11" type="GSL-1">effect</t>
+                <t id="p02-s04-t12" type="GSL-1">is</t>
+                <t id="p02-s04-t13" type="Coxhead-AWL-1,AR-AWL-1a">assumed</t>
+                <t id="p02-s04-t14" type="GSL-1">to</t>
+                <t id="p02-s04-t15" type="GSL-1">come</t>
+                <t id="p02-s04-t16" type="GSL-1">from</t>
+                <t id="p02-s04-t17" type="GSL-1">the</t>
+                <t id="p02-s04-t18" type="GSL-1">action</t>
+                <t id="p02-s04-t19" type="GSL-1">system</t>
+                <t id="p02-s04-t20" type="GSL-1">of</t>
+                <anaphor id="p02-s04-a01" info="">
+                    <t id="p02-s04-t21" type="GSL-1">the</t>
+                    <t id="p02-s04-t22" type="Coxhead-AWL-2,AR-AWL-2b">participant</t>
+                </anaphor>
+                <t id="p02-s04-t23" type="GSL-1">who</t>
+                <t id="p02-s04-t24" type="GSL-1">either</t>
+                <t id="p02-s04-t25" type="GSL-1">actively</t>
+                <t id="p02-s04-t26" type="GSL-2">performs</t>
+                <t id="p02-s04-t27" type="GSL-1">an</t>
+                <t id="p02-s04-t28" type="GSL-1">action</t>
+                <t id="p02-s04-t29" type="GSL-1">or</t>
+                <t id="p02-s04-t30" type="Coxhead-AWL-9,AR-AWL-9b">passively</t>
+                <t id="p02-s04-t31" type="GSL-1">experience</t>
+                <t id="p02-s04-t32" type="GSL-1">a</t>
+                <t id="p02-s04-t33" type="GSL-2">motion</t>
+                <t id="p02-s04-t34" type="GSL-1">and</t>
+                <t id="p02-s04-t35" type="Coxhead-AWL-5,AR-AWL-5a">generates</t>
+                <t id="p02-s04-t36" type="GSL-1">a</t>
+                <t id="p02-s04-t37" type="GSL-1">number</t>
+                <t id="p02-s04-t38" type="GSL-1">after</t>
+                <punc>”</punc>
+                <punc>(</punc>
+                <t id="p02-s04-t39">ibidem</t>
+                <punc>,</punc>
+                <t id="p02-s04-t40">p</t>
+                <punc>.</punc>
+                <t id="p02-s04-t41">2</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p02-s05">
+                <anaphor id="p02-s05-a01" info="">
+                    <t id="p02-s05-t01" type="GSL-1">Other</t>
+                    <t id="p02-s05-t02" type="GSL-1">studies</t>
+                </anaphor>
+                <t id="p02-s05-t03" type="GSL-1">have</t>
+                <t id="p02-s05-t04" type="Coxhead-AWL-4,AR-AWL-4b">investigated</t>
+                <t id="p02-s05-t05" type="GSL-1">the</t>
+                <t id="p02-s05-t06" type="GSL-1">influence</t>
+                <t id="p02-s05-t07" type="GSL-1">of</t>
+                <t id="p02-s05-t08" type="GSL-1">the</t>
+                <t id="p02-s05-t09" type="Coxhead-AWL-1,AR-AWL-1b">specific</t>
+                <t id="p02-s05-t10" type="GSL-1">body</t>
+                <t id="p02-s05-t11">parts'</t>
+                <t id="p02-s05-t12" type="GSL-1">movements</t>
+                <punc>,</punc>
+                <t id="p02-s05-t13" type="GSL-1">such</t>
+                <t id="p02-s05-t14" type="GSL-1">as</t>
+                <t id="p02-s05-t15" type="GSL-1">head</t>
+                <t id="p02-s05-t16" type="GSL-1">positions</t>
+                <punc>[</punc>
+                <t id="p02-s05-t17">24</t>
+                <punc>]</punc>
+                <t id="p02-s05-t18" type="GSL-1">or</t>
+                <t id="p02-s05-t19">ocular</t>
+                <t id="p02-s05-t20">saccades</t>
+                <punc>[</punc>
+                <t id="p02-s05-t21">25</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <t id="p02-s05-t22" type="GSL-1">on</t>
+                <t id="p02-s05-t23" type="GSL-1">the</t>
+                <t id="p02-s05-t24" type="Coxhead-AWL-5,AR-AWL-5a">generation</t>
+                <t id="p02-s05-t25" type="GSL-1">of</t>
+                <t id="p02-s05-t26" type="GSL-1">small</t>
+                <t id="p02-s05-t27" type="GSL-1">numbers</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p03">
+            <sentence par-function="topic" id="p03-s01">
+                <t id="p03-s01-t01" type="GSL-1">In</t>
+                <t id="p03-s01-t02" type="GSL-1">our</t>
+                <t id="p03-s01-t03" type="GSL-1">study</t>
+                <t id="p03-s01-t04" type="GSL-1">we</t>
+                <t id="p03-s01-t05" type="Coxhead-AWL-1,AR-AWL-1a">assess</t>
+                <t id="p03-s01-t06" type="GSL-1">whether</t>
+                <t id="p03-s01-t07" type="GSL-1">and</t>
+                <t id="p03-s01-t08" type="GSL-1">to</t>
+                <t id="p03-s01-t09" type="GSL-1">what</t>
+                <t id="p03-s01-t10" type="GSL-1">extent</t>
+                <t id="p03-s01-t11" type="GSL-2">motions</t>
+                <t id="p03-s01-t12" type="GSL-1">experienced</t>
+                <t id="p03-s01-t13" type="GSL-1">with</t>
+                <t id="p03-s01-t14" type="GSL-1">the</t>
+                <t id="p03-s01-t15" type="GSL-1">whole</t>
+                <t id="p03-s01-t16" type="GSL-1">body</t>
+                <t id="p03-s01-t17" type="GSL-1">can</t>
+                <t id="p03-s01-t18" type="GSL-1">influence</t>
+                <t id="p03-s01-t19">arithmetical</t>
+                <t id="p03-s01-t20" type="GSL-2">calculations</t>
+                <t id="p03-s01-t21" type="GSL-1">of</t>
+                <t id="p03-s01-t22" type="GSL-1">addition</t>
+                <t id="p03-s01-t23" type="GSL-1">and</t>
+                <t id="p03-s01-t24">subtraction</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p03-s02">
+                <t id="p03-s02-t01" type="GSL-1">We</t>
+                <t id="p03-s02-t02" type="Coxhead-AWL-4,AR-AWL-4a">hypothesize</t>
+                <punc>,</punc>
+                <t id="p03-s02-t03" type="GSL-1">thus</t>
+                <punc>,</punc>
+                <t id="p03-s02-t04" type="GSL-1">that</t>
+                <anaphor id="p03-s02-a01" info="">
+                    <t id="p03-s02-t05" type="GSL-1">these</t>
+                    <t id="p03-s02-t06" type="GSL-2">calculations</t>
+                </anaphor>
+                <punc>,</punc>
+                <t id="p03-s02-t07" type="GSL-1">both</t>
+                <t id="p03-s02-t08" type="GSL-1">leading</t>
+                <t id="p03-s02-t09" type="GSL-1">to</t>
+                <t id="p03-s02-t10" type="GSL-1">numerical</t>
+                <t id="p03-s02-t11">magnitudes</t>
+                <punc>,</punc>
+                <t id="p03-s02-t12" type="GSL-1">can</t>
+                <t id="p03-s02-t13" type="GSL-1">be</t>
+                <t id="p03-s02-t14">conceptualized</t>
+                <t id="p03-s02-t15" type="GSL-1">along</t>
+                <t id="p03-s02-t16" type="GSL-1">an</t>
+                <t id="p03-s02-t17" type="GSL-2">upward</t>
+                <t id="p03-s02-t18" type="GSL-1">and</t>
+                <t id="p03-s02-t19">downward</t>
+                <t id="p03-s02-t20" type="Coxhead-AWL-5,AR-AWL-5b">orientation</t>
+                <t id="p03-s02-t21" type="GSL-1">for</t>
+                <t id="p03-s02-t22" type="GSL-1">additions</t>
+                <t id="p03-s02-t23" type="GSL-1">and</t>
+                <t id="p03-s02-t24">subtractions</t>
+                <punc>,</punc>
+                <t id="p03-s02-t25" type="GSL-1">respectively</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p03-s03">
+                <t id="p03-s03-t01" type="GSL-1">A</t>
+                <t id="p03-s03-t02" type="GSL-1">study</t>
+                <t id="p03-s03-t03" type="GSL-1">by</t>
+                <t id="p03-s03-t04">Knops</t>
+                <punc>,</punc>
+                <t id="p03-s03-t05">Viarouge</t>
+                <punc>,</punc>
+                <t id="p03-s03-t06" type="GSL-1">and</t>
+                <t id="p03-s03-t07">Dehaene</t>
+                <punc>[</punc>
+                <t id="p03-s03-t08">26</t>
+                <punc>]</punc>
+                <t id="p03-s03-t09" type="Coxhead-AWL-3,AR-AWL-3a">demonstrated</t>
+                <t id="p03-s03-t10" type="GSL-1">that</t>
+                <t id="p03-s03-t11">arithmetical</t>
+                <t id="p03-s03-t12" type="GSL-2">calculations</t>
+                <t id="p03-s03-t13" type="Coxhead-AWL-8,AR-AWL-8a">bias</t>
+                <t id="p03-s03-t14" type="Coxhead-AWL-3,AR-AWL-3a">corresponding</t>
+                <t id="p03-s03-t15">spatial</t>
+                <t id="p03-s03-t16" type="Coxhead-AWL-3,AR-AWL-3b">location</t>
+                <t id="p03-s03-t17" type="GSL-1">over</t>
+                <anaphor id="p03-s03-a01" info="">
+                    <t id="p03-s03-t18" type="GSL-1">others</t>
+                </anaphor>
+                <punc>:</punc>
+                <t id="p03-s03-t19" type="Coxhead-AWL-2,AR-AWL-2b">participants</t>
+                <t id="p03-s03-t20" type="GSL-2">tended</t>
+                <t id="p03-s03-t21" type="GSL-1">to</t>
+                <t id="p03-s03-t22" type="Coxhead-AWL-2,AR-AWL-2b">select</t>
+                <t id="p03-s03-t23" type="GSL-1">the</t>
+                <t id="p03-s03-t24">numerosity</t>
+                <t id="p03-s03-t25" type="Coxhead-AWL-6,AR-AWL-6a">displayed</t>
+                <t id="p03-s03-t26" type="GSL-1">in</t>
+                <t id="p03-s03-t27" type="GSL-1">the</t>
+                <t id="p03-s03-t28" type="GSL-2">upper</t>
+                <t id="p03-s03-t29" type="GSL-1">right</t>
+                <t id="p03-s03-t30" type="Coxhead-AWL-3,AR-AWL-3b">location</t>
+                <t id="p03-s03-t31" type="GSL-1">for</t>
+                <t id="p03-s03-t32" type="GSL-1">additions</t>
+                <punc>,</punc>
+                <t id="p03-s03-t33" type="GSL-1">and</t>
+                <t id="p03-s03-t34" type="GSL-1">in</t>
+                <t id="p03-s03-t35" type="GSL-1">the</t>
+                <t id="p03-s03-t36" type="GSL-2">upper</t>
+                <t id="p03-s03-t37" type="GSL-1">left</t>
+                <t id="p03-s03-t38" type="Coxhead-AWL-3,AR-AWL-3b">location</t>
+                <t id="p03-s03-t39" type="GSL-1">for</t>
+                <t id="p03-s03-t40">subtractions</t>
+                <punc>(</punc>
+                <t id="p03-s03-t41" type="GSL-1">Space</t>
+                <punc>-</punc>
+                <t id="p03-s03-t42" type="GSL-1">Operation</t>
+                <t id="p03-s03-t43" type="GSL-1">Association</t>
+                <t id="p03-s03-t44" type="GSL-1">of</t>
+                <t id="p03-s03-t45" type="Coxhead-AWL-1,AR-AWL-1b">Responses</t>
+                <punc>:</punc>
+                <abbr id="p03-s03-b01" info="">
+                    <t id="p03-s03-t46">SOAR</t>
+                </abbr>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p03-s04">
+                <t id="p03-s04-t01" type="GSL-1">Differently</t>
+                <t id="p03-s04-t02" type="GSL-1">from</t>
+                <t id="p03-s04-t03">Knops</t>
+                <t id="p03-s04-t04" type="GSL-1">and</t>
+                <t id="p03-s04-t05" type="Coxhead-AWL-10,AR-AWL-10">colleagues</t>
+                <punc>,</punc>
+                <t id="p03-s04-t06" type="GSL-1">we</t>
+                <t id="p03-s04-t07" type="GSL-1">ask</t>
+                <t id="p03-s04-t08" type="Coxhead-AWL-2,AR-AWL-2b">participants</t>
+                <punc>:</punc>
+                <punc>(</punc>
+                <t id="p03-s04-t09" type="GSL-1">a</t>
+                <punc>)</punc>
+                <t id="p03-s04-t10" type="GSL-1">to</t>
+                <t id="p03-s04-t11" type="GSL-1">keep</t>
+                <t id="p03-s04-t12" type="GSL-1">adding</t>
+                <t id="p03-s04-t13" type="GSL-1">or</t>
+                <t id="p03-s04-t14">subtracting</t>
+                <t id="p03-s04-t15" type="GSL-1">the</t>
+                <t id="p03-s04-t16" type="GSL-1">same</t>
+                <t id="p03-s04-t17" type="GSL-1">quantity</t>
+                <punc>(</punc>
+                <t id="p03-s04-t18" type="GSL-1">i</t>
+                <punc>.</punc>
+                <t id="p03-s04-t19">e</t>
+                <punc>.</punc>
+                <punc>,</punc>
+                <t id="p03-s04-t20">3</t>
+                <punc>)</punc>
+                <t id="p03-s04-t21" type="GSL-1">from</t>
+                <t id="p03-s04-t22" type="GSL-1">a</t>
+                <t id="p03-s04-t23" type="GSL-1">starting</t>
+                <t id="p03-s04-t24" type="GSL-1">number</t>
+                <punc>(</punc>
+                <t id="p03-s04-t25">e</t>
+                <punc>.</punc>
+                <t id="p03-s04-t26">g</t>
+                <punc>.</punc>
+                <punc>,</punc>
+                <t id="p03-s04-t27">578</t>
+                <punc>)</punc>
+                <t id="p03-s04-t28" type="GSL-1">in</t>
+                <t id="p03-s04-t29" type="GSL-1">a</t>
+                <t id="p03-s04-t30" type="GSL-1">set</t>
+                <t id="p03-s04-t31" type="Coxhead-AWL-1,AR-AWL-1b">period</t>
+                <t id="p03-s04-t32" type="GSL-1">of</t>
+                <t id="p03-s04-t33" type="GSL-1">time</t>
+                <punc>(</punc>
+                <t id="p03-s04-t34">22</t>
+                <t id="p03-s04-t35" type="GSL-1">seconds</t>
+                <punc>)</punc>
+                <punc>;</punc>
+                <punc>(</punc>
+                <t id="p03-s04-t36">b</t>
+                <punc>)</punc>
+                <t id="p03-s04-t37" type="GSL-1">to</t>
+                <t id="p03-s04-t38" type="GSL-1">report</t>
+                <t id="p03-s04-t39" type="GSL-1">the</t>
+                <t id="p03-s04-t40" type="GSL-1">result</t>
+                <t id="p03-s04-t41" type="GSL-1">of</t>
+                <t id="p03-s04-t42" type="GSL-1">each</t>
+                <t id="p03-s04-t43" type="GSL-2">calculation</t>
+                <t id="p03-s04-t44" type="GSL-2">aloud</t>
+                <punc>,</punc>
+                <t id="p03-s04-t45" type="GSL-1">so</t>
+                <t id="p03-s04-t46" type="GSL-1">that</t>
+                <anaphor id="p03-s04-a01" info="">
+                    <t id="p03-s04-t47" type="GSL-1">they</t>
+                </anaphor>
+                <t id="p03-s04-t48" type="GSL-1">could</t>
+                <t id="p03-s04-t49" type="GSL-1">be</t>
+                <t id="p03-s04-t50" type="GSL-1">more</t>
+                <t id="p03-s04-t51" type="Coxhead-AWL-2,AR-AWL-2a">focused</t>
+                <t id="p03-s04-t52" type="GSL-1">on</t>
+                <t id="p03-s04-t53" type="GSL-1">the</t>
+                <t id="p03-s04-t54" type="GSL-2">calculation</t>
+                <t id="p03-s04-t55" type="Coxhead-AWL-1,AR-AWL-1b">process</t>
+                <t id="p03-s04-t56" type="GSL-1">which</t>
+                <t id="p03-s04-t57" type="GSL-1">was</t>
+                <t id="p03-s04-t58" type="Coxhead-AWL-1,AR-AWL-1b">occurring</t>
+                <t id="p03-s04-t59" type="GSL-1">on</t>
+                <punc>-</punc>
+                <t id="p03-s04-t60" type="GSL-1">line</t>
+                <t id="p03-s04-t61" type="GSL-1">and</t>
+                <t id="p03-s04-t62" type="GSL-1">progressively</t>
+                <punc>;</punc>
+                <punc>(</punc>
+                <t id="p03-s04-t63">c</t>
+                <punc>)</punc>
+                <t id="p03-s04-t64" type="GSL-1">to</t>
+                <t id="p03-s04-t65" type="GSL-1">experience</t>
+                <t id="p03-s04-t66">ascending</t>
+                <t id="p03-s04-t67" type="GSL-1">and</t>
+                <t id="p03-s04-t68" type="GSL-2">descending</t>
+                <t id="p03-s04-t69" type="GSL-2">motions</t>
+                <t id="p03-s04-t70" type="GSL-1">with</t>
+                <t id="p03-s04-t71" type="GSL-1">the</t>
+                <t id="p03-s04-t72" type="GSL-1">whole</t>
+                <t id="p03-s04-t73" type="GSL-1">body</t>
+                <punc>,</punc>
+                <t id="p03-s04-t74" type="GSL-1">either</t>
+                <t id="p03-s04-t75" type="GSL-1">in</t>
+                <t id="p03-s04-t76" type="GSL-1">a</t>
+                <t id="p03-s04-t77" type="Coxhead-AWL-9,AR-AWL-9b">passive</t>
+                <punc>(</punc>
+                <t id="p03-s04-t78" type="GSL-1">going</t>
+                <t id="p03-s04-t79" type="GSL-1">up</t>
+                <t id="p03-s04-t80" type="GSL-1">and</t>
+                <t id="p03-s04-t81" type="GSL-1">down</t>
+                <t id="p03-s04-t82" type="GSL-1">taking</t>
+                <t id="p03-s04-t83" type="GSL-1">an</t>
+                <t id="p03-s04-t84">elevator</t>
+                <punc>)</punc>
+                <t id="p03-s04-t85" type="GSL-1">or</t>
+                <t id="p03-s04-t86" type="GSL-1">in</t>
+                <t id="p03-s04-t87" type="GSL-1">an</t>
+                <t id="p03-s04-t88" type="GSL-1">active</t>
+                <punc>(</punc>
+                <t id="p03-s04-t89" type="GSL-1">walking</t>
+                <t id="p03-s04-t90" type="GSL-1">up</t>
+                <t id="p03-s04-t91" type="GSL-1">and</t>
+                <t id="p03-s04-t92" type="GSL-1">down</t>
+                <t id="p03-s04-t93" type="GSL-1">the</t>
+                <t id="p03-s04-t94" type="GSL-2">stairs</t>
+                <punc>)</punc>
+                <t id="p03-s04-t95" type="Coxhead-AWL-7,AR-AWL-7b">mode</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p04">
+            <sentence par-function="topic" id="p04-s01">
+                <t id="p04-s01-t01" type="GSL-1">To</t>
+                <t id="p04-s01-t02" type="Coxhead-AWL-4,AR-AWL-4b">summarize</t>
+                <punc>,</punc>
+                <t id="p04-s01-t03" type="GSL-1">we</t>
+                <t id="p04-s01-t04" type="Coxhead-AWL-4,AR-AWL-4b">predict</t>
+                <t id="p04-s01-t05" type="GSL-1">a</t>
+                <t id="p04-s01-t06">congruency</t>
+                <t id="p04-s01-t07" type="GSL-1">effect</t>
+                <t id="p04-s01-t08" type="GSL-1">between</t>
+                <t id="p04-s01-t09" type="GSL-1">the</t>
+                <t id="p04-s01-t10" type="GSL-1">direction</t>
+                <t id="p04-s01-t11" type="GSL-1">of</t>
+                <t id="p04-s01-t12" type="GSL-1">the</t>
+                <t id="p04-s01-t13" type="GSL-1">experienced</t>
+                <t id="p04-s01-t14" type="GSL-2">motion</t>
+                <t id="p04-s01-t15" type="GSL-1">and</t>
+                <t id="p04-s01-t16" type="GSL-1">the</t>
+                <t id="p04-s01-t17">spatial</t>
+                <t id="p04-s01-t18" type="Coxhead-AWL-5,AR-AWL-5b">orientation</t>
+                <t id="p04-s01-t19" type="Coxhead-AWL-7,AR-AWL-7b">inferred</t>
+                <t id="p04-s01-t20" type="GSL-1">by</t>
+                <t id="p04-s01-t21" type="GSL-1">the</t>
+                <t id="p04-s01-t22" type="GSL-1">type</t>
+                <t id="p04-s01-t23" type="GSL-1">of</t>
+                <t id="p04-s01-t24" type="GSL-2">calculation</t>
+                <t id="p04-s01-t25" type="GSL-1">made</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p04-s02">
+                <t id="p04-s02-t01" type="GSL-1">More</t>
+                <t id="p04-s02-t02" type="Coxhead-AWL-1,AR-AWL-1b">specifically</t>
+                <punc>,</punc>
+                <t id="p04-s02-t03" type="GSL-1">we</t>
+                <t id="p04-s02-t04" type="Coxhead-AWL-4,AR-AWL-4a">hypothesize</t>
+                <t id="p04-s02-t05" type="GSL-1">a</t>
+                <t id="p04-s02-t06" type="Coxhead-AWL-5,AR-AWL-5a">facilitation</t>
+                <t id="p04-s02-t07" type="GSL-1">for</t>
+                <t id="p04-s02-t08" type="GSL-1">the</t>
+                <t id="p04-s02-t09">congruent</t>
+                <t id="p04-s02-t10" type="GSL-1">conditions</t>
+                <punc>(</punc>
+                <t id="p04-s02-t11" type="GSL-1">i</t>
+                <punc>.</punc>
+                <t id="p04-s02-t12">e</t>
+                <punc>.</punc>
+                <punc>,</punc>
+                <t id="p04-s02-t13">ascending</t>
+                <t id="p04-s02-t14" type="GSL-1">body</t>
+                <t id="p04-s02-t15" type="GSL-2">motion</t>
+                <punc>/</punc>
+                <t id="p04-s02-t16" type="GSL-2">upward</t>
+                <t id="p04-s02-t17" type="Coxhead-AWL-5,AR-AWL-5b">orientation</t>
+                <punc>:</punc>
+                <t id="p04-s02-t18" type="GSL-1">additions</t>
+                <punc>;</punc>
+                <t id="p04-s02-t19" type="GSL-2">descending</t>
+                <t id="p04-s02-t20" type="GSL-1">body</t>
+                <t id="p04-s02-t21" type="GSL-2">motion</t>
+                <punc>/</punc>
+                <t id="p04-s02-t22">downward</t>
+                <t id="p04-s02-t23" type="Coxhead-AWL-5,AR-AWL-5b">orientation</t>
+                <punc>:</punc>
+                <t id="p04-s02-t24">subtractions</t>
+                <punc>)</punc>
+                <t id="p04-s02-t25" type="GSL-1">with</t>
+                <t id="p04-s02-t26" type="GSL-1">respect</t>
+                <t id="p04-s02-t27" type="GSL-1">to</t>
+                <t id="p04-s02-t28" type="GSL-1">the</t>
+                <t id="p04-s02-t29">incongruent</t>
+                <t id="p04-s02-t30" type="GSL-1">ones</t>
+                <punc>(</punc>
+                <t id="p04-s02-t31" type="GSL-1">i</t>
+                <punc>.</punc>
+                <t id="p04-s02-t32">e</t>
+                <punc>.</punc>
+                <punc>,</punc>
+                <t id="p04-s02-t33" type="GSL-2">descending</t>
+                <t id="p04-s02-t34" type="GSL-1">body</t>
+                <t id="p04-s02-t35" type="GSL-2">motion</t>
+                <punc>/</punc>
+                <t id="p04-s02-t36" type="GSL-2">upward</t>
+                <t id="p04-s02-t37" type="Coxhead-AWL-5,AR-AWL-5b">orientation</t>
+                <punc>:</punc>
+                <t id="p04-s02-t38" type="GSL-1">additions</t>
+                <punc>;</punc>
+                <t id="p04-s02-t39">ascending</t>
+                <t id="p04-s02-t40" type="GSL-1">body</t>
+                <t id="p04-s02-t41" type="GSL-2">motion</t>
+                <punc>/</punc>
+                <t id="p04-s02-t42">downward</t>
+                <t id="p04-s02-t43" type="Coxhead-AWL-5,AR-AWL-5b">orientation</t>
+                <punc>:</punc>
+                <t id="p04-s02-t44">subtractions</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
 </document>
