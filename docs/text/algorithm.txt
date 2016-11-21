@@ -1,0 +1,19 @@
+An algorithm is a step-by-step list of directions that need to be followed to solve a problem. The instructions should be simple enough such that each step can be done without thinking about it. Algorithms are often used to describe how a computer might solve a problem. But there are algorithms in the real world too. A recipe can be considered a type of algorithm. It tells what ingredients are needed to make the dish and what steps to follow. If the recipe tells exactly what to do without too much confusion, then it is an algorithm.
+Comparing algorithms
+There is usually more than one way to solve a problem. There may be many different recipes to make a certain dish which looks different but ends up tasting the same when all is said and done. The same is true for algorithms. However, some of these ways will be better than others. If a recipe needs lots of complicated ingredients that you do not have, it is not as a good as a simple recipe. When we look at algorithms as a way of solving problems, often we want to know how long it would take a computer to solve the problem using a particular algorithm. When we write algorithms, we like our algorithm to take the least amount of time so that we can solve our problem as quickly as possible.
+In cooking, some recipes are more difficult to do than others, because they take more time to finish or have more things to keep track of. It is the same for algorithms, and algorithms are better when they are easier for the computer to do. The thing that measures how hard an algorithm is called complexity. When we ask how complex an algorithm is, often we want to know how long it will take a computer to solve the problem we want it to solve.
+Sorting by numbers
+This is an example of an algorithm for sorting a stack of cards with many different numbers, so that the numbers are in order.
+Players start with a stack of cards that have not been sorted.
+This algorithm goes through the stack of cards, one position at a time. The card in each position is compared to the next card in the stack. Please note that this position only changes in step 3. This algorithm is called bubble sort. It is slow.
+1. If the stack of cards is empty, or it only contains one card, it is sorted; you are done.
+2. Take the stack of cards. Look at the first card (the top) of the stack.
+3. The card you are looking at is card A. The position where card A currently is in the stack is P.
+4. If there are no more cards in the stack after card A, go to step 8.
+5. The next card in the stack is card B.
+6. If card B has a lower number than card A, swap the positions of cards A and B. Remember you did this. When you swap cards, do not change the position P.
+7. If there is another card in the stack after position P, look at it; go back to step 3.
+8. If you did not swap the position of any cards in the last run, you are done; the stack of cards is sorted. Otherwise go back to step 2.
+This is an easy-to-understand algorithm for sorting. Computer scientists called it Bubble sort, because smaller elements will rise to the top, changing their position in each run. Unfortunately, the algorithm is not very good, because it needs a long time (many passes through the stack of cards) to sort it.
+
+Simple English Wikipedia: “Algorithm”. Retrieved from https://simple.wikipedia.org/wiki/Algorithm on 20 Aug 2015.
