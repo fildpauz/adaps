@@ -1,1404 +1,1404 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
 <document>
-<title>Maria Mitchell</title>
-<citation>Wikipedia:"Maria Mitchell". Retrieved from 
-https://en.wikipedia.org/wiki/Maria_Mitchell on 04 Oct 2016.</citation>
-<url>https://en.wikipedia.org/wiki/Maria_Mitchell</url>
-<body>
-<paragraph id="p01">
-<sentence par-function="topic|supporting|concluding" id="p01-s01">
-<t id="p01-s01-t01">Maria</t>
-<t id="p01-s01-t02">Mitchell</t>
-<t id="p01-s01-t03" type="GSL-1">was</t>
-<t id="p01-s01-t04" type="GSL-1">born</t>
-<t id="p01-s01-t05" type="GSL-1">in</t>
-<t id="p01-s01-t06">Nantucket</t>
-<punc>,</punc>
-<t id="p01-s01-t07">Massachusetts</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p01-s02">
-<anaphor id="p01-s02-a01" info="p01-s01-t01:p01-s01-t02">
-<t id="p01-s02-t01" type="GSL-1">She</t>
-</anaphor>
-<t id="p01-s02-t02" type="GSL-1">was</t>
-<t id="p01-s02-t03" type="GSL-1">the</t>
-<t id="p01-s02-t04" type="GSL-1">great</t>
-<punc>-</punc>
-<t id="p01-s02-t05" type="GSL-1">great</t>
-<punc>-</punc>
-<t id="p01-s02-t06" type="GSL-1">great</t>
-<punc>-</punc>
-<t id="p01-s02-t07" type="GSL-1">great</t>
-<t id="p01-s02-t08" type="GSL-2">granddaughter</t>
-<t id="p01-s02-t09" type="GSL-1">of</t>
-<t id="p01-s02-t10">Peter</t>
-<t id="p01-s02-t11">Foulger</t>
-<t id="p01-s02-t12" type="GSL-1">and</t>
-<t id="p01-s02-t13">Mary</t>
-<t id="p01-s02-t14">Morrill</t>
-<t id="p01-s02-t15">Foulger</t>
-<punc>,</punc>
-<t id="p01-s02-t16" type="GSL-1">and</t>
-<t id="p01-s02-t17" type="GSL-1">through</t>
-<anaphor id="p01-s02-a02" info="p01-s02-t10:p01-s02-t15">
-<t id="p01-s02-t18" type="GSL-1">them</t>
-</anaphor>
-<t id="p01-s02-t19" type="GSL-1">was</t>
-<t id="p01-s02-t20" type="GSL-1">a</t>
-<t id="p01-s02-t21" type="GSL-1">first</t>
-<t id="p01-s02-t22" type="GSL-2">cousin</t>
-<t id="p01-s02-t23" type="GSL-1">four</t>
-<t id="p01-s02-t24" type="GSL-1">times</t>
-<t id="p01-s02-t25" type="Coxhead-AWL-3,AR-AWL-3b">removed</t>
-<t id="p01-s02-t26" type="GSL-1">of</t>
-<t id="p01-s02-t27">Benjamin</t>
-<t id="p01-s02-t28">Franklin</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p01-s03">
-<anaphor id="p01-s03-a01" info="p01-s01-t01:p01-s01-t02">
-<t id="p01-s03-t01" type="GSL-1">She</t>
-</anaphor>
-<t id="p01-s03-t02" type="GSL-1">had</t>
-<t id="p01-s03-t03" type="GSL-1">nine</t>
-<t id="p01-s03-t04" type="GSL-1">brothers</t>
-<t id="p01-s03-t05" type="GSL-1">and</t>
-<t id="p01-s03-t06" type="GSL-1">sisters</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p01-s04">
-<anaphor id="p01-s04-a01" info="p01-s01-t01:p01-s01-t02">
-<t id="p01-s04-t01" type="GSL-1">Her</t>
-</anaphor>
-<t id="p01-s04-t02" type="GSL-2">parents</t>
-<punc>,</punc>
-<t id="p01-s04-t03">William</t>
-<t id="p01-s04-t04">Mitchell</t>
-<t id="p01-s04-t05" type="GSL-1">and</t>
-<t id="p01-s04-t06">Lydia</t>
-<t id="p01-s04-t07">Coleman</t>
-<t id="p01-s04-t08">Mitchell</t>
-<punc>,</punc>
-<t id="p01-s04-t09" type="GSL-1">were</t>
-<t id="p01-s04-t10">Quakers</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p01-s05">
-<t id="p01-s05-t01">Maria</t>
-<t id="p01-s05-t02">Mitchell</t>
-<t id="p01-s05-t03" type="GSL-1">was</t>
-<t id="p01-s05-t04" type="GSL-1">born</t>
-<t id="p01-s05-t05" type="GSL-1">into</t>
-<t id="p01-s05-t06" type="GSL-1">a</t>
-<t id="p01-s05-t07" type="Coxhead-AWL-2,AR-AWL-2a">community</t>
-<t id="p01-s05-t08" type="GSL-1">unusual</t>
-<t id="p01-s05-t09" type="GSL-1">for</t>
-<anaphor id="p01-s05-a01" info="p01-s05-t07:p01-s05-t07">
-<t id="p01-s05-t10" type="GSL-1">its</t>
-</anaphor>
-<t id="p01-s05-t11" type="GSL-1">time</t>
-<t id="p01-s05-t12" type="GSL-1">in</t>
-<t id="p01-s05-t13" type="GSL-1">regard</t>
-<t id="p01-s05-t14" type="GSL-1">to</t>
-<t id="p01-s05-t15" type="GSL-1">equality</t>
-<t id="p01-s05-t16" type="GSL-1">for</t>
-<t id="p01-s05-t17" type="GSL-1">women</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p01-s06">
-<anaphor id="p01-s06-a01" info="p01-s05-t01:p01-s05-t02">
-<t id="p01-s06-t01" type="GSL-1">Her</t>
-</anaphor>
-<t id="p01-s06-t02" type="GSL-2">parents</t>
-<punc>,</punc>
-<t id="p01-s06-t03" type="GSL-1">like</t>
-<t id="p01-s06-t04" type="GSL-1">other</t>
-<t id="p01-s06-t05">Quakers</t>
-<punc>,</punc>
-<t id="p01-s06-t06" type="GSL-1">valued</t>
-<t id="p01-s06-t07" type="GSL-2">education</t>
-<t id="p01-s06-t08" type="GSL-1">and</t>
-<t id="p01-s06-t09">insisted</t>
-<t id="p01-s06-t10" type="GSL-1">on</t>
-<t id="p01-s06-t11" type="GSL-1">giving</t>
-<anaphor id="p01-s06-a02" info="p01-s05-t01:p01-s05-t02">
-<t id="p01-s06-t12" type="GSL-1">her</t>
-</anaphor>
-<t id="p01-s06-t13" type="GSL-1">the</t>
-<t id="p01-s06-t14" type="GSL-1">same</t>
-<t id="p01-s06-t15" type="GSL-1">quality</t>
-<t id="p01-s06-t16" type="GSL-1">of</t>
-<t id="p01-s06-t17" type="GSL-2">education</t>
-<t id="p01-s06-t18" type="GSL-1">that</t>
-<t id="p01-s06-t19" type="GSL-1">boys</t>
-<t id="p01-s06-t20" type="GSL-1">received</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p01-s07">
-<t id="p01-s07-t01" type="GSL-1">One</t>
-<t id="p01-s07-t02" type="GSL-1">of</t>
-<t id="p01-s07-t03" type="GSL-1">the</t>
-<t id="p01-s07-t04">tenets</t>
-<t id="p01-s07-t05" type="GSL-1">of</t>
-<t id="p01-s07-t06" type="GSL-1">the</t>
-<t id="p01-s07-t07">Quaker</t>
-<t id="p01-s07-t08" type="GSL-1">religion</t>
-<t id="p01-s07-t09" type="GSL-1">was</t>
-<t id="p01-s07-t10">intellectual</t>
-<t id="p01-s07-t11" type="GSL-1">equality</t>
-<t id="p01-s07-t12" type="GSL-1">between</t>
-<t id="p01-s07-t13" type="GSL-1">the</t>
-<t id="p01-s07-t14" type="Coxhead-AWL-3,AR-AWL-3b">sexes</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p01-s08">
-<connector id="p01-s08-c01" type="elaboration" info="p01-s07-t01:p01-s07-t14,p01-s08-t02:p01-s08-t28">
-<t id="p01-s08-t01">Additionally</t>
-</connector>
-<punc>,</punc>
-<t id="p01-s08-t02">Nantucket's</t>
-<t id="p01-s08-t03" type="GSL-1">importance</t>
-<t id="p01-s08-t04" type="GSL-1">as</t>
-<t id="p01-s08-t05" type="GSL-1">a</t>
-<t id="p01-s08-t06">whaling</t>
-<t id="p01-s08-t07">port</t>
-<t id="p01-s08-t08" type="GSL-1">meant</t>
-<t id="p01-s08-t09" type="GSL-1">that</t>
-<t id="p01-s08-t10" type="GSL-1">wives</t>
-<t id="p01-s08-t11" type="GSL-1">of</t>
-<t id="p01-s08-t12" type="GSL-1">sailors</t>
-<t id="p01-s08-t13" type="GSL-1">were</t>
-<t id="p01-s08-t14" type="GSL-1">left</t>
-<t id="p01-s08-t15" type="GSL-1">for</t>
-<t id="p01-s08-t16" type="GSL-1">months</t>
-<t id="p01-s08-t17" type="GSL-1">and</t>
-<t id="p01-s08-t18" type="GSL-1">sometimes</t>
-<t id="p01-s08-t19" type="GSL-1">years</t>
-<t id="p01-s08-t20" type="GSL-1">to</t>
-<t id="p01-s08-t21" type="GSL-2">manage</t>
-<t id="p01-s08-t22" type="GSL-1">affairs</t>
-<t id="p01-s08-t23" type="GSL-1">while</t>
-<anaphor id="p01-s08-a01" info="p01-s08-t10:p01-s08-t12">
-<t id="p01-s08-t24" type="GSL-1">their</t>
-</anaphor>
-<t id="p01-s08-t25" type="GSL-1">husbands</t>
-<t id="p01-s08-t26" type="GSL-1">were</t>
-<t id="p01-s08-t27" type="GSL-1">at</t>
-<t id="p01-s08-t28" type="GSL-1">sea</t>
-<punc>,</punc>
-<t id="p01-s08-t29" type="GSL-1">thus</t>
-<t id="p01-s08-t30">fostering</t>
-<t id="p01-s08-t31" type="GSL-1">an</t>
-<t id="p01-s08-t32">atmosphere</t>
-<t id="p01-s08-t33" type="GSL-1">of</t>
-<t id="p01-s08-t34" type="GSL-1">relative</t>
-<t id="p01-s08-t35" type="GSL-1">independence</t>
-<t id="p01-s08-t36" type="GSL-1">and</t>
-<t id="p01-s08-t37" type="GSL-1">equality</t>
-<t id="p01-s08-t38" type="GSL-1">for</t>
-<t id="p01-s08-t39" type="GSL-1">the</t>
-<t id="p01-s08-t40" type="GSL-1">women</t>
-<t id="p01-s08-t41" type="GSL-1">who</t>
-<t id="p01-s08-t42" type="GSL-1">called</t>
-<t id="p01-s08-t43" type="GSL-1">the</t>
-<t id="p01-s08-t44" type="GSL-2">island</t>
-<t id="p01-s08-t45" type="GSL-1">home</t>
-<punc>.</punc>
-<punc>[</punc>
-<t id="p01-s08-t46">8</t>
-<punc>]</punc>
-</sentence>
-</paragraph>
-<paragraph id="p02">
-<sentence par-function="topic|supporting|concluding" id="p02-s01">
-<t id="p02-s01-t01" type="GSL-1">After</t>
-<t id="p02-s01-t02" type="GSL-2">attending</t>
-<t id="p02-s01-t03">Elizabeth</t>
-<t id="p02-s01-t04">Gardener's</t>
-<t id="p02-s01-t05" type="GSL-1">small</t>
-<t id="p02-s01-t06" type="GSL-1">school</t>
-<t id="p02-s01-t07" type="GSL-1">in</t>
-<anaphor id="p02-s01-a01" info="p01-s05-t01:p01-s05-t02">
-<t id="p02-s01-t08" type="GSL-1">her</t>
-</anaphor>
-<t id="p02-s01-t09" type="GSL-1">earliest</t>
-<t id="p02-s01-t10" type="GSL-1">childhood</t>
-<t id="p02-s01-t11" type="GSL-1">years</t>
-<punc>,</punc>
-<t id="p02-s01-t12">Maria</t>
-<t id="p02-s01-t13" type="GSL-2">attended</t>
-<t id="p02-s01-t14" type="GSL-1">the</t>
-<t id="p02-s01-t15" type="GSL-1">North</t>
-<t id="p02-s01-t16" type="GSL-2">Grammar</t>
-<t id="p02-s01-t17" type="GSL-1">school</t>
-<punc>,</punc>
-<t id="p02-s01-t18" type="GSL-1">where</t>
-<t id="p02-s01-t19">William</t>
-<t id="p02-s01-t20">Mitchell</t>
-<t id="p02-s01-t21" type="GSL-1">was</t>
-<t id="p02-s01-t22" type="GSL-1">the</t>
-<t id="p02-s01-t23" type="GSL-1">first</t>
-<t id="p02-s01-t24" type="Coxhead-AWL-4,AR-AWL-4b">principal</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p02-s02">
-<t id="p02-s02-t01" type="GSL-1">Two</t>
-<t id="p02-s02-t02" type="GSL-1">years</t>
-<t id="p02-s02-t03" type="GSL-1">following</t>
-<t id="p02-s02-t04" type="GSL-1">the</t>
-<t id="p02-s02-t05" type="Coxhead-AWL-9,AR-AWL-9a">founding</t>
-<t id="p02-s02-t06" type="GSL-1">of</t>
-<anaphor id="p02-s02-a01" info="p02-s01-t15:p02-s01-t17">
-<t id="p02-s02-t07" type="GSL-1">that</t>
-<t id="p02-s02-t08" type="GSL-1">school</t>
-</anaphor>
-<punc>,</punc>
-<connector id="p02-s02-c01" type="temporal sequence" info="p02-s02-t13:p02-s02-t21,p02-s02-t10:p02-s02-t12">
-<t id="p02-s02-t09" type="GSL-1">when</t>
-</connector>
-<t id="p02-s02-t10">Maria</t>
-<t id="p02-s02-t11" type="GSL-1">was</t>
-<t id="p02-s02-t12" type="GSL-1">eleven</t>
-<punc>,</punc>
-<anaphor id="p02-s02-a02" info="p02-s02-t10:p02-s02-t10">
-<t id="p02-s02-t13" type="GSL-1">her</t>
-</anaphor>
-<t id="p02-s02-t14" type="GSL-1">father</t>
-<t id="p02-s02-t15" type="GSL-1">built</t>
-<anaphor id="p02-s02-a03" info="p02-s02-t13:p02-s02-t14">
-<t id="p02-s02-t16" type="GSL-1">his</t>
-</anaphor>
-<t id="p02-s02-t17" type="GSL-1">own</t>
-<t id="p02-s02-t18" type="GSL-1">school</t>
-<t id="p02-s02-t19" type="GSL-1">on</t>
-<t id="p02-s02-t20">Howard</t>
-<t id="p02-s02-t21" type="GSL-1">Street</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p02-s03">
-<t id="p02-s03-t01" type="GSL-1">There</t>
-<punc>,</punc>
-<anaphor id="p02-s03-a01" info="p02-s02-t10:p02-s02-t10">
-<t id="p02-s03-t02" type="GSL-1">she</t>
-</anaphor>
-<t id="p02-s03-t03" type="GSL-1">was</t>
-<t id="p02-s03-t04" type="GSL-1">a</t>
-<t id="p02-s03-t05" type="GSL-1">student</t>
-<t id="p02-s03-t06" type="GSL-1">and</t>
-<t id="p02-s03-t07" type="GSL-1">also</t>
-<t id="p02-s03-t08" type="GSL-1">a</t>
-<t id="p02-s03-t09" type="GSL-1">teaching</t>
-<t id="p02-s03-t10" type="Coxhead-AWL-2,AR-AWL-2a">assistant</t>
-<t id="p02-s03-t11" type="GSL-1">to</t>
-<anaphor id="p02-s03-a02" info="p02-s02-t10:p02-s02-t10">
-<t id="p02-s03-t12" type="GSL-1">her</t>
-</anaphor>
-<t id="p02-s03-t13" type="GSL-1">father</t>
-<punc>.</punc>
-<punc>[</punc>
-<t id="p02-s03-t14">9</t>
-<punc>]</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p02-s04">
-<t id="p02-s04-t01" type="GSL-1">At</t>
-<t id="p02-s04-t02" type="GSL-1">home</t>
-<punc>,</punc>
-<t id="p02-s04-t03">Maria's</t>
-<t id="p02-s04-t04" type="GSL-1">father</t>
-<t id="p02-s04-t05" type="GSL-1">taught</t>
-<anaphor id="p02-s04-a01" info="p02-s02-t10:p02-s02-t10">
-<t id="p02-s04-t06" type="GSL-1">her</t>
-</anaphor>
-<t id="p02-s04-t07">astronomy</t>
-<t id="p02-s04-t08" type="GSL-1">using</t>
-<anaphor id="p02-s04-a02" info="p02-s04-t03:p02-s04-t04">
-<t id="p02-s04-t09" type="GSL-1">his</t>
-</anaphor>
-<t id="p02-s04-t10" type="GSL-1">personal</t>
-<t id="p02-s04-t11">telescope</t>
-<punc>.</punc>
-<punc>[</punc>
-<t id="p02-s04-t12">10</t>
-<punc>]</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p02-s05">
-<t id="p02-s05-t01" type="GSL-1">At</t>
-<t id="p02-s05-t02" type="GSL-1">age</t>
-<t id="p02-s05-t03" type="GSL-1">twelve</t>
-<t id="p02-s05-t04" type="GSL-1">and</t>
-<t id="p02-s05-t05" type="GSL-1">a</t>
-<t id="p02-s05-t06" type="GSL-1">half</t>
-<punc>,</punc>
-<anaphor id="p02-s05-a01" info="p02-s02-t10:p02-s02-t10">
-<t id="p02-s05-t07" type="GSL-1">she</t>
-</anaphor>
-<t id="p02-s05-t08" type="Coxhead-AWL-7,AR-AWL-7a">aided</t>
-<anaphor id="p02-s05-a02" info="p02-s02-t10:p02-s02-t10">
-<t id="p02-s05-t09" type="GSL-1">her</t>
-</anaphor>
-<t id="p02-s05-t10" type="GSL-1">father</t>
-<t id="p02-s05-t11" type="GSL-1">in</t>
-<t id="p02-s05-t12" type="GSL-2">calculating</t>
-<t id="p02-s05-t13" type="GSL-1">the</t>
-<t id="p02-s05-t14" type="GSL-2">exact</t>
-<t id="p02-s05-t15" type="GSL-1">moment</t>
-<t id="p02-s05-t16" type="GSL-1">of</t>
-<t id="p02-s05-t17" type="GSL-1">an</t>
-<t id="p02-s05-t18">annular</t>
-<t id="p02-s05-t19">eclipse</t>
-<punc>.</punc>
-<punc>[</punc>
-<t id="p02-s05-t20">11</t>
-<punc>]</punc>
-</sentence>
-</paragraph>
-<paragraph id="p03">
-<sentence par-function="topic|supporting|concluding" id="p03-s01">
-<anaphor id="p03-s01-a01" info="p02-s02-t10:p02-s02-t10">
-<t id="p03-s01-t01" type="GSL-1">Her</t>
-</anaphor>
-<t id="p03-s01-t02">father's</t>
-<t id="p03-s01-t03" type="GSL-1">school</t>
-<t id="p03-s01-t04" type="GSL-1">closed</t>
-<punc>,</punc>
-<connector id="p03-s01-c01" type="temporal sequence" info="p03-s01-t01:p03-s01-t04,p03-s01-t07:p03-s01-t16">
-<t id="p03-s01-t05" type="GSL-1">and</t>
-<t id="p03-s01-t06" type="GSL-1">afterwards</t>
-</connector>
-<anaphor id="p03-s01-a02" info="p02-s02-t10:p02-s02-t10">
-<t id="p03-s01-t07" type="GSL-1">she</t>
-</anaphor>
-<t id="p03-s01-t08" type="GSL-2">attended</t>
-<t id="p03-s01-t09">Unitarian</t>
-<t id="p03-s01-t10" type="GSL-1">minister</t>
-<t id="p03-s01-t11">Cyrus</t>
-<t id="p03-s01-t12">Peirce's</t>
-<t id="p03-s01-t13" type="GSL-1">school</t>
-<t id="p03-s01-t14" type="GSL-1">for</t>
-<t id="p03-s01-t15" type="GSL-1">young</t>
-<t id="p03-s01-t16" type="GSL-1">ladies</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p03-s02">
-<connector id="p03-s02-c01" type="temporal sequence" info="p03-s01-t07:p03-s01-t16,p03-s02-t02:p03-s02-t09">
-<t id="p03-s02-t01" type="GSL-1">Later</t>
-</connector>
-<anaphor id="p03-s02-a01" info="p02-s02-t10:p02-s02-t10">
-<t id="p03-s02-t02" type="GSL-1">she</t>
-</anaphor>
-<t id="p03-s02-t03" type="GSL-1">worked</t>
-<t id="p03-s02-t04" type="GSL-1">for</t>
-<t id="p03-s02-t05">Peirce</t>
-<t id="p03-s02-t06" type="GSL-1">as</t>
-<anaphor id="p03-s02-a02" info="p03-s02-t05:p03-s02-t05">
-<t id="p03-s02-t07" type="GSL-1">his</t>
-</anaphor>
-<t id="p03-s02-t08" type="GSL-1">teaching</t>
-<t id="p03-s02-t09" type="Coxhead-AWL-2,AR-AWL-2a">assistant</t>
-<connector id="p03-s02-c02" type="temporal sequence" info="p03-s02-t02:p03-s02-t09,p03-s02-t11:p03-s02-t17">
-<t id="p03-s02-t10" type="GSL-1">before</t>
-</connector>
-<anaphor id="p03-s02-a03" info="p02-s02-t10:p02-s02-t10">
-<t id="p03-s02-t11" type="GSL-1">she</t>
-</anaphor>
-<t id="p03-s02-t12" type="GSL-1">opened</t>
-<anaphor id="p03-s02-a04" info="p02-s02-t10:p02-s02-t10">
-<t id="p03-s02-t13" type="GSL-1">her</t>
-</anaphor>
-<t id="p03-s02-t14" type="GSL-1">own</t>
-<t id="p03-s02-t15" type="GSL-1">school</t>
-<t id="p03-s02-t16" type="GSL-1">in</t>
-<t id="p03-s02-t17">1835</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p03-s03">
-<anaphor id="p03-s03-a01" info="p02-s02-t10:p02-s02-t10">
-<t id="p03-s03-t01" type="GSL-1">She</t>
-</anaphor>
-<t id="p03-s03-t02" type="GSL-1">made</t>
-<t id="p03-s03-t03" type="GSL-1">the</t>
-<t id="p03-s03-t04" type="GSL-1">decision</t>
-<t id="p03-s03-t05" type="GSL-1">to</t>
-<t id="p03-s03-t06" type="GSL-1">allow</t>
-<t id="p03-s03-t07">non</t>
-<punc>-</punc>
-<t id="p03-s03-t08" type="GSL-1">white</t>
-<t id="p03-s03-t09" type="GSL-1">children</t>
-<t id="p03-s03-t10" type="GSL-1">to</t>
-<t id="p03-s03-t11" type="GSL-2">attend</t>
-<anaphor id="p03-s03-a02" info="p02-s02-t10:p02-s02-t10">
-<t id="p03-s03-t12" type="GSL-1">her</t>
-</anaphor>
-<t id="p03-s03-t13" type="GSL-1">school</t>
-<punc>,</punc>
-<t id="p03-s03-t14" type="GSL-1">a</t>
-<t id="p03-s03-t15" type="Coxhead-AWL-9,AR-AWL-9a">controversial</t>
-<t id="p03-s03-t16" type="GSL-1">move</t>
-<t id="p03-s03-t17" type="GSL-1">as</t>
-<t id="p03-s03-t18" type="GSL-1">the</t>
-<t id="p03-s03-t19" type="GSL-1">local</t>
-<t id="p03-s03-t20" type="GSL-1">public</t>
-<t id="p03-s03-t21" type="GSL-1">school</t>
-<t id="p03-s03-t22" type="GSL-1">was</t>
-<t id="p03-s03-t23" type="GSL-1">still</t>
-<t id="p03-s03-t24">segregated</t>
-<t id="p03-s03-t25" type="GSL-1">at</t>
-<t id="p03-s03-t26" type="GSL-1">the</t>
-<t id="p03-s03-t27" type="GSL-1">time</t>
-<punc>.</punc>
-<punc>[</punc>
-<t id="p03-s03-t28">12</t>
-<punc>]</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p03-s04">
-<connector id="p03-s04-c01" type="temporal sequence" info="p03-s02-t11:p03-s02-t17,p03-s04-t04:p03-s04-t16">
-<t id="p03-s04-t01" type="GSL-1">One</t>
-<t id="p03-s04-t02" type="GSL-1">year</t>
-<t id="p03-s04-t03" type="GSL-1">later</t>
-</connector>
-<punc>,</punc>
-<anaphor id="p03-s04-a01" info="p02-s02-t10:p02-s02-t10">
-<t id="p03-s04-t04" type="GSL-1">she</t>
-</anaphor>
-<t id="p03-s04-t05" type="GSL-1">was</t>
-<t id="p03-s04-t06" type="GSL-1">offered</t>
-<t id="p03-s04-t07" type="GSL-1">a</t>
-<t id="p03-s04-t08" type="Coxhead-AWL-4,AR-AWL-4b">job</t>
-<t id="p03-s04-t09" type="GSL-1">as</t>
-<t id="p03-s04-t10" type="GSL-1">the</t>
-<t id="p03-s04-t11" type="GSL-1">first</t>
-<t id="p03-s04-t12" type="GSL-1">librarian</t>
-<t id="p03-s04-t13" type="GSL-1">of</t>
-<t id="p03-s04-t14" type="GSL-1">the</t>
-<t id="p03-s04-t15">Nantucket</t>
-<t id="p03-s04-t16">Atheneum</t>
-<punc>,</punc>
-<punc>[</punc>
-<t id="p03-s04-t17">12</t>
-<punc>]</punc>
-<t id="p03-s04-t18" type="GSL-1">where</t>
-<anaphor id="p03-s04-a02" info="p02-s02-t10:p02-s02-t10">
-<t id="p03-s04-t19" type="GSL-1">she</t>
-</anaphor>
-<t id="p03-s04-t20" type="GSL-1">worked</t>
-<t id="p03-s04-t21" type="GSL-1">for</t>
-<t id="p03-s04-t22">20</t>
-<t id="p03-s04-t23" type="GSL-1">years</t>
-<punc>.</punc>
-<punc>[</punc>
-<t id="p03-s04-t24">13</t>
-<punc>]</punc>
-</sentence>
-</paragraph>
-<paragraph id="p04">
-<sentence par-function="topic|supporting|concluding" id="p04-s01">
-<t id="p04-s01-t01" type="GSL-1">Using</t>
-<t id="p04-s01-t02" type="GSL-1">a</t>
-<t id="p04-s01-t03">telescope</t>
-<punc>,</punc>
-<anaphor id="p04-s01-a01" info="p02-s02-t10:p02-s02-t10">
-<t id="p04-s01-t04" type="GSL-1">she</t>
-</anaphor>
-<t id="p04-s01-t05" type="GSL-1">discovered</t>
-<punc>“</punc>
-<t id="p04-s01-t06" type="GSL-1">Miss</t>
-<t id="p04-s01-t07">Mitchell's</t>
-<t id="p04-s01-t08">Comet</t>
-<punc>”</punc>
-<punc>(</punc>
-<t id="p04-s01-t09">Comet</t>
-<t id="p04-s01-t10">1847</t>
-<t id="p04-s01-t11">VI</t>
-<punc>,</punc>
-<t id="p04-s01-t12" type="GSL-1">modern</t>
-<t id="p04-s01-t13">designation</t>
-<t id="p04-s01-t14" type="GSL-1">is</t>
-<t id="p04-s01-t15">C/1847</t>
-<t id="p04-s01-t16">T1</t>
-<punc>)</punc>
-<t id="p04-s01-t17" type="GSL-1">on</t>
-<t id="p04-s01-t18" type="GSL-1">October</t>
-<t id="p04-s01-t19">1</t>
-<punc>,</punc>
-<t id="p04-s01-t20">1847</t>
-<punc>,</punc>
-<t id="p04-s01-t21" type="GSL-1">at</t>
-<t id="p04-s01-t22">10:30</t>
-<t id="p04-s01-t23">PM</t>
-<punc>.</punc>
-<punc>[</punc>
-<t id="p04-s01-t24">14</t>
-<punc>]</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p04-s02">
-<connector id="p04-s02-c01" type="temporal sequence" info="p04-s01-t04:p04-s01-t23,p04-s02-t04:p04-s02-t20">
-<t id="p04-s02-t01" type="GSL-1">Some</t>
-<t id="p04-s02-t02" type="GSL-1">years</t>
-<t id="p04-s02-t03" type="Coxhead-AWL-2,AR-AWL-2b">previously</t>
-</connector>
-<punc>,</punc>
-<t id="p04-s02-t04" type="GSL-1">King</t>
-<t id="p04-s02-t05">Frederick</t>
-<t id="p04-s02-t06">VI</t>
-<t id="p04-s02-t07" type="GSL-1">of</t>
-<t id="p04-s02-t08">Denmark</t>
-<t id="p04-s02-t09" type="GSL-1">had</t>
-<t id="p04-s02-t10" type="Coxhead-AWL-1,AR-AWL-1a">established</t>
-<t id="p04-s02-t11" type="GSL-1">gold</t>
-<t id="p04-s02-t12">medal</t>
-<t id="p04-s02-t13" type="GSL-2">prizes</t>
-<t id="p04-s02-t14" type="GSL-1">to</t>
-<t id="p04-s02-t15" type="GSL-1">each</t>
-<t id="p04-s02-t16">discoverer</t>
-<t id="p04-s02-t17" type="GSL-1">of</t>
-<t id="p04-s02-t18" type="GSL-1">a</t>
-<punc>“</punc>
-<t id="p04-s02-t19">telescopic</t>
-<t id="p04-s02-t20">comet</t>
-<punc>”</punc>
-<punc>(</punc>
-<t id="p04-s02-t21" type="GSL-1">too</t>
-<t id="p04-s02-t22" type="GSL-2">faint</t>
-<t id="p04-s02-t23" type="GSL-1">to</t>
-<t id="p04-s02-t24" type="GSL-1">be</t>
-<t id="p04-s02-t25" type="GSL-1">seen</t>
-<t id="p04-s02-t26" type="GSL-1">with</t>
-<t id="p04-s02-t27" type="GSL-1">the</t>
-<t id="p04-s02-t28">naked</t>
-<t id="p04-s02-t29" type="GSL-1">eye</t>
-<punc>)</punc>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p04-s03">
-<anaphor id="p04-s03-a01" info="p04-s02-t11:p04-s02-t13">
-<t id="p04-s03-t01" type="GSL-1">The</t>
-<t id="p04-s03-t02" type="GSL-2">prize</t>
-</anaphor>
-<t id="p04-s03-t03" type="GSL-1">was</t>
-<t id="p04-s03-t04" type="GSL-1">to</t>
-<t id="p04-s03-t05" type="GSL-1">be</t>
-<t id="p04-s03-t06">awarded</t>
-<t id="p04-s03-t07" type="GSL-1">to</t>
-<t id="p04-s03-t08" type="GSL-1">the</t>
-<punc>“</punc>
-<t id="p04-s03-t09" type="GSL-1">first</t>
-<t id="p04-s03-t10">discoverer</t>
-<punc>”</punc>
-<t id="p04-s03-t11" type="GSL-1">of</t>
-<t id="p04-s03-t12" type="GSL-1">each</t>
-<t id="p04-s03-t13" type="GSL-1">such</t>
-<t id="p04-s03-t14">comet</t>
-<punc>(</punc>
-<t id="p04-s03-t15" type="GSL-1">note</t>
-<t id="p04-s03-t16" type="GSL-1">that</t>
-<t id="p04-s03-t17">comets</t>
-<t id="p04-s03-t18" type="GSL-1">are</t>
-<t id="p04-s03-t19" type="GSL-1">often</t>
-<t id="p04-s03-t20" type="GSL-1">independently</t>
-<t id="p04-s03-t21" type="GSL-1">discovered</t>
-<t id="p04-s03-t22" type="GSL-1">by</t>
-<t id="p04-s03-t23" type="GSL-1">more</t>
-<t id="p04-s03-t24" type="GSL-1">than</t>
-<t id="p04-s03-t25" type="GSL-1">one</t>
-<t id="p04-s03-t26" type="GSL-1">person</t>
-<punc>)</punc>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p04-s04">
-<t id="p04-s04-t01">Maria</t>
-<t id="p04-s04-t02">Mitchell</t>
-<t id="p04-s04-t03" type="GSL-1">won</t>
-<t id="p04-s04-t04" type="GSL-1">one</t>
-<t id="p04-s04-t05" type="GSL-1">of</t>
-<anaphor id="p04-s04-a01" info="p04-s02-t11:p04-s02-t13">
-<t id="p04-s04-t06" type="GSL-1">these</t>
-<t id="p04-s04-t07" type="GSL-2">prizes</t>
-</anaphor>
-<punc>,</punc>
-<connector id="p04-s04-c01" type="elaboration" info="p04-s04-t01:p04-s04-t07,p04-s04-t09:p04-s04-t13">
-<t id="p04-s04-t08" type="GSL-1">and</t>
-</connector>
-<anaphor id="p04-s04-a02" info="p04-s04-t03:p04-s04-t07">
-<t id="p04-s04-t09" type="GSL-1">this</t>
-</anaphor>
-<t id="p04-s04-t10" type="GSL-1">gave</t>
-<anaphor id="p04-s04-a03" info="p04-s04-t01:p04-s04-t02">
-<t id="p04-s04-t11" type="GSL-1">her</t>
-</anaphor>
-<t id="p04-s04-t12">worldwide</t>
-<t id="p04-s04-t13">fame</t>
-<punc>,</punc>
-<t id="p04-s04-t14" type="GSL-1">since</t>
-<t id="p04-s04-t15" type="GSL-1">the</t>
-<t id="p04-s04-t16" type="GSL-1">only</t>
-<t id="p04-s04-t17" type="Coxhead-AWL-2,AR-AWL-2b">previous</t>
-<t id="p04-s04-t18" type="GSL-1">women</t>
-<t id="p04-s04-t19" type="GSL-1">to</t>
-<t id="p04-s04-t20" type="GSL-1">discover</t>
-<t id="p04-s04-t21" type="GSL-1">a</t>
-<t id="p04-s04-t22">comet</t>
-<t id="p04-s04-t23" type="GSL-1">were</t>
-<t id="p04-s04-t24" type="GSL-1">the</t>
-<t id="p04-s04-t25">astronomers</t>
-<t id="p04-s04-t26">Caroline</t>
-<t id="p04-s04-t27">Herschel</t>
-<t id="p04-s04-t28" type="GSL-1">and</t>
-<t id="p04-s04-t29">Maria</t>
-<t id="p04-s04-t30">Margarethe</t>
-<t id="p04-s04-t31">Kirch</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p05">
-<sentence par-function="topic|supporting|concluding" id="p05-s01">
-<t id="p05-s01-t01" type="GSL-1">There</t>
-<t id="p05-s01-t02" type="GSL-1">was</t>
-<t id="p05-s01-t03" type="GSL-1">a</t>
-<t id="p05-s01-t04" type="Coxhead-AWL-9,AR-AWL-9b">temporary</t>
-<t id="p05-s01-t05" type="GSL-1">question</t>
-<t id="p05-s01-t06" type="GSL-1">of</t>
-<t id="p05-s01-t07" type="Coxhead-AWL-7,AR-AWL-7b">priority</t>
-<t id="p05-s01-t08" type="GSL-1">because</t>
-<t id="p05-s01-t09">Francesco</t>
-<t id="p05-s01-t10">de</t>
-<t id="p05-s01-t11">Vico</t>
-<t id="p05-s01-t12" type="GSL-1">had</t>
-<t id="p05-s01-t13" type="GSL-1">independently</t>
-<t id="p05-s01-t14" type="GSL-1">discovered</t>
-<t id="p05-s01-t15" type="GSL-1">the</t>
-<t id="p05-s01-t16" type="GSL-1">same</t>
-<t id="p05-s01-t17">comet</t>
-<t id="p05-s01-t18" type="GSL-1">two</t>
-<t id="p05-s01-t19" type="GSL-1">days</t>
-<t id="p05-s01-t20" type="GSL-1">later</t>
-<punc>,</punc>
-<t id="p05-s01-t21" type="GSL-1">but</t>
-<t id="p05-s01-t22" type="GSL-1">had</t>
-<t id="p05-s01-t23" type="GSL-1">reported</t>
-<anaphor id="p05-s01-a01" info="p05-s01-t14:p05-s01-t17">
-<t id="p05-s01-t24" type="GSL-1">it</t>
-</anaphor>
-<t id="p05-s01-t25" type="GSL-1">to</t>
-<t id="p05-s01-t26">European</t>
-<t id="p05-s01-t27" type="Coxhead-AWL-1,AR-AWL-1a">authorities</t>
-<t id="p05-s01-t28" type="GSL-1">first</t>
-<punc>;</punc>
-<connector id="p05-s01-c01" type="contrast" info="p05-s01-t01:p05-s01-t20,p05-s01-t30:p05-s01-t35">
-<t id="p05-s01-t29" type="GSL-1">however</t>
-</connector>
-<punc>,</punc>
-<anaphor id="p05-s01-a02" info="p05-s01-t04:p05-s01-t07">
-<t id="p05-s01-t30" type="GSL-1">this</t>
-</anaphor>
-<t id="p05-s01-t31" type="GSL-1">was</t>
-<t id="p05-s01-t32" type="Coxhead-AWL-4,AR-AWL-4b">resolved</t>
-<t id="p05-s01-t33" type="GSL-1">in</t>
-<t id="p05-s01-t34">Mitchell's</t>
-<t id="p05-s01-t35" type="GSL-1">favor</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p05-s02">
-<anaphor id="p05-s02-a01" info="p04-s02-t11:p04-s02-t13">
-<t id="p05-s02-t01" type="GSL-1">The</t>
-<t id="p05-s02-t02" type="GSL-2">prize</t>
-</anaphor>
-<t id="p05-s02-t03" type="GSL-1">was</t>
-<t id="p05-s02-t04">awarded</t>
-<t id="p05-s02-t05" type="GSL-1">in</t>
-<t id="p05-s02-t06">1848</t>
-<t id="p05-s02-t07" type="GSL-1">by</t>
-<t id="p05-s02-t08" type="GSL-1">the</t>
-<t id="p05-s02-t09" type="GSL-1">new</t>
-<t id="p05-s02-t10" type="GSL-1">king</t>
-<t id="p05-s02-t11">Christian</t>
-<t id="p05-s02-t12">VIII</t>
-<punc>.</punc>
-<punc>[</punc>
-<t id="p05-s02-t13">15</t>
-<punc>]</punc>
-</sentence>
-</paragraph>
-<paragraph id="p06">
-<sentence par-function="topic|supporting|concluding" id="p06-s01">
-<anaphor id="p06-s01-a01" info="p04-s04-t01:p04-s04-t02">
-<t id="p06-s01-t01" type="GSL-1">She</t>
-</anaphor>
-<t id="p06-s01-t02" type="GSL-1">became</t>
-<t id="p06-s01-t03" type="GSL-1">the</t>
-<t id="p06-s01-t04" type="GSL-1">first</t>
-<t id="p06-s01-t05" type="GSL-1">woman</t>
-<t id="p06-s01-t06" type="GSL-1">elected</t>
-<t id="p06-s01-t07" type="GSL-1">Fellow</t>
-<t id="p06-s01-t08" type="GSL-1">of</t>
-<t id="p06-s01-t09" type="GSL-1">the</t>
-<t id="p06-s01-t10">American</t>
-<t id="p06-s01-t11" type="Coxhead-AWL-5,AR-AWL-5a">Academy</t>
-<t id="p06-s01-t12" type="GSL-1">of</t>
-<t id="p06-s01-t13" type="GSL-1">Arts</t>
-<t id="p06-s01-t14" type="GSL-1">and</t>
-<t id="p06-s01-t15" type="GSL-1">Sciences</t>
-<t id="p06-s01-t16" type="GSL-1">in</t>
-<t id="p06-s01-t17">1848</t>
-<punc>[</punc>
-<t id="p06-s01-t18">16</t>
-<punc>]</punc>
-<t id="p06-s01-t19" type="GSL-1">and</t>
-<t id="p06-s01-t20" type="GSL-1">of</t>
-<t id="p06-s01-t21" type="GSL-1">the</t>
-<t id="p06-s01-t22">American</t>
-<t id="p06-s01-t23" type="GSL-1">Association</t>
-<t id="p06-s01-t24" type="GSL-1">for</t>
-<t id="p06-s01-t25" type="GSL-1">the</t>
-<t id="p06-s01-t26" type="GSL-1">Advancement</t>
-<t id="p06-s01-t27" type="GSL-1">of</t>
-<t id="p06-s01-t28" type="GSL-1">Science</t>
-<t id="p06-s01-t29" type="GSL-1">in</t>
-<t id="p06-s01-t30">1850</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p06-s02">
-<t id="p06-s02-t01">Mitchell</t>
-<t id="p06-s02-t02" type="GSL-1">was</t>
-<t id="p06-s02-t03" type="GSL-1">also</t>
-<t id="p06-s02-t04" type="GSL-1">one</t>
-<t id="p06-s02-t05" type="GSL-1">of</t>
-<t id="p06-s02-t06" type="GSL-1">the</t>
-<t id="p06-s02-t07" type="GSL-1">first</t>
-<t id="p06-s02-t08" type="GSL-1">women</t>
-<t id="p06-s02-t09" type="GSL-1">elected</t>
-<t id="p06-s02-t10" type="GSL-1">to</t>
-<t id="p06-s02-t11" type="GSL-1">the</t>
-<t id="p06-s02-t12">American</t>
-<t id="p06-s02-t13" type="Coxhead-AWL-3,AR-AWL-3b">Philosophical</t>
-<t id="p06-s02-t14" type="GSL-1">Society</t>
-<punc>(</punc>
-<t id="p06-s02-t15">1869</t>
-<punc>,</punc>
-<t id="p06-s02-t16" type="GSL-1">at</t>
-<t id="p06-s02-t17" type="GSL-1">the</t>
-<t id="p06-s02-t18" type="GSL-1">same</t>
-<t id="p06-s02-t19" type="GSL-1">meeting</t>
-<t id="p06-s02-t20">Mary</t>
-<t id="p06-s02-t21">Somerville</t>
-<t id="p06-s02-t22" type="GSL-1">and</t>
-<t id="p06-s02-t23">Elizabeth</t>
-<t id="p06-s02-t24">Cabot</t>
-<t id="p06-s02-t25">Agassiz</t>
-<t id="p06-s02-t26" type="GSL-1">were</t>
-<t id="p06-s02-t27" type="GSL-1">elected</t>
-<punc>)</punc>
-<punc>.</punc>
-<punc>[</punc>
-<t id="p06-s02-t28">17</t>
-<punc>]</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p06-s03">
-<anaphor id="p06-s03-a01" info="p06-s02-t01:p06-s02-t01">
-<t id="p06-s03-t01" type="GSL-1">She</t>
-</anaphor>
-<connector id="p06-s03-c01" type="temporal sequence" info="p06-s02-t01:p06-s02-t14,p06-s03-t01:p06-s03-t09">
-<t id="p06-s03-t02" type="GSL-1">later</t>
-</connector>
-<t id="p06-s03-t03" type="GSL-1">worked</t>
-<t id="p06-s03-t04" type="GSL-1">at</t>
-<t id="p06-s03-t05" type="GSL-1">the</t>
-<t id="p06-s03-t06">U.S.</t>
-<t id="p06-s03-t07">Nautical</t>
-<t id="p06-s03-t08">Almanac</t>
-<t id="p06-s03-t09" type="GSL-1">Office</t>
-<punc>,</punc>
-<t id="p06-s03-t10" type="GSL-2">calculating</t>
-<t id="p06-s03-t11" type="GSL-1">tables</t>
-<t id="p06-s03-t12" type="GSL-1">of</t>
-<t id="p06-s03-t13" type="GSL-1">positions</t>
-<t id="p06-s03-t14" type="GSL-1">of</t>
-<t id="p06-s03-t15">Venus</t>
-<punc>,</punc>
-<t id="p06-s03-t16" type="GSL-1">and</t>
-<t id="p06-s03-t17" type="GSL-1">traveled</t>
-<t id="p06-s03-t18" type="GSL-1">in</t>
-<t id="p06-s03-t19">Europe</t>
-<t id="p06-s03-t20" type="GSL-1">with</t>
-<t id="p06-s03-t21">Nathaniel</t>
-<t id="p06-s03-t22">Hawthorne</t>
-<t id="p06-s03-t23" type="GSL-1">and</t>
-<t id="p06-s03-t24" type="GSL-1">his</t>
-<t id="p06-s03-t25" type="GSL-1">family</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p07">
-<sentence par-function="topic|supporting|concluding" id="p07-s01">
-<anaphor id="p07-s01-a01" info="p06-s02-t01:p06-s02-t01">
-<t id="p07-s01-t01" type="GSL-1">She</t>
-</anaphor>
-<t id="p07-s01-t02" type="GSL-1">became</t>
-<t id="p07-s01-t03">professor</t>
-<t id="p07-s01-t04" type="GSL-1">of</t>
-<t id="p07-s01-t05">astronomy</t>
-<t id="p07-s01-t06" type="GSL-1">at</t>
-<t id="p07-s01-t07">Vassar</t>
-<t id="p07-s01-t08" type="GSL-1">College</t>
-<t id="p07-s01-t09" type="GSL-1">in</t>
-<t id="p07-s01-t10">1865</t>
-<punc>,</punc>
-<t id="p07-s01-t11" type="GSL-1">the</t>
-<t id="p07-s01-t12" type="GSL-1">first</t>
-<t id="p07-s01-t13" type="GSL-1">person</t>
-<t id="p07-s01-t14" type="GSL-1">appointed</t>
-<t id="p07-s01-t15" type="GSL-1">to</t>
-<t id="p07-s01-t16" type="GSL-1">the</t>
-<t id="p07-s01-t17">faculty</t>
-<punc>.</punc>
-<punc>[</punc>
-<t id="p07-s01-t18">18</t>
-<punc>]</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p07-s02">
-<anaphor id="p07-s02-a01" info="p06-s02-t01:p06-s02-t01">
-<t id="p07-s02-t01" type="GSL-1">She</t>
-</anaphor>
-<t id="p07-s02-t02" type="GSL-1">was</t>
-<t id="p07-s02-t03" type="GSL-1">also</t>
-<t id="p07-s02-t04" type="GSL-1">named</t>
-<t id="p07-s02-t05" type="GSL-1">as</t>
-<t id="p07-s02-t06" type="GSL-1">Director</t>
-<t id="p07-s02-t07" type="GSL-1">of</t>
-<t id="p07-s02-t08" type="GSL-1">the</t>
-<t id="p07-s02-t09">Vassar</t>
-<t id="p07-s02-t10" type="GSL-1">College</t>
-<t id="p07-s02-t11" type="GSL-1">Observatory</t>
-<punc>.</punc>
-<punc>[</punc>
-<t id="p07-s02-t12">4</t>
-<punc>]</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p07-s03">
-<connector id="p07-s03-c01" type="temporal sequence" info="p07-s01-t01:p07-s01-t17,p07-s03-t07:p07-s03-t25">
-<t id="p07-s03-t01" type="GSL-1">After</t>
-<t id="p07-s03-t02" type="GSL-1">teaching</t>
-<anaphor id="p07-s03-a01" info="p07-s01-t07:p07-s01-t08">
-<t id="p07-s03-t03" type="GSL-1">there</t>
-</anaphor>
-<t id="p07-s03-t04" type="GSL-1">for</t>
-<t id="p07-s03-t05" type="GSL-1">some</t>
-<t id="p07-s03-t06" type="GSL-1">time</t>
-</connector>
-<punc>,</punc>
-<anaphor id="p07-s03-a02" info="p06-s02-t01:p06-s02-t01">
-<t id="p07-s03-t07" type="GSL-1">she</t>
-</anaphor>
-<t id="p07-s03-t08" type="GSL-1">learned</t>
-<t id="p07-s03-t09" type="GSL-1">that</t>
-<t id="p07-s03-t10" type="Coxhead-AWL-4,AR-AWL-4a">despite</t>
-<anaphor id="p07-s03-a03" info="p06-s02-t01:p06-s02-t01">
-<t id="p07-s03-t11" type="GSL-1">her</t>
-</anaphor>
-<t id="p07-s03-t12" type="GSL-2">reputation</t>
-<t id="p07-s03-t13" type="GSL-1">and</t>
-<t id="p07-s03-t14" type="GSL-1">experience</t>
-<punc>,</punc>
-<anaphor id="p07-s03-a04" info="p06-s02-t01:p06-s02-t01">
-<t id="p07-s03-t15" type="GSL-1">her</t>
-</anaphor>
-<t id="p07-s03-t16" type="GSL-2">salary</t>
-<t id="p07-s03-t17" type="GSL-1">was</t>
-<t id="p07-s03-t18" type="GSL-1">less</t>
-<t id="p07-s03-t19" type="GSL-1">than</t>
-<anaphor id="p07-s03-a05" info="p07-s03-t16:p07-s03-t16">
-<t id="p07-s03-t20" type="GSL-1">that</t>
-</anaphor>
-<t id="p07-s03-t21" type="GSL-1">of</t>
-<t id="p07-s03-t22" type="GSL-1">many</t>
-<t id="p07-s03-t23" type="GSL-1">younger</t>
-<t id="p07-s03-t24" type="GSL-2">male</t>
-<t id="p07-s03-t25">professors</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p07-s04">
-<anaphor id="p07-s04-a01" info="p06-s02-t01:p06-s02-t01">
-<t id="p07-s04-t01" type="GSL-1">She</t>
-</anaphor>
-<t id="p07-s04-t02">insisted</t>
-<t id="p07-s04-t03" type="GSL-1">on</t>
-<t id="p07-s04-t04" type="GSL-1">a</t>
-<t id="p07-s04-t05" type="GSL-2">salary</t>
-<t id="p07-s04-t06" type="GSL-1">increase</t>
-<punc>,</punc>
-<t id="p07-s04-t07" type="GSL-1">and</t>
-<t id="p07-s04-t08" type="GSL-1">got</t>
-<anaphor id="p07-s04-a02" info="p07-s04-t05:p07-s04-t06">
-<t id="p07-s04-t09" type="GSL-1">it</t>
-</anaphor>
-<punc>.</punc>
-<punc>[</punc>
-<t id="p07-s04-t10">19</t>
-<punc>]</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p07-s05">
-<anaphor id="p07-s05-a01" info="p06-s02-t01:p06-s02-t01">
-<t id="p07-s05-t01" type="GSL-1">She</t>
-</anaphor>
-<t id="p07-s05-t02" type="GSL-1">taught</t>
-<t id="p07-s05-t03" type="GSL-1">at</t>
-<t id="p07-s05-t04" type="GSL-1">the</t>
-<t id="p07-s05-t05" type="GSL-1">college</t>
-<t id="p07-s05-t06" type="GSL-1">until</t>
-<anaphor id="p07-s05-a02" info="p06-s02-t01:p06-s02-t01">
-<t id="p07-s05-t07" type="GSL-1">her</t>
-</anaphor>
-<t id="p07-s05-t08" type="GSL-2">retirement</t>
-<t id="p07-s05-t09" type="GSL-1">in</t>
-<t id="p07-s05-t10">1888</t>
-<punc>,</punc>
-<t id="p07-s05-t11" type="GSL-1">one</t>
-<t id="p07-s05-t12" type="GSL-1">year</t>
-<t id="p07-s05-t13" type="GSL-1">before</t>
-<anaphor id="p07-s05-a03" info="p06-s02-t01:p06-s02-t01">
-<t id="p07-s05-t14" type="GSL-1">her</t>
-</anaphor>
-<t id="p07-s05-t15" type="GSL-1">death</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p08">
-<sentence par-function="topic|supporting|concluding" id="p08-s01">
-<t id="p08-s01-t01" type="GSL-1">In</t>
-<t id="p08-s01-t02">1842</t>
-<punc>,</punc>
-<anaphor id="p08-s01-a01" info="p06-s02-t01:p06-s02-t01">
-<t id="p08-s01-t03" type="GSL-1">she</t>
-</anaphor>
-<t id="p08-s01-t04" type="GSL-1">left</t>
-<t id="p08-s01-t05" type="GSL-1">the</t>
-<t id="p08-s01-t06">Quaker</t>
-<t id="p08-s01-t07" type="GSL-1">faith</t>
-<t id="p08-s01-t08" type="GSL-1">and</t>
-<t id="p08-s01-t09" type="GSL-1">followed</t>
-<t id="p08-s01-t10">Unitarian</t>
-<t id="p08-s01-t11" type="Coxhead-AWL-1,AR-AWL-1b">principles</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p08-s02">
-<t id="p08-s02-t01" type="GSL-1">In</t>
-<t id="p08-s02-t02">protest</t>
-<t id="p08-s02-t03" type="GSL-1">against</t>
-<t id="p08-s02-t04" type="GSL-2">slavery</t>
-<punc>,</punc>
-<anaphor id="p08-s02-a01" info="p06-s02-t01:p06-s02-t01">
-<t id="p08-s02-t05" type="GSL-1">she</t>
-</anaphor>
-<t id="p08-s02-t06" type="GSL-1">stopped</t>
-<t id="p08-s02-t07" type="GSL-1">wearing</t>
-<t id="p08-s02-t08" type="GSL-2">clothes</t>
-<t id="p08-s02-t09" type="GSL-1">made</t>
-<t id="p08-s02-t10" type="GSL-1">of</t>
-<t id="p08-s02-t11" type="GSL-1">cotton</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p08-s03">
-<anaphor id="p08-s03-a01" info="p06-s02-t01:p06-s02-t01">
-<t id="p08-s03-t01" type="GSL-1">She</t>
-</anaphor>
-<t id="p08-s03-t02" type="GSL-1">was</t>
-<t id="p08-s03-t03" type="GSL-1">friends</t>
-<t id="p08-s03-t04" type="GSL-1">with</t>
-<t id="p08-s03-t05" type="GSL-1">various</t>
-<t id="p08-s03-t06">suffragists</t>
-<t id="p08-s03-t07" type="GSL-1">such</t>
-<t id="p08-s03-t08" type="GSL-1">as</t>
-<t id="p08-s03-t09">Elizabeth</t>
-<t id="p08-s03-t10">Cady</t>
-<t id="p08-s03-t11">Stanton</t>
-<t id="p08-s03-t12" type="GSL-1">and</t>
-<t id="p08-s03-t13">co</t>
-<punc>-</punc>
-<t id="p08-s03-t14" type="Coxhead-AWL-9,AR-AWL-9a">founded</t>
-<t id="p08-s03-t15" type="GSL-1">the</t>
-<t id="p08-s03-t16">American</t>
-<t id="p08-s03-t17" type="GSL-1">Association</t>
-<t id="p08-s03-t18" type="GSL-1">for</t>
-<t id="p08-s03-t19" type="GSL-1">the</t>
-<t id="p08-s03-t20" type="GSL-1">Advancement</t>
-<t id="p08-s03-t21" type="GSL-1">of</t>
-<t id="p08-s03-t22" type="GSL-1">Women</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p09">
-<sentence par-function="topic|supporting|concluding" id="p09-s01">
-<t id="p09-s01-t01">Mitchell</t>
-<t id="p09-s01-t02" type="GSL-1">never</t>
-<t id="p09-s01-t03" type="GSL-1">married</t>
-<punc>,</punc>
-<t id="p09-s01-t04" type="GSL-1">but</t>
-<t id="p09-s01-t05" type="GSL-1">remained</t>
-<t id="p09-s01-t06" type="GSL-1">close</t>
-<t id="p09-s01-t07" type="GSL-1">to</t>
-<anaphor id="p09-s01-a01" info="p09-s01-t01:p09-s01-t01">
-<t id="p09-s01-t08" type="GSL-1">her</t>
-</anaphor>
-<t id="p09-s01-t09" type="GSL-2">immediate</t>
-<t id="p09-s01-t10" type="GSL-1">family</t>
-<t id="p09-s01-t11" type="GSL-1">throughout</t>
-<anaphor id="p09-s01-a02" info="p09-s01-t01:p09-s01-t01">
-<t id="p09-s01-t12" type="GSL-1">her</t>
-</anaphor>
-<t id="p09-s01-t13" type="GSL-1">life</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p09-s02">
-<t id="p09-s02-t01" type="GSL-1">After</t>
-<anaphor id="p09-s02-a01" info="p09-s01-t01:p09-s01-t01">
-<t id="p09-s02-t02" type="GSL-1">she</t>
-</anaphor>
-<t id="p09-s02-t03" type="GSL-2">retired</t>
-<t id="p09-s02-t04" type="GSL-1">from</t>
-<t id="p09-s02-t05">Vassar</t>
-<t id="p09-s02-t06" type="GSL-1">College</t>
-<t id="p09-s02-t07" type="GSL-1">in</t>
-<t id="p09-s02-t08">1888</t>
-<anaphor id="p09-s02-a02" info="p09-s01-t01:p09-s01-t01">
-<t id="p09-s02-t09" type="GSL-1">she</t>
-</anaphor>
-<t id="p09-s02-t10" type="GSL-1">lived</t>
-<t id="p09-s02-t11" type="GSL-1">in</t>
-<t id="p09-s02-t12">Lynn</t>
-<punc>,</punc>
-<t id="p09-s02-t13">Massachusetts</t>
-<t id="p09-s02-t14" type="GSL-1">with</t>
-<anaphor id="p09-s02-a03" info="p09-s01-t01:p09-s01-t01">
-<t id="p09-s02-t15" type="GSL-1">her</t>
-</anaphor>
-<t id="p09-s02-t16" type="GSL-1">sister</t>
-<t id="p09-s02-t17">Kate</t>
-<t id="p09-s02-t18" type="GSL-1">and</t>
-<anaphor id="p09-s02-a04" info="p09-s01-t01:p09-s01-t01">
-<t id="p09-s02-t19" type="GSL-1">her</t>
-</anaphor>
-<t id="p09-s02-t20" type="GSL-1">family</t>
-<punc>.</punc>
-<punc>[</punc>
-<t id="p09-s02-t21">20</t>
-<punc>]</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p09-s03">
-<t id="p09-s03-t01" type="GSL-1">There</t>
-<t id="p09-s03-t02" type="GSL-1">are</t>
-<t id="p09-s03-t03" type="GSL-1">very</t>
-<t id="p09-s03-t04" type="GSL-1">few</t>
-<t id="p09-s03-t05" type="GSL-1">of</t>
-<anaphor id="p09-s03-a01" info="p09-s01-t01:p09-s01-t01">
-<t id="p09-s03-t06" type="GSL-1">her</t>
-</anaphor>
-<t id="p09-s03-t07" type="GSL-1">personal</t>
-<t id="p09-s03-t08" type="Coxhead-AWL-3,AR-AWL-3a">documents</t>
-<t id="p09-s03-t09" type="GSL-1">from</t>
-<t id="p09-s03-t10" type="GSL-1">before</t>
-<t id="p09-s03-t11">1846</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p09-s04">
-<t id="p09-s04-t01" type="GSL-1">The</t>
-<t id="p09-s04-t02">Mitchell</t>
-<t id="p09-s04-t03" type="GSL-1">Family</t>
-<t id="p09-s04-t04" type="GSL-1">believes</t>
-<anaphor id="p09-s04-a01" info="p09-s01-t01:p09-s01-t01">
-<t id="p09-s04-t05" type="GSL-1">she</t>
-</anaphor>
-<t id="p09-s04-t06" type="GSL-2">witnessed</t>
-<t id="p09-s04-t07" type="GSL-1">personal</t>
-<t id="p09-s04-t08" type="GSL-1">papers</t>
-<t id="p09-s04-t09" type="GSL-1">of</t>
-<t id="p09-s04-t10" type="GSL-1">fellow</t>
-<t id="p09-s04-t11">Nantucketers</t>
-<t id="p09-s04-t12" type="GSL-1">blown</t>
-<t id="p09-s04-t13" type="GSL-1">through</t>
-<t id="p09-s04-t14" type="GSL-1">the</t>
-<t id="p09-s04-t15" type="GSL-1">street</t>
-<t id="p09-s04-t16" type="GSL-1">by</t>
-<t id="p09-s04-t17" type="GSL-1">the</t>
-<t id="p09-s04-t18" type="GSL-1">Great</t>
-<t id="p09-s04-t19" type="GSL-1">Fire</t>
-<t id="p09-s04-t20" type="GSL-1">of</t>
-<t id="p09-s04-t21">1846</t>
-<t id="p09-s04-t22" type="GSL-1">and</t>
-<t id="p09-s04-t23" type="GSL-1">because</t>
-<t id="p09-s04-t24" type="GSL-1">there</t>
-<t id="p09-s04-t25" type="GSL-1">was</t>
-<t id="p09-s04-t26" type="GSL-1">a</t>
-<t id="p09-s04-t27" type="Coxhead-AWL-10,AR-AWL-10">persistent</t>
-<t id="p09-s04-t28" type="GSL-1">fear</t>
-<t id="p09-s04-t29" type="GSL-1">of</t>
-<t id="p09-s04-t30" type="GSL-1">another</t>
-<t id="p09-s04-t31" type="GSL-1">fire</t>
-<anaphor id="p09-s04-a02" info="p09-s01-t01:p09-s01-t01">
-<t id="p09-s04-t32" type="GSL-1">she</t>
-</anaphor>
-<t id="p09-s04-t33" type="GSL-1">burned</t>
-<anaphor id="p09-s04-a03" info="p09-s01-t01:p09-s01-t01">
-<t id="p09-s04-t34" type="GSL-1">her</t>
-</anaphor>
-<t id="p09-s04-t35" type="GSL-1">own</t>
-<t id="p09-s04-t36" type="Coxhead-AWL-3,AR-AWL-3a">documents</t>
-<t id="p09-s04-t37" type="GSL-1">to</t>
-<t id="p09-s04-t38" type="GSL-1">keep</t>
-<t id="p09-s04-t39" type="GSL-1">them</t>
-<t id="p09-s04-t40" type="GSL-1">private</t>
-<punc>.</punc>
-<punc>[</punc>
-<t id="p09-s04-t41">21</t>
-<punc>]</punc>
-</sentence>
-</paragraph>
-<paragraph id="p10">
-<sentence par-function="topic|supporting|concluding" id="p10-s01">
-<t id="p10-s01-t01">Mitchell</t>
-<t id="p10-s01-t02" type="GSL-1">died</t>
-<t id="p10-s01-t03" type="GSL-1">on</t>
-<t id="p10-s01-t04" type="GSL-1">June</t>
-<t id="p10-s01-t05">28</t>
-<punc>,</punc>
-<t id="p10-s01-t06">1889</t>
-<punc>,</punc>
-<t id="p10-s01-t07" type="GSL-1">at</t>
-<t id="p10-s01-t08" type="GSL-1">the</t>
-<t id="p10-s01-t09" type="GSL-1">age</t>
-<t id="p10-s01-t10" type="GSL-1">of</t>
-<t id="p10-s01-t11">70</t>
-<punc>,</punc>
-<t id="p10-s01-t12" type="GSL-1">in</t>
-<t id="p10-s01-t13">Lynn</t>
-<punc>,</punc>
-<t id="p10-s01-t14">Massachusetts</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p10-s02">
-<anaphor id="p10-s02-a01" info="p10-s01-t01:p10-s01-t01">
-<t id="p10-s02-t01" type="GSL-1">She</t>
-</anaphor>
-<t id="p10-s02-t02" type="GSL-1">was</t>
-<t id="p10-s02-t03" type="GSL-2">buried</t>
-<t id="p10-s02-t04" type="GSL-1">in</t>
-<t id="p10-s02-t05" type="GSL-2">Lot</t>
-<t id="p10-s02-t06">411</t>
-<punc>,</punc>
-<t id="p10-s02-t07" type="GSL-1">in</t>
-<t id="p10-s02-t08" type="Coxhead-AWL-8,AR-AWL-8b">Prospect</t>
-<t id="p10-s02-t09" type="GSL-1">Hill</t>
-<t id="p10-s02-t10">Cemetery</t>
-<punc>,</punc>
-<t id="p10-s02-t11">Nantucket</t>
-<punc>.</punc>
-<punc>[</punc>
-<t id="p10-s02-t12">22</t>
-<punc>]</punc>
-<punc>[</punc>
-<t id="p10-s02-t13">23</t>
-<punc>]</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p10-s03">
-<t id="p10-s03-t01" type="GSL-1">The</t>
-<t id="p10-s03-t02">Maria</t>
-<t id="p10-s03-t03">Mitchell</t>
-<t id="p10-s03-t04" type="GSL-1">Observatory</t>
-<t id="p10-s03-t05" type="GSL-1">in</t>
-<t id="p10-s03-t06">Nantucket</t>
-<t id="p10-s03-t07" type="GSL-1">is</t>
-<t id="p10-s03-t08" type="GSL-1">named</t>
-<t id="p10-s03-t09" type="GSL-1">in</t>
-<anaphor id="p10-s03-a01" info="p10-s01-t01:p10-s01-t01">
-<t id="p10-s03-t10" type="GSL-1">her</t>
-</anaphor>
-<t id="p10-s03-t11" type="GSL-1">honor</t>
-<punc>[</punc>
-<t id="p10-s03-t12">24</t>
-<punc>]</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p10-s04">
-<anaphor id="p10-s04-a01" info="p10-s03-t02:p10-s03-t04">
-<t id="p10-s04-t01" type="GSL-1">The</t>
-<t id="p10-s04-t02" type="GSL-1">Observatory</t>
-</anaphor>
-<t id="p10-s04-t03" type="GSL-1">is</t>
-<t id="p10-s04-t04" type="GSL-1">part</t>
-<t id="p10-s04-t05" type="GSL-1">of</t>
-<t id="p10-s04-t06" type="GSL-1">the</t>
-<t id="p10-s04-t07">Maria</t>
-<t id="p10-s04-t08">Mitchell</t>
-<t id="p10-s04-t09" type="GSL-1">Association</t>
-<t id="p10-s04-t10" type="GSL-1">in</t>
-<t id="p10-s04-t11">Nantucket</t>
-<punc>,</punc>
-<t id="p10-s04-t12" type="GSL-1">which</t>
-<t id="p10-s04-t13" type="GSL-2">aims</t>
-<t id="p10-s04-t14" type="GSL-1">to</t>
-<t id="p10-s04-t15" type="GSL-2">preserve</t>
-<t id="p10-s04-t16" type="GSL-1">the</t>
-<t id="p10-s04-t17" type="GSL-1">sciences</t>
-<t id="p10-s04-t18" type="GSL-1">on</t>
-<anaphor id="p10-s04-a02" info="p10-s04-t11:p10-s04-t11">
-<t id="p10-s04-t19" type="GSL-1">the</t>
-<t id="p10-s04-t20" type="GSL-2">island</t>
-</anaphor>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p10-s05">
-<anaphor id="p10-s05-a01" info="p10-s04-t07:p10-s04-t09">
-<t id="p10-s05-t01" type="GSL-1">It</t>
-</anaphor>
-<t id="p10-s05-t02" type="GSL-1">operates</t>
-<t id="p10-s05-t03" type="GSL-1">a</t>
-<t id="p10-s05-t04" type="GSL-1">Natural</t>
-<t id="p10-s05-t05" type="GSL-1">History</t>
-<t id="p10-s05-t06">Museum</t>
-<punc>,</punc>
-<t id="p10-s05-t07">Maria</t>
-<t id="p10-s05-t08">Mitchell's</t>
-<t id="p10-s05-t09" type="GSL-1">Home</t>
-<t id="p10-s05-t10">Museum</t>
-<punc>,</punc>
-<t id="p10-s05-t11" type="GSL-1">and</t>
-<t id="p10-s05-t12" type="GSL-1">the</t>
-<t id="p10-s05-t13" type="GSL-1">Science</t>
-<t id="p10-s05-t14" type="GSL-1">Library</t>
-<t id="p10-s05-t15" type="GSL-1">as</t>
-<t id="p10-s05-t16" type="GSL-1">well</t>
-<t id="p10-s05-t17" type="GSL-1">as</t>
-<anaphor id="p10-s05-a02" info="p10-s03-t02:p10-s03-t04">
-<t id="p10-s05-t18" type="GSL-1">the</t>
-<t id="p10-s05-t19" type="GSL-1">Observatory</t>
-</anaphor>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p10-s06">
-<anaphor id="p10-s06-a01" info="p10-s01-t01:p10-s01-t01">
-<t id="p10-s06-t01" type="GSL-1">She</t>
-</anaphor>
-<t id="p10-s06-t02" type="GSL-1">was</t>
-<t id="p10-s06-t03" type="GSL-1">also</t>
-<t id="p10-s06-t04">posthumously</t>
-<t id="p10-s06-t05">inducted</t>
-<t id="p10-s06-t06" type="GSL-1">into</t>
-<t id="p10-s06-t07" type="GSL-1">the</t>
-<t id="p10-s06-t08" type="GSL-1">US</t>
-<t id="p10-s06-t09" type="GSL-1">National</t>
-<t id="p10-s06-t10">Women's</t>
-<t id="p10-s06-t11" type="GSL-2">Hall</t>
-<t id="p10-s06-t12" type="GSL-1">of</t>
-<t id="p10-s06-t13">Fame</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p10-s07">
-<anaphor id="p10-s07-a01" info="p10-s01-t01:p10-s01-t01">
-<t id="p10-s07-t01" type="GSL-1">She</t>
-</anaphor>
-<t id="p10-s07-t02" type="GSL-1">was</t>
-<t id="p10-s07-t03" type="GSL-1">the</t>
-<t id="p10-s07-t04">namesake</t>
-<t id="p10-s07-t05" type="GSL-1">of</t>
-<t id="p10-s07-t06" type="GSL-1">a</t>
-<t id="p10-s07-t07" type="GSL-1">World</t>
-<t id="p10-s07-t08" type="GSL-1">War</t>
-<t id="p10-s07-t09">II</t>
-<t id="p10-s07-t10" type="GSL-2">Liberty</t>
-<t id="p10-s07-t11" type="GSL-1">ship</t>
-<punc>,</punc>
-<t id="p10-s07-t12" type="GSL-1">the</t>
-<t id="p10-s07-t13">SS</t>
-<t id="p10-s07-t14">Maria</t>
-<t id="p10-s07-t15">Mitchell</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p10-s08">
-<t id="p10-s08-t01" type="GSL-1">New</t>
-<t id="p10-s08-t02">York's</t>
-<t id="p10-s08-t03">Metro</t>
-<t id="p10-s08-t04" type="GSL-1">North</t>
-<t id="p10-s08-t05">commuter</t>
-<t id="p10-s08-t06" type="GSL-2">railroad</t>
-<punc>(</punc>
-<t id="p10-s08-t07" type="GSL-1">with</t>
-<anaphor id="p10-s08-a01" info="p10-s08-t01:p10-s08-t06">
-<t id="p10-s08-t08" type="GSL-1">its</t>
-<t id="p10-s08-t09">Hudson</t>
-</anaphor>
-<t id="p10-s08-t10" type="GSL-1">Line</t>
-<t id="p10-s08-t11">endpoint</t>
-<t id="p10-s08-t12" type="GSL-1">in</t>
-<t id="p10-s08-t13">Poughkeepsie</t>
-<t id="p10-s08-t14" type="GSL-1">near</t>
-<t id="p10-s08-t15">Vassar</t>
-<t id="p10-s08-t16" type="GSL-1">College</t>
-<punc>)</punc>
-<t id="p10-s08-t17" type="GSL-1">has</t>
-<t id="p10-s08-t18" type="GSL-1">a</t>
-<t id="p10-s08-t19" type="GSL-1">train</t>
-<t id="p10-s08-t20" type="GSL-1">named</t>
-<emph>
-<t id="p10-s08-t21" type="GSL-1">The</t>
-<t id="p10-s08-t22">Maria</t>
-<t id="p10-s08-t23">Mitchell</t>
-<t id="p10-s08-t24">Comet</t>
-</emph>
-<t id="p10-s08-t25" type="GSL-1">in</t>
-<anaphor id="p10-s08-a02" info="p10-s01-t01:p10-s01-t01">
-<t id="p10-s08-t26" type="GSL-1">her</t>
-</anaphor>
-<t id="p10-s08-t27" type="GSL-1">honor</t>
-<punc>.</punc>
-</sentence>
-<sentence par-function="topic|supporting|concluding" id="p10-s09">
-<t id="p10-s09-t01" type="GSL-1">On</t>
-<t id="p10-s09-t02" type="GSL-1">August</t>
-<t id="p10-s09-t03">1</t>
-<punc>,</punc>
-<t id="p10-s09-t04">2013</t>
-<punc>,</punc>
-<t id="p10-s09-t05" type="GSL-1">the</t>
-<t id="p10-s09-t06" type="GSL-2">search</t>
-<t id="p10-s09-t07" type="GSL-2">engine</t>
-<t id="p10-s09-t08">Google</t>
-<t id="p10-s09-t09" type="GSL-1">honored</t>
-<t id="p10-s09-t10">Maria</t>
-<t id="p10-s09-t11">Mitchell</t>
-<t id="p10-s09-t12" type="GSL-1">with</t>
-<t id="p10-s09-t13" type="GSL-1">a</t>
-<t id="p10-s09-t14">Google</t>
-<t id="p10-s09-t15">doodle</t>
-<t id="p10-s09-t16" type="GSL-1">showing</t>
-<anaphor id="p10-s09-a01" info="p10-s09-t10:p10-s09-t11">
-<t id="p10-s09-t17" type="GSL-1">her</t>
-</anaphor>
-<t id="p10-s09-t18" type="GSL-1">in</t>
-<t id="p10-s09-t19">cartoon</t>
-<t id="p10-s09-t20" type="GSL-1">form</t>
-<t id="p10-s09-t21" type="GSL-1">on</t>
-<t id="p10-s09-t22" type="GSL-1">top</t>
-<t id="p10-s09-t23" type="GSL-1">of</t>
-<t id="p10-s09-t24" type="GSL-1">a</t>
-<t id="p10-s09-t25" type="GSL-2">roof</t>
-<t id="p10-s09-t26">gazing</t>
-<t id="p10-s09-t27" type="GSL-1">through</t>
-<t id="p10-s09-t28" type="GSL-1">a</t>
-<t id="p10-s09-t29">telescope</t>
-<t id="p10-s09-t30" type="GSL-1">in</t>
-<t id="p10-s09-t31" type="GSL-2">search</t>
-<t id="p10-s09-t32" type="GSL-1">of</t>
-<t id="p10-s09-t33">comets</t>
-<punc>.</punc>
-<punc>[</punc>
-<t id="p10-s09-t34">25</t>
-<punc>]</punc>
-<punc>[</punc>
-<t id="p10-s09-t35">26</t>
-<punc>]</punc>
-<punc>[</punc>
-<t id="p10-s09-t36">27</t>
-<punc>]</punc>
-</sentence>
-</paragraph>
-</body>
+    <title>Maria Mitchell</title>
+    <citation>Wikipedia:"Maria Mitchell". Retrieved from 
+        https://en.wikipedia.org/wiki/Maria_Mitchell on 04 Oct 2016.</citation>
+    <url>https://en.wikipedia.org/wiki/Maria_Mitchell</url>
+    <body>
+        <paragraph id="p01">
+            <sentence par-function="topic" id="p01-s01">
+                <t id="p01-s01-t01">Maria</t>
+                <t id="p01-s01-t02">Mitchell</t>
+                <t id="p01-s01-t03" type="GSL-1">was</t>
+                <t id="p01-s01-t04" type="GSL-1">born</t>
+                <t id="p01-s01-t05" type="GSL-1">in</t>
+                <t id="p01-s01-t06">Nantucket</t>
+                <punc>,</punc>
+                <t id="p01-s01-t07">Massachusetts</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s02">
+                <anaphor id="p01-s02-a01" info="p01-s01-t01:p01-s01-t02">
+                    <t id="p01-s02-t01" type="GSL-1">She</t>
+                </anaphor>
+                <t id="p01-s02-t02" type="GSL-1">was</t>
+                <t id="p01-s02-t03" type="GSL-1">the</t>
+                <t id="p01-s02-t04" type="GSL-1">great</t>
+                <punc>-</punc>
+                <t id="p01-s02-t05" type="GSL-1">great</t>
+                <punc>-</punc>
+                <t id="p01-s02-t06" type="GSL-1">great</t>
+                <punc>-</punc>
+                <t id="p01-s02-t07" type="GSL-1">great</t>
+                <t id="p01-s02-t08" type="GSL-2">granddaughter</t>
+                <t id="p01-s02-t09" type="GSL-1">of</t>
+                <t id="p01-s02-t10">Peter</t>
+                <t id="p01-s02-t11">Foulger</t>
+                <t id="p01-s02-t12" type="GSL-1">and</t>
+                <t id="p01-s02-t13">Mary</t>
+                <t id="p01-s02-t14">Morrill</t>
+                <t id="p01-s02-t15">Foulger</t>
+                <punc>,</punc>
+                <t id="p01-s02-t16" type="GSL-1">and</t>
+                <t id="p01-s02-t17" type="GSL-1">through</t>
+                <anaphor id="p01-s02-a02" info="p01-s02-t10:p01-s02-t15">
+                    <t id="p01-s02-t18" type="GSL-1">them</t>
+                </anaphor>
+                <t id="p01-s02-t19" type="GSL-1">was</t>
+                <t id="p01-s02-t20" type="GSL-1">a</t>
+                <t id="p01-s02-t21" type="GSL-1">first</t>
+                <t id="p01-s02-t22" type="GSL-2">cousin</t>
+                <t id="p01-s02-t23" type="GSL-1">four</t>
+                <t id="p01-s02-t24" type="GSL-1">times</t>
+                <t id="p01-s02-t25" type="Coxhead-AWL-3,AR-AWL-3b">removed</t>
+                <t id="p01-s02-t26" type="GSL-1">of</t>
+                <t id="p01-s02-t27">Benjamin</t>
+                <t id="p01-s02-t28">Franklin</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s03">
+                <anaphor id="p01-s03-a01" info="p01-s01-t01:p01-s01-t02">
+                    <t id="p01-s03-t01" type="GSL-1">She</t>
+                </anaphor>
+                <t id="p01-s03-t02" type="GSL-1">had</t>
+                <t id="p01-s03-t03" type="GSL-1">nine</t>
+                <t id="p01-s03-t04" type="GSL-1">brothers</t>
+                <t id="p01-s03-t05" type="GSL-1">and</t>
+                <t id="p01-s03-t06" type="GSL-1">sisters</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s04">
+                <anaphor id="p01-s04-a01" info="p01-s01-t01:p01-s01-t02">
+                    <t id="p01-s04-t01" type="GSL-1">Her</t>
+                </anaphor>
+                <t id="p01-s04-t02" type="GSL-2">parents</t>
+                <punc>,</punc>
+                <t id="p01-s04-t03">William</t>
+                <t id="p01-s04-t04">Mitchell</t>
+                <t id="p01-s04-t05" type="GSL-1">and</t>
+                <t id="p01-s04-t06">Lydia</t>
+                <t id="p01-s04-t07">Coleman</t>
+                <t id="p01-s04-t08">Mitchell</t>
+                <punc>,</punc>
+                <t id="p01-s04-t09" type="GSL-1">were</t>
+                <t id="p01-s04-t10">Quakers</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s05">
+                <t id="p01-s05-t01">Maria</t>
+                <t id="p01-s05-t02">Mitchell</t>
+                <t id="p01-s05-t03" type="GSL-1">was</t>
+                <t id="p01-s05-t04" type="GSL-1">born</t>
+                <t id="p01-s05-t05" type="GSL-1">into</t>
+                <t id="p01-s05-t06" type="GSL-1">a</t>
+                <t id="p01-s05-t07" type="Coxhead-AWL-2,AR-AWL-2a">community</t>
+                <t id="p01-s05-t08" type="GSL-1">unusual</t>
+                <t id="p01-s05-t09" type="GSL-1">for</t>
+                <anaphor id="p01-s05-a01" info="p01-s05-t07:p01-s05-t07">
+                    <t id="p01-s05-t10" type="GSL-1">its</t>
+                </anaphor>
+                <t id="p01-s05-t11" type="GSL-1">time</t>
+                <t id="p01-s05-t12" type="GSL-1">in</t>
+                <t id="p01-s05-t13" type="GSL-1">regard</t>
+                <t id="p01-s05-t14" type="GSL-1">to</t>
+                <t id="p01-s05-t15" type="GSL-1">equality</t>
+                <t id="p01-s05-t16" type="GSL-1">for</t>
+                <t id="p01-s05-t17" type="GSL-1">women</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s06">
+                <anaphor id="p01-s06-a01" info="p01-s05-t01:p01-s05-t02">
+                    <t id="p01-s06-t01" type="GSL-1">Her</t>
+                </anaphor>
+                <t id="p01-s06-t02" type="GSL-2">parents</t>
+                <punc>,</punc>
+                <t id="p01-s06-t03" type="GSL-1">like</t>
+                <t id="p01-s06-t04" type="GSL-1">other</t>
+                <t id="p01-s06-t05">Quakers</t>
+                <punc>,</punc>
+                <t id="p01-s06-t06" type="GSL-1">valued</t>
+                <t id="p01-s06-t07" type="GSL-2">education</t>
+                <t id="p01-s06-t08" type="GSL-1">and</t>
+                <t id="p01-s06-t09">insisted</t>
+                <t id="p01-s06-t10" type="GSL-1">on</t>
+                <t id="p01-s06-t11" type="GSL-1">giving</t>
+                <anaphor id="p01-s06-a02" info="p01-s05-t01:p01-s05-t02">
+                    <t id="p01-s06-t12" type="GSL-1">her</t>
+                </anaphor>
+                <t id="p01-s06-t13" type="GSL-1">the</t>
+                <t id="p01-s06-t14" type="GSL-1">same</t>
+                <t id="p01-s06-t15" type="GSL-1">quality</t>
+                <t id="p01-s06-t16" type="GSL-1">of</t>
+                <t id="p01-s06-t17" type="GSL-2">education</t>
+                <t id="p01-s06-t18" type="GSL-1">that</t>
+                <t id="p01-s06-t19" type="GSL-1">boys</t>
+                <t id="p01-s06-t20" type="GSL-1">received</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s07">
+                <t id="p01-s07-t01" type="GSL-1">One</t>
+                <t id="p01-s07-t02" type="GSL-1">of</t>
+                <t id="p01-s07-t03" type="GSL-1">the</t>
+                <t id="p01-s07-t04">tenets</t>
+                <t id="p01-s07-t05" type="GSL-1">of</t>
+                <t id="p01-s07-t06" type="GSL-1">the</t>
+                <t id="p01-s07-t07">Quaker</t>
+                <t id="p01-s07-t08" type="GSL-1">religion</t>
+                <t id="p01-s07-t09" type="GSL-1">was</t>
+                <t id="p01-s07-t10">intellectual</t>
+                <t id="p01-s07-t11" type="GSL-1">equality</t>
+                <t id="p01-s07-t12" type="GSL-1">between</t>
+                <t id="p01-s07-t13" type="GSL-1">the</t>
+                <t id="p01-s07-t14" type="Coxhead-AWL-3,AR-AWL-3b">sexes</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s08">
+                <connector id="p01-s08-c01" type="elaboration" info="p01-s07-t01:p01-s07-t14,p01-s08-t02:p01-s08-t28">
+                    <t id="p01-s08-t01">Additionally</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p01-s08-t02">Nantucket's</t>
+                <t id="p01-s08-t03" type="GSL-1">importance</t>
+                <t id="p01-s08-t04" type="GSL-1">as</t>
+                <t id="p01-s08-t05" type="GSL-1">a</t>
+                <t id="p01-s08-t06">whaling</t>
+                <t id="p01-s08-t07">port</t>
+                <t id="p01-s08-t08" type="GSL-1">meant</t>
+                <t id="p01-s08-t09" type="GSL-1">that</t>
+                <t id="p01-s08-t10" type="GSL-1">wives</t>
+                <t id="p01-s08-t11" type="GSL-1">of</t>
+                <t id="p01-s08-t12" type="GSL-1">sailors</t>
+                <t id="p01-s08-t13" type="GSL-1">were</t>
+                <t id="p01-s08-t14" type="GSL-1">left</t>
+                <t id="p01-s08-t15" type="GSL-1">for</t>
+                <t id="p01-s08-t16" type="GSL-1">months</t>
+                <t id="p01-s08-t17" type="GSL-1">and</t>
+                <t id="p01-s08-t18" type="GSL-1">sometimes</t>
+                <t id="p01-s08-t19" type="GSL-1">years</t>
+                <t id="p01-s08-t20" type="GSL-1">to</t>
+                <t id="p01-s08-t21" type="GSL-2">manage</t>
+                <t id="p01-s08-t22" type="GSL-1">affairs</t>
+                <t id="p01-s08-t23" type="GSL-1">while</t>
+                <anaphor id="p01-s08-a01" info="p01-s08-t10:p01-s08-t12">
+                    <t id="p01-s08-t24" type="GSL-1">their</t>
+                </anaphor>
+                <t id="p01-s08-t25" type="GSL-1">husbands</t>
+                <t id="p01-s08-t26" type="GSL-1">were</t>
+                <t id="p01-s08-t27" type="GSL-1">at</t>
+                <t id="p01-s08-t28" type="GSL-1">sea</t>
+                <punc>,</punc>
+                <t id="p01-s08-t29" type="GSL-1">thus</t>
+                <t id="p01-s08-t30">fostering</t>
+                <t id="p01-s08-t31" type="GSL-1">an</t>
+                <t id="p01-s08-t32">atmosphere</t>
+                <t id="p01-s08-t33" type="GSL-1">of</t>
+                <t id="p01-s08-t34" type="GSL-1">relative</t>
+                <t id="p01-s08-t35" type="GSL-1">independence</t>
+                <t id="p01-s08-t36" type="GSL-1">and</t>
+                <t id="p01-s08-t37" type="GSL-1">equality</t>
+                <t id="p01-s08-t38" type="GSL-1">for</t>
+                <t id="p01-s08-t39" type="GSL-1">the</t>
+                <t id="p01-s08-t40" type="GSL-1">women</t>
+                <t id="p01-s08-t41" type="GSL-1">who</t>
+                <t id="p01-s08-t42" type="GSL-1">called</t>
+                <t id="p01-s08-t43" type="GSL-1">the</t>
+                <t id="p01-s08-t44" type="GSL-2">island</t>
+                <t id="p01-s08-t45" type="GSL-1">home</t>
+                <punc>.</punc>
+                <punc>[</punc>
+                <t id="p01-s08-t46">8</t>
+                <punc>]</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence par-function="topic" id="p02-s01">
+                <t id="p02-s01-t01" type="GSL-1">After</t>
+                <t id="p02-s01-t02" type="GSL-2">attending</t>
+                <t id="p02-s01-t03">Elizabeth</t>
+                <t id="p02-s01-t04">Gardener's</t>
+                <t id="p02-s01-t05" type="GSL-1">small</t>
+                <t id="p02-s01-t06" type="GSL-1">school</t>
+                <t id="p02-s01-t07" type="GSL-1">in</t>
+                <anaphor id="p02-s01-a01" info="p01-s05-t01:p01-s05-t02">
+                    <t id="p02-s01-t08" type="GSL-1">her</t>
+                </anaphor>
+                <t id="p02-s01-t09" type="GSL-1">earliest</t>
+                <t id="p02-s01-t10" type="GSL-1">childhood</t>
+                <t id="p02-s01-t11" type="GSL-1">years</t>
+                <punc>,</punc>
+                <t id="p02-s01-t12">Maria</t>
+                <t id="p02-s01-t13" type="GSL-2">attended</t>
+                <t id="p02-s01-t14" type="GSL-1">the</t>
+                <t id="p02-s01-t15" type="GSL-1">North</t>
+                <t id="p02-s01-t16" type="GSL-2">Grammar</t>
+                <t id="p02-s01-t17" type="GSL-1">school</t>
+                <punc>,</punc>
+                <t id="p02-s01-t18" type="GSL-1">where</t>
+                <t id="p02-s01-t19">William</t>
+                <t id="p02-s01-t20">Mitchell</t>
+                <t id="p02-s01-t21" type="GSL-1">was</t>
+                <t id="p02-s01-t22" type="GSL-1">the</t>
+                <t id="p02-s01-t23" type="GSL-1">first</t>
+                <t id="p02-s01-t24" type="Coxhead-AWL-4,AR-AWL-4b">principal</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p02-s02">
+                <t id="p02-s02-t01" type="GSL-1">Two</t>
+                <t id="p02-s02-t02" type="GSL-1">years</t>
+                <t id="p02-s02-t03" type="GSL-1">following</t>
+                <t id="p02-s02-t04" type="GSL-1">the</t>
+                <t id="p02-s02-t05" type="Coxhead-AWL-9,AR-AWL-9a">founding</t>
+                <t id="p02-s02-t06" type="GSL-1">of</t>
+                <anaphor id="p02-s02-a01" info="p02-s01-t15:p02-s01-t17">
+                    <t id="p02-s02-t07" type="GSL-1">that</t>
+                    <t id="p02-s02-t08" type="GSL-1">school</t>
+                </anaphor>
+                <punc>,</punc>
+                <connector id="p02-s02-c01" type="temporal sequence" info="p02-s02-t13:p02-s02-t21,p02-s02-t10:p02-s02-t12">
+                    <t id="p02-s02-t09" type="GSL-1">when</t>
+                </connector>
+                <t id="p02-s02-t10">Maria</t>
+                <t id="p02-s02-t11" type="GSL-1">was</t>
+                <t id="p02-s02-t12" type="GSL-1">eleven</t>
+                <punc>,</punc>
+                <anaphor id="p02-s02-a02" info="p02-s02-t10:p02-s02-t10">
+                    <t id="p02-s02-t13" type="GSL-1">her</t>
+                </anaphor>
+                <t id="p02-s02-t14" type="GSL-1">father</t>
+                <t id="p02-s02-t15" type="GSL-1">built</t>
+                <anaphor id="p02-s02-a03" info="p02-s02-t13:p02-s02-t14">
+                    <t id="p02-s02-t16" type="GSL-1">his</t>
+                </anaphor>
+                <t id="p02-s02-t17" type="GSL-1">own</t>
+                <t id="p02-s02-t18" type="GSL-1">school</t>
+                <t id="p02-s02-t19" type="GSL-1">on</t>
+                <t id="p02-s02-t20">Howard</t>
+                <t id="p02-s02-t21" type="GSL-1">Street</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p02-s03">
+                <t id="p02-s03-t01" type="GSL-1">There</t>
+                <punc>,</punc>
+                <anaphor id="p02-s03-a01" info="p02-s02-t10:p02-s02-t10">
+                    <t id="p02-s03-t02" type="GSL-1">she</t>
+                </anaphor>
+                <t id="p02-s03-t03" type="GSL-1">was</t>
+                <t id="p02-s03-t04" type="GSL-1">a</t>
+                <t id="p02-s03-t05" type="GSL-1">student</t>
+                <t id="p02-s03-t06" type="GSL-1">and</t>
+                <t id="p02-s03-t07" type="GSL-1">also</t>
+                <t id="p02-s03-t08" type="GSL-1">a</t>
+                <t id="p02-s03-t09" type="GSL-1">teaching</t>
+                <t id="p02-s03-t10" type="Coxhead-AWL-2,AR-AWL-2a">assistant</t>
+                <t id="p02-s03-t11" type="GSL-1">to</t>
+                <anaphor id="p02-s03-a02" info="p02-s02-t10:p02-s02-t10">
+                    <t id="p02-s03-t12" type="GSL-1">her</t>
+                </anaphor>
+                <t id="p02-s03-t13" type="GSL-1">father</t>
+                <punc>.</punc>
+                <punc>[</punc>
+                <t id="p02-s03-t14">9</t>
+                <punc>]</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p02-s04">
+                <t id="p02-s04-t01" type="GSL-1">At</t>
+                <t id="p02-s04-t02" type="GSL-1">home</t>
+                <punc>,</punc>
+                <t id="p02-s04-t03">Maria's</t>
+                <t id="p02-s04-t04" type="GSL-1">father</t>
+                <t id="p02-s04-t05" type="GSL-1">taught</t>
+                <anaphor id="p02-s04-a01" info="p02-s02-t10:p02-s02-t10">
+                    <t id="p02-s04-t06" type="GSL-1">her</t>
+                </anaphor>
+                <t id="p02-s04-t07">astronomy</t>
+                <t id="p02-s04-t08" type="GSL-1">using</t>
+                <anaphor id="p02-s04-a02" info="p02-s04-t03:p02-s04-t04">
+                    <t id="p02-s04-t09" type="GSL-1">his</t>
+                </anaphor>
+                <t id="p02-s04-t10" type="GSL-1">personal</t>
+                <t id="p02-s04-t11">telescope</t>
+                <punc>.</punc>
+                <punc>[</punc>
+                <t id="p02-s04-t12">10</t>
+                <punc>]</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p02-s05">
+                <t id="p02-s05-t01" type="GSL-1">At</t>
+                <t id="p02-s05-t02" type="GSL-1">age</t>
+                <t id="p02-s05-t03" type="GSL-1">twelve</t>
+                <t id="p02-s05-t04" type="GSL-1">and</t>
+                <t id="p02-s05-t05" type="GSL-1">a</t>
+                <t id="p02-s05-t06" type="GSL-1">half</t>
+                <punc>,</punc>
+                <anaphor id="p02-s05-a01" info="p02-s02-t10:p02-s02-t10">
+                    <t id="p02-s05-t07" type="GSL-1">she</t>
+                </anaphor>
+                <t id="p02-s05-t08" type="Coxhead-AWL-7,AR-AWL-7a">aided</t>
+                <anaphor id="p02-s05-a02" info="p02-s02-t10:p02-s02-t10">
+                    <t id="p02-s05-t09" type="GSL-1">her</t>
+                </anaphor>
+                <t id="p02-s05-t10" type="GSL-1">father</t>
+                <t id="p02-s05-t11" type="GSL-1">in</t>
+                <t id="p02-s05-t12" type="GSL-2">calculating</t>
+                <t id="p02-s05-t13" type="GSL-1">the</t>
+                <t id="p02-s05-t14" type="GSL-2">exact</t>
+                <t id="p02-s05-t15" type="GSL-1">moment</t>
+                <t id="p02-s05-t16" type="GSL-1">of</t>
+                <t id="p02-s05-t17" type="GSL-1">an</t>
+                <t id="p02-s05-t18">annular</t>
+                <t id="p02-s05-t19">eclipse</t>
+                <punc>.</punc>
+                <punc>[</punc>
+                <t id="p02-s05-t20">11</t>
+                <punc>]</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p03">
+            <sentence par-function="topic" id="p03-s01">
+                <anaphor id="p03-s01-a01" info="p02-s02-t10:p02-s02-t10">
+                    <t id="p03-s01-t01" type="GSL-1">Her</t>
+                </anaphor>
+                <t id="p03-s01-t02">father's</t>
+                <t id="p03-s01-t03" type="GSL-1">school</t>
+                <t id="p03-s01-t04" type="GSL-1">closed</t>
+                <punc>,</punc>
+                <connector id="p03-s01-c01" type="temporal sequence" info="p03-s01-t01:p03-s01-t04,p03-s01-t07:p03-s01-t16">
+                    <t id="p03-s01-t05" type="GSL-1">and</t>
+                    <t id="p03-s01-t06" type="GSL-1">afterwards</t>
+                </connector>
+                <anaphor id="p03-s01-a02" info="p02-s02-t10:p02-s02-t10">
+                    <t id="p03-s01-t07" type="GSL-1">she</t>
+                </anaphor>
+                <t id="p03-s01-t08" type="GSL-2">attended</t>
+                <t id="p03-s01-t09">Unitarian</t>
+                <t id="p03-s01-t10" type="GSL-1">minister</t>
+                <t id="p03-s01-t11">Cyrus</t>
+                <t id="p03-s01-t12">Peirce's</t>
+                <t id="p03-s01-t13" type="GSL-1">school</t>
+                <t id="p03-s01-t14" type="GSL-1">for</t>
+                <t id="p03-s01-t15" type="GSL-1">young</t>
+                <t id="p03-s01-t16" type="GSL-1">ladies</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p03-s02">
+                <connector id="p03-s02-c01" type="temporal sequence" info="p03-s01-t07:p03-s01-t16,p03-s02-t02:p03-s02-t09">
+                    <t id="p03-s02-t01" type="GSL-1">Later</t>
+                </connector>
+                <anaphor id="p03-s02-a01" info="p02-s02-t10:p02-s02-t10">
+                    <t id="p03-s02-t02" type="GSL-1">she</t>
+                </anaphor>
+                <t id="p03-s02-t03" type="GSL-1">worked</t>
+                <t id="p03-s02-t04" type="GSL-1">for</t>
+                <t id="p03-s02-t05">Peirce</t>
+                <t id="p03-s02-t06" type="GSL-1">as</t>
+                <anaphor id="p03-s02-a02" info="p03-s02-t05:p03-s02-t05">
+                    <t id="p03-s02-t07" type="GSL-1">his</t>
+                </anaphor>
+                <t id="p03-s02-t08" type="GSL-1">teaching</t>
+                <t id="p03-s02-t09" type="Coxhead-AWL-2,AR-AWL-2a">assistant</t>
+                <connector id="p03-s02-c02" type="temporal sequence" info="p03-s02-t02:p03-s02-t09,p03-s02-t11:p03-s02-t17">
+                    <t id="p03-s02-t10" type="GSL-1">before</t>
+                </connector>
+                <anaphor id="p03-s02-a03" info="p02-s02-t10:p02-s02-t10">
+                    <t id="p03-s02-t11" type="GSL-1">she</t>
+                </anaphor>
+                <t id="p03-s02-t12" type="GSL-1">opened</t>
+                <anaphor id="p03-s02-a04" info="p02-s02-t10:p02-s02-t10">
+                    <t id="p03-s02-t13" type="GSL-1">her</t>
+                </anaphor>
+                <t id="p03-s02-t14" type="GSL-1">own</t>
+                <t id="p03-s02-t15" type="GSL-1">school</t>
+                <t id="p03-s02-t16" type="GSL-1">in</t>
+                <t id="p03-s02-t17">1835</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p03-s03">
+                <anaphor id="p03-s03-a01" info="p02-s02-t10:p02-s02-t10">
+                    <t id="p03-s03-t01" type="GSL-1">She</t>
+                </anaphor>
+                <t id="p03-s03-t02" type="GSL-1">made</t>
+                <t id="p03-s03-t03" type="GSL-1">the</t>
+                <t id="p03-s03-t04" type="GSL-1">decision</t>
+                <t id="p03-s03-t05" type="GSL-1">to</t>
+                <t id="p03-s03-t06" type="GSL-1">allow</t>
+                <t id="p03-s03-t07">non</t>
+                <punc>-</punc>
+                <t id="p03-s03-t08" type="GSL-1">white</t>
+                <t id="p03-s03-t09" type="GSL-1">children</t>
+                <t id="p03-s03-t10" type="GSL-1">to</t>
+                <t id="p03-s03-t11" type="GSL-2">attend</t>
+                <anaphor id="p03-s03-a02" info="p02-s02-t10:p02-s02-t10">
+                    <t id="p03-s03-t12" type="GSL-1">her</t>
+                </anaphor>
+                <t id="p03-s03-t13" type="GSL-1">school</t>
+                <punc>,</punc>
+                <t id="p03-s03-t14" type="GSL-1">a</t>
+                <t id="p03-s03-t15" type="Coxhead-AWL-9,AR-AWL-9a">controversial</t>
+                <t id="p03-s03-t16" type="GSL-1">move</t>
+                <t id="p03-s03-t17" type="GSL-1">as</t>
+                <t id="p03-s03-t18" type="GSL-1">the</t>
+                <t id="p03-s03-t19" type="GSL-1">local</t>
+                <t id="p03-s03-t20" type="GSL-1">public</t>
+                <t id="p03-s03-t21" type="GSL-1">school</t>
+                <t id="p03-s03-t22" type="GSL-1">was</t>
+                <t id="p03-s03-t23" type="GSL-1">still</t>
+                <t id="p03-s03-t24">segregated</t>
+                <t id="p03-s03-t25" type="GSL-1">at</t>
+                <t id="p03-s03-t26" type="GSL-1">the</t>
+                <t id="p03-s03-t27" type="GSL-1">time</t>
+                <punc>.</punc>
+                <punc>[</punc>
+                <t id="p03-s03-t28">12</t>
+                <punc>]</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p03-s04">
+                <connector id="p03-s04-c01" type="temporal sequence" info="p03-s02-t11:p03-s02-t17,p03-s04-t04:p03-s04-t16">
+                    <t id="p03-s04-t01" type="GSL-1">One</t>
+                    <t id="p03-s04-t02" type="GSL-1">year</t>
+                    <t id="p03-s04-t03" type="GSL-1">later</t>
+                </connector>
+                <punc>,</punc>
+                <anaphor id="p03-s04-a01" info="p02-s02-t10:p02-s02-t10">
+                    <t id="p03-s04-t04" type="GSL-1">she</t>
+                </anaphor>
+                <t id="p03-s04-t05" type="GSL-1">was</t>
+                <t id="p03-s04-t06" type="GSL-1">offered</t>
+                <t id="p03-s04-t07" type="GSL-1">a</t>
+                <t id="p03-s04-t08" type="Coxhead-AWL-4,AR-AWL-4b">job</t>
+                <t id="p03-s04-t09" type="GSL-1">as</t>
+                <t id="p03-s04-t10" type="GSL-1">the</t>
+                <t id="p03-s04-t11" type="GSL-1">first</t>
+                <t id="p03-s04-t12" type="GSL-1">librarian</t>
+                <t id="p03-s04-t13" type="GSL-1">of</t>
+                <t id="p03-s04-t14" type="GSL-1">the</t>
+                <t id="p03-s04-t15">Nantucket</t>
+                <t id="p03-s04-t16">Atheneum</t>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p03-s04-t17">12</t>
+                <punc>]</punc>
+                <t id="p03-s04-t18" type="GSL-1">where</t>
+                <anaphor id="p03-s04-a02" info="p02-s02-t10:p02-s02-t10">
+                    <t id="p03-s04-t19" type="GSL-1">she</t>
+                </anaphor>
+                <t id="p03-s04-t20" type="GSL-1">worked</t>
+                <t id="p03-s04-t21" type="GSL-1">for</t>
+                <t id="p03-s04-t22">20</t>
+                <t id="p03-s04-t23" type="GSL-1">years</t>
+                <punc>.</punc>
+                <punc>[</punc>
+                <t id="p03-s04-t24">13</t>
+                <punc>]</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p04">
+            <sentence par-function="topic" id="p04-s01">
+                <t id="p04-s01-t01" type="GSL-1">Using</t>
+                <t id="p04-s01-t02" type="GSL-1">a</t>
+                <t id="p04-s01-t03">telescope</t>
+                <punc>,</punc>
+                <anaphor id="p04-s01-a01" info="p02-s02-t10:p02-s02-t10">
+                    <t id="p04-s01-t04" type="GSL-1">she</t>
+                </anaphor>
+                <t id="p04-s01-t05" type="GSL-1">discovered</t>
+                <punc>“</punc>
+                <t id="p04-s01-t06" type="GSL-1">Miss</t>
+                <t id="p04-s01-t07">Mitchell's</t>
+                <t id="p04-s01-t08">Comet</t>
+                <punc>”</punc>
+                <punc>(</punc>
+                <t id="p04-s01-t09">Comet</t>
+                <t id="p04-s01-t10">1847</t>
+                <t id="p04-s01-t11">VI</t>
+                <punc>,</punc>
+                <t id="p04-s01-t12" type="GSL-1">modern</t>
+                <t id="p04-s01-t13">designation</t>
+                <t id="p04-s01-t14" type="GSL-1">is</t>
+                <t id="p04-s01-t15">C/1847</t>
+                <t id="p04-s01-t16">T1</t>
+                <punc>)</punc>
+                <t id="p04-s01-t17" type="GSL-1">on</t>
+                <t id="p04-s01-t18" type="GSL-1">October</t>
+                <t id="p04-s01-t19">1</t>
+                <punc>,</punc>
+                <t id="p04-s01-t20">1847</t>
+                <punc>,</punc>
+                <t id="p04-s01-t21" type="GSL-1">at</t>
+                <t id="p04-s01-t22">10:30</t>
+                <t id="p04-s01-t23">PM</t>
+                <punc>.</punc>
+                <punc>[</punc>
+                <t id="p04-s01-t24">14</t>
+                <punc>]</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p04-s02">
+                <connector id="p04-s02-c01" type="temporal sequence" info="p04-s01-t04:p04-s01-t23,p04-s02-t04:p04-s02-t20">
+                    <t id="p04-s02-t01" type="GSL-1">Some</t>
+                    <t id="p04-s02-t02" type="GSL-1">years</t>
+                    <t id="p04-s02-t03" type="Coxhead-AWL-2,AR-AWL-2b">previously</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p04-s02-t04" type="GSL-1">King</t>
+                <t id="p04-s02-t05">Frederick</t>
+                <t id="p04-s02-t06">VI</t>
+                <t id="p04-s02-t07" type="GSL-1">of</t>
+                <t id="p04-s02-t08">Denmark</t>
+                <t id="p04-s02-t09" type="GSL-1">had</t>
+                <t id="p04-s02-t10" type="Coxhead-AWL-1,AR-AWL-1a">established</t>
+                <t id="p04-s02-t11" type="GSL-1">gold</t>
+                <t id="p04-s02-t12">medal</t>
+                <t id="p04-s02-t13" type="GSL-2">prizes</t>
+                <t id="p04-s02-t14" type="GSL-1">to</t>
+                <t id="p04-s02-t15" type="GSL-1">each</t>
+                <t id="p04-s02-t16">discoverer</t>
+                <t id="p04-s02-t17" type="GSL-1">of</t>
+                <t id="p04-s02-t18" type="GSL-1">a</t>
+                <punc>“</punc>
+                <t id="p04-s02-t19">telescopic</t>
+                <t id="p04-s02-t20">comet</t>
+                <punc>”</punc>
+                <punc>(</punc>
+                <t id="p04-s02-t21" type="GSL-1">too</t>
+                <t id="p04-s02-t22" type="GSL-2">faint</t>
+                <t id="p04-s02-t23" type="GSL-1">to</t>
+                <t id="p04-s02-t24" type="GSL-1">be</t>
+                <t id="p04-s02-t25" type="GSL-1">seen</t>
+                <t id="p04-s02-t26" type="GSL-1">with</t>
+                <t id="p04-s02-t27" type="GSL-1">the</t>
+                <t id="p04-s02-t28">naked</t>
+                <t id="p04-s02-t29" type="GSL-1">eye</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p04-s03">
+                <anaphor id="p04-s03-a01" info="p04-s02-t11:p04-s02-t13">
+                    <t id="p04-s03-t01" type="GSL-1">The</t>
+                    <t id="p04-s03-t02" type="GSL-2">prize</t>
+                </anaphor>
+                <t id="p04-s03-t03" type="GSL-1">was</t>
+                <t id="p04-s03-t04" type="GSL-1">to</t>
+                <t id="p04-s03-t05" type="GSL-1">be</t>
+                <t id="p04-s03-t06">awarded</t>
+                <t id="p04-s03-t07" type="GSL-1">to</t>
+                <t id="p04-s03-t08" type="GSL-1">the</t>
+                <punc>“</punc>
+                <t id="p04-s03-t09" type="GSL-1">first</t>
+                <t id="p04-s03-t10">discoverer</t>
+                <punc>”</punc>
+                <t id="p04-s03-t11" type="GSL-1">of</t>
+                <t id="p04-s03-t12" type="GSL-1">each</t>
+                <t id="p04-s03-t13" type="GSL-1">such</t>
+                <t id="p04-s03-t14">comet</t>
+                <punc>(</punc>
+                <t id="p04-s03-t15" type="GSL-1">note</t>
+                <t id="p04-s03-t16" type="GSL-1">that</t>
+                <t id="p04-s03-t17">comets</t>
+                <t id="p04-s03-t18" type="GSL-1">are</t>
+                <t id="p04-s03-t19" type="GSL-1">often</t>
+                <t id="p04-s03-t20" type="GSL-1">independently</t>
+                <t id="p04-s03-t21" type="GSL-1">discovered</t>
+                <t id="p04-s03-t22" type="GSL-1">by</t>
+                <t id="p04-s03-t23" type="GSL-1">more</t>
+                <t id="p04-s03-t24" type="GSL-1">than</t>
+                <t id="p04-s03-t25" type="GSL-1">one</t>
+                <t id="p04-s03-t26" type="GSL-1">person</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p04-s04">
+                <t id="p04-s04-t01">Maria</t>
+                <t id="p04-s04-t02">Mitchell</t>
+                <t id="p04-s04-t03" type="GSL-1">won</t>
+                <t id="p04-s04-t04" type="GSL-1">one</t>
+                <t id="p04-s04-t05" type="GSL-1">of</t>
+                <anaphor id="p04-s04-a01" info="p04-s02-t11:p04-s02-t13">
+                    <t id="p04-s04-t06" type="GSL-1">these</t>
+                    <t id="p04-s04-t07" type="GSL-2">prizes</t>
+                </anaphor>
+                <punc>,</punc>
+                <connector id="p04-s04-c01" type="elaboration" info="p04-s04-t01:p04-s04-t07,p04-s04-t09:p04-s04-t13">
+                    <t id="p04-s04-t08" type="GSL-1">and</t>
+                </connector>
+                <anaphor id="p04-s04-a02" info="p04-s04-t03:p04-s04-t07">
+                    <t id="p04-s04-t09" type="GSL-1">this</t>
+                </anaphor>
+                <t id="p04-s04-t10" type="GSL-1">gave</t>
+                <anaphor id="p04-s04-a03" info="p04-s04-t01:p04-s04-t02">
+                    <t id="p04-s04-t11" type="GSL-1">her</t>
+                </anaphor>
+                <t id="p04-s04-t12">worldwide</t>
+                <t id="p04-s04-t13">fame</t>
+                <punc>,</punc>
+                <t id="p04-s04-t14" type="GSL-1">since</t>
+                <t id="p04-s04-t15" type="GSL-1">the</t>
+                <t id="p04-s04-t16" type="GSL-1">only</t>
+                <t id="p04-s04-t17" type="Coxhead-AWL-2,AR-AWL-2b">previous</t>
+                <t id="p04-s04-t18" type="GSL-1">women</t>
+                <t id="p04-s04-t19" type="GSL-1">to</t>
+                <t id="p04-s04-t20" type="GSL-1">discover</t>
+                <t id="p04-s04-t21" type="GSL-1">a</t>
+                <t id="p04-s04-t22">comet</t>
+                <t id="p04-s04-t23" type="GSL-1">were</t>
+                <t id="p04-s04-t24" type="GSL-1">the</t>
+                <t id="p04-s04-t25">astronomers</t>
+                <t id="p04-s04-t26">Caroline</t>
+                <t id="p04-s04-t27">Herschel</t>
+                <t id="p04-s04-t28" type="GSL-1">and</t>
+                <t id="p04-s04-t29">Maria</t>
+                <t id="p04-s04-t30">Margarethe</t>
+                <t id="p04-s04-t31">Kirch</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p05">
+            <sentence par-function="topic" id="p05-s01">
+                <t id="p05-s01-t01" type="GSL-1">There</t>
+                <t id="p05-s01-t02" type="GSL-1">was</t>
+                <t id="p05-s01-t03" type="GSL-1">a</t>
+                <t id="p05-s01-t04" type="Coxhead-AWL-9,AR-AWL-9b">temporary</t>
+                <t id="p05-s01-t05" type="GSL-1">question</t>
+                <t id="p05-s01-t06" type="GSL-1">of</t>
+                <t id="p05-s01-t07" type="Coxhead-AWL-7,AR-AWL-7b">priority</t>
+                <t id="p05-s01-t08" type="GSL-1">because</t>
+                <t id="p05-s01-t09">Francesco</t>
+                <t id="p05-s01-t10">de</t>
+                <t id="p05-s01-t11">Vico</t>
+                <t id="p05-s01-t12" type="GSL-1">had</t>
+                <t id="p05-s01-t13" type="GSL-1">independently</t>
+                <t id="p05-s01-t14" type="GSL-1">discovered</t>
+                <t id="p05-s01-t15" type="GSL-1">the</t>
+                <t id="p05-s01-t16" type="GSL-1">same</t>
+                <t id="p05-s01-t17">comet</t>
+                <t id="p05-s01-t18" type="GSL-1">two</t>
+                <t id="p05-s01-t19" type="GSL-1">days</t>
+                <t id="p05-s01-t20" type="GSL-1">later</t>
+                <punc>,</punc>
+                <t id="p05-s01-t21" type="GSL-1">but</t>
+                <t id="p05-s01-t22" type="GSL-1">had</t>
+                <t id="p05-s01-t23" type="GSL-1">reported</t>
+                <anaphor id="p05-s01-a01" info="p05-s01-t14:p05-s01-t17">
+                    <t id="p05-s01-t24" type="GSL-1">it</t>
+                </anaphor>
+                <t id="p05-s01-t25" type="GSL-1">to</t>
+                <t id="p05-s01-t26">European</t>
+                <t id="p05-s01-t27" type="Coxhead-AWL-1,AR-AWL-1a">authorities</t>
+                <t id="p05-s01-t28" type="GSL-1">first</t>
+                <punc>;</punc>
+                <connector id="p05-s01-c01" type="contrast" info="p05-s01-t01:p05-s01-t20,p05-s01-t30:p05-s01-t35">
+                    <t id="p05-s01-t29" type="GSL-1">however</t>
+                </connector>
+                <punc>,</punc>
+                <anaphor id="p05-s01-a02" info="p05-s01-t04:p05-s01-t07">
+                    <t id="p05-s01-t30" type="GSL-1">this</t>
+                </anaphor>
+                <t id="p05-s01-t31" type="GSL-1">was</t>
+                <t id="p05-s01-t32" type="Coxhead-AWL-4,AR-AWL-4b">resolved</t>
+                <t id="p05-s01-t33" type="GSL-1">in</t>
+                <t id="p05-s01-t34">Mitchell's</t>
+                <t id="p05-s01-t35" type="GSL-1">favor</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p05-s02">
+                <anaphor id="p05-s02-a01" info="p04-s02-t11:p04-s02-t13">
+                    <t id="p05-s02-t01" type="GSL-1">The</t>
+                    <t id="p05-s02-t02" type="GSL-2">prize</t>
+                </anaphor>
+                <t id="p05-s02-t03" type="GSL-1">was</t>
+                <t id="p05-s02-t04">awarded</t>
+                <t id="p05-s02-t05" type="GSL-1">in</t>
+                <t id="p05-s02-t06">1848</t>
+                <t id="p05-s02-t07" type="GSL-1">by</t>
+                <t id="p05-s02-t08" type="GSL-1">the</t>
+                <t id="p05-s02-t09" type="GSL-1">new</t>
+                <t id="p05-s02-t10" type="GSL-1">king</t>
+                <t id="p05-s02-t11">Christian</t>
+                <t id="p05-s02-t12">VIII</t>
+                <punc>.</punc>
+                <punc>[</punc>
+                <t id="p05-s02-t13">15</t>
+                <punc>]</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p06">
+            <sentence par-function="topic" id="p06-s01">
+                <anaphor id="p06-s01-a01" info="p04-s04-t01:p04-s04-t02">
+                    <t id="p06-s01-t01" type="GSL-1">She</t>
+                </anaphor>
+                <t id="p06-s01-t02" type="GSL-1">became</t>
+                <t id="p06-s01-t03" type="GSL-1">the</t>
+                <t id="p06-s01-t04" type="GSL-1">first</t>
+                <t id="p06-s01-t05" type="GSL-1">woman</t>
+                <t id="p06-s01-t06" type="GSL-1">elected</t>
+                <t id="p06-s01-t07" type="GSL-1">Fellow</t>
+                <t id="p06-s01-t08" type="GSL-1">of</t>
+                <t id="p06-s01-t09" type="GSL-1">the</t>
+                <t id="p06-s01-t10">American</t>
+                <t id="p06-s01-t11" type="Coxhead-AWL-5,AR-AWL-5a">Academy</t>
+                <t id="p06-s01-t12" type="GSL-1">of</t>
+                <t id="p06-s01-t13" type="GSL-1">Arts</t>
+                <t id="p06-s01-t14" type="GSL-1">and</t>
+                <t id="p06-s01-t15" type="GSL-1">Sciences</t>
+                <t id="p06-s01-t16" type="GSL-1">in</t>
+                <t id="p06-s01-t17">1848</t>
+                <punc>[</punc>
+                <t id="p06-s01-t18">16</t>
+                <punc>]</punc>
+                <t id="p06-s01-t19" type="GSL-1">and</t>
+                <t id="p06-s01-t20" type="GSL-1">of</t>
+                <t id="p06-s01-t21" type="GSL-1">the</t>
+                <t id="p06-s01-t22">American</t>
+                <t id="p06-s01-t23" type="GSL-1">Association</t>
+                <t id="p06-s01-t24" type="GSL-1">for</t>
+                <t id="p06-s01-t25" type="GSL-1">the</t>
+                <t id="p06-s01-t26" type="GSL-1">Advancement</t>
+                <t id="p06-s01-t27" type="GSL-1">of</t>
+                <t id="p06-s01-t28" type="GSL-1">Science</t>
+                <t id="p06-s01-t29" type="GSL-1">in</t>
+                <t id="p06-s01-t30">1850</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p06-s02">
+                <t id="p06-s02-t01">Mitchell</t>
+                <t id="p06-s02-t02" type="GSL-1">was</t>
+                <t id="p06-s02-t03" type="GSL-1">also</t>
+                <t id="p06-s02-t04" type="GSL-1">one</t>
+                <t id="p06-s02-t05" type="GSL-1">of</t>
+                <t id="p06-s02-t06" type="GSL-1">the</t>
+                <t id="p06-s02-t07" type="GSL-1">first</t>
+                <t id="p06-s02-t08" type="GSL-1">women</t>
+                <t id="p06-s02-t09" type="GSL-1">elected</t>
+                <t id="p06-s02-t10" type="GSL-1">to</t>
+                <t id="p06-s02-t11" type="GSL-1">the</t>
+                <t id="p06-s02-t12">American</t>
+                <t id="p06-s02-t13" type="Coxhead-AWL-3,AR-AWL-3b">Philosophical</t>
+                <t id="p06-s02-t14" type="GSL-1">Society</t>
+                <punc>(</punc>
+                <t id="p06-s02-t15">1869</t>
+                <punc>,</punc>
+                <t id="p06-s02-t16" type="GSL-1">at</t>
+                <t id="p06-s02-t17" type="GSL-1">the</t>
+                <t id="p06-s02-t18" type="GSL-1">same</t>
+                <t id="p06-s02-t19" type="GSL-1">meeting</t>
+                <t id="p06-s02-t20">Mary</t>
+                <t id="p06-s02-t21">Somerville</t>
+                <t id="p06-s02-t22" type="GSL-1">and</t>
+                <t id="p06-s02-t23">Elizabeth</t>
+                <t id="p06-s02-t24">Cabot</t>
+                <t id="p06-s02-t25">Agassiz</t>
+                <t id="p06-s02-t26" type="GSL-1">were</t>
+                <t id="p06-s02-t27" type="GSL-1">elected</t>
+                <punc>)</punc>
+                <punc>.</punc>
+                <punc>[</punc>
+                <t id="p06-s02-t28">17</t>
+                <punc>]</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p06-s03">
+                <anaphor id="p06-s03-a01" info="p06-s02-t01:p06-s02-t01">
+                    <t id="p06-s03-t01" type="GSL-1">She</t>
+                </anaphor>
+                <connector id="p06-s03-c01" type="temporal sequence" info="p06-s02-t01:p06-s02-t14,p06-s03-t01:p06-s03-t09">
+                    <t id="p06-s03-t02" type="GSL-1">later</t>
+                </connector>
+                <t id="p06-s03-t03" type="GSL-1">worked</t>
+                <t id="p06-s03-t04" type="GSL-1">at</t>
+                <t id="p06-s03-t05" type="GSL-1">the</t>
+                <t id="p06-s03-t06">U.S.</t>
+                <t id="p06-s03-t07">Nautical</t>
+                <t id="p06-s03-t08">Almanac</t>
+                <t id="p06-s03-t09" type="GSL-1">Office</t>
+                <punc>,</punc>
+                <t id="p06-s03-t10" type="GSL-2">calculating</t>
+                <t id="p06-s03-t11" type="GSL-1">tables</t>
+                <t id="p06-s03-t12" type="GSL-1">of</t>
+                <t id="p06-s03-t13" type="GSL-1">positions</t>
+                <t id="p06-s03-t14" type="GSL-1">of</t>
+                <t id="p06-s03-t15">Venus</t>
+                <punc>,</punc>
+                <t id="p06-s03-t16" type="GSL-1">and</t>
+                <t id="p06-s03-t17" type="GSL-1">traveled</t>
+                <t id="p06-s03-t18" type="GSL-1">in</t>
+                <t id="p06-s03-t19">Europe</t>
+                <t id="p06-s03-t20" type="GSL-1">with</t>
+                <t id="p06-s03-t21">Nathaniel</t>
+                <t id="p06-s03-t22">Hawthorne</t>
+                <t id="p06-s03-t23" type="GSL-1">and</t>
+                <t id="p06-s03-t24" type="GSL-1">his</t>
+                <t id="p06-s03-t25" type="GSL-1">family</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p07">
+            <sentence par-function="topic" id="p07-s01">
+                <anaphor id="p07-s01-a01" info="p06-s02-t01:p06-s02-t01">
+                    <t id="p07-s01-t01" type="GSL-1">She</t>
+                </anaphor>
+                <t id="p07-s01-t02" type="GSL-1">became</t>
+                <t id="p07-s01-t03">professor</t>
+                <t id="p07-s01-t04" type="GSL-1">of</t>
+                <t id="p07-s01-t05">astronomy</t>
+                <t id="p07-s01-t06" type="GSL-1">at</t>
+                <t id="p07-s01-t07">Vassar</t>
+                <t id="p07-s01-t08" type="GSL-1">College</t>
+                <t id="p07-s01-t09" type="GSL-1">in</t>
+                <t id="p07-s01-t10">1865</t>
+                <punc>,</punc>
+                <t id="p07-s01-t11" type="GSL-1">the</t>
+                <t id="p07-s01-t12" type="GSL-1">first</t>
+                <t id="p07-s01-t13" type="GSL-1">person</t>
+                <t id="p07-s01-t14" type="GSL-1">appointed</t>
+                <t id="p07-s01-t15" type="GSL-1">to</t>
+                <t id="p07-s01-t16" type="GSL-1">the</t>
+                <t id="p07-s01-t17">faculty</t>
+                <punc>.</punc>
+                <punc>[</punc>
+                <t id="p07-s01-t18">18</t>
+                <punc>]</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p07-s02">
+                <anaphor id="p07-s02-a01" info="p06-s02-t01:p06-s02-t01">
+                    <t id="p07-s02-t01" type="GSL-1">She</t>
+                </anaphor>
+                <t id="p07-s02-t02" type="GSL-1">was</t>
+                <t id="p07-s02-t03" type="GSL-1">also</t>
+                <t id="p07-s02-t04" type="GSL-1">named</t>
+                <t id="p07-s02-t05" type="GSL-1">as</t>
+                <t id="p07-s02-t06" type="GSL-1">Director</t>
+                <t id="p07-s02-t07" type="GSL-1">of</t>
+                <t id="p07-s02-t08" type="GSL-1">the</t>
+                <t id="p07-s02-t09">Vassar</t>
+                <t id="p07-s02-t10" type="GSL-1">College</t>
+                <t id="p07-s02-t11" type="GSL-1">Observatory</t>
+                <punc>.</punc>
+                <punc>[</punc>
+                <t id="p07-s02-t12">4</t>
+                <punc>]</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p07-s03">
+                <connector id="p07-s03-c01" type="temporal sequence" info="p07-s01-t01:p07-s01-t17,p07-s03-t07:p07-s03-t25">
+                    <t id="p07-s03-t01" type="GSL-1">After</t>
+                    <t id="p07-s03-t02" type="GSL-1">teaching</t>
+                    <anaphor id="p07-s03-a01" info="p07-s01-t07:p07-s01-t08">
+                        <t id="p07-s03-t03" type="GSL-1">there</t>
+                    </anaphor>
+                    <t id="p07-s03-t04" type="GSL-1">for</t>
+                    <t id="p07-s03-t05" type="GSL-1">some</t>
+                    <t id="p07-s03-t06" type="GSL-1">time</t>
+                </connector>
+                <punc>,</punc>
+                <anaphor id="p07-s03-a02" info="p06-s02-t01:p06-s02-t01">
+                    <t id="p07-s03-t07" type="GSL-1">she</t>
+                </anaphor>
+                <t id="p07-s03-t08" type="GSL-1">learned</t>
+                <t id="p07-s03-t09" type="GSL-1">that</t>
+                <t id="p07-s03-t10" type="Coxhead-AWL-4,AR-AWL-4a">despite</t>
+                <anaphor id="p07-s03-a03" info="p06-s02-t01:p06-s02-t01">
+                    <t id="p07-s03-t11" type="GSL-1">her</t>
+                </anaphor>
+                <t id="p07-s03-t12" type="GSL-2">reputation</t>
+                <t id="p07-s03-t13" type="GSL-1">and</t>
+                <t id="p07-s03-t14" type="GSL-1">experience</t>
+                <punc>,</punc>
+                <anaphor id="p07-s03-a04" info="p06-s02-t01:p06-s02-t01">
+                    <t id="p07-s03-t15" type="GSL-1">her</t>
+                </anaphor>
+                <t id="p07-s03-t16" type="GSL-2">salary</t>
+                <t id="p07-s03-t17" type="GSL-1">was</t>
+                <t id="p07-s03-t18" type="GSL-1">less</t>
+                <t id="p07-s03-t19" type="GSL-1">than</t>
+                <anaphor id="p07-s03-a05" info="p07-s03-t16:p07-s03-t16">
+                    <t id="p07-s03-t20" type="GSL-1">that</t>
+                </anaphor>
+                <t id="p07-s03-t21" type="GSL-1">of</t>
+                <t id="p07-s03-t22" type="GSL-1">many</t>
+                <t id="p07-s03-t23" type="GSL-1">younger</t>
+                <t id="p07-s03-t24" type="GSL-2">male</t>
+                <t id="p07-s03-t25">professors</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p07-s04">
+                <anaphor id="p07-s04-a01" info="p06-s02-t01:p06-s02-t01">
+                    <t id="p07-s04-t01" type="GSL-1">She</t>
+                </anaphor>
+                <t id="p07-s04-t02">insisted</t>
+                <t id="p07-s04-t03" type="GSL-1">on</t>
+                <t id="p07-s04-t04" type="GSL-1">a</t>
+                <t id="p07-s04-t05" type="GSL-2">salary</t>
+                <t id="p07-s04-t06" type="GSL-1">increase</t>
+                <punc>,</punc>
+                <t id="p07-s04-t07" type="GSL-1">and</t>
+                <t id="p07-s04-t08" type="GSL-1">got</t>
+                <anaphor id="p07-s04-a02" info="p07-s04-t05:p07-s04-t06">
+                    <t id="p07-s04-t09" type="GSL-1">it</t>
+                </anaphor>
+                <punc>.</punc>
+                <punc>[</punc>
+                <t id="p07-s04-t10">19</t>
+                <punc>]</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p07-s05">
+                <anaphor id="p07-s05-a01" info="p06-s02-t01:p06-s02-t01">
+                    <t id="p07-s05-t01" type="GSL-1">She</t>
+                </anaphor>
+                <t id="p07-s05-t02" type="GSL-1">taught</t>
+                <t id="p07-s05-t03" type="GSL-1">at</t>
+                <t id="p07-s05-t04" type="GSL-1">the</t>
+                <t id="p07-s05-t05" type="GSL-1">college</t>
+                <t id="p07-s05-t06" type="GSL-1">until</t>
+                <anaphor id="p07-s05-a02" info="p06-s02-t01:p06-s02-t01">
+                    <t id="p07-s05-t07" type="GSL-1">her</t>
+                </anaphor>
+                <t id="p07-s05-t08" type="GSL-2">retirement</t>
+                <t id="p07-s05-t09" type="GSL-1">in</t>
+                <t id="p07-s05-t10">1888</t>
+                <punc>,</punc>
+                <t id="p07-s05-t11" type="GSL-1">one</t>
+                <t id="p07-s05-t12" type="GSL-1">year</t>
+                <t id="p07-s05-t13" type="GSL-1">before</t>
+                <anaphor id="p07-s05-a03" info="p06-s02-t01:p06-s02-t01">
+                    <t id="p07-s05-t14" type="GSL-1">her</t>
+                </anaphor>
+                <t id="p07-s05-t15" type="GSL-1">death</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p08">
+            <sentence par-function="topic" id="p08-s01">
+                <t id="p08-s01-t01" type="GSL-1">In</t>
+                <t id="p08-s01-t02">1842</t>
+                <punc>,</punc>
+                <anaphor id="p08-s01-a01" info="p06-s02-t01:p06-s02-t01">
+                    <t id="p08-s01-t03" type="GSL-1">she</t>
+                </anaphor>
+                <t id="p08-s01-t04" type="GSL-1">left</t>
+                <t id="p08-s01-t05" type="GSL-1">the</t>
+                <t id="p08-s01-t06">Quaker</t>
+                <t id="p08-s01-t07" type="GSL-1">faith</t>
+                <t id="p08-s01-t08" type="GSL-1">and</t>
+                <t id="p08-s01-t09" type="GSL-1">followed</t>
+                <t id="p08-s01-t10">Unitarian</t>
+                <t id="p08-s01-t11" type="Coxhead-AWL-1,AR-AWL-1b">principles</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p08-s02">
+                <t id="p08-s02-t01" type="GSL-1">In</t>
+                <t id="p08-s02-t02">protest</t>
+                <t id="p08-s02-t03" type="GSL-1">against</t>
+                <t id="p08-s02-t04" type="GSL-2">slavery</t>
+                <punc>,</punc>
+                <anaphor id="p08-s02-a01" info="p06-s02-t01:p06-s02-t01">
+                    <t id="p08-s02-t05" type="GSL-1">she</t>
+                </anaphor>
+                <t id="p08-s02-t06" type="GSL-1">stopped</t>
+                <t id="p08-s02-t07" type="GSL-1">wearing</t>
+                <t id="p08-s02-t08" type="GSL-2">clothes</t>
+                <t id="p08-s02-t09" type="GSL-1">made</t>
+                <t id="p08-s02-t10" type="GSL-1">of</t>
+                <t id="p08-s02-t11" type="GSL-1">cotton</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p08-s03">
+                <anaphor id="p08-s03-a01" info="p06-s02-t01:p06-s02-t01">
+                    <t id="p08-s03-t01" type="GSL-1">She</t>
+                </anaphor>
+                <t id="p08-s03-t02" type="GSL-1">was</t>
+                <t id="p08-s03-t03" type="GSL-1">friends</t>
+                <t id="p08-s03-t04" type="GSL-1">with</t>
+                <t id="p08-s03-t05" type="GSL-1">various</t>
+                <t id="p08-s03-t06">suffragists</t>
+                <t id="p08-s03-t07" type="GSL-1">such</t>
+                <t id="p08-s03-t08" type="GSL-1">as</t>
+                <t id="p08-s03-t09">Elizabeth</t>
+                <t id="p08-s03-t10">Cady</t>
+                <t id="p08-s03-t11">Stanton</t>
+                <t id="p08-s03-t12" type="GSL-1">and</t>
+                <t id="p08-s03-t13">co</t>
+                <punc>-</punc>
+                <t id="p08-s03-t14" type="Coxhead-AWL-9,AR-AWL-9a">founded</t>
+                <t id="p08-s03-t15" type="GSL-1">the</t>
+                <t id="p08-s03-t16">American</t>
+                <t id="p08-s03-t17" type="GSL-1">Association</t>
+                <t id="p08-s03-t18" type="GSL-1">for</t>
+                <t id="p08-s03-t19" type="GSL-1">the</t>
+                <t id="p08-s03-t20" type="GSL-1">Advancement</t>
+                <t id="p08-s03-t21" type="GSL-1">of</t>
+                <t id="p08-s03-t22" type="GSL-1">Women</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p09">
+            <sentence par-function="topic" id="p09-s01">
+                <t id="p09-s01-t01">Mitchell</t>
+                <t id="p09-s01-t02" type="GSL-1">never</t>
+                <t id="p09-s01-t03" type="GSL-1">married</t>
+                <punc>,</punc>
+                <t id="p09-s01-t04" type="GSL-1">but</t>
+                <t id="p09-s01-t05" type="GSL-1">remained</t>
+                <t id="p09-s01-t06" type="GSL-1">close</t>
+                <t id="p09-s01-t07" type="GSL-1">to</t>
+                <anaphor id="p09-s01-a01" info="p09-s01-t01:p09-s01-t01">
+                    <t id="p09-s01-t08" type="GSL-1">her</t>
+                </anaphor>
+                <t id="p09-s01-t09" type="GSL-2">immediate</t>
+                <t id="p09-s01-t10" type="GSL-1">family</t>
+                <t id="p09-s01-t11" type="GSL-1">throughout</t>
+                <anaphor id="p09-s01-a02" info="p09-s01-t01:p09-s01-t01">
+                    <t id="p09-s01-t12" type="GSL-1">her</t>
+                </anaphor>
+                <t id="p09-s01-t13" type="GSL-1">life</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p09-s02">
+                <t id="p09-s02-t01" type="GSL-1">After</t>
+                <anaphor id="p09-s02-a01" info="p09-s01-t01:p09-s01-t01">
+                    <t id="p09-s02-t02" type="GSL-1">she</t>
+                </anaphor>
+                <t id="p09-s02-t03" type="GSL-2">retired</t>
+                <t id="p09-s02-t04" type="GSL-1">from</t>
+                <t id="p09-s02-t05">Vassar</t>
+                <t id="p09-s02-t06" type="GSL-1">College</t>
+                <t id="p09-s02-t07" type="GSL-1">in</t>
+                <t id="p09-s02-t08">1888</t>
+                <anaphor id="p09-s02-a02" info="p09-s01-t01:p09-s01-t01">
+                    <t id="p09-s02-t09" type="GSL-1">she</t>
+                </anaphor>
+                <t id="p09-s02-t10" type="GSL-1">lived</t>
+                <t id="p09-s02-t11" type="GSL-1">in</t>
+                <t id="p09-s02-t12">Lynn</t>
+                <punc>,</punc>
+                <t id="p09-s02-t13">Massachusetts</t>
+                <t id="p09-s02-t14" type="GSL-1">with</t>
+                <anaphor id="p09-s02-a03" info="p09-s01-t01:p09-s01-t01">
+                    <t id="p09-s02-t15" type="GSL-1">her</t>
+                </anaphor>
+                <t id="p09-s02-t16" type="GSL-1">sister</t>
+                <t id="p09-s02-t17">Kate</t>
+                <t id="p09-s02-t18" type="GSL-1">and</t>
+                <anaphor id="p09-s02-a04" info="p09-s01-t01:p09-s01-t01">
+                    <t id="p09-s02-t19" type="GSL-1">her</t>
+                </anaphor>
+                <t id="p09-s02-t20" type="GSL-1">family</t>
+                <punc>.</punc>
+                <punc>[</punc>
+                <t id="p09-s02-t21">20</t>
+                <punc>]</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p09-s03">
+                <t id="p09-s03-t01" type="GSL-1">There</t>
+                <t id="p09-s03-t02" type="GSL-1">are</t>
+                <t id="p09-s03-t03" type="GSL-1">very</t>
+                <t id="p09-s03-t04" type="GSL-1">few</t>
+                <t id="p09-s03-t05" type="GSL-1">of</t>
+                <anaphor id="p09-s03-a01" info="p09-s01-t01:p09-s01-t01">
+                    <t id="p09-s03-t06" type="GSL-1">her</t>
+                </anaphor>
+                <t id="p09-s03-t07" type="GSL-1">personal</t>
+                <t id="p09-s03-t08" type="Coxhead-AWL-3,AR-AWL-3a">documents</t>
+                <t id="p09-s03-t09" type="GSL-1">from</t>
+                <t id="p09-s03-t10" type="GSL-1">before</t>
+                <t id="p09-s03-t11">1846</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p09-s04">
+                <t id="p09-s04-t01" type="GSL-1">The</t>
+                <t id="p09-s04-t02">Mitchell</t>
+                <t id="p09-s04-t03" type="GSL-1">Family</t>
+                <t id="p09-s04-t04" type="GSL-1">believes</t>
+                <anaphor id="p09-s04-a01" info="p09-s01-t01:p09-s01-t01">
+                    <t id="p09-s04-t05" type="GSL-1">she</t>
+                </anaphor>
+                <t id="p09-s04-t06" type="GSL-2">witnessed</t>
+                <t id="p09-s04-t07" type="GSL-1">personal</t>
+                <t id="p09-s04-t08" type="GSL-1">papers</t>
+                <t id="p09-s04-t09" type="GSL-1">of</t>
+                <t id="p09-s04-t10" type="GSL-1">fellow</t>
+                <t id="p09-s04-t11">Nantucketers</t>
+                <t id="p09-s04-t12" type="GSL-1">blown</t>
+                <t id="p09-s04-t13" type="GSL-1">through</t>
+                <t id="p09-s04-t14" type="GSL-1">the</t>
+                <t id="p09-s04-t15" type="GSL-1">street</t>
+                <t id="p09-s04-t16" type="GSL-1">by</t>
+                <t id="p09-s04-t17" type="GSL-1">the</t>
+                <t id="p09-s04-t18" type="GSL-1">Great</t>
+                <t id="p09-s04-t19" type="GSL-1">Fire</t>
+                <t id="p09-s04-t20" type="GSL-1">of</t>
+                <t id="p09-s04-t21">1846</t>
+                <t id="p09-s04-t22" type="GSL-1">and</t>
+                <t id="p09-s04-t23" type="GSL-1">because</t>
+                <t id="p09-s04-t24" type="GSL-1">there</t>
+                <t id="p09-s04-t25" type="GSL-1">was</t>
+                <t id="p09-s04-t26" type="GSL-1">a</t>
+                <t id="p09-s04-t27" type="Coxhead-AWL-10,AR-AWL-10">persistent</t>
+                <t id="p09-s04-t28" type="GSL-1">fear</t>
+                <t id="p09-s04-t29" type="GSL-1">of</t>
+                <t id="p09-s04-t30" type="GSL-1">another</t>
+                <t id="p09-s04-t31" type="GSL-1">fire</t>
+                <anaphor id="p09-s04-a02" info="p09-s01-t01:p09-s01-t01">
+                    <t id="p09-s04-t32" type="GSL-1">she</t>
+                </anaphor>
+                <t id="p09-s04-t33" type="GSL-1">burned</t>
+                <anaphor id="p09-s04-a03" info="p09-s01-t01:p09-s01-t01">
+                    <t id="p09-s04-t34" type="GSL-1">her</t>
+                </anaphor>
+                <t id="p09-s04-t35" type="GSL-1">own</t>
+                <t id="p09-s04-t36" type="Coxhead-AWL-3,AR-AWL-3a">documents</t>
+                <t id="p09-s04-t37" type="GSL-1">to</t>
+                <t id="p09-s04-t38" type="GSL-1">keep</t>
+                <t id="p09-s04-t39" type="GSL-1">them</t>
+                <t id="p09-s04-t40" type="GSL-1">private</t>
+                <punc>.</punc>
+                <punc>[</punc>
+                <t id="p09-s04-t41">21</t>
+                <punc>]</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p10">
+            <sentence par-function="topic" id="p10-s01">
+                <t id="p10-s01-t01">Mitchell</t>
+                <t id="p10-s01-t02" type="GSL-1">died</t>
+                <t id="p10-s01-t03" type="GSL-1">on</t>
+                <t id="p10-s01-t04" type="GSL-1">June</t>
+                <t id="p10-s01-t05">28</t>
+                <punc>,</punc>
+                <t id="p10-s01-t06">1889</t>
+                <punc>,</punc>
+                <t id="p10-s01-t07" type="GSL-1">at</t>
+                <t id="p10-s01-t08" type="GSL-1">the</t>
+                <t id="p10-s01-t09" type="GSL-1">age</t>
+                <t id="p10-s01-t10" type="GSL-1">of</t>
+                <t id="p10-s01-t11">70</t>
+                <punc>,</punc>
+                <t id="p10-s01-t12" type="GSL-1">in</t>
+                <t id="p10-s01-t13">Lynn</t>
+                <punc>,</punc>
+                <t id="p10-s01-t14">Massachusetts</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p10-s02">
+                <anaphor id="p10-s02-a01" info="p10-s01-t01:p10-s01-t01">
+                    <t id="p10-s02-t01" type="GSL-1">She</t>
+                </anaphor>
+                <t id="p10-s02-t02" type="GSL-1">was</t>
+                <t id="p10-s02-t03" type="GSL-2">buried</t>
+                <t id="p10-s02-t04" type="GSL-1">in</t>
+                <t id="p10-s02-t05" type="GSL-2">Lot</t>
+                <t id="p10-s02-t06">411</t>
+                <punc>,</punc>
+                <t id="p10-s02-t07" type="GSL-1">in</t>
+                <t id="p10-s02-t08" type="Coxhead-AWL-8,AR-AWL-8b">Prospect</t>
+                <t id="p10-s02-t09" type="GSL-1">Hill</t>
+                <t id="p10-s02-t10">Cemetery</t>
+                <punc>,</punc>
+                <t id="p10-s02-t11">Nantucket</t>
+                <punc>.</punc>
+                <punc>[</punc>
+                <t id="p10-s02-t12">22</t>
+                <punc>]</punc>
+                <punc>[</punc>
+                <t id="p10-s02-t13">23</t>
+                <punc>]</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p10-s03">
+                <t id="p10-s03-t01" type="GSL-1">The</t>
+                <t id="p10-s03-t02">Maria</t>
+                <t id="p10-s03-t03">Mitchell</t>
+                <t id="p10-s03-t04" type="GSL-1">Observatory</t>
+                <t id="p10-s03-t05" type="GSL-1">in</t>
+                <t id="p10-s03-t06">Nantucket</t>
+                <t id="p10-s03-t07" type="GSL-1">is</t>
+                <t id="p10-s03-t08" type="GSL-1">named</t>
+                <t id="p10-s03-t09" type="GSL-1">in</t>
+                <anaphor id="p10-s03-a01" info="p10-s01-t01:p10-s01-t01">
+                    <t id="p10-s03-t10" type="GSL-1">her</t>
+                </anaphor>
+                <t id="p10-s03-t11" type="GSL-1">honor</t>
+                <punc>[</punc>
+                <t id="p10-s03-t12">24</t>
+                <punc>]</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p10-s04">
+                <anaphor id="p10-s04-a01" info="p10-s03-t02:p10-s03-t04">
+                    <t id="p10-s04-t01" type="GSL-1">The</t>
+                    <t id="p10-s04-t02" type="GSL-1">Observatory</t>
+                </anaphor>
+                <t id="p10-s04-t03" type="GSL-1">is</t>
+                <t id="p10-s04-t04" type="GSL-1">part</t>
+                <t id="p10-s04-t05" type="GSL-1">of</t>
+                <t id="p10-s04-t06" type="GSL-1">the</t>
+                <t id="p10-s04-t07">Maria</t>
+                <t id="p10-s04-t08">Mitchell</t>
+                <t id="p10-s04-t09" type="GSL-1">Association</t>
+                <t id="p10-s04-t10" type="GSL-1">in</t>
+                <t id="p10-s04-t11">Nantucket</t>
+                <punc>,</punc>
+                <t id="p10-s04-t12" type="GSL-1">which</t>
+                <t id="p10-s04-t13" type="GSL-2">aims</t>
+                <t id="p10-s04-t14" type="GSL-1">to</t>
+                <t id="p10-s04-t15" type="GSL-2">preserve</t>
+                <t id="p10-s04-t16" type="GSL-1">the</t>
+                <t id="p10-s04-t17" type="GSL-1">sciences</t>
+                <t id="p10-s04-t18" type="GSL-1">on</t>
+                <anaphor id="p10-s04-a02" info="p10-s04-t11:p10-s04-t11">
+                    <t id="p10-s04-t19" type="GSL-1">the</t>
+                    <t id="p10-s04-t20" type="GSL-2">island</t>
+                </anaphor>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p10-s05">
+                <anaphor id="p10-s05-a01" info="p10-s04-t07:p10-s04-t09">
+                    <t id="p10-s05-t01" type="GSL-1">It</t>
+                </anaphor>
+                <t id="p10-s05-t02" type="GSL-1">operates</t>
+                <t id="p10-s05-t03" type="GSL-1">a</t>
+                <t id="p10-s05-t04" type="GSL-1">Natural</t>
+                <t id="p10-s05-t05" type="GSL-1">History</t>
+                <t id="p10-s05-t06">Museum</t>
+                <punc>,</punc>
+                <t id="p10-s05-t07">Maria</t>
+                <t id="p10-s05-t08">Mitchell's</t>
+                <t id="p10-s05-t09" type="GSL-1">Home</t>
+                <t id="p10-s05-t10">Museum</t>
+                <punc>,</punc>
+                <t id="p10-s05-t11" type="GSL-1">and</t>
+                <t id="p10-s05-t12" type="GSL-1">the</t>
+                <t id="p10-s05-t13" type="GSL-1">Science</t>
+                <t id="p10-s05-t14" type="GSL-1">Library</t>
+                <t id="p10-s05-t15" type="GSL-1">as</t>
+                <t id="p10-s05-t16" type="GSL-1">well</t>
+                <t id="p10-s05-t17" type="GSL-1">as</t>
+                <anaphor id="p10-s05-a02" info="p10-s03-t02:p10-s03-t04">
+                    <t id="p10-s05-t18" type="GSL-1">the</t>
+                    <t id="p10-s05-t19" type="GSL-1">Observatory</t>
+                </anaphor>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p10-s06">
+                <anaphor id="p10-s06-a01" info="p10-s01-t01:p10-s01-t01">
+                    <t id="p10-s06-t01" type="GSL-1">She</t>
+                </anaphor>
+                <t id="p10-s06-t02" type="GSL-1">was</t>
+                <t id="p10-s06-t03" type="GSL-1">also</t>
+                <t id="p10-s06-t04">posthumously</t>
+                <t id="p10-s06-t05">inducted</t>
+                <t id="p10-s06-t06" type="GSL-1">into</t>
+                <t id="p10-s06-t07" type="GSL-1">the</t>
+                <t id="p10-s06-t08" type="GSL-1">US</t>
+                <t id="p10-s06-t09" type="GSL-1">National</t>
+                <t id="p10-s06-t10">Women's</t>
+                <t id="p10-s06-t11" type="GSL-2">Hall</t>
+                <t id="p10-s06-t12" type="GSL-1">of</t>
+                <t id="p10-s06-t13">Fame</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p10-s07">
+                <anaphor id="p10-s07-a01" info="p10-s01-t01:p10-s01-t01">
+                    <t id="p10-s07-t01" type="GSL-1">She</t>
+                </anaphor>
+                <t id="p10-s07-t02" type="GSL-1">was</t>
+                <t id="p10-s07-t03" type="GSL-1">the</t>
+                <t id="p10-s07-t04">namesake</t>
+                <t id="p10-s07-t05" type="GSL-1">of</t>
+                <t id="p10-s07-t06" type="GSL-1">a</t>
+                <t id="p10-s07-t07" type="GSL-1">World</t>
+                <t id="p10-s07-t08" type="GSL-1">War</t>
+                <t id="p10-s07-t09">II</t>
+                <t id="p10-s07-t10" type="GSL-2">Liberty</t>
+                <t id="p10-s07-t11" type="GSL-1">ship</t>
+                <punc>,</punc>
+                <t id="p10-s07-t12" type="GSL-1">the</t>
+                <t id="p10-s07-t13">SS</t>
+                <t id="p10-s07-t14">Maria</t>
+                <t id="p10-s07-t15">Mitchell</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p10-s08">
+                <t id="p10-s08-t01" type="GSL-1">New</t>
+                <t id="p10-s08-t02">York's</t>
+                <t id="p10-s08-t03">Metro</t>
+                <t id="p10-s08-t04" type="GSL-1">North</t>
+                <t id="p10-s08-t05">commuter</t>
+                <t id="p10-s08-t06" type="GSL-2">railroad</t>
+                <punc>(</punc>
+                <t id="p10-s08-t07" type="GSL-1">with</t>
+                <anaphor id="p10-s08-a01" info="p10-s08-t01:p10-s08-t06">
+                    <t id="p10-s08-t08" type="GSL-1">its</t>
+                    <t id="p10-s08-t09">Hudson</t>
+                </anaphor>
+                <t id="p10-s08-t10" type="GSL-1">Line</t>
+                <t id="p10-s08-t11">endpoint</t>
+                <t id="p10-s08-t12" type="GSL-1">in</t>
+                <t id="p10-s08-t13">Poughkeepsie</t>
+                <t id="p10-s08-t14" type="GSL-1">near</t>
+                <t id="p10-s08-t15">Vassar</t>
+                <t id="p10-s08-t16" type="GSL-1">College</t>
+                <punc>)</punc>
+                <t id="p10-s08-t17" type="GSL-1">has</t>
+                <t id="p10-s08-t18" type="GSL-1">a</t>
+                <t id="p10-s08-t19" type="GSL-1">train</t>
+                <t id="p10-s08-t20" type="GSL-1">named</t>
+                <emph>
+                    <t id="p10-s08-t21" type="GSL-1">The</t>
+                    <t id="p10-s08-t22">Maria</t>
+                    <t id="p10-s08-t23">Mitchell</t>
+                    <t id="p10-s08-t24">Comet</t>
+                </emph>
+                <t id="p10-s08-t25" type="GSL-1">in</t>
+                <anaphor id="p10-s08-a02" info="p10-s01-t01:p10-s01-t01">
+                    <t id="p10-s08-t26" type="GSL-1">her</t>
+                </anaphor>
+                <t id="p10-s08-t27" type="GSL-1">honor</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p10-s09">
+                <t id="p10-s09-t01" type="GSL-1">On</t>
+                <t id="p10-s09-t02" type="GSL-1">August</t>
+                <t id="p10-s09-t03">1</t>
+                <punc>,</punc>
+                <t id="p10-s09-t04">2013</t>
+                <punc>,</punc>
+                <t id="p10-s09-t05" type="GSL-1">the</t>
+                <t id="p10-s09-t06" type="GSL-2">search</t>
+                <t id="p10-s09-t07" type="GSL-2">engine</t>
+                <t id="p10-s09-t08">Google</t>
+                <t id="p10-s09-t09" type="GSL-1">honored</t>
+                <t id="p10-s09-t10">Maria</t>
+                <t id="p10-s09-t11">Mitchell</t>
+                <t id="p10-s09-t12" type="GSL-1">with</t>
+                <t id="p10-s09-t13" type="GSL-1">a</t>
+                <t id="p10-s09-t14">Google</t>
+                <t id="p10-s09-t15">doodle</t>
+                <t id="p10-s09-t16" type="GSL-1">showing</t>
+                <anaphor id="p10-s09-a01" info="p10-s09-t10:p10-s09-t11">
+                    <t id="p10-s09-t17" type="GSL-1">her</t>
+                </anaphor>
+                <t id="p10-s09-t18" type="GSL-1">in</t>
+                <t id="p10-s09-t19">cartoon</t>
+                <t id="p10-s09-t20" type="GSL-1">form</t>
+                <t id="p10-s09-t21" type="GSL-1">on</t>
+                <t id="p10-s09-t22" type="GSL-1">top</t>
+                <t id="p10-s09-t23" type="GSL-1">of</t>
+                <t id="p10-s09-t24" type="GSL-1">a</t>
+                <t id="p10-s09-t25" type="GSL-2">roof</t>
+                <t id="p10-s09-t26">gazing</t>
+                <t id="p10-s09-t27" type="GSL-1">through</t>
+                <t id="p10-s09-t28" type="GSL-1">a</t>
+                <t id="p10-s09-t29">telescope</t>
+                <t id="p10-s09-t30" type="GSL-1">in</t>
+                <t id="p10-s09-t31" type="GSL-2">search</t>
+                <t id="p10-s09-t32" type="GSL-1">of</t>
+                <t id="p10-s09-t33">comets</t>
+                <punc>.</punc>
+                <punc>[</punc>
+                <t id="p10-s09-t34">25</t>
+                <punc>]</punc>
+                <punc>[</punc>
+                <t id="p10-s09-t35">26</t>
+                <punc>]</punc>
+                <punc>[</punc>
+                <t id="p10-s09-t36">27</t>
+                <punc>]</punc>
+            </sentence>
+        </paragraph>
+    </body>
 </document>
