@@ -239,7 +239,7 @@
                 <t id="p01-s06-t28" type="GSL-1">with</t>
                 <t id="p01-s06-t29" type="GSL-1">respect</t>
                 <t id="p01-s06-t30" type="GSL-1">to</t>
-                <anaphor id="p01-s06-a01" info="">
+                <anaphor id="p01-s06-a01" info="p01-s06-t06:p01-s06-t27">
                     <t id="p01-s06-t31" type="GSL-1">the</t>
                     <t id="p01-s06-t32" type="GSL-2">opposite</t>
                     <t id="p01-s06-t33" type="Coxhead-AWL-6,AR-AWL-6b">instructions</t>
@@ -795,7 +795,7 @@
                 <t id="p03-s03-t15">spatial</t>
                 <t id="p03-s03-t16" type="Coxhead-AWL-3,AR-AWL-3b">location</t>
                 <t id="p03-s03-t17" type="GSL-1">over</t>
-                <anaphor id="p03-s03-a01" info="">
+                <anaphor id="p03-s03-a01" info="p03-s03-t14:p03-s03-t16">
                     <t id="p03-s03-t18" type="GSL-1">others</t>
                 </anaphor>
                 <punc>:</punc>
