@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Extract from If at First You Don’t Succeed, Sit Back and Listen</title>
+    <citation>Wallace, S (2014) If at First You Don’t Succeed, Sit Back and Listen. EveryONE (PLoS One blog).
+        Retrieved from http:// blogs.plos.org/everyone/2014/07/22/first-dont-succeed-sit-back-listen/ on 20 August 2015.</citation>
+    <url>http:// blogs.plos.org/everyone/2014/07/22/first-dont-succeed-sit-back-listen/</url>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01" type="GSL-1">Few</t>
+                <t id="p01-s01-t02" type="GSL-1">of</t>
+                <t id="p01-s01-t03" type="GSL-1">us</t>
+                <t id="p01-s01-t04" type="GSL-1">remember</t>
+                <t id="p01-s01-t05" type="GSL-1">how</t>
+                <t id="p01-s01-t06" type="GSL-1">easily</t>
+                <t id="p01-s01-t07" type="GSL-1">we</t>
+                <t id="p01-s01-t08" type="GSL-1">learned</t>
+                <t id="p01-s01-t09" type="GSL-1">language</t>
+                <t id="p01-s01-t10" type="GSL-1">as</t>
+                <t id="p01-s01-t11" type="GSL-1">children</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01" type="GSL-1">Although</t>
+                <t id="p01-s02-t02" type="GSL-1">the</t>
+                <t id="p01-s02-t03" type="Coxhead-AWL-2,AR-AWL-2a">acquisition</t>
+                <t id="p01-s02-t04">wasn’t</t>
+                <t id="p01-s02-t05" type="GSL-1">always</t>
+                <t id="p01-s02-t06" type="GSL-2">graceful</t>
+                <t id="p01-s02-t07" type="GSL-1">then</t>
+                <punc>—</punc>
+                <punc>‘</punc>
+                <t id="p01-s02-t08">awry</t>
+                <punc>’</punc>
+                <t id="p01-s02-t09" type="GSL-1">never</t>
+                <t id="p01-s02-t10" type="GSL-1">sounds</t>
+                <t id="p01-s02-t11" type="GSL-1">the</t>
+                <t id="p01-s02-t12" type="GSL-1">same</t>
+                <t id="p01-s02-t13" type="GSL-1">way</t>
+                <t id="p01-s02-t14" type="GSL-2">aloud</t>
+                <t id="p01-s02-t15" type="GSL-1">as</t>
+                <t id="p01-s02-t16" type="GSL-1">the</t>
+                <t id="p01-s02-t17" type="GSL-1">way</t>
+                <t id="p01-s02-t18" type="GSL-1">I</t>
+                <t id="p01-s02-t19" type="GSL-1">read</t>
+                <t id="p01-s02-t20" type="GSL-1">it</t>
+                <t id="p01-s02-t21" type="GSL-1">in</t>
+                <t id="p01-s02-t22" type="GSL-1">my</t>
+                <t id="p01-s02-t23" type="GSL-1">head</t>
+                <punc>—</punc>
+                <t id="p01-s02-t24" type="GSL-1">using</t>
+                <t id="p01-s02-t25" type="GSL-1">our</t>
+                <t id="p01-s02-t26" type="Coxhead-AWL-2,AR-AWL-2b">primary</t>
+                <t id="p01-s02-t27" type="GSL-1">language</t>
+                <t id="p01-s02-t28" type="GSL-1">as</t>
+                <t id="p01-s02-t29" type="GSL-1">an</t>
+                <t id="p01-s02-t30" type="Coxhead-AWL-7,AR-AWL-7a">adult</t>
+                <t id="p01-s02-t31" type="GSL-1">is</t>
+                <t id="p01-s02-t32" type="GSL-1">as</t>
+                <t id="p01-s02-t33" type="GSL-2">habitual</t>
+                <t id="p01-s02-t34" type="GSL-1">as</t>
+                <t id="p01-s02-t35" type="GSL-2">tying</t>
+                <t id="p01-s02-t36">shoelaces</t>
+                <t id="p01-s02-t37" type="GSL-1">and</t>
+                <t id="p01-s02-t38">seemingly</t>
+                <t id="p01-s02-t39" type="GSL-1">as</t>
+                <t id="p01-s02-t40">instinctual</t>
+                <t id="p01-s02-t41" type="GSL-1">as</t>
+                <t id="p01-s02-t42" type="GSL-1">smiling</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s03">
+                <t id="p01-s03-t01" type="GSL-1">Given</t>
+                <t id="p01-s03-t02" type="GSL-1">how</t>
+                <t id="p01-s03-t03">involuntarily</t>
+                <t id="p01-s03-t04" type="GSL-1">we</t>
+                <t id="p01-s03-t05" type="Coxhead-AWL-7,AR-AWL-7a">adults</t>
+                <t id="p01-s03-t06" type="GSL-1">use</t>
+                <t id="p01-s03-t07" type="GSL-1">our</t>
+                <t id="p01-s03-t08" type="Coxhead-AWL-2,AR-AWL-2b">primary</t>
+                <t id="p01-s03-t09" type="GSL-1">language</t>
+                <punc>,</punc>
+                <t id="p01-s03-t10">it’s</t>
+                <t id="p01-s03-t11" type="GSL-2">shocking</t>
+                <t id="p01-s03-t12" type="GSL-1">how</t>
+                <t id="p01-s03-t13" type="GSL-1">difficult</t>
+                <t id="p01-s03-t14" type="GSL-1">learning</t>
+                <t id="p01-s03-t15" type="GSL-1">new</t>
+                <t id="p01-s03-t16" type="GSL-1">languages</t>
+                <t id="p01-s03-t17" type="GSL-1">as</t>
+                <t id="p01-s03-t18" type="GSL-1">an</t>
+                <t id="p01-s03-t19" type="Coxhead-AWL-7,AR-AWL-7a">adult</t>
+                <t id="p01-s03-t20" type="GSL-1">can</t>
+                <t id="p01-s03-t21" type="GSL-1">be</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s04">
+                <t id="p01-s04-t01" type="GSL-1">The</t>
+                <t id="p01-s04-t02" type="Coxhead-AWL-6,AR-AWL-6a">authors</t>
+                <t id="p01-s04-t03" type="GSL-1">of</t>
+                <t id="p01-s04-t04" type="GSL-1">a</t>
+                <t id="p01-s04-t05" type="GSL-1">recent</t>
+                <t id="p01-s04-t06">PLOS</t>
+                <t id="p01-s04-t07" type="GSL-1">ONE</t>
+                <t id="p01-s04-t08" type="GSL-1">paper</t>
+                <t id="p01-s04-t09">postulated</t>
+                <t id="p01-s04-t10" type="GSL-1">that</t>
+                <t id="p01-s04-t11" type="GSL-1">the</t>
+                <t id="p01-s04-t12" type="GSL-1">very</t>
+                <t id="p01-s04-t13" type="Coxhead-AWL-1,AR-AWL-1a">functions</t>
+                <t id="p01-s04-t14" type="GSL-1">we</t>
+                <t id="p01-s04-t15" type="GSL-1">develop</t>
+                <t id="p01-s04-t16" type="GSL-1">as</t>
+                <t id="p01-s04-t17" type="GSL-1">our</t>
+                <t id="p01-s04-t18" type="GSL-2">brains</t>
+                <t id="p01-s04-t19" type="Coxhead-AWL-9,AR-AWL-9b">mature</t>
+                <t id="p01-s04-t20" type="GSL-1">as</t>
+                <t id="p01-s04-t21" type="Coxhead-AWL-7,AR-AWL-7a">adults</t>
+                <t id="p01-s04-t22" type="GSL-1">may</t>
+                <t id="p01-s04-t23" type="GSL-1">be</t>
+                <t id="p01-s04-t24" type="GSL-1">what</t>
+                <t id="p01-s04-t25" type="GSL-2">hinder</t>
+                <t id="p01-s04-t26" type="GSL-1">us</t>
+                <t id="p01-s04-t27" type="GSL-1">from</t>
+                <t id="p01-s04-t28" type="GSL-1">mastering</t>
+                <t id="p01-s04-t29" type="GSL-1">language</t>
+                <t id="p01-s04-t30" type="GSL-1">the</t>
+                <t id="p01-s04-t31" type="GSL-1">way</t>
+                <t id="p01-s04-t32" type="GSL-1">a</t>
+                <t id="p01-s04-t33" type="GSL-1">child</t>
+                <t id="p01-s04-t34" type="GSL-1">does</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s05">
+                <t id="p01-s05-t01" type="GSL-1">We</t>
+                <t id="p01-s05-t02" type="GSL-1">might</t>
+                <punc>,</punc>
+                <t id="p01-s05-t03" type="GSL-1">in</t>
+                <t id="p01-s05-t04" type="GSL-1">fact</t>
+                <punc>,</punc>
+                <t id="p01-s05-t05" type="GSL-1">be</t>
+                <punc>“</punc>
+                <t id="p01-s05-t06" type="GSL-1">trying</t>
+                <punc>”</punc>
+                <t id="p01-s05-t07" type="GSL-1">too</t>
+                <t id="p01-s05-t08" type="GSL-1">hard</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence id="p02-s01">
+                <t id="p02-s01-t01" type="Coxhead-AWL-1,AR-AWL-1b">Researchers</t>
+                <t id="p02-s01-t02" type="GSL-1">have</t>
+                <t id="p02-s01-t03" type="GSL-1">shown</t>
+                <t id="p02-s01-t04" type="GSL-1">in</t>
+                <t id="p02-s01-t05" type="Coxhead-AWL-2,AR-AWL-2b">previous</t>
+                <t id="p02-s01-t06" type="GSL-1">studies</t>
+                <t id="p02-s01-t07" type="GSL-1">that</t>
+                <t id="p02-s01-t08" type="Coxhead-AWL-7,AR-AWL-7a">adults</t>
+                <t id="p02-s01-t09">outperform</t>
+                <t id="p02-s01-t10" type="GSL-1">children</t>
+                <t id="p02-s01-t11" type="GSL-1">in</t>
+                <t id="p02-s01-t12" type="Coxhead-AWL-3,AR-AWL-3b">tasks</t>
+                <t id="p02-s01-t13" type="GSL-1">that</t>
+                <t id="p02-s01-t14" type="Coxhead-AWL-1,AR-AWL-1b">require</t>
+                <t id="p02-s01-t15">attentional</t>
+                <t id="p02-s01-t16" type="Coxhead-AWL-2,AR-AWL-2a">focus</t>
+                <t id="p02-s01-t17" type="GSL-1">and</t>
+                <t id="p02-s01-t18" type="GSL-1">effort</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s02">
+                <t id="p02-s02-t01" type="GSL-1">This</t>
+                <t id="p02-s02-t02" type="GSL-1">is</t>
+                <t id="p02-s02-t03" type="GSL-1">because</t>
+                <t id="p02-s02-t04" type="GSL-1">the</t>
+                <t id="p02-s02-t05" type="Coxhead-AWL-2,AR-AWL-2b">regions</t>
+                <t id="p02-s02-t06" type="GSL-1">of</t>
+                <t id="p02-s02-t07" type="GSL-1">the</t>
+                <t id="p02-s02-t08" type="GSL-2">brain</t>
+                <t id="p02-s02-t09" type="GSL-1">associated</t>
+                <t id="p02-s02-t10" type="GSL-1">with</t>
+                <t id="p02-s02-t11" type="GSL-1">these</t>
+                <t id="p02-s02-t12" type="GSL-1">abilities</t>
+                <punc>—</punc>
+                <t id="p02-s02-t13" type="GSL-1">the</t>
+                <t id="p02-s02-t14">prefrontal</t>
+                <t id="p02-s02-t15" type="GSL-1">and</t>
+                <t id="p02-s02-t16">parietal</t>
+                <t id="p02-s02-t17">cortices</t>
+                <punc>—</punc>
+                <t id="p02-s02-t18" type="GSL-1">develop</t>
+                <t id="p02-s02-t19" type="GSL-1">more</t>
+                <t id="p02-s02-t20" type="GSL-2">slowly</t>
+                <punc>,</punc>
+                <t id="p02-s02-t21" type="GSL-1">and</t>
+                <t id="p02-s02-t22" type="GSL-1">as</t>
+                <t id="p02-s02-t23" type="GSL-1">a</t>
+                <t id="p02-s02-t24" type="GSL-1">result</t>
+                <punc>,</punc>
+                <t id="p02-s02-t25" type="GSL-1">these</t>
+                <t id="p02-s02-t26" type="GSL-1">abilities</t>
+                <t id="p02-s02-t27" type="GSL-1">become</t>
+                <t id="p02-s02-t28" type="GSL-1">stronger</t>
+                <t id="p02-s02-t29" type="GSL-1">as</t>
+                <t id="p02-s02-t30" type="GSL-1">we</t>
+                <t id="p02-s02-t31" type="GSL-1">age</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s03">
+                <t id="p02-s03-t01" type="GSL-1">In</t>
+                <t id="p02-s03-t02" type="GSL-1">other</t>
+                <t id="p02-s03-t03" type="GSL-1">words</t>
+                <punc>,</punc>
+                <t id="p02-s03-t04" type="Coxhead-AWL-7,AR-AWL-7a">adult</t>
+                <t id="p02-s03-t05" type="GSL-2">brains</t>
+                <t id="p02-s03-t06" type="GSL-1">develop</t>
+                <t id="p02-s03-t07" type="GSL-1">abilities</t>
+                <t id="p02-s03-t08" type="GSL-1">that</t>
+                <t id="p02-s03-t09" type="GSL-1">help</t>
+                <t id="p02-s03-t10" type="GSL-1">us</t>
+                <punc>“</punc>
+                <t id="p02-s03-t11" type="GSL-1">try</t>
+                <t id="p02-s03-t12" type="GSL-1">harder</t>
+                <punc>.</punc>
+                <punc>”</punc>
+            </sentence>
+            <sentence id="p02-s04">
+                <t id="p02-s04-t01" type="GSL-1">These</t>
+                <t id="p02-s04-t02" type="GSL-1">same</t>
+                <t id="p02-s04-t03" type="Coxhead-AWL-6,AR-AWL-6a">capabilities</t>
+                <t id="p02-s04-t04" type="GSL-1">may</t>
+                <punc>,</punc>
+                <t id="p02-s04-t05" type="GSL-1">however</t>
+                <punc>,</punc>
+                <t id="p02-s04-t06" type="GSL-2">interfere</t>
+                <t id="p02-s04-t07" type="GSL-1">with</t>
+                <t id="p02-s04-t08" type="GSL-1">our</t>
+                <t id="p02-s04-t09" type="Coxhead-AWL-5,AR-AWL-5a">capacity</t>
+                <t id="p02-s04-t10" type="GSL-1">to</t>
+                <t id="p02-s04-t11" type="GSL-1">learn</t>
+                <t id="p02-s04-t12" type="GSL-1">some</t>
+                <t id="p02-s04-t13" type="Coxhead-AWL-2,AR-AWL-2a">aspects</t>
+                <t id="p02-s04-t14" type="GSL-1">of</t>
+                <t id="p02-s04-t15" type="GSL-1">language</t>
+                <t id="p02-s04-t16" type="GSL-1">as</t>
+                <t id="p02-s04-t17" type="Coxhead-AWL-7,AR-AWL-7a">adults</t>
+                <punc>,</punc>
+                <t id="p02-s04-t18" type="GSL-1">like</t>
+                <t id="p02-s04-t19" type="GSL-1">the</t>
+                <t id="p02-s04-t20">tricky</t>
+                <t id="p02-s04-t21" type="Coxhead-AWL-5,AR-AWL-5b">networks</t>
+                <t id="p02-s04-t22" type="GSL-1">that</t>
+                <t id="p02-s04-t23" type="Coxhead-AWL-6,AR-AWL-6b">underlie</t>
+                <t id="p02-s04-t24" type="GSL-2">grammar</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

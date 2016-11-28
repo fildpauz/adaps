@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Extract from Algorithm</title>
+    <citation>Simple English Wikipedia: “Algorithm”. Retrieved from https://simple.wikipedia.org/wiki/Algorithm on 20 Aug 2015.</citation>
+    <url>https://simple.wikipedia.org/wiki/Algorithm</url>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01">An</t>
+                <t id="p01-s01-t02">algorithm</t>
+                <t id="p01-s01-t03">is</t>
+                <t id="p01-s01-t04">a</t>
+                <t id="p01-s01-t05">step</t>
+                <punc>-</punc>
+                <t id="p01-s01-t06">by</t>
+                <punc>-</punc>
+                <t id="p01-s01-t07">step</t>
+                <t id="p01-s01-t08">list</t>
+                <t id="p01-s01-t09">of</t>
+                <t id="p01-s01-t10">directions</t>
+                <t id="p01-s01-t11">that</t>
+                <t id="p01-s01-t12">need</t>
+                <t id="p01-s01-t13">to</t>
+                <t id="p01-s01-t14">be</t>
+                <t id="p01-s01-t15">followed</t>
+                <t id="p01-s01-t16">to</t>
+                <t id="p01-s01-t17">solve</t>
+                <t id="p01-s01-t18">a</t>
+                <t id="p01-s01-t19">problem</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01">The</t>
+                <t id="p01-s02-t02">instructions</t>
+                <t id="p01-s02-t03">should</t>
+                <t id="p01-s02-t04">be</t>
+                <t id="p01-s02-t05">simple</t>
+                <t id="p01-s02-t06">enough</t>
+                <t id="p01-s02-t07">such</t>
+                <t id="p01-s02-t08">that</t>
+                <t id="p01-s02-t09">each</t>
+                <t id="p01-s02-t10">step</t>
+                <t id="p01-s02-t11">can</t>
+                <t id="p01-s02-t12">be</t>
+                <t id="p01-s02-t13">done</t>
+                <t id="p01-s02-t14">without</t>
+                <t id="p01-s02-t15">thinking</t>
+                <t id="p01-s02-t16">about</t>
+                <t id="p01-s02-t17">it</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s03">
+                <t id="p01-s03-t01">Algorithms</t>
+                <t id="p01-s03-t02">are</t>
+                <t id="p01-s03-t03">often</t>
+                <t id="p01-s03-t04">used</t>
+                <t id="p01-s03-t05">to</t>
+                <t id="p01-s03-t06">describe</t>
+                <t id="p01-s03-t07">how</t>
+                <t id="p01-s03-t08">a</t>
+                <t id="p01-s03-t09">computer</t>
+                <t id="p01-s03-t10">might</t>
+                <t id="p01-s03-t11">solve</t>
+                <t id="p01-s03-t12">a</t>
+                <t id="p01-s03-t13">problem</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s04">
+                <t id="p01-s04-t01">But</t>
+                <t id="p01-s04-t02">there</t>
+                <t id="p01-s04-t03">are</t>
+                <t id="p01-s04-t04">algorithms</t>
+                <t id="p01-s04-t05">in</t>
+                <t id="p01-s04-t06">the</t>
+                <t id="p01-s04-t07">real</t>
+                <t id="p01-s04-t08">world</t>
+                <t id="p01-s04-t09">too</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s05">
+                <t id="p01-s05-t01">A</t>
+                <t id="p01-s05-t02">recipe</t>
+                <t id="p01-s05-t03">can</t>
+                <t id="p01-s05-t04">be</t>
+                <t id="p01-s05-t05">considered</t>
+                <t id="p01-s05-t06">a</t>
+                <t id="p01-s05-t07">type</t>
+                <t id="p01-s05-t08">of</t>
+                <t id="p01-s05-t09">algorithm</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s06">
+                <t id="p01-s06-t01">It</t>
+                <t id="p01-s06-t02">tells</t>
+                <t id="p01-s06-t03">what</t>
+                <t id="p01-s06-t04">ingredients</t>
+                <t id="p01-s06-t05">are</t>
+                <t id="p01-s06-t06">needed</t>
+                <t id="p01-s06-t07">to</t>
+                <t id="p01-s06-t08">make</t>
+                <t id="p01-s06-t09">the</t>
+                <t id="p01-s06-t10">dish</t>
+                <t id="p01-s06-t11">and</t>
+                <t id="p01-s06-t12">what</t>
+                <t id="p01-s06-t13">steps</t>
+                <t id="p01-s06-t14">to</t>
+                <t id="p01-s06-t15">follow</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s07">
+                <t id="p01-s07-t01">If</t>
+                <t id="p01-s07-t02">the</t>
+                <t id="p01-s07-t03">recipe</t>
+                <t id="p01-s07-t04">tells</t>
+                <t id="p01-s07-t05">exactly</t>
+                <t id="p01-s07-t06">what</t>
+                <t id="p01-s07-t07">to</t>
+                <t id="p01-s07-t08">do</t>
+                <t id="p01-s07-t09">without</t>
+                <t id="p01-s07-t10">too</t>
+                <t id="p01-s07-t11">much</t>
+                <t id="p01-s07-t12">confusion</t>
+                <punc>,</punc>
+                <t id="p01-s07-t13">then</t>
+                <t id="p01-s07-t14">it</t>
+                <t id="p01-s07-t15">is</t>
+                <t id="p01-s07-t16">an</t>
+                <t id="p01-s07-t17">algorithm</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence id="p02-s01">
+                <t id="p02-s01-t01">Comparing</t>
+                <t id="p02-s01-t02">algorithms</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p03">
+            <sentence id="p03-s01">
+                <t id="p03-s01-t01">There</t>
+                <t id="p03-s01-t02">is</t>
+                <t id="p03-s01-t03">usually</t>
+                <t id="p03-s01-t04">more</t>
+                <t id="p03-s01-t05">than</t>
+                <t id="p03-s01-t06">one</t>
+                <t id="p03-s01-t07">way</t>
+                <t id="p03-s01-t08">to</t>
+                <t id="p03-s01-t09">solve</t>
+                <t id="p03-s01-t10">a</t>
+                <t id="p03-s01-t11">problem</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s02">
+                <t id="p03-s02-t01">There</t>
+                <t id="p03-s02-t02">may</t>
+                <t id="p03-s02-t03">be</t>
+                <t id="p03-s02-t04">many</t>
+                <t id="p03-s02-t05">different</t>
+                <t id="p03-s02-t06">recipes</t>
+                <t id="p03-s02-t07">to</t>
+                <t id="p03-s02-t08">make</t>
+                <t id="p03-s02-t09">a</t>
+                <t id="p03-s02-t10">certain</t>
+                <t id="p03-s02-t11">dish</t>
+                <t id="p03-s02-t12">which</t>
+                <t id="p03-s02-t13">looks</t>
+                <t id="p03-s02-t14">different</t>
+                <t id="p03-s02-t15">but</t>
+                <t id="p03-s02-t16">ends</t>
+                <t id="p03-s02-t17">up</t>
+                <t id="p03-s02-t18">tasting</t>
+                <t id="p03-s02-t19">the</t>
+                <t id="p03-s02-t20">same</t>
+                <t id="p03-s02-t21">when</t>
+                <t id="p03-s02-t22">all</t>
+                <t id="p03-s02-t23">is</t>
+                <t id="p03-s02-t24">said</t>
+                <t id="p03-s02-t25">and</t>
+                <t id="p03-s02-t26">done</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s03">
+                <t id="p03-s03-t01">The</t>
+                <t id="p03-s03-t02">same</t>
+                <t id="p03-s03-t03">is</t>
+                <t id="p03-s03-t04">true</t>
+                <t id="p03-s03-t05">for</t>
+                <t id="p03-s03-t06">algorithms</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s04">
+                <t id="p03-s04-t01">However</t>
+                <punc>,</punc>
+                <t id="p03-s04-t02">some</t>
+                <t id="p03-s04-t03">of</t>
+                <t id="p03-s04-t04">these</t>
+                <t id="p03-s04-t05">ways</t>
+                <t id="p03-s04-t06">will</t>
+                <t id="p03-s04-t07">be</t>
+                <t id="p03-s04-t08">better</t>
+                <t id="p03-s04-t09">than</t>
+                <t id="p03-s04-t10">others</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s05">
+                <t id="p03-s05-t01">If</t>
+                <t id="p03-s05-t02">a</t>
+                <t id="p03-s05-t03">recipe</t>
+                <t id="p03-s05-t04">needs</t>
+                <t id="p03-s05-t05">lots</t>
+                <t id="p03-s05-t06">of</t>
+                <t id="p03-s05-t07">complicated</t>
+                <t id="p03-s05-t08">ingredients</t>
+                <t id="p03-s05-t09">that</t>
+                <t id="p03-s05-t10">you</t>
+                <t id="p03-s05-t11">do</t>
+                <t id="p03-s05-t12">not</t>
+                <t id="p03-s05-t13">have</t>
+                <punc>,</punc>
+                <t id="p03-s05-t14">it</t>
+                <t id="p03-s05-t15">is</t>
+                <t id="p03-s05-t16">not</t>
+                <t id="p03-s05-t17">as</t>
+                <t id="p03-s05-t18">a</t>
+                <t id="p03-s05-t19">good</t>
+                <t id="p03-s05-t20">as</t>
+                <t id="p03-s05-t21">a</t>
+                <t id="p03-s05-t22">simple</t>
+                <t id="p03-s05-t23">recipe</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s06">
+                <t id="p03-s06-t01">When</t>
+                <t id="p03-s06-t02">we</t>
+                <t id="p03-s06-t03">look</t>
+                <t id="p03-s06-t04">at</t>
+                <t id="p03-s06-t05">algorithms</t>
+                <t id="p03-s06-t06">as</t>
+                <t id="p03-s06-t07">a</t>
+                <t id="p03-s06-t08">way</t>
+                <t id="p03-s06-t09">of</t>
+                <t id="p03-s06-t10">solving</t>
+                <t id="p03-s06-t11">problems</t>
+                <punc>,</punc>
+                <t id="p03-s06-t12">often</t>
+                <t id="p03-s06-t13">we</t>
+                <t id="p03-s06-t14">want</t>
+                <t id="p03-s06-t15">to</t>
+                <t id="p03-s06-t16">know</t>
+                <t id="p03-s06-t17">how</t>
+                <t id="p03-s06-t18">long</t>
+                <t id="p03-s06-t19">it</t>
+                <t id="p03-s06-t20">would</t>
+                <t id="p03-s06-t21">take</t>
+                <t id="p03-s06-t22">a</t>
+                <t id="p03-s06-t23">computer</t>
+                <t id="p03-s06-t24">to</t>
+                <t id="p03-s06-t25">solve</t>
+                <t id="p03-s06-t26">the</t>
+                <t id="p03-s06-t27">problem</t>
+                <t id="p03-s06-t28">using</t>
+                <t id="p03-s06-t29">a</t>
+                <t id="p03-s06-t30">particular</t>
+                <t id="p03-s06-t31">algorithm</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s07">
+                <t id="p03-s07-t01">When</t>
+                <t id="p03-s07-t02">we</t>
+                <t id="p03-s07-t03">write</t>
+                <t id="p03-s07-t04">algorithms</t>
+                <punc>,</punc>
+                <t id="p03-s07-t05">we</t>
+                <t id="p03-s07-t06">like</t>
+                <t id="p03-s07-t07">our</t>
+                <t id="p03-s07-t08">algorithm</t>
+                <t id="p03-s07-t09">to</t>
+                <t id="p03-s07-t10">take</t>
+                <t id="p03-s07-t11">the</t>
+                <t id="p03-s07-t12">least</t>
+                <t id="p03-s07-t13">amount</t>
+                <t id="p03-s07-t14">of</t>
+                <t id="p03-s07-t15">time</t>
+                <t id="p03-s07-t16">so</t>
+                <t id="p03-s07-t17">that</t>
+                <t id="p03-s07-t18">we</t>
+                <t id="p03-s07-t19">can</t>
+                <t id="p03-s07-t20">solve</t>
+                <t id="p03-s07-t21">our</t>
+                <t id="p03-s07-t22">problem</t>
+                <t id="p03-s07-t23">as</t>
+                <t id="p03-s07-t24">quickly</t>
+                <t id="p03-s07-t25">as</t>
+                <t id="p03-s07-t26">possible</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p04">
+            <sentence id="p04-s01">
+                <t id="p04-s01-t01">In</t>
+                <t id="p04-s01-t02">cooking</t>
+                <punc>,</punc>
+                <t id="p04-s01-t03">some</t>
+                <t id="p04-s01-t04">recipes</t>
+                <t id="p04-s01-t05">are</t>
+                <t id="p04-s01-t06">more</t>
+                <t id="p04-s01-t07">difficult</t>
+                <t id="p04-s01-t08">to</t>
+                <t id="p04-s01-t09">do</t>
+                <t id="p04-s01-t10">than</t>
+                <t id="p04-s01-t11">others</t>
+                <punc>,</punc>
+                <t id="p04-s01-t12">because</t>
+                <t id="p04-s01-t13">they</t>
+                <t id="p04-s01-t14">take</t>
+                <t id="p04-s01-t15">more</t>
+                <t id="p04-s01-t16">time</t>
+                <t id="p04-s01-t17">to</t>
+                <t id="p04-s01-t18">finish</t>
+                <t id="p04-s01-t19">or</t>
+                <t id="p04-s01-t20">have</t>
+                <t id="p04-s01-t21">more</t>
+                <t id="p04-s01-t22">things</t>
+                <t id="p04-s01-t23">to</t>
+                <t id="p04-s01-t24">keep</t>
+                <t id="p04-s01-t25">track</t>
+                <t id="p04-s01-t26">of</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p04-s02">
+                <t id="p04-s02-t01">It</t>
+                <t id="p04-s02-t02">is</t>
+                <t id="p04-s02-t03">the</t>
+                <t id="p04-s02-t04">same</t>
+                <t id="p04-s02-t05">for</t>
+                <t id="p04-s02-t06">algorithms</t>
+                <punc>,</punc>
+                <t id="p04-s02-t07">and</t>
+                <t id="p04-s02-t08">algorithms</t>
+                <t id="p04-s02-t09">are</t>
+                <t id="p04-s02-t10">better</t>
+                <t id="p04-s02-t11">when</t>
+                <t id="p04-s02-t12">they</t>
+                <t id="p04-s02-t13">are</t>
+                <t id="p04-s02-t14">easier</t>
+                <t id="p04-s02-t15">for</t>
+                <t id="p04-s02-t16">the</t>
+                <t id="p04-s02-t17">computer</t>
+                <t id="p04-s02-t18">to</t>
+                <t id="p04-s02-t19">do</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p04-s03">
+                <t id="p04-s03-t01">The</t>
+                <t id="p04-s03-t02">thing</t>
+                <t id="p04-s03-t03">that</t>
+                <t id="p04-s03-t04">measures</t>
+                <t id="p04-s03-t05">how</t>
+                <t id="p04-s03-t06">hard</t>
+                <t id="p04-s03-t07">an</t>
+                <t id="p04-s03-t08">algorithm</t>
+                <t id="p04-s03-t09">is</t>
+                <t id="p04-s03-t10">called</t>
+                <t id="p04-s03-t11">complexity</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p04-s04">
+                <t id="p04-s04-t01">When</t>
+                <t id="p04-s04-t02">we</t>
+                <t id="p04-s04-t03">ask</t>
+                <t id="p04-s04-t04">how</t>
+                <t id="p04-s04-t05">complex</t>
+                <t id="p04-s04-t06">an</t>
+                <t id="p04-s04-t07">algorithm</t>
+                <t id="p04-s04-t08">is</t>
+                <punc>,</punc>
+                <t id="p04-s04-t09">often</t>
+                <t id="p04-s04-t10">we</t>
+                <t id="p04-s04-t11">want</t>
+                <t id="p04-s04-t12">to</t>
+                <t id="p04-s04-t13">know</t>
+                <t id="p04-s04-t14">how</t>
+                <t id="p04-s04-t15">long</t>
+                <t id="p04-s04-t16">it</t>
+                <t id="p04-s04-t17">will</t>
+                <t id="p04-s04-t18">take</t>
+                <t id="p04-s04-t19">a</t>
+                <t id="p04-s04-t20">computer</t>
+                <t id="p04-s04-t21">to</t>
+                <t id="p04-s04-t22">solve</t>
+                <t id="p04-s04-t23">the</t>
+                <t id="p04-s04-t24">problem</t>
+                <t id="p04-s04-t25">we</t>
+                <t id="p04-s04-t26">want</t>
+                <t id="p04-s04-t27">it</t>
+                <t id="p04-s04-t28">to</t>
+                <t id="p04-s04-t29">solve</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p05">
+            <sentence id="p05-s01">
+                <t id="p05-s01-t01">Sorting</t>
+                <t id="p05-s01-t02">by</t>
+                <t id="p05-s01-t03">numbers</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p06">
+            <sentence id="p06-s01">
+                <t id="p06-s01-t01">This</t>
+                <t id="p06-s01-t02">is</t>
+                <t id="p06-s01-t03">an</t>
+                <t id="p06-s01-t04">example</t>
+                <t id="p06-s01-t05">of</t>
+                <t id="p06-s01-t06">an</t>
+                <t id="p06-s01-t07">algorithm</t>
+                <t id="p06-s01-t08">for</t>
+                <t id="p06-s01-t09">sorting</t>
+                <t id="p06-s01-t10">a</t>
+                <t id="p06-s01-t11">stack</t>
+                <t id="p06-s01-t12">of</t>
+                <t id="p06-s01-t13">cards</t>
+                <t id="p06-s01-t14">with</t>
+                <t id="p06-s01-t15">many</t>
+                <t id="p06-s01-t16">different</t>
+                <t id="p06-s01-t17">numbers</t>
+                <punc>,</punc>
+                <t id="p06-s01-t18">so</t>
+                <t id="p06-s01-t19">that</t>
+                <t id="p06-s01-t20">the</t>
+                <t id="p06-s01-t21">numbers</t>
+                <t id="p06-s01-t22">are</t>
+                <t id="p06-s01-t23">in</t>
+                <t id="p06-s01-t24">order</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p07">
+            <sentence id="p07-s01">
+                <t id="p07-s01-t01">Players</t>
+                <t id="p07-s01-t02">start</t>
+                <t id="p07-s01-t03">with</t>
+                <t id="p07-s01-t04">a</t>
+                <t id="p07-s01-t05">stack</t>
+                <t id="p07-s01-t06">of</t>
+                <t id="p07-s01-t07">cards</t>
+                <t id="p07-s01-t08">that</t>
+                <t id="p07-s01-t09">have</t>
+                <t id="p07-s01-t10">not</t>
+                <t id="p07-s01-t11">been</t>
+                <t id="p07-s01-t12">sorted</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p08">
+            <sentence id="p08-s01">
+                <t id="p08-s01-t01">This</t>
+                <t id="p08-s01-t02">algorithm</t>
+                <t id="p08-s01-t03">goes</t>
+                <t id="p08-s01-t04">through</t>
+                <t id="p08-s01-t05">the</t>
+                <t id="p08-s01-t06">stack</t>
+                <t id="p08-s01-t07">of</t>
+                <t id="p08-s01-t08">cards</t>
+                <punc>,</punc>
+                <t id="p08-s01-t09">one</t>
+                <t id="p08-s01-t10">position</t>
+                <t id="p08-s01-t11">at</t>
+                <t id="p08-s01-t12">a</t>
+                <t id="p08-s01-t13">time</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s02">
+                <t id="p08-s02-t01">The</t>
+                <t id="p08-s02-t02">card</t>
+                <t id="p08-s02-t03">in</t>
+                <t id="p08-s02-t04">each</t>
+                <t id="p08-s02-t05">position</t>
+                <t id="p08-s02-t06">is</t>
+                <t id="p08-s02-t07">compared</t>
+                <t id="p08-s02-t08">to</t>
+                <t id="p08-s02-t09">the</t>
+                <t id="p08-s02-t10">next</t>
+                <t id="p08-s02-t11">card</t>
+                <t id="p08-s02-t12">in</t>
+                <t id="p08-s02-t13">the</t>
+                <t id="p08-s02-t14">stack</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s03">
+                <t id="p08-s03-t01">Please</t>
+                <t id="p08-s03-t02">note</t>
+                <t id="p08-s03-t03">that</t>
+                <t id="p08-s03-t04">this</t>
+                <t id="p08-s03-t05">position</t>
+                <t id="p08-s03-t06">only</t>
+                <t id="p08-s03-t07">changes</t>
+                <t id="p08-s03-t08">in</t>
+                <t id="p08-s03-t09">step</t>
+                <t id="p08-s03-t10">3</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s04">
+                <t id="p08-s04-t01">This</t>
+                <t id="p08-s04-t02">algorithm</t>
+                <t id="p08-s04-t03">is</t>
+                <t id="p08-s04-t04">called</t>
+                <t id="p08-s04-t05">bubble</t>
+                <t id="p08-s04-t06">sort</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s05">
+                <t id="p08-s05-t01">It</t>
+                <t id="p08-s05-t02">is</t>
+                <t id="p08-s05-t03">slow</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s06">
+                <t id="p08-s06-t01">1</t>
+                <punc>.</punc>
+                <t id="p08-s06-t02">If</t>
+                <t id="p08-s06-t03">the</t>
+                <t id="p08-s06-t04">stack</t>
+                <t id="p08-s06-t05">of</t>
+                <t id="p08-s06-t06">cards</t>
+                <t id="p08-s06-t07">is</t>
+                <t id="p08-s06-t08">empty</t>
+                <punc>,</punc>
+                <t id="p08-s06-t09">or</t>
+                <t id="p08-s06-t10">it</t>
+                <t id="p08-s06-t11">only</t>
+                <t id="p08-s06-t12">contains</t>
+                <t id="p08-s06-t13">one</t>
+                <t id="p08-s06-t14">card</t>
+                <punc>,</punc>
+                <t id="p08-s06-t15">it</t>
+                <t id="p08-s06-t16">is</t>
+                <t id="p08-s06-t17">sorted</t>
+                <punc>;</punc>
+                <t id="p08-s06-t18">you</t>
+                <t id="p08-s06-t19">are</t>
+                <t id="p08-s06-t20">done</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s07">
+                <t id="p08-s07-t01">2</t>
+                <punc>.</punc>
+                <t id="p08-s07-t02">Take</t>
+                <t id="p08-s07-t03">the</t>
+                <t id="p08-s07-t04">stack</t>
+                <t id="p08-s07-t05">of</t>
+                <t id="p08-s07-t06">cards</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s08">
+                <t id="p08-s08-t01">Look</t>
+                <t id="p08-s08-t02">at</t>
+                <t id="p08-s08-t03">the</t>
+                <t id="p08-s08-t04">first</t>
+                <t id="p08-s08-t05">card</t>
+                <punc>(</punc>
+                <t id="p08-s08-t06">the</t>
+                <t id="p08-s08-t07">top</t>
+                <punc>)</punc>
+                <t id="p08-s08-t08">of</t>
+                <t id="p08-s08-t09">the</t>
+                <t id="p08-s08-t10">stack</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s09">
+                <t id="p08-s09-t01">3</t>
+                <punc>.</punc>
+                <t id="p08-s09-t02">The</t>
+                <t id="p08-s09-t03">card</t>
+                <t id="p08-s09-t04">you</t>
+                <t id="p08-s09-t05">are</t>
+                <t id="p08-s09-t06">looking</t>
+                <t id="p08-s09-t07">at</t>
+                <t id="p08-s09-t08">is</t>
+                <t id="p08-s09-t09">card</t>
+                <t id="p08-s09-t10">A</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s10">
+                <t id="p08-s10-t01">The</t>
+                <t id="p08-s10-t02">position</t>
+                <t id="p08-s10-t03">where</t>
+                <t id="p08-s10-t04">card</t>
+                <t id="p08-s10-t05">A</t>
+                <t id="p08-s10-t06">currently</t>
+                <t id="p08-s10-t07">is</t>
+                <t id="p08-s10-t08">in</t>
+                <t id="p08-s10-t09">the</t>
+                <t id="p08-s10-t10">stack</t>
+                <t id="p08-s10-t11">is</t>
+                <t id="p08-s10-t12">P</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s11">
+                <t id="p08-s11-t01">4</t>
+                <punc>.</punc>
+                <t id="p08-s11-t02">If</t>
+                <t id="p08-s11-t03">there</t>
+                <t id="p08-s11-t04">are</t>
+                <t id="p08-s11-t05">no</t>
+                <t id="p08-s11-t06">more</t>
+                <t id="p08-s11-t07">cards</t>
+                <t id="p08-s11-t08">in</t>
+                <t id="p08-s11-t09">the</t>
+                <t id="p08-s11-t10">stack</t>
+                <t id="p08-s11-t11">after</t>
+                <t id="p08-s11-t12">card</t>
+                <t id="p08-s11-t13">A</t>
+                <punc>,</punc>
+                <t id="p08-s11-t14">go</t>
+                <t id="p08-s11-t15">to</t>
+                <t id="p08-s11-t16">step</t>
+                <t id="p08-s11-t17">8</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s12">
+                <t id="p08-s12-t01">5</t>
+                <punc>.</punc>
+                <t id="p08-s12-t02">The</t>
+                <t id="p08-s12-t03">next</t>
+                <t id="p08-s12-t04">card</t>
+                <t id="p08-s12-t05">in</t>
+                <t id="p08-s12-t06">the</t>
+                <t id="p08-s12-t07">stack</t>
+                <t id="p08-s12-t08">is</t>
+                <t id="p08-s12-t09">card</t>
+                <t id="p08-s12-t10">B</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s13">
+                <t id="p08-s13-t01">6</t>
+                <punc>.</punc>
+                <t id="p08-s13-t02">If</t>
+                <t id="p08-s13-t03">card</t>
+                <t id="p08-s13-t04">B</t>
+                <t id="p08-s13-t05">has</t>
+                <t id="p08-s13-t06">a</t>
+                <t id="p08-s13-t07">lower</t>
+                <t id="p08-s13-t08">number</t>
+                <t id="p08-s13-t09">than</t>
+                <t id="p08-s13-t10">card</t>
+                <t id="p08-s13-t11">A</t>
+                <punc>,</punc>
+                <t id="p08-s13-t12">swap</t>
+                <t id="p08-s13-t13">the</t>
+                <t id="p08-s13-t14">positions</t>
+                <t id="p08-s13-t15">of</t>
+                <t id="p08-s13-t16">cards</t>
+                <t id="p08-s13-t17">A</t>
+                <t id="p08-s13-t18">and</t>
+                <t id="p08-s13-t19">B</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s14">
+                <t id="p08-s14-t01">Remember</t>
+                <t id="p08-s14-t02">you</t>
+                <t id="p08-s14-t03">did</t>
+                <t id="p08-s14-t04">this</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s15">
+                <t id="p08-s15-t01">When</t>
+                <t id="p08-s15-t02">you</t>
+                <t id="p08-s15-t03">swap</t>
+                <t id="p08-s15-t04">cards</t>
+                <punc>,</punc>
+                <t id="p08-s15-t05">do</t>
+                <t id="p08-s15-t06">not</t>
+                <t id="p08-s15-t07">change</t>
+                <t id="p08-s15-t08">the</t>
+                <t id="p08-s15-t09">position</t>
+                <t id="p08-s15-t10">P</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s16">
+                <t id="p08-s16-t01">7</t>
+                <punc>.</punc>
+                <t id="p08-s16-t02">If</t>
+                <t id="p08-s16-t03">there</t>
+                <t id="p08-s16-t04">is</t>
+                <t id="p08-s16-t05">another</t>
+                <t id="p08-s16-t06">card</t>
+                <t id="p08-s16-t07">in</t>
+                <t id="p08-s16-t08">the</t>
+                <t id="p08-s16-t09">stack</t>
+                <t id="p08-s16-t10">after</t>
+                <t id="p08-s16-t11">position</t>
+                <t id="p08-s16-t12">P</t>
+                <punc>,</punc>
+                <t id="p08-s16-t13">look</t>
+                <t id="p08-s16-t14">at</t>
+                <t id="p08-s16-t15">it</t>
+                <punc>;</punc>
+                <t id="p08-s16-t16">go</t>
+                <t id="p08-s16-t17">back</t>
+                <t id="p08-s16-t18">to</t>
+                <t id="p08-s16-t19">step</t>
+                <t id="p08-s16-t20">3</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s17">
+                <t id="p08-s17-t01">8</t>
+                <punc>.</punc>
+                <t id="p08-s17-t02">If</t>
+                <t id="p08-s17-t03">you</t>
+                <t id="p08-s17-t04">did</t>
+                <t id="p08-s17-t05">not</t>
+                <t id="p08-s17-t06">swap</t>
+                <t id="p08-s17-t07">the</t>
+                <t id="p08-s17-t08">position</t>
+                <t id="p08-s17-t09">of</t>
+                <t id="p08-s17-t10">any</t>
+                <t id="p08-s17-t11">cards</t>
+                <t id="p08-s17-t12">in</t>
+                <t id="p08-s17-t13">the</t>
+                <t id="p08-s17-t14">last</t>
+                <t id="p08-s17-t15">run</t>
+                <punc>,</punc>
+                <t id="p08-s17-t16">you</t>
+                <t id="p08-s17-t17">are</t>
+                <t id="p08-s17-t18">done</t>
+                <punc>;</punc>
+                <t id="p08-s17-t19">the</t>
+                <t id="p08-s17-t20">stack</t>
+                <t id="p08-s17-t21">of</t>
+                <t id="p08-s17-t22">cards</t>
+                <t id="p08-s17-t23">is</t>
+                <t id="p08-s17-t24">sorted</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s18">
+                <t id="p08-s18-t01">Otherwise</t>
+                <t id="p08-s18-t02">go</t>
+                <t id="p08-s18-t03">back</t>
+                <t id="p08-s18-t04">to</t>
+                <t id="p08-s18-t05">step</t>
+                <t id="p08-s18-t06">2</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p09">
+            <sentence id="p09-s01">
+                <t id="p09-s01-t01">This</t>
+                <t id="p09-s01-t02">is</t>
+                <t id="p09-s01-t03">an</t>
+                <t id="p09-s01-t04">easy</t>
+                <punc>-</punc>
+                <t id="p09-s01-t05">to</t>
+                <punc>-</punc>
+                <t id="p09-s01-t06">understand</t>
+                <t id="p09-s01-t07">algorithm</t>
+                <t id="p09-s01-t08">for</t>
+                <t id="p09-s01-t09">sorting</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p09-s02">
+                <t id="p09-s02-t01">Computer</t>
+                <t id="p09-s02-t02">scientists</t>
+                <t id="p09-s02-t03">called</t>
+                <t id="p09-s02-t04">it</t>
+                <t id="p09-s02-t05">Bubble</t>
+                <t id="p09-s02-t06">sort</t>
+                <punc>,</punc>
+                <t id="p09-s02-t07">because</t>
+                <t id="p09-s02-t08">smaller</t>
+                <t id="p09-s02-t09">elements</t>
+                <t id="p09-s02-t10">will</t>
+                <t id="p09-s02-t11">rise</t>
+                <t id="p09-s02-t12">to</t>
+                <t id="p09-s02-t13">the</t>
+                <t id="p09-s02-t14">top</t>
+                <punc>,</punc>
+                <t id="p09-s02-t15">changing</t>
+                <t id="p09-s02-t16">their</t>
+                <t id="p09-s02-t17">position</t>
+                <t id="p09-s02-t18">in</t>
+                <t id="p09-s02-t19">each</t>
+                <t id="p09-s02-t20">run</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p09-s03">
+                <t id="p09-s03-t01">Unfortunately</t>
+                <punc>,</punc>
+                <t id="p09-s03-t02">the</t>
+                <t id="p09-s03-t03">algorithm</t>
+                <t id="p09-s03-t04">is</t>
+                <t id="p09-s03-t05">not</t>
+                <t id="p09-s03-t06">very</t>
+                <t id="p09-s03-t07">good</t>
+                <punc>,</punc>
+                <t id="p09-s03-t08">because</t>
+                <t id="p09-s03-t09">it</t>
+                <t id="p09-s03-t10">needs</t>
+                <t id="p09-s03-t11">a</t>
+                <t id="p09-s03-t12">long</t>
+                <t id="p09-s03-t13">time</t>
+                <punc>(</punc>
+                <t id="p09-s03-t14">many</t>
+                <t id="p09-s03-t15">passes</t>
+                <t id="p09-s03-t16">through</t>
+                <t id="p09-s03-t17">the</t>
+                <t id="p09-s03-t18">stack</t>
+                <t id="p09-s03-t19">of</t>
+                <t id="p09-s03-t20">cards</t>
+                <punc>)</punc>
+                <t id="p09-s03-t21">to</t>
+                <t id="p09-s03-t22">sort</t>
+                <t id="p09-s03-t23">it</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
