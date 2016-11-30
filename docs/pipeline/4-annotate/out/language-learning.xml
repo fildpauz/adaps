@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Extract from When It Hurts (and Helps) to Try: The Role of Effort in Language Learning</title>
+    <citation>Finn AS, Lee T, Kraus A, Hudson Kam CL (2014) When It Hurts (and Helps) to Try: The Role of Effort in Language Learning. PLoS ONE 9(7): e101806. doi:10.1371/journal.pone.0101806
+        Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101806 on 24 Nov 2016.</citation>
+    <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101806</url>
+    <body>
+        <paragraph id="p01">
+            <sentence par-function="topic|supporting|concluding" id="p01-s01">
+                <t id="p01-s01-t01" type="GSL-2">Compared</t>
+                <t id="p01-s01-t02" type="GSL-1">to</t>
+                <t id="p01-s01-t03" type="GSL-1">children</t>
+                <punc>,</punc>
+                <t id="p01-s01-t04" type="Coxhead-AWL-7,AR-AWL-7a">adults</t>
+                <t id="p01-s01-t05" type="GSL-1">are</t>
+                <t id="p01-s01-t06" type="GSL-1">bad</t>
+                <t id="p01-s01-t07" type="GSL-1">at</t>
+                <t id="p01-s01-t08" type="GSL-1">learning</t>
+                <t id="p01-s01-t09" type="GSL-1">language</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p01-s02">
+                <anaphor id="p01-s02-a01" info="">
+                    <t id="p01-s02-t01" type="GSL-1">This</t>
+                </anaphor>
+                <t id="p01-s02-t02" type="GSL-1">is</t>
+                <t id="p01-s02-t03">counterintuitive</t>
+                <punc>;</punc>
+                <t id="p01-s02-t04" type="Coxhead-AWL-7,AR-AWL-7a">adults</t>
+                <t id="p01-s02-t05">outperform</t>
+                <t id="p01-s02-t06" type="GSL-1">children</t>
+                <t id="p01-s02-t07" type="GSL-1">on</t>
+                <t id="p01-s02-t08" type="GSL-1">most</t>
+                <t id="p01-s02-t09" type="GSL-1">measures</t>
+                <t id="p01-s02-t10" type="GSL-1">of</t>
+                <t id="p01-s02-t11">cognition</t>
+                <punc>,</punc>
+                <t id="p01-s02-t12" type="GSL-2">especially</t>
+                <t id="p01-s02-t13" type="GSL-1">those</t>
+                <t id="p01-s02-t14" type="GSL-1">that</t>
+                <t id="p01-s02-t15" type="Coxhead-AWL-1,AR-AWL-1b">involve</t>
+                <t id="p01-s02-t16" type="GSL-1">effort</t>
+                <punc>(</punc>
+                <t id="p01-s02-t17" type="GSL-1">which</t>
+                <t id="p01-s02-t18" type="GSL-1">continue</t>
+                <t id="p01-s02-t19" type="GSL-1">to</t>
+                <t id="p01-s02-t20" type="Coxhead-AWL-9,AR-AWL-9b">mature</t>
+                <t id="p01-s02-t21" type="GSL-1">into</t>
+                <t id="p01-s02-t22" type="GSL-1">early</t>
+                <t id="p01-s02-t23" type="Coxhead-AWL-7,AR-AWL-7a">adulthood</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p01-s03">
+                <t id="p01-s03-t01" type="GSL-1">The</t>
+                <t id="p01-s03-t02" type="GSL-1">present</t>
+                <t id="p01-s03-t03" type="GSL-1">study</t>
+                <t id="p01-s03-t04" type="GSL-1">asks</t>
+                <t id="p01-s03-t05" type="GSL-1">whether</t>
+                <anaphor id="p01-s03-a01" info="">
+                    <t id="p01-s03-t06" type="GSL-1">these</t>
+                    <t id="p01-s03-t07" type="Coxhead-AWL-9,AR-AWL-9b">mature</t>
+                    <t id="p01-s03-t08">effortful</t>
+                    <t id="p01-s03-t09" type="GSL-1">abilities</t>
+                </anaphor>
+                <t id="p01-s03-t10" type="GSL-2">interfere</t>
+                <t id="p01-s03-t11" type="GSL-1">with</t>
+                <t id="p01-s03-t12" type="GSL-1">language</t>
+                <t id="p01-s03-t13" type="GSL-1">learning</t>
+                <t id="p01-s03-t14" type="GSL-1">in</t>
+                <t id="p01-s03-t15" type="Coxhead-AWL-7,AR-AWL-7a">adults</t>
+                <connector id="p01-s03-c01" type="" info="">
+                    <t id="p01-s03-t16" type="GSL-1">and</t>
+                    <t id="p01-s03-t17" type="GSL-1">further</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p01-s03-t18" type="GSL-1">whether</t>
+                <t id="p01-s03-t19" type="GSL-2">interference</t>
+                <t id="p01-s03-t20" type="Coxhead-AWL-1,AR-AWL-1b">occurs</t>
+                <t id="p01-s03-t21" type="GSL-1">equally</t>
+                <t id="p01-s03-t22" type="GSL-1">for</t>
+                <t id="p01-s03-t23" type="Coxhead-AWL-2,AR-AWL-2a">aspects</t>
+                <t id="p01-s03-t24" type="GSL-1">of</t>
+                <t id="p01-s03-t25" type="GSL-1">language</t>
+                <t id="p01-s03-t26" type="GSL-1">that</t>
+                <t id="p01-s03-t27" type="Coxhead-AWL-7,AR-AWL-7a">adults</t>
+                <t id="p01-s03-t28" type="GSL-1">are</t>
+                <t id="p01-s03-t29" type="GSL-1">good</t>
+                <punc>(</punc>
+                <t id="p01-s03-t30" type="GSL-1">word</t>
+                <punc>-</punc>
+                <t id="p01-s03-t31">segmentation</t>
+                <punc>)</punc>
+                <t id="p01-s03-t32">versus</t>
+                <t id="p01-s03-t33" type="GSL-1">bad</t>
+                <punc>(</punc>
+                <t id="p01-s03-t34" type="GSL-2">grammar</t>
+                <punc>)</punc>
+                <t id="p01-s03-t35" type="GSL-1">at</t>
+                <t id="p01-s03-t36" type="GSL-1">learning</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p01-s04">
+                <t id="p01-s04-t01" type="GSL-1">Learners</t>
+                <t id="p01-s04-t02" type="GSL-1">were</t>
+                <t id="p01-s04-t03" type="Coxhead-AWL-5,AR-AWL-5a">exposed</t>
+                <t id="p01-s04-t04" type="GSL-1">to</t>
+                <t id="p01-s04-t05" type="GSL-1">an</t>
+                <t id="p01-s04-t06" type="GSL-2">artificial</t>
+                <t id="p01-s04-t07" type="GSL-1">language</t>
+                <t id="p01-s04-t08" type="Coxhead-AWL-7,AR-AWL-7a">comprised</t>
+                <t id="p01-s04-t09" type="GSL-1">of</t>
+                <t id="p01-s04-t10" type="Coxhead-AWL-4,AR-AWL-4b">statistically</t>
+                <t id="p01-s04-t11" type="Coxhead-AWL-1,AR-AWL-1a">defined</t>
+                <t id="p01-s04-t12" type="GSL-1">words</t>
+                <t id="p01-s04-t13" type="GSL-1">that</t>
+                <t id="p01-s04-t14" type="GSL-1">belong</t>
+                <t id="p01-s04-t15" type="GSL-1">to</t>
+                <t id="p01-s04-t16">phonologically</t>
+                <t id="p01-s04-t17" type="Coxhead-AWL-1,AR-AWL-1a">defined</t>
+                <t id="p01-s04-t18" type="Coxhead-AWL-2,AR-AWL-2a">categories</t>
+                <punc>(</punc>
+                <t id="p01-s04-t19" type="GSL-2">grammar</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p01-s05">
+                <t id="p01-s05-t01" type="Coxhead-AWL-5,AR-AWL-5a">Exposure</t>
+                <t id="p01-s05-t02" type="Coxhead-AWL-1,AR-AWL-1b">occurred</t>
+                <t id="p01-s05-t03" type="GSL-1">under</t>
+                <t id="p01-s05-t04" type="Coxhead-AWL-9,AR-AWL-9b">passive</t>
+                <t id="p01-s05-t05" type="GSL-1">or</t>
+                <t id="p01-s05-t06">effortful</t>
+                <t id="p01-s05-t07" type="GSL-1">conditions</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p01-s06">
+                <t id="p01-s06-t01" type="Coxhead-AWL-9,AR-AWL-9b">Passive</t>
+                <t id="p01-s06-t02" type="GSL-1">learners</t>
+                <t id="p01-s06-t03" type="GSL-1">were</t>
+                <t id="p01-s06-t04" type="GSL-1">told</t>
+                <t id="p01-s06-t05" type="GSL-1">to</t>
+                <t id="p01-s06-t06" type="GSL-1">listen</t>
+                <connector id="p01-s06-c01" type="" info="">
+                    <t id="p01-s06-t07" type="GSL-1">while</t>
+                </connector>
+                <t id="p01-s06-t08">effortful</t>
+                <t id="p01-s06-t09" type="GSL-1">learners</t>
+                <t id="p01-s06-t10" type="GSL-1">were</t>
+                <t id="p01-s06-t11" type="Coxhead-AWL-6,AR-AWL-6b">instructed</t>
+                <t id="p01-s06-t12" type="GSL-1">to</t>
+                <t id="p01-s06-t13" type="GSL-1">try</t>
+                <t id="p01-s06-t14" type="GSL-1">to</t>
+                <t id="p01-s06-t15">1</t>
+                <punc>)</punc>
+                <t id="p01-s06-t16" type="GSL-1">learn</t>
+                <anaphor id="p01-s06-a01" info="">
+                    <t id="p01-s06-t17" type="GSL-1">the</t>
+                    <t id="p01-s06-t18" type="GSL-1">words</t>
+                </anaphor>
+                <punc>,</punc>
+                <t id="p01-s06-t19">2</t>
+                <punc>)</punc>
+                <t id="p01-s06-t20" type="GSL-1">learn</t>
+                <anaphor id="p01-s06-a02" info="">
+                    <t id="p01-s06-t21" type="GSL-1">the</t>
+                    <t id="p01-s06-t22" type="Coxhead-AWL-2,AR-AWL-2a">categories</t>
+                </anaphor>
+                <punc>,</punc>
+                <t id="p01-s06-t23" type="GSL-1">or</t>
+                <t id="p01-s06-t24">3</t>
+                <punc>)</punc>
+                <t id="p01-s06-t25" type="GSL-1">learn</t>
+                <t id="p01-s06-t26" type="GSL-1">the</t>
+                <t id="p01-s06-t27" type="Coxhead-AWL-2,AR-AWL-2a">category</t>
+                <punc>-</punc>
+                <t id="p01-s06-t28" type="GSL-1">order</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p01-s07">
+                <t id="p01-s07-t01">Effortful</t>
+                <t id="p01-s07-t02" type="GSL-1">learners</t>
+                <t id="p01-s07-t03" type="GSL-1">showed</t>
+                <t id="p01-s07-t04" type="GSL-1">an</t>
+                <t id="p01-s07-t05" type="GSL-1">advantage</t>
+                <t id="p01-s07-t06" type="GSL-1">for</t>
+                <t id="p01-s07-t07" type="GSL-1">learning</t>
+                <t id="p01-s07-t08" type="GSL-1">words</t>
+                <connector id="p01-s07-c01" type="" info="">
+                    <t id="p01-s07-t09" type="GSL-1">while</t>
+                </connector>
+                <t id="p01-s07-t10" type="Coxhead-AWL-9,AR-AWL-9b">passive</t>
+                <t id="p01-s07-t11" type="GSL-1">learners</t>
+                <t id="p01-s07-t12" type="GSL-1">showed</t>
+                <t id="p01-s07-t13" type="GSL-1">an</t>
+                <t id="p01-s07-t14" type="GSL-1">advantage</t>
+                <t id="p01-s07-t15" type="GSL-1">for</t>
+                <t id="p01-s07-t16" type="GSL-1">learning</t>
+                <anaphor id="p01-s07-a01" info="">
+                    <t id="p01-s07-t17" type="GSL-1">the</t>
+                    <t id="p01-s07-t18" type="Coxhead-AWL-2,AR-AWL-2a">categories</t>
+                </anaphor>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p01-s08">
+                <t id="p01-s08-t01" type="GSL-1">Effort</t>
+                <t id="p01-s08-t02" type="GSL-1">can</t>
+                <t id="p01-s08-t03" type="GSL-1">therefore</t>
+                <t id="p01-s08-t04" type="GSL-2">hurt</t>
+                <t id="p01-s08-t05" type="GSL-1">the</t>
+                <t id="p01-s08-t06" type="GSL-1">learning</t>
+                <t id="p01-s08-t07" type="GSL-1">of</t>
+                <t id="p01-s08-t08" type="Coxhead-AWL-2,AR-AWL-2a">categories</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
