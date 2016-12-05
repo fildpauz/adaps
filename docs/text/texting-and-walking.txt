@@ -6,6 +6,6 @@ Thirty participants (18-50y) completed three randomized, counter-balanced walkin
 Results
 Participants took significantly longer (mean ± SD) to complete the course while texting (24.96±4.20 sec) and during cognitive distraction (24.09±3.36 sec) vs. normal walking (19.32±2.28 sec; all, P<0.001). No significant differences were noted for barrier contacts (P = 0.28). Step frequency, step time, double support phase and lateral deviation all increased in duration during the texting and cognitive distraction trial. Texting and being cognitively distracted also increased obstacle clearance versus the walking condition (all, P<0.02).
 Conclusions
-Texting while walking and/or being cognitively distracted significantly  gait characteristics concordant to mobile phone usage resulting in a more cautious gait pattern. Future research should also examine a similar study in older participants who may be at a greater risk of tripping with such walking deviations.
+Texting while walking and/or being cognitively distracted significantly affect gait characteristics concordant to mobile phone usage resulting in a more cautious gait pattern. Future research should also examine a similar study in older participants who may be at a greater risk of tripping with such walking deviations.
 
 Licence S, Smith R, McGuigan MP, Earnest CP (2015) Gait Pattern Alterations during Walking, Texting and Walking and Texting during Cognitively Distractive Tasks while Negotiating Common Pedestrian Obstacles. PLoS ONE 10(7): e0133281. doi:10.1371/journal.pone.0133281
