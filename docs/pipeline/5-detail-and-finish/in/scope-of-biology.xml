@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Extract from The Scope of Biology</title>
+    <citation>OpenStax College, Biology. OpenStax College. Retrieved from http://cnx.org/content/col11448/latest/ 30 May 2013.</citation>
+    <url>http://cnx.org/content/col11448/latest/</url>
+    <body>
+        <paragraph id="p01">
+            <sentence par-function="topic|supporting|concluding" id="p01-s01">
+                <t id="p01-s01-t01" type="GSL-1">The</t>
+                <t id="p01-s01-t02" type="Coxhead-AWL-6,AR-AWL-6b">scope</t>
+                <t id="p01-s01-t03" type="GSL-1">of</t>
+                <t id="p01-s01-t04">biology</t>
+                <t id="p01-s01-t05" type="GSL-1">is</t>
+                <t id="p01-s01-t06" type="GSL-1">broad</t>
+                <t id="p01-s01-t07" type="GSL-1">and</t>
+                <t id="p01-s01-t08" type="GSL-1">therefore</t>
+                <t id="p01-s01-t09" type="GSL-1">contains</t>
+                <t id="p01-s01-t10" type="GSL-1">many</t>
+                <t id="p01-s01-t11" type="GSL-1">branches</t>
+                <t id="p01-s01-t12" type="GSL-1">and</t>
+                <t id="p01-s01-t13">subdisciplines</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p01-s02">
+                <t id="p01-s02-t01">Biologists</t>
+                <t id="p01-s02-t02" type="GSL-1">may</t>
+                <t id="p01-s02-t03" type="Coxhead-AWL-5,AR-AWL-5b">pursue</t>
+                <t id="p01-s02-t04" type="GSL-1">one</t>
+                <t id="p01-s02-t05" type="GSL-1">of</t>
+                <anaphor id="p01-s02-a01" info="p01-s01-t10:p01-s01-t13">
+                    <t id="p01-s02-t06" type="GSL-1">those</t>
+                    <t id="p01-s02-t07">subdisciplines</t>
+                </anaphor>
+                <t id="p01-s02-t08" type="GSL-1">and</t>
+                <t id="p01-s02-t09" type="GSL-1">work</t>
+                <t id="p01-s02-t10" type="GSL-1">in</t>
+                <t id="p01-s02-t11" type="GSL-1">a</t>
+                <t id="p01-s02-t12" type="GSL-1">more</t>
+                <t id="p01-s02-t13" type="Coxhead-AWL-2,AR-AWL-2a">focused</t>
+                <t id="p01-s02-t14" type="GSL-1">field</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p01-s03">
+                <connector id="p01-s03-c01" type="example" info="p01-s02-t01:p01-s02-t14,p01-s03-t03:p01-s03-t33">
+                    <t id="p01-s03-t01" type="GSL-1">For</t>
+                    <t id="p01-s03-t02" type="Coxhead-AWL-3,AR-AWL-3a">instance</t>
+                </connector>
+                <punc>,</punc>
+                <term id="p01-s03-e01" info="p01-s03-t07:p01-s03-t33">
+                    <t id="p01-s03-t03">molecular</t>
+                    <t id="p01-s03-t04">biology</t>
+                    <t id="p01-s03-t05" type="GSL-1">and</t>
+                    <t id="p01-s03-t06">biochemistry</t>
+                </term>
+                <t id="p01-s03-t07" type="GSL-1">study</t>
+                <t id="p01-s03-t08">biological</t>
+                <t id="p01-s03-t09" type="Coxhead-AWL-1,AR-AWL-1b">processes</t>
+                <t id="p01-s03-t10" type="GSL-1">at</t>
+                <t id="p01-s03-t11" type="GSL-1">the</t>
+                <t id="p01-s03-t12">molecular</t>
+                <t id="p01-s03-t13" type="GSL-1">and</t>
+                <t id="p01-s03-t14" type="Coxhead-AWL-7,AR-AWL-7a">chemical</t>
+                <t id="p01-s03-t15" type="GSL-1">level</t>
+                <punc>,</punc>
+                <t id="p01-s03-t16" type="GSL-1">including</t>
+                <t id="p01-s03-t17" type="Coxhead-AWL-3,AR-AWL-3b">interactions</t>
+                <t id="p01-s03-t18" type="GSL-1">among</t>
+                <t id="p01-s03-t19">molecules</t>
+                <t id="p01-s03-t20" type="GSL-1">such</t>
+                <t id="p01-s03-t21" type="GSL-1">as</t>
+                <t id="p01-s03-t22">DNA</t>
+                <punc>,</punc>
+                <t id="p01-s03-t23">RNA</t>
+                <punc>,</punc>
+                <t id="p01-s03-t24" type="GSL-1">and</t>
+                <t id="p01-s03-t25">proteins</t>
+                <punc>,</punc>
+                <t id="p01-s03-t26" type="GSL-1">as</t>
+                <t id="p01-s03-t27" type="GSL-1">well</t>
+                <t id="p01-s03-t28" type="GSL-1">as</t>
+                <t id="p01-s03-t29" type="GSL-1">the</t>
+                <t id="p01-s03-t30" type="GSL-1">way</t>
+                <t id="p01-s03-t31" type="GSL-1">they</t>
+                <t id="p01-s03-t32" type="GSL-1">are</t>
+                <t id="p01-s03-t33" type="Coxhead-AWL-2,AR-AWL-2b">regulated</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p01-s04">
+                <term id="p01-s04-e01" info="p01-s04-t02:p01-s04-t17">
+                    <t id="p01-s04-t01">Microbiology</t>
+                </term>
+                <punc>,</punc>
+                <t id="p01-s04-t02" type="GSL-1">the</t>
+                <t id="p01-s04-t03" type="GSL-1">study</t>
+                <t id="p01-s04-t04" type="GSL-1">of</t>
+                <t id="p01-s04-t05">microorganisms</t>
+                <punc>,</punc>
+                <t id="p01-s04-t06" type="GSL-1">is</t>
+                <t id="p01-s04-t07" type="GSL-1">the</t>
+                <t id="p01-s04-t08" type="GSL-1">study</t>
+                <t id="p01-s04-t09" type="GSL-1">of</t>
+                <t id="p01-s04-t10" type="GSL-1">the</t>
+                <t id="p01-s04-t11" type="Coxhead-AWL-1,AR-AWL-1b">structure</t>
+                <t id="p01-s04-t12" type="GSL-1">and</t>
+                <t id="p01-s04-t13" type="Coxhead-AWL-1,AR-AWL-1a">function</t>
+                <t id="p01-s04-t14" type="GSL-1">of</t>
+                <t id="p01-s04-t15" type="GSL-1">single</t>
+                <punc>-</punc>
+                <t id="p01-s04-t16">celled</t>
+                <t id="p01-s04-t17">organisms</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p01-s05">
+                <t id="p01-s05-t01" type="GSL-1">It</t>
+                <t id="p01-s05-t02" type="GSL-1">is</t>
+                <t id="p01-s05-t03" type="GSL-1">quite</t>
+                <t id="p01-s05-t04" type="GSL-1">a</t>
+                <t id="p01-s05-t05" type="GSL-1">broad</t>
+                <t id="p01-s05-t06" type="GSL-1">branch</t>
+                <t id="p01-s05-t07" type="GSL-1">itself</t>
+                <punc>,</punc>
+                <connector id="p01-s05-c01" type="elaboration" info="p01-s05-t01:p01-s05-t07,p01-s05-t09:p01-s05-t24">
+                    <t id="p01-s05-t08" type="GSL-1">and</t>
+                </connector>
+                <t id="p01-s05-t09" type="GSL-1">depending</t>
+                <t id="p01-s05-t10" type="GSL-1">on</t>
+                <t id="p01-s05-t11" type="GSL-1">the</t>
+                <t id="p01-s05-t12" type="GSL-1">subject</t>
+                <t id="p01-s05-t13" type="GSL-1">of</t>
+                <t id="p01-s05-t14" type="GSL-1">study</t>
+                <punc>,</punc>
+                <t id="p01-s05-t15" type="GSL-1">there</t>
+                <t id="p01-s05-t16" type="GSL-1">are</t>
+                <t id="p01-s05-t17" type="GSL-1">also</t>
+                <t id="p01-s05-t18">microbial</t>
+                <t id="p01-s05-t19">physiologists</t>
+                <punc>,</punc>
+                <t id="p01-s05-t20">ecologists</t>
+                <punc>,</punc>
+                <t id="p01-s05-t21" type="GSL-1">and</t>
+                <t id="p01-s05-t22">geneticists</t>
+                <punc>,</punc>
+                <t id="p01-s05-t23" type="GSL-1">among</t>
+                <t id="p01-s05-t24" type="GSL-1">others</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence par-function="topic|supporting|concluding" id="p02-s01">
+                <connector id="p02-s01-c01" type="elaboration" info="p01-s04-t01:p01-s04-t17,p02-s01-t02:p02-s01-t13">
+                    <t id="p02-s01-t01" type="GSL-1">Another</t>
+                </connector>
+                <t id="p02-s01-t02" type="GSL-1">field</t>
+                <t id="p02-s01-t03" type="GSL-1">of</t>
+                <t id="p02-s01-t04">biological</t>
+                <t id="p02-s01-t05" type="GSL-1">study</t>
+                <punc>,</punc>
+                <term id="p02-s01-e01" info="p02-s01-t07:p02-s01-t13">
+                    <t id="p02-s01-t06">neurobiology</t>
+                </term>
+                <punc>,</punc>
+                <t id="p02-s01-t07" type="GSL-1">studies</t>
+                <t id="p02-s01-t08" type="GSL-1">the</t>
+                <t id="p02-s01-t09">biology</t>
+                <t id="p02-s01-t10" type="GSL-1">of</t>
+                <t id="p02-s01-t11" type="GSL-1">the</t>
+                <t id="p02-s01-t12">nervous</t>
+                <t id="p02-s01-t13" type="GSL-1">system</t>
+                <punc>,</punc>
+                <t id="p02-s01-t14" type="GSL-1">and</t>
+                <connector id="p02-s01-c02" type="violated expectation" info="p02-s01-t16:p02-s01-t22,p02-s01-t23:p02-s01-t35">
+                    <t id="p02-s01-t15" type="GSL-1">although</t>
+                </connector>
+                <anaphor id="p02-s01-a01" info="p02-s01-t06:p02-s01-t06">
+                    <t id="p02-s01-t16" type="GSL-1">it</t>
+                </anaphor>
+                <t id="p02-s01-t17" type="GSL-1">is</t>
+                <t id="p02-s01-t18" type="GSL-1">considered</t>
+                <t id="p02-s01-t19" type="GSL-1">a</t>
+                <t id="p02-s01-t20" type="GSL-1">branch</t>
+                <t id="p02-s01-t21" type="GSL-1">of</t>
+                <t id="p02-s01-t22">biology</t>
+                <punc>,</punc>
+                <anaphor id="p02-s01-a02" info="p02-s01-t06:p02-s01-t06">
+                    <t id="p02-s01-t23" type="GSL-1">it</t>
+                </anaphor>
+                <t id="p02-s01-t24" type="GSL-1">is</t>
+                <t id="p02-s01-t25" type="GSL-1">also</t>
+                <t id="p02-s01-t26" type="GSL-1">recognized</t>
+                <t id="p02-s01-t27" type="GSL-1">as</t>
+                <t id="p02-s01-t28" type="GSL-1">an</t>
+                <t id="p02-s01-t29">interdisciplinary</t>
+                <t id="p02-s01-t30" type="GSL-1">field</t>
+                <t id="p02-s01-t31" type="GSL-1">of</t>
+                <t id="p02-s01-t32" type="GSL-1">study</t>
+                <t id="p02-s01-t33" type="GSL-1">known</t>
+                <t id="p02-s01-t34" type="GSL-1">as</t>
+                <term id="p02-s01-e02" info="p02-s01-t29:p02-s01-t34">
+                    <t id="p02-s01-t35">neuroscience</t>
+                </term>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p02-s02">
+                <t id="p02-s02-t01" type="GSL-1">Because</t>
+                <t id="p02-s02-t02" type="GSL-1">of</t>
+                <anaphor id="p02-s02-a01" info="p02-s01-t06:p02-s01-t06">
+                    <t id="p02-s02-t03" type="GSL-1">its</t>
+                </anaphor>
+                <t id="p02-s02-t04">interdisciplinary</t>
+                <t id="p02-s02-t05" type="GSL-1">nature</t>
+                <punc>,</punc>
+                <anaphor id="p02-s02-a02" info="p02-s01-t06:p02-s01-t06">
+                    <t id="p02-s02-t06" type="GSL-1">this</t>
+                    <t id="p02-s02-t07">subdiscipline</t>
+                </anaphor>
+                <t id="p02-s02-t08" type="GSL-1">studies</t>
+                <t id="p02-s02-t09" type="GSL-1">different</t>
+                <t id="p02-s02-t10" type="Coxhead-AWL-1,AR-AWL-1a">functions</t>
+                <t id="p02-s02-t11" type="GSL-1">of</t>
+                <t id="p02-s02-t12" type="GSL-1">the</t>
+                <t id="p02-s02-t13">nervous</t>
+                <t id="p02-s02-t14" type="GSL-1">system</t>
+                <t id="p02-s02-t15" type="GSL-1">using</t>
+                <t id="p02-s02-t16">molecular</t>
+                <punc>,</punc>
+                <t id="p02-s02-t17">cellular</t>
+                <punc>,</punc>
+                <t id="p02-s02-t18">developmental</t>
+                <punc>,</punc>
+                <t id="p02-s02-t19" type="Coxhead-AWL-5,AR-AWL-5b">medical</t>
+                <punc>,</punc>
+                <t id="p02-s02-t20" type="GSL-1">and</t>
+                <t id="p02-s02-t21" type="Coxhead-AWL-2,AR-AWL-2a">computational</t>
+                <t id="p02-s02-t22" type="Coxhead-AWL-1,AR-AWL-1a">approaches</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
