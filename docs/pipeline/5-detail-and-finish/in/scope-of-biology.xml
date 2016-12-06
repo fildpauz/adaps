@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
 <document>
-    <title>Extract from The Scope of Biology</title>
+    <title>The Scope of Biology (Extract)</title>
     <citation>OpenStax College, Biology. OpenStax College. Retrieved from http://cnx.org/content/col11448/latest/ 30 May 2013.</citation>
     <url>http://cnx.org/content/col11448/latest/</url>
     <body>
         <paragraph id="p01">
-            <sentence par-function="topic|supporting|concluding" id="p01-s01">
+            <sentence par-function="topic" id="p01-s01">
                 <t id="p01-s01-t01" type="GSL-1">The</t>
                 <t id="p01-s01-t02" type="Coxhead-AWL-6,AR-AWL-6b">scope</t>
                 <t id="p01-s01-t03" type="GSL-1">of</t>
@@ -22,7 +22,7 @@
                 <t id="p01-s01-t13">subdisciplines</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p01-s02">
+            <sentence par-function="supporting" id="p01-s02">
                 <t id="p01-s02-t01">Biologists</t>
                 <t id="p01-s02-t02" type="GSL-1">may</t>
                 <t id="p01-s02-t03" type="Coxhead-AWL-5,AR-AWL-5b">pursue</t>
@@ -41,7 +41,7 @@
                 <t id="p01-s02-t14" type="GSL-1">field</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p01-s03">
+            <sentence par-function="supporting" id="p01-s03">
                 <connector id="p01-s03-c01" type="example" info="p01-s02-t01:p01-s02-t14,p01-s03-t03:p01-s03-t33">
                     <t id="p01-s03-t01" type="GSL-1">For</t>
                     <t id="p01-s03-t02" type="Coxhead-AWL-3,AR-AWL-3a">instance</t>
@@ -86,7 +86,7 @@
                 <t id="p01-s03-t33" type="Coxhead-AWL-2,AR-AWL-2b">regulated</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p01-s04">
+            <sentence par-function="supporting" id="p01-s04">
                 <term id="p01-s04-e01" info="p01-s04-t02:p01-s04-t17">
                     <t id="p01-s04-t01">Microbiology</t>
                 </term>
@@ -111,7 +111,7 @@
                 <t id="p01-s04-t17">organisms</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p01-s05">
+            <sentence par-function="supporting" id="p01-s05">
                 <t id="p01-s05-t01" type="GSL-1">It</t>
                 <t id="p01-s05-t02" type="GSL-1">is</t>
                 <t id="p01-s05-t03" type="GSL-1">quite</t>
@@ -147,7 +147,7 @@
             </sentence>
         </paragraph>
         <paragraph id="p02">
-            <sentence par-function="topic|supporting|concluding" id="p02-s01">
+            <sentence par-function="topic" id="p02-s01">
                 <connector id="p02-s01-c01" type="elaboration" info="p01-s04-t01:p01-s04-t17,p02-s01-t02:p02-s01-t13">
                     <t id="p02-s01-t01" type="GSL-1">Another</t>
                 </connector>
@@ -201,7 +201,7 @@
                 </term>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p02-s02">
+            <sentence par-function="supporting" id="p02-s02">
                 <t id="p02-s02-t01" type="GSL-1">Because</t>
                 <t id="p02-s02-t02" type="GSL-1">of</t>
                 <anaphor id="p02-s02-a01" info="p02-s01-t06:p02-s01-t06">

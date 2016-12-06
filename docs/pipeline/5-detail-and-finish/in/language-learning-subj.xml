@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
 <document>
-    <title>Extract from If at First You Don’t Succeed, Sit Back and Listen</title>
+    <title>If at First You Don’t Succeed, Sit Back and Listen (Extract)</title>
     <citation>Wallace, S (2014) If at First You Don’t Succeed, Sit Back and Listen. EveryONE (PLoS One blog).
         Retrieved from http:// blogs.plos.org/everyone/2014/07/22/first-dont-succeed-sit-back-listen/ on 20 August 2015.</citation>
     <url>http:// blogs.plos.org/everyone/2014/07/22/first-dont-succeed-sit-back-listen/</url>
     <body>
         <paragraph id="p01">
-            <sentence par-function="topic|supporting|concluding" id="p01-s01">
+            <sentence par-function="topic" id="p01-s01">
                 <t id="p01-s01-t01" type="GSL-1">Few</t>
                 <t id="p01-s01-t02" type="GSL-1">of</t>
                 <t id="p01-s01-t03" type="GSL-1">us</t>
@@ -21,7 +21,7 @@
                 <t id="p01-s01-t11" type="GSL-1">children</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p01-s02">
+            <sentence par-function="supporting" id="p01-s02">
                 <connector id="p01-s02-c01" type="violated expectation" info="p01-s01-t01:p01-s01-t11,p01-s02-t02:p01-s02-t07">
                     <t id="p01-s02-t01" type="GSL-1">Although</t>
                 </connector>
@@ -74,7 +74,7 @@
                 <t id="p01-s02-t42" type="GSL-1">smiling</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p01-s03">
+            <sentence par-function="supporting" id="p01-s03">
                 <t id="p01-s03-t01" type="GSL-1">Given</t>
                 <t id="p01-s03-t02" type="GSL-1">how</t>
                 <t id="p01-s03-t03">involuntarily</t>
@@ -99,7 +99,7 @@
                 <t id="p01-s03-t21" type="GSL-1">be</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p01-s04">
+            <sentence par-function="supporting" id="p01-s04">
                 <t id="p01-s04-t01" type="GSL-1">The</t>
                 <t id="p01-s04-t02" type="Coxhead-AWL-6,AR-AWL-6a">authors</t>
                 <t id="p01-s04-t03" type="GSL-1">of</t>
@@ -138,7 +138,7 @@
                 <t id="p01-s04-t34" type="GSL-1">does</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p01-s05">
+            <sentence par-function="supporting" id="p01-s05">
                 <t id="p01-s05-t01" type="GSL-1">We</t>
                 <t id="p01-s05-t02" type="GSL-1">might</t>
                 <punc>,</punc>
@@ -155,7 +155,7 @@
             </sentence>
         </paragraph>
         <paragraph id="p02">
-            <sentence par-function="topic|supporting|concluding" id="p02-s01">
+            <sentence par-function="topic" id="p02-s01">
                 <t id="p02-s01-t01" type="Coxhead-AWL-1,AR-AWL-1b">Researchers</t>
                 <t id="p02-s01-t02" type="GSL-1">have</t>
                 <connector id="p02-s01-c01" type="attribution" info="p02-s01-t01:p02-s01-t01,p02-s01-t08:p02-s01-t18">
@@ -178,7 +178,7 @@
                 <t id="p02-s01-t18" type="GSL-1">effort</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p02-s02">
+            <sentence par-function="supporting" id="p02-s02">
                 <anaphor id="p02-s02-a01" info="p02-s01-t08:p02-s01-t18">
                     <t id="p02-s02-t01" type="GSL-1">This</t>
                 </anaphor>
@@ -224,7 +224,7 @@
                 <t id="p02-s02-t31" type="GSL-1">age</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p02-s03">
+            <sentence par-function="supporting" id="p02-s03">
                 <connector id="p02-s03-c01" type="elaboration" info="p02-s02-t25:p02-s02-t31,p02-s03-t04:p02-s03-t12">
                     <t id="p02-s03-t01" type="GSL-1">In</t>
                     <t id="p02-s03-t02" type="GSL-1">other</t>
@@ -244,7 +244,7 @@
                 <punc>.</punc>
                 <punc>”</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p02-s04">
+            <sentence par-function="supporting" id="p02-s04">
                 <anaphor id="p02-s04-a01" info="p02-s03-t07:p02-s03-t12">
                     <t id="p02-s04-t01" type="GSL-1">These</t>
                     <t id="p02-s04-t02" type="GSL-1">same</t>

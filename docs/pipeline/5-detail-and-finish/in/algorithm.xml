@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
 <document>
-    <title>Extract from Algorithm</title>
+    <title>Algorithm (Extract)</title>
     <citation>Simple English Wikipedia: “Algorithm”. Retrieved from https://simple.wikipedia.org/wiki/Algorithm on 20 Aug 2015.</citation>
     <url>https://simple.wikipedia.org/wiki/Algorithm</url>
     <body>
         <paragraph id="p01">
-            <sentence par-function="topic|supporting|concluding" id="p01-s01">
+            <sentence par-function="topic" id="p01-s01">
                 <t id="p01-s01-t01" type="GSL-1">An</t>
                 <term id="p01-s01-e01" info="p01-s01-t03:p01-s01-t19">
                     <t id="p01-s01-t02">algorithm</t>
@@ -32,7 +32,7 @@
                 <t id="p01-s01-t19" type="GSL-1">problem</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p01-s02">
+            <sentence par-function="supporting" id="p01-s02">
                 <anaphor id="p01-s02-a01" info="p01-s01-t05:p01-s01-t10">
                     <t id="p01-s02-t01" type="GSL-1">The</t>
                     <t id="p01-s02-t02" type="Coxhead-AWL-6,AR-AWL-6b">instructions</t>
@@ -56,7 +56,7 @@
                 </anaphor>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p01-s03">
+            <sentence par-function="supporting" id="p01-s03">
                 <t id="p01-s03-t01">Algorithms</t>
                 <t id="p01-s03-t02" type="GSL-1">are</t>
                 <t id="p01-s03-t03" type="GSL-1">often</t>
@@ -72,7 +72,7 @@
                 <t id="p01-s03-t13" type="GSL-1">problem</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p01-s04">
+            <sentence par-function="supporting" id="p01-s04">
                 <connector id="p01-s04-c01" type="contrast" info="p01-s03-t01:p01-s03-t13,p01-s04-t02:p01-s04-t09">
                     <t id="p01-s04-t01" type="GSL-1">But</t>
                 </connector>
@@ -86,7 +86,7 @@
                 <t id="p01-s04-t09" type="GSL-1">too</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p01-s05">
+            <sentence par-function="supporting" id="p01-s05">
                 <t id="p01-s05-t01" type="GSL-1">A</t>
                 <t id="p01-s05-t02">recipe</t>
                 <t id="p01-s05-t03" type="GSL-1">can</t>
@@ -98,7 +98,7 @@
                 <t id="p01-s05-t09">algorithm</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p01-s06">
+            <sentence par-function="supporting" id="p01-s06">
                 <anaphor id="p01-s06-a01" info="p01-s05-t02:p01-s05-t02">
                     <t id="p01-s06-t01" type="GSL-1">It</t>
                 </anaphor>
@@ -120,7 +120,7 @@
                 <t id="p01-s06-t15" type="GSL-1">follow</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p01-s07">
+            <sentence par-function="supporting" id="p01-s07">
                 <connector id="p01-s07-c01" type="condition" info="p01-s07-t02:p01-s07-t12,p01-s07-t14:p01-s07-t17">
                     <t id="p01-s07-t01" type="GSL-1">If</t>
                 </connector>
@@ -149,7 +149,7 @@
             </sentence>
         </paragraph>
         <paragraph id="p02">
-            <sentence par-function="topic|supporting|concluding" id="p02-s01">
+            <sentence par-function="" id="p02-s01">
                 <emph>
                     <t id="p02-s01-t01" type="GSL-2">Comparing</t>
                     <t id="p02-s01-t02">algorithms</t>
@@ -157,7 +157,7 @@
             </sentence>
         </paragraph>
         <paragraph id="p03">
-            <sentence par-function="topic|supporting|concluding" id="p03-s01">
+            <sentence par-function="topic" id="p03-s01">
                 <t id="p03-s01-t01" type="GSL-1">There</t>
                 <t id="p03-s01-t02" type="GSL-1">is</t>
                 <t id="p03-s01-t03" type="GSL-1">usually</t>
@@ -171,7 +171,7 @@
                 <t id="p03-s01-t11" type="GSL-1">problem</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p03-s02">
+            <sentence par-function="supporting" id="p03-s02">
                 <t id="p03-s02-t01" type="GSL-1">There</t>
                 <t id="p03-s02-t02" type="GSL-1">may</t>
                 <t id="p03-s02-t03" type="GSL-1">be</t>
@@ -200,7 +200,7 @@
                 <t id="p03-s02-t26" type="GSL-1">done</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p03-s03">
+            <sentence par-function="supporting" id="p03-s03">
                 <anaphor id="p03-s03-a01" info="p03-s02-t01:p03-s02-t26">
                     <t id="p03-s03-t01" type="GSL-1">The</t>
                     <t id="p03-s03-t02" type="GSL-1">same</t>
@@ -211,7 +211,7 @@
                 <t id="p03-s03-t06">algorithms</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p03-s04">
+            <sentence par-function="supporting" id="p03-s04">
                 <connector id="p03-s04-c01" type="contrast" info="p03-s03-t01:p03-s03-t06,p03-s04-t02:p03-s04-t10">
                     <t id="p03-s04-t01" type="GSL-1">However</t>
                 </connector>
@@ -229,7 +229,7 @@
                 <t id="p03-s04-t10" type="GSL-1">others</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p03-s05">
+            <sentence par-function="supporting" id="p03-s05">
                 <connector id="p03-s05-c01" type="condition" info="p03-s05-t02:p03-s05-t13,p03-s05-t14:p03-s05-t23">
                     <t id="p03-s05-t01" type="GSL-1">If</t>
                 </connector>
@@ -260,7 +260,7 @@
                 <t id="p03-s05-t23">recipe</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p03-s06">
+            <sentence par-function="supporting" id="p03-s06">
                 <connector id="p03-s06-c01" type="temporal sequence" info="p03-s06-t02:p03-s06-t11,p03-s06-t13:p03-s06-t31">
                     <t id="p03-s06-t01" type="GSL-1">When</t>
                 </connector>
@@ -301,7 +301,7 @@
                 <t id="p03-s06-t31">algorithm</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p03-s07">
+            <sentence par-function="supporting" id="p03-s07">
                 <connector id="p03-s07-c01" type="temporal sequence" info="p03-s07-t02:p03-s07-t04,p03-s07-t05:p03-s07-t15">
                     <t id="p03-s07-t01" type="GSL-1">When</t>
                 </connector>
@@ -337,7 +337,7 @@
             </sentence>
         </paragraph>
         <paragraph id="p04">
-            <sentence par-function="topic|supporting|concluding" id="p04-s01">
+            <sentence par-function="topic" id="p04-s01">
                 <t id="p04-s01-t01" type="GSL-1">In</t>
                 <t id="p04-s01-t02" type="GSL-2">cooking</t>
                 <punc>,</punc>
@@ -372,7 +372,7 @@
                 <t id="p04-s01-t26" type="GSL-1">of</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p04-s02">
+            <sentence par-function="supporting" id="p04-s02">
                 <t id="p04-s02-t01" type="GSL-1">It</t>
                 <t id="p04-s02-t02" type="GSL-1">is</t>
                 <anaphor id="p04-s02-a01" info="p04-s01-t13:p04-s01-t26">
@@ -401,7 +401,7 @@
                 <t id="p04-s02-t19" type="GSL-1">do</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p04-s03">
+            <sentence par-function="supporting" id="p04-s03">
                 <t id="p04-s03-t01" type="GSL-1">The</t>
                 <t id="p04-s03-t02" type="GSL-1">thing</t>
                 <t id="p04-s03-t03" type="GSL-1">that</t>
@@ -415,7 +415,7 @@
                 <t id="p04-s03-t11" type="Coxhead-AWL-2,AR-AWL-2a">complexity</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p04-s04">
+            <sentence par-function="supporting" id="p04-s04">
                 <connector id="p04-s04-c01" type="temporal sequence" info="p04-s04-t02:p04-s04-t08,p04-s04-t09:p04-s04-t29">
                     <t id="p04-s04-t01" type="GSL-1">When</t>
                 </connector>
@@ -454,7 +454,7 @@
             </sentence>
         </paragraph>
         <paragraph id="p05">
-            <sentence par-function="topic|supporting|concluding" id="p05-s01">
+            <sentence par-function="" id="p05-s01">
                 <emph>
                     <t id="p05-s01-t01" type="GSL-1">Sorting</t>
                     <t id="p05-s01-t02" type="GSL-1">by</t>
@@ -463,7 +463,7 @@
             </sentence>
         </paragraph>
         <paragraph id="p06">
-            <sentence par-function="topic|supporting|concluding" id="p06-s01">
+            <sentence par-function="topic" id="p06-s01">
                 <anaphor id="p06-s01-a01" info="p06-s01-t06:p06-s01-t24">
                     <t id="p06-s01-t01" type="GSL-1">This</t>
                 </anaphor>
@@ -499,7 +499,7 @@
             </sentence>
         </paragraph>
         <paragraph id="p07">
-            <sentence par-function="topic|supporting|concluding" id="p07-s01">
+            <sentence par-function="topic" id="p07-s01">
                 <t id="p07-s01-t01" type="GSL-1">Players</t>
                 <t id="p07-s01-t02" type="GSL-1">start</t>
                 <t id="p07-s01-t03" type="GSL-1">with</t>
@@ -516,7 +516,7 @@
             </sentence>
         </paragraph>
         <paragraph id="p08">
-            <sentence par-function="topic|supporting|concluding" id="p08-s01">
+            <sentence par-function="topic" id="p08-s01">
                 <anaphor id="p08-s01-a01" info="p06-s01-t06:p06-s01-t24">
                     <t id="p08-s01-t01" type="GSL-1">This</t>
                     <t id="p08-s01-t02">algorithm</t>
@@ -537,7 +537,7 @@
                 <t id="p08-s01-t13" type="GSL-1">time</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p08-s02">
+            <sentence par-function="supporting" id="p08-s02">
                 <t id="p08-s02-t01" type="GSL-1">The</t>
                 <t id="p08-s02-t02" type="GSL-2">card</t>
                 <t id="p08-s02-t03" type="GSL-1">in</t>
@@ -556,7 +556,7 @@
                 </anaphor>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p08-s03">
+            <sentence par-function="supporting" id="p08-s03">
                 <t id="p08-s03-t01" type="GSL-1">Please</t>
                 <t id="p08-s03-t02" type="GSL-1">note</t>
                 <t id="p08-s03-t03" type="GSL-1">that</t>
@@ -571,7 +571,7 @@
                 <t id="p08-s03-t10">3</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p08-s04">
+            <sentence par-function="supporting" id="p08-s04">
                 <anaphor id="p08-s04-a01" info="p06-s01-t06:p06-s01-t24">
                     <t id="p08-s04-t01" type="GSL-1">This</t>
                     <t id="p08-s04-t02">algorithm</t>
@@ -584,7 +584,7 @@
                 </term>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p08-s05">
+            <sentence par-function="supporting" id="p08-s05">
                 <anaphor id="p08-s05-a01" info="p08-s04-t05:p08-s04-t06">
                     <t id="p08-s05-t01" type="GSL-1">It</t>
                 </anaphor>
@@ -592,7 +592,7 @@
                 <t id="p08-s05-t03" type="GSL-2">slow</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p08-s06">
+            <sentence par-function="supporting" id="p08-s06">
                 <t id="p08-s06-t01">1</t>
                 <punc>.</punc>
                 <connector id="p08-s06-c01" type="condition" info="p08-s06-t03:p08-s06-t14,p08-s06-t15:p08-s06-t20">
@@ -627,7 +627,7 @@
                 <t id="p08-s06-t20" type="GSL-1">done</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p08-s07">
+            <sentence par-function="supporting" id="p08-s07">
                 <t id="p08-s07-t01">2</t>
                 <punc>.</punc>
                 <t id="p08-s07-t02" type="GSL-1">Take</t>
@@ -639,7 +639,7 @@
                 </anaphor>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p08-s08">
+            <sentence par-function="supporting" id="p08-s08">
                 <t id="p08-s08-t01" type="GSL-1">Look</t>
                 <t id="p08-s08-t02" type="GSL-1">at</t>
                 <t id="p08-s08-t03" type="GSL-1">the</t>
@@ -656,7 +656,7 @@
                 </anaphor>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p08-s09">
+            <sentence par-function="supporting" id="p08-s09">
                 <t id="p08-s09-t01">3</t>
                 <punc>.</punc>
                 <anaphor id="p08-s09-a01" info="p08-s08-t03:p08-s08-t05">
@@ -672,7 +672,7 @@
                 <t id="p08-s09-t10" type="GSL-1">A</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p08-s10">
+            <sentence par-function="supporting" id="p08-s10">
                 <t id="p08-s10-t01" type="GSL-1">The</t>
                 <t id="p08-s10-t02" type="GSL-1">position</t>
                 <t id="p08-s10-t03" type="GSL-1">where</t>
@@ -689,7 +689,7 @@
                 <t id="p08-s10-t12">P</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p08-s11">
+            <sentence par-function="supporting" id="p08-s11">
                 <t id="p08-s11-t01">4</t>
                 <punc>.</punc>
                 <connector id="p08-s11-c01" type="condition" info="p08-s11-t03:p08-s11-t13,p08-s11-t14:p08-s11-t17">
@@ -715,7 +715,7 @@
                 <t id="p08-s11-t17">8</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p08-s12">
+            <sentence par-function="supporting" id="p08-s12">
                 <t id="p08-s12-t01">5</t>
                 <punc>.</punc>
                 <t id="p08-s12-t02" type="GSL-1">The</t>
@@ -731,7 +731,7 @@
                 <t id="p08-s12-t10">B</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p08-s13">
+            <sentence par-function="supporting" id="p08-s13">
                 <t id="p08-s13-t01">6</t>
                 <punc>.</punc>
                 <connector id="p08-s13-c01" type="condition" info="p08-s13-t03:p08-s13-t11,p08-s13-t12:p08-s13-t19">
@@ -757,14 +757,14 @@
                 <t id="p08-s13-t19">B</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p08-s14">
+            <sentence par-function="supporting" id="p08-s14">
                 <t id="p08-s14-t01" type="GSL-1">Remember</t>
                 <t id="p08-s14-t02" type="GSL-1">you</t>
                 <t id="p08-s14-t03" type="GSL-1">did</t>
                 <t id="p08-s14-t04" type="GSL-1">this</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p08-s15">
+            <sentence par-function="supporting" id="p08-s15">
                 <connector id="p08-s15-c01" type="temporal sequence" info="p08-s15-t02:p08-s15-t04,p08-s15-t05:p08-s15-t10">
                     <t id="p08-s15-t01" type="GSL-1">When</t>
                 </connector>
@@ -780,7 +780,7 @@
                 <t id="p08-s15-t10">P</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p08-s16">
+            <sentence par-function="supporting" id="p08-s16">
                 <t id="p08-s16-t01">7</t>
                 <punc>.</punc>
                 <connector id="p08-s16-c01" type="condition" info="p08-s16-t03:p08-s16-t12,p08-s16-t16:p08-s16-t20">
@@ -812,7 +812,7 @@
                 <t id="p08-s16-t20">3</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p08-s17">
+            <sentence par-function="supporting" id="p08-s17">
                 <t id="p08-s17-t01">8</t>
                 <punc>.</punc>
                 <connector id="p08-s17-c01" type="condition" info="p08-s17-t03:p08-s17-t15,p08-s17-t16:p08-s17-t24">
@@ -848,7 +848,7 @@
                 <t id="p08-s17-t24" type="GSL-1">sorted</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p08-s18">
+            <sentence par-function="supporting" id="p08-s18">
                 <connector id="p08-s18-c01" type="condition" info="p08-s17-t16:p08-s17-t24,p08-s18-t02:p08-s18-t06">
                     <t id="p08-s18-t01" type="GSL-1">Otherwise</t>
                 </connector>
@@ -861,7 +861,7 @@
             </sentence>
         </paragraph>
         <paragraph id="p09">
-            <sentence par-function="topic|supporting|concluding" id="p09-s01">
+            <sentence par-function="topic" id="p09-s01">
                 <anaphor id="p09-s01-a01" info="p08-s04-t05:p08-s04-t06">
                     <t id="p09-s01-t01" type="GSL-1">This</t>
                 </anaphor>
@@ -877,7 +877,7 @@
                 <t id="p09-s01-t09" type="GSL-1">sorting</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p09-s02">
+            <sentence par-function="supporting" id="p09-s02">
                 <t id="p09-s02-t01" type="Coxhead-AWL-2,AR-AWL-2a">Computer</t>
                 <t id="p09-s02-t02" type="GSL-1">scientists</t>
                 <t id="p09-s02-t03" type="GSL-1">called</t>
@@ -906,7 +906,7 @@
                 <t id="p09-s02-t20" type="GSL-1">run</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p09-s03">
+            <sentence par-function="supporting" id="p09-s03">
                 <connector id="p09-s03-c01" type="contrast" info="p09-s02-t01:p09-s02-t20,p09-s03-t02:p09-s03-t23">
                     <t id="p09-s03-t01" type="GSL-1">Unfortunately</t>
                 </connector>

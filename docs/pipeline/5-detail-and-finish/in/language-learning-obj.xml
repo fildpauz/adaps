@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
 <document>
-    <title>Extract from When It Hurts (and Helps) to Try: The Role of Effort in Language Learning</title>
+    <title>When It Hurts (and Helps) to Try: The Role of Effort in Language Learning (Extract)</title>
     <citation>Finn AS, Lee T, Kraus A, Hudson Kam CL (2014) When It Hurts (and Helps) to Try: The Role of Effort in Language Learning. PLoS ONE 9(7): e101806. doi:10.1371/journal.pone.0101806
         Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101806 on 24 Nov 2016.</citation>
     <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101806</url>
     <body>
         <paragraph id="p01">
-            <sentence par-function="topic|supporting|concluding" id="p01-s01">
+            <sentence par-function="topic" id="p01-s01">
                 <t id="p01-s01-t01" type="GSL-2">Compared</t>
                 <t id="p01-s01-t02" type="GSL-1">to</t>
                 <t id="p01-s01-t03" type="GSL-1">children</t>
@@ -20,7 +20,7 @@
                 <t id="p01-s01-t09" type="GSL-1">language</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p01-s02">
+            <sentence par-function="supporting" id="p01-s02">
                 <anaphor id="p01-s02-a01" info="p01-s01-t04:p01-s01-t09">
                     <t id="p01-s02-t01" type="GSL-1">This</t>
                 </anaphor>
@@ -52,7 +52,7 @@
                 <punc>)</punc>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p01-s03">
+            <sentence par-function="supporting" id="p01-s03">
                 <t id="p01-s03-t01" type="GSL-1">The</t>
                 <t id="p01-s03-t02" type="GSL-1">present</t>
                 <t id="p01-s03-t03" type="GSL-1">study</t>
@@ -99,7 +99,7 @@
                 <t id="p01-s03-t36" type="GSL-1">learning</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p01-s04">
+            <sentence par-function="supporting" id="p01-s04">
                 <t id="p01-s04-t01" type="GSL-1">Learners</t>
                 <t id="p01-s04-t02" type="GSL-1">were</t>
                 <t id="p01-s04-t03" type="Coxhead-AWL-5,AR-AWL-5a">exposed</t>
@@ -123,7 +123,7 @@
                 <punc>)</punc>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p01-s05">
+            <sentence par-function="supporting" id="p01-s05">
                 <t id="p01-s05-t01" type="Coxhead-AWL-5,AR-AWL-5a">Exposure</t>
                 <t id="p01-s05-t02" type="Coxhead-AWL-1,AR-AWL-1b">occurred</t>
                 <t id="p01-s05-t03" type="GSL-1">under</t>
@@ -133,7 +133,7 @@
                 <t id="p01-s05-t07" type="GSL-1">conditions</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p01-s06">
+            <sentence par-function="supporting" id="p01-s06">
                 <t id="p01-s06-t01" type="Coxhead-AWL-9,AR-AWL-9b">Passive</t>
                 <t id="p01-s06-t02" type="GSL-1">learners</t>
                 <t id="p01-s06-t03" type="GSL-1">were</t>
@@ -176,7 +176,7 @@
                 <t id="p01-s06-t28" type="GSL-1">order</t>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p01-s07">
+            <sentence par-function="supporting" id="p01-s07">
                 <t id="p01-s07-t01">Effortful</t>
                 <t id="p01-s07-t02" type="GSL-1">learners</t>
                 <t id="p01-s07-t03" type="GSL-1">showed</t>
@@ -201,7 +201,7 @@
                 </anaphor>
                 <punc>.</punc>
             </sentence>
-            <sentence par-function="topic|supporting|concluding" id="p01-s08">
+            <sentence par-function="supporting" id="p01-s08">
                 <t id="p01-s08-t01" type="GSL-1">Effort</t>
                 <t id="p01-s08-t02" type="GSL-1">can</t>
                 <t id="p01-s08-t03" type="GSL-1">therefore</t>
