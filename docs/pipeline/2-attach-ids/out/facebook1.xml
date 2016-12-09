@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Extract from Facebook Use Predicts Declines in Subjective Well-Being in Young Adults</title>
+    <citation>Kross E, Verduyn P, Demiralp E, Park J, Lee DS, et al. (2013) Facebook Use Predicts Declines in Subjective Well-Being in Young Adults. PLoS ONE 8(8): e69841. doi:10.1371/journal.pone.0069841 
+        Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0069841 on 07 Dec 2016.</citation>
+    <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0069841</url>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01">In</t>
+                <t id="p01-s01-t02">Phase</t>
+                <t id="p01-s01-t03">1</t>
+                <punc>,</punc>
+                <t id="p01-s01-t04">participants</t>
+                <t id="p01-s01-t05">completed</t>
+                <t id="p01-s01-t06">a</t>
+                <t id="p01-s01-t07">set</t>
+                <t id="p01-s01-t08">of</t>
+                <t id="p01-s01-t09">questionnaires</t>
+                <punc>,</punc>
+                <t id="p01-s01-t10">which</t>
+                <t id="p01-s01-t11">we</t>
+                <t id="p01-s01-t12">modified</t>
+                <t id="p01-s01-t13">to</t>
+                <t id="p01-s01-t14">assess</t>
+                <t id="p01-s01-t15">perceptions</t>
+                <t id="p01-s01-t16">of</t>
+                <t id="p01-s01-t17">Facebook</t>
+                <t id="p01-s01-t18">support</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01">We</t>
+                <t id="p01-s02-t02">also</t>
+                <t id="p01-s02-t03">assessed</t>
+                <t id="p01-s02-t04">participants'</t>
+                <t id="p01-s02-t05">motivation</t>
+                <t id="p01-s02-t06">for</t>
+                <t id="p01-s02-t07">using</t>
+                <t id="p01-s02-t08">Facebook</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s03">
+                <t id="p01-s03-t01">In</t>
+                <t id="p01-s03-t02">Phase</t>
+                <t id="p01-s03-t03">2</t>
+                <punc>,</punc>
+                <t id="p01-s03-t04">participants</t>
+                <t id="p01-s03-t05">were</t>
+                <t id="p01-s03-t06">text</t>
+				<punc>-</punc>
+				<t id="p01-s03-t07">messaged</t>
+                <t id="p01-s03-t08">5</t>
+                <t id="p01-s03-t09">times</t>
+                <t id="p01-s03-t10">per</t>
+                <t id="p01-s03-t11">day</t>
+                <t id="p01-s03-t12">between</t>
+                <t id="p01-s03-t13">10am</t>
+                <t id="p01-s03-t14">and</t>
+                <t id="p01-s03-t15">midnight</t>
+                <t id="p01-s03-t16">over</t>
+                <t id="p01-s03-t17">14</t>
+				<punc>-</punc>
+				<t id="p01-s03-t18">days</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s04">
+                <t id="p01-s04-t01">Text</t>
+				<punc>-</punc>
+				<t id="p01-s04-t02">messages</t>
+                <t id="p01-s04-t03">occurred</t>
+                <t id="p01-s04-t04">at</t>
+                <t id="p01-s04-t05">random</t>
+                <t id="p01-s04-t06">times</t>
+                <t id="p01-s04-t07">within</t>
+                <t id="p01-s04-t08">168</t>
+				<punc>-</punc>
+				<t id="p01-s04-t09">minute</t>
+                <t id="p01-s04-t10">windows</t>
+                <t id="p01-s04-t11">per</t>
+                <t id="p01-s04-t12">day</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s05">
+                <t id="p01-s05-t01">Each</t>
+                <t id="p01-s05-t02">text</t>
+				<punc>-</punc>
+				<t id="p01-s05-t03">message</t>
+                <t id="p01-s05-t04">contained</t>
+                <t id="p01-s05-t05">a</t>
+                <t id="p01-s05-t06">link</t>
+                <t id="p01-s05-t07">to</t>
+                <t id="p01-s05-t08">an</t>
+                <t id="p01-s05-t09">online</t>
+                <t id="p01-s05-t10">survey</t>
+                <punc>,</punc>
+                <t id="p01-s05-t11">which</t>
+                <t id="p01-s05-t12">asked</t>
+                <t id="p01-s05-t13">participants</t>
+                <t id="p01-s05-t14">to</t>
+                <t id="p01-s05-t15">answer</t>
+                <t id="p01-s05-t16">five</t>
+                <t id="p01-s05-t17">questions</t>
+                <punc>[</punc>
+                <t id="p01-s05-t18">about</t>
+                <t id="p01-s05-t19">their</t>
+                <t id="p01-s05-t20">feelings</t>
+                <t id="p01-s05-t21">and</t>
+                <t id="p01-s05-t22">Facebook</t>
+                <t id="p01-s05-t23">usage</t>
+                <punc>]</punc>
+                <t id="p01-s05-t24">using</t>
+                <t id="p01-s05-t25">a</t>
+                <t id="p01-s05-t26">slider</t>
+                <t id="p01-s05-t27">scale</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s06">
+                <t id="p01-s06-t01">Participants</t>
+                <t id="p01-s06-t02">returned</t>
+                <t id="p01-s06-t03">to</t>
+                <t id="p01-s06-t04">the</t>
+                <t id="p01-s06-t05">laboratory</t>
+                <t id="p01-s06-t06">following</t>
+                <t id="p01-s06-t07">Phase</t>
+                <t id="p01-s06-t08">2</t>
+                <t id="p01-s06-t09">to</t>
+                <t id="p01-s06-t10">complete</t>
+                <t id="p01-s06-t11">another</t>
+                <t id="p01-s06-t12">set</t>
+                <t id="p01-s06-t13">of</t>
+                <t id="p01-s06-t14">questionnaires</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s07">
+                <t id="p01-s07-t01">Participants'</t>
+                <t id="p01-s07-t02">number</t>
+                <t id="p01-s07-t03">of</t>
+                <t id="p01-s07-t04">Facebook</t>
+                <t id="p01-s07-t05">friends</t>
+                <t id="p01-s07-t06">was</t>
+                <t id="p01-s07-t07">also</t>
+                <t id="p01-s07-t08">recorded</t>
+                <t id="p01-s07-t09">during</t>
+                <t id="p01-s07-t10">this</t>
+                <t id="p01-s07-t11">session</t>
+                <t id="p01-s07-t12">from</t>
+                <t id="p01-s07-t13">participants'</t>
+                <t id="p01-s07-t14">Facebook</t>
+                <t id="p01-s07-t15">accounts</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
