@@ -1,3 +1,5 @@
+![ADAPS logo](https://fildpauz.github.io/adaps/adaps_logo_sm.png "Academic Document Annotation and Presentation Schema")
+
 # ADAPS processing pipeline
 
 This README document gives an overview of the pipeline for processing documents according to the ADAPS scheme. The end product of the entire procedure can be viewed at the public page for ADAPS documents: <https://fildpauz.github.io/adaps/>
