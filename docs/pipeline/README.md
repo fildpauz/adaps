@@ -4,7 +4,7 @@
 
 This README document gives an overview of the pipeline for processing documents according to the ADAPS scheme. The end product of the entire procedure can be viewed at the public page for ADAPS documents: <https://fildpauz.github.io/adaps/>
 
-Documents are processed in five steps alternately by human editors and machine scripts, and pass through the five subfolders in this folder as each respective step is completed. After editing a file, editors will place the file in the `in` subfolder at each step. The files will be processed by a machine script and the output will go to the `out` folder. The `out` file can then be used by the editor for editing at the next step. The five steps are summarized below.
+Documents are processed in five steps alternately by human editors and machine scripts, and pass through the five subfolders in this folder as each respective step is completed. After editing a file, editors will place the file in the `pipeline/.../in` subfolder at each step. The files will be processed by a machine script and the output will go to the `pipeline/.../out` folder. This `out` file can then be used by the editor for editing at the next step. The five steps are summarized below.
 
 1. *Tokenize* - The editor formats a text into a minimal `xml` document. The machine script adds `xml` mark-up to show paragraphs, sentences, and tokens (i.e., words).
 2. *Attach IDs* - The editor cleans up any problems from the output of Step 1. The machine script adds IDs to all of the paragraphs, sentences, and tokens.
