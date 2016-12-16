@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Extract from Glucagon-Like Peptide-1 Induced Signaling and Insulin Secretion Do Not Drive Fuel and Energy Metabolism in Primary Rodent Pancreatic β-Cells</title>
+    <citation>Peyot M-L, Gray JP, Lamontagne J, Smith PJS, Holz GG, et al. (2009) Glucagon-Like Peptide-1 Induced Signaling and Insulin Secretion Do Not Drive Fuel and Energy Metabolism in Primary Rodent Pancreatic β-Cells. PLoS ONE 4(7): e6221. doi:10.1371/journal.pone.0006221
+        Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0006221 on 15 Dec 2016.</citation>
+    <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0006221</url>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01">In</t>
+                <t id="p01-s01-t02">the</t>
+                <t id="p01-s01-t03">present</t>
+                <t id="p01-s01-t04">study</t>
+                <t id="p01-s01-t05">we</t>
+                <t id="p01-s01-t06">examined</t>
+                <t id="p01-s01-t07">whether</t>
+                <t id="p01-s01-t08">the</t>
+                <t id="p01-s01-t09">acute</t>
+                <t id="p01-s01-t10">stimulation</t>
+                <t id="p01-s01-t11">of</t>
+                <t id="p01-s01-t12">GSIS</t>
+                <t id="p01-s01-t13">by</t>
+                <t id="p01-s01-t14">GLP-1</t>
+                <t id="p01-s01-t15">or</t>
+                <t id="p01-s01-t16">Ex-4</t>
+                <t id="p01-s01-t17">involves</t>
+                <t id="p01-s01-t18">the</t>
+                <t id="p01-s01-t19">modulation</t>
+                <t id="p01-s01-t20">of</t>
+                <t id="p01-s01-t21">glucose</t>
+                <punc>,</punc>
+                <t id="p01-s01-t22">fatty</t>
+                <t id="p01-s01-t23">acid</t>
+                <t id="p01-s01-t24">and</t>
+                <t id="p01-s01-t25">energy</t>
+                <t id="p01-s01-t26">metabolism</t>
+                <t id="p01-s01-t27">in</t>
+                <t id="p01-s01-t28">the</t>
+                <t id="p01-s01-t29">β-cells</t>
+                <punc>,</punc>
+                <t id="p01-s01-t30">as</t>
+                <t id="p01-s01-t31">studied</t>
+                <t id="p01-s01-t32">using</t>
+                <t id="p01-s01-t33">isolated</t>
+                <t id="p01-s01-t34">islets</t>
+                <t id="p01-s01-t35">of</t>
+                <t id="p01-s01-t36">both</t>
+                <t id="p01-s01-t37">rats</t>
+                <t id="p01-s01-t38">and</t>
+                <t id="p01-s01-t39">mice</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01">The</t>
+                <t id="p01-s02-t02">study</t>
+                <t id="p01-s02-t03">was</t>
+                <t id="p01-s02-t04">designed</t>
+                <t id="p01-s02-t05">to</t>
+                <t id="p01-s02-t06">respond</t>
+                <t id="p01-s02-t07">to</t>
+                <t id="p01-s02-t08">four</t>
+                <t id="p01-s02-t09">questions</t>
+                <t id="p01-s02-t10">of</t>
+                <t id="p01-s02-t11">general</t>
+                <t id="p01-s02-t12">interest</t>
+                <t id="p01-s02-t13">for</t>
+                <t id="p01-s02-t14">β-cell</t>
+                <t id="p01-s02-t15">neuropeptide</t>
+                <t id="p01-s02-t16">and</t>
+                <t id="p01-s02-t17">fuel</t>
+                <t id="p01-s02-t18">signaling</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s03">
+                <t id="p01-s03-t01">1</t>
+                <punc>)</punc>
+                <t id="p01-s03-t02">Does</t>
+                <t id="p01-s03-t03">GLP-1</t>
+                <t id="p01-s03-t04">amplify</t>
+                <t id="p01-s03-t05">GSIS</t>
+                <t id="p01-s03-t06">in</t>
+                <t id="p01-s03-t07">part</t>
+                <t id="p01-s03-t08">by</t>
+                <t id="p01-s03-t09">metabolic</t>
+                <t id="p01-s03-t10">signaling</t>
+                <punc>?</punc>
+            </sentence>
+            <sentence id="p01-s04">
+                <t id="p01-s04-t01">2</t>
+                <punc>)</punc>
+                <t id="p01-s04-t02">Does</t>
+                <t id="p01-s04-t03">the</t>
+                <t id="p01-s04-t04">activation</t>
+                <t id="p01-s04-t05">of</t>
+                <t id="p01-s04-t06">major</t>
+                <t id="p01-s04-t07">cellular</t>
+                <t id="p01-s04-t08">signaling</t>
+                <t id="p01-s04-t09">processes</t>
+                <punc>(</punc>
+                <t id="p01-s04-t10">Ca2+</t>
+                <punc>,</punc>
+                <t id="p01-s04-t11">cAMP</t>
+                <punc>,</punc>
+                <t id="p01-s04-t12">PKB</t>
+                <t id="p01-s04-t13">etc</t>
+                <punc>)</punc>
+                <t id="p01-s04-t14">in</t>
+                <t id="p01-s04-t15">response</t>
+                <t id="p01-s04-t16">to</t>
+                <t id="p01-s04-t17">a</t>
+                <t id="p01-s04-t18">physiological</t>
+                <t id="p01-s04-t19">peptide</t>
+                <t id="p01-s04-t20">agonist</t>
+                <t id="p01-s04-t21">changes</t>
+                <t id="p01-s04-t22">β-cell</t>
+                <t id="p01-s04-t23">metabolism</t>
+                <punc>?</punc>
+            </sentence>
+            <sentence id="p01-s05">
+                <t id="p01-s05-t01">3</t>
+                <punc>)</punc>
+                <t id="p01-s05-t02">Does</t>
+                <t id="p01-s05-t03">enhanced</t>
+                <t id="p01-s05-t04">insulin</t>
+                <t id="p01-s05-t05">secretion</t>
+                <t id="p01-s05-t06">contribute</t>
+                <t id="p01-s05-t07">significantly</t>
+                <t id="p01-s05-t08">to</t>
+                <t id="p01-s05-t09">total</t>
+                <t id="p01-s05-t10">energy</t>
+                <t id="p01-s05-t11">consuming</t>
+                <t id="p01-s05-t12">processes</t>
+                <t id="p01-s05-t13">in</t>
+                <t id="p01-s05-t14">the</t>
+                <t id="p01-s05-t15">β-cell</t>
+                <punc>?</punc>
+            </sentence>
+            <sentence id="p01-s06">
+                <t id="p01-s06-t01">4</t>
+                <punc>)</punc>
+                <t id="p01-s06-t02">Is</t>
+                <t id="p01-s06-t03">the</t>
+                <t id="p01-s06-t04">β-cell</t>
+                <t id="p01-s06-t05">similar</t>
+                <t id="p01-s06-t06">or</t>
+                <t id="p01-s06-t07">different</t>
+                <t id="p01-s06-t08">from</t>
+                <t id="p01-s06-t09">most</t>
+                <t id="p01-s06-t10">tissues</t>
+                <t id="p01-s06-t11">in</t>
+                <t id="p01-s06-t12">term</t>
+                <t id="p01-s06-t13">of</t>
+                <t id="p01-s06-t14">metabolic</t>
+                <t id="p01-s06-t15">activation</t>
+                <punc>,</punc>
+                <t id="p01-s06-t16">specifically</t>
+                <t id="p01-s06-t17">whether</t>
+                <t id="p01-s06-t18">it</t>
+                <t id="p01-s06-t19">is</t>
+                <t id="p01-s06-t20">primarily</t>
+                <t id="p01-s06-t21">governed</t>
+                <t id="p01-s06-t22">by</t>
+                <t id="p01-s06-t23">a</t>
+                <punc>“</punc>
+                <t id="p01-s06-t24">push</t>
+                <punc>”</punc>
+                <punc>(</punc>
+                <t id="p01-s06-t25">fuel</t>
+                <t id="p01-s06-t26">substrate</t>
+                <t id="p01-s06-t27">driven</t>
+                <punc>)</punc>
+                <t id="p01-s06-t28">process</t>
+                <punc>,</punc>
+                <t id="p01-s06-t29">rather</t>
+                <t id="p01-s06-t30">than</t>
+                <t id="p01-s06-t31">a</t>
+                <punc>“</punc>
+                <t id="p01-s06-t32">pull</t>
+                <punc>”</punc>
+                <t id="p01-s06-t33">mechanism</t>
+                <t id="p01-s06-t34">secondary</t>
+                <t id="p01-s06-t35">to</t>
+                <t id="p01-s06-t36">enhanced</t>
+                <t id="p01-s06-t37">activation</t>
+                <t id="p01-s06-t38">of</t>
+                <t id="p01-s06-t39">its</t>
+                <t id="p01-s06-t40">major</t>
+                <t id="p01-s06-t41">cellular</t>
+                <t id="p01-s06-t42">function</t>
+                <punc>?</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
