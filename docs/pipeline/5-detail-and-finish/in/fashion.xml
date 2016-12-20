@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Extract from The Science of Style: In Fashion, Colors Should Match Only Moderately</title>
+    <citation>Gray K, Schmitt P, Strohminger N, Kassam KS (2014) The Science of Style: In Fashion, Colors Should Match Only Moderately. PLoS ONE 9(7): e102772. doi:10.1371/journal.pone.0102772
+        Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102772 on 15 Dec 2016.</citation>
+    <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102772</url>
+    <body>
+        <paragraph id="p01">
+            <sentence par-function="topic" id="p01-s01">
+                <t id="p01-s01-t01" type="GSL-1">In</t>
+                <t id="p01-s01-t02" type="GSL-1">terms</t>
+                <t id="p01-s01-t03" type="GSL-1">of</t>
+                <t id="p01-s01-t04" type="GSL-2">fashion</t>
+                <punc>,</punc>
+                <t id="p01-s01-t05" type="GSL-1">there</t>
+                <t id="p01-s01-t06" type="GSL-1">are</t>
+                <t id="p01-s01-t07" type="GSL-1">two</t>
+                <t id="p01-s01-t08" type="GSL-1">popular</t>
+                <t id="p01-s01-t09" type="Coxhead-AWL-1,AR-AWL-1a">approaches</t>
+                <t id="p01-s01-t10" type="GSL-1">to</t>
+                <t id="p01-s01-t11" type="Coxhead-AWL-5,AR-AWL-5b">style</t>
+                <t id="p01-s01-t12" type="GSL-1">that</t>
+                <t id="p01-s01-t13" type="GSL-1">represent</t>
+                <punc>“</punc>
+                <t id="p01-s01-t14">extremes</t>
+                <punc>.</punc>
+                <punc>”</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s02">
+                <t id="p01-s02-t01" type="GSL-1">On</t>
+                <t id="p01-s02-t02" type="GSL-1">one</t>
+                <t id="p01-s02-t03" type="GSL-1">hand</t>
+                <punc>,</punc>
+                <t id="p01-s02-t04" type="GSL-1">we</t>
+                <t id="p01-s02-t05" type="GSL-1">often</t>
+                <t id="p01-s02-t06" type="GSL-1">speak</t>
+                <t id="p01-s02-t07" type="GSL-1">as</t>
+                <t id="p01-s02-t08" type="GSL-1">if</t>
+                <t id="p01-s02-t09" type="GSL-1">the</t>
+                <t id="p01-s02-t10" type="GSL-1">most</t>
+                <t id="p01-s02-t11" type="GSL-2">fashionable</t>
+                <t id="p01-s02-t12">outfits</t>
+                <t id="p01-s02-t13" type="GSL-1">are</t>
+                <t id="p01-s02-t14" type="GSL-1">those</t>
+                <t id="p01-s02-t15" type="GSL-1">that</t>
+                <t id="p01-s02-t16" type="GSL-1">fully</t>
+                <t id="p01-s02-t17" type="Coxhead-AWL-3,AR-AWL-3a">coordinate</t>
+                <t id="p01-s02-t18" type="GSL-1">or</t>
+                <punc>“</punc>
+                <t id="p01-s02-t19" type="GSL-2">match</t>
+                <punc>”</punc>
+                <punc>[</punc>
+                <t id="p01-s02-t20">10</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s03">
+                <anaphor id="p01-s03-a01" info="p01-s02-t09:p01-s02-t19">
+                    <t id="p01-s03-t01" type="GSL-1">This</t>
+                </anaphor>
+                <t id="p01-s03-t02" type="GSL-1">suggests</t>
+                <t id="p01-s03-t03" type="GSL-1">that</t>
+                <t id="p01-s03-t04" type="GSL-2">pairing</t>
+                <t id="p01-s03-t05" type="GSL-1">the</t>
+                <t id="p01-s03-t06" type="GSL-1">same</t>
+                <t id="p01-s03-t07" type="GSL-1">or</t>
+                <t id="p01-s03-t08" type="Coxhead-AWL-1,AR-AWL-1b">similar</t>
+                <t id="p01-s03-t09" type="GSL-1">colors</t>
+                <t id="p01-s03-t10" type="GSL-1">with</t>
+                <t id="p01-s03-t11" type="GSL-1">each</t>
+                <t id="p01-s03-t12" type="GSL-1">other</t>
+                <t id="p01-s03-t13" type="GSL-1">may</t>
+                <t id="p01-s03-t14" type="GSL-1">be</t>
+                <t id="p01-s03-t15" type="GSL-1">the</t>
+                <t id="p01-s03-t16" type="GSL-2">key</t>
+                <t id="p01-s03-t17" type="GSL-1">to</t>
+                <t id="p01-s03-t18" type="GSL-2">fashion</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s04">
+                <connector id="p01-s04-c01" type="contrast" info="p01-s02-t04:p01-s02-t20,p01-s04-t05:p01-s04-t10">
+                    <t id="p01-s04-t01" type="GSL-1">On</t>
+                    <t id="p01-s04-t02" type="GSL-1">the</t>
+                    <t id="p01-s04-t03" type="GSL-1">other</t>
+                    <t id="p01-s04-t04" type="GSL-1">hand</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p01-s04-t05" type="GSL-2">fashion</t>
+                <t id="p01-s04-t06" type="GSL-1">is</t>
+                <t id="p01-s04-t07" type="GSL-1">often</t>
+                <t id="p01-s04-t08" type="GSL-1">about</t>
+                <t id="p01-s04-t09" type="GSL-1">being</t>
+                <t id="p01-s04-t10" type="GSL-1">noticed</t>
+                <punc>,</punc>
+                <t id="p01-s04-t11" type="GSL-1">and</t>
+                <connector id="p01-s04-c02" type="cause" info="p01-s04-t05:p01-s04-t10,p01-s04-t13:p01-s04-t26">
+                    <t id="p01-s04-t12" type="GSL-1">so</t>
+                </connector>
+                <t id="p01-s04-t13" type="GSL-1">we</t>
+                <t id="p01-s04-t14" type="GSL-1">might</t>
+                <t id="p01-s04-t15" type="GSL-1">want</t>
+                <t id="p01-s04-t16" type="GSL-1">color</t>
+                <t id="p01-s04-t17" type="GSL-2">combinations</t>
+                <t id="p01-s04-t18" type="GSL-1">that</t>
+                <t id="p01-s04-t19">maximally</t>
+                <t id="p01-s04-t20" type="GSL-1">differ</t>
+                <t id="p01-s04-t21" type="GSL-1">from</t>
+                <t id="p01-s04-t22" type="GSL-1">each</t>
+                <t id="p01-s04-t23" type="GSL-1">other</t>
+                <t id="p01-s04-t24" type="GSL-1">and</t>
+                <punc>“</punc>
+                <t id="p01-s04-t25">pop</t>
+                <punc>”</punc>
+                <punc>[</punc>
+                <t id="p01-s04-t26">11</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s05">
+                <t id="p01-s05-t01" type="GSL-1">Between</t>
+                <anaphor id="p01-s05-a01" info="p01-s02-t09:p01-s02-t19,p01-s04-t16:p01-s04-t25">
+                    <t id="p01-s05-t02" type="GSL-1">these</t>
+                    <t id="p01-s05-t03" type="GSL-1">two</t>
+                    <t id="p01-s05-t04">extremes</t>
+                </anaphor>
+                <punc>,</punc>
+                <t id="p01-s05-t05" type="GSL-1">the</t>
+                <t id="p01-s05-t06">Goldilocks</t>
+                <t id="p01-s05-t07" type="Coxhead-AWL-1,AR-AWL-1b">Principle</t>
+                <connector id="p01-s05-c01" type="attribution" info="p01-s05-t05:p01-s05-t07,p01-s05-t10:p01-s05-t26">
+                    <t id="p01-s05-t08" type="GSL-1">suggests</t>
+                </connector>
+                <t id="p01-s05-t09" type="GSL-1">that</t>
+                <t id="p01-s05-t10" type="GSL-1">the</t>
+                <t id="p01-s05-t11" type="GSL-1">best</t>
+                <t id="p01-s05-t12" type="GSL-1">color</t>
+                <t id="p01-s05-t13" type="GSL-2">combinations</t>
+                <t id="p01-s05-t14" type="GSL-1">are</t>
+                <t id="p01-s05-t15" type="GSL-1">those</t>
+                <t id="p01-s05-t16" type="GSL-1">that</t>
+                <t id="p01-s05-t17" type="GSL-1">are</t>
+                <t id="p01-s05-t18" type="GSL-1">neither</t>
+                <t id="p01-s05-t19" type="GSL-1">too</t>
+                <t id="p01-s05-t20" type="Coxhead-AWL-1,AR-AWL-1b">similar</t>
+                <punc>(</punc>
+                <punc>“</punc>
+                <t id="p01-s05-t21">matchy</t>
+                <punc>-</punc>
+                <t id="p01-s05-t22">matchy</t>
+                <punc>”</punc>
+                <punc>)</punc>
+                <t id="p01-s05-t23" type="GSL-1">nor</t>
+                <t id="p01-s05-t24" type="GSL-1">too</t>
+                <t id="p01-s05-t25" type="GSL-1">different</t>
+                <punc>(</punc>
+                <punc>“</punc>
+                <t id="p01-s05-t26">clashing</t>
+                <punc>”</punc>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
