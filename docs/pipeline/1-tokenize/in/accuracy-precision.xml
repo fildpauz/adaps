@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document>
-<title>Accuracy Precision</title>
+<title>Accuracy and Precision</title>
 <citation>OpenStax College, &#8220;College Physics&#8221;. Retrieved from http://cnx.org/content/col11406/latest/ on 21 June 2012</citation>
 <url>http://cnx.org/content/col11406/latest/</url>
 <body>
@@ -19,6 +19,5 @@ The factors contributing to uncertainty in a measurement include:
 4. Any other factors that affect the outcome (highly dependent on the situation).
 
 In our example, such factors contributing to the uncertainty could be the following: the smallest division on the ruler is 0.1 in., the person using the ruler has bad eyesight, or one side of the paper is slightly longer than the other. At any rate, the uncertainty in a measurement must be based on a careful consideration of all the factors that might contribute and their possible effects.
-
 </body>
 </document>
