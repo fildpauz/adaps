@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Materials and Methods</title>
+    <citation>Lugli L, Baroni G, Anelli F, Borghi AM, Nicoletti R (2013) Counting Is Easier while Experiencing a Congruent Motion. PLoS ONE 8(5): e64500. doi:10.1371/journal.pone.0064500</citation>
+    <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064500</url>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01">Participants</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence id="p02-s01">
+                <t id="p02-s01-t01">Fifty</t>
+                <punc>-</punc>
+                <t id="p02-s01-t02">six</t>
+                <t id="p02-s01-t03">students</t>
+                <t id="p02-s01-t04">of</t>
+                <t id="p02-s01-t05">the</t>
+                <t id="p02-s01-t06">University</t>
+                <t id="p02-s01-t07">of</t>
+                <t id="p02-s01-t08">Bologna</t>
+                <punc>(</punc>
+                <t id="p02-s01-t09">30</t>
+                <t id="p02-s01-t10">females</t>
+                <punc>,</punc>
+                <t id="p02-s01-t11">mean</t>
+                <t id="p02-s01-t12">age</t>
+                <punc>:</punc>
+                <t id="p02-s01-t13">22</t>
+                <t id="p02-s01-t14">years</t>
+                <punc>)</punc>
+                <t id="p02-s01-t15">took</t>
+                <t id="p02-s01-t16">part</t>
+                <t id="p02-s01-t17">in</t>
+                <t id="p02-s01-t18">the</t>
+                <t id="p02-s01-t19">experiment</t>
+                <t id="p02-s01-t20">and</t>
+                <t id="p02-s01-t21">received</t>
+                <t id="p02-s01-t22">5</t>
+                <t id="p02-s01-t23">euro</t>
+                <t id="p02-s01-t24">for</t>
+                <t id="p02-s01-t25">their</t>
+                <t id="p02-s01-t26">participation</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s02">
+                <t id="p02-s02-t01">The</t>
+                <t id="p02-s02-t02">majority</t>
+                <t id="p02-s02-t03">of</t>
+                <t id="p02-s02-t04">participants</t>
+                <t id="p02-s02-t05">had</t>
+                <t id="p02-s02-t06">a</t>
+                <t id="p02-s02-t07">background</t>
+                <t id="p02-s02-t08">in</t>
+                <t id="p02-s02-t09">humanities</t>
+                <t id="p02-s02-t10">and</t>
+                <t id="p02-s02-t11">they</t>
+                <t id="p02-s02-t12">were</t>
+                <t id="p02-s02-t13">all</t>
+                <t id="p02-s02-t14">naïve</t>
+                <t id="p02-s02-t15">as</t>
+                <t id="p02-s02-t16">to</t>
+                <t id="p02-s02-t17">the</t>
+                <t id="p02-s02-t18">purpose</t>
+                <t id="p02-s02-t19">of</t>
+                <t id="p02-s02-t20">the</t>
+                <t id="p02-s02-t21">experiment</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s03">
+                <t id="p02-s03-t01">Eight</t>
+                <t id="p02-s03-t02">participants</t>
+                <t id="p02-s03-t03">were</t>
+                <t id="p02-s03-t04">eliminated</t>
+                <t id="p02-s03-t05">and</t>
+                <t id="p02-s03-t06">replaced</t>
+                <t id="p02-s03-t07">from</t>
+                <t id="p02-s03-t08">the</t>
+                <t id="p02-s03-t09">same</t>
+                <t id="p02-s03-t10">pool</t>
+                <t id="p02-s03-t11">since</t>
+                <t id="p02-s03-t12">they</t>
+                <t id="p02-s03-t13">made</t>
+                <t id="p02-s03-t14">more</t>
+                <t id="p02-s03-t15">than</t>
+                <t id="p02-s03-t16">4</t>
+                <t id="p02-s03-t17">calculation</t>
+                <t id="p02-s03-t18">errors</t>
+                <punc>(</punc>
+                <t id="p02-s03-t19">corresponding</t>
+                <t id="p02-s03-t20">to</t>
+                <t id="p02-s03-t21">the</t>
+                <t id="p02-s03-t22">participants</t>
+                <punc>'</punc>
+                <t id="p02-s03-t23">errors</t>
+                <t id="p02-s03-t24">mean</t>
+                <t id="p02-s03-t25">plus</t>
+                <t id="p02-s03-t26">one</t>
+                <t id="p02-s03-t27">standard</t>
+                <t id="p02-s03-t28">deviation</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p03">
+            <sentence id="p03-s01">
+                <t id="p03-s01-t01">Apparatus</t>
+                <t id="p03-s01-t02">and</t>
+                <t id="p03-s01-t03">stimuli</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p04">
+            <sentence id="p04-s01">
+                <t id="p04-s01-t01">Participants</t>
+                <t id="p04-s01-t02">were</t>
+                <t id="p04-s01-t03">asked</t>
+                <t id="p04-s01-t04">to</t>
+                <t id="p04-s01-t05">keep</t>
+                <t id="p04-s01-t06">adding</t>
+                <t id="p04-s01-t07">or</t>
+                <t id="p04-s01-t08">subtracting</t>
+                <t id="p04-s01-t09">3</t>
+                <t id="p04-s01-t10">to</t>
+                <t id="p04-s01-t11">a</t>
+                <t id="p04-s01-t12">starting</t>
+                <t id="p04-s01-t13">number</t>
+                <punc>(</punc>
+                <t id="p04-s01-t14">e.g</t>
+                <punc>.</punc>
+                <punc>,</punc>
+                <t id="p04-s01-t15">371</t>
+                <punc>)</punc>
+                <t id="p04-s01-t16">for</t>
+                <t id="p04-s01-t17">22</t>
+                <t id="p04-s01-t18">seconds</t>
+                <t id="p04-s01-t19">and</t>
+                <t id="p04-s01-t20">to</t>
+                <t id="p04-s01-t21">say</t>
+                <t id="p04-s01-t22">the</t>
+                <t id="p04-s01-t23">result</t>
+                <t id="p04-s01-t24">of</t>
+                <t id="p04-s01-t25">each</t>
+                <t id="p04-s01-t26">calculation</t>
+                <t id="p04-s01-t27">aloud</t>
+                <punc>(</punc>
+                <t id="p04-s01-t28">e.g</t>
+                <punc>.</punc>
+                <punc>,</punc>
+                <t id="p04-s01-t29">374</t>
+                <punc>,</punc>
+                <t id="p04-s01-t30">377</t>
+                <punc>,</punc>
+                <t id="p04-s01-t31">380</t>
+                <t id="p04-s01-t32">or</t>
+                <t id="p04-s01-t33">368</t>
+                <punc>,</punc>
+                <t id="p04-s01-t34">365</t>
+                <punc>,</punc>
+                <t id="p04-s01-t35">362</t>
+                <t id="p04-s01-t36">and</t>
+                <t id="p04-s01-t37">so</t>
+                <t id="p04-s01-t38">on</t>
+                <punc>,</punc>
+                <t id="p04-s01-t39">for</t>
+                <t id="p04-s01-t40">additions</t>
+                <t id="p04-s01-t41">and</t>
+                <t id="p04-s01-t42">subtractions</t>
+                <punc>,</punc>
+                <t id="p04-s01-t43">respectively</t>
+                <punc>,</punc>
+                <t id="p04-s01-t44">until</t>
+                <t id="p04-s01-t45">the</t>
+                <t id="p04-s01-t46">22</t>
+                <t id="p04-s01-t47">seconds</t>
+                <t id="p04-s01-t48">were</t>
+                <t id="p04-s01-t49">elapsed</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p04-s02">
+                <t id="p04-s02-t01">We</t>
+                <t id="p04-s02-t02">made</t>
+                <t id="p04-s02-t03">sure</t>
+                <t id="p04-s02-t04">that</t>
+                <t id="p04-s02-t05">the</t>
+                <t id="p04-s02-t06">starting</t>
+                <t id="p04-s02-t07">numbers</t>
+                <punc>:</punc>
+                <t id="p04-s02-t08">a</t>
+                <punc>)</punc>
+                <t id="p04-s02-t09">were</t>
+                <t id="p04-s02-t10">always</t>
+                <t id="p04-s02-t11">composed</t>
+                <t id="p04-s02-t12">by</t>
+                <t id="p04-s02-t13">three</t>
+                <t id="p04-s02-t14">digits</t>
+                <punc>(</punc>
+                <t id="p04-s02-t15">e.g</t>
+                <punc>.</punc>
+                <punc>,</punc>
+                <t id="p04-s02-t16">371</t>
+                <punc>;</punc>
+                <t id="p04-s02-t17">587</t>
+                <punc>)</punc>
+                <punc>;</punc>
+                <t id="p04-s02-t18">b</t>
+                <punc>)</punc>
+                <t id="p04-s02-t19">started</t>
+                <t id="p04-s02-t20">with</t>
+                <t id="p04-s02-t21">two</t>
+                <t id="p04-s02-t22">different</t>
+                <t id="p04-s02-t23">digits</t>
+                <punc>(</punc>
+                <t id="p04-s02-t24">i.e</t>
+                <punc>.</punc>
+                <punc>,</punc>
+                <t id="p04-s02-t25">3</t>
+                <t id="p04-s02-t26">or</t>
+                <t id="p04-s02-t27">5</t>
+                <punc>,</punc>
+                <t id="p04-s02-t28">such</t>
+                <t id="p04-s02-t29">as</t>
+                <t id="p04-s02-t30">371</t>
+                <t id="p04-s02-t31">or</t>
+                <t id="p04-s02-t32">588</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p05">
+            <sentence id="p05-s01">
+                <t id="p05-s01-t01">Procedure</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p06">
+            <sentence id="p06-s01">
+                <t id="p06-s01-t01">Participants</t>
+                <t id="p06-s01-t02">were</t>
+                <t id="p06-s01-t03">required</t>
+                <t id="p06-s01-t04">to</t>
+                <t id="p06-s01-t05">make</t>
+                <t id="p06-s01-t06">the</t>
+                <t id="p06-s01-t07">calculations</t>
+                <punc>(</punc>
+                <t id="p06-s01-t08">additions</t>
+                <t id="p06-s01-t09">or</t>
+                <t id="p06-s01-t10">subtractions</t>
+                <punc>)</punc>
+                <t id="p06-s01-t11">while</t>
+                <punc>(</punc>
+                <t id="p06-s01-t12">on</t>
+                <punc>-</punc>
+                <t id="p06-s01-t13">line</t>
+                <t id="p06-s01-t14">condition</t>
+                <punc>)</punc>
+                <t id="p06-s01-t15">or</t>
+                <t id="p06-s01-t16">after</t>
+                <punc>(</punc>
+                <t id="p06-s01-t17">off</t>
+                <punc>-</punc>
+                <t id="p06-s01-t18">line</t>
+                <t id="p06-s01-t19">condition</t>
+                <punc>)</punc>
+                <t id="p06-s01-t20">taking</t>
+                <t id="p06-s01-t21">the</t>
+                <t id="p06-s01-t22">elevator</t>
+                <punc>(</punc>
+                <t id="p06-s01-t23">passive</t>
+                <t id="p06-s01-t24">mode</t>
+                <punc>)</punc>
+                <t id="p06-s01-t25">or</t>
+                <t id="p06-s01-t26">taking</t>
+                <t id="p06-s01-t27">the</t>
+                <t id="p06-s01-t28">stairs</t>
+                <punc>(</punc>
+                <t id="p06-s01-t29">active</t>
+                <t id="p06-s01-t30">mode</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p06-s02">
+                <t id="p06-s02-t01">In</t>
+                <t id="p06-s02-t02">other</t>
+                <t id="p06-s02-t03">words</t>
+                <punc>,</punc>
+                <t id="p06-s02-t04">half</t>
+                <t id="p06-s02-t05">of</t>
+                <t id="p06-s02-t06">the</t>
+                <t id="p06-s02-t07">participants</t>
+                <t id="p06-s02-t08">were</t>
+                <t id="p06-s02-t09">asked</t>
+                <t id="p06-s02-t10">to</t>
+                <t id="p06-s02-t11">make</t>
+                <t id="p06-s02-t12">the</t>
+                <t id="p06-s02-t13">calculations</t>
+                <t id="p06-s02-t14">while</t>
+                <t id="p06-s02-t15">taking</t>
+                <t id="p06-s02-t16">the</t>
+                <t id="p06-s02-t17">elevator</t>
+                <t id="p06-s02-t18">and</t>
+                <t id="p06-s02-t19">the</t>
+                <t id="p06-s02-t20">stairs</t>
+                <punc>(</punc>
+                <t id="p06-s02-t21">on</t>
+                <punc>-</punc>
+                <t id="p06-s02-t22">line</t>
+                <t id="p06-s02-t23">condition</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p06-s02-t24">whereas</t>
+                <t id="p06-s02-t25">the</t>
+                <t id="p06-s02-t26">other</t>
+                <t id="p06-s02-t27">half</t>
+                <t id="p06-s02-t28">had</t>
+                <t id="p06-s02-t29">to</t>
+                <t id="p06-s02-t30">make</t>
+                <t id="p06-s02-t31">additions</t>
+                <t id="p06-s02-t32">and</t>
+                <t id="p06-s02-t33">subtractions</t>
+                <t id="p06-s02-t34">after</t>
+                <t id="p06-s02-t35">the</t>
+                <t id="p06-s02-t36">elevator</t>
+                <t id="p06-s02-t37">or</t>
+                <t id="p06-s02-t38">the</t>
+                <t id="p06-s02-t39">stairs</t>
+                <t id="p06-s02-t40">were</t>
+                <t id="p06-s02-t41">taken</t>
+                <punc>(</punc>
+                <t id="p06-s02-t42">off</t>
+                <punc>-</punc>
+                <t id="p06-s02-t43">line</t>
+                <t id="p06-s02-t44">condition</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p07">
+            <sentence id="p07-s01">
+                <t id="p07-s01-t01">In</t>
+                <t id="p07-s01-t02">order</t>
+                <t id="p07-s01-t03">to</t>
+                <t id="p07-s01-t04">keep</t>
+                <t id="p07-s01-t05">the</t>
+                <t id="p07-s01-t06">active</t>
+                <t id="p07-s01-t07">and</t>
+                <t id="p07-s01-t08">passive</t>
+                <t id="p07-s01-t09">motion</t>
+                <t id="p07-s01-t10">modes</t>
+                <t id="p07-s01-t11">separated</t>
+                <punc>,</punc>
+                <t id="p07-s01-t12">each</t>
+                <t id="p07-s01-t13">condition</t>
+                <t id="p07-s01-t14">included</t>
+                <t id="p07-s01-t15">two</t>
+                <t id="p07-s01-t16">blocks</t>
+                <punc>(</punc>
+                <t id="p07-s01-t17">whose</t>
+                <t id="p07-s01-t18">order</t>
+                <t id="p07-s01-t19">was</t>
+                <t id="p07-s01-t20">counterbalanced</t>
+                <t id="p07-s01-t21">between</t>
+                <t id="p07-s01-t22">subjects</t>
+                <punc>)</punc>
+                <punc>:</punc>
+                <t id="p07-s01-t23">in</t>
+                <t id="p07-s01-t24">one</t>
+                <t id="p07-s01-t25">block</t>
+                <t id="p07-s01-t26">participants</t>
+                <t id="p07-s01-t27">performed</t>
+                <t id="p07-s01-t28">the</t>
+                <t id="p07-s01-t29">calculations</t>
+                <t id="p07-s01-t30">while</t>
+                <t id="p07-s01-t31">taking</t>
+                <t id="p07-s01-t32">the</t>
+                <t id="p07-s01-t33">elevator</t>
+                <t id="p07-s01-t34">or</t>
+                <t id="p07-s01-t35">just</t>
+                <t id="p07-s01-t36">after</t>
+                <t id="p07-s01-t37">it</t>
+                <t id="p07-s01-t38">had</t>
+                <t id="p07-s01-t39">been</t>
+                <t id="p07-s01-t40">taken</t>
+                <punc>,</punc>
+                <t id="p07-s01-t41">whereas</t>
+                <t id="p07-s01-t42">in</t>
+                <t id="p07-s01-t43">the</t>
+                <t id="p07-s01-t44">other</t>
+                <t id="p07-s01-t45">block</t>
+                <t id="p07-s01-t46">calculations</t>
+                <t id="p07-s01-t47">were</t>
+                <t id="p07-s01-t48">performed</t>
+                <t id="p07-s01-t49">while</t>
+                <t id="p07-s01-t50">taking</t>
+                <t id="p07-s01-t51">the</t>
+                <t id="p07-s01-t52">stairs</t>
+                <t id="p07-s01-t53">or</t>
+                <t id="p07-s01-t54">just</t>
+                <t id="p07-s01-t55">after</t>
+                <t id="p07-s01-t56">they</t>
+                <t id="p07-s01-t57">had</t>
+                <t id="p07-s01-t58">been</t>
+                <t id="p07-s01-t59">taken</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p07-s02">
+                <t id="p07-s02-t01">Within</t>
+                <t id="p07-s02-t02">each</t>
+                <t id="p07-s02-t03">block</t>
+                <punc>,</punc>
+                <t id="p07-s02-t04">participants</t>
+                <t id="p07-s02-t05">were</t>
+                <t id="p07-s02-t06">required</t>
+                <t id="p07-s02-t07">to</t>
+                <t id="p07-s02-t08">perform</t>
+                <t id="p07-s02-t09">four</t>
+                <t id="p07-s02-t10">trials</t>
+                <punc>,</punc>
+                <t id="p07-s02-t11">resulting</t>
+                <t id="p07-s02-t12">from</t>
+                <t id="p07-s02-t13">the</t>
+                <t id="p07-s02-t14">combination</t>
+                <t id="p07-s02-t15">of</t>
+                <t id="p07-s02-t16">the</t>
+                <t id="p07-s02-t17">two</t>
+                <t id="p07-s02-t18">types</t>
+                <t id="p07-s02-t19">of</t>
+                <t id="p07-s02-t20">calculation</t>
+                <punc>(</punc>
+                <t id="p07-s02-t21">i.e</t>
+                <punc>.</punc>
+                <punc>,</punc>
+                <t id="p07-s02-t22">additions</t>
+                <t id="p07-s02-t23">and</t>
+                <t id="p07-s02-t24">subtractions</t>
+                <punc>)</punc>
+                <t id="p07-s02-t25">and</t>
+                <t id="p07-s02-t26">the</t>
+                <t id="p07-s02-t27">two</t>
+                <t id="p07-s02-t28">types</t>
+                <t id="p07-s02-t29">of</t>
+                <t id="p07-s02-t30">motion</t>
+                <punc>(</punc>
+                <t id="p07-s02-t31">i.e</t>
+                <punc>.</punc>
+                <punc>,</punc>
+                <t id="p07-s02-t32">ascending</t>
+                <t id="p07-s02-t33">and</t>
+                <t id="p07-s02-t34">descending</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p07-s03">
+                <t id="p07-s03-t01">We</t>
+                <t id="p07-s03-t02">designed</t>
+                <t id="p07-s03-t03">each</t>
+                <t id="p07-s03-t04">block</t>
+                <t id="p07-s03-t05">in</t>
+                <t id="p07-s03-t06">order</t>
+                <t id="p07-s03-t07">to</t>
+                <t id="p07-s03-t08">make</t>
+                <t id="p07-s03-t09">additions</t>
+                <t id="p07-s03-t10">and</t>
+                <t id="p07-s03-t11">subtractions</t>
+                <t id="p07-s03-t12">always</t>
+                <t id="p07-s03-t13">alternate</t>
+                <punc>(</punc>
+                <t id="p07-s03-t14">i.e</t>
+                <punc>.</punc>
+                <punc>,</punc>
+                <t id="p07-s03-t15">an</t>
+                <t id="p07-s03-t16">addition</t>
+                <t id="p07-s03-t17">always</t>
+                <t id="p07-s03-t18">followed</t>
+                <t id="p07-s03-t19">a</t>
+                <t id="p07-s03-t20">subtraction</t>
+                <t id="p07-s03-t21">and</t>
+                <t id="p07-s03-t22">vice</t>
+                <t id="p07-s03-t23">versa</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p08">
+            <sentence id="p08-s01">
+                <t id="p08-s01-t01">At</t>
+                <t id="p08-s01-t02">the</t>
+                <t id="p08-s01-t03">beginning</t>
+                <punc>(</punc>
+                <t id="p08-s01-t04">for</t>
+                <t id="p08-s01-t05">on</t>
+                <punc>-</punc>
+                <t id="p08-s01-t06">line</t>
+                <t id="p08-s01-t07">condition</t>
+                <punc>)</punc>
+                <t id="p08-s01-t08">or</t>
+                <t id="p08-s01-t09">at</t>
+                <t id="p08-s01-t10">the</t>
+                <t id="p08-s01-t11">end</t>
+                <punc>(</punc>
+                <t id="p08-s01-t12">for</t>
+                <t id="p08-s01-t13">off</t>
+                <punc>-</punc>
+                <t id="p08-s01-t14">line</t>
+                <t id="p08-s01-t15">condition</t>
+                <punc>)</punc>
+                <t id="p08-s01-t16">of</t>
+                <t id="p08-s01-t17">the</t>
+                <t id="p08-s01-t18">motion</t>
+                <punc>,</punc>
+                <t id="p08-s01-t19">the</t>
+                <t id="p08-s01-t20">experimenter</t>
+                <t id="p08-s01-t21">spoke</t>
+                <t id="p08-s01-t22">the</t>
+                <t id="p08-s01-t23">starting</t>
+                <t id="p08-s01-t24">number</t>
+                <t id="p08-s01-t25">aloud</t>
+                <t id="p08-s01-t26">and</t>
+                <t id="p08-s01-t27">a</t>
+                <t id="p08-s01-t28">go</t>
+                <t id="p08-s01-t29">signal</t>
+                <t id="p08-s01-t30">followed</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s02">
+                <t id="p08-s02-t01">Immediately</t>
+                <t id="p08-s02-t02">after</t>
+                <t id="p08-s02-t03">the</t>
+                <t id="p08-s02-t04">go</t>
+                <t id="p08-s02-t05">signal</t>
+                <punc>,</punc>
+                <t id="p08-s02-t06">the</t>
+                <t id="p08-s02-t07">participant</t>
+                <t id="p08-s02-t08">had</t>
+                <t id="p08-s02-t09">to</t>
+                <t id="p08-s02-t10">repeat</t>
+                <t id="p08-s02-t11">the</t>
+                <t id="p08-s02-t12">starting</t>
+                <t id="p08-s02-t13">number</t>
+                <t id="p08-s02-t14">and</t>
+                <t id="p08-s02-t15">then</t>
+                <t id="p08-s02-t16">to</t>
+                <t id="p08-s02-t17">keep</t>
+                <t id="p08-s02-t18">speaking</t>
+                <t id="p08-s02-t19">aloud</t>
+                <t id="p08-s02-t20">the</t>
+                <t id="p08-s02-t21">result</t>
+                <t id="p08-s02-t22">of</t>
+                <t id="p08-s02-t23">each</t>
+                <t id="p08-s02-t24">calculation</t>
+                <t id="p08-s02-t25">for</t>
+                <t id="p08-s02-t26">22</t>
+                <t id="p08-s02-t27">seconds</t>
+                <t id="p08-s02-t28">consecutively</t>
+                <t id="p08-s02-t29">until</t>
+                <t id="p08-s02-t30">a</t>
+                <t id="p08-s02-t31">stop</t>
+                <t id="p08-s02-t32">signal</t>
+                <t id="p08-s02-t33">was</t>
+                <t id="p08-s02-t34">given</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s03">
+                <t id="p08-s03-t01">Therefore</t>
+                <punc>,</punc>
+                <t id="p08-s03-t02">the</t>
+                <t id="p08-s03-t03">number</t>
+                <t id="p08-s03-t04">of</t>
+                <t id="p08-s03-t05">calculations</t>
+                <t id="p08-s03-t06">made</t>
+                <t id="p08-s03-t07">within</t>
+                <t id="p08-s03-t08">the</t>
+                <t id="p08-s03-t09">22</t>
+                <t id="p08-s03-t10">seconds</t>
+                <t id="p08-s03-t11">window</t>
+                <t id="p08-s03-t12">entirely</t>
+                <t id="p08-s03-t13">depended</t>
+                <t id="p08-s03-t14">on</t>
+                <t id="p08-s03-t15">the</t>
+                <t id="p08-s03-t16">participants</t>
+                <punc>'</punc>
+                <t id="p08-s03-t17">calculation</t>
+                <t id="p08-s03-t18">speed</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s04">
+                <t id="p08-s04-t01">If</t>
+                <t id="p08-s04-t02">participant</t>
+                <t id="p08-s04-t03">made</t>
+                <t id="p08-s04-t04">a</t>
+                <t id="p08-s04-t05">calculation</t>
+                <t id="p08-s04-t06">error</t>
+                <punc>,</punc>
+                <t id="p08-s04-t07">the</t>
+                <t id="p08-s04-t08">trial</t>
+                <t id="p08-s04-t09">was</t>
+                <t id="p08-s04-t10">stopped</t>
+                <t id="p08-s04-t11">and</t>
+                <t id="p08-s04-t12">a</t>
+                <t id="p08-s04-t13">new</t>
+                <t id="p08-s04-t14">trial</t>
+                <t id="p08-s04-t15">started</t>
+                <t id="p08-s04-t16">over</t>
+                <t id="p08-s04-t17">choosing</t>
+                <t id="p08-s04-t18">a</t>
+                <t id="p08-s04-t19">different</t>
+                <t id="p08-s04-t20">starting</t>
+                <t id="p08-s04-t21">number</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s05">
+                <t id="p08-s05-t01">No</t>
+                <t id="p08-s05-t02">feedback</t>
+                <t id="p08-s05-t03">of</t>
+                <t id="p08-s05-t04">any</t>
+                <t id="p08-s05-t05">kind</t>
+                <t id="p08-s05-t06">was</t>
+                <t id="p08-s05-t07">given</t>
+                <t id="p08-s05-t08">during</t>
+                <t id="p08-s05-t09">the</t>
+                <t id="p08-s05-t10">calculations</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s06">
+                <t id="p08-s06-t01">Instructions</t>
+                <t id="p08-s06-t02">stressed</t>
+                <t id="p08-s06-t03">the</t>
+                <t id="p08-s06-t04">importance</t>
+                <t id="p08-s06-t05">of</t>
+                <t id="p08-s06-t06">accuracy</t>
+                <t id="p08-s06-t07">over</t>
+                <t id="p08-s06-t08">speed</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p09">
+            <sentence id="p09-s01">
+                <t id="p09-s01-t01">The</t>
+                <t id="p09-s01-t02">experimenter</t>
+                <t id="p09-s01-t03">was</t>
+                <t id="p09-s01-t04">always</t>
+                <t id="p09-s01-t05">present</t>
+                <t id="p09-s01-t06">during</t>
+                <t id="p09-s01-t07">the</t>
+                <t id="p09-s01-t08">whole</t>
+                <t id="p09-s01-t09">experiment</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p09-s02">
+                <t id="p09-s02-t01">For</t>
+                <t id="p09-s02-t02">the</t>
+                <t id="p09-s02-t03">passive</t>
+                <t id="p09-s02-t04">mode</t>
+                <punc>,</punc>
+                <t id="p09-s02-t05">the</t>
+                <t id="p09-s02-t06">experimenter</t>
+                <t id="p09-s02-t07">went</t>
+                <t id="p09-s02-t08">up/down</t>
+                <t id="p09-s02-t09">using</t>
+                <t id="p09-s02-t10">the</t>
+                <t id="p09-s02-t11">elevator</t>
+                <t id="p09-s02-t12">together</t>
+                <t id="p09-s02-t13">with</t>
+                <t id="p09-s02-t14">the</t>
+                <t id="p09-s02-t15">participant</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p09-s03">
+                <t id="p09-s03-t01">For</t>
+                <t id="p09-s03-t02">the</t>
+                <t id="p09-s03-t03">active</t>
+                <t id="p09-s03-t04">mode</t>
+                <punc>,</punc>
+                <t id="p09-s03-t05">she</t>
+                <t id="p09-s03-t06">walked</t>
+                <t id="p09-s03-t07">close</t>
+                <t id="p09-s03-t08">to</t>
+                <t id="p09-s03-t09">the</t>
+                <t id="p09-s03-t10">participant</t>
+                <t id="p09-s03-t11">while</t>
+                <t id="p09-s03-t12">going</t>
+                <t id="p09-s03-t13">up</t>
+                <punc>/</punc>
+                <t id="p09-s03-t14">down</t>
+                <t id="p09-s03-t15">the</t>
+                <t id="p09-s03-t16">stairs</t>
+                <t id="p09-s03-t17">and</t>
+                <t id="p09-s03-t18">asked</t>
+                <t id="p09-s03-t19">the</t>
+                <t id="p09-s03-t20">participant</t>
+                <t id="p09-s03-t21">to</t>
+                <t id="p09-s03-t22">keep</t>
+                <t id="p09-s03-t23">her</t>
+                <t id="p09-s03-t24">pace</t>
+                <t id="p09-s03-t25">throughout</t>
+                <t id="p09-s03-t26">the</t>
+                <t id="p09-s03-t27">whole</t>
+                <t id="p09-s03-t28">movement</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p09-s04">
+                <t id="p09-s04-t01">In</t>
+                <t id="p09-s04-t02">other</t>
+                <t id="p09-s04-t03">words</t>
+                <punc>,</punc>
+                <t id="p09-s04-t04">the</t>
+                <t id="p09-s04-t05">participant</t>
+                <t id="p09-s04-t06">and</t>
+                <t id="p09-s04-t07">the</t>
+                <t id="p09-s04-t08">experimenter</t>
+                <t id="p09-s04-t09">went</t>
+                <t id="p09-s04-t10">up</t>
+                <punc>/</punc>
+                <t id="p09-s04-t11">down</t>
+                <t id="p09-s04-t12">the</t>
+                <t id="p09-s04-t13">stairs</t>
+                <t id="p09-s04-t14">together</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p10">
+            <sentence id="p10-s01">
+                <t id="p10-s01-t01">Responses</t>
+                <t id="p10-s01-t02">were</t>
+                <t id="p10-s01-t03">recorded</t>
+                <t id="p10-s01-t04">by</t>
+                <t id="p10-s01-t05">the</t>
+                <t id="p10-s01-t06">experimenter</t>
+                <t id="p10-s01-t07">who</t>
+                <t id="p10-s01-t08">kept</t>
+                <t id="p10-s01-t09">track</t>
+                <t id="p10-s01-t10">and</t>
+                <t id="p10-s01-t11">note</t>
+                <t id="p10-s01-t12">of</t>
+                <t id="p10-s01-t13">the</t>
+                <t id="p10-s01-t14">starting</t>
+                <t id="p10-s01-t15">number</t>
+                <t id="p10-s01-t16">assigned</t>
+                <t id="p10-s01-t17">to</t>
+                <t id="p10-s01-t18">the</t>
+                <t id="p10-s01-t19">participants</t>
+                <t id="p10-s01-t20">and</t>
+                <t id="p10-s01-t21">of</t>
+                <t id="p10-s01-t22">the</t>
+                <t id="p10-s01-t23">final</t>
+                <t id="p10-s01-t24">number</t>
+                <t id="p10-s01-t25">reached</t>
+                <t id="p10-s01-t26">at</t>
+                <t id="p10-s01-t27">the</t>
+                <t id="p10-s01-t28">end</t>
+                <t id="p10-s01-t29">of</t>
+                <t id="p10-s01-t30">the</t>
+                <t id="p10-s01-t31">22</t>
+                <t id="p10-s01-t32">sec</t>
+                <t id="p10-s01-t33">time</t>
+                <t id="p10-s01-t34">window</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p11">
+            <sentence id="p11-s01">
+                <t id="p11-s01-t01">Participants</t>
+                <t id="p11-s01-t02">were</t>
+                <t id="p11-s01-t03">thanked</t>
+                <t id="p11-s01-t04">and</t>
+                <t id="p11-s01-t05">debriefed</t>
+                <t id="p11-s01-t06">at</t>
+                <t id="p11-s01-t07">the</t>
+                <t id="p11-s01-t08">end</t>
+                <t id="p11-s01-t09">of</t>
+                <t id="p11-s01-t10">the</t>
+                <t id="p11-s01-t11">experiment</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
