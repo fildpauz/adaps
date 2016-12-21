@@ -92,8 +92,7 @@
                 <t id="p02-s03-t19" type="Coxhead-AWL-3,AR-AWL-3a">corresponding</t>
                 <t id="p02-s03-t20" type="GSL-1">to</t>
                 <t id="p02-s03-t21" type="GSL-1">the</t>
-                <t id="p02-s03-t22" type="Coxhead-AWL-2,AR-AWL-2b">participants</t>
-                <punc>'</punc>
+                <t id="p02-s03-t22">participants'</t>
                 <t id="p02-s03-t23" type="Coxhead-AWL-4,AR-AWL-4a">errors</t>
                 <t id="p02-s03-t24" type="GSL-1">mean</t>
                 <t id="p02-s03-t25" type="Coxhead-AWL-8,AR-AWL-8b">plus</t>
@@ -127,8 +126,7 @@
                 <t id="p04-s01-t12" type="GSL-1">starting</t>
                 <t id="p04-s01-t13" type="GSL-1">number</t>
                 <punc>(</punc>
-                <t id="p04-s01-t14">e.g</t>
-                <punc>.</punc>
+                <t id="p04-s01-t14">e.g.</t>
                 <punc>,</punc>
                 <t id="p04-s01-t15">371</t>
                 <punc>)</punc>
@@ -145,8 +143,7 @@
                 <t id="p04-s01-t26" type="GSL-2">calculation</t>
                 <t id="p04-s01-t27" type="GSL-2">aloud</t>
                 <punc>(</punc>
-                <t id="p04-s01-t28">e.g</t>
-                <punc>.</punc>
+                <t id="p04-s01-t28">e.g.</t>
                 <punc>,</punc>
                 <t id="p04-s01-t29">374</t>
                 <punc>,</punc>
@@ -197,8 +194,7 @@
                 <t id="p04-s02-t13" type="GSL-1">three</t>
                 <t id="p04-s02-t14">digits</t>
                 <punc>(</punc>
-                <t id="p04-s02-t15">e.g</t>
-                <punc>.</punc>
+                <t id="p04-s02-t15">e.g.</t>
                 <punc>,</punc>
                 <t id="p04-s02-t16">371</t>
                 <punc>;</punc>
@@ -213,8 +209,7 @@
                 <t id="p04-s02-t22" type="GSL-1">different</t>
                 <t id="p04-s02-t23">digits</t>
                 <punc>(</punc>
-                <t id="p04-s02-t24">i.e</t>
-                <punc>.</punc>
+                <t id="p04-s02-t24">i.e,</t>
                 <punc>,</punc>
                 <t id="p04-s02-t25">3</t>
                 <t id="p04-s02-t26" type="GSL-1">or</t>
@@ -428,8 +423,7 @@
                 <t id="p07-s02-t19" type="GSL-1">of</t>
                 <t id="p07-s02-t20" type="GSL-2">calculation</t>
                 <punc>(</punc>
-                <t id="p07-s02-t21">i.e</t>
-                <punc>.</punc>
+                <t id="p07-s02-t21">i.e.</t>
                 <punc>,</punc>
                 <t id="p07-s02-t22" type="GSL-1">additions</t>
                 <t id="p07-s02-t23" type="GSL-1">and</t>
@@ -442,8 +436,7 @@
                 <t id="p07-s02-t29" type="GSL-1">of</t>
                 <t id="p07-s02-t30" type="GSL-2">motion</t>
                 <punc>(</punc>
-                <t id="p07-s02-t31">i.e</t>
-                <punc>.</punc>
+                <t id="p07-s02-t31">i.e.</t>
                 <punc>,</punc>
                 <t id="p07-s02-t32">ascending</t>
                 <t id="p07-s02-t33" type="GSL-1">and</t>
@@ -466,8 +459,7 @@
                 <t id="p07-s03-t12" type="GSL-1">always</t>
                 <t id="p07-s03-t13" type="Coxhead-AWL-5,AR-AWL-5a">alternate</t>
                 <punc>(</punc>
-                <t id="p07-s03-t14">i.e</t>
-                <punc>.</punc>
+                <t id="p07-s03-t14">i.e.</t>
                 <punc>,</punc>
                 <t id="p07-s03-t15" type="GSL-1">an</t>
                 <t id="p07-s03-t16" type="GSL-1">addition</t>
@@ -578,8 +570,7 @@
                 <t id="p08-s03-t13" type="GSL-1">depended</t>
                 <t id="p08-s03-t14" type="GSL-1">on</t>
                 <t id="p08-s03-t15" type="GSL-1">the</t>
-                <t id="p08-s03-t16" type="Coxhead-AWL-2,AR-AWL-2b">participants</t>
-                <punc>'</punc>
+                <t id="p08-s03-t16">participants'</t>
                 <t id="p08-s03-t17" type="GSL-2">calculation</t>
                 <t id="p08-s03-t18" type="GSL-1">speed</t>
                 <punc>.</punc>
