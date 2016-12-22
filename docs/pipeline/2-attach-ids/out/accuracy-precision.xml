@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Accuracy and Precision</title>
+    <citation>OpenStax College, “College Physics”. Retrieved from http://cnx.org/content/col11406/latest/ on 21 June 2012</citation>
+    <url>http://cnx.org/content/col11406/latest/</url>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01">Science</t>
+                <t id="p01-s01-t02">is</t>
+                <t id="p01-s01-t03">based</t>
+                <t id="p01-s01-t04">on</t>
+                <t id="p01-s01-t05">observation</t>
+                <t id="p01-s01-t06">and</t>
+                <t id="p01-s01-t07">experiment</t>
+                <punc>—</punc>
+                <t id="p01-s01-t08">that</t>
+                <t id="p01-s01-t09">is</t>
+                <punc>,</punc>
+                <t id="p01-s01-t10">on</t>
+                <t id="p01-s01-t11">measurements</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01">Accuracy</t>
+                <t id="p01-s02-t02">is</t>
+                <t id="p01-s02-t03">how</t>
+                <t id="p01-s02-t04">close</t>
+                <t id="p01-s02-t05">a</t>
+                <t id="p01-s02-t06">measurement</t>
+                <t id="p01-s02-t07">is</t>
+                <t id="p01-s02-t08">to</t>
+                <t id="p01-s02-t09">the</t>
+                <t id="p01-s02-t10">correct</t>
+                <t id="p01-s02-t11">value</t>
+                <t id="p01-s02-t12">for</t>
+                <t id="p01-s02-t13">that</t>
+                <t id="p01-s02-t14">measurement</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s03">
+                <t id="p01-s03-t01">For</t>
+                <t id="p01-s03-t02">example</t>
+                <punc>,</punc>
+                <t id="p01-s03-t03">let</t>
+                <t id="p01-s03-t04">us</t>
+                <t id="p01-s03-t05">say</t>
+                <t id="p01-s03-t06">that</t>
+                <t id="p01-s03-t07">you</t>
+                <t id="p01-s03-t08">are</t>
+                <t id="p01-s03-t09">measuring</t>
+                <t id="p01-s03-t10">the</t>
+                <t id="p01-s03-t11">length</t>
+                <t id="p01-s03-t12">of</t>
+                <t id="p01-s03-t13">standard</t>
+                <t id="p01-s03-t14">computer</t>
+                <t id="p01-s03-t15">paper</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s04">
+                <t id="p01-s04-t01">The</t>
+                <t id="p01-s04-t02">packaging</t>
+                <t id="p01-s04-t03">in</t>
+                <t id="p01-s04-t04">which</t>
+                <t id="p01-s04-t05">you</t>
+                <t id="p01-s04-t06">purchased</t>
+                <t id="p01-s04-t07">the</t>
+                <t id="p01-s04-t08">paper</t>
+                <t id="p01-s04-t09">states</t>
+                <t id="p01-s04-t10">that</t>
+                <t id="p01-s04-t11">it</t>
+                <t id="p01-s04-t12">is</t>
+                <t id="p01-s04-t13">11.0</t>
+                <t id="p01-s04-t14">inches</t>
+                <t id="p01-s04-t15">long</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s05">
+                <t id="p01-s05-t01">You</t>
+                <t id="p01-s05-t02">measure</t>
+                <t id="p01-s05-t03">the</t>
+                <t id="p01-s05-t04">length</t>
+                <t id="p01-s05-t05">of</t>
+                <t id="p01-s05-t06">the</t>
+                <t id="p01-s05-t07">paper</t>
+                <t id="p01-s05-t08">three</t>
+                <t id="p01-s05-t09">times</t>
+                <t id="p01-s05-t10">and</t>
+                <t id="p01-s05-t11">obtain</t>
+                <t id="p01-s05-t12">the</t>
+                <t id="p01-s05-t13">following</t>
+                <t id="p01-s05-t14">measurements</t>
+                <punc>:</punc>
+                <t id="p01-s05-t15">11.1 in.</t>
+                <punc>,</punc>
+                <t id="p01-s05-t16">11.2 in.</t>
+                <punc>,</punc>
+                <t id="p01-s05-t17">and</t>
+                <t id="p01-s05-t18">10.9 in</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s06">
+                <t id="p01-s06-t01">These</t>
+                <t id="p01-s06-t02">measurements</t>
+                <t id="p01-s06-t03">are</t>
+                <t id="p01-s06-t04">quite</t>
+                <t id="p01-s06-t05">accurate</t>
+                <t id="p01-s06-t06">because</t>
+                <t id="p01-s06-t07">they</t>
+                <t id="p01-s06-t08">are</t>
+                <t id="p01-s06-t09">very</t>
+                <t id="p01-s06-t10">close</t>
+                <t id="p01-s06-t11">to</t>
+                <t id="p01-s06-t12">the</t>
+                <t id="p01-s06-t13">correct</t>
+                <t id="p01-s06-t14">value</t>
+                <t id="p01-s06-t15">of</t>
+                <t id="p01-s06-t16">11.0</t>
+                <t id="p01-s06-t17">inches</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s07">
+                <t id="p01-s07-t01">In</t>
+                <t id="p01-s07-t02">contrast</t>
+                <punc>,</punc>
+                <t id="p01-s07-t03">if</t>
+                <t id="p01-s07-t04">you</t>
+                <t id="p01-s07-t05">had</t>
+                <t id="p01-s07-t06">obtained</t>
+                <t id="p01-s07-t07">a</t>
+                <t id="p01-s07-t08">measurement</t>
+                <t id="p01-s07-t09">of</t>
+                <t id="p01-s07-t10">12</t>
+                <t id="p01-s07-t11">inches</t>
+                <punc>,</punc>
+                <t id="p01-s07-t12">your</t>
+                <t id="p01-s07-t13">measurement</t>
+                <t id="p01-s07-t14">would</t>
+                <t id="p01-s07-t15">not</t>
+                <t id="p01-s07-t16">be</t>
+                <t id="p01-s07-t17">very</t>
+                <t id="p01-s07-t18">accurate</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence id="p02-s01">
+                <t id="p02-s01-t01">The</t>
+                <t id="p02-s01-t02">precision</t>
+                <t id="p02-s01-t03">of</t>
+                <t id="p02-s01-t04">a</t>
+                <t id="p02-s01-t05">measurement</t>
+                <t id="p02-s01-t06">system</t>
+                <t id="p02-s01-t07">refers</t>
+                <t id="p02-s01-t08">to</t>
+                <t id="p02-s01-t09">how</t>
+                <t id="p02-s01-t10">close</t>
+                <t id="p02-s01-t11">the</t>
+                <t id="p02-s01-t12">agreement</t>
+                <t id="p02-s01-t13">is</t>
+                <t id="p02-s01-t14">between</t>
+                <t id="p02-s01-t15">repeated</t>
+                <t id="p02-s01-t16">measurements</t>
+                <punc>(</punc>
+                <t id="p02-s01-t17">which</t>
+                <t id="p02-s01-t18">are</t>
+                <t id="p02-s01-t19">repeated</t>
+                <t id="p02-s01-t20">under</t>
+                <t id="p02-s01-t21">the</t>
+                <t id="p02-s01-t22">same</t>
+                <t id="p02-s01-t23">conditions</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s02">
+                <t id="p02-s02-t01">Consider</t>
+                <t id="p02-s02-t02">the</t>
+                <t id="p02-s02-t03">example</t>
+                <t id="p02-s02-t04">of</t>
+                <t id="p02-s02-t05">the</t>
+                <t id="p02-s02-t06">paper</t>
+                <t id="p02-s02-t07">measurements</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s03">
+                <t id="p02-s03-t01">The</t>
+                <t id="p02-s03-t02">precision</t>
+                <t id="p02-s03-t03">of</t>
+                <t id="p02-s03-t04">the</t>
+                <t id="p02-s03-t05">measurements</t>
+                <t id="p02-s03-t06">refers</t>
+                <t id="p02-s03-t07">to</t>
+                <t id="p02-s03-t08">the</t>
+                <t id="p02-s03-t09">spread</t>
+                <t id="p02-s03-t10">of</t>
+                <t id="p02-s03-t11">the</t>
+                <t id="p02-s03-t12">measured</t>
+                <t id="p02-s03-t13">values</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s04">
+                <t id="p02-s04-t01">One</t>
+                <t id="p02-s04-t02">way</t>
+                <t id="p02-s04-t03">to</t>
+                <t id="p02-s04-t04">analyze</t>
+                <t id="p02-s04-t05">the</t>
+                <t id="p02-s04-t06">precision</t>
+                <t id="p02-s04-t07">of</t>
+                <t id="p02-s04-t08">the</t>
+                <t id="p02-s04-t09">measurements</t>
+                <t id="p02-s04-t10">would</t>
+                <t id="p02-s04-t11">be</t>
+                <t id="p02-s04-t12">to</t>
+                <t id="p02-s04-t13">determine</t>
+                <t id="p02-s04-t14">the</t>
+                <t id="p02-s04-t15">range</t>
+                <punc>,</punc>
+                <t id="p02-s04-t16">or</t>
+                <t id="p02-s04-t17">difference</t>
+                <punc>,</punc>
+                <t id="p02-s04-t18">between</t>
+                <t id="p02-s04-t19">the</t>
+                <t id="p02-s04-t20">lowest</t>
+                <t id="p02-s04-t21">and</t>
+                <t id="p02-s04-t22">the</t>
+                <t id="p02-s04-t23">highest</t>
+                <t id="p02-s04-t24">measured</t>
+                <t id="p02-s04-t25">values</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s05">
+                <t id="p02-s05-t01">In</t>
+                <t id="p02-s05-t02">that</t>
+                <t id="p02-s05-t03">case</t>
+                <punc>,</punc>
+                <t id="p02-s05-t04">the</t>
+                <t id="p02-s05-t05">lowest</t>
+                <t id="p02-s05-t06">value</t>
+                <t id="p02-s05-t07">was</t>
+                <t id="p02-s05-t08">10.9 in</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s06">
+                <t id="p02-s06-t01">and</t>
+                <t id="p02-s06-t02">the</t>
+                <t id="p02-s06-t03">highest</t>
+                <t id="p02-s06-t04">value</t>
+                <t id="p02-s06-t05">was</t>
+                <t id="p02-s06-t06">11.2 in</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s07">
+                <t id="p02-s07-t01">Thus</t>
+                <punc>,</punc>
+                <t id="p02-s07-t02">the</t>
+                <t id="p02-s07-t03">measured</t>
+                <t id="p02-s07-t04">values</t>
+                <t id="p02-s07-t05">deviated</t>
+                <t id="p02-s07-t06">from</t>
+                <t id="p02-s07-t07">each</t>
+                <t id="p02-s07-t08">other</t>
+                <t id="p02-s07-t09">by</t>
+                <t id="p02-s07-t10">at</t>
+                <t id="p02-s07-t11">most</t>
+                <t id="p02-s07-t12">0.3 in</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s08">
+                <t id="p02-s08-t01">These</t>
+                <t id="p02-s08-t02">measurements</t>
+                <t id="p02-s08-t03">were</t>
+                <t id="p02-s08-t04">relatively</t>
+                <t id="p02-s08-t05">precise</t>
+                <t id="p02-s08-t06">because</t>
+                <t id="p02-s08-t07">they</t>
+                <t id="p02-s08-t08">did</t>
+                <t id="p02-s08-t09">not</t>
+                <t id="p02-s08-t10">vary</t>
+                <t id="p02-s08-t11">too</t>
+                <t id="p02-s08-t12">much</t>
+                <t id="p02-s08-t13">in</t>
+                <t id="p02-s08-t14">value</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s09">
+                <t id="p02-s09-t01">However</t>
+                <punc>,</punc>
+                <t id="p02-s09-t02">if</t>
+                <t id="p02-s09-t03">the</t>
+                <t id="p02-s09-t04">measured</t>
+                <t id="p02-s09-t05">values</t>
+                <t id="p02-s09-t06">had</t>
+                <t id="p02-s09-t07">been</t>
+                <t id="p02-s09-t08">10.9</t>
+                <punc>,</punc>
+                <t id="p02-s09-t09">11.1</t>
+                <punc>,</punc>
+                <t id="p02-s09-t10">and</t>
+                <t id="p02-s09-t11">11.9</t>
+                <punc>,</punc>
+                <t id="p02-s09-t12">then</t>
+                <t id="p02-s09-t13">the</t>
+                <t id="p02-s09-t14">measurements</t>
+                <t id="p02-s09-t15">would</t>
+                <t id="p02-s09-t16">not</t>
+                <t id="p02-s09-t17">be</t>
+                <t id="p02-s09-t18">very</t>
+                <t id="p02-s09-t19">precise</t>
+                <t id="p02-s09-t20">because</t>
+                <t id="p02-s09-t21">there</t>
+                <t id="p02-s09-t22">would</t>
+                <t id="p02-s09-t23">be</t>
+                <t id="p02-s09-t24">significant</t>
+                <t id="p02-s09-t25">variation</t>
+                <t id="p02-s09-t26">from</t>
+                <t id="p02-s09-t27">one</t>
+                <t id="p02-s09-t28">measurement</t>
+                <t id="p02-s09-t29">to</t>
+                <t id="p02-s09-t30">another</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p03">
+            <sentence id="p03-s01">
+                <t id="p03-s01-t01">The</t>
+                <t id="p03-s01-t02">measurements</t>
+                <t id="p03-s01-t03">in</t>
+                <t id="p03-s01-t04">the</t>
+                <t id="p03-s01-t05">paper</t>
+                <t id="p03-s01-t06">example</t>
+                <t id="p03-s01-t07">are</t>
+                <t id="p03-s01-t08">both</t>
+                <t id="p03-s01-t09">accurate</t>
+                <t id="p03-s01-t10">and</t>
+                <t id="p03-s01-t11">precise</t>
+                <punc>,</punc>
+                <t id="p03-s01-t12">but</t>
+                <t id="p03-s01-t13">in</t>
+                <t id="p03-s01-t14">some</t>
+                <t id="p03-s01-t15">cases</t>
+                <punc>,</punc>
+                <t id="p03-s01-t16">measurements</t>
+                <t id="p03-s01-t17">are</t>
+                <t id="p03-s01-t18">accurate</t>
+                <t id="p03-s01-t19">but</t>
+                <t id="p03-s01-t20">not</t>
+                <t id="p03-s01-t21">precise</t>
+                <punc>,</punc>
+                <t id="p03-s01-t22">or</t>
+                <t id="p03-s01-t23">they</t>
+                <t id="p03-s01-t24">are</t>
+                <t id="p03-s01-t25">precise</t>
+                <t id="p03-s01-t26">but</t>
+                <t id="p03-s01-t27">not</t>
+                <t id="p03-s01-t28">accurate</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s02">
+                <t id="p03-s02-t01">Let</t>
+                <t id="p03-s02-t02">us</t>
+                <t id="p03-s02-t03">consider</t>
+                <t id="p03-s02-t04">an</t>
+                <t id="p03-s02-t05">example</t>
+                <t id="p03-s02-t06">of</t>
+                <t id="p03-s02-t07">a</t>
+                <t id="p03-s02-t08">GPS</t>
+                <t id="p03-s02-t09">system</t>
+                <t id="p03-s02-t10">that</t>
+                <t id="p03-s02-t11">is</t>
+                <t id="p03-s02-t12">attempting</t>
+                <t id="p03-s02-t13">to</t>
+                <t id="p03-s02-t14">locate</t>
+                <t id="p03-s02-t15">the</t>
+                <t id="p03-s02-t16">position</t>
+                <t id="p03-s02-t17">of</t>
+                <t id="p03-s02-t18">a</t>
+                <t id="p03-s02-t19">restaurant</t>
+                <t id="p03-s02-t20">in</t>
+                <t id="p03-s02-t21">a</t>
+                <t id="p03-s02-t22">city</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s03">
+                <t id="p03-s03-t01">Think</t>
+                <t id="p03-s03-t02">of</t>
+                <t id="p03-s03-t03">the</t>
+                <t id="p03-s03-t04">restaurant</t>
+                <t id="p03-s03-t05">location</t>
+                <t id="p03-s03-t06">as</t>
+                <t id="p03-s03-t07">existing</t>
+                <t id="p03-s03-t08">at</t>
+                <t id="p03-s03-t09">the</t>
+                <t id="p03-s03-t10">center</t>
+                <t id="p03-s03-t11">of</t>
+                <t id="p03-s03-t12">a</t>
+                <t id="p03-s03-t13">bull's-eye</t>
+                <t id="p03-s03-t14">target</t>
+                <punc>,</punc>
+                <t id="p03-s03-t15">and</t>
+                <t id="p03-s03-t16">think</t>
+                <t id="p03-s03-t17">of</t>
+                <t id="p03-s03-t18">each</t>
+                <t id="p03-s03-t19">GPS</t>
+                <t id="p03-s03-t20">attempt</t>
+                <t id="p03-s03-t21">to</t>
+                <t id="p03-s03-t22">locate</t>
+                <t id="p03-s03-t23">the</t>
+                <t id="p03-s03-t24">restaurant</t>
+                <t id="p03-s03-t25">as</t>
+                <t id="p03-s03-t26">a</t>
+                <t id="p03-s03-t27">black</t>
+                <t id="p03-s03-t28">dot</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s04">
+                <t id="p03-s04-t01">In</t>
+                <t id="p03-s04-t02">Figure</t>
+                <t id="p03-s04-t03">1</t>
+                <punc>,</punc>
+                <t id="p03-s04-t04">you</t>
+                <t id="p03-s04-t05">can</t>
+                <t id="p03-s04-t06">see</t>
+                <t id="p03-s04-t07">that</t>
+                <t id="p03-s04-t08">the</t>
+                <t id="p03-s04-t09">GPS</t>
+                <t id="p03-s04-t10">measurements</t>
+                <t id="p03-s04-t11">are</t>
+                <t id="p03-s04-t12">spread</t>
+                <t id="p03-s04-t13">out</t>
+                <t id="p03-s04-t14">far</t>
+                <t id="p03-s04-t15">apart</t>
+                <t id="p03-s04-t16">from</t>
+                <t id="p03-s04-t17">each</t>
+                <t id="p03-s04-t18">other</t>
+                <punc>,</punc>
+                <t id="p03-s04-t19">but</t>
+                <t id="p03-s04-t20">they</t>
+                <t id="p03-s04-t21">are</t>
+                <t id="p03-s04-t22">all</t>
+                <t id="p03-s04-t23">relatively</t>
+                <t id="p03-s04-t24">close</t>
+                <t id="p03-s04-t25">to</t>
+                <t id="p03-s04-t26">the</t>
+                <t id="p03-s04-t27">actual</t>
+                <t id="p03-s04-t28">location</t>
+                <t id="p03-s04-t29">of</t>
+                <t id="p03-s04-t30">the</t>
+                <t id="p03-s04-t31">restaurant</t>
+                <t id="p03-s04-t32">at</t>
+                <t id="p03-s04-t33">the</t>
+                <t id="p03-s04-t34">center</t>
+                <t id="p03-s04-t35">of</t>
+                <t id="p03-s04-t36">the</t>
+                <t id="p03-s04-t37">target</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s05">
+                <t id="p03-s05-t01">This</t>
+                <t id="p03-s05-t02">indicates</t>
+                <t id="p03-s05-t03">a</t>
+                <t id="p03-s05-t04">low</t>
+                <t id="p03-s05-t05">precision</t>
+                <punc>,</punc>
+                <t id="p03-s05-t06">high</t>
+                <t id="p03-s05-t07">accuracy</t>
+                <t id="p03-s05-t08">measuring</t>
+                <t id="p03-s05-t09">system</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s06">
+                <t id="p03-s06-t01">However</t>
+                <punc>,</punc>
+                <t id="p03-s06-t02">in</t>
+                <t id="p03-s06-t03">Figure</t>
+                <t id="p03-s06-t04">2</t>
+                <punc>,</punc>
+                <t id="p03-s06-t05">the</t>
+                <t id="p03-s06-t06">GPS</t>
+                <t id="p03-s06-t07">measurements</t>
+                <t id="p03-s06-t08">are</t>
+                <t id="p03-s06-t09">concentrated</t>
+                <t id="p03-s06-t10">quite</t>
+                <t id="p03-s06-t11">closely</t>
+                <t id="p03-s06-t12">to</t>
+                <t id="p03-s06-t13">one</t>
+                <t id="p03-s06-t14">another</t>
+                <punc>,</punc>
+                <t id="p03-s06-t15">but</t>
+                <t id="p03-s06-t16">they</t>
+                <t id="p03-s06-t17">are</t>
+                <t id="p03-s06-t18">far</t>
+                <t id="p03-s06-t19">away</t>
+                <t id="p03-s06-t20">from</t>
+                <t id="p03-s06-t21">the</t>
+                <t id="p03-s06-t22">target</t>
+                <t id="p03-s06-t23">location</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s07">
+                <t id="p03-s07-t01">This</t>
+                <t id="p03-s07-t02">indicates</t>
+                <t id="p03-s07-t03">a</t>
+                <t id="p03-s07-t04">high</t>
+                <t id="p03-s07-t05">precision</t>
+                <punc>,</punc>
+                <t id="p03-s07-t06">low</t>
+                <t id="p03-s07-t07">accuracy</t>
+                <t id="p03-s07-t08">measuring</t>
+                <t id="p03-s07-t09">system</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p04">
+            <sentence id="p04-s01">
+                <t id="p04-s01-t01">The</t>
+                <t id="p04-s01-t02">degree</t>
+                <t id="p04-s01-t03">of</t>
+                <t id="p04-s01-t04">accuracy</t>
+                <t id="p04-s01-t05">and</t>
+                <t id="p04-s01-t06">precision</t>
+                <t id="p04-s01-t07">of</t>
+                <t id="p04-s01-t08">a</t>
+                <t id="p04-s01-t09">measuring</t>
+                <t id="p04-s01-t10">system</t>
+                <t id="p04-s01-t11">are</t>
+                <t id="p04-s01-t12">related</t>
+                <t id="p04-s01-t13">to</t>
+                <t id="p04-s01-t14">the</t>
+                <t id="p04-s01-t15">uncertainty</t>
+                <t id="p04-s01-t16">in</t>
+                <t id="p04-s01-t17">the</t>
+                <t id="p04-s01-t18">measurements</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p04-s02">
+                <t id="p04-s02-t01">Uncertainty</t>
+                <t id="p04-s02-t02">is</t>
+                <t id="p04-s02-t03">a</t>
+                <t id="p04-s02-t04">quantitative</t>
+                <t id="p04-s02-t05">measure</t>
+                <t id="p04-s02-t06">of</t>
+                <t id="p04-s02-t07">how</t>
+                <t id="p04-s02-t08">much</t>
+                <t id="p04-s02-t09">your</t>
+                <t id="p04-s02-t10">measured</t>
+                <t id="p04-s02-t11">values</t>
+                <t id="p04-s02-t12">deviate</t>
+                <t id="p04-s02-t13">from</t>
+                <t id="p04-s02-t14">a</t>
+                <t id="p04-s02-t15">standard</t>
+                <t id="p04-s02-t16">or</t>
+                <t id="p04-s02-t17">expected</t>
+                <t id="p04-s02-t18">value</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p04-s03">
+                <t id="p04-s03-t01">If</t>
+                <t id="p04-s03-t02">your</t>
+                <t id="p04-s03-t03">measurements</t>
+                <t id="p04-s03-t04">are</t>
+                <t id="p04-s03-t05">not</t>
+                <t id="p04-s03-t06">very</t>
+                <t id="p04-s03-t07">accurate</t>
+                <t id="p04-s03-t08">or</t>
+                <t id="p04-s03-t09">precise</t>
+                <punc>,</punc>
+                <t id="p04-s03-t10">then</t>
+                <t id="p04-s03-t11">the</t>
+                <t id="p04-s03-t12">uncertainty</t>
+                <t id="p04-s03-t13">of</t>
+                <t id="p04-s03-t14">your</t>
+                <t id="p04-s03-t15">values</t>
+                <t id="p04-s03-t16">will</t>
+                <t id="p04-s03-t17">be</t>
+                <t id="p04-s03-t18">very</t>
+                <t id="p04-s03-t19">high</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p04-s04">
+                <t id="p04-s04-t01">In</t>
+                <t id="p04-s04-t02">more</t>
+                <t id="p04-s04-t03">general</t>
+                <t id="p04-s04-t04">terms</t>
+                <punc>,</punc>
+                <t id="p04-s04-t05">uncertainty</t>
+                <t id="p04-s04-t06">can</t>
+                <t id="p04-s04-t07">be</t>
+                <t id="p04-s04-t08">thought</t>
+                <t id="p04-s04-t09">of</t>
+                <t id="p04-s04-t10">as</t>
+                <t id="p04-s04-t11">a</t>
+                <t id="p04-s04-t12">disclaimer</t>
+                <t id="p04-s04-t13">for</t>
+                <t id="p04-s04-t14">your</t>
+                <t id="p04-s04-t15">measured</t>
+                <t id="p04-s04-t16">values</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p04-s05">
+                <t id="p04-s05-t01">For</t>
+                <t id="p04-s05-t02">example</t>
+                <punc>,</punc>
+                <t id="p04-s05-t03">if</t>
+                <t id="p04-s05-t04">someone</t>
+                <t id="p04-s05-t05">asked</t>
+                <t id="p04-s05-t06">you</t>
+                <t id="p04-s05-t07">to</t>
+                <t id="p04-s05-t08">provide</t>
+                <t id="p04-s05-t09">the</t>
+                <t id="p04-s05-t10">mileage</t>
+                <t id="p04-s05-t11">on</t>
+                <t id="p04-s05-t12">your</t>
+                <t id="p04-s05-t13">car</t>
+                <punc>,</punc>
+                <t id="p04-s05-t14">you</t>
+                <t id="p04-s05-t15">might</t>
+                <t id="p04-s05-t16">say</t>
+                <t id="p04-s05-t17">that</t>
+                <t id="p04-s05-t18">it</t>
+                <t id="p04-s05-t19">is</t>
+                <t id="p04-s05-t20">45,000</t>
+                <t id="p04-s05-t21">miles</t>
+                <punc>,</punc>
+                <t id="p04-s05-t22">plus</t>
+                <t id="p04-s05-t23">or</t>
+                <t id="p04-s05-t24">minus</t>
+                <t id="p04-s05-t25">500</t>
+                <t id="p04-s05-t26">miles</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p04-s06">
+                <t id="p04-s06-t01">The</t>
+                <t id="p04-s06-t02">plus</t>
+                <t id="p04-s06-t03">or</t>
+                <t id="p04-s06-t04">minus</t>
+                <t id="p04-s06-t05">amount</t>
+                <t id="p04-s06-t06">is</t>
+                <t id="p04-s06-t07">the</t>
+                <t id="p04-s06-t08">uncertainty</t>
+                <t id="p04-s06-t09">in</t>
+                <t id="p04-s06-t10">your</t>
+                <t id="p04-s06-t11">value</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p04-s07">
+                <t id="p04-s07-t01">That</t>
+                <t id="p04-s07-t02">is</t>
+                <punc>,</punc>
+                <t id="p04-s07-t03">you</t>
+                <t id="p04-s07-t04">are</t>
+                <t id="p04-s07-t05">indicating</t>
+                <t id="p04-s07-t06">that</t>
+                <t id="p04-s07-t07">the</t>
+                <t id="p04-s07-t08">actual</t>
+                <t id="p04-s07-t09">mileage</t>
+                <t id="p04-s07-t10">of</t>
+                <t id="p04-s07-t11">your</t>
+                <t id="p04-s07-t12">car</t>
+                <t id="p04-s07-t13">might</t>
+                <t id="p04-s07-t14">be</t>
+                <t id="p04-s07-t15">as</t>
+                <t id="p04-s07-t16">low</t>
+                <t id="p04-s07-t17">as</t>
+                <t id="p04-s07-t18">44,500</t>
+                <t id="p04-s07-t19">miles</t>
+                <t id="p04-s07-t20">or</t>
+                <t id="p04-s07-t21">as</t>
+                <t id="p04-s07-t22">high</t>
+                <t id="p04-s07-t23">as</t>
+                <t id="p04-s07-t24">45,500</t>
+                <t id="p04-s07-t25">miles</t>
+                <punc>,</punc>
+                <t id="p04-s07-t26">or</t>
+                <t id="p04-s07-t27">anywhere</t>
+                <t id="p04-s07-t28">in</t>
+                <t id="p04-s07-t29">between</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p04-s08">
+                <t id="p04-s08-t01">All</t>
+                <t id="p04-s08-t02">measurements</t>
+                <t id="p04-s08-t03">contain</t>
+                <t id="p04-s08-t04">some</t>
+                <t id="p04-s08-t05">amount</t>
+                <t id="p04-s08-t06">of</t>
+                <t id="p04-s08-t07">uncertainty</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p04-s09">
+                <t id="p04-s09-t01">In</t>
+                <t id="p04-s09-t02">our</t>
+                <t id="p04-s09-t03">example</t>
+                <t id="p04-s09-t04">of</t>
+                <t id="p04-s09-t05">measuring</t>
+                <t id="p04-s09-t06">the</t>
+                <t id="p04-s09-t07">length</t>
+                <t id="p04-s09-t08">of</t>
+                <t id="p04-s09-t09">the</t>
+                <t id="p04-s09-t10">paper</t>
+                <punc>,</punc>
+                <t id="p04-s09-t11">we</t>
+                <t id="p04-s09-t12">might</t>
+                <t id="p04-s09-t13">say</t>
+                <t id="p04-s09-t14">that</t>
+                <t id="p04-s09-t15">the</t>
+                <t id="p04-s09-t16">length</t>
+                <t id="p04-s09-t17">of</t>
+                <t id="p04-s09-t18">the</t>
+                <t id="p04-s09-t19">paper</t>
+                <t id="p04-s09-t20">is</t>
+                <t id="p04-s09-t21">11 in.</t>
+                <punc>,</punc>
+                <t id="p04-s09-t22">plus</t>
+                <t id="p04-s09-t23">or</t>
+                <t id="p04-s09-t24">minus</t>
+                <t id="p04-s09-t25">0.2 in</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p05">
+            <sentence id="p05-s01">
+                <t id="p05-s01-t01">The</t>
+                <t id="p05-s01-t02">factors</t>
+                <t id="p05-s01-t03">contributing</t>
+                <t id="p05-s01-t04">to</t>
+                <t id="p05-s01-t05">uncertainty</t>
+                <t id="p05-s01-t06">in</t>
+                <t id="p05-s01-t07">a</t>
+                <t id="p05-s01-t08">measurement</t>
+                <t id="p05-s01-t09">include</t>
+                <punc>:</punc>
+            </sentence>
+            <sentence id="p05-s02">
+                <t id="p05-s02-t01">1</t>
+                <punc>.</punc>
+                <t id="p05-s02-t02">Limitations</t>
+                <t id="p05-s02-t03">of</t>
+                <t id="p05-s02-t04">the</t>
+                <t id="p05-s02-t05">measuring</t>
+                <t id="p05-s02-t06">device</t>
+                <punc>,</punc>                
+            </sentence>
+            <sentence id="p05-s03">
+                <t id="p05-s03-t01">2</t>
+                <punc>.</punc>
+                <t id="p05-s03-t02">The</t>
+                <t id="p05-s03-t03">skill</t>
+                <t id="p05-s03-t04">of</t>
+                <t id="p05-s03-t05">the</t>
+                <t id="p05-s03-t06">person</t>
+                <t id="p05-s03-t07">making</t>
+                <t id="p05-s03-t08">the</t>
+                <t id="p05-s03-t09">measurement</t>
+                <punc>,</punc>
+            </sentence>
+            <sentence id="p05-s04">
+                <t id="p05-s04-t01">3</t>
+                <punc>.</punc>
+                <t id="p05-s04-t02">Irregularities</t>
+                <t id="p05-s04-t03">in</t>
+                <t id="p05-s04-t04">the</t>
+                <t id="p05-s04-t05">object</t>
+                <t id="p05-s04-t06">being</t>
+                <t id="p05-s04-t07">measured</t>
+                <punc>,</punc>                
+            </sentence>
+            <sentence id="p05-s05">
+                <t id="p05-s05-t01">4</t>
+                <punc>.</punc>
+                <t id="p05-s05-t02">Any</t>
+                <t id="p05-s05-t03">other</t>
+                <t id="p05-s05-t04">factors</t>
+                <t id="p05-s05-t05">that</t>
+                <t id="p05-s05-t06">affect</t>
+                <t id="p05-s05-t07">the</t>
+                <t id="p05-s05-t08">outcome</t>
+                <punc>(</punc>
+                <t id="p05-s05-t09">highly</t>
+                <t id="p05-s05-t10">dependent</t>
+                <t id="p05-s05-t11">on</t>
+                <t id="p05-s05-t12">the</t>
+                <t id="p05-s05-t13">situation</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p06">
+            <sentence id="p06-s01">
+                <t id="p06-s01-t01">In</t>
+                <t id="p06-s01-t02">our</t>
+                <t id="p06-s01-t03">example</t>
+                <punc>,</punc>
+                <t id="p06-s01-t04">such</t>
+                <t id="p06-s01-t05">factors</t>
+                <t id="p06-s01-t06">contributing</t>
+                <t id="p06-s01-t07">to</t>
+                <t id="p06-s01-t08">the</t>
+                <t id="p06-s01-t09">uncertainty</t>
+                <t id="p06-s01-t10">could</t>
+                <t id="p06-s01-t11">be</t>
+                <t id="p06-s01-t12">the</t>
+                <t id="p06-s01-t13">following</t>
+                <punc>:</punc>
+                <t id="p06-s01-t14">the</t>
+                <t id="p06-s01-t15">smallest</t>
+                <t id="p06-s01-t16">division</t>
+                <t id="p06-s01-t17">on</t>
+                <t id="p06-s01-t18">the</t>
+                <t id="p06-s01-t19">ruler</t>
+                <t id="p06-s01-t20">is</t>
+                <t id="p06-s01-t21">0.1 in.</t>
+                <punc>,</punc>
+                <t id="p06-s01-t22">the</t>
+                <t id="p06-s01-t23">person</t>
+                <t id="p06-s01-t24">using</t>
+                <t id="p06-s01-t25">the</t>
+                <t id="p06-s01-t26">ruler</t>
+                <t id="p06-s01-t27">has</t>
+                <t id="p06-s01-t28">bad</t>
+                <t id="p06-s01-t29">eyesight</t>
+                <punc>,</punc>
+                <t id="p06-s01-t30">or</t>
+                <t id="p06-s01-t31">one</t>
+                <t id="p06-s01-t32">side</t>
+                <t id="p06-s01-t33">of</t>
+                <t id="p06-s01-t34">the</t>
+                <t id="p06-s01-t35">paper</t>
+                <t id="p06-s01-t36">is</t>
+                <t id="p06-s01-t37">slightly</t>
+                <t id="p06-s01-t38">longer</t>
+                <t id="p06-s01-t39">than</t>
+                <t id="p06-s01-t40">the</t>
+                <t id="p06-s01-t41">other</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p06-s02">
+                <t id="p06-s02-t01">At</t>
+                <t id="p06-s02-t02">any</t>
+                <t id="p06-s02-t03">rate</t>
+                <punc>,</punc>
+                <t id="p06-s02-t04">the</t>
+                <t id="p06-s02-t05">uncertainty</t>
+                <t id="p06-s02-t06">in</t>
+                <t id="p06-s02-t07">a</t>
+                <t id="p06-s02-t08">measurement</t>
+                <t id="p06-s02-t09">must</t>
+                <t id="p06-s02-t10">be</t>
+                <t id="p06-s02-t11">based</t>
+                <t id="p06-s02-t12">on</t>
+                <t id="p06-s02-t13">a</t>
+                <t id="p06-s02-t14">careful</t>
+                <t id="p06-s02-t15">consideration</t>
+                <t id="p06-s02-t16">of</t>
+                <t id="p06-s02-t17">all</t>
+                <t id="p06-s02-t18">the</t>
+                <t id="p06-s02-t19">factors</t>
+                <t id="p06-s02-t20">that</t>
+                <t id="p06-s02-t21">might</t>
+                <t id="p06-s02-t22">contribute</t>
+                <t id="p06-s02-t23">and</t>
+                <t id="p06-s02-t24">their</t>
+                <t id="p06-s02-t25">possible</t>
+                <t id="p06-s02-t26">effects</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
