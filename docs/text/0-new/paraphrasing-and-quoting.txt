@@ -1,0 +1,15 @@
+By zooming in on high-resolution passport-style photographs, we were able to recover images of bystanders from reflections in the eyes of photographic subjects. Performance in the face matching task (Experiment 1) and the spontaneous recognition task (Experiment 2) indicate that these bystander images were not merely informative about facial appearance, they were properly identifiable to viewers who knew the faces. This is perhaps a surprising result, given the very unpromising source of these images. However, it is consistent with previous evidence that familiar face recognition is extremely tolerant of poor image quality [16]. [Jenkins and Kerr 2013]
+
+Living things are highly organized and structured, following a hierarchy that can be examined on a scale from small to large. The atom is the smallest and most fundamental unit of matter. It consists of a nucleus surrounded by electrons. Atoms form molecules. A molecule is a chemical structure consisting of at least two atoms held together by one or more chemical bonds. Many molecules that are biologically important are macromolecules, large molecules that are typically formed by polymerization (a polymer is a large molecule that is made by combining smaller units called monomers, which are simpler than macromolecules). An example of a macromolecule is deoxyribonucleic acid (DNA), which contains the instructions for the structure and functioning of all living organisms. [OpenStax College “Biology”, p. 31]
+
+The participants were asked to perform a task requiring a high level of concentration twice, with a break of a few minutes between the tasks for mental recovery. [Nittono et al 2012]
+
+Psychological studies suggest that White has a calming effect, producing the least amount of tension [56, 57]. The implication is that higher value, lighter colors should be more relaxing than lower value, darker colors. [Bakhshi and Gilbert 2015]
+
+Civil engineering is made up of many different areas or disciplines. Some important areas are geotechnical, structures, environmental, construction management, hydrology, transportation, and materials. It is important for civil engineers to have an understanding of all these disciplines as projects often involve many of them at the same time. [Simple English Wikipedia, “Civil Engineering”]
+
+Jenkins R, Kerr C (2013) Identifiable Images of Bystanders Extracted from Corneal Reflections. PLoS ONE 8(12): e83325. doi:10.1371/journal.pone.0083325
+OpenStax College, Biology. OpenStax College. 30 May 2013. <http://cnx.org/content/col11448/latest/>.
+Nittono H, Fukushima M, Yano A, Moriya H (2012) The Power of Kawaii: Viewing Cute Images Promotes a Careful Behavior and Narrows Attentional Focus. PLoS ONE 7(9): e46362. doi:10.1371/journal.pone.0046362
+Bakhshi S, Gilbert E (2015) Red, Purple and Pink: The Colors of Diffusion on Pinterest. PLoS ONE 10(2): e0117148. doi:10.1371/journal.pone.0117148
+Simple English Wikipedia: “Civil Engineering”. Retrieved from http://simple.wikipedia.org/wiki/Civil_engineering on 19 Feb 2015.

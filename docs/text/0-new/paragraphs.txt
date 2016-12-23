@@ -1,0 +1,29 @@
+It’s too fast to catch, spears smaller insects with spiny legs, and sings a song that mirrors the syllables of its name, “Ka-ty-did, Ka-ty-didn’t.” Its music is so catchy, it has even been used as the chorus of popular songs.
+Listroscelidinae are a group of insectivorous katydid hunters from South America whose fast and aggressive behavior makes them difficult to capture, let alone identify. According to the authors of a recent PLOS ONE study, these Neotropical katydids have been understudied, partly because we haven’t been able to get our hands on them. However, the authors of this study managed to collect more than 100 specimens from one of the world’s most threatened ecosystems, the Brazilian Atlantic Forest. [Mulhern 2014]
+
+Costa Rica's Turrialba volcano erupted for the first time in more than a century yesterday, spewing ash and prompting the evacuation of a small group of people living in nearby communities. The government has also issued an alert saying that such activity may recur.
+Authorities monitoring Turrialba's activity increased a volcano alert level yesterday, saying "intense" but "low" seismic activity continued in the crater area.
+Officials also say winds could blow some of the ash from the 3,328-meter volcano toward the Costa Rican capital, San Jose. The Costa Rican agricultural ministry cautioned that about 800 farm animals could be at risk due to ashes.
+The volcano last erupted in 1856. It is located around 80 kilometres east of San Jose. [Adapted from Wikinews 2010]
+
+"TOM!"
+No answer.
+"TOM!"
+No answer.
+"What's gone with that boy,  I wonder? You TOM!"
+No answer.
+The old lady pulled her spectacles down and looked over them about the room; then she put them up and looked out under them. She seldom or never looked through them for so small a thing as a boy; they were her state pair, the pride of her heart, and were built for "style," not service—she could have seen through a pair of stove-lids just as well. She looked perplexed for a moment, and then said, not fiercely, but still loud enough for the furniture to hear:
+"Well, I lay if I get hold of you I'll—"... [Twain 1884, p. 1]
+
+Previous psychological research has established that humans can identify faces from extremely poor quality images, when they are familiar with the faces concerned [4]–[7]. For example, Yip & Sinha [7] found that viewers could identify blurred photographs of familiar faces with equivalent image resolutions as low as 7×10 pixels (see Figure 1). Here we exploit the robustness of familiar face recognition to mine high-resolution portrait photographs for latent information. Specifically, we show that the faces of hidden bystanders can be identified via reflections in the eyes of photographic subjects. Corneal analysis has previously been used to recover coarse aspects of the physical environmental, such as ambient lighting conditions [8] [9]. The present findings demonstrate that corneal reflections can reveal surprisingly rich information about the social environment too. [Jenkins and Kerr 2013]
+
+Within a relatively short timespan, Facebook has revolutionized the way people interact. Yet, whether using Facebook predicts changes in subjective well-being over time is unknown. We addressed this issue by performing lagged analyses on experience sampled data, an approach that allowed us to take advantage of the relative timing of participants' naturally occurring behaviors and psychological states to draw inferences about their likely causal sequence [17], [18]. These analyses indicated that Facebook use predicts declines in the two components of subjective well-being: how people feel moment to moment and how satisfied they are with their lives. [Kross et al 2013]
+
+Participants
+Eighty-two people (Mage = 19.52, SDage = 2.17; 53 females; 60.5% European American, 28.4% Asian, 6.2% African American, and 4.9% other) were recruited for a study on Facebook through flyers posted around Ann Arbor, Michigan. Participants needed a Facebook account and a touch-screen smartphone to qualify for the study. They received $20 and were entered into a raffle to receive an iPad2 for participating. [Kross et al 2013]
+
+Mulhertn, I. (2014). Catch the Katydid if You Can. PLOS One EveryONE Blog. Retrieved from http://blogs.plos.org/ everyone/2014/09/12/catch-katydid-can/ on 18 February 2015.
+Wikinews: “Costa Rican volcano erupts, alert issued”, 8 January 2010. Retrieved from http://en.wikinews.org/wiki/ Costa_Rican_volcano_erupts,_alert_issued on 18 February 2015.
+Twain, Mark (1884) Tom Sawyer. The American Publishing Company. Retrieved from http://www.gutenberg.org/files/74/ 74-h/74-h.htm on 14 February 2014.
+Jenkins R, Kerr C (2013) Identifiable Images of Bystanders Extracted from Corneal Reflections. PLoS ONE 8(12): e83325. doi:10.1371/journal.pone.0083325
+Kross E, Verduyn P, Demiralp E, Park J, Lee DS, et al. (2013) Facebook Use Predicts Declines in Subjective Well-Being in Young Adults. PLoS ONE 8(8): e69841. doi:10.1371/journal.pone.0069841
