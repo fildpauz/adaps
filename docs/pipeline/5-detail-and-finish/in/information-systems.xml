@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Information Systems for Business and Beyond (Extract)</title>
+    <citation>Bourgeois, D. (2014) Information Systems for Business and Beyond, pp. 94-96. Saylor.org. Retrieved from http://www.saylor.org/ courses/bus206 on 19 February 2015.</citation>
+    <url>http://www.saylor.org/ courses/bus206</url>
+    <body>
+        <paragraph id="p01">
+            <sentence par-function="" id="p01-s01">
+                <t id="p01-s01-t01" type="GSL-1">The</t>
+                <t id="p01-s01-t02" type="Coxhead-AWL-1,AR-AWL-1a">Creators</t>
+                <t id="p01-s01-t03" type="GSL-1">of</t>
+                <t id="p01-s01-t04" type="GSL-2">Information</t>
+                <t id="p01-s01-t05" type="GSL-1">Systems</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence par-function="topic" id="p02-s01">
+                <t id="p02-s01-t01" type="GSL-1">The</t>
+                <t id="p02-s01-t02" type="GSL-1">first</t>
+                <t id="p02-s01-t03" type="GSL-1">group</t>
+                <t id="p02-s01-t04" type="GSL-1">of</t>
+                <t id="p02-s01-t05" type="GSL-1">people</t>
+                <t id="p02-s01-t06" type="GSL-1">we</t>
+                <t id="p02-s01-t07" type="GSL-1">are</t>
+                <t id="p02-s01-t08" type="GSL-1">going</t>
+                <t id="p02-s01-t09" type="GSL-1">to</t>
+                <t id="p02-s01-t10" type="GSL-1">look</t>
+                <t id="p02-s01-t11" type="GSL-1">at</t>
+                <t id="p02-s01-t12" type="GSL-1">play</t>
+                <t id="p02-s01-t13" type="GSL-1">a</t>
+                <t id="p02-s01-t14" type="Coxhead-AWL-1,AR-AWL-1b">role</t>
+                <t id="p02-s01-t15" type="GSL-1">in</t>
+                <t id="p02-s01-t16" type="Coxhead-AWL-2,AR-AWL-2a">designing</t>
+                <punc>,</punc>
+                <t id="p02-s01-t17" type="GSL-1">developing</t>
+                <punc>,</punc>
+                <t id="p02-s01-t18" type="GSL-1">and</t>
+                <t id="p02-s01-t19" type="GSL-1">building</t>
+                <t id="p02-s01-t20" type="GSL-2">information</t>
+                <t id="p02-s01-t21" type="GSL-1">systems</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p02-s02">
+                <anaphor id="p02-s02-a01" info="p02-s01-t01:p02-s01-t21">
+                    <t id="p02-s02-t01" type="GSL-1">These</t>
+                    <t id="p02-s02-t02" type="GSL-1">people</t>
+                </anaphor>
+                <t id="p02-s02-t03" type="GSL-1">are</t>
+                <t id="p02-s02-t04" type="GSL-1">generally</t>
+                <t id="p02-s02-t05" type="GSL-1">very</t>
+                <t id="p02-s02-t06" type="Coxhead-AWL-3,AR-AWL-3b">technical</t>
+                <t id="p02-s02-t07" type="GSL-1">and</t>
+                <t id="p02-s02-t08" type="GSL-1">have</t>
+                <t id="p02-s02-t09" type="GSL-1">a</t>
+                <t id="p02-s02-t10" type="GSL-1">background</t>
+                <t id="p02-s02-t11" type="GSL-1">in</t>
+                <t id="p02-s02-t12" type="GSL-2">programming</t>
+                <t id="p02-s02-t13" type="GSL-1">and</t>
+                <t id="p02-s02-t14">mathematics</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p02-s03">
+                <t id="p02-s03-t01" type="GSL-1">Just</t>
+                <t id="p02-s03-t02" type="GSL-1">about</t>
+                <t id="p02-s03-t03" type="GSL-1">everyone</t>
+                <t id="p02-s03-t04" type="GSL-1">who</t>
+                <t id="p02-s03-t05" type="GSL-1">works</t>
+                <t id="p02-s03-t06" type="GSL-1">in</t>
+                <t id="p02-s03-t07" type="GSL-1">the</t>
+                <t id="p02-s03-t08" type="Coxhead-AWL-1,AR-AWL-1a">creation</t>
+                <t id="p02-s03-t09" type="GSL-1">of</t>
+                <t id="p02-s03-t10" type="GSL-2">information</t>
+                <t id="p02-s03-t11" type="GSL-1">systems</t>
+                <t id="p02-s03-t12" type="GSL-1">has</t>
+                <t id="p02-s03-t13" type="GSL-1">a</t>
+                <t id="p02-s03-t14" type="Coxhead-AWL-6,AR-AWL-6b">minimum</t>
+                <t id="p02-s03-t15" type="GSL-1">of</t>
+                <t id="p02-s03-t16" type="GSL-1">a</t>
+                <t id="p02-s03-t17">bachelor's</t>
+                <t id="p02-s03-t18" type="GSL-1">degree</t>
+                <t id="p02-s03-t19" type="GSL-1">in</t>
+                <t id="p02-s03-t20" type="Coxhead-AWL-2,AR-AWL-2a">computer</t>
+                <t id="p02-s03-t21" type="GSL-1">science</t>
+                <t id="p02-s03-t22" type="GSL-1">or</t>
+                <t id="p02-s03-t23" type="GSL-2">information</t>
+                <t id="p02-s03-t24" type="GSL-1">systems</t>
+                <punc>,</punc>
+                <connector id="p02-s03-c01" type="violated expectation" info="p02-s03-t01:p02-s03-t24,p02-s03-t26:p02-s03-t31">
+                    <t id="p02-s03-t25" type="GSL-1">though</t>
+                </connector>
+                <anaphor id="p02-s03-a01" info="p02-s03-t13:p02-s03-t24">
+                    <t id="p02-s03-t26" type="GSL-1">that</t>
+                </anaphor>
+                <t id="p02-s03-t27" type="GSL-1">is</t>
+                <t id="p02-s03-t28" type="GSL-1">not</t>
+                <t id="p02-s03-t29" type="GSL-1">necessarily</t>
+                <t id="p02-s03-t30" type="GSL-1">a</t>
+                <t id="p02-s03-t31" type="Coxhead-AWL-1,AR-AWL-1b">requirement</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p03">
+            <sentence par-function="" id="p03-s01">
+                <t id="p03-s01-t01" type="GSL-1">Systems</t>
+                <t id="p03-s01-t02" type="Coxhead-AWL-1,AR-AWL-1a">Analyst</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p04">
+            <sentence par-function="topic" id="p04-s01">
+                <t id="p04-s01-t01" type="GSL-1">The</t>
+                <t id="p04-s01-t02" type="Coxhead-AWL-1,AR-AWL-1b">role</t>
+                <t id="p04-s01-t03" type="GSL-1">of</t>
+                <t id="p04-s01-t04" type="GSL-1">the</t>
+                <t id="p04-s01-t05" type="GSL-1">systems</t>
+                <t id="p04-s01-t06" type="Coxhead-AWL-1,AR-AWL-1a">analyst</t>
+                <t id="p04-s01-t07" type="GSL-1">is</t>
+                <t id="p04-s01-t08" type="GSL-1">to</t>
+                <t id="p04-s01-t09">straddle</t>
+                <t id="p04-s01-t10" type="GSL-1">the</t>
+                <t id="p04-s01-t11" type="GSL-1">divide</t>
+                <t id="p04-s01-t12" type="GSL-1">between</t>
+                <t id="p04-s01-t13" type="Coxhead-AWL-1,AR-AWL-1a">identifying</t>
+                <t id="p04-s01-t14" type="GSL-1">business</t>
+                <t id="p04-s01-t15" type="GSL-1">needs</t>
+                <t id="p04-s01-t16" type="GSL-1">and</t>
+                <t id="p04-s01-t17" type="GSL-2">imagining</t>
+                <t id="p04-s01-t18" type="GSL-1">a</t>
+                <t id="p04-s01-t19" type="GSL-1">new</t>
+                <t id="p04-s01-t20" type="GSL-1">or</t>
+                <t id="p04-s01-t21">redesigned</t>
+                <t id="p04-s01-t22" type="Coxhead-AWL-2,AR-AWL-2a">computer</t>
+                <punc>-</punc>
+                <t id="p04-s01-t23" type="GSL-1">based</t>
+                <t id="p04-s01-t24" type="GSL-1">system</t>
+                <t id="p04-s01-t25" type="GSL-1">to</t>
+                <t id="p04-s01-t26">fulfill</t>
+                <anaphor id="p04-s01-a01" info="p04-s01-t14:p04-s01-t15">
+                    <t id="p04-s01-t27" type="GSL-1">those</t>
+                    <t id="p04-s01-t28" type="GSL-1">needs</t>
+                </anaphor>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p04-s02">
+                <anaphor id="p04-s02-a01" info="p04-s01-t09:p04-s01-t28">
+                    <t id="p04-s02-t01" type="GSL-1">This</t>
+                    <t id="p04-s02-t02" type="Coxhead-AWL-1,AR-AWL-1b">individual</t>
+                </anaphor>
+                <t id="p04-s02-t03" type="GSL-1">will</t>
+                <t id="p04-s02-t04" type="GSL-1">work</t>
+                <t id="p04-s02-t05" type="GSL-1">with</t>
+                <t id="p04-s02-t06" type="GSL-1">a</t>
+                <t id="p04-s02-t07" type="GSL-1">person</t>
+                <punc>,</punc>
+                <t id="p04-s02-t08" type="Coxhead-AWL-9,AR-AWL-9b">team</t>
+                <punc>,</punc>
+                <t id="p04-s02-t09" type="GSL-1">or</t>
+                <t id="p04-s02-t10" type="GSL-1">department</t>
+                <t id="p04-s02-t11" type="GSL-1">with</t>
+                <t id="p04-s02-t12" type="GSL-1">business</t>
+                <t id="p04-s02-t13" type="Coxhead-AWL-1,AR-AWL-1b">requirements</t>
+                <t id="p04-s02-t14" type="GSL-1">and</t>
+                <t id="p04-s02-t15" type="Coxhead-AWL-1,AR-AWL-1a">identify</t>
+                <t id="p04-s02-t16" type="GSL-1">the</t>
+                <t id="p04-s02-t17" type="Coxhead-AWL-1,AR-AWL-1b">specific</t>
+                <t id="p04-s02-t18" type="GSL-1">details</t>
+                <t id="p04-s02-t19" type="GSL-1">of</t>
+                <t id="p04-s02-t20" type="GSL-1">a</t>
+                <t id="p04-s02-t21" type="GSL-1">system</t>
+                <t id="p04-s02-t22" type="GSL-1">that</t>
+                <t id="p04-s02-t23" type="GSL-1">needs</t>
+                <t id="p04-s02-t24" type="GSL-1">to</t>
+                <t id="p04-s02-t25" type="GSL-1">be</t>
+                <t id="p04-s02-t26" type="GSL-1">built</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p04-s03">
+                <t id="p04-s03-t01" type="GSL-1">Generally</t>
+                <punc>,</punc>
+                <anaphor id="p04-s03-a01" info="p04-s02-t12:p04-s02-t26">
+                    <t id="p04-s03-t02" type="GSL-1">this</t>
+                </anaphor>
+                <t id="p04-s03-t03" type="GSL-1">will</t>
+                <t id="p04-s03-t04" type="Coxhead-AWL-1,AR-AWL-1b">require</t>
+                <t id="p04-s03-t05" type="GSL-1">the</t>
+                <t id="p04-s03-t06" type="Coxhead-AWL-1,AR-AWL-1a">analyst</t>
+                <t id="p04-s03-t07" type="GSL-1">to</t>
+                <t id="p04-s03-t08" type="GSL-1">have</t>
+                <t id="p04-s03-t09" type="GSL-1">a</t>
+                <t id="p04-s03-t10" type="GSL-1">good</t>
+                <t id="p04-s03-t11" type="GSL-1">understanding</t>
+                <t id="p04-s03-t12" type="GSL-1">of</t>
+                <anaphor id="p04-s03-a02" info="p04-s01-t14:p04-s01-t14">
+                    <t id="p04-s03-t13" type="GSL-1">the</t>
+                    <t id="p04-s03-t14" type="GSL-1">business</t>
+                </anaphor>
+                <t id="p04-s03-t15" type="GSL-1">itself</t>
+                <punc>,</punc>
+                <t id="p04-s03-t16" type="GSL-1">the</t>
+                <t id="p04-s03-t17" type="GSL-1">business</t>
+                <t id="p04-s03-t18" type="Coxhead-AWL-1,AR-AWL-1b">processes</t>
+                <t id="p04-s03-t19" type="Coxhead-AWL-1,AR-AWL-1b">involved</t>
+                <punc>,</punc>
+                <t id="p04-s03-t20" type="GSL-1">and</t>
+                <t id="p04-s03-t21" type="GSL-1">the</t>
+                <t id="p04-s03-t22" type="GSL-1">ability</t>
+                <t id="p04-s03-t23" type="GSL-1">to</t>
+                <t id="p04-s03-t24" type="Coxhead-AWL-3,AR-AWL-3a">document</t>
+                <anaphor id="p04-s03-a03" info="p04-s03-t13:p04-s03-t19">
+                    <t id="p04-s03-t25" type="GSL-1">them</t>
+                </anaphor>
+                <t id="p04-s03-t26" type="GSL-1">well</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p04-s04">
+                <anaphor id="p04-s04-a01" info="p04-s01-t04:p04-s01-t06">
+                    <t id="p04-s04-t01" type="GSL-1">The</t>
+                    <t id="p04-s04-t02" type="Coxhead-AWL-1,AR-AWL-1a">analyst</t>
+                </anaphor>
+                <t id="p04-s04-t03" type="GSL-1">will</t>
+                <t id="p04-s04-t04" type="Coxhead-AWL-1,AR-AWL-1a">identify</t>
+                <t id="p04-s04-t05" type="GSL-1">the</t>
+                <t id="p04-s04-t06" type="GSL-1">different</t>
+                <t id="p04-s04-t07">stakeholders</t>
+                <t id="p04-s04-t08" type="GSL-1">in</t>
+                <anaphor id="p04-s04-a02" info="p04-s01-t18:p04-s01-t24">
+                    <t id="p04-s04-t09" type="GSL-1">the</t>
+                    <t id="p04-s04-t10" type="GSL-1">system</t>
+                </anaphor>
+                <t id="p04-s04-t11" type="GSL-1">and</t>
+                <t id="p04-s04-t12" type="GSL-1">work</t>
+                <t id="p04-s04-t13" type="GSL-1">to</t>
+                <t id="p04-s04-t14" type="Coxhead-AWL-1,AR-AWL-1b">involve</t>
+                <t id="p04-s04-t15" type="GSL-1">the</t>
+                <t id="p04-s04-t16" type="Coxhead-AWL-2,AR-AWL-2a">appropriate</t>
+                <t id="p04-s04-t17" type="Coxhead-AWL-1,AR-AWL-1b">individuals</t>
+                <t id="p04-s04-t18" type="GSL-1">in</t>
+                <t id="p04-s04-t19" type="GSL-1">the</t>
+                <t id="p04-s04-t20" type="Coxhead-AWL-1,AR-AWL-1b">process</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p05">
+            <sentence par-function="topic" id="p05-s01">
+                <connector id="p05-s01-c01" type="condition" info="p05-s01-t02:p05-s01-t05,p05-s01-t06:p05-s01-t20">
+                    <t id="p05-s01-t01" type="GSL-1">Once</t>
+                </connector>
+                <t id="p05-s01-t02" type="GSL-1">the</t>
+                <t id="p05-s01-t03" type="Coxhead-AWL-1,AR-AWL-1b">requirements</t>
+                <t id="p05-s01-t04" type="GSL-1">are</t>
+                <t id="p05-s01-t05" type="GSL-1">determined</t>
+                <punc>,</punc>
+                <anaphor id="p05-s01-a01" info="p04-s01-t04:p04-s01-t06">
+                    <t id="p05-s01-t06" type="GSL-1">the</t>
+                    <t id="p05-s01-t07" type="Coxhead-AWL-1,AR-AWL-1a">analyst</t>
+                </anaphor>
+                <t id="p05-s01-t08" type="GSL-1">will</t>
+                <t id="p05-s01-t09" type="GSL-1">begin</t>
+                <t id="p05-s01-t10" type="GSL-1">the</t>
+                <t id="p05-s01-t11" type="Coxhead-AWL-1,AR-AWL-1b">process</t>
+                <t id="p05-s01-t12" type="GSL-1">of</t>
+                <t id="p05-s01-t13" type="GSL-2">translating</t>
+                <anaphor id="p05-s01-a02" info="p05-s01-t02:p05-s01-t03">
+                    <t id="p05-s01-t14" type="GSL-1">these</t>
+                    <t id="p05-s01-t15" type="Coxhead-AWL-1,AR-AWL-1b">requirements</t>
+                </anaphor>
+                <t id="p05-s01-t16" type="GSL-1">into</t>
+                <t id="p05-s01-t17" type="GSL-1">an</t>
+                <t id="p05-s01-t18" type="GSL-2">information</t>
+                <punc>-</punc>
+                <t id="p05-s01-t19" type="GSL-1">systems</t>
+                <t id="p05-s01-t20" type="Coxhead-AWL-2,AR-AWL-2a">design</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p05-s02">
+                <t id="p05-s02-t01" type="GSL-1">A</t>
+                <t id="p05-s02-t02" type="GSL-1">good</t>
+                <t id="p05-s02-t03" type="Coxhead-AWL-1,AR-AWL-1a">analyst</t>
+                <t id="p05-s02-t04" type="GSL-1">will</t>
+                <t id="p05-s02-t05" type="GSL-1">understand</t>
+                <t id="p05-s02-t06" type="GSL-1">what</t>
+                <t id="p05-s02-t07" type="GSL-1">different</t>
+                <t id="p05-s02-t08" type="Coxhead-AWL-3,AR-AWL-3b">technological</t>
+                <t id="p05-s02-t09" type="GSL-2">solutions</t>
+                <t id="p05-s02-t10" type="GSL-1">will</t>
+                <t id="p05-s02-t11" type="GSL-1">work</t>
+                <t id="p05-s02-t12" type="GSL-1">and</t>
+                <t id="p05-s02-t13" type="GSL-1">provide</t>
+                <t id="p05-s02-t14" type="GSL-1">several</t>
+                <t id="p05-s02-t15" type="GSL-1">different</t>
+                <t id="p05-s02-t16" type="Coxhead-AWL-3,AR-AWL-3a">alternatives</t>
+                <t id="p05-s02-t17" type="GSL-1">to</t>
+                <anaphor id="p05-s02-a01" info="p04-s04-t05:p04-s04-t10">
+                    <t id="p05-s02-t18" type="GSL-1">the</t>
+                    <t id="p05-s02-t19">requester</t>
+                </anaphor>
+                <punc>,</punc>
+                <t id="p05-s02-t20" type="GSL-1">based</t>
+                <t id="p05-s02-t21" type="GSL-1">on</t>
+                <anaphor id="p05-s02-a02" info="">
+                    <t id="p05-s02-t22" type="GSL-1">the</t>
+                    <t id="p05-s02-t23">company's</t>
+                </anaphor>
+                <t id="p05-s02-t24">budgetary</t>
+                <t id="p05-s02-t25" type="Coxhead-AWL-3,AR-AWL-3a">constraints</t>
+                <punc>,</punc>
+                <t id="p05-s02-t26" type="Coxhead-AWL-3,AR-AWL-3b">technology</t>
+                <t id="p05-s02-t27" type="Coxhead-AWL-3,AR-AWL-3a">constraints</t>
+                <punc>,</punc>
+                <t id="p05-s02-t28" type="GSL-1">and</t>
+                <t id="p05-s02-t29" type="Coxhead-AWL-2,AR-AWL-2a">culture</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p05-s03">
+                <connector id="p05-s03-c01" type="condition" info="p05-s03-t02:p05-s03-t05,p05-s03-t06:p05-s03-t16">
+                    <t id="p05-s03-t01" type="GSL-1">Once</t>
+                </connector>
+                <t id="p05-s03-t02" type="GSL-1">the</t>
+                <t id="p05-s03-t03" type="GSL-2">solution</t>
+                <t id="p05-s03-t04" type="GSL-1">is</t>
+                <t id="p05-s03-t05" type="Coxhead-AWL-2,AR-AWL-2b">selected</t>
+                <punc>,</punc>
+                <anaphor id="p05-s03-a01" info="p05-s02-t01:p05-s02-t03">
+                    <t id="p05-s03-t06" type="GSL-1">the</t>
+                    <t id="p05-s03-t07" type="Coxhead-AWL-1,AR-AWL-1a">analyst</t>
+                </anaphor>
+                <t id="p05-s03-t08" type="GSL-1">will</t>
+                <t id="p05-s03-t09" type="Coxhead-AWL-1,AR-AWL-1a">create</t>
+                <t id="p05-s03-t10" type="GSL-1">a</t>
+                <t id="p05-s03-t11" type="GSL-1">detailed</t>
+                <t id="p05-s03-t12" type="Coxhead-AWL-3,AR-AWL-3a">document</t>
+                <t id="p05-s03-t13" type="GSL-1">describing</t>
+                <t id="p05-s03-t14" type="GSL-1">the</t>
+                <t id="p05-s03-t15" type="GSL-1">new</t>
+                <t id="p05-s03-t16" type="GSL-1">system</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p05-s04">
+                <anaphor id="p05-s04-a01" info="p05-s03-t10:p05-s03-t16">
+                    <t id="p05-s04-t01" type="GSL-1">This</t>
+                    <t id="p05-s04-t02" type="GSL-1">new</t>
+                    <t id="p05-s04-t03" type="Coxhead-AWL-3,AR-AWL-3a">document</t>
+                </anaphor>
+                <t id="p05-s04-t04" type="GSL-1">will</t>
+                <t id="p05-s04-t05" type="Coxhead-AWL-1,AR-AWL-1b">require</t>
+                <t id="p05-s04-t06" type="GSL-1">that</t>
+                <anaphor id="p05-s04-a02" info="p05-s02-t01:p05-s02-t03">
+                    <t id="p05-s04-t07" type="GSL-1">the</t>
+                    <t id="p05-s04-t08" type="Coxhead-AWL-1,AR-AWL-1a">analyst</t>
+                </anaphor>
+                <t id="p05-s04-t09" type="GSL-1">understand</t>
+                <t id="p05-s04-t10" type="GSL-1">how</t>
+                <t id="p05-s04-t11" type="GSL-1">to</t>
+                <t id="p05-s04-t12" type="GSL-1">speak</t>
+                <t id="p05-s04-t13" type="GSL-1">in</t>
+                <t id="p05-s04-t14" type="GSL-1">the</t>
+                <t id="p05-s04-t15" type="Coxhead-AWL-3,AR-AWL-3b">technical</t>
+                <t id="p05-s04-t16" type="GSL-1">language</t>
+                <t id="p05-s04-t17" type="GSL-1">of</t>
+                <t id="p05-s04-t18" type="GSL-1">systems</t>
+                <t id="p05-s04-t19" type="GSL-1">developers</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p06">
+            <sentence par-function="topic" id="p06-s01">
+                <t id="p06-s01-t01" type="GSL-1">A</t>
+                <t id="p06-s01-t02" type="GSL-1">systems</t>
+                <t id="p06-s01-t03" type="Coxhead-AWL-1,AR-AWL-1a">analyst</t>
+                <t id="p06-s01-t04" type="GSL-1">generally</t>
+                <t id="p06-s01-t05" type="GSL-1">is</t>
+                <t id="p06-s01-t06" type="GSL-1">not</t>
+                <t id="p06-s01-t07" type="GSL-1">the</t>
+                <t id="p06-s01-t08" type="GSL-1">one</t>
+                <t id="p06-s01-t09" type="GSL-1">who</t>
+                <t id="p06-s01-t10" type="GSL-1">does</t>
+                <t id="p06-s01-t11" type="GSL-1">the</t>
+                <t id="p06-s01-t12" type="GSL-1">actual</t>
+                <t id="p06-s01-t13" type="GSL-1">development</t>
+                <t id="p06-s01-t14" type="GSL-1">of</t>
+                <anaphor id="p06-s01-a01" info="p04-s01-t18:p04-s01-t24">
+                    <t id="p06-s01-t15" type="GSL-1">the</t>
+                    <t id="p06-s01-t16" type="GSL-2">information</t>
+                    <t id="p06-s01-t17" type="GSL-1">system</t>
+                </anaphor>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p06-s02">
+                <t id="p06-s02-t01" type="GSL-1">The</t>
+                <t id="p06-s02-t02" type="Coxhead-AWL-2,AR-AWL-2a">design</t>
+                <t id="p06-s02-t03" type="Coxhead-AWL-3,AR-AWL-3a">document</t>
+                <t id="p06-s02-t04" type="Coxhead-AWL-1,AR-AWL-1a">created</t>
+                <t id="p06-s02-t05" type="GSL-1">by</t>
+                <t id="p06-s02-t06" type="GSL-1">the</t>
+                <t id="p06-s02-t07" type="GSL-1">systems</t>
+                <t id="p06-s02-t08" type="Coxhead-AWL-1,AR-AWL-1a">analyst</t>
+                <t id="p06-s02-t09" type="GSL-1">provides</t>
+                <t id="p06-s02-t10" type="GSL-1">the</t>
+                <t id="p06-s02-t11" type="GSL-1">detail</t>
+                <t id="p06-s02-t12" type="GSL-1">needed</t>
+                <t id="p06-s02-t13" type="GSL-1">to</t>
+                <t id="p06-s02-t14" type="Coxhead-AWL-1,AR-AWL-1a">create</t>
+                <anaphor id="p06-s02-a01" info="p06-s01-t15:p06-s01-t17">
+                    <t id="p06-s02-t15" type="GSL-1">the</t>
+                    <t id="p06-s02-t16" type="GSL-1">system</t>
+                </anaphor>
+                <t id="p06-s02-t17" type="GSL-1">and</t>
+                <t id="p06-s02-t18" type="GSL-1">is</t>
+                <t id="p06-s02-t19" type="GSL-1">handed</t>
+                <t id="p06-s02-t20" type="GSL-1">off</t>
+                <t id="p06-s02-t21" type="GSL-1">to</t>
+                <t id="p06-s02-t22" type="GSL-1">a</t>
+                <t id="p06-s02-t23">programmer</t>
+                <punc>(</punc>
+                <t id="p06-s02-t24" type="GSL-1">or</t>
+                <t id="p06-s02-t25" type="Coxhead-AWL-9,AR-AWL-9b">team</t>
+                <t id="p06-s02-t26" type="GSL-1">of</t>
+                <t id="p06-s02-t27">programmers</t>
+                <punc>)</punc>
+                <t id="p06-s02-t28" type="GSL-1">to</t>
+                <t id="p06-s02-t29" type="GSL-1">do</t>
+                <t id="p06-s02-t30" type="GSL-1">the</t>
+                <t id="p06-s02-t31" type="GSL-1">actual</t>
+                <t id="p06-s02-t32" type="Coxhead-AWL-1,AR-AWL-1a">creation</t>
+                <t id="p06-s02-t33" type="GSL-1">of</t>
+                <anaphor id="p06-s02-a02" info="p06-s01-t15:p06-s01-t17">
+                    <t id="p06-s02-t34" type="GSL-1">the</t>
+                    <t id="p06-s02-t35" type="GSL-1">system</t>
+                </anaphor>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p07">
+            <sentence par-function="topic" id="p07-s01">
+                <t id="p07-s01-t01" type="GSL-1">To</t>
+                <t id="p07-s01-t02" type="GSL-1">become</t>
+                <t id="p07-s01-t03" type="GSL-1">a</t>
+                <t id="p07-s01-t04" type="GSL-1">systems</t>
+                <t id="p07-s01-t05" type="Coxhead-AWL-1,AR-AWL-1a">analyst</t>
+                <punc>,</punc>
+                <t id="p07-s01-t06" type="GSL-1">you</t>
+                <t id="p07-s01-t07" type="GSL-1">should</t>
+                <t id="p07-s01-t08" type="GSL-1">have</t>
+                <t id="p07-s01-t09" type="GSL-1">a</t>
+                <t id="p07-s01-t10" type="GSL-1">background</t>
+                <t id="p07-s01-t11" type="GSL-1">both</t>
+                <t id="p07-s01-t12" type="GSL-1">in</t>
+                <anaphor id="p07-s01-a01" info="p04-s01-t14:p04-s01-t14">
+                    <t id="p07-s01-t13" type="GSL-1">the</t>
+                    <t id="p07-s01-t14" type="GSL-1">business</t>
+                </anaphor>
+                <t id="p07-s01-t15" type="GSL-1">and</t>
+                <t id="p07-s01-t16" type="GSL-1">in</t>
+                <t id="p07-s01-t17" type="GSL-1">systems</t>
+                <t id="p07-s01-t18" type="Coxhead-AWL-2,AR-AWL-2a">design</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p07-s02">
+                <t id="p07-s02-t01" type="GSL-1">Many</t>
+                <t id="p07-s02-t02" type="Coxhead-AWL-1,AR-AWL-1a">analysts</t>
+                <t id="p07-s02-t03" type="GSL-1">first</t>
+                <t id="p07-s02-t04" type="GSL-1">worked</t>
+                <t id="p07-s02-t05" type="GSL-1">as</t>
+                <t id="p07-s02-t06">programmers</t>
+                <t id="p07-s02-t07" type="GSL-1">and</t>
+                <punc>/</punc>
+                <t id="p07-s02-t08" type="GSL-1">or</t>
+                <t id="p07-s02-t09" type="GSL-1">had</t>
+                <t id="p07-s02-t10" type="GSL-1">experience</t>
+                <t id="p07-s02-t11" type="GSL-1">in</t>
+                <anaphor id="p07-s02-a01" info="p04-s01-t14:p04-s01-t14">
+                    <t id="p07-s02-t12" type="GSL-1">the</t>
+                    <t id="p07-s02-t13" type="GSL-1">business</t>
+                </anaphor>
+                <t id="p07-s02-t14" type="GSL-1">before</t>
+                <t id="p07-s02-t15" type="GSL-1">becoming</t>
+                <t id="p07-s02-t16" type="GSL-1">systems</t>
+                <t id="p07-s02-t17" type="Coxhead-AWL-1,AR-AWL-1a">analysts</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p08">
+            <sentence par-function="" id="p08-s01">
+                <t id="p08-s01-t01">Programmer</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p09">
+            <sentence par-function="topic" id="p09-s01">
+                <t id="p09-s01-t01">Programmers</t>
+                <t id="p09-s01-t02" type="GSL-1">spend</t>
+                <anaphor id="p09-s01-a01" info="p09-s01-t01:p09-s01-t01">
+                    <t id="p09-s01-t03" type="GSL-1">their</t>
+                </anaphor>
+                <t id="p09-s01-t04" type="GSL-1">time</t>
+                <t id="p09-s01-t05" type="GSL-1">writing</t>
+                <t id="p09-s01-t06" type="Coxhead-AWL-2,AR-AWL-2a">computer</t>
+                <t id="p09-s01-t07" type="Coxhead-AWL-4,AR-AWL-4a">code</t>
+                <t id="p09-s01-t08" type="GSL-1">in</t>
+                <t id="p09-s01-t09" type="GSL-1">a</t>
+                <t id="p09-s01-t10" type="GSL-2">programming</t>
+                <t id="p09-s01-t11" type="GSL-1">language</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p09-s02">
+                <t id="p09-s02-t01" type="GSL-1">In</t>
+                <t id="p09-s02-t02" type="GSL-1">the</t>
+                <t id="p09-s02-t03" type="GSL-1">case</t>
+                <t id="p09-s02-t04" type="GSL-1">of</t>
+                <t id="p09-s02-t05" type="GSL-1">systems</t>
+                <t id="p09-s02-t06" type="GSL-1">development</t>
+                <punc>,</punc>
+                <t id="p09-s02-t07">programmers</t>
+                <t id="p09-s02-t08" type="GSL-1">generally</t>
+                <t id="p09-s02-t09" type="GSL-1">attempt</t>
+                <t id="p09-s02-t10" type="GSL-1">to</t>
+                <t id="p09-s02-t11">fulfill</t>
+                <t id="p09-s02-t12" type="GSL-1">the</t>
+                <t id="p09-s02-t13" type="Coxhead-AWL-2,AR-AWL-2a">design</t>
+                <t id="p09-s02-t14" type="Coxhead-AWL-1,AR-AWL-1b">specifications</t>
+                <t id="p09-s02-t15" type="GSL-1">given</t>
+                <t id="p09-s02-t16" type="GSL-1">to</t>
+                <anaphor id="p09-s02-a01" info="p09-s02-t07:p09-s02-t07">
+                    <t id="p09-s02-t17" type="GSL-1">them</t>
+                </anaphor>
+                <t id="p09-s02-t18" type="GSL-1">by</t>
+                <t id="p09-s02-t19" type="GSL-1">a</t>
+                <t id="p09-s02-t20" type="GSL-1">systems</t>
+                <t id="p09-s02-t21" type="Coxhead-AWL-1,AR-AWL-1a">analyst</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p09-s03">
+                <t id="p09-s03-t01" type="GSL-1">Many</t>
+                <t id="p09-s03-t02" type="GSL-1">different</t>
+                <t id="p09-s03-t03" type="Coxhead-AWL-5,AR-AWL-5b">styles</t>
+                <t id="p09-s03-t04" type="GSL-1">of</t>
+                <t id="p09-s03-t05" type="GSL-2">programming</t>
+                <t id="p09-s03-t06" type="GSL-1">exist</t>
+                <punc>:</punc>
+                <t id="p09-s03-t07" type="GSL-1">a</t>
+                <t id="p09-s03-t08">programmer</t>
+                <t id="p09-s03-t09" type="GSL-1">may</t>
+                <t id="p09-s03-t10" type="GSL-1">work</t>
+                <t id="p09-s03-t11" type="GSL-1">alone</t>
+                <t id="p09-s03-t12" type="GSL-1">for</t>
+                <t id="p09-s03-t13" type="GSL-1">long</t>
+                <t id="p09-s03-t14" type="GSL-2">stretches</t>
+                <t id="p09-s03-t15" type="GSL-1">of</t>
+                <t id="p09-s03-t16" type="GSL-1">time</t>
+                <t id="p09-s03-t17" type="GSL-1">or</t>
+                <t id="p09-s03-t18" type="GSL-1">may</t>
+                <t id="p09-s03-t19" type="GSL-1">work</t>
+                <t id="p09-s03-t20" type="GSL-1">in</t>
+                <t id="p09-s03-t21" type="GSL-1">a</t>
+                <t id="p09-s03-t22" type="Coxhead-AWL-9,AR-AWL-9b">team</t>
+                <t id="p09-s03-t23" type="GSL-1">with</t>
+                <anaphor id="p09-s03-a01" info="">
+                    <t id="p09-s03-t24" type="GSL-1">other</t>
+                    <t id="p09-s03-t25">programmers</t>
+                </anaphor>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p09-s04">
+                <t id="p09-s04-t01" type="GSL-1">A</t>
+                <t id="p09-s04-t02">programmer</t>
+                <t id="p09-s04-t03" type="GSL-1">needs</t>
+                <t id="p09-s04-t04" type="GSL-1">to</t>
+                <t id="p09-s04-t05" type="GSL-1">be</t>
+                <t id="p09-s04-t06" type="GSL-1">able</t>
+                <t id="p09-s04-t07" type="GSL-1">to</t>
+                <t id="p09-s04-t08" type="GSL-1">understand</t>
+                <t id="p09-s04-t09" type="Coxhead-AWL-2,AR-AWL-2a">complex</t>
+                <t id="p09-s04-t10" type="Coxhead-AWL-1,AR-AWL-1b">processes</t>
+                <t id="p09-s04-t11" type="GSL-1">and</t>
+                <t id="p09-s04-t12" type="GSL-1">also</t>
+                <t id="p09-s04-t13" type="GSL-1">the</t>
+                <t id="p09-s04-t14">intricacies</t>
+                <t id="p09-s04-t15" type="GSL-1">of</t>
+                <t id="p09-s04-t16" type="GSL-1">one</t>
+                <t id="p09-s04-t17" type="GSL-1">or</t>
+                <t id="p09-s04-t18" type="GSL-1">more</t>
+                <t id="p09-s04-t19" type="GSL-2">programming</t>
+                <t id="p09-s04-t20" type="GSL-1">languages</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p09-s05">
+                <t id="p09-s05-t01" type="GSL-1">Generally</t>
+                <punc>,</punc>
+                <t id="p09-s05-t02" type="GSL-1">a</t>
+                <t id="p09-s05-t03">programmer</t>
+                <t id="p09-s05-t04" type="GSL-1">is</t>
+                <t id="p09-s05-t05" type="GSL-1">very</t>
+                <t id="p09-s05-t06">proficient</t>
+                <t id="p09-s05-t07" type="GSL-1">in</t>
+                <t id="p09-s05-t08">mathematics</t>
+                <punc>,</punc>
+                <connector id="p09-s05-c01" type="explanation" info="p09-s05-t02:p09-s05-t08,p09-s05-t10:p09-s05-t15">
+                    <t id="p09-s05-t09" type="GSL-1">as</t>
+                </connector>
+                <t id="p09-s05-t10">mathematical</t>
+                <t id="p09-s05-t11" type="Coxhead-AWL-1,AR-AWL-1a">concepts</t>
+                <t id="p09-s05-t12" type="Coxhead-AWL-6,AR-AWL-6b">underlie</t>
+                <t id="p09-s05-t13" type="GSL-1">most</t>
+                <t id="p09-s05-t14" type="GSL-2">programming</t>
+                <t id="p09-s05-t15" type="Coxhead-AWL-4,AR-AWL-4a">code</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p10">
+            <sentence par-function="" id="p10-s01">
+                <t id="p10-s01-t01" type="Coxhead-AWL-2,AR-AWL-2a">Computer</t>
+                <t id="p10-s01-t02" type="GSL-2">Engineer</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p11">
+            <sentence par-function="topic" id="p11-s01">
+                <t id="p11-s01-t01" type="Coxhead-AWL-2,AR-AWL-2a">Computer</t>
+                <t id="p11-s01-t02" type="GSL-2">engineers</t>
+                <t id="p11-s01-t03" type="Coxhead-AWL-2,AR-AWL-2a">design</t>
+                <t id="p11-s01-t04" type="GSL-1">the</t>
+                <t id="p11-s01-t05" type="Coxhead-AWL-2,AR-AWL-2a">computing</t>
+                <t id="p11-s01-t06" type="Coxhead-AWL-9,AR-AWL-9a">devices</t>
+                <t id="p11-s01-t07" type="GSL-1">that</t>
+                <t id="p11-s01-t08" type="GSL-1">we</t>
+                <t id="p11-s01-t09" type="GSL-1">use</t>
+                <t id="p11-s01-t10" type="GSL-1">every</t>
+                <t id="p11-s01-t11" type="GSL-1">day</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p11-s02">
+                <t id="p11-s02-t01" type="GSL-1">There</t>
+                <t id="p11-s02-t02" type="GSL-1">are</t>
+                <t id="p11-s02-t03" type="GSL-1">many</t>
+                <t id="p11-s02-t04" type="GSL-1">types</t>
+                <t id="p11-s02-t05" type="GSL-1">of</t>
+                <t id="p11-s02-t06" type="Coxhead-AWL-2,AR-AWL-2a">computer</t>
+                <t id="p11-s02-t07" type="GSL-2">engineers</t>
+                <punc>,</punc>
+                <t id="p11-s02-t08" type="GSL-1">who</t>
+                <t id="p11-s02-t09" type="GSL-1">work</t>
+                <t id="p11-s02-t10" type="GSL-1">on</t>
+                <t id="p11-s02-t11" type="GSL-1">a</t>
+                <t id="p11-s02-t12" type="GSL-1">variety</t>
+                <t id="p11-s02-t13" type="GSL-1">of</t>
+                <t id="p11-s02-t14" type="GSL-1">different</t>
+                <t id="p11-s02-t15" type="GSL-1">types</t>
+                <t id="p11-s02-t16" type="GSL-1">of</t>
+                <t id="p11-s02-t17" type="Coxhead-AWL-9,AR-AWL-9a">devices</t>
+                <t id="p11-s02-t18" type="GSL-1">and</t>
+                <t id="p11-s02-t19" type="GSL-1">systems</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p11-s03">
+                <t id="p11-s03-t01" type="GSL-1">Some</t>
+                <t id="p11-s03-t02" type="GSL-1">of</t>
+                <t id="p11-s03-t03" type="GSL-1">the</t>
+                <t id="p11-s03-t04" type="GSL-1">more</t>
+                <t id="p11-s03-t05">prominent</t>
+                <t id="p11-s03-t06" type="GSL-2">engineering</t>
+                <t id="p11-s03-t07" type="Coxhead-AWL-4,AR-AWL-4b">jobs</t>
+                <t id="p11-s03-t08" type="GSL-1">include</t>
+                <t id="p11-s03-t09">hardware</t>
+                <t id="p11-s03-t10" type="GSL-2">engineer</t>
+                <punc>,</punc>
+                <t id="p11-s03-t11" type="GSL-1">who</t>
+                <t id="p11-s03-t12" type="Coxhead-AWL-2,AR-AWL-2a">designs</t>
+                <t id="p11-s03-t13">hardware</t>
+                <t id="p11-s03-t14" type="Coxhead-AWL-3,AR-AWL-3a">components</t>
+                <punc>,</punc>
+                <t id="p11-s03-t15" type="GSL-1">such</t>
+                <t id="p11-s03-t16" type="GSL-1">as</t>
+                <t id="p11-s03-t17">microprocessors</t>
+                <punc>;</punc>
+                <t id="p11-s03-t18">software</t>
+                <t id="p11-s03-t19" type="GSL-2">engineer</t>
+                <punc>,</punc>
+                <t id="p11-s03-t20" type="GSL-1">who</t>
+                <t id="p11-s03-t21" type="Coxhead-AWL-1,AR-AWL-1a">creates</t>
+                <t id="p11-s03-t22" type="GSL-1">new</t>
+                <t id="p11-s03-t23" type="GSL-2">programming</t>
+                <t id="p11-s03-t24" type="GSL-1">languages</t>
+                <t id="p11-s03-t25" type="GSL-1">and</t>
+                <t id="p11-s03-t26" type="GSL-1">operating</t>
+                <t id="p11-s03-t27" type="GSL-1">systems</t>
+                <punc>;</punc>
+                <t id="p11-s03-t28" type="GSL-1">systems</t>
+                <t id="p11-s03-t29" type="GSL-2">engineer</t>
+                <punc>,</punc>
+                <t id="p11-s03-t30" type="GSL-1">who</t>
+                <t id="p11-s03-t31" type="GSL-1">takes</t>
+                <t id="p11-s03-t32" type="GSL-1">the</t>
+                <t id="p11-s03-t33" type="Coxhead-AWL-3,AR-AWL-3a">components</t>
+                <t id="p11-s03-t34" type="Coxhead-AWL-2,AR-AWL-2a">designed</t>
+                <t id="p11-s03-t35" type="GSL-1">by</t>
+                <t id="p11-s03-t36" type="GSL-1">other</t>
+                <t id="p11-s03-t37" type="GSL-2">engineers</t>
+                <t id="p11-s03-t38" type="GSL-1">and</t>
+                <t id="p11-s03-t39" type="GSL-1">makes</t>
+                <anaphor id="p11-s03-a01" info="p11-s03-t33:p11-s03-t37">
+                    <t id="p11-s03-t40" type="GSL-1">them</t>
+                </anaphor>
+                <t id="p11-s03-t41" type="GSL-1">all</t>
+                <t id="p11-s03-t42" type="GSL-1">work</t>
+                <t id="p11-s03-t43" type="GSL-1">together</t>
+                <punc>;</punc>
+                <t id="p11-s03-t44" type="GSL-1">and</t>
+                <t id="p11-s03-t45" type="Coxhead-AWL-5,AR-AWL-5b">network</t>
+                <t id="p11-s03-t46" type="GSL-2">engineer</t>
+                <punc>,</punc>
+                <t id="p11-s03-t47" type="GSL-1">whose</t>
+                <t id="p11-s03-t48" type="Coxhead-AWL-4,AR-AWL-4b">job</t>
+                <t id="p11-s03-t49" type="GSL-1">is</t>
+                <t id="p11-s03-t50" type="GSL-1">to</t>
+                <t id="p11-s03-t51" type="GSL-1">understand</t>
+                <t id="p11-s03-t52" type="GSL-1">the</t>
+                <t id="p11-s03-t53" type="Coxhead-AWL-5,AR-AWL-5b">networking</t>
+                <t id="p11-s03-t54" type="Coxhead-AWL-1,AR-AWL-1b">requirements</t>
+                <t id="p11-s03-t55" type="GSL-1">of</t>
+                <t id="p11-s03-t56" type="GSL-1">an</t>
+                <t id="p11-s03-t57" type="GSL-1">organization</t>
+                <t id="p11-s03-t58" type="GSL-1">and</t>
+                <t id="p11-s03-t59" type="GSL-1">then</t>
+                <t id="p11-s03-t60" type="Coxhead-AWL-2,AR-AWL-2a">design</t>
+                <t id="p11-s03-t61" type="GSL-1">a</t>
+                <t id="p11-s03-t62" type="Coxhead-AWL-4,AR-AWL-4a">communications</t>
+                <t id="p11-s03-t63" type="GSL-1">system</t>
+                <t id="p11-s03-t64" type="GSL-1">to</t>
+                <t id="p11-s03-t65" type="GSL-1">meet</t>
+                <anaphor id="p11-s03-a02" info="p11-s03-t52:p11-s03-t57">
+                    <t id="p11-s03-t66" type="GSL-1">those</t>
+                    <t id="p11-s03-t67" type="GSL-1">needs</t>
+                </anaphor>
+                <punc>,</punc>
+                <t id="p11-s03-t68" type="GSL-1">using</t>
+                <t id="p11-s03-t69" type="GSL-1">the</t>
+                <t id="p11-s03-t70" type="Coxhead-AWL-5,AR-AWL-5b">networking</t>
+                <t id="p11-s03-t71">hardware</t>
+                <t id="p11-s03-t72" type="GSL-1">and</t>
+                <t id="p11-s03-t73">software</t>
+                <t id="p11-s03-t74" type="Coxhead-AWL-1,AR-AWL-1a">available</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
