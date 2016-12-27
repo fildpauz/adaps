@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Gait Pattern Alterations during Walking, Texting and Walking and Texting during Cognitively Distractive Tasks while Negotiating Common Pedestrian Obstacles.</title>
+    <citation>Licence S, Smith R, McGuigan MP, Earnest CP (2015) Gait Pattern Alterations during Walking, Texting and Walking and Texting during Cognitively Distractive Tasks while Negotiating Common Pedestrian Obstacles. PLoS ONE 10(7): e0133281. doi:10.1371/journal.pone.0133281</citation>
+    <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133281</url>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01" type="Coxhead-AWL-6,AR-AWL-6a">Abstract</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence id="p02-s01">
+                <t id="p02-s01-t01">Objectives</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p03">
+            <sentence id="p03-s01">
+                <t id="p03-s01-t01">Mobile</t>
+                <t id="p03-s01-t02" type="GSL-2">phone</t>
+                <t id="p03-s01-t03">texting</t>
+                <t id="p03-s01-t04" type="GSL-1">is</t>
+                <t id="p03-s01-t05" type="GSL-1">a</t>
+                <t id="p03-s01-t06" type="GSL-1">common</t>
+                <t id="p03-s01-t07" type="GSL-1">daily</t>
+                <t id="p03-s01-t08" type="Coxhead-AWL-1,AR-AWL-1b">occurrence</t>
+                <t id="p03-s01-t09" type="GSL-1">with</t>
+                <t id="p03-s01-t10" type="GSL-1">a</t>
+                <t id="p03-s01-t11">paucity</t>
+                <t id="p03-s01-t12" type="GSL-1">of</t>
+                <t id="p03-s01-t13" type="Coxhead-AWL-1,AR-AWL-1b">research</t>
+                <t id="p03-s01-t14" type="GSL-2">examining</t>
+                <t id="p03-s01-t15" type="Coxhead-AWL-3,AR-AWL-3a">corresponding</t>
+                <t id="p03-s01-t16">gait</t>
+                <t id="p03-s01-t17" type="GSL-1">characteristics</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s02">
+                <t id="p03-s02-t01" type="GSL-1">To</t>
+                <t id="p03-s02-t02" type="GSL-1">date</t>
+                <punc>,</punc>
+                <t id="p03-s02-t03" type="GSL-1">most</t>
+                <t id="p03-s02-t04" type="GSL-1">studies</t>
+                <t id="p03-s02-t05" type="GSL-1">have</t>
+                <t id="p03-s02-t06" type="Coxhead-AWL-2,AR-AWL-2b">participants</t>
+                <t id="p03-s02-t07" type="GSL-1">walk</t>
+                <t id="p03-s02-t08" type="GSL-1">in</t>
+                <t id="p03-s02-t09" type="GSL-1">a</t>
+                <t id="p03-s02-t10" type="GSL-2">straight</t>
+                <t id="p03-s02-t11" type="GSL-1">line</t>
+                <t id="p03-s02-t12">vs.</t>
+                <t id="p03-s02-t13" type="GSL-2">overcoming</t>
+                <t id="p03-s02-t14">barriers</t>
+                <t id="p03-s02-t15" type="GSL-1">and</t>
+                <t id="p03-s02-t16">obstacles</t>
+                <t id="p03-s02-t17" type="GSL-1">that</t>
+                <t id="p03-s02-t18" type="Coxhead-AWL-1,AR-AWL-1b">occur</t>
+                <t id="p03-s02-t19" type="GSL-2">during</t>
+                <t id="p03-s02-t20" type="GSL-2">regular</t>
+                <t id="p03-s02-t21" type="GSL-1">walking</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s03">
+                <t id="p03-s03-t01" type="GSL-1">The</t>
+                <t id="p03-s03-t02" type="GSL-2">aim</t>
+                <t id="p03-s03-t03" type="GSL-1">of</t>
+                <t id="p03-s03-t04" type="GSL-1">our</t>
+                <t id="p03-s03-t05" type="GSL-1">study</t>
+                <t id="p03-s03-t06" type="GSL-1">is</t>
+                <t id="p03-s03-t07" type="GSL-1">to</t>
+                <t id="p03-s03-t08" type="GSL-2">examine</t>
+                <t id="p03-s03-t09" type="GSL-1">the</t>
+                <t id="p03-s03-t10" type="GSL-1">effect</t>
+                <t id="p03-s03-t11" type="GSL-1">of</t>
+                <t id="p03-s03-t12">mobile</t>
+                <t id="p03-s03-t13" type="GSL-2">phone</t>
+                <t id="p03-s03-t14">texting</t>
+                <t id="p03-s03-t15" type="GSL-2">during</t>
+                <t id="p03-s03-t16" type="Coxhead-AWL-1,AR-AWL-1b">periods</t>
+                <t id="p03-s03-t17" type="GSL-1">of</t>
+                <t id="p03-s03-t18">cognitive</t>
+                <t id="p03-s03-t19">distraction</t>
+                <t id="p03-s03-t20" type="GSL-1">while</t>
+                <t id="p03-s03-t21" type="GSL-1">walking</t>
+                <t id="p03-s03-t22" type="GSL-1">and</t>
+                <t id="p03-s03-t23">negotiating</t>
+                <t id="p03-s03-t24">barriers</t>
+                <t id="p03-s03-t25">synonymous</t>
+                <t id="p03-s03-t26" type="GSL-1">with</t>
+                <t id="p03-s03-t27">pedestrian</t>
+                <t id="p03-s03-t28">traffic</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p04">
+            <sentence id="p04-s01">
+                <t id="p04-s01-t01" type="Coxhead-AWL-1,AR-AWL-1b">Methods</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p05">
+            <sentence id="p05-s01">
+                <t id="p05-s01-t01" type="GSL-1">Thirty</t>
+                <t id="p05-s01-t02" type="Coxhead-AWL-2,AR-AWL-2b">participants</t>
+                <punc>(</punc>
+                <t id="p05-s01-t03">18</t>
+                <punc>-</punc>
+                <t id="p05-s01-t04">50y</t>
+                <punc>)</punc>
+                <t id="p05-s01-t05" type="GSL-1">completed</t>
+                <t id="p05-s01-t06" type="GSL-1">three</t>
+                <t id="p05-s01-t07">randomized</t>
+                <punc>,</punc>
+                <t id="p05-s01-t08">counter</t>
+                <t id="p05-s01-t09">-</t>
+                <t id="p05-s01-t10" type="GSL-2">balanced</t>
+                <t id="p05-s01-t11" type="GSL-1">walking</t>
+                <t id="p05-s01-t12" type="Coxhead-AWL-3,AR-AWL-3b">tasks</t>
+                <t id="p05-s01-t13" type="GSL-1">over</t>
+                <t id="p05-s01-t14" type="GSL-1">a</t>
+                <t id="p05-s01-t15" type="GSL-1">course</t>
+                <t id="p05-s01-t16" type="GSL-2">during</t>
+                <punc>:</punc>
+                <punc>(</punc>
+                <t id="p05-s01-t17">1</t>
+                <punc>)</punc>
+                <t id="p05-s01-t18" type="Coxhead-AWL-2,AR-AWL-2b">normal</t>
+                <t id="p05-s01-t19" type="GSL-1">walking</t>
+                <punc>(</punc>
+                <t id="p05-s01-t20" type="GSL-1">control</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <punc>(</punc>
+                <t id="p05-s01-t21">2</t>
+                <punc>)</punc>
+                <t id="p05-s01-t22">texting</t>
+                <t id="p05-s01-t23" type="GSL-1">and</t>
+                <t id="p05-s01-t24" type="GSL-1">walking</t>
+                <punc>,</punc>
+                <t id="p05-s01-t25" type="GSL-1">and</t>
+                <punc>(</punc>
+                <t id="p05-s01-t26">3</t>
+                <punc>)</punc>
+                <t id="p05-s01-t27">texting</t>
+                <t id="p05-s01-t28" type="GSL-1">and</t>
+                <t id="p05-s01-t29" type="GSL-1">walking</t>
+                <t id="p05-s01-t30" type="GSL-1">whilst</t>
+                <t id="p05-s01-t31" type="GSL-1">being</t>
+                <t id="p05-s01-t32">cognitively</t>
+                <t id="p05-s01-t33">distracted</t>
+                <t id="p05-s01-t34" type="Coxhead-AWL-8,AR-AWL-8b">via</t>
+                <t id="p05-s01-t35" type="GSL-1">a</t>
+                <t id="p05-s01-t36" type="GSL-1">standard</t>
+                <t id="p05-s01-t37">mathematical</t>
+                <t id="p05-s01-t38" type="GSL-1">test</t>
+                <t id="p05-s01-t39" type="GSL-2">performed</t>
+                <t id="p05-s01-t40" type="GSL-1">while</t>
+                <t id="p05-s01-t41">negotiating</t>
+                <t id="p05-s01-t42" type="GSL-1">the</t>
+                <t id="p05-s01-t43">obstacle</t>
+                <t id="p05-s01-t44" type="GSL-1">course</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p05-s02">
+                <t id="p05-s02-t01" type="GSL-1">We</t>
+                <t id="p05-s02-t02" type="Coxhead-AWL-1,AR-AWL-1a">analyzed</t>
+                <t id="p05-s02-t03">gait</t>
+                <t id="p05-s02-t04" type="GSL-1">characteristics</t>
+                <t id="p05-s02-t05" type="GSL-2">during</t>
+                <t id="p05-s02-t06" type="GSL-1">course</t>
+                <t id="p05-s02-t07">negotiation</t>
+                <t id="p05-s02-t08" type="GSL-1">using</t>
+                <t id="p05-s02-t09" type="GSL-1">a</t>
+                <t id="p05-s02-t10">3</t>
+                <punc>-</punc>
+                <t id="p05-s02-t11" type="Coxhead-AWL-4,AR-AWL-4a">dimensional</t>
+                <t id="p05-s02-t12" type="GSL-2">motion</t>
+                <t id="p05-s02-t13" type="Coxhead-AWL-1,AR-AWL-1a">analysis</t>
+                <t id="p05-s02-t14" type="GSL-1">system</t>
+                <t id="p05-s02-t15" type="GSL-1">and</t>
+                <t id="p05-s02-t16" type="GSL-1">a</t>
+                <t id="p05-s02-t17" type="GSL-1">general</t>
+                <t id="p05-s02-t18">linear</t>
+                <t id="p05-s02-t19" type="GSL-2">model</t>
+                <t id="p05-s02-t20" type="GSL-1">and</t>
+                <t id="p05-s02-t21" type="GSL-2">performed</t>
+                <t id="p05-s02-t22" type="GSL-1">a</t>
+                <t id="p05-s02-t23">Dunnet</t>
+                <punc>-</punc>
+                <t id="p05-s02-t24">Hsu</t>
+                <t id="p05-s02-t25" type="GSL-1">post</t>
+                <punc>-</punc>
+                <t id="p05-s02-t26">hoc</t>
+                <t id="p05-s02-t27" type="Coxhead-AWL-1,AR-AWL-1b">procedure</t>
+                <t id="p05-s02-t28" type="GSL-1">against</t>
+                <t id="p05-s02-t29" type="GSL-1">the</t>
+                <t id="p05-s02-t30" type="Coxhead-AWL-2,AR-AWL-2b">normal</t>
+                <t id="p05-s02-t31" type="GSL-1">walking</t>
+                <t id="p05-s02-t32" type="GSL-1">condition</t>
+                <t id="p05-s02-t33" type="GSL-1">to</t>
+                <t id="p05-s02-t34" type="Coxhead-AWL-1,AR-AWL-1a">assess</t>
+                <t id="p05-s02-t35">gait</t>
+                <t id="p05-s02-t36" type="GSL-1">characteristic</t>
+                <t id="p05-s02-t37" type="GSL-1">differences</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p05-s03">
+                <t id="p05-s03-t01" type="Coxhead-AWL-2,AR-AWL-2b">Primary</t>
+                <t id="p05-s03-t02" type="Coxhead-AWL-3,AR-AWL-3b">outcomes</t>
+                <t id="p05-s03-t03" type="GSL-1">included</t>
+                <t id="p05-s03-t04" type="GSL-1">the</t>
+                <t id="p05-s03-t05" type="Coxhead-AWL-4,AR-AWL-4b">overall</t>
+                <t id="p05-s03-t06" type="GSL-1">time</t>
+                <t id="p05-s03-t07" type="GSL-1">to</t>
+                <t id="p05-s03-t08" type="GSL-1">complete</t>
+                <anaphor>
+                    <t id="p05-s03-t09" type="GSL-1">the</t>
+                    <t id="p05-s03-t10" type="GSL-1">course</t>
+                </anaphor>
+                <t id="p05-s03-t11" type="GSL-1">and</t>
+                <t id="p05-s03-t12">barrier</t>
+                <t id="p05-s03-t13" type="Coxhead-AWL-5,AR-AWL-5a">contact</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p05-s04">
+                <t id="p05-s04-t01" type="GSL-1">Secondary</t>
+                <t id="p05-s04-t02" type="Coxhead-AWL-3,AR-AWL-3b">outcomes</t>
+                <t id="p05-s04-t03" type="GSL-1">included</t>
+                <t id="p05-s04-t04">obstacle</t>
+                <t id="p05-s04-t05">clearance</t>
+                <t id="p05-s04-t06">height</t>
+                <punc>,</punc>
+                <t id="p05-s04-t07" type="GSL-1">step</t>
+                <t id="p05-s04-t08" type="GSL-2">frequency</t>
+                <punc>,</punc>
+                <t id="p05-s04-t09" type="GSL-1">step</t>
+                <t id="p05-s04-t10" type="GSL-1">time</t>
+                <punc>,</punc>
+                <t id="p05-s04-t11" type="GSL-2">double</t>
+                <t id="p05-s04-t12" type="GSL-1">support</t>
+                <t id="p05-s04-t13" type="Coxhead-AWL-4,AR-AWL-4b">phase</t>
+                <t id="p05-s04-t14" type="GSL-1">and</t>
+                <t id="p05-s04-t15">lateral</t>
+                <t id="p05-s04-t16" type="Coxhead-AWL-8,AR-AWL-8a">deviation</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p06">
+            <sentence id="p06-s01">
+                <t id="p06-s01-t01" type="GSL-1">Results</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p07">
+            <sentence id="p07-s01">
+                <t id="p07-s01-t01" type="Coxhead-AWL-2,AR-AWL-2b">Participants</t>
+                <t id="p07-s01-t02" type="GSL-1">took</t>
+                <t id="p07-s01-t03" type="Coxhead-AWL-1,AR-AWL-1b">significantly</t>
+                <t id="p07-s01-t04" type="GSL-1">longer</t>
+                <punc>(</punc>
+                <t id="p07-s01-t05">mean ± SD</t>
+                <punc>)</punc>
+                <t id="p07-s01-t06" type="GSL-1">to</t>
+                <t id="p07-s01-t07" type="GSL-1">complete</t>
+                <t id="p07-s01-t08" type="GSL-1">the</t>
+                <t id="p07-s01-t09" type="GSL-1">course</t>
+                <t id="p07-s01-t10" type="GSL-1">while</t>
+                <t id="p07-s01-t11">texting</t>
+                <punc>(</punc>
+                <t id="p07-s01-t12">24.96±4.20</t>
+                <t id="p07-s01-t13">sec</t>
+                <punc>)</punc>
+                <t id="p07-s01-t14" type="GSL-1">and</t>
+                <t id="p07-s01-t15" type="GSL-2">during</t>
+                <t id="p07-s01-t16">cognitive</t>
+                <t id="p07-s01-t17">distraction</t>
+                <punc>(</punc>
+                <t id="p07-s01-t18">24.09±3.36</t>
+                <t id="p07-s01-t19">sec</t>
+                <punc>)</punc>
+                <t id="p07-s01-t20">vs.</t>
+                <t id="p07-s01-t21" type="Coxhead-AWL-2,AR-AWL-2b">normal</t>
+                <t id="p07-s01-t22" type="GSL-1">walking</t>
+                <punc>(</punc>
+                <t id="p07-s01-t23">19.32±2.28</t>
+                <t id="p07-s01-t24">sec</t>
+                <punc>;</punc>
+                <t id="p07-s01-t25" type="GSL-1">all</t>
+                <punc>,</punc>
+                <t id="p07-s01-t26">P&lt;0.001</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p07-s02">
+                <t id="p07-s02-t01" type="GSL-1">No</t>
+                <t id="p07-s02-t02" type="Coxhead-AWL-1,AR-AWL-1b">significant</t>
+                <t id="p07-s02-t03" type="GSL-1">differences</t>
+                <t id="p07-s02-t04" type="GSL-1">were</t>
+                <t id="p07-s02-t05" type="GSL-1">noted</t>
+                <t id="p07-s02-t06" type="GSL-1">for</t>
+                <t id="p07-s02-t07">barrier</t>
+                <t id="p07-s02-t08" type="Coxhead-AWL-5,AR-AWL-5a">contacts</t>
+                <punc>(</punc>
+                <t id="p07-s02-t09">P = 0.28</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p07-s03">
+                <t id="p07-s03-t01" type="GSL-1">Step</t>
+                <t id="p07-s03-t02" type="GSL-2">frequency</t>
+                <punc>,</punc>
+                <t id="p07-s03-t03" type="GSL-1">step</t>
+                <t id="p07-s03-t04" type="GSL-1">time</t>
+                <punc>,</punc>
+                <t id="p07-s03-t05" type="GSL-2">double</t>
+                <t id="p07-s03-t06" type="GSL-1">support</t>
+                <t id="p07-s03-t07" type="Coxhead-AWL-4,AR-AWL-4b">phase</t>
+                <t id="p07-s03-t08" type="GSL-1">and</t>
+                <t id="p07-s03-t09">lateral</t>
+                <t id="p07-s03-t10" type="Coxhead-AWL-8,AR-AWL-8a">deviation</t>
+                <t id="p07-s03-t11" type="GSL-1">all</t>
+                <t id="p07-s03-t12" type="GSL-1">increased</t>
+                <t id="p07-s03-t13" type="GSL-1">in</t>
+                <t id="p07-s03-t14" type="Coxhead-AWL-9,AR-AWL-9a">duration</t>
+                <t id="p07-s03-t15" type="GSL-2">during</t>
+                <t id="p07-s03-t16" type="GSL-1">the</t>
+                <t id="p07-s03-t17">texting</t>
+                <t id="p07-s03-t18" type="GSL-1">and</t>
+                <t id="p07-s03-t19">cognitive</t>
+                <t id="p07-s03-t20">distraction</t>
+                <t id="p07-s03-t21" type="GSL-1">trial</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p07-s04">
+                <t id="p07-s04-t01">Texting</t>
+                <t id="p07-s04-t02" type="GSL-1">and</t>
+                <t id="p07-s04-t03" type="GSL-1">being</t>
+                <t id="p07-s04-t04">cognitively</t>
+                <t id="p07-s04-t05">distracted</t>
+                <t id="p07-s04-t06" type="GSL-1">also</t>
+                <t id="p07-s04-t07" type="GSL-1">increased</t>
+                <t id="p07-s04-t08">obstacle</t>
+                <t id="p07-s04-t09">clearance</t>
+                <t id="p07-s04-t10">versus</t>
+                <anaphor>
+                    <t id="p07-s04-t11" type="GSL-1">the</t>
+                    <t id="p07-s04-t12" type="GSL-1">walking</t>
+                    <t id="p07-s04-t13" type="GSL-1">condition</t>
+                </anaphor>
+                <punc>(</punc>
+                <t id="p07-s04-t14" type="GSL-1">all</t>
+                <punc>,</punc>
+                <t id="p07-s04-t15">P&lt;0.02</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p08">
+            <sentence id="p08-s01">
+                <t id="p08-s01-t01" type="Coxhead-AWL-2,AR-AWL-2a">Conclusions</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p09">
+            <sentence id="p09-s01">
+                <t id="p09-s01-t01">Texting</t>
+                <t id="p09-s01-t02" type="GSL-1">while</t>
+                <t id="p09-s01-t03" type="GSL-1">walking</t>
+                <t id="p09-s01-t04" type="GSL-1">and</t>
+                <punc>/</punc>
+                <t id="p09-s01-t05" type="GSL-1">or</t>
+                <t id="p09-s01-t06" type="GSL-1">being</t>
+                <t id="p09-s01-t07">cognitively</t>
+                <t id="p09-s01-t08">distracted</t>
+                <t id="p09-s01-t09" type="Coxhead-AWL-1,AR-AWL-1b">significantly</t>
+                <t id="p09-s01-t10" type="Coxhead-AWL-2,AR-AWL-2a">affect</t>
+                <t id="p09-s01-t11">gait</t>
+                <t id="p09-s01-t12" type="GSL-1">characteristics</t>
+                <t id="p09-s01-t13">concordant</t>
+                <t id="p09-s01-t14" type="GSL-1">to</t>
+                <t id="p09-s01-t15">mobile</t>
+                <t id="p09-s01-t16" type="GSL-2">phone</t>
+                <t id="p09-s01-t17">usage</t>
+                <t id="p09-s01-t18" type="GSL-1">resulting</t>
+                <t id="p09-s01-t19" type="GSL-1">in</t>
+                <t id="p09-s01-t20" type="GSL-1">a</t>
+                <t id="p09-s01-t21" type="GSL-1">more</t>
+                <t id="p09-s01-t22" type="GSL-2">cautious</t>
+                <t id="p09-s01-t23">gait</t>
+                <t id="p09-s01-t24" type="GSL-2">pattern</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p09-s02">
+                <t id="p09-s02-t01" type="GSL-1">Future</t>
+                <t id="p09-s02-t02" type="Coxhead-AWL-1,AR-AWL-1b">research</t>
+                <t id="p09-s02-t03" type="GSL-1">should</t>
+                <t id="p09-s02-t04" type="GSL-1">also</t>
+                <t id="p09-s02-t05" type="GSL-2">examine</t>
+                <t id="p09-s02-t06" type="GSL-1">a</t>
+                <t id="p09-s02-t07" type="Coxhead-AWL-1,AR-AWL-1b">similar</t>
+                <t id="p09-s02-t08" type="GSL-1">study</t>
+                <t id="p09-s02-t09" type="GSL-1">in</t>
+                <t id="p09-s02-t10" type="GSL-1">older</t>
+                <t id="p09-s02-t11" type="Coxhead-AWL-2,AR-AWL-2b">participants</t>
+                <t id="p09-s02-t12" type="GSL-1">who</t>
+                <t id="p09-s02-t13" type="GSL-1">may</t>
+                <t id="p09-s02-t14" type="GSL-1">be</t>
+                <t id="p09-s02-t15" type="GSL-1">at</t>
+                <t id="p09-s02-t16" type="GSL-1">a</t>
+                <t id="p09-s02-t17" type="GSL-1">greater</t>
+                <t id="p09-s02-t18" type="GSL-2">risk</t>
+                <t id="p09-s02-t19" type="GSL-1">of</t>
+                <t id="p09-s02-t20" type="GSL-2">tripping</t>
+                <t id="p09-s02-t21" type="GSL-1">with</t>
+                <anaphor>
+                    <t id="p09-s02-t22" type="GSL-1">such</t>
+                    <t id="p09-s02-t23" type="GSL-1">walking</t>
+                    <t id="p09-s02-t24" type="Coxhead-AWL-8,AR-AWL-8a">deviations</t>
+                </anaphor>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
