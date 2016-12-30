@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<files>
+    <file name="accuracy-precision" path="../pipeline/5-detail-and-finish/in/accuracy-precision.xml"/>
+    <file name="algorithm" path="../pipeline/5-detail-and-finish/in/algorithm.xml"/>
+    <file name="antihistamines" path="../pipeline/5-detail-and-finish/in/algorithm.xml"/>
+    <file name="body-shape-index" path="../pipeline/5-detail-and-finish/in/body-shape-index.xml"/>
+    <file name="color-diffusion-online" path="../pipeline/5-detail-and-finish/in/color-diffusion-online.xml"/>
+    <file name="counting-and-motion" path="../pipeline/5-detail-and-finish/in/counting-and-motion.xml"/>
+    <file name="counting-and-motion2" path="../pipeline/5-detail-and-finish/in/counting-and-motion2.xml"/>
+    <file name="crows" path="../pipeline/5-detail-and-finish/in/crows.xml"/>
+    <file name="division-of-labor" path="../pipeline/5-detail-and-finish/in/division-of-labor.xml"/>
+    <file name="drones-for-specimen-transport" path="../pipeline/5-detail-and-finish/in/drones-for-specimen-transport.xml"/>
+    <file name="emoticons" path="../pipeline/5-detail-and-finish/in/emoticons.xml"/>
+    <file name="facebook1" path="../pipeline/5-detail-and-finish/in/facebook1.xml"/>
+    <file name="facebook2" path="../pipeline/5-detail-and-finish/in/facebook2.xml"/>
+    <file name="fashion" path="../pipeline/5-detail-and-finish/in/fashion.xml"/>
+    <file name="han-merchants" path="../pipeline/5-detail-and-finish/in/han-merchants.xml"/>
+    <file name="hawaiian-crows" path="../pipeline/5-detail-and-finish/in/hawaiian-crows.xml"/>
+    <file name="information-systems" path="../pipeline/5-detail-and-finish/in/information-systems.xml"/>
+    <file name="insulin" path="../pipeline/5-detail-and-finish/in/insulin.xml"/>
+    <file name="landslide" path="../pipeline/5-detail-and-finish/in/landslide.xml"/>
+    <file name="language-learning-obj" path="../pipeline/5-detail-and-finish/in/language-learning-obj.xml"/>
+    <file name="language-learning-subj" path="../pipeline/5-detail-and-finish/in/language-learning-subj.xml"/>
+    <file name="maria-mitchell" path="../pipeline/5-detail-and-finish/in/maria-mitchell.xml"/>
+    <file name="population-growth" path="../pipeline/5-detail-and-finish/in/population-growth.xml"/>
+    <file name="robot-feedback" path="../pipeline/5-detail-and-finish/in/robot-feedback.xml"/>
+    <file name="scope-of-biology" path="../pipeline/5-detail-and-finish/in/scope-of-biology.xml"/>
+    <file name="size-mass-illusion" path="../pipeline/5-detail-and-finish/in/size-mass-illusion.xml"/>
+    <file name="texting-and-walking" path="../pipeline/5-detail-and-finish/in/texting-and-walking.xml"/>
+    <file name="water-filters" path="../pipeline/5-detail-and-finish/in/water-filters.xml"/>
+</files>

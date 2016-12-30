@@ -20,7 +20,7 @@
 -->
 
 <!--- Put your DTDDoc comment here. -->
-<!ELEMENT document (title|citation|url|body)*>
+<!ELEMENT document (title,citation,url,info?,body)>
 
 <!--- Put your DTDDoc comment here. -->
 <!ELEMENT title (#PCDATA)>
@@ -30,6 +30,24 @@
 
 <!--- Put your DTDDoc comment here. -->
 <!ELEMENT url (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT info (arise-info)?>
+<!ATTLIST info
+    type (arise|science-news|other) #REQUIRED
+  >
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT arise-info EMPTY>
+<!ATTLIST arise-info
+    book CDATA #REQUIRED
+    section CDATA #IMPLIED
+    unit CDATA #IMPLIED
+    part CDATA #IMPLIED
+    item CDATA #IMPLIED
+    firstpage CDATA #REQUIRED
+    lastpage CDATA #IMPLIED
+  >
 
 <!--- Put your DTDDoc comment here. -->
 <!ELEMENT body (paragraph)*>

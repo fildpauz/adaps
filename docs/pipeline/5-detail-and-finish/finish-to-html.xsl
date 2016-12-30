@@ -372,18 +372,18 @@
                 <xsl:text>stylesheet</xsl:text>
             </xsl:attribute>
             <xsl:attribute name="href">
-                <xsl:text>http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css</xsl:text>
+                <xsl:text>//code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css</xsl:text>
             </xsl:attribute>
         </xsl:element>
         <xsl:element name="script">
             <xsl:attribute name="src">
-                <xsl:text>http://code.jquery.com/jquery-1.11.3.min.js</xsl:text>
+                <xsl:text>//code.jquery.com/jquery-1.11.3.min.js</xsl:text>
                 <!-- 				<xsl:text>https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js</xsl:text> -->
             </xsl:attribute>
         </xsl:element>
         <xsl:element name="script">
             <xsl:attribute name="src">
-                <xsl:text>http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js</xsl:text>
+                <xsl:text>//code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js</xsl:text>
             </xsl:attribute>
         </xsl:element>
         <xsl:element name="link">
