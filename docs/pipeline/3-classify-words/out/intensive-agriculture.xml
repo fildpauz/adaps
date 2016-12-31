@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Farming</title>
+    <citation>Simple English Wikipedia: “Farming”. Retrieved from http://simple.wikipedia.org/wiki/Farming on 21 Feb 2015.</citation>
+    <url>http://simple.wikipedia.org/wiki/Farming</url>
+    <info type="arise">
+        <arise-info book="1"
+                    section="2"
+                    unit="5"
+                    part="1"
+                    item="A"
+                    firstpage="24"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01" type="Coxhead-AWL-8,AR-AWL-8b">Intensive</t>
+                <t id="p01-s01-t02" type="GSL-2">agriculture</t>
+                <punc>(</punc>
+                <t id="p01-s01-t03" type="GSL-1">large</t>
+                <t id="p01-s01-t04">-</t>
+                <t id="p01-s01-t05" type="GSL-2">scale</t>
+                <t id="p01-s01-t06" type="GSL-1">farming</t>
+                <punc>)</punc>
+                <t id="p01-s01-t07" type="GSL-1">comes</t>
+                <t id="p01-s01-t08" type="GSL-1">with</t>
+                <t id="p01-s01-t09" type="GSL-1">its</t>
+                <t id="p01-s01-t10" type="GSL-1">own</t>
+                <t id="p01-s01-t11" type="GSL-1">set</t>
+                <t id="p01-s01-t12" type="GSL-1">of</t>
+                <t id="p01-s01-t13" type="GSL-1">problems</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01" type="GSL-1">Farmers</t>
+                <t id="p01-s02-t02" type="GSL-1">use</t>
+                <t id="p01-s02-t03" type="GSL-1">a</t>
+                <t id="p01-s02-t04" type="GSL-2">lot</t>
+                <t id="p01-s02-t05" type="GSL-1">of</t>
+                <t id="p01-s02-t06" type="Coxhead-AWL-7,AR-AWL-7a">chemical</t>
+                <t id="p01-s02-t07">fertilizers</t>
+                <punc>,</punc>
+                <t id="p01-s02-t08">pesticides</t>
+                <punc>(</punc>
+                <t id="p01-s02-t09" type="Coxhead-AWL-7,AR-AWL-7a">chemicals</t>
+                <t id="p01-s02-t10" type="GSL-1">that</t>
+                <t id="p01-s02-t11" type="GSL-1">kill</t>
+                <t id="p01-s02-t12">bugs</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p01-s02-t13" type="GSL-1">and</t>
+                <t id="p01-s02-t14">herbicides</t>
+                <punc>(</punc>
+                <t id="p01-s02-t15" type="Coxhead-AWL-7,AR-AWL-7a">chemicals</t>
+                <t id="p01-s02-t16" type="GSL-1">that</t>
+                <t id="p01-s02-t17" type="GSL-1">kill</t>
+                <t id="p01-s02-t18" type="GSL-2">weeds</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s03">
+                <t id="p01-s03-t01" type="GSL-1">These</t>
+                <t id="p01-s03-t02" type="Coxhead-AWL-7,AR-AWL-7a">chemicals</t>
+                <t id="p01-s03-t03" type="GSL-1">can</t>
+                <t id="p01-s03-t04">pollute</t>
+                <t id="p01-s03-t05" type="GSL-1">the</t>
+                <t id="p01-s03-t06" type="GSL-2">soil</t>
+                <t id="p01-s03-t07" type="GSL-1">or</t>
+                <t id="p01-s03-t08" type="GSL-1">the</t>
+                <t id="p01-s03-t09" type="GSL-1">water</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s04">
+                <t id="p01-s04-t01" type="GSL-1">They</t>
+                <t id="p01-s04-t02" type="GSL-1">can</t>
+                <t id="p01-s04-t03" type="GSL-1">also</t>
+                <t id="p01-s04-t04" type="Coxhead-AWL-1,AR-AWL-1a">create</t>
+                <t id="p01-s04-t05">bugs</t>
+                <t id="p01-s04-t06" type="GSL-1">and</t>
+                <t id="p01-s04-t07" type="GSL-2">weeds</t>
+                <t id="p01-s04-t08" type="GSL-1">that</t>
+                <t id="p01-s04-t09" type="GSL-1">are</t>
+                <t id="p01-s04-t10" type="GSL-1">more</t>
+                <t id="p01-s04-t11">resistant</t>
+                <t id="p01-s04-t12" type="GSL-1">to</t>
+                <t id="p01-s04-t13" type="GSL-1">the</t>
+                <t id="p01-s04-t14" type="Coxhead-AWL-7,AR-AWL-7a">chemicals</t>
+                <punc>,</punc>
+                <t id="p01-s04-t15" type="GSL-1">causing</t>
+                <t id="p01-s04-t16" type="GSL-1">outbreaks</t>
+                <t id="p01-s04-t17" type="GSL-1">of</t>
+                <t id="p01-s04-t18" type="GSL-1">these</t>
+                <t id="p01-s04-t19">pests</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s05">
+                <t id="p01-s05-t01" type="GSL-1">The</t>
+                <t id="p01-s05-t02" type="GSL-2">soil</t>
+                <t id="p01-s05-t03" type="GSL-1">can</t>
+                <t id="p01-s05-t04" type="GSL-1">be</t>
+                <t id="p01-s05-t05" type="GSL-2">damaged</t>
+                <t id="p01-s05-t06" type="GSL-1">by</t>
+                <t id="p01-s05-t07" type="Coxhead-AWL-9,AR-AWL-9a">erosion</t>
+                <punc>(</punc>
+                <t id="p01-s05-t08" type="GSL-1">blowing</t>
+                <t id="p01-s05-t09" type="GSL-1">or</t>
+                <t id="p01-s05-t10" type="GSL-2">washing</t>
+                <t id="p01-s05-t11" type="GSL-1">away</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p01-s05-t12" type="GSL-1">salt</t>
+                <t id="p01-s05-t13">buildup</t>
+                <punc>,</punc>
+                <t id="p01-s05-t14" type="GSL-1">or</t>
+                <t id="p01-s05-t15" type="GSL-1">loss</t>
+                <t id="p01-s05-t16" type="GSL-1">of</t>
+                <t id="p01-s05-t17" type="Coxhead-AWL-1,AR-AWL-1b">structure</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s06">
+                <t id="p01-s06-t01">Irrigation</t>
+                <punc>(</punc>
+                <t id="p01-s06-t02" type="GSL-1">adding</t>
+                <t id="p01-s06-t03" type="GSL-1">water</t>
+                <t id="p01-s06-t04" type="GSL-1">from</t>
+                <t id="p01-s06-t05" type="GSL-1">rivers</t>
+                <punc>)</punc>
+                <t id="p01-s06-t06" type="GSL-1">can</t>
+                <t id="p01-s06-t07">pollute</t>
+                <t id="p01-s06-t08" type="GSL-1">water</t>
+                <t id="p01-s06-t09" type="GSL-1">and</t>
+                <t id="p01-s06-t10" type="GSL-1">lower</t>
+                <t id="p01-s06-t11" type="GSL-1">the</t>
+                <t id="p01-s06-t12" type="GSL-1">water</t>
+                <t id="p01-s06-t13" type="GSL-1">table</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s07">
+                <t id="p01-s07-t01" type="GSL-1">These</t>
+                <t id="p01-s07-t02" type="GSL-1">problems</t>
+                <t id="p01-s07-t03" type="GSL-1">have</t>
+                <t id="p01-s07-t04" type="GSL-1">all</t>
+                <t id="p01-s07-t05" type="GSL-1">got</t>
+                <t id="p01-s07-t06" type="GSL-2">solutions</t>
+                <punc>,</punc>
+                <t id="p01-s07-t07" type="GSL-1">and</t>
+                <t id="p01-s07-t08" type="GSL-1">modern</t>
+                <t id="p01-s07-t09" type="GSL-1">young</t>
+                <t id="p01-s07-t10" type="GSL-1">farmers</t>
+                <t id="p01-s07-t11" type="GSL-1">usually</t>
+                <t id="p01-s07-t12" type="GSL-1">have</t>
+                <t id="p01-s07-t13" type="GSL-1">a</t>
+                <t id="p01-s07-t14" type="GSL-1">good</t>
+                <t id="p01-s07-t15" type="Coxhead-AWL-3,AR-AWL-3b">technical</t>
+                <t id="p01-s07-t16" type="GSL-2">education</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
