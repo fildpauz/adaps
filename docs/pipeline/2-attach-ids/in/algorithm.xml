@@ -1,819 +1,823 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
 <document>
-<title>Extract from Algorithm</title>
-<citation>Simple English Wikipedia: “Algorithm”. Retrieved from https://simple.wikipedia.org/wiki/Algorithm on 20 Aug 2015.</citation>
-<url>https://simple.wikipedia.org/wiki/Algorithm</url>
-<body>
-<paragraph>
-<sentence>
-<t>An</t>
-<t>algorithm</t>
-<t>is</t>
-<t>a</t>
-<t>step</t>
-<punc>-</punc>
-<t>by</t>
-<punc>-</punc>
-<t>step</t>
-<t>list</t>
-<t>of</t>
-<t>directions</t>
-<t>that</t>
-<t>need</t>
-<t>to</t>
-<t>be</t>
-<t>followed</t>
-<t>to</t>
-<t>solve</t>
-<t>a</t>
-<t>problem</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>The</t>
-<t>instructions</t>
-<t>should</t>
-<t>be</t>
-<t>simple</t>
-<t>enough</t>
-<t>such</t>
-<t>that</t>
-<t>each</t>
-<t>step</t>
-<t>can</t>
-<t>be</t>
-<t>done</t>
-<t>without</t>
-<t>thinking</t>
-<t>about</t>
-<t>it</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>Algorithms</t>
-<t>are</t>
-<t>often</t>
-<t>used</t>
-<t>to</t>
-<t>describe</t>
-<t>how</t>
-<t>a</t>
-<t>computer</t>
-<t>might</t>
-<t>solve</t>
-<t>a</t>
-<t>problem</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>But</t>
-<t>there</t>
-<t>are</t>
-<t>algorithms</t>
-<t>in</t>
-<t>the</t>
-<t>real</t>
-<t>world</t>
-<t>too</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>A</t>
-<t>recipe</t>
-<t>can</t>
-<t>be</t>
-<t>considered</t>
-<t>a</t>
-<t>type</t>
-<t>of</t>
-<t>algorithm</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>It</t>
-<t>tells</t>
-<t>what</t>
-<t>ingredients</t>
-<t>are</t>
-<t>needed</t>
-<t>to</t>
-<t>make</t>
-<t>the</t>
-<t>dish</t>
-<t>and</t>
-<t>what</t>
-<t>steps</t>
-<t>to</t>
-<t>follow</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>If</t>
-<t>the</t>
-<t>recipe</t>
-<t>tells</t>
-<t>exactly</t>
-<t>what</t>
-<t>to</t>
-<t>do</t>
-<t>without</t>
-<t>too</t>
-<t>much</t>
-<t>confusion</t>
-<punc>,</punc>
-<t>then</t>
-<t>it</t>
-<t>is</t>
-<t>an</t>
-<t>algorithm</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph>
-<sentence>
-<t>Comparing</t>
-<t>algorithms</t>
-</sentence>
-</paragraph>
-<paragraph>
-<sentence>
-<t>There</t>
-<t>is</t>
-<t>usually</t>
-<t>more</t>
-<t>than</t>
-<t>one</t>
-<t>way</t>
-<t>to</t>
-<t>solve</t>
-<t>a</t>
-<t>problem</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>There</t>
-<t>may</t>
-<t>be</t>
-<t>many</t>
-<t>different</t>
-<t>recipes</t>
-<t>to</t>
-<t>make</t>
-<t>a</t>
-<t>certain</t>
-<t>dish</t>
-<t>which</t>
-<t>looks</t>
-<t>different</t>
-<t>but</t>
-<t>ends</t>
-<t>up</t>
-<t>tasting</t>
-<t>the</t>
-<t>same</t>
-<t>when</t>
-<t>all</t>
-<t>is</t>
-<t>said</t>
-<t>and</t>
-<t>done</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>The</t>
-<t>same</t>
-<t>is</t>
-<t>true</t>
-<t>for</t>
-<t>algorithms</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>However</t>
-<punc>,</punc>
-<t>some</t>
-<t>of</t>
-<t>these</t>
-<t>ways</t>
-<t>will</t>
-<t>be</t>
-<t>better</t>
-<t>than</t>
-<t>others</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>If</t>
-<t>a</t>
-<t>recipe</t>
-<t>needs</t>
-<t>lots</t>
-<t>of</t>
-<t>complicated</t>
-<t>ingredients</t>
-<t>that</t>
-<t>you</t>
-<t>do</t>
-<t>not</t>
-<t>have</t>
-<punc>,</punc>
-<t>it</t>
-<t>is</t>
-<t>not</t>
-<t>as</t>
-<t>a</t>
-<t>good</t>
-<t>as</t>
-<t>a</t>
-<t>simple</t>
-<t>recipe</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>When</t>
-<t>we</t>
-<t>look</t>
-<t>at</t>
-<t>algorithms</t>
-<t>as</t>
-<t>a</t>
-<t>way</t>
-<t>of</t>
-<t>solving</t>
-<t>problems</t>
-<punc>,</punc>
-<t>often</t>
-<t>we</t>
-<t>want</t>
-<t>to</t>
-<t>know</t>
-<t>how</t>
-<t>long</t>
-<t>it</t>
-<t>would</t>
-<t>take</t>
-<t>a</t>
-<t>computer</t>
-<t>to</t>
-<t>solve</t>
-<t>the</t>
-<t>problem</t>
-<t>using</t>
-<t>a</t>
-<t>particular</t>
-<t>algorithm</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>When</t>
-<t>we</t>
-<t>write</t>
-<t>algorithms</t>
-<punc>,</punc>
-<t>we</t>
-<t>like</t>
-<t>our</t>
-<t>algorithm</t>
-<t>to</t>
-<t>take</t>
-<t>the</t>
-<t>least</t>
-<t>amount</t>
-<t>of</t>
-<t>time</t>
-<t>so</t>
-<t>that</t>
-<t>we</t>
-<t>can</t>
-<t>solve</t>
-<t>our</t>
-<t>problem</t>
-<t>as</t>
-<t>quickly</t>
-<t>as</t>
-<t>possible</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph>
-<sentence>
-<t>In</t>
-<t>cooking</t>
-<punc>,</punc>
-<t>some</t>
-<t>recipes</t>
-<t>are</t>
-<t>more</t>
-<t>difficult</t>
-<t>to</t>
-<t>do</t>
-<t>than</t>
-<t>others</t>
-<punc>,</punc>
-<t>because</t>
-<t>they</t>
-<t>take</t>
-<t>more</t>
-<t>time</t>
-<t>to</t>
-<t>finish</t>
-<t>or</t>
-<t>have</t>
-<t>more</t>
-<t>things</t>
-<t>to</t>
-<t>keep</t>
-<t>track</t>
-<t>of</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>It</t>
-<t>is</t>
-<t>the</t>
-<t>same</t>
-<t>for</t>
-<t>algorithms</t>
-<punc>,</punc>
-<t>and</t>
-<t>algorithms</t>
-<t>are</t>
-<t>better</t>
-<t>when</t>
-<t>they</t>
-<t>are</t>
-<t>easier</t>
-<t>for</t>
-<t>the</t>
-<t>computer</t>
-<t>to</t>
-<t>do</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>The</t>
-<t>thing</t>
-<t>that</t>
-<t>measures</t>
-<t>how</t>
-<t>hard</t>
-<t>an</t>
-<t>algorithm</t>
-<t>is</t>
-<t>called</t>
-<t>complexity</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>When</t>
-<t>we</t>
-<t>ask</t>
-<t>how</t>
-<t>complex</t>
-<t>an</t>
-<t>algorithm</t>
-<t>is</t>
-<punc>,</punc>
-<t>often</t>
-<t>we</t>
-<t>want</t>
-<t>to</t>
-<t>know</t>
-<t>how</t>
-<t>long</t>
-<t>it</t>
-<t>will</t>
-<t>take</t>
-<t>a</t>
-<t>computer</t>
-<t>to</t>
-<t>solve</t>
-<t>the</t>
-<t>problem</t>
-<t>we</t>
-<t>want</t>
-<t>it</t>
-<t>to</t>
-<t>solve</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph>
-<sentence>
-<t>Sorting</t>
-<t>by</t>
-<t>numbers</t>
-</sentence>
-</paragraph>
-<paragraph>
-<sentence>
-<t>This</t>
-<t>is</t>
-<t>an</t>
-<t>example</t>
-<t>of</t>
-<t>an</t>
-<t>algorithm</t>
-<t>for</t>
-<t>sorting</t>
-<t>a</t>
-<t>stack</t>
-<t>of</t>
-<t>cards</t>
-<t>with</t>
-<t>many</t>
-<t>different</t>
-<t>numbers</t>
-<punc>,</punc>
-<t>so</t>
-<t>that</t>
-<t>the</t>
-<t>numbers</t>
-<t>are</t>
-<t>in</t>
-<t>order</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph>
-<sentence>
-<t>Players</t>
-<t>start</t>
-<t>with</t>
-<t>a</t>
-<t>stack</t>
-<t>of</t>
-<t>cards</t>
-<t>that</t>
-<t>have</t>
-<t>not</t>
-<t>been</t>
-<t>sorted</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph>
-<sentence>
-<t>This</t>
-<t>algorithm</t>
-<t>goes</t>
-<t>through</t>
-<t>the</t>
-<t>stack</t>
-<t>of</t>
-<t>cards</t>
-<punc>,</punc>
-<t>one</t>
-<t>position</t>
-<t>at</t>
-<t>a</t>
-<t>time</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>The</t>
-<t>card</t>
-<t>in</t>
-<t>each</t>
-<t>position</t>
-<t>is</t>
-<t>compared</t>
-<t>to</t>
-<t>the</t>
-<t>next</t>
-<t>card</t>
-<t>in</t>
-<t>the</t>
-<t>stack</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>Please</t>
-<t>note</t>
-<t>that</t>
-<t>this</t>
-<t>position</t>
-<t>only</t>
-<t>changes</t>
-<t>in</t>
-<t>step</t>
-<t>3</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>This</t>
-<t>algorithm</t>
-<t>is</t>
-<t>called</t>
-<t>bubble</t>
-<t>sort</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>It</t>
-<t>is</t>
-<t>slow</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>1</t>
-<punc>.</punc>
-<t>If</t>
-<t>the</t>
-<t>stack</t>
-<t>of</t>
-<t>cards</t>
-<t>is</t>
-<t>empty</t>
-<punc>,</punc>
-<t>or</t>
-<t>it</t>
-<t>only</t>
-<t>contains</t>
-<t>one</t>
-<t>card</t>
-<punc>,</punc>
-<t>it</t>
-<t>is</t>
-<t>sorted</t>
-<punc>;</punc>
-<t>you</t>
-<t>are</t>
-<t>done</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>2</t>
-<punc>.</punc>
-<t>Take</t>
-<t>the</t>
-<t>stack</t>
-<t>of</t>
-<t>cards</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>Look</t>
-<t>at</t>
-<t>the</t>
-<t>first</t>
-<t>card</t>
-<punc>(</punc>
-<t>the</t>
-<t>top</t>
-<punc>)</punc>
-<t>of</t>
-<t>the</t>
-<t>stack</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>3</t>
-<punc>.</punc>
-<t>The</t>
-<t>card</t>
-<t>you</t>
-<t>are</t>
-<t>looking</t>
-<t>at</t>
-<t>is</t>
-<t>card</t>
-<t>A</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>The</t>
-<t>position</t>
-<t>where</t>
-<t>card</t>
-<t>A</t>
-<t>currently</t>
-<t>is</t>
-<t>in</t>
-<t>the</t>
-<t>stack</t>
-<t>is</t>
-<t>P</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>4</t>
-<punc>.</punc>
-<t>If</t>
-<t>there</t>
-<t>are</t>
-<t>no</t>
-<t>more</t>
-<t>cards</t>
-<t>in</t>
-<t>the</t>
-<t>stack</t>
-<t>after</t>
-<t>card</t>
-<t>A</t>
-<punc>,</punc>
-<t>go</t>
-<t>to</t>
-<t>step</t>
-<t>8</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>5</t>
-<punc>.</punc>
-<t>The</t>
-<t>next</t>
-<t>card</t>
-<t>in</t>
-<t>the</t>
-<t>stack</t>
-<t>is</t>
-<t>card</t>
-<t>B</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>6</t>
-<punc>.</punc>
-<t>If</t>
-<t>card</t>
-<t>B</t>
-<t>has</t>
-<t>a</t>
-<t>lower</t>
-<t>number</t>
-<t>than</t>
-<t>card</t>
-<t>A</t>
-<punc>,</punc>
-<t>swap</t>
-<t>the</t>
-<t>positions</t>
-<t>of</t>
-<t>cards</t>
-<t>A</t>
-<t>and</t>
-<t>B</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>Remember</t>
-<t>you</t>
-<t>did</t>
-<t>this</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>When</t>
-<t>you</t>
-<t>swap</t>
-<t>cards</t>
-<punc>,</punc>
-<t>do</t>
-<t>not</t>
-<t>change</t>
-<t>the</t>
-<t>position</t>
-<t>P</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>7</t>
-<punc>.</punc>
-<t>If</t>
-<t>there</t>
-<t>is</t>
-<t>another</t>
-<t>card</t>
-<t>in</t>
-<t>the</t>
-<t>stack</t>
-<t>after</t>
-<t>position</t>
-<t>P</t>
-<punc>,</punc>
-<t>look</t>
-<t>at</t>
-<t>it</t>
-<punc>;</punc>
-<t>go</t>
-<t>back</t>
-<t>to</t>
-<t>step</t>
-<t>3</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>8</t>
-<punc>.</punc>
-<t>If</t>
-<t>you</t>
-<t>did</t>
-<t>not</t>
-<t>swap</t>
-<t>the</t>
-<t>position</t>
-<t>of</t>
-<t>any</t>
-<t>cards</t>
-<t>in</t>
-<t>the</t>
-<t>last</t>
-<t>run</t>
-<punc>,</punc>
-<t>you</t>
-<t>are</t>
-<t>done</t>
-<punc>;</punc>
-<t>the</t>
-<t>stack</t>
-<t>of</t>
-<t>cards</t>
-<t>is</t>
-<t>sorted</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>Otherwise</t>
-<t>go</t>
-<t>back</t>
-<t>to</t>
-<t>step</t>
-<t>2</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph>
-<sentence>
-<t>This</t>
-<t>is</t>
-<t>an</t>
-<t>easy</t>
-<punc>-</punc>
-<t>to</t>
-<punc>-</punc>
-<t>understand</t>
-<t>algorithm</t>
-<t>for</t>
-<t>sorting</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>Computer</t>
-<t>scientists</t>
-<t>called</t>
-<t>it</t>
-<t>Bubble</t>
-<t>sort</t>
-<punc>,</punc>
-<t>because</t>
-<t>smaller</t>
-<t>elements</t>
-<t>will</t>
-<t>rise</t>
-<t>to</t>
-<t>the</t>
-<t>top</t>
-<punc>,</punc>
-<t>changing</t>
-<t>their</t>
-<t>position</t>
-<t>in</t>
-<t>each</t>
-<t>run</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>Unfortunately</t>
-<punc>,</punc>
-<t>the</t>
-<t>algorithm</t>
-<t>is</t>
-<t>not</t>
-<t>very</t>
-<t>good</t>
-<punc>,</punc>
-<t>because</t>
-<t>it</t>
-<t>needs</t>
-<t>a</t>
-<t>long</t>
-<t>time</t>
-<punc>(</punc>
-<t>many</t>
-<t>passes</t>
-<t>through</t>
-<t>the</t>
-<t>stack</t>
-<t>of</t>
-<t>cards</t>
-<punc>)</punc>
-<t>to</t>
-<t>sort</t>
-<t>it</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-</body>
+    <title>Extract from Algorithm</title>
+    <citation>Simple English Wikipedia: “Algorithm”. Retrieved from https://simple.wikipedia.org/wiki/Algorithm on 20 Aug 2015.</citation>
+    <url>https://simple.wikipedia.org/wiki/Algorithm</url>
+    <info type="arise">
+        <arise-info book="2" section="4" unit="3" firstpage="56"/>
+    </info>
+    info>
+    <body>
+        <paragraph>
+            <sentence>
+                <t>An</t>
+                <t>algorithm</t>
+                <t>is</t>
+                <t>a</t>
+                <t>step</t>
+                <punc>-</punc>
+                <t>by</t>
+                <punc>-</punc>
+                <t>step</t>
+                <t>list</t>
+                <t>of</t>
+                <t>directions</t>
+                <t>that</t>
+                <t>need</t>
+                <t>to</t>
+                <t>be</t>
+                <t>followed</t>
+                <t>to</t>
+                <t>solve</t>
+                <t>a</t>
+                <t>problem</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>The</t>
+                <t>instructions</t>
+                <t>should</t>
+                <t>be</t>
+                <t>simple</t>
+                <t>enough</t>
+                <t>such</t>
+                <t>that</t>
+                <t>each</t>
+                <t>step</t>
+                <t>can</t>
+                <t>be</t>
+                <t>done</t>
+                <t>without</t>
+                <t>thinking</t>
+                <t>about</t>
+                <t>it</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Algorithms</t>
+                <t>are</t>
+                <t>often</t>
+                <t>used</t>
+                <t>to</t>
+                <t>describe</t>
+                <t>how</t>
+                <t>a</t>
+                <t>computer</t>
+                <t>might</t>
+                <t>solve</t>
+                <t>a</t>
+                <t>problem</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>But</t>
+                <t>there</t>
+                <t>are</t>
+                <t>algorithms</t>
+                <t>in</t>
+                <t>the</t>
+                <t>real</t>
+                <t>world</t>
+                <t>too</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>A</t>
+                <t>recipe</t>
+                <t>can</t>
+                <t>be</t>
+                <t>considered</t>
+                <t>a</t>
+                <t>type</t>
+                <t>of</t>
+                <t>algorithm</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>It</t>
+                <t>tells</t>
+                <t>what</t>
+                <t>ingredients</t>
+                <t>are</t>
+                <t>needed</t>
+                <t>to</t>
+                <t>make</t>
+                <t>the</t>
+                <t>dish</t>
+                <t>and</t>
+                <t>what</t>
+                <t>steps</t>
+                <t>to</t>
+                <t>follow</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>If</t>
+                <t>the</t>
+                <t>recipe</t>
+                <t>tells</t>
+                <t>exactly</t>
+                <t>what</t>
+                <t>to</t>
+                <t>do</t>
+                <t>without</t>
+                <t>too</t>
+                <t>much</t>
+                <t>confusion</t>
+                <punc>,</punc>
+                <t>then</t>
+                <t>it</t>
+                <t>is</t>
+                <t>an</t>
+                <t>algorithm</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph>
+            <sentence>
+                <t>Comparing</t>
+                <t>algorithms</t>
+            </sentence>
+        </paragraph>
+        <paragraph>
+            <sentence>
+                <t>There</t>
+                <t>is</t>
+                <t>usually</t>
+                <t>more</t>
+                <t>than</t>
+                <t>one</t>
+                <t>way</t>
+                <t>to</t>
+                <t>solve</t>
+                <t>a</t>
+                <t>problem</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>There</t>
+                <t>may</t>
+                <t>be</t>
+                <t>many</t>
+                <t>different</t>
+                <t>recipes</t>
+                <t>to</t>
+                <t>make</t>
+                <t>a</t>
+                <t>certain</t>
+                <t>dish</t>
+                <t>which</t>
+                <t>looks</t>
+                <t>different</t>
+                <t>but</t>
+                <t>ends</t>
+                <t>up</t>
+                <t>tasting</t>
+                <t>the</t>
+                <t>same</t>
+                <t>when</t>
+                <t>all</t>
+                <t>is</t>
+                <t>said</t>
+                <t>and</t>
+                <t>done</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>The</t>
+                <t>same</t>
+                <t>is</t>
+                <t>true</t>
+                <t>for</t>
+                <t>algorithms</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>However</t>
+                <punc>,</punc>
+                <t>some</t>
+                <t>of</t>
+                <t>these</t>
+                <t>ways</t>
+                <t>will</t>
+                <t>be</t>
+                <t>better</t>
+                <t>than</t>
+                <t>others</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>If</t>
+                <t>a</t>
+                <t>recipe</t>
+                <t>needs</t>
+                <t>lots</t>
+                <t>of</t>
+                <t>complicated</t>
+                <t>ingredients</t>
+                <t>that</t>
+                <t>you</t>
+                <t>do</t>
+                <t>not</t>
+                <t>have</t>
+                <punc>,</punc>
+                <t>it</t>
+                <t>is</t>
+                <t>not</t>
+                <t>as</t>
+                <t>a</t>
+                <t>good</t>
+                <t>as</t>
+                <t>a</t>
+                <t>simple</t>
+                <t>recipe</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>When</t>
+                <t>we</t>
+                <t>look</t>
+                <t>at</t>
+                <t>algorithms</t>
+                <t>as</t>
+                <t>a</t>
+                <t>way</t>
+                <t>of</t>
+                <t>solving</t>
+                <t>problems</t>
+                <punc>,</punc>
+                <t>often</t>
+                <t>we</t>
+                <t>want</t>
+                <t>to</t>
+                <t>know</t>
+                <t>how</t>
+                <t>long</t>
+                <t>it</t>
+                <t>would</t>
+                <t>take</t>
+                <t>a</t>
+                <t>computer</t>
+                <t>to</t>
+                <t>solve</t>
+                <t>the</t>
+                <t>problem</t>
+                <t>using</t>
+                <t>a</t>
+                <t>particular</t>
+                <t>algorithm</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>When</t>
+                <t>we</t>
+                <t>write</t>
+                <t>algorithms</t>
+                <punc>,</punc>
+                <t>we</t>
+                <t>like</t>
+                <t>our</t>
+                <t>algorithm</t>
+                <t>to</t>
+                <t>take</t>
+                <t>the</t>
+                <t>least</t>
+                <t>amount</t>
+                <t>of</t>
+                <t>time</t>
+                <t>so</t>
+                <t>that</t>
+                <t>we</t>
+                <t>can</t>
+                <t>solve</t>
+                <t>our</t>
+                <t>problem</t>
+                <t>as</t>
+                <t>quickly</t>
+                <t>as</t>
+                <t>possible</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph>
+            <sentence>
+                <t>In</t>
+                <t>cooking</t>
+                <punc>,</punc>
+                <t>some</t>
+                <t>recipes</t>
+                <t>are</t>
+                <t>more</t>
+                <t>difficult</t>
+                <t>to</t>
+                <t>do</t>
+                <t>than</t>
+                <t>others</t>
+                <punc>,</punc>
+                <t>because</t>
+                <t>they</t>
+                <t>take</t>
+                <t>more</t>
+                <t>time</t>
+                <t>to</t>
+                <t>finish</t>
+                <t>or</t>
+                <t>have</t>
+                <t>more</t>
+                <t>things</t>
+                <t>to</t>
+                <t>keep</t>
+                <t>track</t>
+                <t>of</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>It</t>
+                <t>is</t>
+                <t>the</t>
+                <t>same</t>
+                <t>for</t>
+                <t>algorithms</t>
+                <punc>,</punc>
+                <t>and</t>
+                <t>algorithms</t>
+                <t>are</t>
+                <t>better</t>
+                <t>when</t>
+                <t>they</t>
+                <t>are</t>
+                <t>easier</t>
+                <t>for</t>
+                <t>the</t>
+                <t>computer</t>
+                <t>to</t>
+                <t>do</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>The</t>
+                <t>thing</t>
+                <t>that</t>
+                <t>measures</t>
+                <t>how</t>
+                <t>hard</t>
+                <t>an</t>
+                <t>algorithm</t>
+                <t>is</t>
+                <t>called</t>
+                <t>complexity</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>When</t>
+                <t>we</t>
+                <t>ask</t>
+                <t>how</t>
+                <t>complex</t>
+                <t>an</t>
+                <t>algorithm</t>
+                <t>is</t>
+                <punc>,</punc>
+                <t>often</t>
+                <t>we</t>
+                <t>want</t>
+                <t>to</t>
+                <t>know</t>
+                <t>how</t>
+                <t>long</t>
+                <t>it</t>
+                <t>will</t>
+                <t>take</t>
+                <t>a</t>
+                <t>computer</t>
+                <t>to</t>
+                <t>solve</t>
+                <t>the</t>
+                <t>problem</t>
+                <t>we</t>
+                <t>want</t>
+                <t>it</t>
+                <t>to</t>
+                <t>solve</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph>
+            <sentence>
+                <t>Sorting</t>
+                <t>by</t>
+                <t>numbers</t>
+            </sentence>
+        </paragraph>
+        <paragraph>
+            <sentence>
+                <t>This</t>
+                <t>is</t>
+                <t>an</t>
+                <t>example</t>
+                <t>of</t>
+                <t>an</t>
+                <t>algorithm</t>
+                <t>for</t>
+                <t>sorting</t>
+                <t>a</t>
+                <t>stack</t>
+                <t>of</t>
+                <t>cards</t>
+                <t>with</t>
+                <t>many</t>
+                <t>different</t>
+                <t>numbers</t>
+                <punc>,</punc>
+                <t>so</t>
+                <t>that</t>
+                <t>the</t>
+                <t>numbers</t>
+                <t>are</t>
+                <t>in</t>
+                <t>order</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph>
+            <sentence>
+                <t>Players</t>
+                <t>start</t>
+                <t>with</t>
+                <t>a</t>
+                <t>stack</t>
+                <t>of</t>
+                <t>cards</t>
+                <t>that</t>
+                <t>have</t>
+                <t>not</t>
+                <t>been</t>
+                <t>sorted</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph>
+            <sentence>
+                <t>This</t>
+                <t>algorithm</t>
+                <t>goes</t>
+                <t>through</t>
+                <t>the</t>
+                <t>stack</t>
+                <t>of</t>
+                <t>cards</t>
+                <punc>,</punc>
+                <t>one</t>
+                <t>position</t>
+                <t>at</t>
+                <t>a</t>
+                <t>time</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>The</t>
+                <t>card</t>
+                <t>in</t>
+                <t>each</t>
+                <t>position</t>
+                <t>is</t>
+                <t>compared</t>
+                <t>to</t>
+                <t>the</t>
+                <t>next</t>
+                <t>card</t>
+                <t>in</t>
+                <t>the</t>
+                <t>stack</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Please</t>
+                <t>note</t>
+                <t>that</t>
+                <t>this</t>
+                <t>position</t>
+                <t>only</t>
+                <t>changes</t>
+                <t>in</t>
+                <t>step</t>
+                <t>3</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>This</t>
+                <t>algorithm</t>
+                <t>is</t>
+                <t>called</t>
+                <t>bubble</t>
+                <t>sort</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>It</t>
+                <t>is</t>
+                <t>slow</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>1</t>
+                <punc>.</punc>
+                <t>If</t>
+                <t>the</t>
+                <t>stack</t>
+                <t>of</t>
+                <t>cards</t>
+                <t>is</t>
+                <t>empty</t>
+                <punc>,</punc>
+                <t>or</t>
+                <t>it</t>
+                <t>only</t>
+                <t>contains</t>
+                <t>one</t>
+                <t>card</t>
+                <punc>,</punc>
+                <t>it</t>
+                <t>is</t>
+                <t>sorted</t>
+                <punc>;</punc>
+                <t>you</t>
+                <t>are</t>
+                <t>done</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>2</t>
+                <punc>.</punc>
+                <t>Take</t>
+                <t>the</t>
+                <t>stack</t>
+                <t>of</t>
+                <t>cards</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Look</t>
+                <t>at</t>
+                <t>the</t>
+                <t>first</t>
+                <t>card</t>
+                <punc>(</punc>
+                <t>the</t>
+                <t>top</t>
+                <punc>)</punc>
+                <t>of</t>
+                <t>the</t>
+                <t>stack</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>3</t>
+                <punc>.</punc>
+                <t>The</t>
+                <t>card</t>
+                <t>you</t>
+                <t>are</t>
+                <t>looking</t>
+                <t>at</t>
+                <t>is</t>
+                <t>card</t>
+                <t>A</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>The</t>
+                <t>position</t>
+                <t>where</t>
+                <t>card</t>
+                <t>A</t>
+                <t>currently</t>
+                <t>is</t>
+                <t>in</t>
+                <t>the</t>
+                <t>stack</t>
+                <t>is</t>
+                <t>P</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>4</t>
+                <punc>.</punc>
+                <t>If</t>
+                <t>there</t>
+                <t>are</t>
+                <t>no</t>
+                <t>more</t>
+                <t>cards</t>
+                <t>in</t>
+                <t>the</t>
+                <t>stack</t>
+                <t>after</t>
+                <t>card</t>
+                <t>A</t>
+                <punc>,</punc>
+                <t>go</t>
+                <t>to</t>
+                <t>step</t>
+                <t>8</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>5</t>
+                <punc>.</punc>
+                <t>The</t>
+                <t>next</t>
+                <t>card</t>
+                <t>in</t>
+                <t>the</t>
+                <t>stack</t>
+                <t>is</t>
+                <t>card</t>
+                <t>B</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>6</t>
+                <punc>.</punc>
+                <t>If</t>
+                <t>card</t>
+                <t>B</t>
+                <t>has</t>
+                <t>a</t>
+                <t>lower</t>
+                <t>number</t>
+                <t>than</t>
+                <t>card</t>
+                <t>A</t>
+                <punc>,</punc>
+                <t>swap</t>
+                <t>the</t>
+                <t>positions</t>
+                <t>of</t>
+                <t>cards</t>
+                <t>A</t>
+                <t>and</t>
+                <t>B</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Remember</t>
+                <t>you</t>
+                <t>did</t>
+                <t>this</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>When</t>
+                <t>you</t>
+                <t>swap</t>
+                <t>cards</t>
+                <punc>,</punc>
+                <t>do</t>
+                <t>not</t>
+                <t>change</t>
+                <t>the</t>
+                <t>position</t>
+                <t>P</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>7</t>
+                <punc>.</punc>
+                <t>If</t>
+                <t>there</t>
+                <t>is</t>
+                <t>another</t>
+                <t>card</t>
+                <t>in</t>
+                <t>the</t>
+                <t>stack</t>
+                <t>after</t>
+                <t>position</t>
+                <t>P</t>
+                <punc>,</punc>
+                <t>look</t>
+                <t>at</t>
+                <t>it</t>
+                <punc>;</punc>
+                <t>go</t>
+                <t>back</t>
+                <t>to</t>
+                <t>step</t>
+                <t>3</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>8</t>
+                <punc>.</punc>
+                <t>If</t>
+                <t>you</t>
+                <t>did</t>
+                <t>not</t>
+                <t>swap</t>
+                <t>the</t>
+                <t>position</t>
+                <t>of</t>
+                <t>any</t>
+                <t>cards</t>
+                <t>in</t>
+                <t>the</t>
+                <t>last</t>
+                <t>run</t>
+                <punc>,</punc>
+                <t>you</t>
+                <t>are</t>
+                <t>done</t>
+                <punc>;</punc>
+                <t>the</t>
+                <t>stack</t>
+                <t>of</t>
+                <t>cards</t>
+                <t>is</t>
+                <t>sorted</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Otherwise</t>
+                <t>go</t>
+                <t>back</t>
+                <t>to</t>
+                <t>step</t>
+                <t>2</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph>
+            <sentence>
+                <t>This</t>
+                <t>is</t>
+                <t>an</t>
+                <t>easy</t>
+                <punc>-</punc>
+                <t>to</t>
+                <punc>-</punc>
+                <t>understand</t>
+                <t>algorithm</t>
+                <t>for</t>
+                <t>sorting</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Computer</t>
+                <t>scientists</t>
+                <t>called</t>
+                <t>it</t>
+                <t>Bubble</t>
+                <t>sort</t>
+                <punc>,</punc>
+                <t>because</t>
+                <t>smaller</t>
+                <t>elements</t>
+                <t>will</t>
+                <t>rise</t>
+                <t>to</t>
+                <t>the</t>
+                <t>top</t>
+                <punc>,</punc>
+                <t>changing</t>
+                <t>their</t>
+                <t>position</t>
+                <t>in</t>
+                <t>each</t>
+                <t>run</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Unfortunately</t>
+                <punc>,</punc>
+                <t>the</t>
+                <t>algorithm</t>
+                <t>is</t>
+                <t>not</t>
+                <t>very</t>
+                <t>good</t>
+                <punc>,</punc>
+                <t>because</t>
+                <t>it</t>
+                <t>needs</t>
+                <t>a</t>
+                <t>long</t>
+                <t>time</t>
+                <punc>(</punc>
+                <t>many</t>
+                <t>passes</t>
+                <t>through</t>
+                <t>the</t>
+                <t>stack</t>
+                <t>of</t>
+                <t>cards</t>
+                <punc>)</punc>
+                <t>to</t>
+                <t>sort</t>
+                <t>it</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
 </document>

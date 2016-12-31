@@ -5,6 +5,9 @@
     <citation>Schwartz HA, Eichstaedt JC, Kern ML, Dziurzynski L, Ramones SM, et al. (2013) Personality, Gender, and Age in the Language of Social Media: The Open-Vocabulary Approach. PLoS ONE 8(9): e73791. doi:10.1371/journal.pone. 0073791
         Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0073791 on 07 Dec 2016.</citation>
     <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0073791</url>
+    <info type="arise">
+        <arise-info book="2" section="2" unit="7" part="1" item="B" firstpage="32"/>
+    </info>
     <body>
         <paragraph id="p01">
             <sentence id="p01-s01">
@@ -17,16 +20,16 @@
                 <punc>.</punc>
             </sentence>
             <sentence id="p01-s02">
-			<connector>
-                <t id="p01-s02-t01" type="GSL-1">For</t>
-                <t id="p01-s02-t02" type="GSL-1">example</t>
-				</connector>
+                <connector>
+                    <t id="p01-s02-t01" type="GSL-1">For</t>
+                    <t id="p01-s02-t02" type="GSL-1">example</t>
+                </connector>
                 <punc>,</punc>
                 <t id="p01-s02-t03" type="GSL-2">multiple</t>
                 <t id="p01-s02-t04" type="GSL-1">studies</t>
-				<connector>
-                <t id="p01-s02-t05" type="GSL-1">report</t>
-				</connector>
+                <connector>
+                    <t id="p01-s02-t05" type="GSL-1">report</t>
+                </connector>
                 <t id="p01-s02-t06" type="GSL-1">that</t>
                 <t id="p01-s02-t07">emoticons</t>
                 <punc>(</punc>
@@ -52,18 +55,18 @@
                 <t id="p01-s02-t19">38</t>
                 <punc>]</punc>
                 <punc>,</punc>
-				<connector>
-                <t id="p01-s02-t20" type="GSL-1">but</t>
-				</connector>
+                <connector>
+                    <t id="p01-s02-t20" type="GSL-1">but</t>
+                </connector>
                 <t id="p01-s02-t21">Huffaker</t>
                 <t id="p01-s02-t22">&amp;</t>
                 <t id="p01-s02-t23">Calvert</t>
                 <t id="p01-s02-t24" type="Coxhead-AWL-9,AR-AWL-9a">found</t>
                 <t id="p01-s02-t25" type="GSL-2">males</t>
                 <t id="p01-s02-t26" type="GSL-1">use</t>
-				<anaphor>
-                <t id="p01-s02-t27" type="GSL-1">them</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p01-s02-t27" type="GSL-1">them</t>
+                </anaphor>
                 <t id="p01-s02-t28" type="GSL-1">more</t>
                 <t id="p01-s02-t29" type="GSL-1">in</t>
                 <t id="p01-s02-t30" type="GSL-1">a</t>
@@ -78,11 +81,11 @@
                 <punc>.</punc>
             </sentence>
             <sentence id="p01-s03">
-			<anaphor>
-                <t id="p01-s03-t01" type="GSL-1">This</t>
-                <t id="p01-s03-t02" type="GSL-1">particular</t>
-                <t id="p01-s03-t03">discrepancy</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p01-s03-t01" type="GSL-1">This</t>
+                    <t id="p01-s03-t02" type="GSL-1">particular</t>
+                    <t id="p01-s03-t03">discrepancy</t>
+                </anaphor>
                 <t id="p01-s03-t04" type="GSL-1">could</t>
                 <t id="p01-s03-t05" type="GSL-1">be</t>
                 <t id="p01-s03-t06" type="GSL-2">sample</t>
@@ -108,10 +111,10 @@
                 <t id="p01-s03-t22">bloggers</t>
                 <punc>,</punc>
                 <t id="p01-s03-t23" type="GSL-1">while</t>
-				<anaphor>
-                <t id="p01-s03-t24" type="GSL-1">later</t>
-                <t id="p01-s03-t25" type="GSL-1">studies</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p01-s03-t24" type="GSL-1">later</t>
+                    <t id="p01-s03-t25" type="GSL-1">studies</t>
+                </anaphor>
                 <t id="p01-s03-t26" type="GSL-1">have</t>
                 <t id="p01-s03-t27" type="GSL-1">looked</t>
                 <t id="p01-s03-t28" type="GSL-1">at</t>
@@ -120,9 +123,9 @@
                 <t id="p01-s03-t31">twitter</t>
                 <t id="p01-s03-t32" type="GSL-1">users</t>
                 <punc>)</punc>
-				<connector>
-                <t id="p01-s03-t33" type="GSL-1">or</t>
-				</connector>
+                <connector>
+                    <t id="p01-s03-t33" type="GSL-1">or</t>
+                </connector>
                 <t id="p01-s03-t34" type="GSL-1">it</t>
                 <t id="p01-s03-t35" type="GSL-1">could</t>
                 <t id="p01-s03-t36" type="GSL-1">be</t>

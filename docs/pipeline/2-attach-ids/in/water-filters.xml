@@ -1,756 +1,759 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
 <document>
-<title>Assessing the Impact of Water Filters and Improved Cook Stoves on Drinking Water Quality and Household Air Pollution: A Randomised Controlled Trial in Rwanda</title>
-<citation>Rosa G, Majorin F, Boisson S, Barstow C, Johnson M, et al (2014) Assessing the Impact of Water Filters and Improved Cook Stoves on Drinking Water Quality and Household Air Pollution: A Randomised Controlled Trial in Rwanda. PLoS ONE 9(3):e91011. doi:10.1371/journal/pone.0091011
-Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091011 on 04 Oct 2016.</citation>
-<url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091011</url>
-<body>
-<paragraph>
-<sentence>
-<t>Environmental</t>
-<t>contamination</t>
-<t>at</t>
-<t>the</t>
-<t>household</t>
-<t>level</t>
-<t>is</t>
-<t>a</t>
-<t>major</t>
-<t>cause</t>
-<t>of</t>
-<t>death</t>
-<t>and</t>
-<t>disease</t>
-<punc>,</punc>
-<t>particularly</t>
-<t>among</t>
-<t>rural</t>
-<t>populations</t>
-<t>in</t>
-<t>low</t>
-<punc>-</punc>
-<t>income</t>
-<t>countries</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>Unsafe</t>
-<t>drinking</t>
-<t>water</t>
-<punc>,</punc>
-<t>together</t>
-<t>with</t>
-<t>poor</t>
-<t>sanitation</t>
-<punc>,</punc>
-<t>account</t>
-<t>for</t>
-<t>an</t>
-<t>estimated</t>
-<t>0.9%</t>
-<t>of</t>
-<t>the</t>
-<t>global</t>
-<t>burden</t>
-<t>of</t>
-<t>disease</t>
-<t>and</t>
-<t>0.3</t>
-<t>million</t>
-<t>deaths</t>
-<punc>[</punc>
-<t>1</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>Much</t>
-<t>of</t>
-<t>this</t>
-<t>disease</t>
-<t>burden</t>
-<t>is</t>
-<t>associated</t>
-<t>with</t>
-<t>diarrhoea</t>
-<punc>,</punc>
-<t>which</t>
-<t>alone</t>
-<t>accounts</t>
-<t>for</t>
-<t>10.5%</t>
-<t>of</t>
-<t>deaths</t>
-<t>in</t>
-<t>children</t>
-<t>under</t>
-<t>5</t>
-<t>years</t>
-<t>in</t>
-<t>low</t>
-<punc>-</punc>
-<t>income</t>
-<t>countries</t>
-<punc>[</punc>
-<t>2</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>Household</t>
-<t>air</t>
-<t>pollution</t>
-<punc>(</punc>
-<t>HAP</t>
-<punc>)</punc>
-<t>from</t>
-<t>biomass</t>
-<t>fuel</t>
-<t>smoke</t>
-<t>has</t>
-<t>been</t>
-<t>linked</t>
-<t>to</t>
-<t>increased</t>
-<t>risk</t>
-<t>of</t>
-<t>respiratory</t>
-<t>tract</t>
-<t>infections</t>
-<punc>,</punc>
-<t>low</t>
-<t>birth</t>
-<t>weight</t>
-<punc>,</punc>
-<t>exacerbations</t>
-<t>of</t>
-<t>inflammatory</t>
-<t>lung</t>
-<t>conditions</t>
-<punc>,</punc>
-<t>cardiac</t>
-<t>events</t>
-<punc>,</punc>
-<t>stroke</t>
-<punc>,</punc>
-<t>eye</t>
-<t>disease</t>
-<punc>,</punc>
-<t>tuberculosis</t>
-<punc>,</punc>
-<t>cancer</t>
-<t>and</t>
-<t>nutritional</t>
-<t>deficiencies</t>
-<punc>[</punc>
-<t>3</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>The</t>
-<t>Global</t>
-<t>Burden</t>
-<t>of</t>
-<t>Disease</t>
-<punc>(</punc>
-<t>GBD</t>
-<punc>)</punc>
-<t>2010</t>
-<t>project</t>
-<t>found</t>
-<t>HAP</t>
-<t>from</t>
-<t>solid</t>
-<t>fuels</t>
-<t>to</t>
-<t>be</t>
-<t>responsible</t>
-<t>for</t>
-<t>3.5</t>
-<t>million</t>
-<t>premature</t>
-<t>deaths</t>
-<t>globally</t>
-<punc>[</punc>
-<t>1</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>In</t>
-<t>this</t>
-<t>same</t>
-<t>assessment</t>
-<punc>,</punc>
-<t>smoke</t>
-<t>from</t>
-<t>household</t>
-<t>cooking</t>
-<t>fuels</t>
-<t>was</t>
-<t>also</t>
-<t>responsible</t>
-<t>for</t>
-<t>another</t>
-<t>half</t>
-<t>a</t>
-<t>million</t>
-<t>premature</t>
-<t>deaths</t>
-<t>due</t>
-<t>to</t>
-<t>contributions</t>
-<t>to</t>
-<t>outdoor</t>
-<t>air</t>
-<t>pollution</t>
-<punc>[</punc>
-<t>1</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>These</t>
-<t>environmental</t>
-<t>hazards</t>
-<t>are</t>
-<t>aggravated</t>
-<t>among</t>
-<t>rural</t>
-<t>inhabitants</t>
-<t>of</t>
-<t>sub</t>
-<punc>-</punc>
-<t>Saharan</t>
-<t>Africa</t>
-<t>who</t>
-<t>are</t>
-<t>more</t>
-<t>likely</t>
-<t>to</t>
-<t>rely</t>
-<t>on</t>
-<t>unsafe</t>
-<t>water</t>
-<t>supplies</t>
-<t>and</t>
-<t>cook</t>
-<t>using</t>
-<t>biomass</t>
-<t>fuels</t>
-<t>on</t>
-<t>inefficient</t>
-<t>stoves</t>
-<punc>[</punc>
-<t>4</t>
-<punc>]</punc>
-<punc>–</punc>
-<punc>[</punc>
-<t>6</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph>
-<sentence>
-<t>Inefficient</t>
-<t>cookstoves</t>
-<t>also</t>
-<t>present</t>
-<t>substantial</t>
-<t>economic</t>
-<punc>,</punc>
-<t>developmental</t>
-<t>and</t>
-<t>environmental</t>
-<t>costs</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>At</t>
-<t>the</t>
-<t>household</t>
-<t>level</t>
-<punc>,</punc>
-<t>poverty</t>
-<t>is</t>
-<t>exacerbated</t>
-<t>and</t>
-<t>time</t>
-<t>spent</t>
-<t>at</t>
-<t>school</t>
-<t>is</t>
-<t>reduced</t>
-<t>by</t>
-<t>the</t>
-<t>burden</t>
-<t>of</t>
-<t>collecting</t>
-<t>more</t>
-<t>fuel</t>
-<t>for</t>
-<t>boiling</t>
-<t>drinking</t>
-<t>water</t>
-<t>and</t>
-<t>cooking</t>
-<punc>[</punc>
-<t>7</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>Individuals</t>
-<punc>,</punc>
-<t>households</t>
-<t>and</t>
-<t>governments</t>
-<t>bear</t>
-<t>the</t>
-<t>cost</t>
-<t>of</t>
-<t>expenditures</t>
-<t>for</t>
-<t>seeking</t>
-<t>treatment</t>
-<t>of</t>
-<t>enteric</t>
-<t>and</t>
-<t>respiratory</t>
-<t>infections</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>Cookstove</t>
-<t>emissions</t>
-<t>also</t>
-<t>contribute</t>
-<t>to</t>
-<t>greenhouse</t>
-<t>gas</t>
-<t>and</t>
-<t>black</t>
-<t>carbon</t>
-<t>emissions</t>
-<punc>,</punc>
-<t>and</t>
-<t>in</t>
-<t>some</t>
-<t>cases</t>
-<t>the</t>
-<t>fuel</t>
-<t>harvesting</t>
-<t>can</t>
-<t>result</t>
-<t>in</t>
-<t>denuding</t>
-<t>of</t>
-<t>forests</t>
-<punc>[</punc>
-<t>8</t>
-<punc>]</punc>
-<punc>,</punc>
-<punc>[</punc>
-<t>9</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph>
-<sentence>
-<t>With</t>
-<t>a</t>
-<t>population</t>
-<t>of</t>
-<t>10.5</t>
-<t>million</t>
-<t>and</t>
-<t>a</t>
-<t>density</t>
-<t>of</t>
-<t>412</t>
-<t>persons</t>
-<t>per</t>
-<t>sq</t>
-<punc>.</punc>
-<t>km</t>
-<punc>,</punc>
-<t>Rwanda</t>
-<t>is</t>
-<t>the</t>
-<t>most</t>
-<t>densely</t>
-<t>populated</t>
-<t>country</t>
-<t>in</t>
-<t>East</t>
-<t>Africa</t>
-<punc>[</punc>
-<t>10</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>Eighty</t>
-<t>per</t>
-<t>cent</t>
-<t>of</t>
-<t>the</t>
-<t>population</t>
-<t>of</t>
-<t>Rwanda</t>
-<t>lives</t>
-<t>in</t>
-<t>rural</t>
-<t>areas</t>
-<t>and</t>
-<t>is</t>
-<t>engaged</t>
-<t>in</t>
-<t>agriculture</t>
-<punc>[</punc>
-<t>11</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>Despite</t>
-<t>significant</t>
-<t>progress</t>
-<t>over</t>
-<t>the</t>
-<t>last</t>
-<t>decade</t>
-<punc>,</punc>
-<t>57%</t>
-<t>of</t>
-<t>the</t>
-<t>population</t>
-<t>is</t>
-<t>living</t>
-<t>below</t>
-<t>the</t>
-<t>poverty</t>
-<t>line</t>
-<punc>,</punc>
-<t>37%</t>
-<t>of</t>
-<t>them</t>
-<t>living</t>
-<t>in</t>
-<t>extreme</t>
-<t>poverty</t>
-<punc>[</punc>
-<t>11</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>While</t>
-<t>a</t>
-<t>large</t>
-<t>proportion</t>
-<t>of</t>
-<t>the</t>
-<t>rural</t>
-<t>population</t>
-<t>has</t>
-<t>access</t>
-<t>to</t>
-<t>improved</t>
-<t>water</t>
-<t>sources</t>
-<punc>(</punc>
-<t>71.2%</t>
-<punc>)</punc>
-<punc>,</punc>
-<t>mainly</t>
-<t>through</t>
-<t>protected</t>
-<t>springs</t>
-<punc>,</punc>
-<t>only</t>
-<t>2.2%</t>
-<t>of</t>
-<t>rural</t>
-<t>areas</t>
-<t>have</t>
-<t>water</t>
-<t>on</t>
-<t>their</t>
-<t>premises</t>
-<punc>[</punc>
-<t>12</t>
-<punc>]</punc>
-<punc>,</punc>
-<t>resulting</t>
-<t>in</t>
-<t>an</t>
-<t>increased</t>
-<t>risk</t>
-<t>for</t>
-<t>drinking</t>
-<t>water</t>
-<t>contamination</t>
-<t>during</t>
-<t>transport</t>
-<t>and</t>
-<t>storage</t>
-<punc>[</punc>
-<t>13</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>Almost</t>
-<t>all</t>
-<t>of</t>
-<t>rural</t>
-<t>Rwanda</t>
-<punc>(</punc>
-<t>99.0%</t>
-<punc>)</punc>
-<t>relies</t>
-<t>on</t>
-<t>biomass</t>
-<t>for</t>
-<t>their</t>
-<t>cooking</t>
-<t>needs</t>
-<punc>[</punc>
-<t>12</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>Morbidity</t>
-<t>and</t>
-<t>mortality</t>
-<t>are</t>
-<t>largely</t>
-<t>dominated</t>
-<t>by</t>
-<t>communicable</t>
-<t>diseases</t>
-<punc>,</punc>
-<t>including</t>
-<t>HIV</t>
-<punc>/</punc>
-<t>AIDS</t>
-<punc>,</punc>
-<t>acute</t>
-<t>respiratory</t>
-<t>infections</t>
-<punc>,</punc>
-<t>diarrhoeal</t>
-<t>diseases</t>
-<punc>,</punc>
-<t>intestinal</t>
-<t>parisitoses</t>
-<punc>,</punc>
-<t>and</t>
-<t>malaria</t>
-<punc>[</punc>
-<t>14</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>Among</t>
-<t>deaths</t>
-<t>of</t>
-<t>children</t>
-<t>under</t>
-<t>5</t>
-<punc>,</punc>
-<t>pneumonia</t>
-<t>accounts</t>
-<t>for</t>
-<t>20%</t>
-<t>and</t>
-<t>diarrhoea</t>
-<t>for</t>
-<t>12%</t>
-<punc>[</punc>
-<t>15</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph>
-<sentence>
-<t>In</t>
-<t>an</t>
-<t>effort</t>
-<t>to</t>
-<t>reduce</t>
-<t>the</t>
-<t>disease</t>
-<t>burden</t>
-<t>in</t>
-<t>rural</t>
-<t>Rwanda</t>
-<punc>,</punc>
-<t>decrease</t>
-<t>poverty</t>
-<t>associated</t>
-<t>with</t>
-<t>expenditures</t>
-<t>for</t>
-<t>fuel</t>
-<punc>,</punc>
-<t>and</t>
-<t>minimize</t>
-<t>the</t>
-<t>impact</t>
-<t>of</t>
-<t>greenhouse</t>
-<t>gases</t>
-<t>from</t>
-<t>inefficient</t>
-<t>combustion</t>
-<t>of</t>
-<t>biomass</t>
-<t>in</t>
-<t>low</t>
-<punc>-</punc>
-<t>efficiency</t>
-<t>stoves</t>
-<punc>,</punc>
-<t>the</t>
-<t>Rwanda</t>
-<t>Ministry</t>
-<t>of</t>
-<t>Health</t>
-<punc>(</punc>
-<t>MiniSante</t>
-<punc>)</punc>
-<t>and</t>
-<t>the</t>
-<t>Rwanda</t>
-<t>Environmental</t>
-<t>Management</t>
-<t>Authority</t>
-<punc>(</punc>
-<t>REMA</t>
-<punc>)</punc>
-<t>have</t>
-<t>partnered</t>
-<t>with</t>
-<t>DelAgua</t>
-<t>Health</t>
-<punc>(</punc>
-<t>implementer</t>
-<punc>)</punc>
-<t>to</t>
-<t>design</t>
-<punc>,</punc>
-<t>deploy</t>
-<t>and</t>
-<t>evaluate</t>
-<t>the</t>
-<t>impact</t>
-<t>of</t>
-<t>a</t>
-<t>project</t>
-<t>that</t>
-<t>will</t>
-<t>deliver</t>
-<t>and</t>
-<t>promote</t>
-<t>the</t>
-<t>use</t>
-<t>of</t>
-<t>advanced</t>
-<t>water</t>
-<t>filters</t>
-<t>and</t>
-<t>high</t>
-<t>efficiency</t>
-<t>cookstoves</t>
-<t>to</t>
-<t>low</t>
-<punc>-</punc>
-<t>income</t>
-<t>households</t>
-<t>in</t>
-<t>Rwanda</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>Prior</t>
-<t>to</t>
-<t>initiating</t>
-<t>the</t>
-<t>full</t>
-<t>campaign</t>
-<punc>,</punc>
-<t>the</t>
-<t>implementer</t>
-<t>with</t>
-<t>the</t>
-<t>Ministry</t>
-<t>of</t>
-<t>Health</t>
-<t>undertook</t>
-<t>a</t>
-<t>pilot</t>
-<t>distribution</t>
-<t>of</t>
-<t>filters</t>
-<t>and</t>
-<t>cookstoves</t>
-<t>to</t>
-<t>approximately</t>
-<t>2200</t>
-<t>households</t>
-<t>in</t>
-<t>15</t>
-<t>villages</t>
-<t>in</t>
-<t>11</t>
-<t>of</t>
-<t>the</t>
-<t>country's</t>
-<t>30</t>
-<t>districts</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>We</t>
-<t>conducted</t>
-<t>this</t>
-<t>study</t>
-<t>in</t>
-<t>three</t>
-<t>of</t>
-<t>those</t>
-<t>villages</t>
-<t>in</t>
-<t>order</t>
-<t>to</t>
-<t>assess</t>
-<t>the</t>
-<t>uptake</t>
-<t>of</t>
-<t>the</t>
-<t>intervention</t>
-<t>and</t>
-<t>its</t>
-<t>impact</t>
-<t>on</t>
-<t>drinking</t>
-<t>water</t>
-<t>quality</t>
-<t>and</t>
-<t>household</t>
-<t>air</t>
-<t>pollution</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-</body>
+    <title>Assessing the Impact of Water Filters and Improved Cook Stoves on Drinking Water Quality and Household Air Pollution: A Randomised Controlled Trial in Rwanda</title>
+    <citation>Rosa G, Majorin F, Boisson S, Barstow C, Johnson M, et al (2014) Assessing the Impact of Water Filters and Improved Cook Stoves on Drinking Water Quality and Household Air Pollution: A Randomised Controlled Trial in Rwanda. PLoS ONE 9(3):e91011. doi:10.1371/journal/pone.0091011
+        Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091011 on 04 Oct 2016.</citation>
+    <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091011</url>
+    <info type="arise">
+        <arise-info book="2" section="4" unit="6" firstpage="62"/>
+    </info>
+    <body>
+        <paragraph>
+            <sentence>
+                <t>Environmental</t>
+                <t>contamination</t>
+                <t>at</t>
+                <t>the</t>
+                <t>household</t>
+                <t>level</t>
+                <t>is</t>
+                <t>a</t>
+                <t>major</t>
+                <t>cause</t>
+                <t>of</t>
+                <t>death</t>
+                <t>and</t>
+                <t>disease</t>
+                <punc>,</punc>
+                <t>particularly</t>
+                <t>among</t>
+                <t>rural</t>
+                <t>populations</t>
+                <t>in</t>
+                <t>low</t>
+                <punc>-</punc>
+                <t>income</t>
+                <t>countries</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Unsafe</t>
+                <t>drinking</t>
+                <t>water</t>
+                <punc>,</punc>
+                <t>together</t>
+                <t>with</t>
+                <t>poor</t>
+                <t>sanitation</t>
+                <punc>,</punc>
+                <t>account</t>
+                <t>for</t>
+                <t>an</t>
+                <t>estimated</t>
+                <t>0.9%</t>
+                <t>of</t>
+                <t>the</t>
+                <t>global</t>
+                <t>burden</t>
+                <t>of</t>
+                <t>disease</t>
+                <t>and</t>
+                <t>0.3</t>
+                <t>million</t>
+                <t>deaths</t>
+                <punc>[</punc>
+                <t>1</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Much</t>
+                <t>of</t>
+                <t>this</t>
+                <t>disease</t>
+                <t>burden</t>
+                <t>is</t>
+                <t>associated</t>
+                <t>with</t>
+                <t>diarrhoea</t>
+                <punc>,</punc>
+                <t>which</t>
+                <t>alone</t>
+                <t>accounts</t>
+                <t>for</t>
+                <t>10.5%</t>
+                <t>of</t>
+                <t>deaths</t>
+                <t>in</t>
+                <t>children</t>
+                <t>under</t>
+                <t>5</t>
+                <t>years</t>
+                <t>in</t>
+                <t>low</t>
+                <punc>-</punc>
+                <t>income</t>
+                <t>countries</t>
+                <punc>[</punc>
+                <t>2</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Household</t>
+                <t>air</t>
+                <t>pollution</t>
+                <punc>(</punc>
+                <t>HAP</t>
+                <punc>)</punc>
+                <t>from</t>
+                <t>biomass</t>
+                <t>fuel</t>
+                <t>smoke</t>
+                <t>has</t>
+                <t>been</t>
+                <t>linked</t>
+                <t>to</t>
+                <t>increased</t>
+                <t>risk</t>
+                <t>of</t>
+                <t>respiratory</t>
+                <t>tract</t>
+                <t>infections</t>
+                <punc>,</punc>
+                <t>low</t>
+                <t>birth</t>
+                <t>weight</t>
+                <punc>,</punc>
+                <t>exacerbations</t>
+                <t>of</t>
+                <t>inflammatory</t>
+                <t>lung</t>
+                <t>conditions</t>
+                <punc>,</punc>
+                <t>cardiac</t>
+                <t>events</t>
+                <punc>,</punc>
+                <t>stroke</t>
+                <punc>,</punc>
+                <t>eye</t>
+                <t>disease</t>
+                <punc>,</punc>
+                <t>tuberculosis</t>
+                <punc>,</punc>
+                <t>cancer</t>
+                <t>and</t>
+                <t>nutritional</t>
+                <t>deficiencies</t>
+                <punc>[</punc>
+                <t>3</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>The</t>
+                <t>Global</t>
+                <t>Burden</t>
+                <t>of</t>
+                <t>Disease</t>
+                <punc>(</punc>
+                <t>GBD</t>
+                <punc>)</punc>
+                <t>2010</t>
+                <t>project</t>
+                <t>found</t>
+                <t>HAP</t>
+                <t>from</t>
+                <t>solid</t>
+                <t>fuels</t>
+                <t>to</t>
+                <t>be</t>
+                <t>responsible</t>
+                <t>for</t>
+                <t>3.5</t>
+                <t>million</t>
+                <t>premature</t>
+                <t>deaths</t>
+                <t>globally</t>
+                <punc>[</punc>
+                <t>1</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>In</t>
+                <t>this</t>
+                <t>same</t>
+                <t>assessment</t>
+                <punc>,</punc>
+                <t>smoke</t>
+                <t>from</t>
+                <t>household</t>
+                <t>cooking</t>
+                <t>fuels</t>
+                <t>was</t>
+                <t>also</t>
+                <t>responsible</t>
+                <t>for</t>
+                <t>another</t>
+                <t>half</t>
+                <t>a</t>
+                <t>million</t>
+                <t>premature</t>
+                <t>deaths</t>
+                <t>due</t>
+                <t>to</t>
+                <t>contributions</t>
+                <t>to</t>
+                <t>outdoor</t>
+                <t>air</t>
+                <t>pollution</t>
+                <punc>[</punc>
+                <t>1</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>These</t>
+                <t>environmental</t>
+                <t>hazards</t>
+                <t>are</t>
+                <t>aggravated</t>
+                <t>among</t>
+                <t>rural</t>
+                <t>inhabitants</t>
+                <t>of</t>
+                <t>sub</t>
+                <punc>-</punc>
+                <t>Saharan</t>
+                <t>Africa</t>
+                <t>who</t>
+                <t>are</t>
+                <t>more</t>
+                <t>likely</t>
+                <t>to</t>
+                <t>rely</t>
+                <t>on</t>
+                <t>unsafe</t>
+                <t>water</t>
+                <t>supplies</t>
+                <t>and</t>
+                <t>cook</t>
+                <t>using</t>
+                <t>biomass</t>
+                <t>fuels</t>
+                <t>on</t>
+                <t>inefficient</t>
+                <t>stoves</t>
+                <punc>[</punc>
+                <t>4</t>
+                <punc>]</punc>
+                <punc>–</punc>
+                <punc>[</punc>
+                <t>6</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph>
+            <sentence>
+                <t>Inefficient</t>
+                <t>cookstoves</t>
+                <t>also</t>
+                <t>present</t>
+                <t>substantial</t>
+                <t>economic</t>
+                <punc>,</punc>
+                <t>developmental</t>
+                <t>and</t>
+                <t>environmental</t>
+                <t>costs</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>At</t>
+                <t>the</t>
+                <t>household</t>
+                <t>level</t>
+                <punc>,</punc>
+                <t>poverty</t>
+                <t>is</t>
+                <t>exacerbated</t>
+                <t>and</t>
+                <t>time</t>
+                <t>spent</t>
+                <t>at</t>
+                <t>school</t>
+                <t>is</t>
+                <t>reduced</t>
+                <t>by</t>
+                <t>the</t>
+                <t>burden</t>
+                <t>of</t>
+                <t>collecting</t>
+                <t>more</t>
+                <t>fuel</t>
+                <t>for</t>
+                <t>boiling</t>
+                <t>drinking</t>
+                <t>water</t>
+                <t>and</t>
+                <t>cooking</t>
+                <punc>[</punc>
+                <t>7</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Individuals</t>
+                <punc>,</punc>
+                <t>households</t>
+                <t>and</t>
+                <t>governments</t>
+                <t>bear</t>
+                <t>the</t>
+                <t>cost</t>
+                <t>of</t>
+                <t>expenditures</t>
+                <t>for</t>
+                <t>seeking</t>
+                <t>treatment</t>
+                <t>of</t>
+                <t>enteric</t>
+                <t>and</t>
+                <t>respiratory</t>
+                <t>infections</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Cookstove</t>
+                <t>emissions</t>
+                <t>also</t>
+                <t>contribute</t>
+                <t>to</t>
+                <t>greenhouse</t>
+                <t>gas</t>
+                <t>and</t>
+                <t>black</t>
+                <t>carbon</t>
+                <t>emissions</t>
+                <punc>,</punc>
+                <t>and</t>
+                <t>in</t>
+                <t>some</t>
+                <t>cases</t>
+                <t>the</t>
+                <t>fuel</t>
+                <t>harvesting</t>
+                <t>can</t>
+                <t>result</t>
+                <t>in</t>
+                <t>denuding</t>
+                <t>of</t>
+                <t>forests</t>
+                <punc>[</punc>
+                <t>8</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t>9</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph>
+            <sentence>
+                <t>With</t>
+                <t>a</t>
+                <t>population</t>
+                <t>of</t>
+                <t>10.5</t>
+                <t>million</t>
+                <t>and</t>
+                <t>a</t>
+                <t>density</t>
+                <t>of</t>
+                <t>412</t>
+                <t>persons</t>
+                <t>per</t>
+                <t>sq</t>
+                <punc>.</punc>
+                <t>km</t>
+                <punc>,</punc>
+                <t>Rwanda</t>
+                <t>is</t>
+                <t>the</t>
+                <t>most</t>
+                <t>densely</t>
+                <t>populated</t>
+                <t>country</t>
+                <t>in</t>
+                <t>East</t>
+                <t>Africa</t>
+                <punc>[</punc>
+                <t>10</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Eighty</t>
+                <t>per</t>
+                <t>cent</t>
+                <t>of</t>
+                <t>the</t>
+                <t>population</t>
+                <t>of</t>
+                <t>Rwanda</t>
+                <t>lives</t>
+                <t>in</t>
+                <t>rural</t>
+                <t>areas</t>
+                <t>and</t>
+                <t>is</t>
+                <t>engaged</t>
+                <t>in</t>
+                <t>agriculture</t>
+                <punc>[</punc>
+                <t>11</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Despite</t>
+                <t>significant</t>
+                <t>progress</t>
+                <t>over</t>
+                <t>the</t>
+                <t>last</t>
+                <t>decade</t>
+                <punc>,</punc>
+                <t>57%</t>
+                <t>of</t>
+                <t>the</t>
+                <t>population</t>
+                <t>is</t>
+                <t>living</t>
+                <t>below</t>
+                <t>the</t>
+                <t>poverty</t>
+                <t>line</t>
+                <punc>,</punc>
+                <t>37%</t>
+                <t>of</t>
+                <t>them</t>
+                <t>living</t>
+                <t>in</t>
+                <t>extreme</t>
+                <t>poverty</t>
+                <punc>[</punc>
+                <t>11</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>While</t>
+                <t>a</t>
+                <t>large</t>
+                <t>proportion</t>
+                <t>of</t>
+                <t>the</t>
+                <t>rural</t>
+                <t>population</t>
+                <t>has</t>
+                <t>access</t>
+                <t>to</t>
+                <t>improved</t>
+                <t>water</t>
+                <t>sources</t>
+                <punc>(</punc>
+                <t>71.2%</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t>mainly</t>
+                <t>through</t>
+                <t>protected</t>
+                <t>springs</t>
+                <punc>,</punc>
+                <t>only</t>
+                <t>2.2%</t>
+                <t>of</t>
+                <t>rural</t>
+                <t>areas</t>
+                <t>have</t>
+                <t>water</t>
+                <t>on</t>
+                <t>their</t>
+                <t>premises</t>
+                <punc>[</punc>
+                <t>12</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <t>resulting</t>
+                <t>in</t>
+                <t>an</t>
+                <t>increased</t>
+                <t>risk</t>
+                <t>for</t>
+                <t>drinking</t>
+                <t>water</t>
+                <t>contamination</t>
+                <t>during</t>
+                <t>transport</t>
+                <t>and</t>
+                <t>storage</t>
+                <punc>[</punc>
+                <t>13</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Almost</t>
+                <t>all</t>
+                <t>of</t>
+                <t>rural</t>
+                <t>Rwanda</t>
+                <punc>(</punc>
+                <t>99.0%</t>
+                <punc>)</punc>
+                <t>relies</t>
+                <t>on</t>
+                <t>biomass</t>
+                <t>for</t>
+                <t>their</t>
+                <t>cooking</t>
+                <t>needs</t>
+                <punc>[</punc>
+                <t>12</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Morbidity</t>
+                <t>and</t>
+                <t>mortality</t>
+                <t>are</t>
+                <t>largely</t>
+                <t>dominated</t>
+                <t>by</t>
+                <t>communicable</t>
+                <t>diseases</t>
+                <punc>,</punc>
+                <t>including</t>
+                <t>HIV</t>
+                <punc>/</punc>
+                <t>AIDS</t>
+                <punc>,</punc>
+                <t>acute</t>
+                <t>respiratory</t>
+                <t>infections</t>
+                <punc>,</punc>
+                <t>diarrhoeal</t>
+                <t>diseases</t>
+                <punc>,</punc>
+                <t>intestinal</t>
+                <t>parisitoses</t>
+                <punc>,</punc>
+                <t>and</t>
+                <t>malaria</t>
+                <punc>[</punc>
+                <t>14</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Among</t>
+                <t>deaths</t>
+                <t>of</t>
+                <t>children</t>
+                <t>under</t>
+                <t>5</t>
+                <punc>,</punc>
+                <t>pneumonia</t>
+                <t>accounts</t>
+                <t>for</t>
+                <t>20%</t>
+                <t>and</t>
+                <t>diarrhoea</t>
+                <t>for</t>
+                <t>12%</t>
+                <punc>[</punc>
+                <t>15</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph>
+            <sentence>
+                <t>In</t>
+                <t>an</t>
+                <t>effort</t>
+                <t>to</t>
+                <t>reduce</t>
+                <t>the</t>
+                <t>disease</t>
+                <t>burden</t>
+                <t>in</t>
+                <t>rural</t>
+                <t>Rwanda</t>
+                <punc>,</punc>
+                <t>decrease</t>
+                <t>poverty</t>
+                <t>associated</t>
+                <t>with</t>
+                <t>expenditures</t>
+                <t>for</t>
+                <t>fuel</t>
+                <punc>,</punc>
+                <t>and</t>
+                <t>minimize</t>
+                <t>the</t>
+                <t>impact</t>
+                <t>of</t>
+                <t>greenhouse</t>
+                <t>gases</t>
+                <t>from</t>
+                <t>inefficient</t>
+                <t>combustion</t>
+                <t>of</t>
+                <t>biomass</t>
+                <t>in</t>
+                <t>low</t>
+                <punc>-</punc>
+                <t>efficiency</t>
+                <t>stoves</t>
+                <punc>,</punc>
+                <t>the</t>
+                <t>Rwanda</t>
+                <t>Ministry</t>
+                <t>of</t>
+                <t>Health</t>
+                <punc>(</punc>
+                <t>MiniSante</t>
+                <punc>)</punc>
+                <t>and</t>
+                <t>the</t>
+                <t>Rwanda</t>
+                <t>Environmental</t>
+                <t>Management</t>
+                <t>Authority</t>
+                <punc>(</punc>
+                <t>REMA</t>
+                <punc>)</punc>
+                <t>have</t>
+                <t>partnered</t>
+                <t>with</t>
+                <t>DelAgua</t>
+                <t>Health</t>
+                <punc>(</punc>
+                <t>implementer</t>
+                <punc>)</punc>
+                <t>to</t>
+                <t>design</t>
+                <punc>,</punc>
+                <t>deploy</t>
+                <t>and</t>
+                <t>evaluate</t>
+                <t>the</t>
+                <t>impact</t>
+                <t>of</t>
+                <t>a</t>
+                <t>project</t>
+                <t>that</t>
+                <t>will</t>
+                <t>deliver</t>
+                <t>and</t>
+                <t>promote</t>
+                <t>the</t>
+                <t>use</t>
+                <t>of</t>
+                <t>advanced</t>
+                <t>water</t>
+                <t>filters</t>
+                <t>and</t>
+                <t>high</t>
+                <t>efficiency</t>
+                <t>cookstoves</t>
+                <t>to</t>
+                <t>low</t>
+                <punc>-</punc>
+                <t>income</t>
+                <t>households</t>
+                <t>in</t>
+                <t>Rwanda</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Prior</t>
+                <t>to</t>
+                <t>initiating</t>
+                <t>the</t>
+                <t>full</t>
+                <t>campaign</t>
+                <punc>,</punc>
+                <t>the</t>
+                <t>implementer</t>
+                <t>with</t>
+                <t>the</t>
+                <t>Ministry</t>
+                <t>of</t>
+                <t>Health</t>
+                <t>undertook</t>
+                <t>a</t>
+                <t>pilot</t>
+                <t>distribution</t>
+                <t>of</t>
+                <t>filters</t>
+                <t>and</t>
+                <t>cookstoves</t>
+                <t>to</t>
+                <t>approximately</t>
+                <t>2200</t>
+                <t>households</t>
+                <t>in</t>
+                <t>15</t>
+                <t>villages</t>
+                <t>in</t>
+                <t>11</t>
+                <t>of</t>
+                <t>the</t>
+                <t>country's</t>
+                <t>30</t>
+                <t>districts</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>We</t>
+                <t>conducted</t>
+                <t>this</t>
+                <t>study</t>
+                <t>in</t>
+                <t>three</t>
+                <t>of</t>
+                <t>those</t>
+                <t>villages</t>
+                <t>in</t>
+                <t>order</t>
+                <t>to</t>
+                <t>assess</t>
+                <t>the</t>
+                <t>uptake</t>
+                <t>of</t>
+                <t>the</t>
+                <t>intervention</t>
+                <t>and</t>
+                <t>its</t>
+                <t>impact</t>
+                <t>on</t>
+                <t>drinking</t>
+                <t>water</t>
+                <t>quality</t>
+                <t>and</t>
+                <t>household</t>
+                <t>air</t>
+                <t>pollution</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
 </document>

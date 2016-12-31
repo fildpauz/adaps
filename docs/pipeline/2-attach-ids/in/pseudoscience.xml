@@ -5,6 +5,9 @@
     <title>Pseudoscience (Extract)</title>
     <citation>Wikipedia: “Pseudoscience”. Retrieved from http://en.wikipedia.org/wiki/Pseudoscience on 18 Feb 2013.</citation>
     <url>http://en.wikipedia.org/wiki/Pseudoscience</url>
+    <info type="arise">
+        <arise-info book="1" section="3" unit="4" firstpage="43" lastpage="45"/>
+    </info>
     <body>
         <paragraph>
             <sentence>
@@ -70,8 +73,8 @@
                 <punc>,</punc>
                 <t>an</t>
                 <t>over</t>
-				<punc>-</punc>
-				<t>reliance</t>
+                <punc>-</punc>
+                <t>reliance</t>
                 <t>on</t>
                 <t>confirmation</t>
                 <t>rather</t>
@@ -537,8 +540,8 @@
                 <t>In</t>
                 <t>the</t>
                 <t>mid</t>
-				<punc>-</punc>
-				<t>20th</t>
+                <punc>-</punc>
+                <t>20th</t>
                 <t>century</t>
                 <punc>,</punc>
                 <t>Karl</t>
@@ -644,8 +647,8 @@
                 <punc>,</punc>
                 <t>religious</t>
                 <t>and</t>
-				<punc>/</punc>
-				<t>or</t>
+                <punc>/</punc>
+                <t>or</t>
                 <t>metaphysical</t>
                 <t>formulations</t>
                 <t>on</t>
@@ -1785,9 +1788,9 @@
                 <t>or</t>
                 <t>to</t>
                 <t>overturn</t>
-				<t>well</t>
-				<punc>-</punc>
-				<t>established</t>
+                <t>well</t>
+                <punc>-</punc>
+                <t>established</t>
                 <t>science</t>
                 <punc>.</punc>
             </sentence>
@@ -2095,9 +2098,9 @@
                 <t>or</t>
                 <t>untestable</t>
                 <t>claims</t>
-			</sentence>
+            </sentence>
         </paragraph>	
-		<paragraph>
+        <paragraph>
             <sentence>
                 <t>Lack</t>
                 <t>of</t>
@@ -2107,23 +2110,23 @@
                 <t>by</t>
                 <t>other</t>
                 <t>experts</t>
-			</sentence>
+            </sentence>
         </paragraph>	
-		<paragraph>
+        <paragraph>
             <sentence>
                 <t>Absence</t>
                 <t>of</t>
                 <t>progress</t>
-			</sentence>
+            </sentence>
         </paragraph>	
-		<paragraph>
+        <paragraph>
             <sentence>
                 <t>Personalization</t>
                 <t>of</t>
                 <t>issues</t>
-			</sentence>
+            </sentence>
         </paragraph>	
-		<paragraph>
+        <paragraph>
             <sentence>
                 <t>Use</t>
                 <t>of</t>

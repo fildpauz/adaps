@@ -5,6 +5,9 @@
     <citation>Schwartz HA, Eichstaedt JC, Kern ML, Dziurzynski L, Ramones SM, et al. (2013) Personality, Gender, and Age in the Language of Social Media: The Open-Vocabulary Approach. PLoS ONE 8(9): e73791. doi:10.1371/journal.pone. 0073791
         Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0073791 on 07 Dec 2016.</citation>
     <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0073791</url>
+    <info type="arise">
+        <arise-info book="2" section="2" unit="7" part="1" item="B" firstpage="32"/>
+    </info>
     <body>
         <paragraph id="p01">
             <sentence id="p01-s01">
@@ -76,17 +79,17 @@
                 <t id="p01-s03-t04">could</t>
                 <t id="p01-s03-t05">be</t>
                 <t id="p01-s03-t06">sample</t>
-				<punc>-</punc>
-				<t id="p01-s03-t07">related</t>
-				<punc>–</punc>
+                <punc>-</punc>
+                <t id="p01-s03-t07">related</t>
+                <punc>–</punc>
                 <t id="p01-s03-t08">differing</t>
                 <t id="p01-s03-t09">demographics</t>
                 <t id="p01-s03-t10">or</t>
                 <t id="p01-s03-t11">having</t>
                 <t id="p01-s03-t12">a</t>
                 <t id="p01-s03-t13">non</t>
-				<punc>-</punc>
-				<t id="p01-s03-t14">representative</t>
+                <punc>-</punc>
+                <t id="p01-s03-t14">representative</t>
                 <t id="p01-s03-t15">sample</t>
                 <punc>(</punc>
                 <t id="p01-s03-t16">Huffaker</t>

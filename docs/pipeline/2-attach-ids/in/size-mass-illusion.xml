@@ -5,6 +5,9 @@
     <citation>Clément G (2014) Effects of Varying Gravity Levels in Parabolic Flight on the Size-Mass Illusion. PLoS ONE 9(6): e99188. doi:10.1371/journal.pone.0099188 
         Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0099188 on 21 Dec 2016.</citation>
     <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0099188</url>
+    <info type="arise">
+        <arise-info book="1" section="4" unit="5" firstpage="58" lastpage="59"/>
+    </info>
     <body>
         <paragraph>
             <sentence>
@@ -155,8 +158,8 @@
                 <t>Comparison</t>
                 <t>between</t>
                 <t>Size</t>
-				<punc>-</punc>
-				<t>weight</t>
+                <punc>-</punc>
+                <t>weight</t>
                 <t>and</t>
                 <t>Size</t>
                 <t>Mass</t>
@@ -284,8 +287,8 @@
                 <t>performing</t>
                 <t>horizontal</t>
                 <t>flexion</t>
-				<punc>/</punc>
-				<t>extension</t>
+                <punc>/</punc>
+                <t>extension</t>
                 <t>of</t>
                 <t>the</t>
                 <t>elbow</t>
@@ -396,8 +399,8 @@
                 <t>subject</t>
                 <t>extended</t>
                 <t>his</t>
-				<punc>/</punc>
-				<t>her</t>
+                <punc>/</punc>
+                <t>her</t>
                 <t>dominant</t>
                 <t>hand</t>
                 <t>palm</t>
@@ -576,19 +579,19 @@
                 <t>the</t>
                 <t>Airbus</t>
                 <t>A</t>
-				<punc>-</punc>
-				<t>300</t>
+                <punc>-</punc>
+                <t>300</t>
                 <t>Zero</t>
-				<punc>-</punc>
-				<t>G</t>
+                <punc>-</punc>
+                <t>G</t>
                 <t>during</t>
                 <t>the</t>
                 <t>second</t>
                 <t>CNES</t>
-				<punc>/</punc>
-				<t>ESA</t>
-				<punc>/</punc>
-				<t>DLR</t>
+                <punc>/</punc>
+                <t>ESA</t>
+                <punc>/</punc>
+                <t>DLR</t>
                 <t>campaign</t>
                 <t>of</t>
                 <t>parabolic</t>
@@ -650,16 +653,16 @@
                 <t>with</t>
                 <t>a</t>
                 <t>pull</t>
-				<punc>-</punc>
-				<t>up</t>
+                <punc>-</punc>
+                <t>up</t>
                 <t>phase</t>
                 <t>and</t>
                 <t>ended</t>
                 <t>with</t>
                 <t>a</t>
                 <t>pull</t>
-				<punc>-</punc>
-				<t>out</t>
+                <punc>-</punc>
+                <t>out</t>
                 <t>phase</t>
                 <t>at</t>
                 <t>1.8 g</t>
@@ -749,10 +752,10 @@
                 <t>normal</t>
                 <t>or</t>
                 <t>corrected</t>
-				<punc>-</punc>
-				<t>to</t>
-				<punc>-</punc>
-				<t>normal</t>
+                <punc>-</punc>
+                <t>to</t>
+                <punc>-</punc>
+                <t>normal</t>
                 <t>vision</t>
                 <t>with</t>
                 <t>no</t>
@@ -982,8 +985,8 @@
             <sentence>
                 <t>A</t>
                 <t>three</t>
-				<punc>-</punc>
-				<t>axis</t>
+                <punc>-</punc>
+                <t>axis</t>
                 <t>accelerometer</t>
                 <punc>(</punc>
                 <t>Gulf</t>
@@ -1012,8 +1015,8 @@
                 <punc>,</punc>
                 <t>for</t>
                 <t>off</t>
-				<punc>-</punc>
-				<t>line</t>
+                <punc>-</punc>
+                <t>line</t>
                 <t>calculation</t>
                 <t>of</t>
                 <t>the</t>

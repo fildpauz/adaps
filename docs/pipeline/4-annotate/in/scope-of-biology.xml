@@ -4,6 +4,9 @@
     <title>Extract from The Scope of Biology</title>
     <citation>OpenStax College, Biology. OpenStax College. Retrieved from http://cnx.org/content/col11448/latest/ 30 May 2013.</citation>
     <url>http://cnx.org/content/col11448/latest/</url>
+    <info type="arise">
+        <arise-info book="2" section="2" unit="6" part="1" item="A" firstpage="28"/>
+    </info>
     <body>
         <paragraph id="p01">
             <sentence id="p01-s01">
@@ -28,10 +31,10 @@
                 <t id="p01-s02-t03" type="Coxhead-AWL-5,AR-AWL-5b">pursue</t>
                 <t id="p01-s02-t04" type="GSL-1">one</t>
                 <t id="p01-s02-t05" type="GSL-1">of</t>
-				<anaphor>
-                <t id="p01-s02-t06" type="GSL-1">those</t>
-                <t id="p01-s02-t07">subdisciplines</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p01-s02-t06" type="GSL-1">those</t>
+                    <t id="p01-s02-t07">subdisciplines</t>
+                </anaphor>
                 <t id="p01-s02-t08" type="GSL-1">and</t>
                 <t id="p01-s02-t09" type="GSL-1">work</t>
                 <t id="p01-s02-t10" type="GSL-1">in</t>
@@ -42,17 +45,17 @@
                 <punc>.</punc>
             </sentence>
             <sentence id="p01-s03">
-			<connector>
-                <t id="p01-s03-t01" type="GSL-1">For</t>
-                <t id="p01-s03-t02" type="Coxhead-AWL-3,AR-AWL-3a">instance</t>
-				</connector>
+                <connector>
+                    <t id="p01-s03-t01" type="GSL-1">For</t>
+                    <t id="p01-s03-t02" type="Coxhead-AWL-3,AR-AWL-3a">instance</t>
+                </connector>
                 <punc>,</punc>
-				<term>
-                <t id="p01-s03-t03">molecular</t>
-                <t id="p01-s03-t04">biology</t>
-                <t id="p01-s03-t05" type="GSL-1">and</t>
-                <t id="p01-s03-t06">biochemistry</t>
-				</term>
+                <term>
+                    <t id="p01-s03-t03">molecular</t>
+                    <t id="p01-s03-t04">biology</t>
+                    <t id="p01-s03-t05" type="GSL-1">and</t>
+                    <t id="p01-s03-t06">biochemistry</t>
+                </term>
                 <t id="p01-s03-t07" type="GSL-1">study</t>
                 <t id="p01-s03-t08">biological</t>
                 <t id="p01-s03-t09" type="Coxhead-AWL-1,AR-AWL-1b">processes</t>
@@ -87,9 +90,9 @@
                 <punc>.</punc>
             </sentence>
             <sentence id="p01-s04">
-			<term>
-                <t id="p01-s04-t01">Microbiology</t>
-				</term>
+                <term>
+                    <t id="p01-s04-t01">Microbiology</t>
+                </term>
                 <punc>,</punc>
                 <t id="p01-s04-t02" type="GSL-1">the</t>
                 <t id="p01-s04-t03" type="GSL-1">study</t>
@@ -120,9 +123,9 @@
                 <t id="p01-s05-t06" type="GSL-1">branch</t>
                 <t id="p01-s05-t07" type="GSL-1">itself</t>
                 <punc>,</punc>
-				<connector>
-                <t id="p01-s05-t08" type="GSL-1">and</t>
-				</connector>
+                <connector>
+                    <t id="p01-s05-t08" type="GSL-1">and</t>
+                </connector>
                 <t id="p01-s05-t09" type="GSL-1">depending</t>
                 <t id="p01-s05-t10" type="GSL-1">on</t>
                 <t id="p01-s05-t11" type="GSL-1">the</t>
@@ -148,17 +151,17 @@
         </paragraph>
         <paragraph id="p02">
             <sentence id="p02-s01">
-			<connector>
-                <t id="p02-s01-t01" type="GSL-1">Another</t>
-				</connector>
+                <connector>
+                    <t id="p02-s01-t01" type="GSL-1">Another</t>
+                </connector>
                 <t id="p02-s01-t02" type="GSL-1">field</t>
                 <t id="p02-s01-t03" type="GSL-1">of</t>
                 <t id="p02-s01-t04">biological</t>
                 <t id="p02-s01-t05" type="GSL-1">study</t>
                 <punc>,</punc>
-				<term>
-                <t id="p02-s01-t06">neurobiology</t>
-				</term>
+                <term>
+                    <t id="p02-s01-t06">neurobiology</t>
+                </term>
                 <punc>,</punc>
                 <t id="p02-s01-t07" type="GSL-1">studies</t>
                 <t id="p02-s01-t08" type="GSL-1">the</t>
@@ -169,12 +172,12 @@
                 <t id="p02-s01-t13" type="GSL-1">system</t>
                 <punc>,</punc>
                 <t id="p02-s01-t14" type="GSL-1">and</t>
-				<connector>
-                <t id="p02-s01-t15" type="GSL-1">although</t>
-				</connector>
-				<anaphor>
-                <t id="p02-s01-t16" type="GSL-1">it</t>
-				</anaphor>
+                <connector>
+                    <t id="p02-s01-t15" type="GSL-1">although</t>
+                </connector>
+                <anaphor>
+                    <t id="p02-s01-t16" type="GSL-1">it</t>
+                </anaphor>
                 <t id="p02-s01-t17" type="GSL-1">is</t>
                 <t id="p02-s01-t18" type="GSL-1">considered</t>
                 <t id="p02-s01-t19" type="GSL-1">a</t>
@@ -182,9 +185,9 @@
                 <t id="p02-s01-t21" type="GSL-1">of</t>
                 <t id="p02-s01-t22">biology</t>
                 <punc>,</punc>
-				<anaphor>
-                <t id="p02-s01-t23" type="GSL-1">it</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p02-s01-t23" type="GSL-1">it</t>
+                </anaphor>
                 <t id="p02-s01-t24" type="GSL-1">is</t>
                 <t id="p02-s01-t25" type="GSL-1">also</t>
                 <t id="p02-s01-t26" type="GSL-1">recognized</t>
@@ -196,24 +199,24 @@
                 <t id="p02-s01-t32" type="GSL-1">study</t>
                 <t id="p02-s01-t33" type="GSL-1">known</t>
                 <t id="p02-s01-t34" type="GSL-1">as</t>
-				<term>
-                <t id="p02-s01-t35">neuroscience</t>
-				</term>
+                <term>
+                    <t id="p02-s01-t35">neuroscience</t>
+                </term>
                 <punc>.</punc>
             </sentence>
             <sentence id="p02-s02">
                 <t id="p02-s02-t01" type="GSL-1">Because</t>
                 <t id="p02-s02-t02" type="GSL-1">of</t>
-				<anaphor>
-                <t id="p02-s02-t03" type="GSL-1">its</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p02-s02-t03" type="GSL-1">its</t>
+                </anaphor>
                 <t id="p02-s02-t04">interdisciplinary</t>
                 <t id="p02-s02-t05" type="GSL-1">nature</t>
                 <punc>,</punc>
-				<anaphor>
-                <t id="p02-s02-t06" type="GSL-1">this</t>
-                <t id="p02-s02-t07">subdiscipline</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p02-s02-t06" type="GSL-1">this</t>
+                    <t id="p02-s02-t07">subdiscipline</t>
+                </anaphor>
                 <t id="p02-s02-t08" type="GSL-1">studies</t>
                 <t id="p02-s02-t09" type="GSL-1">different</t>
                 <t id="p02-s02-t10" type="Coxhead-AWL-1,AR-AWL-1a">functions</t>

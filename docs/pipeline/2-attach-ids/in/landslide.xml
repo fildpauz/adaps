@@ -5,12 +5,15 @@
     <citation>Wikipedia: “Landslide”. 
         Retrieved from http://en.wikipedia.org/wiki/Landslide on 7 Sep 2014.</citation>
     <url>http://en.wikipedia.org/wiki/Landslide</url>
+    <info type="arise">
+        <arise-info book="2" section="2" unit="7" part="1" item="C" firstpage="33"/>
+    </info>
     <body>
         <paragraph>
             <sentence>
                 <t>Muddy</t>
-				<punc>-</punc>
-				<t>debris</t>
+                <punc>-</punc>
+                <t>debris</t>
                 <t>flows</t>
                 <t>in</t>
                 <t>alpine</t>
@@ -31,8 +34,8 @@
             </sentence>
             <sentence>
                 <t>Muddy</t>
-				<punc>-</punc>
-				<t>debris</t>
+                <punc>-</punc>
+                <t>debris</t>
                 <t>flows</t>
                 <t>can</t>
                 <t>start</t>
@@ -41,8 +44,8 @@
                 <t>result</t>
                 <t>of</t>
                 <t>slope</t>
-				<punc>-</punc>
-				<t>related</t>
+                <punc>-</punc>
+                <t>related</t>
                 <t>factors</t>
                 <t>and</t>
                 <t>shallow</t>
@@ -99,9 +102,9 @@
             </sentence>
             <sentence>
                 <t>The</t>
-              	<t>solid</t>
-				<punc>-</punc>
-				<t>liquid</t>
+                <t>solid</t>
+                <punc>-</punc>
+                <t>liquid</t>
                 <t>mixture</t>
                 <t>can</t>
                 <t>reach</t>

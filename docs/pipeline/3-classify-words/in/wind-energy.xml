@@ -2,205 +2,205 @@
 <!DOCTYPE document
   SYSTEM "../../../xml/adaps.dtd">
 <document>
-   <title>Wind Energy</title>
-   <citation>Rose, RL., “Academic Reading in Science and Engineering, Book 1”, DTP Publishing: Tokyo, Japan., Retrieved from https://www.amazon.co.jp/Academic-Reading-Science-Engineering-Book1/dp/4862115268</citation>
-   <url>https://www.amazon.co.jp/Academic-Reading-Science-Engineering-Book1/dp/4862115268</url>
-   <info type="arise">
-      <arise-info book="1" section="3" unit="1" part="3" firstpage="35"/>
-   </info>
-   <body>
-      <paragraph id="p01">
-         <sentence id="p01-s01">
-            <t id="p01-s01-t01">Wind</t>
-            <t id="p01-s01-t02">energy</t>
-            <punc>—</punc>
-            <t id="p01-s01-t03">that</t>
-            <t id="p01-s01-t04">is</t>
-            <punc>,</punc>
-            <t id="p01-s01-t05">consumer</t>
-            <t id="p01-s01-t06">energy</t>
-            <t id="p01-s01-t07">provided</t>
-            <t id="p01-s01-t08">by</t>
-            <t id="p01-s01-t09">the</t>
-            <t id="p01-s01-t10">conversion</t>
-            <t id="p01-s01-t11">of</t>
-            <t id="p01-s01-t12">wind</t>
-            <t id="p01-s01-t13">power</t>
-            <t id="p01-s01-t14">captured</t>
-            <t id="p01-s01-t15">by</t>
-            <t id="p01-s01-t16">high-technology</t>
-            <t id="p01-s01-t17">windmills</t>
-            <t id="p01-s01-t18">on</t>
-            <t id="p01-s01-t19">large</t>
-            <t id="p01-s01-t20">wind</t>
-            <t id="p01-s01-t21">farms</t>
-            <punc>—</punc>
-            <t id="p01-s01-t22">seems</t>
-            <t id="p01-s01-t23">like</t>
-            <t id="p01-s01-t24">a</t>
-            <t id="p01-s01-t25">very</t>
-            <t id="p01-s01-t26">promising</t>
-            <t id="p01-s01-t27">way</t>
-            <t id="p01-s01-t28">to</t>
-            <t id="p01-s01-t29">solve</t>
-            <t id="p01-s01-t30">some</t>
-            <t id="p01-s01-t31">of</t>
-            <t id="p01-s01-t32">our</t>
-            <t id="p01-s01-t33">energy</t>
-            <t id="p01-s01-t34">needs</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p01-s02">
-            <t id="p01-s02-t01">At</t>
-            <t id="p01-s02-t02">first</t>
-            <t id="p01-s02-t03">glance</t>
-            <punc>,</punc>
-            <t id="p01-s02-t04">it</t>
-            <t id="p01-s02-t05">seems</t>
-            <t id="p01-s02-t06">to</t>
-            <t id="p01-s02-t07">be</t>
-            <t id="p01-s02-t08">a</t>
-            <t id="p01-s02-t09">totally</t>
-            <t id="p01-s02-t10">harmless</t>
-            <t id="p01-s02-t11">source</t>
-            <t id="p01-s02-t12">of</t>
-            <t id="p01-s02-t13">energy</t>
-            <punc>:</punc>
-            <t id="p01-s02-t14">it</t>
-            <t id="p01-s02-t15">is</t>
-            <t id="p01-s02-t16">quiet</t>
-            <punc>,</punc>
-            <t id="p01-s02-t17">uses</t>
-            <t id="p01-s02-t18">a</t>
-            <t id="p01-s02-t19">resource</t>
-            <t id="p01-s02-t20">that</t>
-            <t id="p01-s02-t21">is</t>
-            <t id="p01-s02-t22">completely</t>
-            <t id="p01-s02-t23">renewable</t>
-            <punc>,</punc>
-            <t id="p01-s02-t24">and</t>
-            <t id="p01-s02-t25">produces</t>
-            <t id="p01-s02-t26">very</t>
-            <t id="p01-s02-t27">little</t>
-            <t id="p01-s02-t28">waste</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p01-s03">
-            <t id="p01-s03-t01">Therefore</t>
-            <punc>,</punc>
-            <t id="p01-s03-t02">it</t>
-            <t id="p01-s03-t03">is</t>
-            <t id="p01-s03-t04">not</t>
-            <t id="p01-s03-t05">surprising</t>
-            <t id="p01-s03-t06">that</t>
-            <t id="p01-s03-t07">the</t>
-            <t id="p01-s03-t08">development</t>
-            <t id="p01-s03-t09">of</t>
-            <t id="p01-s03-t10">wind</t>
-            <t id="p01-s03-t11">energy</t>
-            <t id="p01-s03-t12">is</t>
-            <t id="p01-s03-t13">spreading</t>
-            <punc>[</punc>
-            <t id="p01-s03-t14">1</t>
-            <punc>]</punc>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p01-s04">
-            <t id="p01-s04-t01">However</t>
-            <punc>,</punc>
-            <t id="p01-s04-t02">energy</t>
-            <t id="p01-s04-t03">production</t>
-            <t id="p01-s04-t04">from</t>
-            <t id="p01-s04-t05">wind</t>
-            <t id="p01-s04-t06">farms</t>
-            <t id="p01-s04-t07">is</t>
-            <t id="p01-s04-t08">not</t>
-            <t id="p01-s04-t09">without</t>
-            <t id="p01-s04-t10">some</t>
-            <t id="p01-s04-t11">risks</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p01-s05">
-            <t id="p01-s05-t01">For</t>
-            <t id="p01-s05-t02">instance</t>
-            <punc>,</punc>
-            <t id="p01-s05-t03">a</t>
-            <t id="p01-s05-t04">large</t>
-            <t id="p01-s05-t05">number</t>
-            <t id="p01-s05-t06">of</t>
-            <t id="p01-s05-t07">bats</t>
-            <t id="p01-s05-t08">have</t>
-            <t id="p01-s05-t09">been</t>
-            <t id="p01-s05-t10">found</t>
-            <t id="p01-s05-t11">dead</t>
-            <t id="p01-s05-t12">at</t>
-            <t id="p01-s05-t13">several</t>
-            <t id="p01-s05-t14">wind</t>
-            <t id="p01-s05-t15">farms</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p01-s06">
-            <t id="p01-s06-t01">Studies</t>
-            <t id="p01-s06-t02">show</t>
-            <t id="p01-s06-t03">that</t>
-            <t id="p01-s06-t04">the</t>
-            <t id="p01-s06-t05">low</t>
-            <t id="p01-s06-t06">pressure</t>
-            <t id="p01-s06-t07">created</t>
-            <t id="p01-s06-t08">by</t>
-            <t id="p01-s06-t09">the</t>
-            <t id="p01-s06-t10">spinning</t>
-            <t id="p01-s06-t11">turbine</t>
-            <t id="p01-s06-t12">blades</t>
-            <t id="p01-s06-t13">causes</t>
-            <t id="p01-s06-t14">bats'</t>
-            <t id="p01-s06-t15">lungs</t>
-            <t id="p01-s06-t16">to</t>
-            <t id="p01-s06-t17">burst</t>
-            <punc>[</punc>
-            <t id="p01-s06-t18">2</t>
-            <punc>]</punc>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p01-s07">
-            <t id="p01-s07-t01">This</t>
-            <t id="p01-s07-t02">is</t>
-            <t id="p01-s07-t03">a</t>
-            <t id="p01-s07-t04">definite</t>
-            <t id="p01-s07-t05">cost</t>
-            <t id="p01-s07-t06">that</t>
-            <t id="p01-s07-t07">needs</t>
-            <t id="p01-s07-t08">to</t>
-            <t id="p01-s07-t09">be</t>
-            <t id="p01-s07-t10">taken</t>
-            <t id="p01-s07-t11">into</t>
-            <t id="p01-s07-t12">consideration</t>
-            <t id="p01-s07-t13">as</t>
-            <t id="p01-s07-t14">we</t>
-            <t id="p01-s07-t15">build</t>
-            <t id="p01-s07-t16">more</t>
-            <t id="p01-s07-t17">wind</t>
-            <t id="p01-s07-t18">farms</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p01-s08">
-            <t id="p01-s08-t01">In</t>
-            <t id="p01-s08-t02">addition</t>
-            <punc>,</punc>
-            <t id="p01-s08-t03">future</t>
-            <t id="p01-s08-t04">research</t>
-            <t id="p01-s08-t05">should</t>
-            <t id="p01-s08-t06">focus</t>
-            <t id="p01-s08-t07">on</t>
-            <t id="p01-s08-t08">how</t>
-            <t id="p01-s08-t09">to</t>
-            <t id="p01-s08-t10">minimize</t>
-            <t id="p01-s08-t11">these</t>
-            <t id="p01-s08-t12">kinds</t>
-            <t id="p01-s08-t13">of</t>
-            <t id="p01-s08-t14">risks</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-   </body>
+    <title>Wind Energy</title>
+    <citation>Rose, RL., “Academic Reading in Science and Engineering, Book 1”, DTP Publishing: Tokyo, Japan., Retrieved from https://www.amazon.co.jp/Academic-Reading-Science-Engineering-Book1/dp/4862115268</citation>
+    <url>https://www.amazon.co.jp/Academic-Reading-Science-Engineering-Book1/dp/4862115268</url>
+    <info type="arise">
+        <arise-info book="1" section="3" unit="1" part="3" firstpage="35"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01">Wind</t>
+                <t id="p01-s01-t02">energy</t>
+                <punc>—</punc>
+                <t id="p01-s01-t03">that</t>
+                <t id="p01-s01-t04">is</t>
+                <punc>,</punc>
+                <t id="p01-s01-t05">consumer</t>
+                <t id="p01-s01-t06">energy</t>
+                <t id="p01-s01-t07">provided</t>
+                <t id="p01-s01-t08">by</t>
+                <t id="p01-s01-t09">the</t>
+                <t id="p01-s01-t10">conversion</t>
+                <t id="p01-s01-t11">of</t>
+                <t id="p01-s01-t12">wind</t>
+                <t id="p01-s01-t13">power</t>
+                <t id="p01-s01-t14">captured</t>
+                <t id="p01-s01-t15">by</t>
+                <t id="p01-s01-t16">high-technology</t>
+                <t id="p01-s01-t17">windmills</t>
+                <t id="p01-s01-t18">on</t>
+                <t id="p01-s01-t19">large</t>
+                <t id="p01-s01-t20">wind</t>
+                <t id="p01-s01-t21">farms</t>
+                <punc>—</punc>
+                <t id="p01-s01-t22">seems</t>
+                <t id="p01-s01-t23">like</t>
+                <t id="p01-s01-t24">a</t>
+                <t id="p01-s01-t25">very</t>
+                <t id="p01-s01-t26">promising</t>
+                <t id="p01-s01-t27">way</t>
+                <t id="p01-s01-t28">to</t>
+                <t id="p01-s01-t29">solve</t>
+                <t id="p01-s01-t30">some</t>
+                <t id="p01-s01-t31">of</t>
+                <t id="p01-s01-t32">our</t>
+                <t id="p01-s01-t33">energy</t>
+                <t id="p01-s01-t34">needs</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01">At</t>
+                <t id="p01-s02-t02">first</t>
+                <t id="p01-s02-t03">glance</t>
+                <punc>,</punc>
+                <t id="p01-s02-t04">it</t>
+                <t id="p01-s02-t05">seems</t>
+                <t id="p01-s02-t06">to</t>
+                <t id="p01-s02-t07">be</t>
+                <t id="p01-s02-t08">a</t>
+                <t id="p01-s02-t09">totally</t>
+                <t id="p01-s02-t10">harmless</t>
+                <t id="p01-s02-t11">source</t>
+                <t id="p01-s02-t12">of</t>
+                <t id="p01-s02-t13">energy</t>
+                <punc>:</punc>
+                <t id="p01-s02-t14">it</t>
+                <t id="p01-s02-t15">is</t>
+                <t id="p01-s02-t16">quiet</t>
+                <punc>,</punc>
+                <t id="p01-s02-t17">uses</t>
+                <t id="p01-s02-t18">a</t>
+                <t id="p01-s02-t19">resource</t>
+                <t id="p01-s02-t20">that</t>
+                <t id="p01-s02-t21">is</t>
+                <t id="p01-s02-t22">completely</t>
+                <t id="p01-s02-t23">renewable</t>
+                <punc>,</punc>
+                <t id="p01-s02-t24">and</t>
+                <t id="p01-s02-t25">produces</t>
+                <t id="p01-s02-t26">very</t>
+                <t id="p01-s02-t27">little</t>
+                <t id="p01-s02-t28">waste</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s03">
+                <t id="p01-s03-t01">Therefore</t>
+                <punc>,</punc>
+                <t id="p01-s03-t02">it</t>
+                <t id="p01-s03-t03">is</t>
+                <t id="p01-s03-t04">not</t>
+                <t id="p01-s03-t05">surprising</t>
+                <t id="p01-s03-t06">that</t>
+                <t id="p01-s03-t07">the</t>
+                <t id="p01-s03-t08">development</t>
+                <t id="p01-s03-t09">of</t>
+                <t id="p01-s03-t10">wind</t>
+                <t id="p01-s03-t11">energy</t>
+                <t id="p01-s03-t12">is</t>
+                <t id="p01-s03-t13">spreading</t>
+                <punc>[</punc>
+                <t id="p01-s03-t14">1</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s04">
+                <t id="p01-s04-t01">However</t>
+                <punc>,</punc>
+                <t id="p01-s04-t02">energy</t>
+                <t id="p01-s04-t03">production</t>
+                <t id="p01-s04-t04">from</t>
+                <t id="p01-s04-t05">wind</t>
+                <t id="p01-s04-t06">farms</t>
+                <t id="p01-s04-t07">is</t>
+                <t id="p01-s04-t08">not</t>
+                <t id="p01-s04-t09">without</t>
+                <t id="p01-s04-t10">some</t>
+                <t id="p01-s04-t11">risks</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s05">
+                <t id="p01-s05-t01">For</t>
+                <t id="p01-s05-t02">instance</t>
+                <punc>,</punc>
+                <t id="p01-s05-t03">a</t>
+                <t id="p01-s05-t04">large</t>
+                <t id="p01-s05-t05">number</t>
+                <t id="p01-s05-t06">of</t>
+                <t id="p01-s05-t07">bats</t>
+                <t id="p01-s05-t08">have</t>
+                <t id="p01-s05-t09">been</t>
+                <t id="p01-s05-t10">found</t>
+                <t id="p01-s05-t11">dead</t>
+                <t id="p01-s05-t12">at</t>
+                <t id="p01-s05-t13">several</t>
+                <t id="p01-s05-t14">wind</t>
+                <t id="p01-s05-t15">farms</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s06">
+                <t id="p01-s06-t01">Studies</t>
+                <t id="p01-s06-t02">show</t>
+                <t id="p01-s06-t03">that</t>
+                <t id="p01-s06-t04">the</t>
+                <t id="p01-s06-t05">low</t>
+                <t id="p01-s06-t06">pressure</t>
+                <t id="p01-s06-t07">created</t>
+                <t id="p01-s06-t08">by</t>
+                <t id="p01-s06-t09">the</t>
+                <t id="p01-s06-t10">spinning</t>
+                <t id="p01-s06-t11">turbine</t>
+                <t id="p01-s06-t12">blades</t>
+                <t id="p01-s06-t13">causes</t>
+                <t id="p01-s06-t14">bats'</t>
+                <t id="p01-s06-t15">lungs</t>
+                <t id="p01-s06-t16">to</t>
+                <t id="p01-s06-t17">burst</t>
+                <punc>[</punc>
+                <t id="p01-s06-t18">2</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s07">
+                <t id="p01-s07-t01">This</t>
+                <t id="p01-s07-t02">is</t>
+                <t id="p01-s07-t03">a</t>
+                <t id="p01-s07-t04">definite</t>
+                <t id="p01-s07-t05">cost</t>
+                <t id="p01-s07-t06">that</t>
+                <t id="p01-s07-t07">needs</t>
+                <t id="p01-s07-t08">to</t>
+                <t id="p01-s07-t09">be</t>
+                <t id="p01-s07-t10">taken</t>
+                <t id="p01-s07-t11">into</t>
+                <t id="p01-s07-t12">consideration</t>
+                <t id="p01-s07-t13">as</t>
+                <t id="p01-s07-t14">we</t>
+                <t id="p01-s07-t15">build</t>
+                <t id="p01-s07-t16">more</t>
+                <t id="p01-s07-t17">wind</t>
+                <t id="p01-s07-t18">farms</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s08">
+                <t id="p01-s08-t01">In</t>
+                <t id="p01-s08-t02">addition</t>
+                <punc>,</punc>
+                <t id="p01-s08-t03">future</t>
+                <t id="p01-s08-t04">research</t>
+                <t id="p01-s08-t05">should</t>
+                <t id="p01-s08-t06">focus</t>
+                <t id="p01-s08-t07">on</t>
+                <t id="p01-s08-t08">how</t>
+                <t id="p01-s08-t09">to</t>
+                <t id="p01-s08-t10">minimize</t>
+                <t id="p01-s08-t11">these</t>
+                <t id="p01-s08-t12">kinds</t>
+                <t id="p01-s08-t13">of</t>
+                <t id="p01-s08-t14">risks</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
 </document>

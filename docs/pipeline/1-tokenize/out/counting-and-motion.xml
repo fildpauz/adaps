@@ -1,972 +1,975 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
 <document>
-<title>Counting Is Easier while Experiencing a Congruent Motion</title>
-<citation>Lugli L, Baroni G, Anelli F, Borghi AM, Nicoletti R (2013) Counting Is Easier while Experiencing a Congruent Motion. PLoS ONE 8(5):e64500. doi:10.1371/journal/pone.0064500
-Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064500 on 04 Oct 2016.</citation>
-<url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064500</url>
-<body>
-<paragraph>
-<sentence>
-<t>We</t>
-<t>calculate</t>
-<t>during</t>
-<t>each</t>
-<t>phase</t>
-<t>of</t>
-<t>our</t>
-<t>lives</t>
-<punc>:</punc>
-<t>we</t>
-<t>try</t>
-<t>to</t>
-<t>understand</t>
-<t>what</t>
-<t>happens</t>
-<t>when</t>
-<t>we</t>
-<t>invest</t>
-<t>our</t>
-<t>money</t>
-<punc>,</punc>
-<t>when</t>
-<t>we</t>
-<t>try</t>
-<t>to</t>
-<t>keep</t>
-<t>time</t>
-<t>and</t>
-<t>when</t>
-<t>we</t>
-<t>have</t>
-<t>to</t>
-<t>go</t>
-<t>home</t>
-<t>taking</t>
-<t>the</t>
-<t>right</t>
-<t>bus</t>
-<t>at</t>
-<t>the</t>
-<t>right</t>
-<t>time</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>All</t>
-<t>these</t>
-<t>everyday</t>
-<t>activities</t>
-<t>involve</t>
-<t>numbers</t>
-<t>and</t>
-<t>the</t>
-<t>relation</t>
-<t>between</t>
-<t>numbers</t>
-<t>and</t>
-<t>their</t>
-<t>magnitude</t>
-<punc>,</punc>
-<t>which</t>
-<t>means</t>
-<t>counting</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>Different</t>
-<t>researches</t>
-<t>have</t>
-<t>consistently</t>
-<t>suggested</t>
-<t>that</t>
-<t>numerical</t>
-<t>magnitude</t>
-<t>is</t>
-<t>linked</t>
-<t>with</t>
-<t>the</t>
-<t>processing</t>
-<t>of</t>
-<t>spatial</t>
-<t>information</t>
-<punc>[</punc>
-<t>1</t>
-<punc>]</punc>
-<punc>,</punc>
-<punc>[</punc>
-<t>2</t>
-<punc>]</punc>
-<punc>,</punc>
-<t>to</t>
-<t>the</t>
-<t>extent</t>
-<t>that</t>
-<t>it</t>
-<t>has</t>
-<t>been</t>
-<t>postulated</t>
-<t>a</t>
-<t>common</t>
-<t>cortical</t>
-<t>metrics</t>
-<t>of</t>
-<t>time</t>
-<punc>,</punc>
-<t>space</t>
-<punc>,</punc>
-<t>and</t>
-<t>quantity</t>
-<punc>[</punc>
-<t>3</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>A</t>
-<t>straightforward</t>
-<t>demonstration</t>
-<t>of</t>
-<t>the</t>
-<t>strong</t>
-<t>association</t>
-<t>between</t>
-<t>numbers</t>
-<t>and</t>
-<t>space</t>
-<t>can</t>
-<t>be</t>
-<t>found</t>
-<t>in</t>
-<t>the</t>
-<t>so-called</t>
-<t>SNARC</t>
-<punc>(</punc>
-<t>Spatial</t>
-<t>Numerical</t>
-<t>Association</t>
-<t>of</t>
-<t>Response</t>
-<t>Codes</t>
-<punc>)</punc>
-<t>effect</t>
-<punc>[</punc>
-<t>4</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>In</t>
-<t>this</t>
-<t>task</t>
-<punc>,</punc>
-<t>participants</t>
-<t>are</t>
-<t>typically</t>
-<t>faced</t>
-<t>with</t>
-<t>numbers</t>
-<t>ranging</t>
-<t>from</t>
-<t>1</t>
-<t>to</t>
-<t>9</t>
-<t>and</t>
-<t>asked</t>
-<t>to</t>
-<t>make</t>
-<t>a</t>
-<t>parity</t>
-<t>judgment</t>
-<t>by</t>
-<t>pressing</t>
-<t>a</t>
-<t>left</t>
-<t>or</t>
-<t>right</t>
-<t>key</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>Results</t>
-<t>show</t>
-<t>better</t>
-<t>performances</t>
-<t>when</t>
-<t>responding</t>
-<t>with</t>
-<t>the</t>
-<t>left</t>
-<t>key</t>
-<t>to</t>
-<t>small</t>
-<t>numbers</t>
-<punc>(</punc>
-<t>e.g</t>
-<punc>.</punc>
-<punc>,</punc>
-<t>2</t>
-<punc>)</punc>
-<t>and</t>
-<t>with</t>
-<t>the</t>
-<t>right</t>
-<t>key</t>
-<t>to</t>
-<t>large</t>
-<t>numbers</t>
-<punc>(</punc>
-<t>e.g</t>
-<punc>.</punc>
-<punc>,</punc>
-<t>7</t>
-<punc>)</punc>
-<punc>,</punc>
-<t>with</t>
-<t>respect</t>
-<t>to</t>
-<t>the</t>
-<t>opposite</t>
-<t>instructions</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>This</t>
-<t>evidence</t>
-<t>led</t>
-<t>Dehaene</t>
-<t>and</t>
-<t>co-authors</t>
-<t>to</t>
-<t>postulate</t>
-<t>the</t>
-<t>existence</t>
-<t>of</t>
-<t>an</t>
-<t>horizontal</t>
-<t>mental</t>
-<t>number</t>
-<t>line</t>
-<punc>(</punc>
-<t>MNL</t>
-<punc>)</punc>
-<t>where</t>
-<t>numbers</t>
-<t>are</t>
-<t>progressively</t>
-<t>located</t>
-<t>from</t>
-<t>left</t>
-<t>to</t>
-<t>right</t>
-<t>according</t>
-<t>to</t>
-<t>their</t>
-<t>magnitude</t>
-<punc>(</punc>
-<t>see</t>
-<punc>[</punc>
-<t>5</t>
-<punc>]</punc>
-<punc>,</punc>
-<punc>[</punc>
-<t>6</t>
-<punc>]</punc>
-<punc>,</punc>
-<punc>[</punc>
-<t>7</t>
-<punc>]</punc>
-<punc>,</punc>
-<t>see</t>
-<t>also</t>
-<punc>[</punc>
-<t>8</t>
-<punc>]</punc>
-<t>for</t>
-<t>a</t>
-<t>different</t>
-<t>account</t>
-<punc>)</punc>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>The</t>
-<t>existence</t>
-<t>of</t>
-<t>an</t>
-<t>horizontal</t>
-<t>MNL</t>
-<t>has</t>
-<t>gathered</t>
-<t>support</t>
-<t>by</t>
-<t>several</t>
-<t>evidence</t>
-<t>so</t>
-<t>far</t>
-<punc>,</punc>
-<t>while</t>
-<t>few</t>
-<t>studies</t>
-<t>have</t>
-<t>found</t>
-<t>a</t>
-<t>SNARC</t>
-<t>effect</t>
-<t>also</t>
-<t>for</t>
-<t>vertical</t>
-<t>number</t>
-<t>arrangements</t>
-<punc>(</punc>
-<t>i.e</t>
-<punc>.</punc>
-<punc>,</punc>
-<t>a</t>
-<t>facilitation</t>
-<t>for</t>
-<t>upward</t>
-<t>or</t>
-<t>downward</t>
-<t>responses</t>
-<t>to</t>
-<t>large</t>
-<t>and</t>
-<t>small</t>
-<t>numbers</t>
-<punc>,</punc>
-<t>respectively</t>
-<punc>)</punc>
-<t>across</t>
-<t>different</t>
-<t>response</t>
-<t>modalities</t>
-<punc>,</punc>
-<t>such</t>
-<t>as</t>
-<t>key-presses</t>
-<punc>[</punc>
-<t>9</t>
-<punc>]</punc>
-<t>and</t>
-<t>eye</t>
-<t>movements</t>
-<punc>[</punc>
-<t>10</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>Recently</t>
-<punc>,</punc>
-<t>Holmes</t>
-<t>and</t>
-<t>Lourenco</t>
-<punc>[</punc>
-<t>11</t>
-<punc>]</punc>
-<t>focused</t>
-<t>on</t>
-<t>the</t>
-<t>relative</t>
-<t>strength</t>
-<t>of</t>
-<t>the</t>
-<t>horizontal</t>
-<t>and</t>
-<t>vertical</t>
-<t>mental</t>
-<t>number</t>
-<t>organization</t>
-<t>and</t>
-<t>found</t>
-<t>that</t>
-<t>the</t>
-<t>vertical</t>
-<t>axis</t>
-<t>would</t>
-<t>be</t>
-<t>only</t>
-<t>triggered</t>
-<t>when</t>
-<t>numbers</t>
-<t>are</t>
-<t>conceptualized</t>
-<t>as</t>
-<t>magnitudes</t>
-<t>that</t>
-<t>elicit</t>
-<t>an</t>
-<t>orientation</t>
-<punc>(</punc>
-<t>e.g</t>
-<punc>.</punc>
-<punc>,</punc>
-<t>1st</t>
-<t>floor</t>
-<t>from</t>
-<t>surface</t>
-<punc>,</punc>
-<t>2nd</t>
-<t>floor</t>
-<t>from</t>
-<t>surface</t>
-<punc>,</punc>
-<t>etc</t>
-<punc>)</punc>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph>
-<sentence>
-<t>Despite</t>
-<t>the</t>
-<t>majority</t>
-<t>of</t>
-<t>the</t>
-<t>SNARC</t>
-<t>studies</t>
-<t>focused</t>
-<t>on</t>
-<t>the</t>
-<t>influence</t>
-<t>that</t>
-<t>number</t>
-<t>representation</t>
-<t>has</t>
-<t>on</t>
-<t>spatial</t>
-<t>attention</t>
-<punc>[</punc>
-<t>12</t>
-<punc>]</punc>
-<punc>,</punc>
-<punc>[</punc>
-<t>13</t>
-<punc>]</punc>
-<punc>,</punc>
-<punc>[</punc>
-<t>14</t>
-<punc>]</punc>
-<punc>,</punc>
-<t>several</t>
-<t>researches</t>
-<t>have</t>
-<t>shown</t>
-<t>that</t>
-<t>numerical</t>
-<t>magnitude</t>
-<t>can</t>
-<t>also</t>
-<t>modulate</t>
-<t>action-related</t>
-<t>processes</t>
-<punc>[</punc>
-<t>15</t>
-<punc>]</punc>
-<punc>,</punc>
-<punc>[</punc>
-<t>16</t>
-<punc>]</punc>
-<punc>,</punc>
-<punc>[</punc>
-<t>17</t>
-<punc>]</punc>
-<punc>,</punc>
-<punc>[</punc>
-<t>18</t>
-<punc>]</punc>
-<punc>,</punc>
-<punc>[</punc>
-<t>19</t>
-<punc>]</punc>
-<punc>,</punc>
-<punc>[</punc>
-<t>20</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>Further</t>
-<t>studies</t>
-<t>demonstrated</t>
-<t>a</t>
-<t>bidirectional</t>
-<t>relation</t>
-<t>between</t>
-<t>numbers</t>
-<t>processing</t>
-<t>and</t>
-<t>action-related</t>
-<t>processes</t>
-<punc>(</punc>
-<t>i.e</t>
-<punc>.</punc>
-<punc>,</punc>
-<t>motor-to-semantic</t>
-<t>effect</t>
-<punc>,</punc>
-<punc>[</punc>
-<t>21],]23</t>
-<punc>]</punc>
-<punc>)</punc>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>More</t>
-<t>specifically</t>
-<punc>,</punc>
-<t>the</t>
-<t>motor-to-semantic</t>
-<t>effect</t>
-<t>revealed</t>
-<t>a</t>
-<t>facilitation</t>
-<punc>,</punc>
-<t>in</t>
-<t>terms</t>
-<t>of</t>
-<t>response</t>
-<t>latencies</t>
-<punc>,</punc>
-<t>when</t>
-<t>participants</t>
-<t>observed</t>
-<t>a</t>
-<t>closing</t>
-<t>grip</t>
-<t>posture</t>
-<t>of</t>
-<t>a</t>
-<t>biological</t>
-<t>hand</t>
-<t>and</t>
-<t>had</t>
-<t>to</t>
-<t>generate</t>
-<t>small</t>
-<t>numbers</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>Badets</t>
-<t>et</t>
-<t>al</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<punc>[</punc>
-<t>21</t>
-<punc>]</punc>
-<t>claimed</t>
-<t>that</t>
-<t>the</t>
-<punc>“</punc>
-<t>motor-to-semantic</t>
-<t>effect</t>
-<t>is</t>
-<t>assumed</t>
-<t>to</t>
-<t>come</t>
-<t>from</t>
-<t>the</t>
-<t>action</t>
-<t>system</t>
-<t>of</t>
-<t>the</t>
-<t>participant</t>
-<t>who</t>
-<t>either</t>
-<t>actively</t>
-<t>performs</t>
-<t>an</t>
-<t>action</t>
-<t>or</t>
-<t>passively</t>
-<t>experience</t>
-<t>a</t>
-<t>motion</t>
-<t>and</t>
-<t>generates</t>
-<t>a</t>
-<t>number</t>
-<t>after</t>
-<t/>
-<punc>”</punc>
-<punc>(</punc>
-<t>ibidem</t>
-<punc>,</punc>
-<t>p</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>2</t>
-<punc>)</punc>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>Other</t>
-<t>studies</t>
-<t>have</t>
-<t>investigated</t>
-<t>the</t>
-<t>influence</t>
-<t>of</t>
-<t>the</t>
-<t>specific</t>
-<t>body</t>
-<t>parts'</t>
-<t>movements</t>
-<punc>,</punc>
-<t>such</t>
-<t>as</t>
-<t>head</t>
-<t>positions</t>
-<punc>[</punc>
-<t>24</t>
-<punc>]</punc>
-<t>or</t>
-<t>ocular</t>
-<t>saccades</t>
-<punc>[</punc>
-<t>25</t>
-<punc>]</punc>
-<punc>,</punc>
-<t>on</t>
-<t>the</t>
-<t>generation</t>
-<t>of</t>
-<t>small</t>
-<t>numbers</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph>
-<sentence>
-<t>In</t>
-<t>our</t>
-<t>study</t>
-<t>we</t>
-<t>assess</t>
-<t>whether</t>
-<t>and</t>
-<t>to</t>
-<t>what</t>
-<t>extent</t>
-<t>motions</t>
-<t>experienced</t>
-<t>with</t>
-<t>the</t>
-<t>whole</t>
-<t>body</t>
-<t>can</t>
-<t>influence</t>
-<t>arithmetical</t>
-<t>calculations</t>
-<t>of</t>
-<t>addition</t>
-<t>and</t>
-<t>subtraction</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>We</t>
-<t>hypothesize</t>
-<punc>,</punc>
-<t>thus</t>
-<punc>,</punc>
-<t>that</t>
-<t>these</t>
-<t>calculations</t>
-<punc>,</punc>
-<t>both</t>
-<t>leading</t>
-<t>to</t>
-<t>numerical</t>
-<t>magnitudes</t>
-<punc>,</punc>
-<t>can</t>
-<t>be</t>
-<t>conceptualized</t>
-<t>along</t>
-<t>an</t>
-<t>upward</t>
-<t>and</t>
-<t>downward</t>
-<t>orientation</t>
-<t>for</t>
-<t>additions</t>
-<t>and</t>
-<t>subtractions</t>
-<punc>,</punc>
-<t>respectively</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>A</t>
-<t>study</t>
-<t>by</t>
-<t>Knops</t>
-<punc>,</punc>
-<t>Viarouge</t>
-<punc>,</punc>
-<t>and</t>
-<t>Dehaene</t>
-<punc>[</punc>
-<t>26</t>
-<punc>]</punc>
-<t>demonstrated</t>
-<t>that</t>
-<t>arithmetical</t>
-<t>calculations</t>
-<t>bias</t>
-<t>corresponding</t>
-<t>spatial</t>
-<t>location</t>
-<t>over</t>
-<t>others</t>
-<punc>:</punc>
-<t>participants</t>
-<t>tended</t>
-<t>to</t>
-<t>select</t>
-<t>the</t>
-<t>numerosity</t>
-<t>displayed</t>
-<t>in</t>
-<t>the</t>
-<t>upper</t>
-<t>right</t>
-<t>location</t>
-<t>for</t>
-<t>additions</t>
-<punc>,</punc>
-<t>and</t>
-<t>in</t>
-<t>the</t>
-<t>upper</t>
-<t>left</t>
-<t>location</t>
-<t>for</t>
-<t>subtractions</t>
-<punc>(</punc>
-<t>Space-Operation</t>
-<t>Association</t>
-<t>of</t>
-<t>Responses</t>
-<punc>:</punc>
-<t>SOAR</t>
-<punc>)</punc>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>Differently</t>
-<t>from</t>
-<t>Knops</t>
-<t>and</t>
-<t>colleagues</t>
-<punc>,</punc>
-<t>we</t>
-<t>ask</t>
-<t>participants</t>
-<punc>:</punc>
-<punc>(</punc>
-<t>a</t>
-<punc>)</punc>
-<t>to</t>
-<t>keep</t>
-<t>adding</t>
-<t>or</t>
-<t>subtracting</t>
-<t>the</t>
-<t>same</t>
-<t>quantity</t>
-<punc>(</punc>
-<t>i.e</t>
-<punc>.</punc>
-<punc>,</punc>
-<t>3</t>
-<punc>)</punc>
-<t>from</t>
-<t>a</t>
-<t>starting</t>
-<t>number</t>
-<punc>(</punc>
-<t>e.g</t>
-<punc>.</punc>
-<punc>,</punc>
-<t>578</t>
-<punc>)</punc>
-<t>in</t>
-<t>a</t>
-<t>set</t>
-<t>period</t>
-<t>of</t>
-<t>time</t>
-<punc>(</punc>
-<t>22</t>
-<t>seconds</t>
-<punc>)</punc>
-<punc>;</punc>
-<punc>(</punc>
-<t>b</t>
-<punc>)</punc>
-<t>to</t>
-<t>report</t>
-<t>the</t>
-<t>result</t>
-<t>of</t>
-<t>each</t>
-<t>calculation</t>
-<t>aloud</t>
-<punc>,</punc>
-<t>so</t>
-<t>that</t>
-<t>they</t>
-<t>could</t>
-<t>be</t>
-<t>more</t>
-<t>focused</t>
-<t>on</t>
-<t>the</t>
-<t>calculation</t>
-<t>process</t>
-<t>which</t>
-<t>was</t>
-<t>occurring</t>
-<t>on-line</t>
-<t>and</t>
-<t>progressively</t>
-<punc>;</punc>
-<punc>(</punc>
-<t>c</t>
-<punc>)</punc>
-<t>to</t>
-<t>experience</t>
-<t>ascending</t>
-<t>and</t>
-<t>descending</t>
-<t>motions</t>
-<t>with</t>
-<t>the</t>
-<t>whole</t>
-<t>body</t>
-<punc>,</punc>
-<t>either</t>
-<t>in</t>
-<t>a</t>
-<t>passive</t>
-<punc>(</punc>
-<t>going</t>
-<t>up</t>
-<t>and</t>
-<t>down</t>
-<t>taking</t>
-<t>an</t>
-<t>elevator</t>
-<punc>)</punc>
-<t>or</t>
-<t>in</t>
-<t>an</t>
-<t>active</t>
-<punc>(</punc>
-<t>walking</t>
-<t>up</t>
-<t>and</t>
-<t>down</t>
-<t>the</t>
-<t>stairs</t>
-<punc>)</punc>
-<t>mode</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph>
-<sentence>
-<t>To</t>
-<t>summarize</t>
-<punc>,</punc>
-<t>we</t>
-<t>predict</t>
-<t>a</t>
-<t>congruency</t>
-<t>effect</t>
-<t>between</t>
-<t>the</t>
-<t>direction</t>
-<t>of</t>
-<t>the</t>
-<t>experienced</t>
-<t>motion</t>
-<t>and</t>
-<t>the</t>
-<t>spatial</t>
-<t>orientation</t>
-<t>inferred</t>
-<t>by</t>
-<t>the</t>
-<t>type</t>
-<t>of</t>
-<t>calculation</t>
-<t>made</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>More</t>
-<t>specifically</t>
-<punc>,</punc>
-<t>we</t>
-<t>hypothesize</t>
-<t>a</t>
-<t>facilitation</t>
-<t>for</t>
-<t>the</t>
-<t>congruent</t>
-<t>conditions</t>
-<punc>(</punc>
-<t>i.e</t>
-<punc>.</punc>
-<punc>,</punc>
-<t>ascending</t>
-<t>body</t>
-<t>motion/upward</t>
-<t>orientation</t>
-<punc>:</punc>
-<t>additions</t>
-<punc>;</punc>
-<t>descending</t>
-<t>body</t>
-<t>motion/downward</t>
-<t>orientation</t>
-<punc>:</punc>
-<t>subtractions</t>
-<punc>)</punc>
-<t>with</t>
-<t>respect</t>
-<t>to</t>
-<t>the</t>
-<t>incongruent</t>
-<t>ones</t>
-<punc>(</punc>
-<t>i.e</t>
-<punc>.</punc>
-<punc>,</punc>
-<t>descending</t>
-<t>body</t>
-<t>motion/upward</t>
-<t>orientation</t>
-<punc>:</punc>
-<t>additions</t>
-<punc>;</punc>
-<t>ascending</t>
-<t>body</t>
-<t>motion/downward</t>
-<t>orientation</t>
-<punc>:</punc>
-<t>subtractions</t>
-<punc>)</punc>
-<punc>.</punc>
-</sentence>
-</paragraph>
-</body>
+    <title>Counting Is Easier while Experiencing a Congruent Motion</title>
+    <citation>Lugli L, Baroni G, Anelli F, Borghi AM, Nicoletti R (2013) Counting Is Easier while Experiencing a Congruent Motion. PLoS ONE 8(5):e64500. doi:10.1371/journal/pone.0064500
+        Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064500 on 04 Oct 2016.</citation>
+    <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064500</url>
+    <info type="arise">
+        <arise-info book="2" section="4" unit="5" firstpage="60" lastpage="61"/>
+    </info>
+    <body>
+        <paragraph>
+            <sentence>
+                <t>We</t>
+                <t>calculate</t>
+                <t>during</t>
+                <t>each</t>
+                <t>phase</t>
+                <t>of</t>
+                <t>our</t>
+                <t>lives</t>
+                <punc>:</punc>
+                <t>we</t>
+                <t>try</t>
+                <t>to</t>
+                <t>understand</t>
+                <t>what</t>
+                <t>happens</t>
+                <t>when</t>
+                <t>we</t>
+                <t>invest</t>
+                <t>our</t>
+                <t>money</t>
+                <punc>,</punc>
+                <t>when</t>
+                <t>we</t>
+                <t>try</t>
+                <t>to</t>
+                <t>keep</t>
+                <t>time</t>
+                <t>and</t>
+                <t>when</t>
+                <t>we</t>
+                <t>have</t>
+                <t>to</t>
+                <t>go</t>
+                <t>home</t>
+                <t>taking</t>
+                <t>the</t>
+                <t>right</t>
+                <t>bus</t>
+                <t>at</t>
+                <t>the</t>
+                <t>right</t>
+                <t>time</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>All</t>
+                <t>these</t>
+                <t>everyday</t>
+                <t>activities</t>
+                <t>involve</t>
+                <t>numbers</t>
+                <t>and</t>
+                <t>the</t>
+                <t>relation</t>
+                <t>between</t>
+                <t>numbers</t>
+                <t>and</t>
+                <t>their</t>
+                <t>magnitude</t>
+                <punc>,</punc>
+                <t>which</t>
+                <t>means</t>
+                <t>counting</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Different</t>
+                <t>researches</t>
+                <t>have</t>
+                <t>consistently</t>
+                <t>suggested</t>
+                <t>that</t>
+                <t>numerical</t>
+                <t>magnitude</t>
+                <t>is</t>
+                <t>linked</t>
+                <t>with</t>
+                <t>the</t>
+                <t>processing</t>
+                <t>of</t>
+                <t>spatial</t>
+                <t>information</t>
+                <punc>[</punc>
+                <t>1</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t>2</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <t>to</t>
+                <t>the</t>
+                <t>extent</t>
+                <t>that</t>
+                <t>it</t>
+                <t>has</t>
+                <t>been</t>
+                <t>postulated</t>
+                <t>a</t>
+                <t>common</t>
+                <t>cortical</t>
+                <t>metrics</t>
+                <t>of</t>
+                <t>time</t>
+                <punc>,</punc>
+                <t>space</t>
+                <punc>,</punc>
+                <t>and</t>
+                <t>quantity</t>
+                <punc>[</punc>
+                <t>3</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>A</t>
+                <t>straightforward</t>
+                <t>demonstration</t>
+                <t>of</t>
+                <t>the</t>
+                <t>strong</t>
+                <t>association</t>
+                <t>between</t>
+                <t>numbers</t>
+                <t>and</t>
+                <t>space</t>
+                <t>can</t>
+                <t>be</t>
+                <t>found</t>
+                <t>in</t>
+                <t>the</t>
+                <t>so-called</t>
+                <t>SNARC</t>
+                <punc>(</punc>
+                <t>Spatial</t>
+                <t>Numerical</t>
+                <t>Association</t>
+                <t>of</t>
+                <t>Response</t>
+                <t>Codes</t>
+                <punc>)</punc>
+                <t>effect</t>
+                <punc>[</punc>
+                <t>4</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>In</t>
+                <t>this</t>
+                <t>task</t>
+                <punc>,</punc>
+                <t>participants</t>
+                <t>are</t>
+                <t>typically</t>
+                <t>faced</t>
+                <t>with</t>
+                <t>numbers</t>
+                <t>ranging</t>
+                <t>from</t>
+                <t>1</t>
+                <t>to</t>
+                <t>9</t>
+                <t>and</t>
+                <t>asked</t>
+                <t>to</t>
+                <t>make</t>
+                <t>a</t>
+                <t>parity</t>
+                <t>judgment</t>
+                <t>by</t>
+                <t>pressing</t>
+                <t>a</t>
+                <t>left</t>
+                <t>or</t>
+                <t>right</t>
+                <t>key</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Results</t>
+                <t>show</t>
+                <t>better</t>
+                <t>performances</t>
+                <t>when</t>
+                <t>responding</t>
+                <t>with</t>
+                <t>the</t>
+                <t>left</t>
+                <t>key</t>
+                <t>to</t>
+                <t>small</t>
+                <t>numbers</t>
+                <punc>(</punc>
+                <t>e.g</t>
+                <punc>.</punc>
+                <punc>,</punc>
+                <t>2</t>
+                <punc>)</punc>
+                <t>and</t>
+                <t>with</t>
+                <t>the</t>
+                <t>right</t>
+                <t>key</t>
+                <t>to</t>
+                <t>large</t>
+                <t>numbers</t>
+                <punc>(</punc>
+                <t>e.g</t>
+                <punc>.</punc>
+                <punc>,</punc>
+                <t>7</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t>with</t>
+                <t>respect</t>
+                <t>to</t>
+                <t>the</t>
+                <t>opposite</t>
+                <t>instructions</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>This</t>
+                <t>evidence</t>
+                <t>led</t>
+                <t>Dehaene</t>
+                <t>and</t>
+                <t>co-authors</t>
+                <t>to</t>
+                <t>postulate</t>
+                <t>the</t>
+                <t>existence</t>
+                <t>of</t>
+                <t>an</t>
+                <t>horizontal</t>
+                <t>mental</t>
+                <t>number</t>
+                <t>line</t>
+                <punc>(</punc>
+                <t>MNL</t>
+                <punc>)</punc>
+                <t>where</t>
+                <t>numbers</t>
+                <t>are</t>
+                <t>progressively</t>
+                <t>located</t>
+                <t>from</t>
+                <t>left</t>
+                <t>to</t>
+                <t>right</t>
+                <t>according</t>
+                <t>to</t>
+                <t>their</t>
+                <t>magnitude</t>
+                <punc>(</punc>
+                <t>see</t>
+                <punc>[</punc>
+                <t>5</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t>6</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t>7</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <t>see</t>
+                <t>also</t>
+                <punc>[</punc>
+                <t>8</t>
+                <punc>]</punc>
+                <t>for</t>
+                <t>a</t>
+                <t>different</t>
+                <t>account</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>The</t>
+                <t>existence</t>
+                <t>of</t>
+                <t>an</t>
+                <t>horizontal</t>
+                <t>MNL</t>
+                <t>has</t>
+                <t>gathered</t>
+                <t>support</t>
+                <t>by</t>
+                <t>several</t>
+                <t>evidence</t>
+                <t>so</t>
+                <t>far</t>
+                <punc>,</punc>
+                <t>while</t>
+                <t>few</t>
+                <t>studies</t>
+                <t>have</t>
+                <t>found</t>
+                <t>a</t>
+                <t>SNARC</t>
+                <t>effect</t>
+                <t>also</t>
+                <t>for</t>
+                <t>vertical</t>
+                <t>number</t>
+                <t>arrangements</t>
+                <punc>(</punc>
+                <t>i.e</t>
+                <punc>.</punc>
+                <punc>,</punc>
+                <t>a</t>
+                <t>facilitation</t>
+                <t>for</t>
+                <t>upward</t>
+                <t>or</t>
+                <t>downward</t>
+                <t>responses</t>
+                <t>to</t>
+                <t>large</t>
+                <t>and</t>
+                <t>small</t>
+                <t>numbers</t>
+                <punc>,</punc>
+                <t>respectively</t>
+                <punc>)</punc>
+                <t>across</t>
+                <t>different</t>
+                <t>response</t>
+                <t>modalities</t>
+                <punc>,</punc>
+                <t>such</t>
+                <t>as</t>
+                <t>key-presses</t>
+                <punc>[</punc>
+                <t>9</t>
+                <punc>]</punc>
+                <t>and</t>
+                <t>eye</t>
+                <t>movements</t>
+                <punc>[</punc>
+                <t>10</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Recently</t>
+                <punc>,</punc>
+                <t>Holmes</t>
+                <t>and</t>
+                <t>Lourenco</t>
+                <punc>[</punc>
+                <t>11</t>
+                <punc>]</punc>
+                <t>focused</t>
+                <t>on</t>
+                <t>the</t>
+                <t>relative</t>
+                <t>strength</t>
+                <t>of</t>
+                <t>the</t>
+                <t>horizontal</t>
+                <t>and</t>
+                <t>vertical</t>
+                <t>mental</t>
+                <t>number</t>
+                <t>organization</t>
+                <t>and</t>
+                <t>found</t>
+                <t>that</t>
+                <t>the</t>
+                <t>vertical</t>
+                <t>axis</t>
+                <t>would</t>
+                <t>be</t>
+                <t>only</t>
+                <t>triggered</t>
+                <t>when</t>
+                <t>numbers</t>
+                <t>are</t>
+                <t>conceptualized</t>
+                <t>as</t>
+                <t>magnitudes</t>
+                <t>that</t>
+                <t>elicit</t>
+                <t>an</t>
+                <t>orientation</t>
+                <punc>(</punc>
+                <t>e.g</t>
+                <punc>.</punc>
+                <punc>,</punc>
+                <t>1st</t>
+                <t>floor</t>
+                <t>from</t>
+                <t>surface</t>
+                <punc>,</punc>
+                <t>2nd</t>
+                <t>floor</t>
+                <t>from</t>
+                <t>surface</t>
+                <punc>,</punc>
+                <t>etc</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph>
+            <sentence>
+                <t>Despite</t>
+                <t>the</t>
+                <t>majority</t>
+                <t>of</t>
+                <t>the</t>
+                <t>SNARC</t>
+                <t>studies</t>
+                <t>focused</t>
+                <t>on</t>
+                <t>the</t>
+                <t>influence</t>
+                <t>that</t>
+                <t>number</t>
+                <t>representation</t>
+                <t>has</t>
+                <t>on</t>
+                <t>spatial</t>
+                <t>attention</t>
+                <punc>[</punc>
+                <t>12</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t>13</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t>14</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <t>several</t>
+                <t>researches</t>
+                <t>have</t>
+                <t>shown</t>
+                <t>that</t>
+                <t>numerical</t>
+                <t>magnitude</t>
+                <t>can</t>
+                <t>also</t>
+                <t>modulate</t>
+                <t>action-related</t>
+                <t>processes</t>
+                <punc>[</punc>
+                <t>15</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t>16</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t>17</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t>18</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t>19</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t>20</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Further</t>
+                <t>studies</t>
+                <t>demonstrated</t>
+                <t>a</t>
+                <t>bidirectional</t>
+                <t>relation</t>
+                <t>between</t>
+                <t>numbers</t>
+                <t>processing</t>
+                <t>and</t>
+                <t>action-related</t>
+                <t>processes</t>
+                <punc>(</punc>
+                <t>i.e</t>
+                <punc>.</punc>
+                <punc>,</punc>
+                <t>motor-to-semantic</t>
+                <t>effect</t>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t>21],]23</t>
+                <punc>]</punc>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>More</t>
+                <t>specifically</t>
+                <punc>,</punc>
+                <t>the</t>
+                <t>motor-to-semantic</t>
+                <t>effect</t>
+                <t>revealed</t>
+                <t>a</t>
+                <t>facilitation</t>
+                <punc>,</punc>
+                <t>in</t>
+                <t>terms</t>
+                <t>of</t>
+                <t>response</t>
+                <t>latencies</t>
+                <punc>,</punc>
+                <t>when</t>
+                <t>participants</t>
+                <t>observed</t>
+                <t>a</t>
+                <t>closing</t>
+                <t>grip</t>
+                <t>posture</t>
+                <t>of</t>
+                <t>a</t>
+                <t>biological</t>
+                <t>hand</t>
+                <t>and</t>
+                <t>had</t>
+                <t>to</t>
+                <t>generate</t>
+                <t>small</t>
+                <t>numbers</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Badets</t>
+                <t>et</t>
+                <t>al</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <punc>[</punc>
+                <t>21</t>
+                <punc>]</punc>
+                <t>claimed</t>
+                <t>that</t>
+                <t>the</t>
+                <punc>“</punc>
+                <t>motor-to-semantic</t>
+                <t>effect</t>
+                <t>is</t>
+                <t>assumed</t>
+                <t>to</t>
+                <t>come</t>
+                <t>from</t>
+                <t>the</t>
+                <t>action</t>
+                <t>system</t>
+                <t>of</t>
+                <t>the</t>
+                <t>participant</t>
+                <t>who</t>
+                <t>either</t>
+                <t>actively</t>
+                <t>performs</t>
+                <t>an</t>
+                <t>action</t>
+                <t>or</t>
+                <t>passively</t>
+                <t>experience</t>
+                <t>a</t>
+                <t>motion</t>
+                <t>and</t>
+                <t>generates</t>
+                <t>a</t>
+                <t>number</t>
+                <t>after</t>
+                <t/>
+                <punc>”</punc>
+                <punc>(</punc>
+                <t>ibidem</t>
+                <punc>,</punc>
+                <t>p</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>2</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Other</t>
+                <t>studies</t>
+                <t>have</t>
+                <t>investigated</t>
+                <t>the</t>
+                <t>influence</t>
+                <t>of</t>
+                <t>the</t>
+                <t>specific</t>
+                <t>body</t>
+                <t>parts'</t>
+                <t>movements</t>
+                <punc>,</punc>
+                <t>such</t>
+                <t>as</t>
+                <t>head</t>
+                <t>positions</t>
+                <punc>[</punc>
+                <t>24</t>
+                <punc>]</punc>
+                <t>or</t>
+                <t>ocular</t>
+                <t>saccades</t>
+                <punc>[</punc>
+                <t>25</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <t>on</t>
+                <t>the</t>
+                <t>generation</t>
+                <t>of</t>
+                <t>small</t>
+                <t>numbers</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph>
+            <sentence>
+                <t>In</t>
+                <t>our</t>
+                <t>study</t>
+                <t>we</t>
+                <t>assess</t>
+                <t>whether</t>
+                <t>and</t>
+                <t>to</t>
+                <t>what</t>
+                <t>extent</t>
+                <t>motions</t>
+                <t>experienced</t>
+                <t>with</t>
+                <t>the</t>
+                <t>whole</t>
+                <t>body</t>
+                <t>can</t>
+                <t>influence</t>
+                <t>arithmetical</t>
+                <t>calculations</t>
+                <t>of</t>
+                <t>addition</t>
+                <t>and</t>
+                <t>subtraction</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>We</t>
+                <t>hypothesize</t>
+                <punc>,</punc>
+                <t>thus</t>
+                <punc>,</punc>
+                <t>that</t>
+                <t>these</t>
+                <t>calculations</t>
+                <punc>,</punc>
+                <t>both</t>
+                <t>leading</t>
+                <t>to</t>
+                <t>numerical</t>
+                <t>magnitudes</t>
+                <punc>,</punc>
+                <t>can</t>
+                <t>be</t>
+                <t>conceptualized</t>
+                <t>along</t>
+                <t>an</t>
+                <t>upward</t>
+                <t>and</t>
+                <t>downward</t>
+                <t>orientation</t>
+                <t>for</t>
+                <t>additions</t>
+                <t>and</t>
+                <t>subtractions</t>
+                <punc>,</punc>
+                <t>respectively</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>A</t>
+                <t>study</t>
+                <t>by</t>
+                <t>Knops</t>
+                <punc>,</punc>
+                <t>Viarouge</t>
+                <punc>,</punc>
+                <t>and</t>
+                <t>Dehaene</t>
+                <punc>[</punc>
+                <t>26</t>
+                <punc>]</punc>
+                <t>demonstrated</t>
+                <t>that</t>
+                <t>arithmetical</t>
+                <t>calculations</t>
+                <t>bias</t>
+                <t>corresponding</t>
+                <t>spatial</t>
+                <t>location</t>
+                <t>over</t>
+                <t>others</t>
+                <punc>:</punc>
+                <t>participants</t>
+                <t>tended</t>
+                <t>to</t>
+                <t>select</t>
+                <t>the</t>
+                <t>numerosity</t>
+                <t>displayed</t>
+                <t>in</t>
+                <t>the</t>
+                <t>upper</t>
+                <t>right</t>
+                <t>location</t>
+                <t>for</t>
+                <t>additions</t>
+                <punc>,</punc>
+                <t>and</t>
+                <t>in</t>
+                <t>the</t>
+                <t>upper</t>
+                <t>left</t>
+                <t>location</t>
+                <t>for</t>
+                <t>subtractions</t>
+                <punc>(</punc>
+                <t>Space-Operation</t>
+                <t>Association</t>
+                <t>of</t>
+                <t>Responses</t>
+                <punc>:</punc>
+                <t>SOAR</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Differently</t>
+                <t>from</t>
+                <t>Knops</t>
+                <t>and</t>
+                <t>colleagues</t>
+                <punc>,</punc>
+                <t>we</t>
+                <t>ask</t>
+                <t>participants</t>
+                <punc>:</punc>
+                <punc>(</punc>
+                <t>a</t>
+                <punc>)</punc>
+                <t>to</t>
+                <t>keep</t>
+                <t>adding</t>
+                <t>or</t>
+                <t>subtracting</t>
+                <t>the</t>
+                <t>same</t>
+                <t>quantity</t>
+                <punc>(</punc>
+                <t>i.e</t>
+                <punc>.</punc>
+                <punc>,</punc>
+                <t>3</t>
+                <punc>)</punc>
+                <t>from</t>
+                <t>a</t>
+                <t>starting</t>
+                <t>number</t>
+                <punc>(</punc>
+                <t>e.g</t>
+                <punc>.</punc>
+                <punc>,</punc>
+                <t>578</t>
+                <punc>)</punc>
+                <t>in</t>
+                <t>a</t>
+                <t>set</t>
+                <t>period</t>
+                <t>of</t>
+                <t>time</t>
+                <punc>(</punc>
+                <t>22</t>
+                <t>seconds</t>
+                <punc>)</punc>
+                <punc>;</punc>
+                <punc>(</punc>
+                <t>b</t>
+                <punc>)</punc>
+                <t>to</t>
+                <t>report</t>
+                <t>the</t>
+                <t>result</t>
+                <t>of</t>
+                <t>each</t>
+                <t>calculation</t>
+                <t>aloud</t>
+                <punc>,</punc>
+                <t>so</t>
+                <t>that</t>
+                <t>they</t>
+                <t>could</t>
+                <t>be</t>
+                <t>more</t>
+                <t>focused</t>
+                <t>on</t>
+                <t>the</t>
+                <t>calculation</t>
+                <t>process</t>
+                <t>which</t>
+                <t>was</t>
+                <t>occurring</t>
+                <t>on-line</t>
+                <t>and</t>
+                <t>progressively</t>
+                <punc>;</punc>
+                <punc>(</punc>
+                <t>c</t>
+                <punc>)</punc>
+                <t>to</t>
+                <t>experience</t>
+                <t>ascending</t>
+                <t>and</t>
+                <t>descending</t>
+                <t>motions</t>
+                <t>with</t>
+                <t>the</t>
+                <t>whole</t>
+                <t>body</t>
+                <punc>,</punc>
+                <t>either</t>
+                <t>in</t>
+                <t>a</t>
+                <t>passive</t>
+                <punc>(</punc>
+                <t>going</t>
+                <t>up</t>
+                <t>and</t>
+                <t>down</t>
+                <t>taking</t>
+                <t>an</t>
+                <t>elevator</t>
+                <punc>)</punc>
+                <t>or</t>
+                <t>in</t>
+                <t>an</t>
+                <t>active</t>
+                <punc>(</punc>
+                <t>walking</t>
+                <t>up</t>
+                <t>and</t>
+                <t>down</t>
+                <t>the</t>
+                <t>stairs</t>
+                <punc>)</punc>
+                <t>mode</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph>
+            <sentence>
+                <t>To</t>
+                <t>summarize</t>
+                <punc>,</punc>
+                <t>we</t>
+                <t>predict</t>
+                <t>a</t>
+                <t>congruency</t>
+                <t>effect</t>
+                <t>between</t>
+                <t>the</t>
+                <t>direction</t>
+                <t>of</t>
+                <t>the</t>
+                <t>experienced</t>
+                <t>motion</t>
+                <t>and</t>
+                <t>the</t>
+                <t>spatial</t>
+                <t>orientation</t>
+                <t>inferred</t>
+                <t>by</t>
+                <t>the</t>
+                <t>type</t>
+                <t>of</t>
+                <t>calculation</t>
+                <t>made</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>More</t>
+                <t>specifically</t>
+                <punc>,</punc>
+                <t>we</t>
+                <t>hypothesize</t>
+                <t>a</t>
+                <t>facilitation</t>
+                <t>for</t>
+                <t>the</t>
+                <t>congruent</t>
+                <t>conditions</t>
+                <punc>(</punc>
+                <t>i.e</t>
+                <punc>.</punc>
+                <punc>,</punc>
+                <t>ascending</t>
+                <t>body</t>
+                <t>motion/upward</t>
+                <t>orientation</t>
+                <punc>:</punc>
+                <t>additions</t>
+                <punc>;</punc>
+                <t>descending</t>
+                <t>body</t>
+                <t>motion/downward</t>
+                <t>orientation</t>
+                <punc>:</punc>
+                <t>subtractions</t>
+                <punc>)</punc>
+                <t>with</t>
+                <t>respect</t>
+                <t>to</t>
+                <t>the</t>
+                <t>incongruent</t>
+                <t>ones</t>
+                <punc>(</punc>
+                <t>i.e</t>
+                <punc>.</punc>
+                <punc>,</punc>
+                <t>descending</t>
+                <t>body</t>
+                <t>motion/upward</t>
+                <t>orientation</t>
+                <punc>:</punc>
+                <t>additions</t>
+                <punc>;</punc>
+                <t>ascending</t>
+                <t>body</t>
+                <t>motion/downward</t>
+                <t>orientation</t>
+                <punc>:</punc>
+                <t>subtractions</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
 </document>

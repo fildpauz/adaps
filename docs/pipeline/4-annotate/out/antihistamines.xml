@@ -2,746 +2,749 @@
 <!DOCTYPE document
   SYSTEM "../../../xml/adaps.dtd">
 <document>
-   <title>Do allergy meds contribute to weight gain?</title>
-   <citation>Janiszewski, P. (2015) Do allergy meds contribute to weight gain? Obesity Panacea (PLoS ONE blog). Retrieved from http://blogs.plos.org/obesitypanacea/2015/06/30/do-allergy-meds-contribute-to-weight-gain/ on 20 Aug 2015.</citation>
-   <url>http://blogs.plos.org/obesitypanacea/2015/06/30/do-allergy-meds-contribute-to-weight-gain/</url>
-   <body>
-      <paragraph id="p01">
-         <sentence par-function="topic|supporting|concluding" id="p01-s01">
-            <punc>“</punc>
-            <t id="p01-s01-t01">Achoo</t>
-            <punc>!</punc>
-            <punc>!</punc>
-            <punc>”</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p02">
-         <sentence par-function="topic|supporting|concluding" id="p02-s01">
-            <t id="p02-s01-t01" type="GSL-1">Some</t>
-            <t id="p02-s01-t02">folks</t>
-            <t id="p02-s01-t03" type="GSL-1">have</t>
-            <t id="p02-s01-t04">allergies</t>
-            <t id="p02-s01-t05" type="GSL-1">that</t>
-            <t id="p02-s01-t06">flare</t>
-            <t id="p02-s01-t07" type="GSL-1">up</t>
-            <t id="p02-s01-t08" type="GSL-1">on</t>
-            <t id="p02-s01-t09" type="GSL-1">a</t>
-            <t id="p02-s01-t10">seasonal</t>
-            <t id="p02-s01-t11" type="GSL-1">basis</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence par-function="topic|supporting|concluding" id="p02-s02">
-            <t id="p02-s02-t01" type="GSL-1">This</t>
-            <t id="p02-s02-t02" type="GSL-1">spring</t>
-            <t id="p02-s02-t03" type="GSL-1">has</t>
-            <t id="p02-s02-t04" type="GSL-1">certainly</t>
-            <t id="p02-s02-t05" type="GSL-1">not</t>
-            <t id="p02-s02-t06" type="GSL-1">been</t>
-            <t id="p02-s02-t07" type="GSL-1">kind</t>
-            <t id="p02-s02-t08" type="GSL-1">to</t>
-            <anaphor id="p02-s02-a01" info="">
-               <t id="p02-s02-t09" type="GSL-1">this</t>
-               <t id="p02-s02-t10" type="GSL-1">group</t>
-            </anaphor>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p03">
-         <sentence par-function="topic|supporting|concluding" id="p03-s01">
-            <connector id="p03-s01-c01" type="" info="">
-               <t id="p03-s01-t01" type="GSL-1">But</t>
-            </connector>
-            <connector id="p03-s01-c02" type="" info="">
-               <t id="p03-s01-t02" type="GSL-1">if</t>
-            </connector>
-            <t id="p03-s01-t03">you're</t>
-            <t id="p03-s01-t04" type="GSL-1">like</t>
-            <t id="p03-s01-t05" type="GSL-1">me</t>
-            <punc>,</punc>
-            <t id="p03-s01-t06" type="GSL-1">battling</t>
-            <t id="p03-s01-t07" type="GSL-1">your</t>
-            <t id="p03-s01-t08">allergies</t>
-            <t id="p03-s01-t09" type="GSL-1">is</t>
-            <t id="p03-s01-t10" type="GSL-1">a</t>
-            <t id="p03-s01-t11">year-round</t>
-            <t id="p03-s01-t12" type="GSL-1">affair</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence par-function="topic|supporting|concluding" id="p03-s02">
-            <t id="p03-s02-t01" type="GSL-1">The</t>
-            <t id="p03-s02-t02" type="GSL-1">common</t>
-            <t id="p03-s02-t03">antihistamines</t>
-            <t id="p03-s02-t04" type="Coxhead-AWL-1,AR-AWL-1a">available</t>
-            <t id="p03-s02-t05" type="GSL-1">at</t>
-            <t id="p03-s02-t06" type="GSL-1">every</t>
-            <t id="p03-s02-t07">drug</t>
-            <t id="p03-s02-t08" type="GSL-1">store</t>
-            <punc>,</punc>
-            <t id="p03-s02-t09" type="GSL-1">including</t>
-            <t id="p03-s02-t10">Cleratin</t>
-            <punc>,</punc>
-            <t id="p03-s02-t11">Reactine</t>
-            <punc>,</punc>
-            <t id="p03-s02-t12" type="GSL-1">and</t>
-            <t id="p03-s02-t13">Aerius</t>
-            <punc>,</punc>
-            <t id="p03-s02-t14" type="GSL-1">have</t>
-            <t id="p03-s02-t15" type="GSL-1">all</t>
-            <t id="p03-s02-t16" type="GSL-1">at</t>
-            <t id="p03-s02-t17" type="GSL-1">one</t>
-            <t id="p03-s02-t18" type="GSL-1">point</t>
-            <t id="p03-s02-t19" type="GSL-1">or</t>
-            <t id="p03-s02-t20" type="GSL-1">another</t>
-            <t id="p03-s02-t21" type="GSL-1">helped</t>
-            <t id="p03-s02-t22" type="GSL-1">me</t>
-            <t id="p03-s02-t23" type="GSL-2">breathe</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence par-function="topic|supporting|concluding" id="p03-s03">
-            <connector id="p03-s03-c01" type="" info="">
-               <t id="p03-s03-t01" type="GSL-1">More</t>
-               <t id="p03-s03-t02" type="GSL-1">recently</t>
-            </connector>
-            <punc>,</punc>
-            <t id="p03-s03-t03">I've</t>
-            <t id="p03-s03-t04" type="GSL-1">also</t>
-            <t id="p03-s03-t05" type="GSL-1">been</t>
-            <t id="p03-s03-t06" type="GSL-1">using</t>
-            <t id="p03-s03-t07">saline</t>
-            <t id="p03-s03-t08">nasal</t>
-            <t id="p03-s03-t09">rinses</t>
-            <t id="p03-s03-t10" type="GSL-1">as</t>
-            <t id="p03-s03-t11" type="GSL-1">well</t>
-            <t id="p03-s03-t12" type="GSL-1">as</t>
-            <t id="p03-s03-t13">intranasal</t>
-            <t id="p03-s03-t14">corticosteroid</t>
-            <t id="p03-s03-t15">sprays</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p04">
-         <sentence par-function="topic|supporting|concluding" id="p04-s01">
-            <connector id="p04-s01-c01" type="" info="">
-               <t id="p04-s01-t01" type="GSL-1">However</t>
-            </connector>
-            <punc>,</punc>
-            <t id="p04-s01-t02" type="GSL-1">the</t>
-            <t id="p04-s01-t03">off-the-shelf</t>
-            <t id="p04-s01-t04">antihistamines</t>
-            <t id="p04-s01-t05" type="GSL-1">many</t>
-            <t id="p04-s01-t06" type="GSL-1">of</t>
-            <t id="p04-s01-t07" type="GSL-1">us</t>
-            <t id="p04-s01-t08" type="GSL-1">take</t>
-            <t id="p04-s01-t09" type="GSL-1">to</t>
-            <t id="p04-s01-t10" type="GSL-1">get</t>
-            <t id="p04-s01-t11" type="GSL-1">us</t>
-            <t id="p04-s01-t12" type="GSL-1">through</t>
-            <t id="p04-s01-t13">allergy</t>
-            <t id="p04-s01-t14" type="GSL-1">season</t>
-            <t id="p04-s01-t15" type="GSL-1">have</t>
-            <t id="p04-s01-t16" type="GSL-1">an</t>
-            <t id="p04-s01-t17" type="GSL-1">additional</t>
-            <t id="p04-s01-t18" type="GSL-1">effect</t>
-            <punc>:</punc>
-            <anaphor id="p04-s01-a01" info="">
-               <t id="p04-s01-t19" type="GSL-1">they</t>
-            </anaphor>
-            <t id="p04-s01-t20" type="GSL-1">may</t>
-            <t id="p04-s01-t21" type="GSL-1">increase</t>
-            <t id="p04-s01-t22">appetite</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence par-function="topic|supporting|concluding" id="p04-s02">
-            <connector id="p04-s02-c01" type="" info="">
-               <t id="p04-s02-t01" type="Coxhead-AWL-4,AR-AWL-4a">Despite</t>
-            </connector>
-            <t id="p04-s02-t02" type="GSL-1">the</t>
-            <t id="p04-s02-t03" type="GSL-1">fact</t>
-            <t id="p04-s02-t04" type="GSL-1">that</t>
-            <t id="p04-s02-t05" type="GSL-1">increased</t>
-            <t id="p04-s02-t06">appetite</t>
-            <t id="p04-s02-t07" type="GSL-1">is</t>
-            <t id="p04-s02-t08" type="GSL-1">a</t>
-            <t id="p04-s02-t09" type="GSL-1">fairly</t>
-            <t id="p04-s02-t10">well-known</t>
-            <t id="p04-s02-t11">side-effect</t>
-            <t id="p04-s02-t12" type="GSL-1">of</t>
-            <t id="p04-s02-t13">antihistamines</t>
-            <punc>,</punc>
-            <t id="p04-s02-t14" type="GSL-1">the</t>
-            <t id="p04-s02-t15">packaging</t>
-            <t id="p04-s02-t16" type="GSL-1">of</t>
-            <t id="p04-s02-t17" type="GSL-1">my</t>
-            <t id="p04-s02-t18">allergy</t>
-            <t id="p04-s02-t19">meds</t>
-            <t id="p04-s02-t20" type="GSL-1">had</t>
-            <t id="p04-s02-t21" type="GSL-1">no</t>
-            <t id="p04-s02-t22" type="GSL-1">mention</t>
-            <t id="p04-s02-t23" type="GSL-1">of</t>
-            <anaphor id="p04-s02-a01" info="">
-               <t id="p04-s02-t24" type="GSL-1">this</t>
-            </anaphor>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p05">
-         <sentence par-function="topic|supporting|concluding" id="p05-s01">
-            <term id="p05-s01-e01" info="">
-               <t id="p05-s01-t01">Histamine</t>
-            </term>
-            <t id="p05-s01-t02" type="GSL-1">is</t>
-            <t id="p05-s01-t03" type="GSL-1">a</t>
-            <t id="p05-s01-t04">neurotransmitter</t>
-            <t id="p05-s01-t05" type="GSL-1">which</t>
-            <punc>,</punc>
-            <t id="p05-s01-t06" type="GSL-1">in</t>
-            <t id="p05-s01-t07" type="GSL-1">addition</t>
-            <t id="p05-s01-t08" type="GSL-1">to</t>
-            <t id="p05-s01-t09" type="Coxhead-AWL-9,AR-AWL-9b">mediating</t>
-            <t id="p05-s01-t10" type="GSL-1">the</t>
-            <t id="p05-s01-t11">inflammatory</t>
-            <t id="p05-s01-t12" type="Coxhead-AWL-1,AR-AWL-1b">response</t>
-            <punc>,</punc>
-            <t id="p05-s01-t13" type="GSL-1">and</t>
-            <t id="p05-s01-t14" type="GSL-1">thus</t>
-            <t id="p05-s01-t15">symptoms</t>
-            <t id="p05-s01-t16" type="GSL-1">of</t>
-            <t id="p05-s01-t17">allergies</t>
-            <punc>,</punc>
-            <t id="p05-s01-t18">suppresses</t>
-            <t id="p05-s01-t19">appetite</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence par-function="topic|supporting|concluding" id="p05-s02">
-            <connector id="p05-s02-c01" type="" info="">
-               <t id="p05-s02-t01" type="GSL-1">Thus</t>
-            </connector>
-            <punc>,</punc>
-            <t id="p05-s02-t02">antihistamines</t>
-            <punc>,</punc>
-            <t id="p05-s02-t03" type="GSL-1">which</t>
-            <t id="p05-s02-t04" type="GSL-1">work</t>
-            <t id="p05-s02-t05" type="GSL-1">by</t>
-            <t id="p05-s02-t06" type="GSL-2">blocking</t>
-            <t id="p05-s02-t07" type="GSL-1">the</t>
-            <t id="p05-s02-t08">H1</t>
-            <t id="p05-s02-t09">histamine</t>
-            <t id="p05-s02-t10">receptor</t>
-            <punc>,</punc>
-            <t id="p05-s02-t11" type="GSL-1">may</t>
-            <t id="p05-s02-t12" type="Coxhead-AWL-3,AR-AWL-3b">remove</t>
-            <anaphor id="p05-s02-a01" info="">
-               <t id="p05-s02-t13" type="GSL-1">this</t>
-               <t id="p05-s02-t14">appetite</t>
-               <t id="p05-s02-t15">suppressing</t>
-               <t id="p05-s02-t16" type="GSL-2">signal</t>
-            </anaphor>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p06">
-         <sentence par-function="topic|supporting|concluding" id="p06-s01">
-            <t id="p06-s01-t01" type="GSL-1">Not</t>
-            <t id="p06-s01-t02" type="GSL-1">surprisingly</t>
-            <punc>,</punc>
-            <t id="p06-s01-t03" type="GSL-1">a</t>
-            <t id="p06-s01-t04" type="GSL-1">paper</t>
-            <t id="p06-s01-t05" type="Coxhead-AWL-3,AR-AWL-3b">published</t>
-            <t id="p06-s01-t06" type="GSL-1">in</t>
-            <t id="p06-s01-t07" type="GSL-1">the</t>
-            <t id="p06-s01-t08" type="Coxhead-AWL-2,AR-AWL-2b">journal</t>
-            <emph>
-               <t id="p06-s01-t09">Obesity</t>
-            </emph>
-            <connector id="p06-s01-c01" type="" info="">
-               <t id="p06-s01-t10" type="GSL-1">suggests</t>
-            </connector>
-            <t id="p06-s01-t11" type="GSL-1">a</t>
-            <t id="p06-s01-t12" type="GSL-1">possible</t>
-            <t id="p06-s01-t13" type="Coxhead-AWL-3,AR-AWL-3b">link</t>
-            <t id="p06-s01-t14" type="GSL-1">between</t>
-            <t id="p06-s01-t15" type="GSL-1">the</t>
-            <t id="p06-s01-t16" type="GSL-1">use</t>
-            <t id="p06-s01-t17" type="GSL-1">of</t>
-            <t id="p06-s01-t18">anti-histamines</t>
-            <t id="p06-s01-t19" type="GSL-1">and</t>
-            <t id="p06-s01-t20" type="GSL-1">body</t>
-            <t id="p06-s01-t21" type="GSL-2">weight</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p07">
-         <sentence par-function="topic|supporting|concluding" id="p07-s01">
-            <t id="p07-s01-t01" type="GSL-1">In</t>
-            <t id="p07-s01-t02" type="GSL-1">the</t>
-            <t id="p07-s01-t03" type="GSL-1">paper</t>
-            <punc>,</punc>
-            <t id="p07-s01-t04">Ratliff</t>
-            <t id="p07-s01-t05" type="GSL-1">and</t>
-            <t id="p07-s01-t06" type="Coxhead-AWL-10,AR-AWL-10">colleagues</t>
-            <t id="p07-s01-t07" type="GSL-1">used</t>
-            <t id="p07-s01-t08" type="Coxhead-AWL-1,AR-AWL-1a">data</t>
-            <t id="p07-s01-t09" type="GSL-1">from</t>
-            <t id="p07-s01-t10" type="GSL-1">the</t>
-            <t id="p07-s01-t11" type="GSL-1">National</t>
-            <t id="p07-s01-t12" type="GSL-2">Health</t>
-            <t id="p07-s01-t13" type="GSL-1">and</t>
-            <t id="p07-s01-t14">Nutrition</t>
-            <t id="p07-s01-t15" type="GSL-2">Examination</t>
-            <t id="p07-s01-t16" type="Coxhead-AWL-2,AR-AWL-2b">Survey</t>
-            <t id="p07-s01-t17" type="GSL-2">during</t>
-            <t id="p07-s01-t18" type="GSL-1">the</t>
-            <t id="p07-s01-t19">2005-2006</t>
-            <t id="p07-s01-t20" type="GSL-1">years</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p08">
-         <sentence par-function="topic|supporting|concluding" id="p08-s01">
-            <punc>“</punc>
-            <t id="p08-s01-t01">268</t>
-            <t id="p08-s01-t02" type="Coxhead-AWL-7,AR-AWL-7a">adults</t>
-            <punc>(</punc>
-            <t id="p08-s01-t03">174</t>
-            <t id="p08-s01-t04" type="GSL-2">females</t>
-            <t id="p08-s01-t05" type="GSL-1">and</t>
-            <t id="p08-s01-t06">94</t>
-            <t id="p08-s01-t07" type="GSL-2">males</t>
-            <punc>)</punc>
-            <t id="p08-s01-t08" type="GSL-1">reported</t>
-            <t id="p08-s01-t09" type="GSL-1">use</t>
-            <t id="p08-s01-t10" type="GSL-1">of</t>
-            <t id="p08-s01-t11" type="GSL-1">an</t>
-            <t id="p08-s01-t12">H1</t>
-            <t id="p08-s01-t13">antihistamine</t>
-            <t id="p08-s01-t14" type="GSL-1">and</t>
-            <t id="p08-s01-t15" type="GSL-1">completed</t>
-            <t id="p08-s01-t16" type="GSL-1">all</t>
-            <t id="p08-s01-t17" type="Coxhead-AWL-3,AR-AWL-3b">outcome</t>
-            <t id="p08-s01-t18" type="GSL-1">measure</t>
-            <t id="p08-s01-t19" type="Coxhead-AWL-3,AR-AWL-3a">components</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence par-function="topic|supporting|concluding" id="p08-s02">
-            <t id="p08-s02-t01">599</t>
-            <t id="p08-s02-t02">age-</t>
-            <t id="p08-s02-t03" type="GSL-1">and</t>
-            <t id="p08-s02-t04">gender-matched</t>
-            <t id="p08-s02-t05" type="GSL-1">controls</t>
-            <punc>(</punc>
-            <t id="p08-s02-t06">401</t>
-            <t id="p08-s02-t07" type="GSL-2">females</t>
-            <t id="p08-s02-t08" type="GSL-1">and</t>
-            <t id="p08-s02-t09">198</t>
-            <t id="p08-s02-t10" type="GSL-2">males</t>
-            <punc>)</punc>
-            <t id="p08-s02-t11" type="GSL-1">were</t>
-            <t id="p08-s02-t12" type="GSL-1">used</t>
-            <t id="p08-s02-t13" type="GSL-1">as</t>
-            <t id="p08-s02-t14" type="GSL-1">a</t>
-            <t id="p08-s02-t15" type="GSL-2">comparison</t>
-            <t id="p08-s02-t16" type="GSL-1">for</t>
-            <t id="p08-s02-t17" type="GSL-1">body</t>
-            <t id="p08-s02-t18" type="GSL-1">measurements</t>
-            <punc>,</punc>
-            <t id="p08-s02-t19">plasma</t>
-            <t id="p08-s02-t20">glucose</t>
-            <punc>,</punc>
-            <t id="p08-s02-t21">insulin</t>
-            <t id="p08-s02-t22">concentrations</t>
-            <punc>,</punc>
-            <t id="p08-s02-t23" type="GSL-1">and</t>
-            <t id="p08-s02-t24">lipid</t>
-            <t id="p08-s02-t25" type="GSL-1">levels</t>
-            <punc>.</punc>
-            <punc>”</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p09">
-         <sentence par-function="topic|supporting|concluding" id="p09-s01">
-            <t id="p09-s01-t01" type="GSL-1">What</t>
-            <t id="p09-s01-t02" type="GSL-1">did</t>
-            <anaphor id="p09-s01-a01" info="">
-               <t id="p09-s01-t03" type="GSL-1">they</t>
-            </anaphor>
-            <t id="p09-s01-t04" type="GSL-1">find</t>
-            <punc>?</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p10">
-         <sentence par-function="topic|supporting|concluding" id="p10-s01">
-            <punc>“</punc>
-            <t id="p10-s01-t01" type="GSL-1">After</t>
-            <t id="p10-s01-t02" type="Coxhead-AWL-5,AR-AWL-5a">adjusting</t>
-            <t id="p10-s01-t03" type="GSL-1">for</t>
-            <t id="p10-s01-t04" type="Coxhead-AWL-6,AR-AWL-6a">gender</t>
-            <punc>,</punc>
-            <t id="p10-s01-t05">prescription</t>
-            <t id="p10-s01-t06">H1</t>
-            <t id="p10-s01-t07">antihistamine</t>
-            <t id="p10-s01-t08" type="GSL-1">users</t>
-            <t id="p10-s01-t09" type="GSL-1">had</t>
-            <t id="p10-s01-t10" type="Coxhead-AWL-1,AR-AWL-1b">significantly</t>
-            <t id="p10-s01-t11" type="GSL-1">higher</t>
-            <t id="p10-s01-t12" type="GSL-2">weight</t>
-            <punc>(</punc>
-            <t id="p10-s01-t13">P &lt; 0.001</t>
-            <punc>)</punc>
-            <punc>,</punc>
-            <t id="p10-s01-t14">BMI</t>
-            <punc>(</punc>
-            <t id="p10-s01-t15">P &lt; 0.001</t>
-            <punc>)</punc>
-            <punc>,</punc>
-            <t id="p10-s01-t16" type="GSL-2">waist</t>
-            <t id="p10-s01-t17">circumference</t>
-            <punc>(</punc>
-            <t id="p10-s01-t18">P &lt; 0.001</t>
-            <punc>)</punc>
-            <punc>,</punc>
-            <t id="p10-s01-t19" type="GSL-1">and</t>
-            <t id="p10-s01-t20">insulin</t>
-            <t id="p10-s01-t21" type="GSL-1">levels</t>
-            <punc>(</punc>
-            <t id="p10-s01-t22">P &lt; 0.005</t>
-            <punc>)</punc>
-            <t id="p10-s01-t23" type="GSL-2">compared</t>
-            <t id="p10-s01-t24" type="GSL-1">to</t>
-            <t id="p10-s01-t25" type="GSL-2">healthy</t>
-            <t id="p10-s01-t26" type="GSL-1">controls</t>
-            <punc>.</punc>
-            <punc>”</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p11">
-         <sentence par-function="topic|supporting|concluding" id="p11-s01">
-            <connector id="p11-s01-c01" type="" info="">
-               <t id="p11-s01-t01" type="Coxhead-AWL-1,AR-AWL-1b">Specifically</t>
-            </connector>
-            <punc>,</punc>
-            <t id="p11-s01-t02" type="GSL-1">controlling</t>
-            <t id="p11-s01-t03" type="GSL-1">for</t>
-            <t id="p11-s01-t04" type="GSL-1">age</t>
-            <t id="p11-s01-t05" type="GSL-1">and</t>
-            <t id="p11-s01-t06" type="Coxhead-AWL-6,AR-AWL-6a">gender</t>
-            <punc>,</punc>
-            <anaphor id="p11-s01-a01" info="">
-               <t id="p11-s01-t07" type="GSL-1">those</t>
-            </anaphor>
-            <t id="p11-s01-t08" type="GSL-1">who</t>
-            <t id="p11-s01-t09" type="GSL-1">take</t>
-            <t id="p11-s01-t10">anti-histamines</t>
-            <t id="p11-s01-t11" type="GSL-1">were</t>
-            <t id="p11-s01-t12">55%</t>
-            <t id="p11-s01-t13" type="GSL-1">more</t>
-            <t id="p11-s01-t14" type="GSL-1">likely</t>
-            <t id="p11-s01-t15" type="GSL-1">to</t>
-            <t id="p11-s01-t16" type="GSL-1">be</t>
-            <t id="p11-s01-t17">overweight</t>
-            <t id="p11-s01-t18" type="GSL-1">than</t>
-            <anaphor id="p11-s01-a02" info="">
-               <t id="p11-s01-t19" type="GSL-1">their</t>
-            </anaphor>
-            <t id="p11-s01-t20">non-allergy-suffering</t>
-            <t id="p11-s01-t21">peers</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p12">
-         <sentence par-function="topic|supporting|concluding" id="p12-s01">
-            <connector id="p12-s01-c01" type="" info="">
-               <t id="p12-s01-t01" type="GSL-1">However</t>
-            </connector>
-            <punc>,</punc>
-            <t id="p12-s01-t02" type="GSL-1">the</t>
-            <t id="p12-s01-t03" type="GSL-1">increased</t>
-            <t id="p12-s01-t04" type="GSL-2">risk</t>
-            <t id="p12-s01-t05" type="GSL-1">of</t>
-            <t id="p12-s01-t06">overweight</t>
-            <t id="p12-s01-t07" type="GSL-1">with</t>
-            <t id="p12-s01-t08">antihistamine</t>
-            <t id="p12-s01-t09" type="GSL-1">use</t>
-            <t id="p12-s01-t10" type="GSL-1">was</t>
-            <t id="p12-s01-t11" type="GSL-1">more</t>
-            <t id="p12-s01-t12" type="GSL-2">pronounced</t>
-            <t id="p12-s01-t13" type="GSL-1">for</t>
-            <t id="p12-s01-t14" type="GSL-1">men</t>
-            <t id="p12-s01-t15" type="GSL-1">than</t>
-            <t id="p12-s01-t16" type="GSL-1">women</t>
-            <punc>(</punc>
-            <t id="p12-s01-t17">70%</t>
-            <t id="p12-s01-t18">vs</t>
-            <t id="p12-s01-t19">21%</t>
-            <t id="p12-s01-t20" type="GSL-1">increased</t>
-            <t id="p12-s01-t21" type="GSL-1">likelihood</t>
-            <punc>)</punc>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p13">
-         <sentence par-function="topic|supporting|concluding" id="p13-s01">
-            <t id="p13-s01-t01" type="GSL-1">No</t>
-            <t id="p13-s01-t02" type="GSL-1">differences</t>
-            <t id="p13-s01-t03" type="GSL-1">between</t>
-            <anaphor id="p13-s01-a01" info="">
-               <t id="p13-s01-t04" type="GSL-1">the</t>
-               <t id="p13-s01-t05" type="GSL-1">groups</t>
-            </anaphor>
-            <t id="p13-s01-t06" type="GSL-1">were</t>
-            <t id="p13-s01-t07" type="GSL-1">observed</t>
-            <t id="p13-s01-t08" type="GSL-1">for</t>
-            <t id="p13-s01-t09" type="GSL-1">any</t>
-            <t id="p13-s01-t10" type="GSL-1">of</t>
-            <anaphor id="p13-s01-a02" info="">
-               <t id="p13-s01-t11" type="GSL-1">the</t>
-               <t id="p13-s01-t12" type="GSL-1">other</t>
-               <t id="p13-s01-t13">metabolic</t>
-               <t id="p13-s01-t14" type="GSL-2">risk</t>
-               <t id="p13-s01-t15" type="Coxhead-AWL-1,AR-AWL-1a">factors</t>
-               <t id="p13-s01-t16" type="GSL-1">studied</t>
-            </anaphor>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p14">
-         <sentence par-function="topic|supporting|concluding" id="p14-s01">
-            <connector id="p14-s01-c01" type="" info="">
-               <t id="p14-s01-t01" type="GSL-1">Of</t>
-               <t id="p14-s01-t02" type="GSL-1">course</t>
-            </connector>
-            <punc>,</punc>
-            <t id="p14-s01-t03" type="GSL-1">as</t>
-            <t id="p14-s01-t04" type="GSL-1">I</t>
-            <t id="p14-s01-t05" type="GSL-1">mention</t>
-            <t id="p14-s01-t06" type="GSL-1">often</t>
-            <t id="p14-s01-t07" type="GSL-1">with</t>
-            <t id="p14-s01-t08" type="GSL-1">this</t>
-            <t id="p14-s01-t09" type="GSL-1">type</t>
-            <t id="p14-s01-t10" type="GSL-1">of</t>
-            <t id="p14-s01-t11" type="GSL-1">study</t>
-            <punc>,</punc>
-            <anaphor id="p14-s01-a01" info="">
-               <t id="p14-s01-t12" type="GSL-1">the</t>
-               <t id="p14-s01-t13" type="GSL-1">results</t>
-            </anaphor>
-            <t id="p14-s01-t14" type="GSL-1">merely</t>
-            <t id="p14-s01-t15" type="GSL-1">suggest</t>
-            <t id="p14-s01-t16" type="GSL-1">a</t>
-            <t id="p14-s01-t17">correlation</t>
-            <t id="p14-s01-t18" type="GSL-1">between</t>
-            <t id="p14-s01-t19">antihistamine</t>
-            <t id="p14-s01-t20" type="GSL-1">use</t>
-            <t id="p14-s01-t21" type="GSL-1">and</t>
-            <t id="p14-s01-t22" type="GSL-1">body</t>
-            <t id="p14-s01-t23" type="GSL-2">weight</t>
-            <punc>;</punc>
-            <t id="p14-s01-t24" type="GSL-1">countless</t>
-            <t id="p14-s01-t25" type="GSL-1">other</t>
-            <t id="p14-s01-t26">confounding</t>
-            <t id="p14-s01-t27" type="Coxhead-AWL-1,AR-AWL-1a">factors</t>
-            <t id="p14-s01-t28" type="GSL-1">may</t>
-            <t id="p14-s01-t29" type="GSL-1">be</t>
-            <t id="p14-s01-t30" type="GSL-1">playing</t>
-            <t id="p14-s01-t31" type="GSL-1">a</t>
-            <t id="p14-s01-t32" type="Coxhead-AWL-1,AR-AWL-1b">role</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence par-function="topic|supporting|concluding" id="p14-s02">
-            <t id="p14-s02-t01" type="Coxhead-AWL-6,AR-AWL-6b">Nevertheless</t>
-            <punc>,</punc>
-            <anaphor id="p14-s02-a01" info="">
-               <t id="p14-s02-t02" type="GSL-1">the</t>
-               <t id="p14-s02-t03" type="Coxhead-AWL-9,AR-AWL-9b">preliminary</t>
-               <t id="p14-s02-t04" type="GSL-1">observation</t>
-            </anaphor>
-            <t id="p14-s02-t05" type="GSL-1">is</t>
-            <t id="p14-s02-t06">intriguing</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p15">
-         <sentence par-function="topic|supporting|concluding" id="p15-s01">
-            <t id="p15-s01-t01" type="GSL-1">In</t>
-            <t id="p15-s01-t02" type="GSL-1">addition</t>
-            <t id="p15-s01-t03" type="GSL-1">to</t>
-            <anaphor id="p15-s01-a01" info="">
-               <t id="p15-s01-t04" type="GSL-1">the</t>
-               <t id="p15-s01-t05" type="GSL-1">direct</t>
-               <t id="p15-s01-t06" type="GSL-1">effect</t>
-               <t id="p15-s01-t07" type="GSL-1">on</t>
-               <t id="p15-s01-t08">appetite</t>
-               <t id="p15-s01-t09">stimulation</t>
-            </anaphor>
-            <punc>,</punc>
-            <anaphor id="p15-s01-a02" info="">
-               <t id="p15-s01-t10" type="GSL-1">the</t>
-               <t id="p15-s01-t11" type="GSL-1">increased</t>
-               <t id="p15-s01-t12" type="GSL-2">weight</t>
-               <t id="p15-s01-t13" type="GSL-1">observed</t>
-               <t id="p15-s01-t14" type="GSL-1">with</t>
-               <t id="p15-s01-t15">antihistamines</t>
-            </anaphor>
-            <t id="p15-s01-t16" type="GSL-1">may</t>
-            <t id="p15-s01-t17" type="GSL-1">also</t>
-            <t id="p15-s01-t18" type="GSL-1">be</t>
-            <t id="p15-s01-t19" type="GSL-1">due</t>
-            <t id="p15-s01-t20" type="GSL-1">to</t>
-            <t id="p15-s01-t21" type="GSL-1">increased</t>
-            <t id="p15-s01-t22">sedation</t>
-            <punc>,</punc>
-            <connector id="p15-s01-c01" type="" info="">
-               <t id="p15-s01-t23" type="GSL-1">suggest</t>
-            </connector>
-            <t id="p15-s01-t24" type="GSL-1">the</t>
-            <t id="p15-s01-t25" type="Coxhead-AWL-6,AR-AWL-6a">authors</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence par-function="topic|supporting|concluding" id="p15-s02">
-            <t id="p15-s02-t01" type="Coxhead-AWL-1,AR-AWL-1b">Theoretically</t>
-            <punc>,</punc>
-            <t id="p15-s02-t02" type="GSL-1">at</t>
-            <t id="p15-s02-t03" type="GSL-1">least</t>
-            <punc>,</punc>
-            <anaphor id="p15-s02-a01" info="">
-               <t id="p15-s02-t04" type="GSL-1">the</t>
-               <t id="p15-s02-t05" type="GSL-1">increased</t>
-               <t id="p15-s02-t06">sedation</t>
-            </anaphor>
-            <t id="p15-s02-t07" type="GSL-1">may</t>
-            <t id="p15-s02-t08" type="GSL-1">lead</t>
-            <t id="p15-s02-t09" type="GSL-1">to</t>
-            <t id="p15-s02-t10" type="GSL-1">a</t>
-            <t id="p15-s02-t11" type="GSL-2">decreased</t>
-            <t id="p15-s02-t12" type="Coxhead-AWL-5,AR-AWL-5a">energy</t>
-            <t id="p15-s02-t13">expenditure</t>
-            <t id="p15-s02-t14" type="GSL-1">and</t>
-            <t id="p15-s02-t15" type="GSL-2">weight</t>
-            <t id="p15-s02-t16" type="GSL-1">gain</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence par-function="topic|supporting|concluding" id="p15-s03">
-            <connector id="p15-s03-c01" type="" info="">
-               <t id="p15-s03-t01" type="GSL-1">However</t>
-            </connector>
-            <punc>,</punc>
-            <t id="p15-s03-t02" type="GSL-1">most</t>
-            <t id="p15-s03-t03" type="GSL-1">current</t>
-            <t id="p15-s03-t04">antihistamines</t>
-            <t id="p15-s03-t05" type="GSL-1">are</t>
-            <t id="p15-s03-t06" type="GSL-1">only</t>
-            <t id="p15-s03-t07" type="GSL-2">mildly</t>
-            <t id="p15-s03-t08">sedative</t>
-            <t id="p15-s03-t09" type="GSL-1">at</t>
-            <t id="p15-s03-t10" type="GSL-1">best</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p16">
-         <sentence par-function="topic|supporting|concluding" id="p16-s01">
-            <t id="p16-s01-t01" type="GSL-1">I</t>
-            <t id="p16-s01-t02" type="GSL-1">have</t>
-            <t id="p16-s01-t03" type="GSL-1">tried</t>
-            <t id="p16-s01-t04" type="GSL-1">to</t>
-            <t id="p16-s01-t05" type="GSL-1">think</t>
-            <t id="p16-s01-t06" type="GSL-1">back</t>
-            <t id="p16-s01-t07" type="GSL-1">to</t>
-            <t id="p16-s01-t08" type="GSL-1">times</t>
-            <t id="p16-s01-t09" type="GSL-1">when</t>
-            <t id="p16-s01-t10" type="GSL-1">I</t>
-            <t id="p16-s01-t11" type="GSL-1">take</t>
-            <t id="p16-s01-t12">antihistamines</t>
-            <t id="p16-s01-t13" type="GSL-1">and</t>
-            <t id="p16-s01-t14">recount</t>
-            <t id="p16-s01-t15" type="GSL-1">whether</t>
-            <t id="p16-s01-t16" type="GSL-1">I</t>
-            <t id="p16-s01-t17" type="GSL-1">had</t>
-            <t id="p16-s01-t18" type="GSL-1">an</t>
-            <t id="p16-s01-t19" type="GSL-1">increased</t>
-            <t id="p16-s01-t20">appetite</t>
-            <t id="p16-s01-t21" type="GSL-1">or</t>
-            <t id="p16-s01-t22">sedation</t>
-            <punc>,</punc>
-            <t id="p16-s01-t23" type="GSL-1">and</t>
-            <t id="p16-s01-t24">I'm</t>
-            <t id="p16-s01-t25" type="GSL-1">not</t>
-            <t id="p16-s01-t26" type="GSL-1">sure</t>
-            <t id="p16-s01-t27" type="GSL-1">my</t>
-            <t id="p16-s01-t28" type="GSL-1">personal</t>
-            <t id="p16-s01-t29" type="GSL-1">experiences</t>
-            <t id="p16-s01-t30">corroborate</t>
-            <anaphor id="p16-s01-a01" info="">
-               <t id="p16-s01-t31" type="GSL-1">this</t>
-               <t id="p16-s01-t32" type="GSL-1">observation</t>
-            </anaphor>
-            <punc>.</punc>
-         </sentence>
-         <sentence par-function="topic|supporting|concluding" id="p16-s02">
-            <connector id="p16-s02-c01" type="" info="">
-               <t id="p16-s02-t01" type="GSL-1">Then</t>
-               <t id="p16-s02-t02" type="GSL-1">again</t>
-            </connector>
-            <punc>,</punc>
-            <connector id="p16-s02-c02" type="" info="">
-               <t id="p16-s02-t03" type="GSL-1">since</t>
-            </connector>
-            <t id="p16-s02-t04">I'm</t>
-            <t id="p16-s02-t05" type="GSL-1">a</t>
-            <t id="p16-s02-t06" type="GSL-1">fairly</t>
-            <t id="p16-s02-t07">chronic</t>
-            <t id="p16-s02-t08">antihistamine</t>
-            <t id="p16-s02-t09" type="GSL-1">user</t>
-            <punc>,</punc>
-            <t id="p16-s02-t10">I'm</t>
-            <t id="p16-s02-t11" type="GSL-2">probably</t>
-            <t id="p16-s02-t12" type="GSL-1">unlikely</t>
-            <t id="p16-s02-t13" type="GSL-1">to</t>
-            <t id="p16-s02-t14" type="GSL-1">notice</t>
-            <anaphor id="p16-s02-a01" info="">
-               <t id="p16-s02-t15" type="GSL-1">this</t>
-               <t id="p16-s02-t16" type="GSL-1">change</t>
-            </anaphor>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p17">
-         <sentence par-function="topic|supporting|concluding" id="p17-s01">
-            <t id="p17-s01-t01" type="GSL-1">For</t>
-            <t id="p17-s01-t02" type="GSL-1">the</t>
-            <t id="p17-s01-t03" type="GSL-2">sake</t>
-            <t id="p17-s01-t04" type="GSL-1">of</t>
-            <t id="p17-s01-t05" type="GSL-1">proper</t>
-            <t id="p17-s01-t06" type="GSL-2">breathing</t>
-            <punc>,</punc>
-            <t id="p17-s01-t07">I'll</t>
-            <t id="p17-s01-t08" type="GSL-2">stick</t>
-            <t id="p17-s01-t09" type="GSL-1">to</t>
-            <t id="p17-s01-t10" type="GSL-1">my</t>
-            <t id="p17-s01-t11">anti-histamines</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p18">
-         <sentence par-function="topic|supporting|concluding" id="p18-s01">
-            <t id="p18-s01-t01" type="GSL-1">I</t>
-            <t id="p18-s01-t02" type="GSL-1">wonder</t>
-            <t id="p18-s01-t03" type="GSL-1">if</t>
-            <t id="p18-s01-t04" type="GSL-1">any</t>
-            <t id="p18-s01-t05" type="GSL-1">of</t>
-            <t id="p18-s01-t06" type="GSL-1">our</t>
-            <t id="p18-s01-t07" type="GSL-1">readers</t>
-            <t id="p18-s01-t08" type="GSL-1">have</t>
-            <t id="p18-s01-t09" type="GSL-1">noted</t>
-            <t id="p18-s01-t10" type="GSL-1">a</t>
-            <t id="p18-s01-t11" type="GSL-1">change</t>
-            <t id="p18-s01-t12" type="GSL-1">in</t>
-            <t id="p18-s01-t13">appetite</t>
-            <t id="p18-s01-t14" type="GSL-1">or</t>
-            <t id="p18-s01-t15">wakefulness</t>
-            <t id="p18-s01-t16" type="GSL-1">when</t>
-            <t id="p18-s01-t17" type="GSL-1">taking</t>
-            <t id="p18-s01-t18">antihistamines</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-   </body>
+    <title>Do allergy meds contribute to weight gain?</title>
+    <citation>Janiszewski, P. (2015) Do allergy meds contribute to weight gain? Obesity Panacea (PLoS ONE blog). Retrieved from http://blogs.plos.org/obesitypanacea/2015/06/30/do-allergy-meds-contribute-to-weight-gain/ on 20 Aug 2015.</citation>
+    <url>http://blogs.plos.org/obesitypanacea/2015/06/30/do-allergy-meds-contribute-to-weight-gain/</url>
+    <info type="arise">
+        <arise-info book="2" section="4" unit="1" firstpage="52"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence par-function="topic|supporting|concluding" id="p01-s01">
+                <punc>“</punc>
+                <t id="p01-s01-t01">Achoo</t>
+                <punc>!</punc>
+                <punc>!</punc>
+                <punc>”</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence par-function="topic|supporting|concluding" id="p02-s01">
+                <t id="p02-s01-t01" type="GSL-1">Some</t>
+                <t id="p02-s01-t02">folks</t>
+                <t id="p02-s01-t03" type="GSL-1">have</t>
+                <t id="p02-s01-t04">allergies</t>
+                <t id="p02-s01-t05" type="GSL-1">that</t>
+                <t id="p02-s01-t06">flare</t>
+                <t id="p02-s01-t07" type="GSL-1">up</t>
+                <t id="p02-s01-t08" type="GSL-1">on</t>
+                <t id="p02-s01-t09" type="GSL-1">a</t>
+                <t id="p02-s01-t10">seasonal</t>
+                <t id="p02-s01-t11" type="GSL-1">basis</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p02-s02">
+                <t id="p02-s02-t01" type="GSL-1">This</t>
+                <t id="p02-s02-t02" type="GSL-1">spring</t>
+                <t id="p02-s02-t03" type="GSL-1">has</t>
+                <t id="p02-s02-t04" type="GSL-1">certainly</t>
+                <t id="p02-s02-t05" type="GSL-1">not</t>
+                <t id="p02-s02-t06" type="GSL-1">been</t>
+                <t id="p02-s02-t07" type="GSL-1">kind</t>
+                <t id="p02-s02-t08" type="GSL-1">to</t>
+                <anaphor id="p02-s02-a01" info="">
+                    <t id="p02-s02-t09" type="GSL-1">this</t>
+                    <t id="p02-s02-t10" type="GSL-1">group</t>
+                </anaphor>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p03">
+            <sentence par-function="topic|supporting|concluding" id="p03-s01">
+                <connector id="p03-s01-c01" type="" info="">
+                    <t id="p03-s01-t01" type="GSL-1">But</t>
+                </connector>
+                <connector id="p03-s01-c02" type="" info="">
+                    <t id="p03-s01-t02" type="GSL-1">if</t>
+                </connector>
+                <t id="p03-s01-t03">you're</t>
+                <t id="p03-s01-t04" type="GSL-1">like</t>
+                <t id="p03-s01-t05" type="GSL-1">me</t>
+                <punc>,</punc>
+                <t id="p03-s01-t06" type="GSL-1">battling</t>
+                <t id="p03-s01-t07" type="GSL-1">your</t>
+                <t id="p03-s01-t08">allergies</t>
+                <t id="p03-s01-t09" type="GSL-1">is</t>
+                <t id="p03-s01-t10" type="GSL-1">a</t>
+                <t id="p03-s01-t11">year-round</t>
+                <t id="p03-s01-t12" type="GSL-1">affair</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p03-s02">
+                <t id="p03-s02-t01" type="GSL-1">The</t>
+                <t id="p03-s02-t02" type="GSL-1">common</t>
+                <t id="p03-s02-t03">antihistamines</t>
+                <t id="p03-s02-t04" type="Coxhead-AWL-1,AR-AWL-1a">available</t>
+                <t id="p03-s02-t05" type="GSL-1">at</t>
+                <t id="p03-s02-t06" type="GSL-1">every</t>
+                <t id="p03-s02-t07">drug</t>
+                <t id="p03-s02-t08" type="GSL-1">store</t>
+                <punc>,</punc>
+                <t id="p03-s02-t09" type="GSL-1">including</t>
+                <t id="p03-s02-t10">Cleratin</t>
+                <punc>,</punc>
+                <t id="p03-s02-t11">Reactine</t>
+                <punc>,</punc>
+                <t id="p03-s02-t12" type="GSL-1">and</t>
+                <t id="p03-s02-t13">Aerius</t>
+                <punc>,</punc>
+                <t id="p03-s02-t14" type="GSL-1">have</t>
+                <t id="p03-s02-t15" type="GSL-1">all</t>
+                <t id="p03-s02-t16" type="GSL-1">at</t>
+                <t id="p03-s02-t17" type="GSL-1">one</t>
+                <t id="p03-s02-t18" type="GSL-1">point</t>
+                <t id="p03-s02-t19" type="GSL-1">or</t>
+                <t id="p03-s02-t20" type="GSL-1">another</t>
+                <t id="p03-s02-t21" type="GSL-1">helped</t>
+                <t id="p03-s02-t22" type="GSL-1">me</t>
+                <t id="p03-s02-t23" type="GSL-2">breathe</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p03-s03">
+                <connector id="p03-s03-c01" type="" info="">
+                    <t id="p03-s03-t01" type="GSL-1">More</t>
+                    <t id="p03-s03-t02" type="GSL-1">recently</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p03-s03-t03">I've</t>
+                <t id="p03-s03-t04" type="GSL-1">also</t>
+                <t id="p03-s03-t05" type="GSL-1">been</t>
+                <t id="p03-s03-t06" type="GSL-1">using</t>
+                <t id="p03-s03-t07">saline</t>
+                <t id="p03-s03-t08">nasal</t>
+                <t id="p03-s03-t09">rinses</t>
+                <t id="p03-s03-t10" type="GSL-1">as</t>
+                <t id="p03-s03-t11" type="GSL-1">well</t>
+                <t id="p03-s03-t12" type="GSL-1">as</t>
+                <t id="p03-s03-t13">intranasal</t>
+                <t id="p03-s03-t14">corticosteroid</t>
+                <t id="p03-s03-t15">sprays</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p04">
+            <sentence par-function="topic|supporting|concluding" id="p04-s01">
+                <connector id="p04-s01-c01" type="" info="">
+                    <t id="p04-s01-t01" type="GSL-1">However</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p04-s01-t02" type="GSL-1">the</t>
+                <t id="p04-s01-t03">off-the-shelf</t>
+                <t id="p04-s01-t04">antihistamines</t>
+                <t id="p04-s01-t05" type="GSL-1">many</t>
+                <t id="p04-s01-t06" type="GSL-1">of</t>
+                <t id="p04-s01-t07" type="GSL-1">us</t>
+                <t id="p04-s01-t08" type="GSL-1">take</t>
+                <t id="p04-s01-t09" type="GSL-1">to</t>
+                <t id="p04-s01-t10" type="GSL-1">get</t>
+                <t id="p04-s01-t11" type="GSL-1">us</t>
+                <t id="p04-s01-t12" type="GSL-1">through</t>
+                <t id="p04-s01-t13">allergy</t>
+                <t id="p04-s01-t14" type="GSL-1">season</t>
+                <t id="p04-s01-t15" type="GSL-1">have</t>
+                <t id="p04-s01-t16" type="GSL-1">an</t>
+                <t id="p04-s01-t17" type="GSL-1">additional</t>
+                <t id="p04-s01-t18" type="GSL-1">effect</t>
+                <punc>:</punc>
+                <anaphor id="p04-s01-a01" info="">
+                    <t id="p04-s01-t19" type="GSL-1">they</t>
+                </anaphor>
+                <t id="p04-s01-t20" type="GSL-1">may</t>
+                <t id="p04-s01-t21" type="GSL-1">increase</t>
+                <t id="p04-s01-t22">appetite</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p04-s02">
+                <connector id="p04-s02-c01" type="" info="">
+                    <t id="p04-s02-t01" type="Coxhead-AWL-4,AR-AWL-4a">Despite</t>
+                </connector>
+                <t id="p04-s02-t02" type="GSL-1">the</t>
+                <t id="p04-s02-t03" type="GSL-1">fact</t>
+                <t id="p04-s02-t04" type="GSL-1">that</t>
+                <t id="p04-s02-t05" type="GSL-1">increased</t>
+                <t id="p04-s02-t06">appetite</t>
+                <t id="p04-s02-t07" type="GSL-1">is</t>
+                <t id="p04-s02-t08" type="GSL-1">a</t>
+                <t id="p04-s02-t09" type="GSL-1">fairly</t>
+                <t id="p04-s02-t10">well-known</t>
+                <t id="p04-s02-t11">side-effect</t>
+                <t id="p04-s02-t12" type="GSL-1">of</t>
+                <t id="p04-s02-t13">antihistamines</t>
+                <punc>,</punc>
+                <t id="p04-s02-t14" type="GSL-1">the</t>
+                <t id="p04-s02-t15">packaging</t>
+                <t id="p04-s02-t16" type="GSL-1">of</t>
+                <t id="p04-s02-t17" type="GSL-1">my</t>
+                <t id="p04-s02-t18">allergy</t>
+                <t id="p04-s02-t19">meds</t>
+                <t id="p04-s02-t20" type="GSL-1">had</t>
+                <t id="p04-s02-t21" type="GSL-1">no</t>
+                <t id="p04-s02-t22" type="GSL-1">mention</t>
+                <t id="p04-s02-t23" type="GSL-1">of</t>
+                <anaphor id="p04-s02-a01" info="">
+                    <t id="p04-s02-t24" type="GSL-1">this</t>
+                </anaphor>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p05">
+            <sentence par-function="topic|supporting|concluding" id="p05-s01">
+                <term id="p05-s01-e01" info="">
+                    <t id="p05-s01-t01">Histamine</t>
+                </term>
+                <t id="p05-s01-t02" type="GSL-1">is</t>
+                <t id="p05-s01-t03" type="GSL-1">a</t>
+                <t id="p05-s01-t04">neurotransmitter</t>
+                <t id="p05-s01-t05" type="GSL-1">which</t>
+                <punc>,</punc>
+                <t id="p05-s01-t06" type="GSL-1">in</t>
+                <t id="p05-s01-t07" type="GSL-1">addition</t>
+                <t id="p05-s01-t08" type="GSL-1">to</t>
+                <t id="p05-s01-t09" type="Coxhead-AWL-9,AR-AWL-9b">mediating</t>
+                <t id="p05-s01-t10" type="GSL-1">the</t>
+                <t id="p05-s01-t11">inflammatory</t>
+                <t id="p05-s01-t12" type="Coxhead-AWL-1,AR-AWL-1b">response</t>
+                <punc>,</punc>
+                <t id="p05-s01-t13" type="GSL-1">and</t>
+                <t id="p05-s01-t14" type="GSL-1">thus</t>
+                <t id="p05-s01-t15">symptoms</t>
+                <t id="p05-s01-t16" type="GSL-1">of</t>
+                <t id="p05-s01-t17">allergies</t>
+                <punc>,</punc>
+                <t id="p05-s01-t18">suppresses</t>
+                <t id="p05-s01-t19">appetite</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p05-s02">
+                <connector id="p05-s02-c01" type="" info="">
+                    <t id="p05-s02-t01" type="GSL-1">Thus</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p05-s02-t02">antihistamines</t>
+                <punc>,</punc>
+                <t id="p05-s02-t03" type="GSL-1">which</t>
+                <t id="p05-s02-t04" type="GSL-1">work</t>
+                <t id="p05-s02-t05" type="GSL-1">by</t>
+                <t id="p05-s02-t06" type="GSL-2">blocking</t>
+                <t id="p05-s02-t07" type="GSL-1">the</t>
+                <t id="p05-s02-t08">H1</t>
+                <t id="p05-s02-t09">histamine</t>
+                <t id="p05-s02-t10">receptor</t>
+                <punc>,</punc>
+                <t id="p05-s02-t11" type="GSL-1">may</t>
+                <t id="p05-s02-t12" type="Coxhead-AWL-3,AR-AWL-3b">remove</t>
+                <anaphor id="p05-s02-a01" info="">
+                    <t id="p05-s02-t13" type="GSL-1">this</t>
+                    <t id="p05-s02-t14">appetite</t>
+                    <t id="p05-s02-t15">suppressing</t>
+                    <t id="p05-s02-t16" type="GSL-2">signal</t>
+                </anaphor>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p06">
+            <sentence par-function="topic|supporting|concluding" id="p06-s01">
+                <t id="p06-s01-t01" type="GSL-1">Not</t>
+                <t id="p06-s01-t02" type="GSL-1">surprisingly</t>
+                <punc>,</punc>
+                <t id="p06-s01-t03" type="GSL-1">a</t>
+                <t id="p06-s01-t04" type="GSL-1">paper</t>
+                <t id="p06-s01-t05" type="Coxhead-AWL-3,AR-AWL-3b">published</t>
+                <t id="p06-s01-t06" type="GSL-1">in</t>
+                <t id="p06-s01-t07" type="GSL-1">the</t>
+                <t id="p06-s01-t08" type="Coxhead-AWL-2,AR-AWL-2b">journal</t>
+                <emph>
+                    <t id="p06-s01-t09">Obesity</t>
+                </emph>
+                <connector id="p06-s01-c01" type="" info="">
+                    <t id="p06-s01-t10" type="GSL-1">suggests</t>
+                </connector>
+                <t id="p06-s01-t11" type="GSL-1">a</t>
+                <t id="p06-s01-t12" type="GSL-1">possible</t>
+                <t id="p06-s01-t13" type="Coxhead-AWL-3,AR-AWL-3b">link</t>
+                <t id="p06-s01-t14" type="GSL-1">between</t>
+                <t id="p06-s01-t15" type="GSL-1">the</t>
+                <t id="p06-s01-t16" type="GSL-1">use</t>
+                <t id="p06-s01-t17" type="GSL-1">of</t>
+                <t id="p06-s01-t18">anti-histamines</t>
+                <t id="p06-s01-t19" type="GSL-1">and</t>
+                <t id="p06-s01-t20" type="GSL-1">body</t>
+                <t id="p06-s01-t21" type="GSL-2">weight</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p07">
+            <sentence par-function="topic|supporting|concluding" id="p07-s01">
+                <t id="p07-s01-t01" type="GSL-1">In</t>
+                <t id="p07-s01-t02" type="GSL-1">the</t>
+                <t id="p07-s01-t03" type="GSL-1">paper</t>
+                <punc>,</punc>
+                <t id="p07-s01-t04">Ratliff</t>
+                <t id="p07-s01-t05" type="GSL-1">and</t>
+                <t id="p07-s01-t06" type="Coxhead-AWL-10,AR-AWL-10">colleagues</t>
+                <t id="p07-s01-t07" type="GSL-1">used</t>
+                <t id="p07-s01-t08" type="Coxhead-AWL-1,AR-AWL-1a">data</t>
+                <t id="p07-s01-t09" type="GSL-1">from</t>
+                <t id="p07-s01-t10" type="GSL-1">the</t>
+                <t id="p07-s01-t11" type="GSL-1">National</t>
+                <t id="p07-s01-t12" type="GSL-2">Health</t>
+                <t id="p07-s01-t13" type="GSL-1">and</t>
+                <t id="p07-s01-t14">Nutrition</t>
+                <t id="p07-s01-t15" type="GSL-2">Examination</t>
+                <t id="p07-s01-t16" type="Coxhead-AWL-2,AR-AWL-2b">Survey</t>
+                <t id="p07-s01-t17" type="GSL-2">during</t>
+                <t id="p07-s01-t18" type="GSL-1">the</t>
+                <t id="p07-s01-t19">2005-2006</t>
+                <t id="p07-s01-t20" type="GSL-1">years</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p08">
+            <sentence par-function="topic|supporting|concluding" id="p08-s01">
+                <punc>“</punc>
+                <t id="p08-s01-t01">268</t>
+                <t id="p08-s01-t02" type="Coxhead-AWL-7,AR-AWL-7a">adults</t>
+                <punc>(</punc>
+                <t id="p08-s01-t03">174</t>
+                <t id="p08-s01-t04" type="GSL-2">females</t>
+                <t id="p08-s01-t05" type="GSL-1">and</t>
+                <t id="p08-s01-t06">94</t>
+                <t id="p08-s01-t07" type="GSL-2">males</t>
+                <punc>)</punc>
+                <t id="p08-s01-t08" type="GSL-1">reported</t>
+                <t id="p08-s01-t09" type="GSL-1">use</t>
+                <t id="p08-s01-t10" type="GSL-1">of</t>
+                <t id="p08-s01-t11" type="GSL-1">an</t>
+                <t id="p08-s01-t12">H1</t>
+                <t id="p08-s01-t13">antihistamine</t>
+                <t id="p08-s01-t14" type="GSL-1">and</t>
+                <t id="p08-s01-t15" type="GSL-1">completed</t>
+                <t id="p08-s01-t16" type="GSL-1">all</t>
+                <t id="p08-s01-t17" type="Coxhead-AWL-3,AR-AWL-3b">outcome</t>
+                <t id="p08-s01-t18" type="GSL-1">measure</t>
+                <t id="p08-s01-t19" type="Coxhead-AWL-3,AR-AWL-3a">components</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p08-s02">
+                <t id="p08-s02-t01">599</t>
+                <t id="p08-s02-t02">age-</t>
+                <t id="p08-s02-t03" type="GSL-1">and</t>
+                <t id="p08-s02-t04">gender-matched</t>
+                <t id="p08-s02-t05" type="GSL-1">controls</t>
+                <punc>(</punc>
+                <t id="p08-s02-t06">401</t>
+                <t id="p08-s02-t07" type="GSL-2">females</t>
+                <t id="p08-s02-t08" type="GSL-1">and</t>
+                <t id="p08-s02-t09">198</t>
+                <t id="p08-s02-t10" type="GSL-2">males</t>
+                <punc>)</punc>
+                <t id="p08-s02-t11" type="GSL-1">were</t>
+                <t id="p08-s02-t12" type="GSL-1">used</t>
+                <t id="p08-s02-t13" type="GSL-1">as</t>
+                <t id="p08-s02-t14" type="GSL-1">a</t>
+                <t id="p08-s02-t15" type="GSL-2">comparison</t>
+                <t id="p08-s02-t16" type="GSL-1">for</t>
+                <t id="p08-s02-t17" type="GSL-1">body</t>
+                <t id="p08-s02-t18" type="GSL-1">measurements</t>
+                <punc>,</punc>
+                <t id="p08-s02-t19">plasma</t>
+                <t id="p08-s02-t20">glucose</t>
+                <punc>,</punc>
+                <t id="p08-s02-t21">insulin</t>
+                <t id="p08-s02-t22">concentrations</t>
+                <punc>,</punc>
+                <t id="p08-s02-t23" type="GSL-1">and</t>
+                <t id="p08-s02-t24">lipid</t>
+                <t id="p08-s02-t25" type="GSL-1">levels</t>
+                <punc>.</punc>
+                <punc>”</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p09">
+            <sentence par-function="topic|supporting|concluding" id="p09-s01">
+                <t id="p09-s01-t01" type="GSL-1">What</t>
+                <t id="p09-s01-t02" type="GSL-1">did</t>
+                <anaphor id="p09-s01-a01" info="">
+                    <t id="p09-s01-t03" type="GSL-1">they</t>
+                </anaphor>
+                <t id="p09-s01-t04" type="GSL-1">find</t>
+                <punc>?</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p10">
+            <sentence par-function="topic|supporting|concluding" id="p10-s01">
+                <punc>“</punc>
+                <t id="p10-s01-t01" type="GSL-1">After</t>
+                <t id="p10-s01-t02" type="Coxhead-AWL-5,AR-AWL-5a">adjusting</t>
+                <t id="p10-s01-t03" type="GSL-1">for</t>
+                <t id="p10-s01-t04" type="Coxhead-AWL-6,AR-AWL-6a">gender</t>
+                <punc>,</punc>
+                <t id="p10-s01-t05">prescription</t>
+                <t id="p10-s01-t06">H1</t>
+                <t id="p10-s01-t07">antihistamine</t>
+                <t id="p10-s01-t08" type="GSL-1">users</t>
+                <t id="p10-s01-t09" type="GSL-1">had</t>
+                <t id="p10-s01-t10" type="Coxhead-AWL-1,AR-AWL-1b">significantly</t>
+                <t id="p10-s01-t11" type="GSL-1">higher</t>
+                <t id="p10-s01-t12" type="GSL-2">weight</t>
+                <punc>(</punc>
+                <t id="p10-s01-t13">P &lt; 0.001</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p10-s01-t14">BMI</t>
+                <punc>(</punc>
+                <t id="p10-s01-t15">P &lt; 0.001</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p10-s01-t16" type="GSL-2">waist</t>
+                <t id="p10-s01-t17">circumference</t>
+                <punc>(</punc>
+                <t id="p10-s01-t18">P &lt; 0.001</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p10-s01-t19" type="GSL-1">and</t>
+                <t id="p10-s01-t20">insulin</t>
+                <t id="p10-s01-t21" type="GSL-1">levels</t>
+                <punc>(</punc>
+                <t id="p10-s01-t22">P &lt; 0.005</t>
+                <punc>)</punc>
+                <t id="p10-s01-t23" type="GSL-2">compared</t>
+                <t id="p10-s01-t24" type="GSL-1">to</t>
+                <t id="p10-s01-t25" type="GSL-2">healthy</t>
+                <t id="p10-s01-t26" type="GSL-1">controls</t>
+                <punc>.</punc>
+                <punc>”</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p11">
+            <sentence par-function="topic|supporting|concluding" id="p11-s01">
+                <connector id="p11-s01-c01" type="" info="">
+                    <t id="p11-s01-t01" type="Coxhead-AWL-1,AR-AWL-1b">Specifically</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p11-s01-t02" type="GSL-1">controlling</t>
+                <t id="p11-s01-t03" type="GSL-1">for</t>
+                <t id="p11-s01-t04" type="GSL-1">age</t>
+                <t id="p11-s01-t05" type="GSL-1">and</t>
+                <t id="p11-s01-t06" type="Coxhead-AWL-6,AR-AWL-6a">gender</t>
+                <punc>,</punc>
+                <anaphor id="p11-s01-a01" info="">
+                    <t id="p11-s01-t07" type="GSL-1">those</t>
+                </anaphor>
+                <t id="p11-s01-t08" type="GSL-1">who</t>
+                <t id="p11-s01-t09" type="GSL-1">take</t>
+                <t id="p11-s01-t10">anti-histamines</t>
+                <t id="p11-s01-t11" type="GSL-1">were</t>
+                <t id="p11-s01-t12">55%</t>
+                <t id="p11-s01-t13" type="GSL-1">more</t>
+                <t id="p11-s01-t14" type="GSL-1">likely</t>
+                <t id="p11-s01-t15" type="GSL-1">to</t>
+                <t id="p11-s01-t16" type="GSL-1">be</t>
+                <t id="p11-s01-t17">overweight</t>
+                <t id="p11-s01-t18" type="GSL-1">than</t>
+                <anaphor id="p11-s01-a02" info="">
+                    <t id="p11-s01-t19" type="GSL-1">their</t>
+                </anaphor>
+                <t id="p11-s01-t20">non-allergy-suffering</t>
+                <t id="p11-s01-t21">peers</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p12">
+            <sentence par-function="topic|supporting|concluding" id="p12-s01">
+                <connector id="p12-s01-c01" type="" info="">
+                    <t id="p12-s01-t01" type="GSL-1">However</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p12-s01-t02" type="GSL-1">the</t>
+                <t id="p12-s01-t03" type="GSL-1">increased</t>
+                <t id="p12-s01-t04" type="GSL-2">risk</t>
+                <t id="p12-s01-t05" type="GSL-1">of</t>
+                <t id="p12-s01-t06">overweight</t>
+                <t id="p12-s01-t07" type="GSL-1">with</t>
+                <t id="p12-s01-t08">antihistamine</t>
+                <t id="p12-s01-t09" type="GSL-1">use</t>
+                <t id="p12-s01-t10" type="GSL-1">was</t>
+                <t id="p12-s01-t11" type="GSL-1">more</t>
+                <t id="p12-s01-t12" type="GSL-2">pronounced</t>
+                <t id="p12-s01-t13" type="GSL-1">for</t>
+                <t id="p12-s01-t14" type="GSL-1">men</t>
+                <t id="p12-s01-t15" type="GSL-1">than</t>
+                <t id="p12-s01-t16" type="GSL-1">women</t>
+                <punc>(</punc>
+                <t id="p12-s01-t17">70%</t>
+                <t id="p12-s01-t18">vs</t>
+                <t id="p12-s01-t19">21%</t>
+                <t id="p12-s01-t20" type="GSL-1">increased</t>
+                <t id="p12-s01-t21" type="GSL-1">likelihood</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p13">
+            <sentence par-function="topic|supporting|concluding" id="p13-s01">
+                <t id="p13-s01-t01" type="GSL-1">No</t>
+                <t id="p13-s01-t02" type="GSL-1">differences</t>
+                <t id="p13-s01-t03" type="GSL-1">between</t>
+                <anaphor id="p13-s01-a01" info="">
+                    <t id="p13-s01-t04" type="GSL-1">the</t>
+                    <t id="p13-s01-t05" type="GSL-1">groups</t>
+                </anaphor>
+                <t id="p13-s01-t06" type="GSL-1">were</t>
+                <t id="p13-s01-t07" type="GSL-1">observed</t>
+                <t id="p13-s01-t08" type="GSL-1">for</t>
+                <t id="p13-s01-t09" type="GSL-1">any</t>
+                <t id="p13-s01-t10" type="GSL-1">of</t>
+                <anaphor id="p13-s01-a02" info="">
+                    <t id="p13-s01-t11" type="GSL-1">the</t>
+                    <t id="p13-s01-t12" type="GSL-1">other</t>
+                    <t id="p13-s01-t13">metabolic</t>
+                    <t id="p13-s01-t14" type="GSL-2">risk</t>
+                    <t id="p13-s01-t15" type="Coxhead-AWL-1,AR-AWL-1a">factors</t>
+                    <t id="p13-s01-t16" type="GSL-1">studied</t>
+                </anaphor>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p14">
+            <sentence par-function="topic|supporting|concluding" id="p14-s01">
+                <connector id="p14-s01-c01" type="" info="">
+                    <t id="p14-s01-t01" type="GSL-1">Of</t>
+                    <t id="p14-s01-t02" type="GSL-1">course</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p14-s01-t03" type="GSL-1">as</t>
+                <t id="p14-s01-t04" type="GSL-1">I</t>
+                <t id="p14-s01-t05" type="GSL-1">mention</t>
+                <t id="p14-s01-t06" type="GSL-1">often</t>
+                <t id="p14-s01-t07" type="GSL-1">with</t>
+                <t id="p14-s01-t08" type="GSL-1">this</t>
+                <t id="p14-s01-t09" type="GSL-1">type</t>
+                <t id="p14-s01-t10" type="GSL-1">of</t>
+                <t id="p14-s01-t11" type="GSL-1">study</t>
+                <punc>,</punc>
+                <anaphor id="p14-s01-a01" info="">
+                    <t id="p14-s01-t12" type="GSL-1">the</t>
+                    <t id="p14-s01-t13" type="GSL-1">results</t>
+                </anaphor>
+                <t id="p14-s01-t14" type="GSL-1">merely</t>
+                <t id="p14-s01-t15" type="GSL-1">suggest</t>
+                <t id="p14-s01-t16" type="GSL-1">a</t>
+                <t id="p14-s01-t17">correlation</t>
+                <t id="p14-s01-t18" type="GSL-1">between</t>
+                <t id="p14-s01-t19">antihistamine</t>
+                <t id="p14-s01-t20" type="GSL-1">use</t>
+                <t id="p14-s01-t21" type="GSL-1">and</t>
+                <t id="p14-s01-t22" type="GSL-1">body</t>
+                <t id="p14-s01-t23" type="GSL-2">weight</t>
+                <punc>;</punc>
+                <t id="p14-s01-t24" type="GSL-1">countless</t>
+                <t id="p14-s01-t25" type="GSL-1">other</t>
+                <t id="p14-s01-t26">confounding</t>
+                <t id="p14-s01-t27" type="Coxhead-AWL-1,AR-AWL-1a">factors</t>
+                <t id="p14-s01-t28" type="GSL-1">may</t>
+                <t id="p14-s01-t29" type="GSL-1">be</t>
+                <t id="p14-s01-t30" type="GSL-1">playing</t>
+                <t id="p14-s01-t31" type="GSL-1">a</t>
+                <t id="p14-s01-t32" type="Coxhead-AWL-1,AR-AWL-1b">role</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p14-s02">
+                <t id="p14-s02-t01" type="Coxhead-AWL-6,AR-AWL-6b">Nevertheless</t>
+                <punc>,</punc>
+                <anaphor id="p14-s02-a01" info="">
+                    <t id="p14-s02-t02" type="GSL-1">the</t>
+                    <t id="p14-s02-t03" type="Coxhead-AWL-9,AR-AWL-9b">preliminary</t>
+                    <t id="p14-s02-t04" type="GSL-1">observation</t>
+                </anaphor>
+                <t id="p14-s02-t05" type="GSL-1">is</t>
+                <t id="p14-s02-t06">intriguing</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p15">
+            <sentence par-function="topic|supporting|concluding" id="p15-s01">
+                <t id="p15-s01-t01" type="GSL-1">In</t>
+                <t id="p15-s01-t02" type="GSL-1">addition</t>
+                <t id="p15-s01-t03" type="GSL-1">to</t>
+                <anaphor id="p15-s01-a01" info="">
+                    <t id="p15-s01-t04" type="GSL-1">the</t>
+                    <t id="p15-s01-t05" type="GSL-1">direct</t>
+                    <t id="p15-s01-t06" type="GSL-1">effect</t>
+                    <t id="p15-s01-t07" type="GSL-1">on</t>
+                    <t id="p15-s01-t08">appetite</t>
+                    <t id="p15-s01-t09">stimulation</t>
+                </anaphor>
+                <punc>,</punc>
+                <anaphor id="p15-s01-a02" info="">
+                    <t id="p15-s01-t10" type="GSL-1">the</t>
+                    <t id="p15-s01-t11" type="GSL-1">increased</t>
+                    <t id="p15-s01-t12" type="GSL-2">weight</t>
+                    <t id="p15-s01-t13" type="GSL-1">observed</t>
+                    <t id="p15-s01-t14" type="GSL-1">with</t>
+                    <t id="p15-s01-t15">antihistamines</t>
+                </anaphor>
+                <t id="p15-s01-t16" type="GSL-1">may</t>
+                <t id="p15-s01-t17" type="GSL-1">also</t>
+                <t id="p15-s01-t18" type="GSL-1">be</t>
+                <t id="p15-s01-t19" type="GSL-1">due</t>
+                <t id="p15-s01-t20" type="GSL-1">to</t>
+                <t id="p15-s01-t21" type="GSL-1">increased</t>
+                <t id="p15-s01-t22">sedation</t>
+                <punc>,</punc>
+                <connector id="p15-s01-c01" type="" info="">
+                    <t id="p15-s01-t23" type="GSL-1">suggest</t>
+                </connector>
+                <t id="p15-s01-t24" type="GSL-1">the</t>
+                <t id="p15-s01-t25" type="Coxhead-AWL-6,AR-AWL-6a">authors</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p15-s02">
+                <t id="p15-s02-t01" type="Coxhead-AWL-1,AR-AWL-1b">Theoretically</t>
+                <punc>,</punc>
+                <t id="p15-s02-t02" type="GSL-1">at</t>
+                <t id="p15-s02-t03" type="GSL-1">least</t>
+                <punc>,</punc>
+                <anaphor id="p15-s02-a01" info="">
+                    <t id="p15-s02-t04" type="GSL-1">the</t>
+                    <t id="p15-s02-t05" type="GSL-1">increased</t>
+                    <t id="p15-s02-t06">sedation</t>
+                </anaphor>
+                <t id="p15-s02-t07" type="GSL-1">may</t>
+                <t id="p15-s02-t08" type="GSL-1">lead</t>
+                <t id="p15-s02-t09" type="GSL-1">to</t>
+                <t id="p15-s02-t10" type="GSL-1">a</t>
+                <t id="p15-s02-t11" type="GSL-2">decreased</t>
+                <t id="p15-s02-t12" type="Coxhead-AWL-5,AR-AWL-5a">energy</t>
+                <t id="p15-s02-t13">expenditure</t>
+                <t id="p15-s02-t14" type="GSL-1">and</t>
+                <t id="p15-s02-t15" type="GSL-2">weight</t>
+                <t id="p15-s02-t16" type="GSL-1">gain</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p15-s03">
+                <connector id="p15-s03-c01" type="" info="">
+                    <t id="p15-s03-t01" type="GSL-1">However</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p15-s03-t02" type="GSL-1">most</t>
+                <t id="p15-s03-t03" type="GSL-1">current</t>
+                <t id="p15-s03-t04">antihistamines</t>
+                <t id="p15-s03-t05" type="GSL-1">are</t>
+                <t id="p15-s03-t06" type="GSL-1">only</t>
+                <t id="p15-s03-t07" type="GSL-2">mildly</t>
+                <t id="p15-s03-t08">sedative</t>
+                <t id="p15-s03-t09" type="GSL-1">at</t>
+                <t id="p15-s03-t10" type="GSL-1">best</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p16">
+            <sentence par-function="topic|supporting|concluding" id="p16-s01">
+                <t id="p16-s01-t01" type="GSL-1">I</t>
+                <t id="p16-s01-t02" type="GSL-1">have</t>
+                <t id="p16-s01-t03" type="GSL-1">tried</t>
+                <t id="p16-s01-t04" type="GSL-1">to</t>
+                <t id="p16-s01-t05" type="GSL-1">think</t>
+                <t id="p16-s01-t06" type="GSL-1">back</t>
+                <t id="p16-s01-t07" type="GSL-1">to</t>
+                <t id="p16-s01-t08" type="GSL-1">times</t>
+                <t id="p16-s01-t09" type="GSL-1">when</t>
+                <t id="p16-s01-t10" type="GSL-1">I</t>
+                <t id="p16-s01-t11" type="GSL-1">take</t>
+                <t id="p16-s01-t12">antihistamines</t>
+                <t id="p16-s01-t13" type="GSL-1">and</t>
+                <t id="p16-s01-t14">recount</t>
+                <t id="p16-s01-t15" type="GSL-1">whether</t>
+                <t id="p16-s01-t16" type="GSL-1">I</t>
+                <t id="p16-s01-t17" type="GSL-1">had</t>
+                <t id="p16-s01-t18" type="GSL-1">an</t>
+                <t id="p16-s01-t19" type="GSL-1">increased</t>
+                <t id="p16-s01-t20">appetite</t>
+                <t id="p16-s01-t21" type="GSL-1">or</t>
+                <t id="p16-s01-t22">sedation</t>
+                <punc>,</punc>
+                <t id="p16-s01-t23" type="GSL-1">and</t>
+                <t id="p16-s01-t24">I'm</t>
+                <t id="p16-s01-t25" type="GSL-1">not</t>
+                <t id="p16-s01-t26" type="GSL-1">sure</t>
+                <t id="p16-s01-t27" type="GSL-1">my</t>
+                <t id="p16-s01-t28" type="GSL-1">personal</t>
+                <t id="p16-s01-t29" type="GSL-1">experiences</t>
+                <t id="p16-s01-t30">corroborate</t>
+                <anaphor id="p16-s01-a01" info="">
+                    <t id="p16-s01-t31" type="GSL-1">this</t>
+                    <t id="p16-s01-t32" type="GSL-1">observation</t>
+                </anaphor>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p16-s02">
+                <connector id="p16-s02-c01" type="" info="">
+                    <t id="p16-s02-t01" type="GSL-1">Then</t>
+                    <t id="p16-s02-t02" type="GSL-1">again</t>
+                </connector>
+                <punc>,</punc>
+                <connector id="p16-s02-c02" type="" info="">
+                    <t id="p16-s02-t03" type="GSL-1">since</t>
+                </connector>
+                <t id="p16-s02-t04">I'm</t>
+                <t id="p16-s02-t05" type="GSL-1">a</t>
+                <t id="p16-s02-t06" type="GSL-1">fairly</t>
+                <t id="p16-s02-t07">chronic</t>
+                <t id="p16-s02-t08">antihistamine</t>
+                <t id="p16-s02-t09" type="GSL-1">user</t>
+                <punc>,</punc>
+                <t id="p16-s02-t10">I'm</t>
+                <t id="p16-s02-t11" type="GSL-2">probably</t>
+                <t id="p16-s02-t12" type="GSL-1">unlikely</t>
+                <t id="p16-s02-t13" type="GSL-1">to</t>
+                <t id="p16-s02-t14" type="GSL-1">notice</t>
+                <anaphor id="p16-s02-a01" info="">
+                    <t id="p16-s02-t15" type="GSL-1">this</t>
+                    <t id="p16-s02-t16" type="GSL-1">change</t>
+                </anaphor>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p17">
+            <sentence par-function="topic|supporting|concluding" id="p17-s01">
+                <t id="p17-s01-t01" type="GSL-1">For</t>
+                <t id="p17-s01-t02" type="GSL-1">the</t>
+                <t id="p17-s01-t03" type="GSL-2">sake</t>
+                <t id="p17-s01-t04" type="GSL-1">of</t>
+                <t id="p17-s01-t05" type="GSL-1">proper</t>
+                <t id="p17-s01-t06" type="GSL-2">breathing</t>
+                <punc>,</punc>
+                <t id="p17-s01-t07">I'll</t>
+                <t id="p17-s01-t08" type="GSL-2">stick</t>
+                <t id="p17-s01-t09" type="GSL-1">to</t>
+                <t id="p17-s01-t10" type="GSL-1">my</t>
+                <t id="p17-s01-t11">anti-histamines</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p18">
+            <sentence par-function="topic|supporting|concluding" id="p18-s01">
+                <t id="p18-s01-t01" type="GSL-1">I</t>
+                <t id="p18-s01-t02" type="GSL-1">wonder</t>
+                <t id="p18-s01-t03" type="GSL-1">if</t>
+                <t id="p18-s01-t04" type="GSL-1">any</t>
+                <t id="p18-s01-t05" type="GSL-1">of</t>
+                <t id="p18-s01-t06" type="GSL-1">our</t>
+                <t id="p18-s01-t07" type="GSL-1">readers</t>
+                <t id="p18-s01-t08" type="GSL-1">have</t>
+                <t id="p18-s01-t09" type="GSL-1">noted</t>
+                <t id="p18-s01-t10" type="GSL-1">a</t>
+                <t id="p18-s01-t11" type="GSL-1">change</t>
+                <t id="p18-s01-t12" type="GSL-1">in</t>
+                <t id="p18-s01-t13">appetite</t>
+                <t id="p18-s01-t14" type="GSL-1">or</t>
+                <t id="p18-s01-t15">wakefulness</t>
+                <t id="p18-s01-t16" type="GSL-1">when</t>
+                <t id="p18-s01-t17" type="GSL-1">taking</t>
+                <t id="p18-s01-t18">antihistamines</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
 </document>

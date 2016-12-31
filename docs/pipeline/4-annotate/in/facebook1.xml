@@ -5,6 +5,9 @@
     <citation>Kross E, Verduyn P, Demiralp E, Park J, Lee DS, et al. (2013) Facebook Use Predicts Declines in Subjective Well-Being in Young Adults. PLoS ONE 8(8): e69841. doi:10.1371/journal.pone.0069841 
         Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0069841 on 07 Dec 2016.</citation>
     <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0069841</url>
+    <info type="arise">
+        <arise-info book="2" section="2" unit="6" part="2" item="B" firstpage="28"/>
+    </info>
     <body>
         <paragraph id="p01">
             <sentence id="p01-s01">
@@ -19,9 +22,9 @@
                 <t id="p01-s01-t08" type="GSL-1">of</t>
                 <t id="p01-s01-t09">questionnaires</t>
                 <punc>,</punc>
-				<connector>
-                <t id="p01-s01-t10" type="GSL-1">which</t>
-				</connector>
+                <connector>
+                    <t id="p01-s01-t10" type="GSL-1">which</t>
+                </connector>
                 <t id="p01-s01-t11" type="GSL-1">we</t>
                 <t id="p01-s01-t12" type="Coxhead-AWL-5,AR-AWL-5b">modified</t>
                 <t id="p01-s01-t13" type="GSL-1">to</t>
@@ -34,9 +37,9 @@
             </sentence>
             <sentence id="p01-s02">
                 <t id="p01-s02-t01" type="GSL-1">We</t>
-				<connector>
-                <t id="p01-s02-t02" type="GSL-1">also</t>
-				</connector>
+                <connector>
+                    <t id="p01-s02-t02" type="GSL-1">also</t>
+                </connector>
                 <t id="p01-s02-t03" type="Coxhead-AWL-1,AR-AWL-1a">assessed</t>
                 <t id="p01-s02-t04">participants'</t>
                 <t id="p01-s02-t05" type="Coxhead-AWL-6,AR-AWL-6b">motivation</t>
@@ -108,9 +111,9 @@
                 <t id="p01-s05-t17" type="GSL-1">questions</t>
                 <punc>[</punc>
                 <t id="p01-s05-t18" type="GSL-1">about</t>
-				<anaphor>
-                <t id="p01-s05-t19" type="GSL-1">their</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p01-s05-t19" type="GSL-1">their</t>
+                </anaphor>
                 <t id="p01-s05-t20" type="GSL-1">feelings</t>
                 <t id="p01-s05-t21" type="GSL-1">and</t>
                 <t id="p01-s05-t22">Facebook</t>
@@ -146,15 +149,15 @@
                 <t id="p01-s07-t04">Facebook</t>
                 <t id="p01-s07-t05" type="GSL-1">friends</t>
                 <t id="p01-s07-t06" type="GSL-1">was</t>
-				<connector>
-                <t id="p01-s07-t07" type="GSL-1">also</t>
-				</connector>
+                <connector>
+                    <t id="p01-s07-t07" type="GSL-1">also</t>
+                </connector>
                 <t id="p01-s07-t08" type="GSL-1">recorded</t>
                 <t id="p01-s07-t09" type="GSL-2">during</t>
-				<anaphor>
-                <t id="p01-s07-t10" type="GSL-1">this</t>
-                <t id="p01-s07-t11">session</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p01-s07-t10" type="GSL-1">this</t>
+                    <t id="p01-s07-t11">session</t>
+                </anaphor>
                 <t id="p01-s07-t12" type="GSL-1">from</t>
                 <t id="p01-s07-t13">participants'</t>
                 <t id="p01-s07-t14">Facebook</t>

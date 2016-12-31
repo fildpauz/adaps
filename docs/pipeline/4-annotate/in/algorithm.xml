@@ -4,13 +4,16 @@
     <title>Extract from Algorithm</title>
     <citation>Simple English Wikipedia: “Algorithm”. Retrieved from https://simple.wikipedia.org/wiki/Algorithm on 20 Aug 2015.</citation>
     <url>https://simple.wikipedia.org/wiki/Algorithm</url>
+    <info type="arise">
+        <arise-info book="2" section="4" unit="3" firstpage="56"/>
+    </info>
     <body>
         <paragraph id="p01">
             <sentence id="p01-s01">
                 <t id="p01-s01-t01" type="GSL-1">An</t>
-				<term>
-                <t id="p01-s01-t02">algorithm</t>
-				</term>
+                <term>
+                    <t id="p01-s01-t02">algorithm</t>
+                </term>
                 <t id="p01-s01-t03" type="GSL-1">is</t>
                 <t id="p01-s01-t04" type="GSL-1">a</t>
                 <t id="p01-s01-t05" type="GSL-1">step</t>
@@ -33,10 +36,10 @@
                 <punc>.</punc>
             </sentence>
             <sentence id="p01-s02">
-			<anaphor>
-                <t id="p01-s02-t01" type="GSL-1">The</t>
-                <t id="p01-s02-t02" type="Coxhead-AWL-6,AR-AWL-6b">instructions</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p01-s02-t01" type="GSL-1">The</t>
+                    <t id="p01-s02-t02" type="Coxhead-AWL-6,AR-AWL-6b">instructions</t>
+                </anaphor>
                 <t id="p01-s02-t03" type="GSL-1">should</t>
                 <t id="p01-s02-t04" type="GSL-1">be</t>
                 <t id="p01-s02-t05" type="GSL-1">simple</t>
@@ -51,9 +54,9 @@
                 <t id="p01-s02-t14" type="GSL-1">without</t>
                 <t id="p01-s02-t15" type="GSL-1">thinking</t>
                 <t id="p01-s02-t16" type="GSL-1">about</t>
-				<anaphor>
-                <t id="p01-s02-t17" type="GSL-1">it</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p01-s02-t17" type="GSL-1">it</t>
+                </anaphor>
                 <punc>.</punc>
             </sentence>
             <sentence id="p01-s03">
@@ -73,9 +76,9 @@
                 <punc>.</punc>
             </sentence>
             <sentence id="p01-s04">
-			<connector>
-                <t id="p01-s04-t01" type="GSL-1">But</t>
-				</connector>
+                <connector>
+                    <t id="p01-s04-t01" type="GSL-1">But</t>
+                </connector>
                 <t id="p01-s04-t02" type="GSL-1">there</t>
                 <t id="p01-s04-t03" type="GSL-1">are</t>
                 <t id="p01-s04-t04">algorithms</t>
@@ -99,9 +102,9 @@
                 <punc>.</punc>
             </sentence>
             <sentence id="p01-s06">
-			<anaphor>
-                <t id="p01-s06-t01" type="GSL-1">It</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p01-s06-t01" type="GSL-1">It</t>
+                </anaphor>
                 <t id="p01-s06-t02" type="GSL-1">tells</t>
                 <t id="p01-s06-t03" type="GSL-1">what</t>
                 <t id="p01-s06-t04">ingredients</t>
@@ -109,10 +112,10 @@
                 <t id="p01-s06-t06" type="GSL-1">needed</t>
                 <t id="p01-s06-t07" type="GSL-1">to</t>
                 <t id="p01-s06-t08" type="GSL-1">make</t>
-				<anaphor>
-                <t id="p01-s06-t09" type="GSL-1">the</t>
-                <t id="p01-s06-t10" type="GSL-2">dish</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p01-s06-t09" type="GSL-1">the</t>
+                    <t id="p01-s06-t10" type="GSL-2">dish</t>
+                </anaphor>
                 <t id="p01-s06-t11" type="GSL-1">and</t>
                 <t id="p01-s06-t12" type="GSL-1">what</t>
                 <t id="p01-s06-t13" type="GSL-1">steps</t>
@@ -121,13 +124,13 @@
                 <punc>.</punc>
             </sentence>
             <sentence id="p01-s07">
-			<connector>
-                <t id="p01-s07-t01" type="GSL-1">If</t>
-				</connector>
-				<anaphor>
-                <t id="p01-s07-t02" type="GSL-1">the</t>
-                <t id="p01-s07-t03">recipe</t>
-				</anaphor>
+                <connector>
+                    <t id="p01-s07-t01" type="GSL-1">If</t>
+                </connector>
+                <anaphor>
+                    <t id="p01-s07-t02" type="GSL-1">the</t>
+                    <t id="p01-s07-t03">recipe</t>
+                </anaphor>
                 <t id="p01-s07-t04" type="GSL-1">tells</t>
                 <t id="p01-s07-t05" type="GSL-2">exactly</t>
                 <t id="p01-s07-t06" type="GSL-1">what</t>
@@ -139,9 +142,9 @@
                 <t id="p01-s07-t12" type="GSL-2">confusion</t>
                 <punc>,</punc>
                 <t id="p01-s07-t13" type="GSL-1">then</t>
-				<anaphor>
-                <t id="p01-s07-t14" type="GSL-1">it</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p01-s07-t14" type="GSL-1">it</t>
+                </anaphor>
                 <t id="p01-s07-t15" type="GSL-1">is</t>
                 <t id="p01-s07-t16" type="GSL-1">an</t>
                 <t id="p01-s07-t17">algorithm</t>
@@ -150,10 +153,10 @@
         </paragraph>
         <paragraph id="p02">
             <sentence id="p02-s01">
-			<emph>
-                <t id="p02-s01-t01" type="GSL-2">Comparing</t>
-                <t id="p02-s01-t02">algorithms</t>
-				</emph>
+                <emph>
+                    <t id="p02-s01-t01" type="GSL-2">Comparing</t>
+                    <t id="p02-s01-t02">algorithms</t>
+                </emph>
             </sentence>
         </paragraph>
         <paragraph id="p03">
@@ -201,10 +204,10 @@
                 <punc>.</punc>
             </sentence>
             <sentence id="p03-s03">
-			<anaphor>
-                <t id="p03-s03-t01" type="GSL-1">The</t>
-                <t id="p03-s03-t02" type="GSL-1">same</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p03-s03-t01" type="GSL-1">The</t>
+                    <t id="p03-s03-t02" type="GSL-1">same</t>
+                </anaphor>
                 <t id="p03-s03-t03" type="GSL-1">is</t>
                 <t id="p03-s03-t04" type="GSL-1">true</t>
                 <t id="p03-s03-t05" type="GSL-1">for</t>
@@ -212,16 +215,16 @@
                 <punc>.</punc>
             </sentence>
             <sentence id="p03-s04">
-			<connector>
-                <t id="p03-s04-t01" type="GSL-1">However</t>
-				</connector>
+                <connector>
+                    <t id="p03-s04-t01" type="GSL-1">However</t>
+                </connector>
                 <punc>,</punc>
                 <t id="p03-s04-t02" type="GSL-1">some</t>
                 <t id="p03-s04-t03" type="GSL-1">of</t>
-				<anaphor>
-                <t id="p03-s04-t04" type="GSL-1">these</t>
-                <t id="p03-s04-t05" type="GSL-1">ways</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p03-s04-t04" type="GSL-1">these</t>
+                    <t id="p03-s04-t05" type="GSL-1">ways</t>
+                </anaphor>
                 <t id="p03-s04-t06" type="GSL-1">will</t>
                 <t id="p03-s04-t07" type="GSL-1">be</t>
                 <t id="p03-s04-t08" type="GSL-1">better</t>
@@ -230,9 +233,9 @@
                 <punc>.</punc>
             </sentence>
             <sentence id="p03-s05">
-			<connector>
-                <t id="p03-s05-t01" type="GSL-1">If</t>
-				</connector>
+                <connector>
+                    <t id="p03-s05-t01" type="GSL-1">If</t>
+                </connector>
                 <t id="p03-s05-t02" type="GSL-1">a</t>
                 <t id="p03-s05-t03">recipe</t>
                 <t id="p03-s05-t04" type="GSL-1">needs</t>
@@ -246,9 +249,9 @@
                 <t id="p03-s05-t12" type="GSL-1">not</t>
                 <t id="p03-s05-t13" type="GSL-1">have</t>
                 <punc>,</punc>
-				<anaphor>
-                <t id="p03-s05-t14" type="GSL-1">it</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p03-s05-t14" type="GSL-1">it</t>
+                </anaphor>
                 <t id="p03-s05-t15" type="GSL-1">is</t>
                 <t id="p03-s05-t16" type="GSL-1">not</t>
                 <t id="p03-s05-t17" type="GSL-1">as</t>
@@ -261,9 +264,9 @@
                 <punc>.</punc>
             </sentence>
             <sentence id="p03-s06">
-			<connector>
-                <t id="p03-s06-t01" type="GSL-1">When</t>
-				</connector>
+                <connector>
+                    <t id="p03-s06-t01" type="GSL-1">When</t>
+                </connector>
                 <t id="p03-s06-t02" type="GSL-1">we</t>
                 <t id="p03-s06-t03" type="GSL-1">look</t>
                 <t id="p03-s06-t04" type="GSL-1">at</t>
@@ -282,19 +285,19 @@
                 <t id="p03-s06-t16" type="GSL-1">know</t>
                 <t id="p03-s06-t17" type="GSL-1">how</t>
                 <t id="p03-s06-t18" type="GSL-1">long</t>
-				<anaphor>
-                <t id="p03-s06-t19" type="GSL-1">it</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p03-s06-t19" type="GSL-1">it</t>
+                </anaphor>
                 <t id="p03-s06-t20" type="GSL-1">would</t>
                 <t id="p03-s06-t21" type="GSL-1">take</t>
                 <t id="p03-s06-t22" type="GSL-1">a</t>
                 <t id="p03-s06-t23" type="Coxhead-AWL-2,AR-AWL-2a">computer</t>
                 <t id="p03-s06-t24" type="GSL-1">to</t>
                 <t id="p03-s06-t25" type="GSL-2">solve</t>
-				<anaphor>
-                <t id="p03-s06-t26" type="GSL-1">the</t>
-                <t id="p03-s06-t27" type="GSL-1">problem</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p03-s06-t26" type="GSL-1">the</t>
+                    <t id="p03-s06-t27" type="GSL-1">problem</t>
+                </anaphor>
                 <t id="p03-s06-t28" type="GSL-1">using</t>
                 <t id="p03-s06-t29" type="GSL-1">a</t>
                 <t id="p03-s06-t30" type="GSL-1">particular</t>
@@ -302,9 +305,9 @@
                 <punc>.</punc>
             </sentence>
             <sentence id="p03-s07">
-			<connector>
-                <t id="p03-s07-t01" type="GSL-1">When</t>
-				</connector>
+                <connector>
+                    <t id="p03-s07-t01" type="GSL-1">When</t>
+                </connector>
                 <t id="p03-s07-t02" type="GSL-1">we</t>
                 <t id="p03-s07-t03" type="GSL-1">write</t>
                 <t id="p03-s07-t04">algorithms</t>
@@ -320,9 +323,9 @@
                 <t id="p03-s07-t13" type="GSL-1">amount</t>
                 <t id="p03-s07-t14" type="GSL-1">of</t>
                 <t id="p03-s07-t15" type="GSL-1">time</t>
-				<connector>
-                <t id="p03-s07-t16" type="GSL-1">so</t>
-				</connector>
+                <connector>
+                    <t id="p03-s07-t16" type="GSL-1">so</t>
+                </connector>
                 <t id="p03-s07-t17" type="GSL-1">that</t>
                 <t id="p03-s07-t18" type="GSL-1">we</t>
                 <t id="p03-s07-t19" type="GSL-1">can</t>
@@ -349,14 +352,14 @@
                 <t id="p04-s01-t08" type="GSL-1">to</t>
                 <t id="p04-s01-t09" type="GSL-1">do</t>
                 <t id="p04-s01-t10" type="GSL-1">than</t>
-				<anaphor>
-                <t id="p04-s01-t11" type="GSL-1">others</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p04-s01-t11" type="GSL-1">others</t>
+                </anaphor>
                 <punc>,</punc>
                 <t id="p04-s01-t12" type="GSL-1">because</t>
-				<anaphor>
-                <t id="p04-s01-t13" type="GSL-1">they</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p04-s01-t13" type="GSL-1">they</t>
+                </anaphor>
                 <t id="p04-s01-t14" type="GSL-1">take</t>
                 <t id="p04-s01-t15" type="GSL-1">more</t>
                 <t id="p04-s01-t16" type="GSL-1">time</t>
@@ -375,23 +378,23 @@
             <sentence id="p04-s02">
                 <t id="p04-s02-t01" type="GSL-1">It</t>
                 <t id="p04-s02-t02" type="GSL-1">is</t>
-				<anaphor>
-                <t id="p04-s02-t03" type="GSL-1">the</t>
-                <t id="p04-s02-t04" type="GSL-1">same</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p04-s02-t03" type="GSL-1">the</t>
+                    <t id="p04-s02-t04" type="GSL-1">same</t>
+                </anaphor>
                 <t id="p04-s02-t05" type="GSL-1">for</t>
                 <t id="p04-s02-t06">algorithms</t>
                 <punc>,</punc>
-				<connector>
-                <t id="p04-s02-t07" type="GSL-1">and</t>
-				</connector>
+                <connector>
+                    <t id="p04-s02-t07" type="GSL-1">and</t>
+                </connector>
                 <t id="p04-s02-t08">algorithms</t>
                 <t id="p04-s02-t09" type="GSL-1">are</t>
                 <t id="p04-s02-t10" type="GSL-1">better</t>
                 <t id="p04-s02-t11" type="GSL-1">when</t>
-				<anaphor>
-                <t id="p04-s02-t12" type="GSL-1">they</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p04-s02-t12" type="GSL-1">they</t>
+                </anaphor>
                 <t id="p04-s02-t13" type="GSL-1">are</t>
                 <t id="p04-s02-t14" type="GSL-1">easier</t>
                 <t id="p04-s02-t15" type="GSL-1">for</t>
@@ -416,9 +419,9 @@
                 <punc>.</punc>
             </sentence>
             <sentence id="p04-s04">
-			<connector>
-                <t id="p04-s04-t01" type="GSL-1">When</t>
-				</connector>
+                <connector>
+                    <t id="p04-s04-t01" type="GSL-1">When</t>
+                </connector>
                 <t id="p04-s04-t02" type="GSL-1">we</t>
                 <t id="p04-s04-t03" type="GSL-1">ask</t>
                 <t id="p04-s04-t04" type="GSL-1">how</t>
@@ -445,9 +448,9 @@
                 <t id="p04-s04-t24" type="GSL-1">problem</t>
                 <t id="p04-s04-t25" type="GSL-1">we</t>
                 <t id="p04-s04-t26" type="GSL-1">want</t>
-				<anaphor>
-                <t id="p04-s04-t27" type="GSL-1">it</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p04-s04-t27" type="GSL-1">it</t>
+                </anaphor>
                 <t id="p04-s04-t28" type="GSL-1">to</t>
                 <t id="p04-s04-t29" type="GSL-2">solve</t>
                 <punc>.</punc>
@@ -455,18 +458,18 @@
         </paragraph>
         <paragraph id="p05">
             <sentence id="p05-s01">
-			<emph>
-                <t id="p05-s01-t01" type="GSL-1">Sorting</t>
-                <t id="p05-s01-t02" type="GSL-1">by</t>
-                <t id="p05-s01-t03" type="GSL-1">numbers</t>
-				</emph>
+                <emph>
+                    <t id="p05-s01-t01" type="GSL-1">Sorting</t>
+                    <t id="p05-s01-t02" type="GSL-1">by</t>
+                    <t id="p05-s01-t03" type="GSL-1">numbers</t>
+                </emph>
             </sentence>
         </paragraph>
         <paragraph id="p06">
             <sentence id="p06-s01">
-			<anaphor>
-                <t id="p06-s01-t01" type="GSL-1">This</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p06-s01-t01" type="GSL-1">This</t>
+                </anaphor>
                 <t id="p06-s01-t02" type="GSL-1">is</t>
                 <t id="p06-s01-t03" type="GSL-1">an</t>
                 <t id="p06-s01-t04" type="GSL-1">example</t>
@@ -484,14 +487,14 @@
                 <t id="p06-s01-t16" type="GSL-1">different</t>
                 <t id="p06-s01-t17" type="GSL-1">numbers</t>
                 <punc>,</punc>
-				<connector>
-                <t id="p06-s01-t18" type="GSL-1">so</t>
-				</connector>
+                <connector>
+                    <t id="p06-s01-t18" type="GSL-1">so</t>
+                </connector>
                 <t id="p06-s01-t19" type="GSL-1">that</t>
-				<anaphor>
-                <t id="p06-s01-t20" type="GSL-1">the</t>
-                <t id="p06-s01-t21" type="GSL-1">numbers</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p06-s01-t20" type="GSL-1">the</t>
+                    <t id="p06-s01-t21" type="GSL-1">numbers</t>
+                </anaphor>
                 <t id="p06-s01-t22" type="GSL-1">are</t>
                 <t id="p06-s01-t23" type="GSL-1">in</t>
                 <t id="p06-s01-t24" type="GSL-1">order</t>
@@ -517,18 +520,18 @@
         </paragraph>
         <paragraph id="p08">
             <sentence id="p08-s01">
-			<anaphor>
-                <t id="p08-s01-t01" type="GSL-1">This</t>
-                <t id="p08-s01-t02">algorithm</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p08-s01-t01" type="GSL-1">This</t>
+                    <t id="p08-s01-t02">algorithm</t>
+                </anaphor>
                 <t id="p08-s01-t03" type="GSL-1">goes</t>
                 <t id="p08-s01-t04" type="GSL-1">through</t>
-				<anaphor>
-                <t id="p08-s01-t05" type="GSL-1">the</t>
-                <t id="p08-s01-t06">stack</t>
-                <t id="p08-s01-t07" type="GSL-1">of</t>
-                <t id="p08-s01-t08" type="GSL-2">cards</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p08-s01-t05" type="GSL-1">the</t>
+                    <t id="p08-s01-t06">stack</t>
+                    <t id="p08-s01-t07" type="GSL-1">of</t>
+                    <t id="p08-s01-t08" type="GSL-2">cards</t>
+                </anaphor>
                 <punc>,</punc>
                 <t id="p08-s01-t09" type="GSL-1">one</t>
                 <t id="p08-s01-t10" type="GSL-1">position</t>
@@ -550,20 +553,20 @@
                 <t id="p08-s02-t10" type="GSL-1">next</t>
                 <t id="p08-s02-t11" type="GSL-2">card</t>
                 <t id="p08-s02-t12" type="GSL-1">in</t>
-				<anaphor>
-                <t id="p08-s02-t13" type="GSL-1">the</t>
-                <t id="p08-s02-t14">stack</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p08-s02-t13" type="GSL-1">the</t>
+                    <t id="p08-s02-t14">stack</t>
+                </anaphor>
                 <punc>.</punc>
             </sentence>
             <sentence id="p08-s03">
                 <t id="p08-s03-t01" type="GSL-1">Please</t>
                 <t id="p08-s03-t02" type="GSL-1">note</t>
                 <t id="p08-s03-t03" type="GSL-1">that</t>
-				<anaphor>
-                <t id="p08-s03-t04" type="GSL-1">this</t>
-                <t id="p08-s03-t05" type="GSL-1">position</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p08-s03-t04" type="GSL-1">this</t>
+                    <t id="p08-s03-t05" type="GSL-1">position</t>
+                </anaphor>
                 <t id="p08-s03-t06" type="GSL-1">only</t>
                 <t id="p08-s03-t07" type="GSL-1">changes</t>
                 <t id="p08-s03-t08" type="GSL-1">in</t>
@@ -572,22 +575,22 @@
                 <punc>.</punc>
             </sentence>
             <sentence id="p08-s04">
-			<anaphor>
-                <t id="p08-s04-t01" type="GSL-1">This</t>
-                <t id="p08-s04-t02">algorithm</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p08-s04-t01" type="GSL-1">This</t>
+                    <t id="p08-s04-t02">algorithm</t>
+                </anaphor>
                 <t id="p08-s04-t03" type="GSL-1">is</t>
                 <t id="p08-s04-t04" type="GSL-1">called</t>
-				<term>
-                <t id="p08-s04-t05">bubble</t>
-                <t id="p08-s04-t06" type="GSL-1">sort</t>
-				</term>
+                <term>
+                    <t id="p08-s04-t05">bubble</t>
+                    <t id="p08-s04-t06" type="GSL-1">sort</t>
+                </term>
                 <punc>.</punc>
             </sentence>
             <sentence id="p08-s05">
-			<anaphor>
-                <t id="p08-s05-t01" type="GSL-1">It</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p08-s05-t01" type="GSL-1">It</t>
+                </anaphor>
                 <t id="p08-s05-t02" type="GSL-1">is</t>
                 <t id="p08-s05-t03" type="GSL-2">slow</t>
                 <punc>.</punc>
@@ -595,30 +598,30 @@
             <sentence id="p08-s06">
                 <t id="p08-s06-t01">1</t>
                 <punc>.</punc>
-				<connector>
-                <t id="p08-s06-t02" type="GSL-1">If</t>
-				</connector>
-				<anaphor>
-                <t id="p08-s06-t03" type="GSL-1">the</t>
-                <t id="p08-s06-t04">stack</t>
-				</anaphor>
+                <connector>
+                    <t id="p08-s06-t02" type="GSL-1">If</t>
+                </connector>
+                <anaphor>
+                    <t id="p08-s06-t03" type="GSL-1">the</t>
+                    <t id="p08-s06-t04">stack</t>
+                </anaphor>
                 <t id="p08-s06-t05" type="GSL-1">of</t>
                 <t id="p08-s06-t06" type="GSL-2">cards</t>
                 <t id="p08-s06-t07" type="GSL-1">is</t>
                 <t id="p08-s06-t08" type="GSL-2">empty</t>
                 <punc>,</punc>
                 <t id="p08-s06-t09" type="GSL-1">or</t>
-				<anaphor>
-                <t id="p08-s06-t10" type="GSL-1">it</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p08-s06-t10" type="GSL-1">it</t>
+                </anaphor>
                 <t id="p08-s06-t11" type="GSL-1">only</t>
                 <t id="p08-s06-t12" type="GSL-1">contains</t>
                 <t id="p08-s06-t13" type="GSL-1">one</t>
                 <t id="p08-s06-t14" type="GSL-2">card</t>
                 <punc>,</punc>
-				<anaphor>
-                <t id="p08-s06-t15" type="GSL-1">it</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p08-s06-t15" type="GSL-1">it</t>
+                </anaphor>
                 <t id="p08-s06-t16" type="GSL-1">is</t>
                 <t id="p08-s06-t17" type="GSL-1">sorted</t>
                 <punc>;</punc>
@@ -631,12 +634,12 @@
                 <t id="p08-s07-t01">2</t>
                 <punc>.</punc>
                 <t id="p08-s07-t02" type="GSL-1">Take</t>
-				<anaphor>
-                <t id="p08-s07-t03" type="GSL-1">the</t>
-                <t id="p08-s07-t04">stack</t>
-                <t id="p08-s07-t05" type="GSL-1">of</t>
-                <t id="p08-s07-t06" type="GSL-2">cards</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p08-s07-t03" type="GSL-1">the</t>
+                    <t id="p08-s07-t04">stack</t>
+                    <t id="p08-s07-t05" type="GSL-1">of</t>
+                    <t id="p08-s07-t06" type="GSL-2">cards</t>
+                </anaphor>
                 <punc>.</punc>
             </sentence>
             <sentence id="p08-s08">
@@ -650,19 +653,19 @@
                 <t id="p08-s08-t07" type="GSL-1">top</t>
                 <punc>)</punc>
                 <t id="p08-s08-t08" type="GSL-1">of</t>
-				<anaphor>
-                <t id="p08-s08-t09" type="GSL-1">the</t>
-                <t id="p08-s08-t10">stack</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p08-s08-t09" type="GSL-1">the</t>
+                    <t id="p08-s08-t10">stack</t>
+                </anaphor>
                 <punc>.</punc>
             </sentence>
             <sentence id="p08-s09">
                 <t id="p08-s09-t01">3</t>
                 <punc>.</punc>
-				<anaphor>
-                <t id="p08-s09-t02" type="GSL-1">The</t>
-                <t id="p08-s09-t03" type="GSL-2">card</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p08-s09-t02" type="GSL-1">The</t>
+                    <t id="p08-s09-t03" type="GSL-2">card</t>
+                </anaphor>
                 <t id="p08-s09-t04" type="GSL-1">you</t>
                 <t id="p08-s09-t05" type="GSL-1">are</t>
                 <t id="p08-s09-t06" type="GSL-1">looking</t>
@@ -681,10 +684,10 @@
                 <t id="p08-s10-t06" type="GSL-1">currently</t>
                 <t id="p08-s10-t07" type="GSL-1">is</t>
                 <t id="p08-s10-t08" type="GSL-1">in</t>
-				<anaphor>
-                <t id="p08-s10-t09" type="GSL-1">the</t>
-                <t id="p08-s10-t10">stack</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p08-s10-t09" type="GSL-1">the</t>
+                    <t id="p08-s10-t10">stack</t>
+                </anaphor>
                 <t id="p08-s10-t11" type="GSL-1">is</t>
                 <t id="p08-s10-t12">P</t>
                 <punc>.</punc>
@@ -692,19 +695,19 @@
             <sentence id="p08-s11">
                 <t id="p08-s11-t01">4</t>
                 <punc>.</punc>
-				<connector>
-                <t id="p08-s11-t02" type="GSL-1">If</t>
-				</connector>
+                <connector>
+                    <t id="p08-s11-t02" type="GSL-1">If</t>
+                </connector>
                 <t id="p08-s11-t03" type="GSL-1">there</t>
                 <t id="p08-s11-t04" type="GSL-1">are</t>
                 <t id="p08-s11-t05" type="GSL-1">no</t>
                 <t id="p08-s11-t06" type="GSL-1">more</t>
                 <t id="p08-s11-t07" type="GSL-2">cards</t>
                 <t id="p08-s11-t08" type="GSL-1">in</t>
-				<anaphor>
-                <t id="p08-s11-t09" type="GSL-1">the</t>
-                <t id="p08-s11-t10">stack</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p08-s11-t09" type="GSL-1">the</t>
+                    <t id="p08-s11-t10">stack</t>
+                </anaphor>
                 <t id="p08-s11-t11" type="GSL-1">after</t>
                 <t id="p08-s11-t12" type="GSL-2">card</t>
                 <t id="p08-s11-t13" type="GSL-1">A</t>
@@ -722,10 +725,10 @@
                 <t id="p08-s12-t03" type="GSL-1">next</t>
                 <t id="p08-s12-t04" type="GSL-2">card</t>
                 <t id="p08-s12-t05" type="GSL-1">in</t>
-				<anaphor>
-                <t id="p08-s12-t06" type="GSL-1">the</t>
-                <t id="p08-s12-t07">stack</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p08-s12-t06" type="GSL-1">the</t>
+                    <t id="p08-s12-t07">stack</t>
+                </anaphor>
                 <t id="p08-s12-t08" type="GSL-1">is</t>
                 <t id="p08-s12-t09" type="GSL-2">card</t>
                 <t id="p08-s12-t10">B</t>
@@ -734,9 +737,9 @@
             <sentence id="p08-s13">
                 <t id="p08-s13-t01">6</t>
                 <punc>.</punc>
-				<connector>
-                <t id="p08-s13-t02" type="GSL-1">If</t>
-				</connector>
+                <connector>
+                    <t id="p08-s13-t02" type="GSL-1">If</t>
+                </connector>
                 <t id="p08-s13-t03" type="GSL-2">card</t>
                 <t id="p08-s13-t04">B</t>
                 <t id="p08-s13-t05" type="GSL-1">has</t>
@@ -765,9 +768,9 @@
                 <punc>.</punc>
             </sentence>
             <sentence id="p08-s15">
-			<connector>
-                <t id="p08-s15-t01" type="GSL-1">When</t>
-				</connector>
+                <connector>
+                    <t id="p08-s15-t01" type="GSL-1">When</t>
+                </connector>
                 <t id="p08-s15-t02" type="GSL-1">you</t>
                 <t id="p08-s15-t03">swap</t>
                 <t id="p08-s15-t04" type="GSL-2">cards</t>
@@ -783,27 +786,27 @@
             <sentence id="p08-s16">
                 <t id="p08-s16-t01">7</t>
                 <punc>.</punc>
-				<connector>
-                <t id="p08-s16-t02" type="GSL-1">If</t>
-				</connector>
+                <connector>
+                    <t id="p08-s16-t02" type="GSL-1">If</t>
+                </connector>
                 <t id="p08-s16-t03" type="GSL-1">there</t>
                 <t id="p08-s16-t04" type="GSL-1">is</t>
                 <t id="p08-s16-t05" type="GSL-1">another</t>
                 <t id="p08-s16-t06" type="GSL-2">card</t>
                 <t id="p08-s16-t07" type="GSL-1">in</t>
-				<anaphor>
-                <t id="p08-s16-t08" type="GSL-1">the</t>
-                <t id="p08-s16-t09">stack</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p08-s16-t08" type="GSL-1">the</t>
+                    <t id="p08-s16-t09">stack</t>
+                </anaphor>
                 <t id="p08-s16-t10" type="GSL-1">after</t>
                 <t id="p08-s16-t11" type="GSL-1">position</t>
                 <t id="p08-s16-t12">P</t>
                 <punc>,</punc>
                 <t id="p08-s16-t13" type="GSL-1">look</t>
                 <t id="p08-s16-t14" type="GSL-1">at</t>
-				<anaphor>
-                <t id="p08-s16-t15" type="GSL-1">it</t>
-				</anaphor>	
+                <anaphor>
+                    <t id="p08-s16-t15" type="GSL-1">it</t>
+                </anaphor>	
                 <punc>;</punc>
                 <t id="p08-s16-t16" type="GSL-1">go</t>
                 <t id="p08-s16-t17" type="GSL-1">back</t>
@@ -815,9 +818,9 @@
             <sentence id="p08-s17">
                 <t id="p08-s17-t01">8</t>
                 <punc>.</punc>
-				<connector>
-                <t id="p08-s17-t02" type="GSL-1">If</t>
-				</connector>
+                <connector>
+                    <t id="p08-s17-t02" type="GSL-1">If</t>
+                </connector>
                 <t id="p08-s17-t03" type="GSL-1">you</t>
                 <t id="p08-s17-t04" type="GSL-1">did</t>
                 <t id="p08-s17-t05" type="GSL-1">not</t>
@@ -828,30 +831,30 @@
                 <t id="p08-s17-t10" type="GSL-1">any</t>
                 <t id="p08-s17-t11" type="GSL-2">cards</t>
                 <t id="p08-s17-t12" type="GSL-1">in</t>
-				<anaphor>
-                <t id="p08-s17-t13" type="GSL-1">the</t>
-                <t id="p08-s17-t14" type="GSL-1">last</t>
-                <t id="p08-s17-t15" type="GSL-1">run</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p08-s17-t13" type="GSL-1">the</t>
+                    <t id="p08-s17-t14" type="GSL-1">last</t>
+                    <t id="p08-s17-t15" type="GSL-1">run</t>
+                </anaphor>
                 <punc>,</punc>
                 <t id="p08-s17-t16" type="GSL-1">you</t>
                 <t id="p08-s17-t17" type="GSL-1">are</t>
                 <t id="p08-s17-t18" type="GSL-1">done</t>
                 <punc>;</punc>
-				<anaphor>
-                <t id="p08-s17-t19" type="GSL-1">the</t>
-                <t id="p08-s17-t20">stack</t>
-                <t id="p08-s17-t21" type="GSL-1">of</t>
-                <t id="p08-s17-t22" type="GSL-2">cards</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p08-s17-t19" type="GSL-1">the</t>
+                    <t id="p08-s17-t20">stack</t>
+                    <t id="p08-s17-t21" type="GSL-1">of</t>
+                    <t id="p08-s17-t22" type="GSL-2">cards</t>
+                </anaphor>
                 <t id="p08-s17-t23" type="GSL-1">is</t>
                 <t id="p08-s17-t24" type="GSL-1">sorted</t>
                 <punc>.</punc>
             </sentence>
             <sentence id="p08-s18">
-			<connector>
-                <t id="p08-s18-t01" type="GSL-1">Otherwise</t>
-				</connector>
+                <connector>
+                    <t id="p08-s18-t01" type="GSL-1">Otherwise</t>
+                </connector>
                 <t id="p08-s18-t02" type="GSL-1">go</t>
                 <t id="p08-s18-t03" type="GSL-1">back</t>
                 <t id="p08-s18-t04" type="GSL-1">to</t>
@@ -862,9 +865,9 @@
         </paragraph>
         <paragraph id="p09">
             <sentence id="p09-s01">
-			<anaphor>
-                <t id="p09-s01-t01" type="GSL-1">This</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p09-s01-t01" type="GSL-1">This</t>
+                </anaphor>
                 <t id="p09-s01-t02" type="GSL-1">is</t>
                 <t id="p09-s01-t03" type="GSL-1">an</t>
                 <t id="p09-s01-t04" type="GSL-1">easy</t>
@@ -881,9 +884,9 @@
                 <t id="p09-s02-t01" type="Coxhead-AWL-2,AR-AWL-2a">Computer</t>
                 <t id="p09-s02-t02" type="GSL-1">scientists</t>
                 <t id="p09-s02-t03" type="GSL-1">called</t>
-				<anaphor>
-                <t id="p09-s02-t04" type="GSL-1">it</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p09-s02-t04" type="GSL-1">it</t>
+                </anaphor>
                 <t id="p09-s02-t05">Bubble</t>
                 <t id="p09-s02-t06" type="GSL-1">sort</t>
                 <punc>,</punc>
@@ -897,9 +900,9 @@
                 <t id="p09-s02-t14" type="GSL-1">top</t>
                 <punc>,</punc>
                 <t id="p09-s02-t15" type="GSL-1">changing</t>
-				<anaphor>
-                <t id="p09-s02-t16" type="GSL-1">their</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p09-s02-t16" type="GSL-1">their</t>
+                </anaphor>
                 <t id="p09-s02-t17" type="GSL-1">position</t>
                 <t id="p09-s02-t18" type="GSL-1">in</t>
                 <t id="p09-s02-t19" type="GSL-1">each</t>
@@ -907,23 +910,23 @@
                 <punc>.</punc>
             </sentence>
             <sentence id="p09-s03">
-			<connector>
-                <t id="p09-s03-t01" type="GSL-1">Unfortunately</t>
-				</connector>
+                <connector>
+                    <t id="p09-s03-t01" type="GSL-1">Unfortunately</t>
+                </connector>
                 <punc>,</punc>
-				<anaphor>
-                <t id="p09-s03-t02" type="GSL-1">the</t>
-                <t id="p09-s03-t03">algorithm</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p09-s03-t02" type="GSL-1">the</t>
+                    <t id="p09-s03-t03">algorithm</t>
+                </anaphor>
                 <t id="p09-s03-t04" type="GSL-1">is</t>
                 <t id="p09-s03-t05" type="GSL-1">not</t>
                 <t id="p09-s03-t06" type="GSL-1">very</t>
                 <t id="p09-s03-t07" type="GSL-1">good</t>
                 <punc>,</punc>
                 <t id="p09-s03-t08" type="GSL-1">because</t>
-				<anaphor>
-                <t id="p09-s03-t09" type="GSL-1">it</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p09-s03-t09" type="GSL-1">it</t>
+                </anaphor>
                 <t id="p09-s03-t10" type="GSL-1">needs</t>
                 <t id="p09-s03-t11" type="GSL-1">a</t>
                 <t id="p09-s03-t12" type="GSL-1">long</t>
@@ -932,18 +935,18 @@
                 <t id="p09-s03-t14" type="GSL-1">many</t>
                 <t id="p09-s03-t15" type="GSL-1">passes</t>
                 <t id="p09-s03-t16" type="GSL-1">through</t>
-				<anaphor>
-                <t id="p09-s03-t17" type="GSL-1">the</t>
-                <t id="p09-s03-t18">stack</t>
-                <t id="p09-s03-t19" type="GSL-1">of</t>
-                <t id="p09-s03-t20" type="GSL-2">cards</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p09-s03-t17" type="GSL-1">the</t>
+                    <t id="p09-s03-t18">stack</t>
+                    <t id="p09-s03-t19" type="GSL-1">of</t>
+                    <t id="p09-s03-t20" type="GSL-2">cards</t>
+                </anaphor>
                 <punc>)</punc>
                 <t id="p09-s03-t21" type="GSL-1">to</t>
                 <t id="p09-s03-t22" type="GSL-1">sort</t>
-				<anaphor>
-                <t id="p09-s03-t23" type="GSL-1">it</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p09-s03-t23" type="GSL-1">it</t>
+                </anaphor>
                 <punc>.</punc>
             </sentence>
         </paragraph>

@@ -5,6 +5,9 @@
     <citation>Wikipedia: “Landslide”. 
         Retrieved from http://en.wikipedia.org/wiki/Landslide on 7 Sep 2014.</citation>
     <url>http://en.wikipedia.org/wiki/Landslide</url>
+    <info type="arise">
+        <arise-info book="2" section="2" unit="7" part="1" item="C" firstpage="33"/>
+    </info>
     <body>
         <paragraph id="p01">
             <sentence id="p01-s01">
@@ -44,9 +47,9 @@
                 <punc>-</punc>
                 <t id="p01-s02-t11" type="GSL-1">related</t>
                 <t id="p01-s02-t12" type="Coxhead-AWL-1,AR-AWL-1a">factors</t>
-				<connector>
-                <t id="p01-s02-t13" type="GSL-1">and</t>
-				</connector>
+                <connector>
+                    <t id="p01-s02-t13" type="GSL-1">and</t>
+                </connector>
                 <t id="p01-s02-t14" type="GSL-2">shallow</t>
                 <t id="p01-s02-t15">landslides</t>
                 <t id="p01-s02-t16" type="GSL-1">can</t>
@@ -62,9 +65,9 @@
                 <punc>.</punc>
             </sentence>
             <sentence id="p01-s03">
-			<connector>
-                <t id="p01-s03-t01" type="GSL-1">As</t>
-				</connector>
+                <connector>
+                    <t id="p01-s03-t01" type="GSL-1">As</t>
+                </connector>
                 <t id="p01-s03-t02" type="GSL-1">the</t>
                 <t id="p01-s03-t03">impoundments</t>
                 <t id="p01-s03-t04" type="GSL-1">fail</t>
@@ -86,11 +89,11 @@
                 <t id="p01-s03-t16" type="GSL-1">the</t>
                 <t id="p01-s03-t17" type="Coxhead-AWL-3,AR-AWL-3b">volume</t>
                 <t id="p01-s03-t18" type="GSL-1">of</t>
-				<anaphor>
-                <t id="p01-s03-t19" type="GSL-1">the</t>
-                <t id="p01-s03-t20" type="GSL-1">flowing</t>
-                <t id="p01-s03-t21" type="GSL-1">mass</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p01-s03-t19" type="GSL-1">the</t>
+                    <t id="p01-s03-t20" type="GSL-1">flowing</t>
+                    <t id="p01-s03-t21" type="GSL-1">mass</t>
+                </anaphor>
                 <punc>,</punc>
                 <t id="p01-s03-t22" type="GSL-1">which</t>
                 <t id="p01-s03-t23" type="GSL-1">takes</t>
@@ -104,13 +107,13 @@
                 <punc>.</punc>
             </sentence>
             <sentence id="p01-s04">
-			<anaphor>
-                <t id="p01-s04-t01" type="GSL-1">The</t>
-                <t id="p01-s04-t02" type="GSL-2">solid</t>
-                <punc>-</punc>
-                <t id="p01-s04-t03" type="GSL-2">liquid</t>
-                <t id="p01-s04-t04" type="GSL-2">mixture</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p01-s04-t01" type="GSL-1">The</t>
+                    <t id="p01-s04-t02" type="GSL-2">solid</t>
+                    <punc>-</punc>
+                    <t id="p01-s04-t03" type="GSL-2">liquid</t>
+                    <t id="p01-s04-t04" type="GSL-2">mixture</t>
+                </anaphor>
                 <t id="p01-s04-t05" type="GSL-1">can</t>
                 <t id="p01-s04-t06" type="GSL-1">reach</t>
                 <t id="p01-s04-t07">densities</t>
@@ -138,10 +141,10 @@
                 <punc>.</punc>
             </sentence>
             <sentence id="p01-s05">
-			<anaphor>
-                <t id="p01-s05-t01" type="GSL-1">These</t>
-                <t id="p01-s05-t02" type="Coxhead-AWL-1,AR-AWL-1b">processes</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p01-s05-t01" type="GSL-1">These</t>
+                    <t id="p01-s05-t02" type="Coxhead-AWL-1,AR-AWL-1b">processes</t>
+                </anaphor>
                 <t id="p01-s05-t03" type="Coxhead-AWL-2,AR-AWL-2b">normally</t>
                 <t id="p01-s05-t04" type="GSL-1">cause</t>
                 <t id="p01-s05-t05" type="GSL-1">the</t>
@@ -150,19 +153,19 @@
                 <t id="p01-s05-t08" type="GSL-1">road</t>
                 <t id="p01-s05-t09">interruptions</t>
                 <punc>,</punc>
-				<connector>
-                <t id="p01-s05-t10" type="GSL-1">due</t>
-				</connector>
+                <connector>
+                    <t id="p01-s05-t10" type="GSL-1">due</t>
+                </connector>
                 <t id="p01-s05-t11" type="GSL-1">not</t>
                 <t id="p01-s05-t12" type="GSL-1">only</t>
                 <t id="p01-s05-t13" type="GSL-1">to</t>
                 <t id="p01-s05-t14">deposits</t>
                 <t id="p01-s05-t15" type="Coxhead-AWL-8,AR-AWL-8a">accumulated</t>
                 <t id="p01-s05-t16" type="GSL-1">on</t>
-				<anaphor>
-                <t id="p01-s05-t17" type="GSL-1">the</t>
-                <t id="p01-s05-t18" type="GSL-1">road</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p01-s05-t17" type="GSL-1">the</t>
+                    <t id="p01-s05-t18" type="GSL-1">road</t>
+                </anaphor>
                 <punc>(</punc>
                 <t id="p01-s05-t19" type="GSL-1">from</t>
                 <t id="p01-s05-t20" type="GSL-1">several</t>
@@ -190,11 +193,11 @@
                 <t id="p01-s05-t40" type="GSL-1">or</t>
                 <t id="p01-s05-t41" type="GSL-2">railways</t>
                 <t id="p01-s05-t42" type="GSL-1">crossing</t>
-				<anaphor>
-                <t id="p01-s05-t43" type="GSL-1">the</t>
-                <t id="p01-s05-t44" type="GSL-1">stream</t>
-                <t id="p01-s05-t45" type="Coxhead-AWL-7,AR-AWL-7a">channel</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p01-s05-t43" type="GSL-1">the</t>
+                    <t id="p01-s05-t44" type="GSL-1">stream</t>
+                    <t id="p01-s05-t45" type="Coxhead-AWL-7,AR-AWL-7a">channel</t>
+                </anaphor>
                 <punc>.</punc>
             </sentence>
         </paragraph>

@@ -1,214 +1,217 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
 <document>
-<title>Extract from The Scope of Biology</title>
-<citation>OpenStax College, Biology. OpenStax College. Retrieved from http://cnx.org/content/col11448/latest/ 30 May 2013.</citation>
-<url>http://cnx.org/content/col11448/latest/</url>
-<body>
-<paragraph>
-<sentence>
-<t>The</t>
-<t>scope</t>
-<t>of</t>
-<t>biology</t>
-<t>is</t>
-<t>broad</t>
-<t>and</t>
-<t>therefore</t>
-<t>contains</t>
-<t>many</t>
-<t>branches</t>
-<t>and</t>
-<t>subdisciplines</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>Biologists</t>
-<t>may</t>
-<t>pursue</t>
-<t>one</t>
-<t>of</t>
-<t>those</t>
-<t>subdisciplines</t>
-<t>and</t>
-<t>work</t>
-<t>in</t>
-<t>a</t>
-<t>more</t>
-<t>focused</t>
-<t>field</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>For</t>
-<t>instance</t>
-<punc>,</punc>
-<t>molecular</t>
-<t>biology</t>
-<t>and</t>
-<t>biochemistry</t>
-<t>study</t>
-<t>biological</t>
-<t>processes</t>
-<t>at</t>
-<t>the</t>
-<t>molecular</t>
-<t>and</t>
-<t>chemical</t>
-<t>level</t>
-<punc>,</punc>
-<t>including</t>
-<t>interactions</t>
-<t>among</t>
-<t>molecules</t>
-<t>such</t>
-<t>as</t>
-<t>DNA</t>
-<punc>,</punc>
-<t>RNA</t>
-<punc>,</punc>
-<t>and</t>
-<t>proteins</t>
-<punc>,</punc>
-<t>as</t>
-<t>well</t>
-<t>as</t>
-<t>the</t>
-<t>way</t>
-<t>they</t>
-<t>are</t>
-<t>regulated</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>Microbiology</t>
-<punc>,</punc>
-<t>the</t>
-<t>study</t>
-<t>of</t>
-<t>microorganisms</t>
-<punc>,</punc>
-<t>is</t>
-<t>the</t>
-<t>study</t>
-<t>of</t>
-<t>the</t>
-<t>structure</t>
-<t>and</t>
-<t>function</t>
-<t>of</t>
-<t>single</t>
-<punc>-</punc>
-<t>celled</t>
-<t>organisms</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>It</t>
-<t>is</t>
-<t>quite</t>
-<t>a</t>
-<t>broad</t>
-<t>branch</t>
-<t>itself</t>
-<punc>,</punc>
-<t>and</t>
-<t>depending</t>
-<t>on</t>
-<t>the</t>
-<t>subject</t>
-<t>of</t>
-<t>study</t>
-<punc>,</punc>
-<t>there</t>
-<t>are</t>
-<t>also</t>
-<t>microbial</t>
-<t>physiologists</t>
-<punc>,</punc>
-<t>ecologists</t>
-<punc>,</punc>
-<t>and</t>
-<t>geneticists</t>
-<punc>,</punc>
-<t>among</t>
-<t>others</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph>
-<sentence>
-<t>Another</t>
-<t>field</t>
-<t>of</t>
-<t>biological</t>
-<t>study</t>
-<punc>,</punc>
-<t>neurobiology</t>
-<punc>,</punc>
-<t>studies</t>
-<t>the</t>
-<t>biology</t>
-<t>of</t>
-<t>the</t>
-<t>nervous</t>
-<t>system</t>
-<punc>,</punc>
-<t>and</t>
-<t>although</t>
-<t>it</t>
-<t>is</t>
-<t>considered</t>
-<t>a</t>
-<t>branch</t>
-<t>of</t>
-<t>biology</t>
-<punc>,</punc>
-<t>it</t>
-<t>is</t>
-<t>also</t>
-<t>recognized</t>
-<t>as</t>
-<t>an</t>
-<t>interdisciplinary</t>
-<t>field</t>
-<t>of</t>
-<t>study</t>
-<t>known</t>
-<t>as</t>
-<t>neuroscience</t>
-<punc>.</punc>
-</sentence>
-<sentence>
-<t>Because</t>
-<t>of</t>
-<t>its</t>
-<t>interdisciplinary</t>
-<t>nature</t>
-<punc>,</punc>
-<t>this</t>
-<t>subdiscipline</t>
-<t>studies</t>
-<t>different</t>
-<t>functions</t>
-<t>of</t>
-<t>the</t>
-<t>nervous</t>
-<t>system</t>
-<t>using</t>
-<t>molecular</t>
-<punc>,</punc>
-<t>cellular</t>
-<punc>,</punc>
-<t>developmental</t>
-<punc>,</punc>
-<t>medical</t>
-<punc>,</punc>
-<t>and</t>
-<t>computational</t>
-<t>approaches</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-</body>
+    <title>Extract from The Scope of Biology</title>
+    <citation>OpenStax College, Biology. OpenStax College. Retrieved from http://cnx.org/content/col11448/latest/ 30 May 2013.</citation>
+    <url>http://cnx.org/content/col11448/latest/</url>
+    <info type="arise">
+        <arise-info book="2" section="2" unit="6" part="1" item="A" firstpage="28"/>
+    </info>
+    <body>
+        <paragraph>
+            <sentence>
+                <t>The</t>
+                <t>scope</t>
+                <t>of</t>
+                <t>biology</t>
+                <t>is</t>
+                <t>broad</t>
+                <t>and</t>
+                <t>therefore</t>
+                <t>contains</t>
+                <t>many</t>
+                <t>branches</t>
+                <t>and</t>
+                <t>subdisciplines</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Biologists</t>
+                <t>may</t>
+                <t>pursue</t>
+                <t>one</t>
+                <t>of</t>
+                <t>those</t>
+                <t>subdisciplines</t>
+                <t>and</t>
+                <t>work</t>
+                <t>in</t>
+                <t>a</t>
+                <t>more</t>
+                <t>focused</t>
+                <t>field</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>For</t>
+                <t>instance</t>
+                <punc>,</punc>
+                <t>molecular</t>
+                <t>biology</t>
+                <t>and</t>
+                <t>biochemistry</t>
+                <t>study</t>
+                <t>biological</t>
+                <t>processes</t>
+                <t>at</t>
+                <t>the</t>
+                <t>molecular</t>
+                <t>and</t>
+                <t>chemical</t>
+                <t>level</t>
+                <punc>,</punc>
+                <t>including</t>
+                <t>interactions</t>
+                <t>among</t>
+                <t>molecules</t>
+                <t>such</t>
+                <t>as</t>
+                <t>DNA</t>
+                <punc>,</punc>
+                <t>RNA</t>
+                <punc>,</punc>
+                <t>and</t>
+                <t>proteins</t>
+                <punc>,</punc>
+                <t>as</t>
+                <t>well</t>
+                <t>as</t>
+                <t>the</t>
+                <t>way</t>
+                <t>they</t>
+                <t>are</t>
+                <t>regulated</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Microbiology</t>
+                <punc>,</punc>
+                <t>the</t>
+                <t>study</t>
+                <t>of</t>
+                <t>microorganisms</t>
+                <punc>,</punc>
+                <t>is</t>
+                <t>the</t>
+                <t>study</t>
+                <t>of</t>
+                <t>the</t>
+                <t>structure</t>
+                <t>and</t>
+                <t>function</t>
+                <t>of</t>
+                <t>single</t>
+                <punc>-</punc>
+                <t>celled</t>
+                <t>organisms</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>It</t>
+                <t>is</t>
+                <t>quite</t>
+                <t>a</t>
+                <t>broad</t>
+                <t>branch</t>
+                <t>itself</t>
+                <punc>,</punc>
+                <t>and</t>
+                <t>depending</t>
+                <t>on</t>
+                <t>the</t>
+                <t>subject</t>
+                <t>of</t>
+                <t>study</t>
+                <punc>,</punc>
+                <t>there</t>
+                <t>are</t>
+                <t>also</t>
+                <t>microbial</t>
+                <t>physiologists</t>
+                <punc>,</punc>
+                <t>ecologists</t>
+                <punc>,</punc>
+                <t>and</t>
+                <t>geneticists</t>
+                <punc>,</punc>
+                <t>among</t>
+                <t>others</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph>
+            <sentence>
+                <t>Another</t>
+                <t>field</t>
+                <t>of</t>
+                <t>biological</t>
+                <t>study</t>
+                <punc>,</punc>
+                <t>neurobiology</t>
+                <punc>,</punc>
+                <t>studies</t>
+                <t>the</t>
+                <t>biology</t>
+                <t>of</t>
+                <t>the</t>
+                <t>nervous</t>
+                <t>system</t>
+                <punc>,</punc>
+                <t>and</t>
+                <t>although</t>
+                <t>it</t>
+                <t>is</t>
+                <t>considered</t>
+                <t>a</t>
+                <t>branch</t>
+                <t>of</t>
+                <t>biology</t>
+                <punc>,</punc>
+                <t>it</t>
+                <t>is</t>
+                <t>also</t>
+                <t>recognized</t>
+                <t>as</t>
+                <t>an</t>
+                <t>interdisciplinary</t>
+                <t>field</t>
+                <t>of</t>
+                <t>study</t>
+                <t>known</t>
+                <t>as</t>
+                <t>neuroscience</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Because</t>
+                <t>of</t>
+                <t>its</t>
+                <t>interdisciplinary</t>
+                <t>nature</t>
+                <punc>,</punc>
+                <t>this</t>
+                <t>subdiscipline</t>
+                <t>studies</t>
+                <t>different</t>
+                <t>functions</t>
+                <t>of</t>
+                <t>the</t>
+                <t>nervous</t>
+                <t>system</t>
+                <t>using</t>
+                <t>molecular</t>
+                <punc>,</punc>
+                <t>cellular</t>
+                <punc>,</punc>
+                <t>developmental</t>
+                <punc>,</punc>
+                <t>medical</t>
+                <punc>,</punc>
+                <t>and</t>
+                <t>computational</t>
+                <t>approaches</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
 </document>

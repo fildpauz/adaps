@@ -5,6 +5,9 @@
     <citation>Wikipedia: “Economy of the Han dynasty”. 
         Retrieved from http://en.wikipedia.org/wiki/Economy_of_the_Han_dynasty on 22 Aug 2014.</citation>
     <url>http://en.wikipedia.org/wiki/Economy_of_the_Han_dynasty</url>
+    <info type="arise">
+        <arise-info book="2" section="2" unit="6" part="2" item="F" firstpage="29"/>
+    </info>
     <body>
         <paragraph>
             <sentence>
@@ -29,8 +32,8 @@
                 <t>and</t>
                 <t>the</t>
                 <t>larger</t>
-				<punc>-</punc>
-				<t>scale</t>
+                <punc>-</punc>
+                <t>scale</t>
                 <t>itinerant</t>
                 <t>traders</t>
                 <t>who</t>
@@ -67,8 +70,8 @@
                 <t>participated</t>
                 <t>in</t>
                 <t>large</t>
-				<punc>-</punc>
-				<t>scale</t>
+                <punc>-</punc>
+                <t>scale</t>
                 <t>trade</t>
                 <t>with</t>
                 <t>powerful</t>
@@ -217,10 +220,10 @@
                 <t>tracts</t>
                 <t>of</t>
                 <t>land</t>
-				<punc>[</punc>
-				 <t>56</t>
+                <punc>[</punc>
+                <t>56</t>
                 <punc>]</punc>
-				<punc>.</punc>
+                <punc>.</punc>
             </sentence>
             <sentence>
                 <t>Emperor</t>
@@ -247,8 +250,8 @@
                 <t>set</t>
                 <t>up</t>
                 <t>government</t>
-				<punc>-</punc>
-				<t>managed</t>
+                <punc>-</punc>
+                <t>managed</t>
                 <t>shops</t>
                 <t>that</t>
                 <t>sold</t>

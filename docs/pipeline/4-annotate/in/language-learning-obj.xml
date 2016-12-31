@@ -5,6 +5,9 @@
     <citation>Finn AS, Lee T, Kraus A, Hudson Kam CL (2014) When It Hurts (and Helps) to Try: The Role of Effort in Language Learning. PLoS ONE 9(7): e101806. doi:10.1371/journal.pone.0101806
         Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101806 on 24 Nov 2016.</citation>
     <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101806</url>
+    <info type="arise">
+        <arise-info book="2" section="2" unit="5" part="1" item="B" firstpage="26"/>
+    </info>
     <body>
         <paragraph id="p01">
             <sentence id="p01-s01">
@@ -21,9 +24,9 @@
                 <punc>.</punc>
             </sentence>
             <sentence id="p01-s02">
-			<anaphor>
-                <t id="p01-s02-t01" type="GSL-1">This</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p01-s02-t01" type="GSL-1">This</t>
+                </anaphor>
                 <t id="p01-s02-t02" type="GSL-1">is</t>
                 <t id="p01-s02-t03">counterintuitive</t>
                 <punc>;</punc>
@@ -58,22 +61,22 @@
                 <t id="p01-s03-t03" type="GSL-1">study</t>
                 <t id="p01-s03-t04" type="GSL-1">asks</t>
                 <t id="p01-s03-t05" type="GSL-1">whether</t>
-				<anaphor>
-                <t id="p01-s03-t06" type="GSL-1">these</t>
-                <t id="p01-s03-t07" type="Coxhead-AWL-9,AR-AWL-9b">mature</t>
-                <t id="p01-s03-t08">effortful</t>
-                <t id="p01-s03-t09" type="GSL-1">abilities</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p01-s03-t06" type="GSL-1">these</t>
+                    <t id="p01-s03-t07" type="Coxhead-AWL-9,AR-AWL-9b">mature</t>
+                    <t id="p01-s03-t08">effortful</t>
+                    <t id="p01-s03-t09" type="GSL-1">abilities</t>
+                </anaphor>
                 <t id="p01-s03-t10" type="GSL-2">interfere</t>
                 <t id="p01-s03-t11" type="GSL-1">with</t>
                 <t id="p01-s03-t12" type="GSL-1">language</t>
                 <t id="p01-s03-t13" type="GSL-1">learning</t>
                 <t id="p01-s03-t14" type="GSL-1">in</t>
                 <t id="p01-s03-t15" type="Coxhead-AWL-7,AR-AWL-7a">adults</t>
-				<connector>
-                <t id="p01-s03-t16" type="GSL-1">and</t>
-                <t id="p01-s03-t17" type="GSL-1">further</t>
-				</connector>
+                <connector>
+                    <t id="p01-s03-t16" type="GSL-1">and</t>
+                    <t id="p01-s03-t17" type="GSL-1">further</t>
+                </connector>
                 <punc>,</punc>
                 <t id="p01-s03-t18" type="GSL-1">whether</t>
                 <t id="p01-s03-t19" type="GSL-2">interference</t>
@@ -142,9 +145,9 @@
                 <t id="p01-s06-t04" type="GSL-1">told</t>
                 <t id="p01-s06-t05" type="GSL-1">to</t>
                 <t id="p01-s06-t06" type="GSL-1">listen</t>
-				<connector>
-                <t id="p01-s06-t07" type="GSL-1">while</t>
-				</connector>
+                <connector>
+                    <t id="p01-s06-t07" type="GSL-1">while</t>
+                </connector>
                 <t id="p01-s06-t08">effortful</t>
                 <t id="p01-s06-t09" type="GSL-1">learners</t>
                 <t id="p01-s06-t10" type="GSL-1">were</t>
@@ -155,18 +158,18 @@
                 <t id="p01-s06-t15">1</t>
                 <punc>)</punc>
                 <t id="p01-s06-t16" type="GSL-1">learn</t>
-				<anaphor>
-                <t id="p01-s06-t17" type="GSL-1">the</t>
-                <t id="p01-s06-t18" type="GSL-1">words</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p01-s06-t17" type="GSL-1">the</t>
+                    <t id="p01-s06-t18" type="GSL-1">words</t>
+                </anaphor>
                 <punc>,</punc>
                 <t id="p01-s06-t19">2</t>
                 <punc>)</punc>
                 <t id="p01-s06-t20" type="GSL-1">learn</t>
-				<anaphor>
-                <t id="p01-s06-t21" type="GSL-1">the</t>
-                <t id="p01-s06-t22" type="Coxhead-AWL-2,AR-AWL-2a">categories</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p01-s06-t21" type="GSL-1">the</t>
+                    <t id="p01-s06-t22" type="Coxhead-AWL-2,AR-AWL-2a">categories</t>
+                </anaphor>
                 <punc>,</punc>
                 <t id="p01-s06-t23" type="GSL-1">or</t>
                 <t id="p01-s06-t24">3</t>
@@ -187,9 +190,9 @@
                 <t id="p01-s07-t06" type="GSL-1">for</t>
                 <t id="p01-s07-t07" type="GSL-1">learning</t>
                 <t id="p01-s07-t08" type="GSL-1">words</t>
-				<connector>
-                <t id="p01-s07-t09" type="GSL-1">while</t>
-				</connector>
+                <connector>
+                    <t id="p01-s07-t09" type="GSL-1">while</t>
+                </connector>
                 <t id="p01-s07-t10" type="Coxhead-AWL-9,AR-AWL-9b">passive</t>
                 <t id="p01-s07-t11" type="GSL-1">learners</t>
                 <t id="p01-s07-t12" type="GSL-1">showed</t>
@@ -197,10 +200,10 @@
                 <t id="p01-s07-t14" type="GSL-1">advantage</t>
                 <t id="p01-s07-t15" type="GSL-1">for</t>
                 <t id="p01-s07-t16" type="GSL-1">learning</t>
-				<anaphor>
-                <t id="p01-s07-t17" type="GSL-1">the</t>
-                <t id="p01-s07-t18" type="Coxhead-AWL-2,AR-AWL-2a">categories</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p01-s07-t17" type="GSL-1">the</t>
+                    <t id="p01-s07-t18" type="Coxhead-AWL-2,AR-AWL-2a">categories</t>
+                </anaphor>
                 <punc>.</punc>
             </sentence>
             <sentence id="p01-s08">

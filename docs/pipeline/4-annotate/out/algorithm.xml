@@ -4,6 +4,9 @@
     <title>Extract from Algorithm</title>
     <citation>Simple English Wikipedia: “Algorithm”. Retrieved from https://simple.wikipedia.org/wiki/Algorithm on 20 Aug 2015.</citation>
     <url>https://simple.wikipedia.org/wiki/Algorithm</url>
+    <info type="arise">
+        <arise-info book="2" section="4" unit="3" firstpage="56"/>
+    </info>
     <body>
         <paragraph id="p01">
             <sentence par-function="topic|supporting|concluding" id="p01-s01">

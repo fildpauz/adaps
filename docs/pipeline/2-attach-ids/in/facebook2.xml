@@ -5,6 +5,9 @@
     <citation>Kross E, Verduyn P, Demiralp E, Park J, Lee DS, et al. (2013) Facebook Use Predicts Declines in Subjective Well-Being in Young Adults. PLoS ONE 8(8): e69841. doi:10.1371/journal.pone.0069841 
         Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0069841 on 07 Dec 2016.</citation>
     <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0069841</url>
+    <info type="arise">
+        <arise-info book="2" section="2" unit="6" part="2" item="H" firstpage="30"/>
+    </info>
     <body>
         <paragraph>
             <sentence>
@@ -31,8 +34,8 @@
                 <t>usage</t>
                 <t>and</t>
                 <t>well</t>
-				<punc>-</punc>
-				<t>being</t>
+                <punc>-</punc>
+                <t>being</t>
                 <punc>,</punc>
                 <t>the</t>
                 <t>sizes</t>
@@ -65,15 +68,15 @@
             <sentence>
                 <t>Subjective</t>
                 <t>well</t>
-				<punc>-</punc>
-				<t>being</t>
+                <punc>-</punc>
+                <t>being</t>
                 <t>is</t>
                 <t>a</t>
                 <t>multiply</t>
                 <t>determined</t>
-           		<t>outcome</t>
-				<punc>—</punc>
-				<t>it</t>
+                <t>outcome</t>
+                <punc>—</punc>
+                <t>it</t>
                 <t>is</t>
                 <t>unrealistic</t>
                 <t>to</t>
@@ -102,8 +105,8 @@
                 <punc>,</punc>
                 <t>subjective</t>
                 <t>well</t>
-				<punc>-</punc>
-				<t>being</t>
+                <punc>-</punc>
+                <t>being</t>
                 <t>predicts</t>
                 <t>an</t>
                 <t>array</t>

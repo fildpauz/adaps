@@ -2,137 +2,137 @@
 <!DOCTYPE document
   SYSTEM "../../../xml/adaps.dtd">
 <document>
-   <title>Kawaii</title>
-   <citation>Nittono H, Fukushima M, Yano A, Moriya H, (2012), The Power of Kawaii: Viewing Cute Images Promotes a Careful Behavior and Narrows Attentional Focus., PLoS ONE 7(9): e46362., doi:10.1371/journal.pone.0046362</citation>
-   <url>doi:10.1371/journal.pone.0046362</url>
-   <info type="arise">
-      <arise-info book="1"
-                  section="2"
-                  unit="7"
-                  part="2"
-                  item="A"
-                  firstpage="30"/>
-   </info>
-   <body>
-      <paragraph id="p01">
-         <sentence id="p01-s01">
-            <t id="p01-s01-t01">Kawaii</t>
-            <t id="p01-s01-t02">things</t>
-            <t id="p01-s01-t03">not</t>
-            <t id="p01-s01-t04">only</t>
-            <t id="p01-s01-t05">make</t>
-            <t id="p01-s01-t06">us</t>
-            <t id="p01-s01-t07">happier</t>
-            <punc>,</punc>
-            <t id="p01-s01-t08">but</t>
-            <t id="p01-s01-t09">also</t>
-            <t id="p01-s01-t10">affect</t>
-            <t id="p01-s01-t11">our</t>
-            <t id="p01-s01-t12">behavior</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p01-s02">
-            <t id="p01-s02-t01">This</t>
-            <t id="p01-s02-t02">study</t>
-            <t id="p01-s02-t03">shows</t>
-            <t id="p01-s02-t04">that</t>
-            <t id="p01-s02-t05">viewing</t>
-            <t id="p01-s02-t06">cute</t>
-            <t id="p01-s02-t07">things</t>
-            <t id="p01-s02-t08">improves</t>
-            <t id="p01-s02-t09">subsequent</t>
-            <t id="p01-s02-t10">performance</t>
-            <t id="p01-s02-t11">in</t>
-            <t id="p01-s02-t12">tasks</t>
-            <t id="p01-s02-t13">that</t>
-            <t id="p01-s02-t14">require</t>
-            <t id="p01-s02-t15">behavioral</t>
-            <t id="p01-s02-t16">carefulness</t>
-            <punc>,</punc>
-            <t id="p01-s02-t17">possibly</t>
-            <t id="p01-s02-t18">by</t>
-            <t id="p01-s02-t19">narrowing</t>
-            <t id="p01-s02-t20">the</t>
-            <t id="p01-s02-t21">breadth</t>
-            <t id="p01-s02-t22">of</t>
-            <t id="p01-s02-t23">attentional</t>
-            <t id="p01-s02-t24">focus</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p01-s03">
-            <t id="p01-s03-t01">This</t>
-            <t id="p01-s03-t02">effect</t>
-            <t id="p01-s03-t03">is</t>
-            <t id="p01-s03-t04">not</t>
-            <t id="p01-s03-t05">specific</t>
-            <t id="p01-s03-t06">to</t>
-            <t id="p01-s03-t07">tasks</t>
-            <t id="p01-s03-t08">related</t>
-            <t id="p01-s03-t09">to</t>
-            <t id="p01-s03-t10">caregiving</t>
-            <t id="p01-s03-t11">or</t>
-            <t id="p01-s03-t12">social</t>
-            <t id="p01-s03-t13">interaction</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p01-s04">
-            <t id="p01-s04-t01">For</t>
-            <t id="p01-s04-t02">future</t>
-            <t id="p01-s04-t03">applications</t>
-            <punc>,</punc>
-            <t id="p01-s04-t04">cute</t>
-            <t id="p01-s04-t05">objects</t>
-            <t id="p01-s04-t06">may</t>
-            <t id="p01-s04-t07">be</t>
-            <t id="p01-s04-t08">used</t>
-            <t id="p01-s04-t09">as</t>
-            <t id="p01-s04-t10">a</t>
-            <t id="p01-s04-t11">facile</t>
-            <t id="p01-s04-t12">emotion</t>
-            <t id="p01-s04-t13">elicitor</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p01-s05">
-            <t id="p01-s05-t01">Cute</t>
-            <t id="p01-s05-t02">features</t>
-            <t id="p01-s05-t03">not</t>
-            <t id="p01-s05-t04">only</t>
-            <t id="p01-s05-t05">make</t>
-            <t id="p01-s05-t06">objects</t>
-            <t id="p01-s05-t07">more</t>
-            <t id="p01-s05-t08">user</t>
-            <t id="p01-s05-t09">friendly</t>
-            <t id="p01-s05-t10">and</t>
-            <t id="p01-s05-t11">approachable</t>
-            <punc>[</punc>
-            <t id="p01-s05-t12">3</t>
-            <punc>]</punc>
-            <punc>,</punc>
-            <t id="p01-s05-t13">but</t>
-            <t id="p01-s05-t14">also</t>
-            <t id="p01-s05-t15">induce</t>
-            <t id="p01-s05-t16">careful</t>
-            <t id="p01-s05-t17">behavioral</t>
-            <t id="p01-s05-t18">tendencies</t>
-            <t id="p01-s05-t19">in</t>
-            <t id="p01-s05-t20">the</t>
-            <t id="p01-s05-t21">users</t>
-            <punc>,</punc>
-            <t id="p01-s05-t22">which</t>
-            <t id="p01-s05-t23">is</t>
-            <t id="p01-s05-t24">beneficial</t>
-            <t id="p01-s05-t25">in</t>
-            <t id="p01-s05-t26">specific</t>
-            <t id="p01-s05-t27">situations</t>
-            <punc>,</punc>
-            <t id="p01-s05-t28">such</t>
-            <t id="p01-s05-t29">as</t>
-            <t id="p01-s05-t30">driving</t>
-            <t id="p01-s05-t31">and</t>
-            <t id="p01-s05-t32">office</t>
-            <t id="p01-s05-t33">work</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-   </body>
+    <title>Kawaii</title>
+    <citation>Nittono H, Fukushima M, Yano A, Moriya H, (2012), The Power of Kawaii: Viewing Cute Images Promotes a Careful Behavior and Narrows Attentional Focus., PLoS ONE 7(9): e46362., doi:10.1371/journal.pone.0046362</citation>
+    <url>doi:10.1371/journal.pone.0046362</url>
+    <info type="arise">
+        <arise-info book="1"
+                    section="2"
+                    unit="7"
+                    part="2"
+                    item="A"
+                    firstpage="30"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01">Kawaii</t>
+                <t id="p01-s01-t02">things</t>
+                <t id="p01-s01-t03">not</t>
+                <t id="p01-s01-t04">only</t>
+                <t id="p01-s01-t05">make</t>
+                <t id="p01-s01-t06">us</t>
+                <t id="p01-s01-t07">happier</t>
+                <punc>,</punc>
+                <t id="p01-s01-t08">but</t>
+                <t id="p01-s01-t09">also</t>
+                <t id="p01-s01-t10">affect</t>
+                <t id="p01-s01-t11">our</t>
+                <t id="p01-s01-t12">behavior</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01">This</t>
+                <t id="p01-s02-t02">study</t>
+                <t id="p01-s02-t03">shows</t>
+                <t id="p01-s02-t04">that</t>
+                <t id="p01-s02-t05">viewing</t>
+                <t id="p01-s02-t06">cute</t>
+                <t id="p01-s02-t07">things</t>
+                <t id="p01-s02-t08">improves</t>
+                <t id="p01-s02-t09">subsequent</t>
+                <t id="p01-s02-t10">performance</t>
+                <t id="p01-s02-t11">in</t>
+                <t id="p01-s02-t12">tasks</t>
+                <t id="p01-s02-t13">that</t>
+                <t id="p01-s02-t14">require</t>
+                <t id="p01-s02-t15">behavioral</t>
+                <t id="p01-s02-t16">carefulness</t>
+                <punc>,</punc>
+                <t id="p01-s02-t17">possibly</t>
+                <t id="p01-s02-t18">by</t>
+                <t id="p01-s02-t19">narrowing</t>
+                <t id="p01-s02-t20">the</t>
+                <t id="p01-s02-t21">breadth</t>
+                <t id="p01-s02-t22">of</t>
+                <t id="p01-s02-t23">attentional</t>
+                <t id="p01-s02-t24">focus</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s03">
+                <t id="p01-s03-t01">This</t>
+                <t id="p01-s03-t02">effect</t>
+                <t id="p01-s03-t03">is</t>
+                <t id="p01-s03-t04">not</t>
+                <t id="p01-s03-t05">specific</t>
+                <t id="p01-s03-t06">to</t>
+                <t id="p01-s03-t07">tasks</t>
+                <t id="p01-s03-t08">related</t>
+                <t id="p01-s03-t09">to</t>
+                <t id="p01-s03-t10">caregiving</t>
+                <t id="p01-s03-t11">or</t>
+                <t id="p01-s03-t12">social</t>
+                <t id="p01-s03-t13">interaction</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s04">
+                <t id="p01-s04-t01">For</t>
+                <t id="p01-s04-t02">future</t>
+                <t id="p01-s04-t03">applications</t>
+                <punc>,</punc>
+                <t id="p01-s04-t04">cute</t>
+                <t id="p01-s04-t05">objects</t>
+                <t id="p01-s04-t06">may</t>
+                <t id="p01-s04-t07">be</t>
+                <t id="p01-s04-t08">used</t>
+                <t id="p01-s04-t09">as</t>
+                <t id="p01-s04-t10">a</t>
+                <t id="p01-s04-t11">facile</t>
+                <t id="p01-s04-t12">emotion</t>
+                <t id="p01-s04-t13">elicitor</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s05">
+                <t id="p01-s05-t01">Cute</t>
+                <t id="p01-s05-t02">features</t>
+                <t id="p01-s05-t03">not</t>
+                <t id="p01-s05-t04">only</t>
+                <t id="p01-s05-t05">make</t>
+                <t id="p01-s05-t06">objects</t>
+                <t id="p01-s05-t07">more</t>
+                <t id="p01-s05-t08">user</t>
+                <t id="p01-s05-t09">friendly</t>
+                <t id="p01-s05-t10">and</t>
+                <t id="p01-s05-t11">approachable</t>
+                <punc>[</punc>
+                <t id="p01-s05-t12">3</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <t id="p01-s05-t13">but</t>
+                <t id="p01-s05-t14">also</t>
+                <t id="p01-s05-t15">induce</t>
+                <t id="p01-s05-t16">careful</t>
+                <t id="p01-s05-t17">behavioral</t>
+                <t id="p01-s05-t18">tendencies</t>
+                <t id="p01-s05-t19">in</t>
+                <t id="p01-s05-t20">the</t>
+                <t id="p01-s05-t21">users</t>
+                <punc>,</punc>
+                <t id="p01-s05-t22">which</t>
+                <t id="p01-s05-t23">is</t>
+                <t id="p01-s05-t24">beneficial</t>
+                <t id="p01-s05-t25">in</t>
+                <t id="p01-s05-t26">specific</t>
+                <t id="p01-s05-t27">situations</t>
+                <punc>,</punc>
+                <t id="p01-s05-t28">such</t>
+                <t id="p01-s05-t29">as</t>
+                <t id="p01-s05-t30">driving</t>
+                <t id="p01-s05-t31">and</t>
+                <t id="p01-s05-t32">office</t>
+                <t id="p01-s05-t33">work</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
 </document>

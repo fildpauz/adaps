@@ -1,1074 +1,1077 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
 <document>
-<title>The Division of and Specialization of Labor</title>
-<citation>OpenStax College, Principles of Economics. OpenStax College.19 March 2014. Retrieved from 
-http://cnx.org/content/col11613/latest/ on 03 Oct 2016.</citation>
-<url>http://cnx.org/content/col11613/latest/</url>
-<body>
-<paragraph id="p01">
-<sentence id="p01-s01">
-<t id="p01-s01-t01" type="GSL-1">The</t>
-<t id="p01-s01-t02" type="GSL-2">formal</t>
-<t id="p01-s01-t03" type="GSL-1">study</t>
-<t id="p01-s01-t04" type="GSL-1">of</t>
-<t id="p01-s01-t05" type="Coxhead-AWL-1,AR-AWL-1a">economics</t>
-<t id="p01-s01-t06" type="GSL-1">began</t>
-<t id="p01-s01-t07" type="GSL-1">when</t>
-<t id="p01-s01-t08">Adam</t>
-<t id="p01-s01-t09">Smith</t>
-<punc>(</punc>
-<t id="p01-s01-t10">1723</t>
-<punc>–</punc>
-<t id="p01-s01-t11">1790</t>
-<punc>)</punc>
-<t id="p01-s01-t12" type="Coxhead-AWL-3,AR-AWL-3b">published</t>
-<anaphor>
-<t id="p01-s01-t13" type="GSL-1">his</t>
-</anaphor>
-<t id="p01-s01-t14" type="GSL-1">famous</t>
-<t id="p01-s01-t15" type="GSL-1">book</t>
-<emph>
-<t id="p01-s01-t16" type="GSL-1">The</t>
-<t id="p01-s01-t17" type="GSL-1">Wealth</t>
-<t id="p01-s01-t18" type="GSL-1">of</t>
-<t id="p01-s01-t19" type="GSL-1">Nations</t>
-</emph>
-<t id="p01-s01-t20" type="GSL-1">in</t>
-<t id="p01-s01-t21">1776</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p01-s02">
-<t id="p01-s02-t01" type="GSL-1">Many</t>
-<t id="p01-s02-t02" type="Coxhead-AWL-6,AR-AWL-6a">authors</t>
-<t id="p01-s02-t03" type="GSL-1">had</t>
-<t id="p01-s02-t04" type="GSL-1">written</t>
-<t id="p01-s02-t05" type="GSL-1">on</t>
-<t id="p01-s02-t06" type="Coxhead-AWL-1,AR-AWL-1a">economics</t>
-<t id="p01-s02-t07" type="GSL-1">in</t>
-<t id="p01-s02-t08" type="GSL-1">the</t>
-<t id="p01-s02-t09" type="GSL-2">centuries</t>
-<t id="p01-s02-t10" type="GSL-1">before</t>
-<t id="p01-s02-t11">Smith</t>
-<punc>,</punc>
-<connector>
-<t id="p01-s02-t12" type="GSL-1">but</t>
-</connector>
-<anaphor>
-<t id="p01-s02-t13" type="GSL-1">he</t>
-</anaphor>
-<t id="p01-s02-t14" type="GSL-1">was</t>
-<t id="p01-s02-t15" type="GSL-1">the</t>
-<t id="p01-s02-t16" type="GSL-1">first</t>
-<t id="p01-s02-t17" type="GSL-1">to</t>
-<t id="p01-s02-t18" type="GSL-1">address</t>
-<anaphor>
-<t id="p01-s02-t19" type="GSL-1">the</t>
-<t id="p01-s02-t20" type="GSL-1">subject</t>
-</anaphor>
-<t id="p01-s02-t21" type="GSL-1">in</t>
-<t id="p01-s02-t22" type="GSL-1">a</t>
-<t id="p01-s02-t23" type="Coxhead-AWL-7,AR-AWL-7a">comprehensive</t>
-<t id="p01-s02-t24" type="GSL-1">way</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p01-s03">
-<t id="p01-s03-t01" type="GSL-1">In</t>
-<t id="p01-s03-t02" type="GSL-1">the</t>
-<t id="p01-s03-t03" type="GSL-1">first</t>
-<t id="p01-s03-t04" type="Coxhead-AWL-2,AR-AWL-2a">chapter</t>
-<punc>,</punc>
-<t id="p01-s03-t05">Smith</t>
-<t id="p01-s03-t06" type="GSL-1">introduces</t>
-<t id="p01-s03-t07" type="GSL-1">the</t>
-<emph>
-<term>
-<t id="p01-s03-t08" type="GSL-1">division</t>
-<t id="p01-s03-t09" type="GSL-1">of</t>
-<t id="p01-s03-t10" type="Coxhead-AWL-1,AR-AWL-1b">labor</t>
-</term>
-</emph>
-<punc>,</punc>
-<t id="p01-s03-t11" type="GSL-1">which</t>
-<t id="p01-s03-t12" type="GSL-1">means</t>
-<t id="p01-s03-t13" type="GSL-1">that</t>
-<t id="p01-s03-t14" type="GSL-1">the</t>
-<t id="p01-s03-t15" type="GSL-1">way</t>
-<t id="p01-s03-t16" type="GSL-1">a</t>
-<t id="p01-s03-t17" type="GSL-1">good</t>
-<t id="p01-s03-t18" type="GSL-1">or</t>
-<t id="p01-s03-t19" type="GSL-1">service</t>
-<t id="p01-s03-t20" type="GSL-1">is</t>
-<t id="p01-s03-t21" type="GSL-1">produced</t>
-<t id="p01-s03-t22" type="GSL-1">is</t>
-<t id="p01-s03-t23" type="GSL-1">divided</t>
-<t id="p01-s03-t24" type="GSL-1">into</t>
-<t id="p01-s03-t25" type="GSL-1">a</t>
-<t id="p01-s03-t26" type="GSL-1">number</t>
-<t id="p01-s03-t27" type="GSL-1">of</t>
-<t id="p01-s03-t28" type="Coxhead-AWL-3,AR-AWL-3b">tasks</t>
-<t id="p01-s03-t29" type="GSL-1">that</t>
-<t id="p01-s03-t30" type="GSL-1">are</t>
-<t id="p01-s03-t31" type="GSL-2">performed</t>
-<t id="p01-s03-t32" type="GSL-1">by</t>
-<t id="p01-s03-t33" type="GSL-1">different</t>
-<t id="p01-s03-t34" type="GSL-1">workers</t>
-<punc>,</punc>
-<t id="p01-s03-t35" type="GSL-1">instead</t>
-<t id="p01-s03-t36" type="GSL-1">of</t>
-<t id="p01-s03-t37" type="GSL-1">all</t>
-<t id="p01-s03-t38" type="GSL-1">the</t>
-<t id="p01-s03-t39" type="Coxhead-AWL-3,AR-AWL-3b">tasks</t>
-<t id="p01-s03-t40" type="GSL-1">being</t>
-<t id="p01-s03-t41" type="GSL-1">done</t>
-<t id="p01-s03-t42" type="GSL-1">by</t>
-<t id="p01-s03-t43" type="GSL-1">the</t>
-<t id="p01-s03-t44" type="GSL-1">same</t>
-<t id="p01-s03-t45" type="GSL-1">person</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p02">
-<sentence id="p02-s01">
-<connector>
-<t id="p02-s01-t01" type="GSL-1">To</t>
-<t id="p02-s01-t02" type="Coxhead-AWL-3,AR-AWL-3a">illustrate</t>
-</connector>
-<t id="p02-s01-t03" type="GSL-1">the</t>
-<t id="p02-s01-t04" type="GSL-1">division</t>
-<t id="p02-s01-t05" type="GSL-1">of</t>
-<t id="p02-s01-t06" type="Coxhead-AWL-1,AR-AWL-1b">labor</t>
-<punc>,</punc>
-<t id="p02-s01-t07">Smith</t>
-<t id="p02-s01-t08" type="GSL-1">counted</t>
-<t id="p02-s01-t09" type="GSL-1">how</t>
-<t id="p02-s01-t10" type="GSL-1">many</t>
-<t id="p02-s01-t11" type="Coxhead-AWL-3,AR-AWL-3b">tasks</t>
-<t id="p02-s01-t12" type="GSL-1">went</t>
-<t id="p02-s01-t13" type="GSL-1">into</t>
-<t id="p02-s01-t14" type="GSL-1">making</t>
-<t id="p02-s01-t15" type="GSL-1">a</t>
-<t id="p02-s01-t16" type="GSL-2">pin</t>
-<punc>:</punc>
-<t id="p02-s01-t17" type="GSL-1">drawing</t>
-<t id="p02-s01-t18" type="GSL-1">out</t>
-<t id="p02-s01-t19" type="GSL-1">a</t>
-<t id="p02-s01-t20" type="GSL-1">piece</t>
-<t id="p02-s01-t21" type="GSL-1">of</t>
-<t id="p02-s01-t22" type="GSL-2">wire</t>
-<punc>,</punc>
-<t id="p02-s01-t23" type="GSL-1">cutting</t>
-<anaphor>
-<t id="p02-s01-t24" type="GSL-1">it</t>
-</anaphor>
-<t id="p02-s01-t25" type="GSL-1">to</t>
-<t id="p02-s01-t26" type="GSL-1">the</t>
-<t id="p02-s01-t27" type="GSL-1">right</t>
-<t id="p02-s01-t28" type="GSL-1">length</t>
-<punc>,</punc>
-<t id="p02-s01-t29" type="GSL-2">straightening</t>
-<anaphor>
-<t id="p02-s01-t30" type="GSL-1">it</t>
-</anaphor>
-<punc>,</punc>
-<t id="p02-s01-t31" type="GSL-1">putting</t>
-<t id="p02-s01-t32" type="GSL-1">a</t>
-<t id="p02-s01-t33" type="GSL-1">head</t>
-<t id="p02-s01-t34" type="GSL-1">on</t>
-<t id="p02-s01-t35" type="GSL-1">one</t>
-<t id="p02-s01-t36" type="GSL-1">end</t>
-<t id="p02-s01-t37" type="GSL-1">and</t>
-<t id="p02-s01-t38" type="GSL-1">a</t>
-<t id="p02-s01-t39" type="GSL-1">point</t>
-<t id="p02-s01-t40" type="GSL-1">on</t>
-<t id="p02-s01-t41" type="GSL-1">the</t>
-<t id="p02-s01-t42" type="GSL-1">other</t>
-<punc>,</punc>
-<t id="p02-s01-t43" type="GSL-1">and</t>
-<t id="p02-s01-t44">packaging</t>
-<t id="p02-s01-t45" type="GSL-2">pins</t>
-<t id="p02-s01-t46" type="GSL-1">for</t>
-<t id="p02-s01-t47" type="GSL-1">sale</t>
-<punc>,</punc>
-<t id="p02-s01-t48" type="GSL-1">to</t>
-<t id="p02-s01-t49" type="GSL-1">name</t>
-<t id="p02-s01-t50" type="GSL-1">just</t>
-<t id="p02-s01-t51" type="GSL-1">a</t>
-<t id="p02-s01-t52" type="GSL-1">few</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p02-s02">
-<t id="p02-s02-t01">Smith</t>
-<t id="p02-s02-t02" type="GSL-1">counted</t>
-<t id="p02-s02-t03">18</t>
-<t id="p02-s02-t04" type="Coxhead-AWL-2,AR-AWL-2a">distinct</t>
-<t id="p02-s02-t05" type="Coxhead-AWL-3,AR-AWL-3b">tasks</t>
-<t id="p02-s02-t06" type="GSL-1">that</t>
-<t id="p02-s02-t07" type="GSL-1">were</t>
-<t id="p02-s02-t08" type="GSL-1">often</t>
-<t id="p02-s02-t09" type="GSL-1">done</t>
-<t id="p02-s02-t10" type="GSL-1">by</t>
-<t id="p02-s02-t11" type="GSL-1">different</t>
-<t id="p02-s02-t12" type="GSL-1">people</t>
-<punc>—</punc>
-<t id="p02-s02-t13" type="GSL-1">all</t>
-<t id="p02-s02-t14" type="GSL-1">for</t>
-<t id="p02-s02-t15" type="GSL-1">a</t>
-<t id="p02-s02-t16" type="GSL-2">pin</t>
-<punc>,</punc>
-<t id="p02-s02-t17" type="GSL-1">believe</t>
-<anaphor>
-<t id="p02-s02-t18" type="GSL-1">it</t>
-</anaphor>
-<t id="p02-s02-t19" type="GSL-1">or</t>
-<t id="p02-s02-t20" type="GSL-1">not</t>
-<punc>!</punc>
-</sentence>
-</paragraph>
-<paragraph id="p03">
-<sentence id="p03-s01">
-<t id="p03-s01-t01" type="GSL-1">Modern</t>
-<t id="p03-s01-t02" type="GSL-1">businesses</t>
-<t id="p03-s01-t03" type="GSL-1">divide</t>
-<t id="p03-s01-t04" type="Coxhead-AWL-3,AR-AWL-3b">tasks</t>
-<t id="p03-s01-t05" type="GSL-1">as</t>
-<t id="p03-s01-t06" type="GSL-1">well</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p03-s02">
-<t id="p03-s02-t01" type="GSL-1">Even</t>
-<t id="p03-s02-t02" type="GSL-1">a</t>
-<t id="p03-s02-t03" type="GSL-1">relatively</t>
-<t id="p03-s02-t04" type="GSL-1">simple</t>
-<t id="p03-s02-t05" type="GSL-1">business</t>
-<t id="p03-s02-t06" type="GSL-1">like</t>
-<t id="p03-s02-t07" type="GSL-1">a</t>
-<t id="p03-s02-t08" type="GSL-2">restaurant</t>
-<t id="p03-s02-t09" type="GSL-1">divides</t>
-<t id="p03-s02-t10" type="GSL-1">up</t>
-<t id="p03-s02-t11" type="GSL-1">the</t>
-<t id="p03-s02-t12" type="Coxhead-AWL-3,AR-AWL-3b">task</t>
-<t id="p03-s02-t13" type="GSL-1">of</t>
-<t id="p03-s02-t14" type="GSL-1">serving</t>
-<t id="p03-s02-t15" type="GSL-2">meals</t>
-<t id="p03-s02-t16" type="GSL-1">into</t>
-<t id="p03-s02-t17" type="GSL-1">a</t>
-<t id="p03-s02-t18" type="Coxhead-AWL-2,AR-AWL-2b">range</t>
-<t id="p03-s02-t19" type="GSL-1">of</t>
-<t id="p03-s02-t20" type="Coxhead-AWL-4,AR-AWL-4b">jobs</t>
-<t id="p03-s02-t21" type="GSL-1">like</t>
-<t id="p03-s02-t22" type="GSL-1">top</t>
-<t id="p03-s02-t23">chef</t>
-<punc>,</punc>
-<t id="p03-s02-t24">sous</t>
-<t id="p03-s02-t25">chefs</t>
-<punc>,</punc>
-<t id="p03-s02-t26" type="GSL-1">less</t>
-<punc>-</punc>
-<t id="p03-s02-t27" type="GSL-2">skilled</t>
-<t id="p03-s02-t28" type="GSL-2">kitchen</t>
-<t id="p03-s02-t29" type="GSL-1">help</t>
-<punc>,</punc>
-<t id="p03-s02-t30">servers</t>
-<t id="p03-s02-t31" type="GSL-1">to</t>
-<t id="p03-s02-t32" type="GSL-1">wait</t>
-<t id="p03-s02-t33" type="GSL-1">on</t>
-<t id="p03-s02-t34" type="GSL-1">the</t>
-<t id="p03-s02-t35" type="GSL-1">tables</t>
-<punc>,</punc>
-<t id="p03-s02-t36" type="GSL-1">a</t>
-<t id="p03-s02-t37">greeter</t>
-<t id="p03-s02-t38" type="GSL-1">at</t>
-<t id="p03-s02-t39" type="GSL-1">the</t>
-<t id="p03-s02-t40" type="GSL-1">door</t>
-<punc>,</punc>
-<t id="p03-s02-t41">janitors</t>
-<t id="p03-s02-t42" type="GSL-1">to</t>
-<t id="p03-s02-t43" type="GSL-2">clean</t>
-<t id="p03-s02-t44" type="GSL-1">up</t>
-<punc>,</punc>
-<t id="p03-s02-t45" type="GSL-1">and</t>
-<t id="p03-s02-t46" type="GSL-1">a</t>
-<t id="p03-s02-t47" type="GSL-1">business</t>
-<t id="p03-s02-t48" type="GSL-2">manager</t>
-<t id="p03-s02-t49" type="GSL-1">to</t>
-<t id="p03-s02-t50" type="GSL-2">handle</t>
-<t id="p03-s02-t51">paychecks</t>
-<t id="p03-s02-t52" type="GSL-1">and</t>
-<t id="p03-s02-t53" type="GSL-1">bills</t>
-<punc>—</punc>
-<t id="p03-s02-t54" type="GSL-1">not</t>
-<t id="p03-s02-t55" type="GSL-1">to</t>
-<t id="p03-s02-t56" type="GSL-1">mention</t>
-<t id="p03-s02-t57" type="GSL-1">the</t>
-<t id="p03-s02-t58" type="Coxhead-AWL-1,AR-AWL-1a">economic</t>
-<t id="p03-s02-t59" type="GSL-2">connections</t>
-<t id="p03-s02-t60" type="GSL-1">a</t>
-<t id="p03-s02-t61" type="GSL-2">restaurant</t>
-<t id="p03-s02-t62" type="GSL-1">has</t>
-<t id="p03-s02-t63" type="GSL-1">with</t>
-<t id="p03-s02-t64" type="GSL-1">suppliers</t>
-<t id="p03-s02-t65" type="GSL-1">of</t>
-<t id="p03-s02-t66" type="GSL-1">food</t>
-<punc>,</punc>
-<t id="p03-s02-t67" type="GSL-1">furniture</t>
-<punc>,</punc>
-<t id="p03-s02-t68" type="GSL-2">kitchen</t>
-<t id="p03-s02-t69" type="Coxhead-AWL-7,AR-AWL-7a">equipment</t>
-<punc>,</punc>
-<t id="p03-s02-t70" type="GSL-1">and</t>
-<t id="p03-s02-t71" type="GSL-1">the</t>
-<t id="p03-s02-t72" type="GSL-1">building</t>
-<t id="p03-s02-t73" type="GSL-1">where</t>
-<anaphor>
-<t id="p03-s02-t74" type="GSL-1">it</t>
-</anaphor>
-<t id="p03-s02-t75" type="GSL-1">is</t>
-<t id="p03-s02-t76" type="Coxhead-AWL-3,AR-AWL-3b">located</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p03-s03">
-<t id="p03-s03-t01" type="GSL-1">A</t>
-<t id="p03-s03-t02" type="Coxhead-AWL-2,AR-AWL-2a">complex</t>
-<t id="p03-s03-t03" type="GSL-1">business</t>
-<t id="p03-s03-t04" type="GSL-1">like</t>
-<t id="p03-s03-t05" type="GSL-1">a</t>
-<t id="p03-s03-t06" type="GSL-1">large</t>
-<t id="p03-s03-t07" type="GSL-1">manufacturing</t>
-<t id="p03-s03-t08" type="GSL-1">factory</t>
-<punc>,</punc>
-<t id="p03-s03-t09" type="GSL-1">such</t>
-<t id="p03-s03-t10" type="GSL-1">as</t>
-<t id="p03-s03-t11" type="GSL-1">the</t>
-<t id="p03-s03-t12" type="GSL-2">shoe</t>
-<t id="p03-s03-t13" type="GSL-1">factory</t>
-<t id="p03-s03-t14" type="GSL-1">or</t>
-<t id="p03-s03-t15" type="GSL-1">a</t>
-<t id="p03-s03-t16" type="GSL-2">hospital</t>
-<t id="p03-s03-t17" type="GSL-1">can</t>
-<t id="p03-s03-t18" type="GSL-1">have</t>
-<t id="p03-s03-t19" type="GSL-1">hundreds</t>
-<t id="p03-s03-t20" type="GSL-1">of</t>
-<t id="p03-s03-t21" type="Coxhead-AWL-4,AR-AWL-4b">job</t>
-<t id="p03-s03-t22" type="GSL-1">classifications</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p04">
-<sentence id="p04-s01">
-<connector>
-<t id="p04-s01-t01" type="GSL-1">When</t>
-</connector>
-<t id="p04-s01-t02" type="GSL-1">the</t>
-<t id="p04-s01-t03" type="Coxhead-AWL-3,AR-AWL-3b">tasks</t>
-<t id="p04-s01-t04" type="Coxhead-AWL-1,AR-AWL-1b">involved</t>
-<t id="p04-s01-t05" type="GSL-1">with</t>
-<t id="p04-s01-t06" type="GSL-1">producing</t>
-<t id="p04-s01-t07" type="GSL-1">a</t>
-<t id="p04-s01-t08" type="GSL-1">good</t>
-<t id="p04-s01-t09" type="GSL-1">or</t>
-<t id="p04-s01-t10" type="GSL-1">service</t>
-<t id="p04-s01-t11" type="GSL-1">are</t>
-<t id="p04-s01-t12" type="GSL-1">divided</t>
-<t id="p04-s01-t13" type="GSL-1">and</t>
-<t id="p04-s01-t14">subdivided</t>
-<punc>,</punc>
-<t id="p04-s01-t15" type="GSL-1">workers</t>
-<t id="p04-s01-t16" type="GSL-1">and</t>
-<t id="p04-s01-t17" type="GSL-1">businesses</t>
-<t id="p04-s01-t18" type="GSL-1">can</t>
-<t id="p04-s01-t19" type="GSL-1">produce</t>
-<t id="p04-s01-t20" type="GSL-1">a</t>
-<t id="p04-s01-t21" type="GSL-1">greater</t>
-<t id="p04-s01-t22" type="GSL-1">quantity</t>
-<t id="p04-s01-t23" type="GSL-1">of</t>
-<t id="p04-s01-t24" type="Coxhead-AWL-4,AR-AWL-4b">output</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p04-s02">
-<t id="p04-s02-t01" type="GSL-1">In</t>
-<anaphor>
-<t id="p04-s02-t02" type="GSL-1">his</t>
-</anaphor>
-<t id="p04-s02-t03" type="GSL-1">observations</t>
-<t id="p04-s02-t04" type="GSL-1">of</t>
-<t id="p04-s02-t05" type="GSL-2">pin</t>
-<t id="p04-s02-t06" type="GSL-1">factories</t>
-<punc>,</punc>
-<t id="p04-s02-t07">Smith</t>
-<t id="p04-s02-t08" type="GSL-1">observed</t>
-<t id="p04-s02-t09" type="GSL-1">that</t>
-<t id="p04-s02-t10" type="GSL-1">one</t>
-<t id="p04-s02-t11" type="GSL-1">worker</t>
-<t id="p04-s02-t12" type="GSL-1">alone</t>
-<t id="p04-s02-t13" type="GSL-1">might</t>
-<t id="p04-s02-t14" type="GSL-1">make</t>
-<t id="p04-s02-t15">20</t>
-<t id="p04-s02-t16" type="GSL-2">pins</t>
-<t id="p04-s02-t17" type="GSL-1">in</t>
-<t id="p04-s02-t18" type="GSL-1">a</t>
-<t id="p04-s02-t19" type="GSL-1">day</t>
-<punc>,</punc>
-<connector>
-<t id="p04-s02-t20" type="GSL-1">but</t>
-<t id="p04-s02-t21" type="GSL-1">that</t>
-</connector>
-<t id="p04-s02-t22" type="GSL-1">a</t>
-<t id="p04-s02-t23" type="GSL-1">small</t>
-<t id="p04-s02-t24" type="GSL-1">business</t>
-<t id="p04-s02-t25" type="GSL-1">of</t>
-<t id="p04-s02-t26">10</t>
-<t id="p04-s02-t27" type="GSL-1">workers</t>
-<punc>(</punc>
-<t id="p04-s02-t28" type="GSL-1">some</t>
-<t id="p04-s02-t29" type="GSL-1">of</t>
-<t id="p04-s02-t30" type="GSL-1">whom</t>
-<t id="p04-s02-t31" type="GSL-1">would</t>
-<t id="p04-s02-t32" type="GSL-1">need</t>
-<t id="p04-s02-t33" type="GSL-1">to</t>
-<t id="p04-s02-t34" type="GSL-1">do</t>
-<t id="p04-s02-t35" type="GSL-1">two</t>
-<t id="p04-s02-t36" type="GSL-1">or</t>
-<t id="p04-s02-t37" type="GSL-1">three</t>
-<t id="p04-s02-t38" type="GSL-1">of</t>
-<t id="p04-s02-t39" type="GSL-1">the</t>
-<t id="p04-s02-t40">18</t>
-<t id="p04-s02-t41" type="Coxhead-AWL-3,AR-AWL-3b">tasks</t>
-<t id="p04-s02-t42" type="Coxhead-AWL-1,AR-AWL-1b">involved</t>
-<t id="p04-s02-t43" type="GSL-1">with</t>
-<t id="p04-s02-t44" type="GSL-2">pin</t>
-<punc>-</punc>
-<t id="p04-s02-t45" type="GSL-1">making</t>
-<punc>)</punc>
-<punc>,</punc>
-<t id="p04-s02-t46" type="GSL-1">could</t>
-<t id="p04-s02-t47" type="GSL-1">make</t>
-<t id="p04-s02-t48">48,000</t>
-<t id="p04-s02-t49" type="GSL-2">pins</t>
-<t id="p04-s02-t50" type="GSL-1">in</t>
-<t id="p04-s02-t51" type="GSL-1">a</t>
-<t id="p04-s02-t52" type="GSL-1">day</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p04-s03">
-<t id="p04-s03-t01" type="GSL-1">How</t>
-<t id="p04-s03-t02" type="GSL-1">can</t>
-<t id="p04-s03-t03" type="GSL-1">a</t>
-<t id="p04-s03-t04" type="GSL-1">group</t>
-<t id="p04-s03-t05" type="GSL-1">of</t>
-<t id="p04-s03-t06" type="GSL-1">workers</t>
-<punc>,</punc>
-<t id="p04-s03-t07" type="GSL-1">each</t>
-<t id="p04-s03-t08">specializing</t>
-<t id="p04-s03-t09" type="GSL-1">in</t>
-<t id="p04-s03-t10" type="GSL-1">certain</t>
-<t id="p04-s03-t11" type="Coxhead-AWL-3,AR-AWL-3b">tasks</t>
-<punc>,</punc>
-<t id="p04-s03-t12" type="GSL-1">produce</t>
-<t id="p04-s03-t13" type="GSL-1">so</t>
-<t id="p04-s03-t14" type="GSL-1">much</t>
-<t id="p04-s03-t15" type="GSL-1">more</t>
-<t id="p04-s03-t16" type="GSL-1">than</t>
-<t id="p04-s03-t17" type="GSL-1">the</t>
-<t id="p04-s03-t18" type="GSL-1">same</t>
-<t id="p04-s03-t19" type="GSL-1">number</t>
-<t id="p04-s03-t20" type="GSL-1">of</t>
-<t id="p04-s03-t21" type="GSL-1">workers</t>
-<t id="p04-s03-t22" type="GSL-1">who</t>
-<t id="p04-s03-t23" type="GSL-1">try</t>
-<t id="p04-s03-t24" type="GSL-1">to</t>
-<t id="p04-s03-t25" type="GSL-1">produce</t>
-<t id="p04-s03-t26" type="GSL-1">the</t>
-<t id="p04-s03-t27" type="GSL-2">entire</t>
-<t id="p04-s03-t28" type="GSL-1">good</t>
-<t id="p04-s03-t29" type="GSL-1">or</t>
-<t id="p04-s03-t30" type="GSL-1">service</t>
-<t id="p04-s03-t31" type="GSL-1">by</t>
-<t id="p04-s03-t32" type="GSL-1">themselves</t>
-<punc>?</punc>
-</sentence>
-<sentence id="p04-s04">
-<t id="p04-s04-t01">Smith</t>
-<t id="p04-s04-t02" type="GSL-1">offered</t>
-<t id="p04-s04-t03" type="GSL-1">three</t>
-<t id="p04-s04-t04" type="GSL-1">reasons</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p05">
-<sentence id="p05-s01">
-<t id="p05-s01-t01" type="GSL-1">First</t>
-<punc>,</punc>
-<emph>
-<t id="p05-s01-t02" type="GSL-1">specialization</t>
-</emph>
-<t id="p05-s01-t03" type="GSL-1">in</t>
-<t id="p05-s01-t04" type="GSL-1">a</t>
-<t id="p05-s01-t05" type="GSL-1">particular</t>
-<t id="p05-s01-t06" type="GSL-1">small</t>
-<t id="p05-s01-t07" type="Coxhead-AWL-4,AR-AWL-4b">job</t>
-<t id="p05-s01-t08" type="GSL-1">allows</t>
-<t id="p05-s01-t09" type="GSL-1">workers</t>
-<t id="p05-s01-t10" type="GSL-1">to</t>
-<t id="p05-s01-t11" type="Coxhead-AWL-2,AR-AWL-2a">focus</t>
-<t id="p05-s01-t12" type="GSL-1">on</t>
-<t id="p05-s01-t13" type="GSL-1">the</t>
-<t id="p05-s01-t14" type="GSL-1">parts</t>
-<t id="p05-s01-t15" type="GSL-1">of</t>
-<t id="p05-s01-t16" type="GSL-1">the</t>
-<t id="p05-s01-t17" type="GSL-1">production</t>
-<t id="p05-s01-t18" type="Coxhead-AWL-1,AR-AWL-1b">process</t>
-<t id="p05-s01-t19" type="GSL-1">where</t>
-<anaphor>
-<t id="p05-s01-t20" type="GSL-1">they</t>
-</anaphor>
-<t id="p05-s01-t21" type="GSL-1">have</t>
-<t id="p05-s01-t22" type="GSL-1">an</t>
-<t id="p05-s01-t23" type="GSL-1">advantage</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p05-s02">
-<t id="p05-s02-t01" type="GSL-1">People</t>
-<t id="p05-s02-t02" type="GSL-1">have</t>
-<t id="p05-s02-t03" type="GSL-1">different</t>
-<t id="p05-s02-t04" type="GSL-2">skills</t>
-<punc>,</punc>
-<t id="p05-s02-t05">talents</t>
-<punc>,</punc>
-<t id="p05-s02-t06" type="GSL-1">and</t>
-<t id="p05-s02-t07" type="GSL-1">interests</t>
-<punc>,</punc>
-<connector>
-<t id="p05-s02-t08" type="GSL-1">so</t>
-</connector>
-<anaphor>
-<t id="p05-s02-t09" type="GSL-1">they</t>
-</anaphor>
-<t id="p05-s02-t10" type="GSL-1">will</t>
-<t id="p05-s02-t11" type="GSL-1">be</t>
-<t id="p05-s02-t12" type="GSL-1">better</t>
-<t id="p05-s02-t13" type="GSL-1">at</t>
-<t id="p05-s02-t14" type="GSL-1">some</t>
-<t id="p05-s02-t15" type="Coxhead-AWL-4,AR-AWL-4b">jobs</t>
-<t id="p05-s02-t16" type="GSL-1">than</t>
-<t id="p05-s02-t17" type="GSL-1">at</t>
-<t id="p05-s02-t18" type="GSL-1">others</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p05-s03">
-<t id="p05-s03-t01" type="GSL-1">The</t>
-<t id="p05-s03-t02" type="GSL-1">particular</t>
-<t id="p05-s03-t03" type="GSL-1">advantages</t>
-<t id="p05-s03-t04" type="GSL-1">may</t>
-<t id="p05-s03-t05" type="GSL-1">be</t>
-<t id="p05-s03-t06" type="GSL-1">based</t>
-<t id="p05-s03-t07" type="GSL-1">on</t>
-<t id="p05-s03-t08" type="GSL-2">educational</t>
-<t id="p05-s03-t09" type="GSL-1">choices</t>
-<punc>,</punc>
-<t id="p05-s03-t10" type="GSL-1">which</t>
-<t id="p05-s03-t11" type="GSL-1">are</t>
-<t id="p05-s03-t12" type="GSL-1">in</t>
-<t id="p05-s03-t13" type="GSL-1">turn</t>
-<t id="p05-s03-t14" type="GSL-1">shaped</t>
-<t id="p05-s03-t15" type="GSL-1">by</t>
-<t id="p05-s03-t16" type="GSL-1">interests</t>
-<t id="p05-s03-t17" type="GSL-1">and</t>
-<t id="p05-s03-t18">talents</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p05-s04">
-<t id="p05-s04-t01" type="GSL-1">Only</t>
-<t id="p05-s04-t02" type="GSL-1">those</t>
-<t id="p05-s04-t03" type="GSL-1">with</t>
-<t id="p05-s04-t04" type="Coxhead-AWL-5,AR-AWL-5b">medical</t>
-<t id="p05-s04-t05" type="GSL-1">degrees</t>
-<t id="p05-s04-t06" type="GSL-2">qualify</t>
-<t id="p05-s04-t07" type="GSL-1">to</t>
-<t id="p05-s04-t08" type="GSL-1">become</t>
-<t id="p05-s04-t09" type="GSL-1">doctors</t>
-<punc>,</punc>
-<connector>
-<t id="p05-s04-t10" type="GSL-1">for</t>
-<t id="p05-s04-t11" type="Coxhead-AWL-3,AR-AWL-3a">instance</t>
-</connector>
-<punc>.</punc>
-</sentence>
-<sentence id="p05-s05">
-<t id="p05-s05-t01" type="GSL-1">For</t>
-<t id="p05-s05-t02" type="GSL-1">some</t>
-<t id="p05-s05-t03">goods</t>
-<punc>,</punc>
-<t id="p05-s05-t04" type="GSL-1">specialization</t>
-<t id="p05-s05-t05" type="GSL-1">will</t>
-<t id="p05-s05-t06" type="GSL-1">be</t>
-<t id="p05-s05-t07" type="Coxhead-AWL-2,AR-AWL-2a">affected</t>
-<t id="p05-s05-t08" type="GSL-1">by</t>
-<t id="p05-s05-t09">geography</t>
-<punc>—</punc>
-<t id="p05-s05-t10" type="GSL-1">it</t>
-<t id="p05-s05-t11" type="GSL-1">is</t>
-<t id="p05-s05-t12" type="GSL-1">easier</t>
-<t id="p05-s05-t13" type="GSL-1">to</t>
-<t id="p05-s05-t14" type="GSL-1">be</t>
-<t id="p05-s05-t15" type="GSL-1">a</t>
-<t id="p05-s05-t16" type="GSL-2">wheat</t>
-<t id="p05-s05-t17" type="GSL-1">farmer</t>
-<t id="p05-s05-t18" type="GSL-1">in</t>
-<t id="p05-s05-t19" type="GSL-1">North</t>
-<t id="p05-s05-t20">Dakota</t>
-<t id="p05-s05-t21" type="GSL-1">than</t>
-<t id="p05-s05-t22" type="GSL-1">in</t>
-<t id="p05-s05-t23">Florida</t>
-<punc>,</punc>
-<t id="p05-s05-t24" type="GSL-1">but</t>
-<t id="p05-s05-t25" type="GSL-1">easier</t>
-<t id="p05-s05-t26" type="GSL-1">to</t>
-<t id="p05-s05-t27" type="GSL-1">run</t>
-<t id="p05-s05-t28" type="GSL-1">a</t>
-<t id="p05-s05-t29" type="GSL-2">tourist</t>
-<t id="p05-s05-t30" type="GSL-2">hotel</t>
-<t id="p05-s05-t31" type="GSL-1">in</t>
-<t id="p05-s05-t32">Florida</t>
-<t id="p05-s05-t33" type="GSL-1">than</t>
-<t id="p05-s05-t34" type="GSL-1">in</t>
-<t id="p05-s05-t35" type="GSL-1">North</t>
-<t id="p05-s05-t36">Dakota</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p05-s06">
-<connector>
-<t id="p05-s06-t01" type="GSL-1">If</t>
-</connector>
-<t id="p05-s06-t02" type="GSL-1">you</t>
-<t id="p05-s06-t03" type="GSL-1">live</t>
-<t id="p05-s06-t04" type="GSL-1">in</t>
-<t id="p05-s06-t05" type="GSL-1">or</t>
-<t id="p05-s06-t06" type="GSL-1">near</t>
-<t id="p05-s06-t07" type="GSL-1">a</t>
-<t id="p05-s06-t08" type="GSL-1">big</t>
-<t id="p05-s06-t09" type="GSL-1">city</t>
-<punc>,</punc>
-<t id="p05-s06-t10" type="GSL-1">it</t>
-<t id="p05-s06-t11" type="GSL-1">is</t>
-<t id="p05-s06-t12" type="GSL-1">easier</t>
-<t id="p05-s06-t13" type="GSL-1">to</t>
-<t id="p05-s06-t14" type="GSL-2">attract</t>
-<t id="p05-s06-t15" type="GSL-1">enough</t>
-<t id="p05-s06-t16" type="GSL-2">customers</t>
-<t id="p05-s06-t17" type="GSL-1">to</t>
-<t id="p05-s06-t18" type="GSL-1">operate</t>
-<t id="p05-s06-t19" type="GSL-1">a</t>
-<t id="p05-s06-t20" type="GSL-1">successful</t>
-<t id="p05-s06-t21" type="GSL-1">dry</t>
-<t id="p05-s06-t22" type="GSL-2">cleaning</t>
-<t id="p05-s06-t23" type="GSL-1">business</t>
-<t id="p05-s06-t24" type="GSL-1">or</t>
-<t id="p05-s06-t25">movie</t>
-<t id="p05-s06-t26">theater</t>
-<t id="p05-s06-t27" type="GSL-1">than</t>
-<t id="p05-s06-t28" type="GSL-1">if</t>
-<t id="p05-s06-t29" type="GSL-1">you</t>
-<t id="p05-s06-t30" type="GSL-1">live</t>
-<t id="p05-s06-t31" type="GSL-1">in</t>
-<t id="p05-s06-t32" type="GSL-1">a</t>
-<t id="p05-s06-t33">sparsely</t>
-<t id="p05-s06-t34" type="GSL-1">populated</t>
-<t id="p05-s06-t35">rural</t>
-<t id="p05-s06-t36" type="Coxhead-AWL-1,AR-AWL-1a">area</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p05-s07">
-<t id="p05-s07-t01" type="GSL-1">Whatever</t>
-<t id="p05-s07-t02" type="GSL-1">the</t>
-<t id="p05-s07-t03" type="GSL-1">reason</t>
-<punc>,</punc>
-<connector>
-<t id="p05-s07-t04" type="GSL-1">if</t>
-</connector>
-<t id="p05-s07-t05" type="GSL-1">people</t>
-<t id="p05-s07-t06" type="GSL-1">specialize</t>
-<t id="p05-s07-t07" type="GSL-1">in</t>
-<t id="p05-s07-t08" type="GSL-1">the</t>
-<t id="p05-s07-t09" type="GSL-1">production</t>
-<t id="p05-s07-t10" type="GSL-1">of</t>
-<t id="p05-s07-t11" type="GSL-1">what</t>
-<anaphor>
-<t id="p05-s07-t12" type="GSL-1">they</t>
-</anaphor>
-<t id="p05-s07-t13" type="GSL-1">do</t>
-<t id="p05-s07-t14" type="GSL-1">best</t>
-<punc>,</punc>
-<anaphor>
-<t id="p05-s07-t15" type="GSL-1">they</t>
-</anaphor>
-<t id="p05-s07-t16" type="GSL-1">will</t>
-<t id="p05-s07-t17" type="GSL-1">be</t>
-<t id="p05-s07-t18" type="GSL-1">more</t>
-<t id="p05-s07-t19" type="GSL-1">productive</t>
-<t id="p05-s07-t20" type="GSL-1">than</t>
-<t id="p05-s07-t21" type="GSL-1">if</t>
-<anaphor>
-<t id="p05-s07-t22" type="GSL-1">they</t>
-</anaphor>
-<t id="p05-s07-t23" type="GSL-1">produce</t>
-<t id="p05-s07-t24" type="GSL-1">a</t>
-<t id="p05-s07-t25" type="GSL-2">combination</t>
-<t id="p05-s07-t26" type="GSL-1">of</t>
-<t id="p05-s07-t27" type="GSL-1">things</t>
-<punc>,</punc>
-<t id="p05-s07-t28" type="GSL-1">some</t>
-<t id="p05-s07-t29" type="GSL-1">of</t>
-<t id="p05-s07-t30" type="GSL-1">which</t>
-<t id="p05-s07-t31" type="GSL-1">they</t>
-<t id="p05-s07-t32" type="GSL-1">are</t>
-<t id="p05-s07-t33" type="GSL-1">good</t>
-<t id="p05-s07-t34" type="GSL-1">at</t>
-<t id="p05-s07-t35" type="GSL-1">and</t>
-<t id="p05-s07-t36" type="GSL-1">some</t>
-<t id="p05-s07-t37" type="GSL-1">of</t>
-<t id="p05-s07-t38" type="GSL-1">which</t>
-<t id="p05-s07-t39" type="GSL-1">they</t>
-<t id="p05-s07-t40" type="GSL-1">are</t>
-<t id="p05-s07-t41" type="GSL-1">not</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p06">
-<sentence id="p06-s01">
-<t id="p06-s01-t01" type="GSL-1">Second</t>
-<punc>,</punc>
-<t id="p06-s01-t02" type="GSL-1">workers</t>
-<t id="p06-s01-t03" type="GSL-1">who</t>
-<t id="p06-s01-t04" type="GSL-1">specialize</t>
-<t id="p06-s01-t05" type="GSL-1">in</t>
-<t id="p06-s01-t06" type="GSL-1">certain</t>
-<t id="p06-s01-t07" type="Coxhead-AWL-3,AR-AWL-3b">tasks</t>
-<t id="p06-s01-t08" type="GSL-1">often</t>
-<t id="p06-s01-t09" type="GSL-1">learn</t>
-<t id="p06-s01-t10" type="GSL-1">to</t>
-<t id="p06-s01-t11" type="GSL-1">produce</t>
-<t id="p06-s01-t12" type="GSL-1">more</t>
-<t id="p06-s01-t13" type="GSL-2">quickly</t>
-<t id="p06-s01-t14" type="GSL-1">and</t>
-<t id="p06-s01-t15" type="GSL-1">with</t>
-<t id="p06-s01-t16" type="GSL-1">higher</t>
-<t id="p06-s01-t17" type="GSL-1">quality</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p06-s02">
-<anaphor>
-<t id="p06-s02-t01" type="GSL-1">This</t>
-<t id="p06-s02-t02" type="GSL-2">pattern</t>
-</anaphor>
-<t id="p06-s02-t03" type="GSL-1">holds</t>
-<t id="p06-s02-t04" type="GSL-1">true</t>
-<t id="p06-s02-t05" type="GSL-1">for</t>
-<t id="p06-s02-t06" type="GSL-1">many</t>
-<t id="p06-s02-t07" type="GSL-1">workers</t>
-<punc>,</punc>
-<t id="p06-s02-t08" type="GSL-1">including</t>
-<t id="p06-s02-t09" type="Coxhead-AWL-10,AR-AWL-10">assembly</t>
-<t id="p06-s02-t10" type="GSL-1">line</t>
-<t id="p06-s02-t11">laborers</t>
-<t id="p06-s02-t12" type="GSL-1">who</t>
-<t id="p06-s02-t13" type="GSL-1">build</t>
-<t id="p06-s02-t14" type="GSL-1">cars</t>
-<punc>,</punc>
-<t id="p06-s02-t15">stylists</t>
-<t id="p06-s02-t16" type="GSL-1">who</t>
-<t id="p06-s02-t17" type="GSL-1">cut</t>
-<t id="p06-s02-t18" type="GSL-2">hair</t>
-<punc>,</punc>
-<t id="p06-s02-t19" type="GSL-1">and</t>
-<t id="p06-s02-t20" type="GSL-1">doctors</t>
-<t id="p06-s02-t21" type="GSL-1">who</t>
-<t id="p06-s02-t22" type="GSL-2">perform</t>
-<t id="p06-s02-t23" type="GSL-1">heart</t>
-<t id="p06-s02-t24">surgery</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p06-s03">
-<t id="p06-s03-t01" type="GSL-1">In</t>
-<t id="p06-s03-t02" type="GSL-1">fact</t>
-<punc>,</punc>
-<t id="p06-s03-t03" type="GSL-1">specialized</t>
-<t id="p06-s03-t04" type="GSL-1">workers</t>
-<t id="p06-s03-t05" type="GSL-1">often</t>
-<t id="p06-s03-t06" type="GSL-1">know</t>
-<anaphor>
-<t id="p06-s03-t07" type="GSL-1">their</t>
-</anaphor>
-<t id="p06-s03-t08" type="Coxhead-AWL-4,AR-AWL-4b">jobs</t>
-<t id="p06-s03-t09" type="GSL-1">well</t>
-<t id="p06-s03-t10" type="GSL-1">enough</t>
-<t id="p06-s03-t11" type="GSL-1">to</t>
-<t id="p06-s03-t12" type="GSL-1">suggest</t>
-<t id="p06-s03-t13" type="Coxhead-AWL-7,AR-AWL-7b">innovative</t>
-<t id="p06-s03-t14" type="GSL-1">ways</t>
-<t id="p06-s03-t15" type="GSL-1">to</t>
-<t id="p06-s03-t16" type="GSL-1">do</t>
-<anaphor>
-<t id="p06-s03-t17" type="GSL-1">their</t>
-</anaphor>
-<t id="p06-s03-t18" type="GSL-1">work</t>
-<t id="p06-s03-t19" type="GSL-1">faster</t>
-<t id="p06-s03-t20" type="GSL-1">and</t>
-<t id="p06-s03-t21" type="GSL-1">better</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p07">
-<sentence id="p07-s01">
-<t id="p07-s01-t01" type="GSL-1">A</t>
-<t id="p07-s01-t02" type="Coxhead-AWL-1,AR-AWL-1b">similar</t>
-<t id="p07-s01-t03" type="GSL-2">pattern</t>
-<t id="p07-s01-t04" type="GSL-1">often</t>
-<t id="p07-s01-t05" type="GSL-1">operates</t>
-<t id="p07-s01-t06" type="GSL-1">within</t>
-<t id="p07-s01-t07" type="GSL-1">businesses</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p07-s02">
-<t id="p07-s02-t01" type="GSL-1">In</t>
-<t id="p07-s02-t02" type="GSL-1">many</t>
-<t id="p07-s02-t03" type="GSL-1">cases</t>
-<punc>,</punc>
-<t id="p07-s02-t04" type="GSL-1">a</t>
-<t id="p07-s02-t05" type="GSL-1">business</t>
-<t id="p07-s02-t06" type="GSL-1">that</t>
-<t id="p07-s02-t07" type="Coxhead-AWL-2,AR-AWL-2a">focuses</t>
-<t id="p07-s02-t08" type="GSL-1">on</t>
-<t id="p07-s02-t09" type="GSL-1">one</t>
-<t id="p07-s02-t10" type="GSL-1">or</t>
-<t id="p07-s02-t11" type="GSL-1">a</t>
-<t id="p07-s02-t12" type="GSL-1">few</t>
-<t id="p07-s02-t13" type="GSL-1">products</t>
-<t id="p07-s02-t14" type="GSL-1">is</t>
-<t id="p07-s02-t15" type="GSL-1">more</t>
-<t id="p07-s02-t16" type="GSL-1">successful</t>
-<t id="p07-s02-t17" type="GSL-1">than</t>
-<t id="p07-s02-t18" type="GSL-2">firms</t>
-<t id="p07-s02-t19" type="GSL-1">that</t>
-<t id="p07-s02-t20" type="GSL-1">try</t>
-<t id="p07-s02-t21" type="GSL-1">to</t>
-<t id="p07-s02-t22" type="GSL-1">make</t>
-<t id="p07-s02-t23" type="GSL-1">a</t>
-<t id="p07-s02-t24" type="GSL-1">wide</t>
-<t id="p07-s02-t25" type="Coxhead-AWL-2,AR-AWL-2b">range</t>
-<t id="p07-s02-t26" type="GSL-1">of</t>
-<t id="p07-s02-t27" type="GSL-1">products</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p08">
-<sentence id="p08-s01">
-<t id="p08-s01-t01" type="GSL-1">Third</t>
-<punc>,</punc>
-<t id="p08-s01-t02" type="GSL-1">specialization</t>
-<t id="p08-s01-t03" type="GSL-1">allows</t>
-<t id="p08-s01-t04" type="GSL-1">businesses</t>
-<t id="p08-s01-t05" type="GSL-1">to</t>
-<t id="p08-s01-t06" type="GSL-1">take</t>
-<t id="p08-s01-t07" type="GSL-1">advantage</t>
-<t id="p08-s01-t08" type="GSL-1">of</t>
-<emph>
-<term>
-<t id="p08-s01-t09" type="Coxhead-AWL-1,AR-AWL-1a">economies</t>
-<t id="p08-s01-t10" type="GSL-1">of</t>
-<t id="p08-s01-t11" type="GSL-2">scale</t>
-</term>
-</emph>
-<punc>,</punc>
-<t id="p08-s01-t12" type="GSL-1">which</t>
-<t id="p08-s01-t13" type="GSL-1">means</t>
-<t id="p08-s01-t14" type="GSL-1">that</t>
-<t id="p08-s01-t15" type="GSL-1">for</t>
-<t id="p08-s01-t16" type="GSL-1">many</t>
-<t id="p08-s01-t17">goods</t>
-<punc>,</punc>
-<t id="p08-s01-t18" type="GSL-1">as</t>
-<t id="p08-s01-t19" type="GSL-1">the</t>
-<t id="p08-s01-t20" type="GSL-1">level</t>
-<t id="p08-s01-t21" type="GSL-1">of</t>
-<t id="p08-s01-t22" type="GSL-1">production</t>
-<t id="p08-s01-t23" type="GSL-1">increases</t>
-<punc>,</punc>
-<t id="p08-s01-t24" type="GSL-1">the</t>
-<t id="p08-s01-t25" type="GSL-1">average</t>
-<t id="p08-s01-t26" type="GSL-1">cost</t>
-<t id="p08-s01-t27" type="GSL-1">of</t>
-<t id="p08-s01-t28" type="GSL-1">producing</t>
-<t id="p08-s01-t29" type="GSL-1">each</t>
-<t id="p08-s01-t30" type="Coxhead-AWL-1,AR-AWL-1b">individual</t>
-<t id="p08-s01-t31" type="GSL-1">unit</t>
-<t id="p08-s01-t32" type="Coxhead-AWL-5,AR-AWL-5a">declines</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p08-s02">
-<connector>
-<t id="p08-s02-t01" type="GSL-1">For</t>
-<t id="p08-s02-t02" type="GSL-1">example</t>
-</connector>
-<punc>,</punc>
-<connector>
-<t id="p08-s02-t03" type="GSL-1">if</t>
-</connector>
-<t id="p08-s02-t04" type="GSL-1">a</t>
-<t id="p08-s02-t05" type="GSL-1">factory</t>
-<t id="p08-s02-t06" type="GSL-1">produces</t>
-<t id="p08-s02-t07" type="GSL-1">only</t>
-<t id="p08-s02-t08">100</t>
-<t id="p08-s02-t09" type="GSL-1">cars</t>
-<t id="p08-s02-t10" type="GSL-1">per</t>
-<t id="p08-s02-t11" type="GSL-1">year</t>
-<punc>,</punc>
-<t id="p08-s02-t12" type="GSL-1">each</t>
-<t id="p08-s02-t13" type="GSL-1">car</t>
-<t id="p08-s02-t14" type="GSL-1">will</t>
-<t id="p08-s02-t15" type="GSL-1">be</t>
-<t id="p08-s02-t16" type="GSL-1">quite</t>
-<t id="p08-s02-t17" type="GSL-1">expensive</t>
-<t id="p08-s02-t18" type="GSL-1">to</t>
-<t id="p08-s02-t19" type="GSL-1">make</t>
-<t id="p08-s02-t20" type="GSL-1">on</t>
-<t id="p08-s02-t21" type="GSL-1">average</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p08-s03">
-<connector>
-<t id="p08-s03-t01" type="GSL-1">However</t>
-</connector>
-<punc>,</punc>
-<connector>
-<t id="p08-s03-t02" type="GSL-1">if</t>
-</connector>
-<t id="p08-s03-t03" type="GSL-1">a</t>
-<t id="p08-s03-t04" type="GSL-1">factory</t>
-<t id="p08-s03-t05" type="GSL-1">produces</t>
-<t id="p08-s03-t06">50,000</t>
-<t id="p08-s03-t07" type="GSL-1">cars</t>
-<t id="p08-s03-t08" type="GSL-1">each</t>
-<t id="p08-s03-t09" type="GSL-1">year</t>
-<punc>,</punc>
-<t id="p08-s03-t10" type="GSL-1">then</t>
-<anaphor>
-<t id="p08-s03-t11" type="GSL-1">it</t>
-</anaphor>
-<t id="p08-s03-t12" type="GSL-1">can</t>
-<t id="p08-s03-t13" type="GSL-1">set</t>
-<t id="p08-s03-t14" type="GSL-1">up</t>
-<t id="p08-s03-t15" type="GSL-1">an</t>
-<t id="p08-s03-t16" type="Coxhead-AWL-10,AR-AWL-10">assembly</t>
-<t id="p08-s03-t17" type="GSL-1">line</t>
-<t id="p08-s03-t18" type="GSL-1">with</t>
-<t id="p08-s03-t19">huge</t>
-<t id="p08-s03-t20" type="GSL-1">machines</t>
-<t id="p08-s03-t21" type="GSL-1">and</t>
-<t id="p08-s03-t22" type="GSL-1">workers</t>
-<t id="p08-s03-t23" type="GSL-2">performing</t>
-<t id="p08-s03-t24" type="GSL-1">specialized</t>
-<t id="p08-s03-t25" type="Coxhead-AWL-3,AR-AWL-3b">tasks</t>
-<punc>,</punc>
-<connector>
-<t id="p08-s03-t26" type="GSL-1">and</t>
-</connector>
-<t id="p08-s03-t27" type="GSL-1">the</t>
-<t id="p08-s03-t28" type="GSL-1">average</t>
-<t id="p08-s03-t29" type="GSL-1">cost</t>
-<t id="p08-s03-t30" type="GSL-1">of</t>
-<t id="p08-s03-t31" type="GSL-1">production</t>
-<t id="p08-s03-t32" type="GSL-1">per</t>
-<t id="p08-s03-t33" type="GSL-1">car</t>
-<t id="p08-s03-t34" type="GSL-1">will</t>
-<t id="p08-s03-t35" type="GSL-1">be</t>
-<t id="p08-s03-t36" type="GSL-1">lower</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p08-s04">
-<t id="p08-s04-t01" type="GSL-1">The</t>
-<t id="p08-s04-t02" type="Coxhead-AWL-7,AR-AWL-7b">ultimate</t>
-<t id="p08-s04-t03" type="GSL-1">result</t>
-<t id="p08-s04-t04" type="GSL-1">of</t>
-<t id="p08-s04-t05" type="GSL-1">workers</t>
-<t id="p08-s04-t06" type="GSL-1">who</t>
-<t id="p08-s04-t07" type="GSL-1">can</t>
-<t id="p08-s04-t08" type="Coxhead-AWL-2,AR-AWL-2a">focus</t>
-<t id="p08-s04-t09" type="GSL-1">on</t>
-<anaphor>
-<t id="p08-s04-t10" type="GSL-1">their</t>
-</anaphor>
-<t id="p08-s04-t11" type="GSL-2">preferences</t>
-<t id="p08-s04-t12" type="GSL-1">and</t>
-<t id="p08-s04-t13">talents</t>
-<punc>,</punc>
-<t id="p08-s04-t14" type="GSL-1">learn</t>
-<t id="p08-s04-t15" type="GSL-1">to</t>
-<t id="p08-s04-t16" type="GSL-1">do</t>
-<anaphor>
-<t id="p08-s04-t17" type="GSL-1">their</t>
-</anaphor>
-<t id="p08-s04-t18" type="GSL-1">specialized</t>
-<t id="p08-s04-t19" type="Coxhead-AWL-4,AR-AWL-4b">jobs</t>
-<t id="p08-s04-t20" type="GSL-1">better</t>
-<punc>,</punc>
-<connector>
-<t id="p08-s04-t21" type="GSL-1">and</t>
-</connector>
-<t id="p08-s04-t22" type="GSL-1">work</t>
-<t id="p08-s04-t23" type="GSL-1">in</t>
-<t id="p08-s04-t24" type="GSL-1">larger</t>
-<t id="p08-s04-t25" type="GSL-1">organizations</t>
-<t id="p08-s04-t26" type="GSL-1">is</t>
-<t id="p08-s04-t27" type="GSL-1">that</t>
-<t id="p08-s04-t28" type="GSL-1">society</t>
-<t id="p08-s04-t29" type="GSL-1">as</t>
-<t id="p08-s04-t30" type="GSL-1">a</t>
-<t id="p08-s04-t31" type="GSL-1">whole</t>
-<t id="p08-s04-t32" type="GSL-1">can</t>
-<t id="p08-s04-t33" type="GSL-1">produce</t>
-<t id="p08-s04-t34" type="GSL-1">and</t>
-<t id="p08-s04-t35" type="Coxhead-AWL-2,AR-AWL-2a">consume</t>
-<t id="p08-s04-t36" type="GSL-1">far</t>
-<t id="p08-s04-t37" type="GSL-1">more</t>
-<connector>
-<t id="p08-s04-t38" type="GSL-1">than</t>
-<t id="p08-s04-t39" type="GSL-1">if</t>
-</connector>
-<t id="p08-s04-t40" type="GSL-1">each</t>
-<t id="p08-s04-t41" type="GSL-1">person</t>
-<t id="p08-s04-t42" type="GSL-1">tried</t>
-<t id="p08-s04-t43" type="GSL-1">to</t>
-<t id="p08-s04-t44" type="GSL-1">produce</t>
-<t id="p08-s04-t45" type="GSL-1">all</t>
-<t id="p08-s04-t46" type="GSL-1">of</t>
-<anaphor>
-<t id="p08-s04-t47" type="GSL-1">their</t>
-</anaphor>
-<t id="p08-s04-t48" type="GSL-1">own</t>
-<t id="p08-s04-t49">goods</t>
-<t id="p08-s04-t50" type="GSL-1">and</t>
-<t id="p08-s04-t51" type="GSL-1">services</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p08-s05">
-<t id="p08-s05-t01" type="GSL-1">The</t>
-<t id="p08-s05-t02" type="GSL-1">division</t>
-<t id="p08-s05-t03" type="GSL-1">and</t>
-<t id="p08-s05-t04" type="GSL-1">specialization</t>
-<t id="p08-s05-t05" type="GSL-1">of</t>
-<t id="p08-s05-t06" type="Coxhead-AWL-1,AR-AWL-1b">labor</t>
-<t id="p08-s05-t07" type="GSL-1">has</t>
-<t id="p08-s05-t08" type="GSL-1">been</t>
-<t id="p08-s05-t09" type="GSL-1">a</t>
-<t id="p08-s05-t10" type="GSL-1">force</t>
-<t id="p08-s05-t11" type="GSL-1">against</t>
-<t id="p08-s05-t12" type="GSL-1">the</t>
-<t id="p08-s05-t13" type="GSL-1">problem</t>
-<t id="p08-s05-t14" type="GSL-1">of</t>
-<t id="p08-s05-t15" type="GSL-1">scarcity</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-</body>
+    <title>The Division of and Specialization of Labor</title>
+    <citation>OpenStax College, Principles of Economics. OpenStax College.19 March 2014. Retrieved from 
+        http://cnx.org/content/col11613/latest/ on 03 Oct 2016.</citation>
+    <url>http://cnx.org/content/col11613/latest/</url>
+    <info type="arise">
+        <arise-info book="2" section="4" unit="2" firstpage="54"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01" type="GSL-1">The</t>
+                <t id="p01-s01-t02" type="GSL-2">formal</t>
+                <t id="p01-s01-t03" type="GSL-1">study</t>
+                <t id="p01-s01-t04" type="GSL-1">of</t>
+                <t id="p01-s01-t05" type="Coxhead-AWL-1,AR-AWL-1a">economics</t>
+                <t id="p01-s01-t06" type="GSL-1">began</t>
+                <t id="p01-s01-t07" type="GSL-1">when</t>
+                <t id="p01-s01-t08">Adam</t>
+                <t id="p01-s01-t09">Smith</t>
+                <punc>(</punc>
+                <t id="p01-s01-t10">1723</t>
+                <punc>–</punc>
+                <t id="p01-s01-t11">1790</t>
+                <punc>)</punc>
+                <t id="p01-s01-t12" type="Coxhead-AWL-3,AR-AWL-3b">published</t>
+                <anaphor>
+                    <t id="p01-s01-t13" type="GSL-1">his</t>
+                </anaphor>
+                <t id="p01-s01-t14" type="GSL-1">famous</t>
+                <t id="p01-s01-t15" type="GSL-1">book</t>
+                <emph>
+                    <t id="p01-s01-t16" type="GSL-1">The</t>
+                    <t id="p01-s01-t17" type="GSL-1">Wealth</t>
+                    <t id="p01-s01-t18" type="GSL-1">of</t>
+                    <t id="p01-s01-t19" type="GSL-1">Nations</t>
+                </emph>
+                <t id="p01-s01-t20" type="GSL-1">in</t>
+                <t id="p01-s01-t21">1776</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01" type="GSL-1">Many</t>
+                <t id="p01-s02-t02" type="Coxhead-AWL-6,AR-AWL-6a">authors</t>
+                <t id="p01-s02-t03" type="GSL-1">had</t>
+                <t id="p01-s02-t04" type="GSL-1">written</t>
+                <t id="p01-s02-t05" type="GSL-1">on</t>
+                <t id="p01-s02-t06" type="Coxhead-AWL-1,AR-AWL-1a">economics</t>
+                <t id="p01-s02-t07" type="GSL-1">in</t>
+                <t id="p01-s02-t08" type="GSL-1">the</t>
+                <t id="p01-s02-t09" type="GSL-2">centuries</t>
+                <t id="p01-s02-t10" type="GSL-1">before</t>
+                <t id="p01-s02-t11">Smith</t>
+                <punc>,</punc>
+                <connector>
+                    <t id="p01-s02-t12" type="GSL-1">but</t>
+                </connector>
+                <anaphor>
+                    <t id="p01-s02-t13" type="GSL-1">he</t>
+                </anaphor>
+                <t id="p01-s02-t14" type="GSL-1">was</t>
+                <t id="p01-s02-t15" type="GSL-1">the</t>
+                <t id="p01-s02-t16" type="GSL-1">first</t>
+                <t id="p01-s02-t17" type="GSL-1">to</t>
+                <t id="p01-s02-t18" type="GSL-1">address</t>
+                <anaphor>
+                    <t id="p01-s02-t19" type="GSL-1">the</t>
+                    <t id="p01-s02-t20" type="GSL-1">subject</t>
+                </anaphor>
+                <t id="p01-s02-t21" type="GSL-1">in</t>
+                <t id="p01-s02-t22" type="GSL-1">a</t>
+                <t id="p01-s02-t23" type="Coxhead-AWL-7,AR-AWL-7a">comprehensive</t>
+                <t id="p01-s02-t24" type="GSL-1">way</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s03">
+                <t id="p01-s03-t01" type="GSL-1">In</t>
+                <t id="p01-s03-t02" type="GSL-1">the</t>
+                <t id="p01-s03-t03" type="GSL-1">first</t>
+                <t id="p01-s03-t04" type="Coxhead-AWL-2,AR-AWL-2a">chapter</t>
+                <punc>,</punc>
+                <t id="p01-s03-t05">Smith</t>
+                <t id="p01-s03-t06" type="GSL-1">introduces</t>
+                <t id="p01-s03-t07" type="GSL-1">the</t>
+                <emph>
+                    <term>
+                        <t id="p01-s03-t08" type="GSL-1">division</t>
+                        <t id="p01-s03-t09" type="GSL-1">of</t>
+                        <t id="p01-s03-t10" type="Coxhead-AWL-1,AR-AWL-1b">labor</t>
+                    </term>
+                </emph>
+                <punc>,</punc>
+                <t id="p01-s03-t11" type="GSL-1">which</t>
+                <t id="p01-s03-t12" type="GSL-1">means</t>
+                <t id="p01-s03-t13" type="GSL-1">that</t>
+                <t id="p01-s03-t14" type="GSL-1">the</t>
+                <t id="p01-s03-t15" type="GSL-1">way</t>
+                <t id="p01-s03-t16" type="GSL-1">a</t>
+                <t id="p01-s03-t17" type="GSL-1">good</t>
+                <t id="p01-s03-t18" type="GSL-1">or</t>
+                <t id="p01-s03-t19" type="GSL-1">service</t>
+                <t id="p01-s03-t20" type="GSL-1">is</t>
+                <t id="p01-s03-t21" type="GSL-1">produced</t>
+                <t id="p01-s03-t22" type="GSL-1">is</t>
+                <t id="p01-s03-t23" type="GSL-1">divided</t>
+                <t id="p01-s03-t24" type="GSL-1">into</t>
+                <t id="p01-s03-t25" type="GSL-1">a</t>
+                <t id="p01-s03-t26" type="GSL-1">number</t>
+                <t id="p01-s03-t27" type="GSL-1">of</t>
+                <t id="p01-s03-t28" type="Coxhead-AWL-3,AR-AWL-3b">tasks</t>
+                <t id="p01-s03-t29" type="GSL-1">that</t>
+                <t id="p01-s03-t30" type="GSL-1">are</t>
+                <t id="p01-s03-t31" type="GSL-2">performed</t>
+                <t id="p01-s03-t32" type="GSL-1">by</t>
+                <t id="p01-s03-t33" type="GSL-1">different</t>
+                <t id="p01-s03-t34" type="GSL-1">workers</t>
+                <punc>,</punc>
+                <t id="p01-s03-t35" type="GSL-1">instead</t>
+                <t id="p01-s03-t36" type="GSL-1">of</t>
+                <t id="p01-s03-t37" type="GSL-1">all</t>
+                <t id="p01-s03-t38" type="GSL-1">the</t>
+                <t id="p01-s03-t39" type="Coxhead-AWL-3,AR-AWL-3b">tasks</t>
+                <t id="p01-s03-t40" type="GSL-1">being</t>
+                <t id="p01-s03-t41" type="GSL-1">done</t>
+                <t id="p01-s03-t42" type="GSL-1">by</t>
+                <t id="p01-s03-t43" type="GSL-1">the</t>
+                <t id="p01-s03-t44" type="GSL-1">same</t>
+                <t id="p01-s03-t45" type="GSL-1">person</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence id="p02-s01">
+                <connector>
+                    <t id="p02-s01-t01" type="GSL-1">To</t>
+                    <t id="p02-s01-t02" type="Coxhead-AWL-3,AR-AWL-3a">illustrate</t>
+                </connector>
+                <t id="p02-s01-t03" type="GSL-1">the</t>
+                <t id="p02-s01-t04" type="GSL-1">division</t>
+                <t id="p02-s01-t05" type="GSL-1">of</t>
+                <t id="p02-s01-t06" type="Coxhead-AWL-1,AR-AWL-1b">labor</t>
+                <punc>,</punc>
+                <t id="p02-s01-t07">Smith</t>
+                <t id="p02-s01-t08" type="GSL-1">counted</t>
+                <t id="p02-s01-t09" type="GSL-1">how</t>
+                <t id="p02-s01-t10" type="GSL-1">many</t>
+                <t id="p02-s01-t11" type="Coxhead-AWL-3,AR-AWL-3b">tasks</t>
+                <t id="p02-s01-t12" type="GSL-1">went</t>
+                <t id="p02-s01-t13" type="GSL-1">into</t>
+                <t id="p02-s01-t14" type="GSL-1">making</t>
+                <t id="p02-s01-t15" type="GSL-1">a</t>
+                <t id="p02-s01-t16" type="GSL-2">pin</t>
+                <punc>:</punc>
+                <t id="p02-s01-t17" type="GSL-1">drawing</t>
+                <t id="p02-s01-t18" type="GSL-1">out</t>
+                <t id="p02-s01-t19" type="GSL-1">a</t>
+                <t id="p02-s01-t20" type="GSL-1">piece</t>
+                <t id="p02-s01-t21" type="GSL-1">of</t>
+                <t id="p02-s01-t22" type="GSL-2">wire</t>
+                <punc>,</punc>
+                <t id="p02-s01-t23" type="GSL-1">cutting</t>
+                <anaphor>
+                    <t id="p02-s01-t24" type="GSL-1">it</t>
+                </anaphor>
+                <t id="p02-s01-t25" type="GSL-1">to</t>
+                <t id="p02-s01-t26" type="GSL-1">the</t>
+                <t id="p02-s01-t27" type="GSL-1">right</t>
+                <t id="p02-s01-t28" type="GSL-1">length</t>
+                <punc>,</punc>
+                <t id="p02-s01-t29" type="GSL-2">straightening</t>
+                <anaphor>
+                    <t id="p02-s01-t30" type="GSL-1">it</t>
+                </anaphor>
+                <punc>,</punc>
+                <t id="p02-s01-t31" type="GSL-1">putting</t>
+                <t id="p02-s01-t32" type="GSL-1">a</t>
+                <t id="p02-s01-t33" type="GSL-1">head</t>
+                <t id="p02-s01-t34" type="GSL-1">on</t>
+                <t id="p02-s01-t35" type="GSL-1">one</t>
+                <t id="p02-s01-t36" type="GSL-1">end</t>
+                <t id="p02-s01-t37" type="GSL-1">and</t>
+                <t id="p02-s01-t38" type="GSL-1">a</t>
+                <t id="p02-s01-t39" type="GSL-1">point</t>
+                <t id="p02-s01-t40" type="GSL-1">on</t>
+                <t id="p02-s01-t41" type="GSL-1">the</t>
+                <t id="p02-s01-t42" type="GSL-1">other</t>
+                <punc>,</punc>
+                <t id="p02-s01-t43" type="GSL-1">and</t>
+                <t id="p02-s01-t44">packaging</t>
+                <t id="p02-s01-t45" type="GSL-2">pins</t>
+                <t id="p02-s01-t46" type="GSL-1">for</t>
+                <t id="p02-s01-t47" type="GSL-1">sale</t>
+                <punc>,</punc>
+                <t id="p02-s01-t48" type="GSL-1">to</t>
+                <t id="p02-s01-t49" type="GSL-1">name</t>
+                <t id="p02-s01-t50" type="GSL-1">just</t>
+                <t id="p02-s01-t51" type="GSL-1">a</t>
+                <t id="p02-s01-t52" type="GSL-1">few</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s02">
+                <t id="p02-s02-t01">Smith</t>
+                <t id="p02-s02-t02" type="GSL-1">counted</t>
+                <t id="p02-s02-t03">18</t>
+                <t id="p02-s02-t04" type="Coxhead-AWL-2,AR-AWL-2a">distinct</t>
+                <t id="p02-s02-t05" type="Coxhead-AWL-3,AR-AWL-3b">tasks</t>
+                <t id="p02-s02-t06" type="GSL-1">that</t>
+                <t id="p02-s02-t07" type="GSL-1">were</t>
+                <t id="p02-s02-t08" type="GSL-1">often</t>
+                <t id="p02-s02-t09" type="GSL-1">done</t>
+                <t id="p02-s02-t10" type="GSL-1">by</t>
+                <t id="p02-s02-t11" type="GSL-1">different</t>
+                <t id="p02-s02-t12" type="GSL-1">people</t>
+                <punc>—</punc>
+                <t id="p02-s02-t13" type="GSL-1">all</t>
+                <t id="p02-s02-t14" type="GSL-1">for</t>
+                <t id="p02-s02-t15" type="GSL-1">a</t>
+                <t id="p02-s02-t16" type="GSL-2">pin</t>
+                <punc>,</punc>
+                <t id="p02-s02-t17" type="GSL-1">believe</t>
+                <anaphor>
+                    <t id="p02-s02-t18" type="GSL-1">it</t>
+                </anaphor>
+                <t id="p02-s02-t19" type="GSL-1">or</t>
+                <t id="p02-s02-t20" type="GSL-1">not</t>
+                <punc>!</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p03">
+            <sentence id="p03-s01">
+                <t id="p03-s01-t01" type="GSL-1">Modern</t>
+                <t id="p03-s01-t02" type="GSL-1">businesses</t>
+                <t id="p03-s01-t03" type="GSL-1">divide</t>
+                <t id="p03-s01-t04" type="Coxhead-AWL-3,AR-AWL-3b">tasks</t>
+                <t id="p03-s01-t05" type="GSL-1">as</t>
+                <t id="p03-s01-t06" type="GSL-1">well</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s02">
+                <t id="p03-s02-t01" type="GSL-1">Even</t>
+                <t id="p03-s02-t02" type="GSL-1">a</t>
+                <t id="p03-s02-t03" type="GSL-1">relatively</t>
+                <t id="p03-s02-t04" type="GSL-1">simple</t>
+                <t id="p03-s02-t05" type="GSL-1">business</t>
+                <t id="p03-s02-t06" type="GSL-1">like</t>
+                <t id="p03-s02-t07" type="GSL-1">a</t>
+                <t id="p03-s02-t08" type="GSL-2">restaurant</t>
+                <t id="p03-s02-t09" type="GSL-1">divides</t>
+                <t id="p03-s02-t10" type="GSL-1">up</t>
+                <t id="p03-s02-t11" type="GSL-1">the</t>
+                <t id="p03-s02-t12" type="Coxhead-AWL-3,AR-AWL-3b">task</t>
+                <t id="p03-s02-t13" type="GSL-1">of</t>
+                <t id="p03-s02-t14" type="GSL-1">serving</t>
+                <t id="p03-s02-t15" type="GSL-2">meals</t>
+                <t id="p03-s02-t16" type="GSL-1">into</t>
+                <t id="p03-s02-t17" type="GSL-1">a</t>
+                <t id="p03-s02-t18" type="Coxhead-AWL-2,AR-AWL-2b">range</t>
+                <t id="p03-s02-t19" type="GSL-1">of</t>
+                <t id="p03-s02-t20" type="Coxhead-AWL-4,AR-AWL-4b">jobs</t>
+                <t id="p03-s02-t21" type="GSL-1">like</t>
+                <t id="p03-s02-t22" type="GSL-1">top</t>
+                <t id="p03-s02-t23">chef</t>
+                <punc>,</punc>
+                <t id="p03-s02-t24">sous</t>
+                <t id="p03-s02-t25">chefs</t>
+                <punc>,</punc>
+                <t id="p03-s02-t26" type="GSL-1">less</t>
+                <punc>-</punc>
+                <t id="p03-s02-t27" type="GSL-2">skilled</t>
+                <t id="p03-s02-t28" type="GSL-2">kitchen</t>
+                <t id="p03-s02-t29" type="GSL-1">help</t>
+                <punc>,</punc>
+                <t id="p03-s02-t30">servers</t>
+                <t id="p03-s02-t31" type="GSL-1">to</t>
+                <t id="p03-s02-t32" type="GSL-1">wait</t>
+                <t id="p03-s02-t33" type="GSL-1">on</t>
+                <t id="p03-s02-t34" type="GSL-1">the</t>
+                <t id="p03-s02-t35" type="GSL-1">tables</t>
+                <punc>,</punc>
+                <t id="p03-s02-t36" type="GSL-1">a</t>
+                <t id="p03-s02-t37">greeter</t>
+                <t id="p03-s02-t38" type="GSL-1">at</t>
+                <t id="p03-s02-t39" type="GSL-1">the</t>
+                <t id="p03-s02-t40" type="GSL-1">door</t>
+                <punc>,</punc>
+                <t id="p03-s02-t41">janitors</t>
+                <t id="p03-s02-t42" type="GSL-1">to</t>
+                <t id="p03-s02-t43" type="GSL-2">clean</t>
+                <t id="p03-s02-t44" type="GSL-1">up</t>
+                <punc>,</punc>
+                <t id="p03-s02-t45" type="GSL-1">and</t>
+                <t id="p03-s02-t46" type="GSL-1">a</t>
+                <t id="p03-s02-t47" type="GSL-1">business</t>
+                <t id="p03-s02-t48" type="GSL-2">manager</t>
+                <t id="p03-s02-t49" type="GSL-1">to</t>
+                <t id="p03-s02-t50" type="GSL-2">handle</t>
+                <t id="p03-s02-t51">paychecks</t>
+                <t id="p03-s02-t52" type="GSL-1">and</t>
+                <t id="p03-s02-t53" type="GSL-1">bills</t>
+                <punc>—</punc>
+                <t id="p03-s02-t54" type="GSL-1">not</t>
+                <t id="p03-s02-t55" type="GSL-1">to</t>
+                <t id="p03-s02-t56" type="GSL-1">mention</t>
+                <t id="p03-s02-t57" type="GSL-1">the</t>
+                <t id="p03-s02-t58" type="Coxhead-AWL-1,AR-AWL-1a">economic</t>
+                <t id="p03-s02-t59" type="GSL-2">connections</t>
+                <t id="p03-s02-t60" type="GSL-1">a</t>
+                <t id="p03-s02-t61" type="GSL-2">restaurant</t>
+                <t id="p03-s02-t62" type="GSL-1">has</t>
+                <t id="p03-s02-t63" type="GSL-1">with</t>
+                <t id="p03-s02-t64" type="GSL-1">suppliers</t>
+                <t id="p03-s02-t65" type="GSL-1">of</t>
+                <t id="p03-s02-t66" type="GSL-1">food</t>
+                <punc>,</punc>
+                <t id="p03-s02-t67" type="GSL-1">furniture</t>
+                <punc>,</punc>
+                <t id="p03-s02-t68" type="GSL-2">kitchen</t>
+                <t id="p03-s02-t69" type="Coxhead-AWL-7,AR-AWL-7a">equipment</t>
+                <punc>,</punc>
+                <t id="p03-s02-t70" type="GSL-1">and</t>
+                <t id="p03-s02-t71" type="GSL-1">the</t>
+                <t id="p03-s02-t72" type="GSL-1">building</t>
+                <t id="p03-s02-t73" type="GSL-1">where</t>
+                <anaphor>
+                    <t id="p03-s02-t74" type="GSL-1">it</t>
+                </anaphor>
+                <t id="p03-s02-t75" type="GSL-1">is</t>
+                <t id="p03-s02-t76" type="Coxhead-AWL-3,AR-AWL-3b">located</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s03">
+                <t id="p03-s03-t01" type="GSL-1">A</t>
+                <t id="p03-s03-t02" type="Coxhead-AWL-2,AR-AWL-2a">complex</t>
+                <t id="p03-s03-t03" type="GSL-1">business</t>
+                <t id="p03-s03-t04" type="GSL-1">like</t>
+                <t id="p03-s03-t05" type="GSL-1">a</t>
+                <t id="p03-s03-t06" type="GSL-1">large</t>
+                <t id="p03-s03-t07" type="GSL-1">manufacturing</t>
+                <t id="p03-s03-t08" type="GSL-1">factory</t>
+                <punc>,</punc>
+                <t id="p03-s03-t09" type="GSL-1">such</t>
+                <t id="p03-s03-t10" type="GSL-1">as</t>
+                <t id="p03-s03-t11" type="GSL-1">the</t>
+                <t id="p03-s03-t12" type="GSL-2">shoe</t>
+                <t id="p03-s03-t13" type="GSL-1">factory</t>
+                <t id="p03-s03-t14" type="GSL-1">or</t>
+                <t id="p03-s03-t15" type="GSL-1">a</t>
+                <t id="p03-s03-t16" type="GSL-2">hospital</t>
+                <t id="p03-s03-t17" type="GSL-1">can</t>
+                <t id="p03-s03-t18" type="GSL-1">have</t>
+                <t id="p03-s03-t19" type="GSL-1">hundreds</t>
+                <t id="p03-s03-t20" type="GSL-1">of</t>
+                <t id="p03-s03-t21" type="Coxhead-AWL-4,AR-AWL-4b">job</t>
+                <t id="p03-s03-t22" type="GSL-1">classifications</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p04">
+            <sentence id="p04-s01">
+                <connector>
+                    <t id="p04-s01-t01" type="GSL-1">When</t>
+                </connector>
+                <t id="p04-s01-t02" type="GSL-1">the</t>
+                <t id="p04-s01-t03" type="Coxhead-AWL-3,AR-AWL-3b">tasks</t>
+                <t id="p04-s01-t04" type="Coxhead-AWL-1,AR-AWL-1b">involved</t>
+                <t id="p04-s01-t05" type="GSL-1">with</t>
+                <t id="p04-s01-t06" type="GSL-1">producing</t>
+                <t id="p04-s01-t07" type="GSL-1">a</t>
+                <t id="p04-s01-t08" type="GSL-1">good</t>
+                <t id="p04-s01-t09" type="GSL-1">or</t>
+                <t id="p04-s01-t10" type="GSL-1">service</t>
+                <t id="p04-s01-t11" type="GSL-1">are</t>
+                <t id="p04-s01-t12" type="GSL-1">divided</t>
+                <t id="p04-s01-t13" type="GSL-1">and</t>
+                <t id="p04-s01-t14">subdivided</t>
+                <punc>,</punc>
+                <t id="p04-s01-t15" type="GSL-1">workers</t>
+                <t id="p04-s01-t16" type="GSL-1">and</t>
+                <t id="p04-s01-t17" type="GSL-1">businesses</t>
+                <t id="p04-s01-t18" type="GSL-1">can</t>
+                <t id="p04-s01-t19" type="GSL-1">produce</t>
+                <t id="p04-s01-t20" type="GSL-1">a</t>
+                <t id="p04-s01-t21" type="GSL-1">greater</t>
+                <t id="p04-s01-t22" type="GSL-1">quantity</t>
+                <t id="p04-s01-t23" type="GSL-1">of</t>
+                <t id="p04-s01-t24" type="Coxhead-AWL-4,AR-AWL-4b">output</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p04-s02">
+                <t id="p04-s02-t01" type="GSL-1">In</t>
+                <anaphor>
+                    <t id="p04-s02-t02" type="GSL-1">his</t>
+                </anaphor>
+                <t id="p04-s02-t03" type="GSL-1">observations</t>
+                <t id="p04-s02-t04" type="GSL-1">of</t>
+                <t id="p04-s02-t05" type="GSL-2">pin</t>
+                <t id="p04-s02-t06" type="GSL-1">factories</t>
+                <punc>,</punc>
+                <t id="p04-s02-t07">Smith</t>
+                <t id="p04-s02-t08" type="GSL-1">observed</t>
+                <t id="p04-s02-t09" type="GSL-1">that</t>
+                <t id="p04-s02-t10" type="GSL-1">one</t>
+                <t id="p04-s02-t11" type="GSL-1">worker</t>
+                <t id="p04-s02-t12" type="GSL-1">alone</t>
+                <t id="p04-s02-t13" type="GSL-1">might</t>
+                <t id="p04-s02-t14" type="GSL-1">make</t>
+                <t id="p04-s02-t15">20</t>
+                <t id="p04-s02-t16" type="GSL-2">pins</t>
+                <t id="p04-s02-t17" type="GSL-1">in</t>
+                <t id="p04-s02-t18" type="GSL-1">a</t>
+                <t id="p04-s02-t19" type="GSL-1">day</t>
+                <punc>,</punc>
+                <connector>
+                    <t id="p04-s02-t20" type="GSL-1">but</t>
+                    <t id="p04-s02-t21" type="GSL-1">that</t>
+                </connector>
+                <t id="p04-s02-t22" type="GSL-1">a</t>
+                <t id="p04-s02-t23" type="GSL-1">small</t>
+                <t id="p04-s02-t24" type="GSL-1">business</t>
+                <t id="p04-s02-t25" type="GSL-1">of</t>
+                <t id="p04-s02-t26">10</t>
+                <t id="p04-s02-t27" type="GSL-1">workers</t>
+                <punc>(</punc>
+                <t id="p04-s02-t28" type="GSL-1">some</t>
+                <t id="p04-s02-t29" type="GSL-1">of</t>
+                <t id="p04-s02-t30" type="GSL-1">whom</t>
+                <t id="p04-s02-t31" type="GSL-1">would</t>
+                <t id="p04-s02-t32" type="GSL-1">need</t>
+                <t id="p04-s02-t33" type="GSL-1">to</t>
+                <t id="p04-s02-t34" type="GSL-1">do</t>
+                <t id="p04-s02-t35" type="GSL-1">two</t>
+                <t id="p04-s02-t36" type="GSL-1">or</t>
+                <t id="p04-s02-t37" type="GSL-1">three</t>
+                <t id="p04-s02-t38" type="GSL-1">of</t>
+                <t id="p04-s02-t39" type="GSL-1">the</t>
+                <t id="p04-s02-t40">18</t>
+                <t id="p04-s02-t41" type="Coxhead-AWL-3,AR-AWL-3b">tasks</t>
+                <t id="p04-s02-t42" type="Coxhead-AWL-1,AR-AWL-1b">involved</t>
+                <t id="p04-s02-t43" type="GSL-1">with</t>
+                <t id="p04-s02-t44" type="GSL-2">pin</t>
+                <punc>-</punc>
+                <t id="p04-s02-t45" type="GSL-1">making</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p04-s02-t46" type="GSL-1">could</t>
+                <t id="p04-s02-t47" type="GSL-1">make</t>
+                <t id="p04-s02-t48">48,000</t>
+                <t id="p04-s02-t49" type="GSL-2">pins</t>
+                <t id="p04-s02-t50" type="GSL-1">in</t>
+                <t id="p04-s02-t51" type="GSL-1">a</t>
+                <t id="p04-s02-t52" type="GSL-1">day</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p04-s03">
+                <t id="p04-s03-t01" type="GSL-1">How</t>
+                <t id="p04-s03-t02" type="GSL-1">can</t>
+                <t id="p04-s03-t03" type="GSL-1">a</t>
+                <t id="p04-s03-t04" type="GSL-1">group</t>
+                <t id="p04-s03-t05" type="GSL-1">of</t>
+                <t id="p04-s03-t06" type="GSL-1">workers</t>
+                <punc>,</punc>
+                <t id="p04-s03-t07" type="GSL-1">each</t>
+                <t id="p04-s03-t08">specializing</t>
+                <t id="p04-s03-t09" type="GSL-1">in</t>
+                <t id="p04-s03-t10" type="GSL-1">certain</t>
+                <t id="p04-s03-t11" type="Coxhead-AWL-3,AR-AWL-3b">tasks</t>
+                <punc>,</punc>
+                <t id="p04-s03-t12" type="GSL-1">produce</t>
+                <t id="p04-s03-t13" type="GSL-1">so</t>
+                <t id="p04-s03-t14" type="GSL-1">much</t>
+                <t id="p04-s03-t15" type="GSL-1">more</t>
+                <t id="p04-s03-t16" type="GSL-1">than</t>
+                <t id="p04-s03-t17" type="GSL-1">the</t>
+                <t id="p04-s03-t18" type="GSL-1">same</t>
+                <t id="p04-s03-t19" type="GSL-1">number</t>
+                <t id="p04-s03-t20" type="GSL-1">of</t>
+                <t id="p04-s03-t21" type="GSL-1">workers</t>
+                <t id="p04-s03-t22" type="GSL-1">who</t>
+                <t id="p04-s03-t23" type="GSL-1">try</t>
+                <t id="p04-s03-t24" type="GSL-1">to</t>
+                <t id="p04-s03-t25" type="GSL-1">produce</t>
+                <t id="p04-s03-t26" type="GSL-1">the</t>
+                <t id="p04-s03-t27" type="GSL-2">entire</t>
+                <t id="p04-s03-t28" type="GSL-1">good</t>
+                <t id="p04-s03-t29" type="GSL-1">or</t>
+                <t id="p04-s03-t30" type="GSL-1">service</t>
+                <t id="p04-s03-t31" type="GSL-1">by</t>
+                <t id="p04-s03-t32" type="GSL-1">themselves</t>
+                <punc>?</punc>
+            </sentence>
+            <sentence id="p04-s04">
+                <t id="p04-s04-t01">Smith</t>
+                <t id="p04-s04-t02" type="GSL-1">offered</t>
+                <t id="p04-s04-t03" type="GSL-1">three</t>
+                <t id="p04-s04-t04" type="GSL-1">reasons</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p05">
+            <sentence id="p05-s01">
+                <t id="p05-s01-t01" type="GSL-1">First</t>
+                <punc>,</punc>
+                <emph>
+                    <t id="p05-s01-t02" type="GSL-1">specialization</t>
+                </emph>
+                <t id="p05-s01-t03" type="GSL-1">in</t>
+                <t id="p05-s01-t04" type="GSL-1">a</t>
+                <t id="p05-s01-t05" type="GSL-1">particular</t>
+                <t id="p05-s01-t06" type="GSL-1">small</t>
+                <t id="p05-s01-t07" type="Coxhead-AWL-4,AR-AWL-4b">job</t>
+                <t id="p05-s01-t08" type="GSL-1">allows</t>
+                <t id="p05-s01-t09" type="GSL-1">workers</t>
+                <t id="p05-s01-t10" type="GSL-1">to</t>
+                <t id="p05-s01-t11" type="Coxhead-AWL-2,AR-AWL-2a">focus</t>
+                <t id="p05-s01-t12" type="GSL-1">on</t>
+                <t id="p05-s01-t13" type="GSL-1">the</t>
+                <t id="p05-s01-t14" type="GSL-1">parts</t>
+                <t id="p05-s01-t15" type="GSL-1">of</t>
+                <t id="p05-s01-t16" type="GSL-1">the</t>
+                <t id="p05-s01-t17" type="GSL-1">production</t>
+                <t id="p05-s01-t18" type="Coxhead-AWL-1,AR-AWL-1b">process</t>
+                <t id="p05-s01-t19" type="GSL-1">where</t>
+                <anaphor>
+                    <t id="p05-s01-t20" type="GSL-1">they</t>
+                </anaphor>
+                <t id="p05-s01-t21" type="GSL-1">have</t>
+                <t id="p05-s01-t22" type="GSL-1">an</t>
+                <t id="p05-s01-t23" type="GSL-1">advantage</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p05-s02">
+                <t id="p05-s02-t01" type="GSL-1">People</t>
+                <t id="p05-s02-t02" type="GSL-1">have</t>
+                <t id="p05-s02-t03" type="GSL-1">different</t>
+                <t id="p05-s02-t04" type="GSL-2">skills</t>
+                <punc>,</punc>
+                <t id="p05-s02-t05">talents</t>
+                <punc>,</punc>
+                <t id="p05-s02-t06" type="GSL-1">and</t>
+                <t id="p05-s02-t07" type="GSL-1">interests</t>
+                <punc>,</punc>
+                <connector>
+                    <t id="p05-s02-t08" type="GSL-1">so</t>
+                </connector>
+                <anaphor>
+                    <t id="p05-s02-t09" type="GSL-1">they</t>
+                </anaphor>
+                <t id="p05-s02-t10" type="GSL-1">will</t>
+                <t id="p05-s02-t11" type="GSL-1">be</t>
+                <t id="p05-s02-t12" type="GSL-1">better</t>
+                <t id="p05-s02-t13" type="GSL-1">at</t>
+                <t id="p05-s02-t14" type="GSL-1">some</t>
+                <t id="p05-s02-t15" type="Coxhead-AWL-4,AR-AWL-4b">jobs</t>
+                <t id="p05-s02-t16" type="GSL-1">than</t>
+                <t id="p05-s02-t17" type="GSL-1">at</t>
+                <t id="p05-s02-t18" type="GSL-1">others</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p05-s03">
+                <t id="p05-s03-t01" type="GSL-1">The</t>
+                <t id="p05-s03-t02" type="GSL-1">particular</t>
+                <t id="p05-s03-t03" type="GSL-1">advantages</t>
+                <t id="p05-s03-t04" type="GSL-1">may</t>
+                <t id="p05-s03-t05" type="GSL-1">be</t>
+                <t id="p05-s03-t06" type="GSL-1">based</t>
+                <t id="p05-s03-t07" type="GSL-1">on</t>
+                <t id="p05-s03-t08" type="GSL-2">educational</t>
+                <t id="p05-s03-t09" type="GSL-1">choices</t>
+                <punc>,</punc>
+                <t id="p05-s03-t10" type="GSL-1">which</t>
+                <t id="p05-s03-t11" type="GSL-1">are</t>
+                <t id="p05-s03-t12" type="GSL-1">in</t>
+                <t id="p05-s03-t13" type="GSL-1">turn</t>
+                <t id="p05-s03-t14" type="GSL-1">shaped</t>
+                <t id="p05-s03-t15" type="GSL-1">by</t>
+                <t id="p05-s03-t16" type="GSL-1">interests</t>
+                <t id="p05-s03-t17" type="GSL-1">and</t>
+                <t id="p05-s03-t18">talents</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p05-s04">
+                <t id="p05-s04-t01" type="GSL-1">Only</t>
+                <t id="p05-s04-t02" type="GSL-1">those</t>
+                <t id="p05-s04-t03" type="GSL-1">with</t>
+                <t id="p05-s04-t04" type="Coxhead-AWL-5,AR-AWL-5b">medical</t>
+                <t id="p05-s04-t05" type="GSL-1">degrees</t>
+                <t id="p05-s04-t06" type="GSL-2">qualify</t>
+                <t id="p05-s04-t07" type="GSL-1">to</t>
+                <t id="p05-s04-t08" type="GSL-1">become</t>
+                <t id="p05-s04-t09" type="GSL-1">doctors</t>
+                <punc>,</punc>
+                <connector>
+                    <t id="p05-s04-t10" type="GSL-1">for</t>
+                    <t id="p05-s04-t11" type="Coxhead-AWL-3,AR-AWL-3a">instance</t>
+                </connector>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p05-s05">
+                <t id="p05-s05-t01" type="GSL-1">For</t>
+                <t id="p05-s05-t02" type="GSL-1">some</t>
+                <t id="p05-s05-t03">goods</t>
+                <punc>,</punc>
+                <t id="p05-s05-t04" type="GSL-1">specialization</t>
+                <t id="p05-s05-t05" type="GSL-1">will</t>
+                <t id="p05-s05-t06" type="GSL-1">be</t>
+                <t id="p05-s05-t07" type="Coxhead-AWL-2,AR-AWL-2a">affected</t>
+                <t id="p05-s05-t08" type="GSL-1">by</t>
+                <t id="p05-s05-t09">geography</t>
+                <punc>—</punc>
+                <t id="p05-s05-t10" type="GSL-1">it</t>
+                <t id="p05-s05-t11" type="GSL-1">is</t>
+                <t id="p05-s05-t12" type="GSL-1">easier</t>
+                <t id="p05-s05-t13" type="GSL-1">to</t>
+                <t id="p05-s05-t14" type="GSL-1">be</t>
+                <t id="p05-s05-t15" type="GSL-1">a</t>
+                <t id="p05-s05-t16" type="GSL-2">wheat</t>
+                <t id="p05-s05-t17" type="GSL-1">farmer</t>
+                <t id="p05-s05-t18" type="GSL-1">in</t>
+                <t id="p05-s05-t19" type="GSL-1">North</t>
+                <t id="p05-s05-t20">Dakota</t>
+                <t id="p05-s05-t21" type="GSL-1">than</t>
+                <t id="p05-s05-t22" type="GSL-1">in</t>
+                <t id="p05-s05-t23">Florida</t>
+                <punc>,</punc>
+                <t id="p05-s05-t24" type="GSL-1">but</t>
+                <t id="p05-s05-t25" type="GSL-1">easier</t>
+                <t id="p05-s05-t26" type="GSL-1">to</t>
+                <t id="p05-s05-t27" type="GSL-1">run</t>
+                <t id="p05-s05-t28" type="GSL-1">a</t>
+                <t id="p05-s05-t29" type="GSL-2">tourist</t>
+                <t id="p05-s05-t30" type="GSL-2">hotel</t>
+                <t id="p05-s05-t31" type="GSL-1">in</t>
+                <t id="p05-s05-t32">Florida</t>
+                <t id="p05-s05-t33" type="GSL-1">than</t>
+                <t id="p05-s05-t34" type="GSL-1">in</t>
+                <t id="p05-s05-t35" type="GSL-1">North</t>
+                <t id="p05-s05-t36">Dakota</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p05-s06">
+                <connector>
+                    <t id="p05-s06-t01" type="GSL-1">If</t>
+                </connector>
+                <t id="p05-s06-t02" type="GSL-1">you</t>
+                <t id="p05-s06-t03" type="GSL-1">live</t>
+                <t id="p05-s06-t04" type="GSL-1">in</t>
+                <t id="p05-s06-t05" type="GSL-1">or</t>
+                <t id="p05-s06-t06" type="GSL-1">near</t>
+                <t id="p05-s06-t07" type="GSL-1">a</t>
+                <t id="p05-s06-t08" type="GSL-1">big</t>
+                <t id="p05-s06-t09" type="GSL-1">city</t>
+                <punc>,</punc>
+                <t id="p05-s06-t10" type="GSL-1">it</t>
+                <t id="p05-s06-t11" type="GSL-1">is</t>
+                <t id="p05-s06-t12" type="GSL-1">easier</t>
+                <t id="p05-s06-t13" type="GSL-1">to</t>
+                <t id="p05-s06-t14" type="GSL-2">attract</t>
+                <t id="p05-s06-t15" type="GSL-1">enough</t>
+                <t id="p05-s06-t16" type="GSL-2">customers</t>
+                <t id="p05-s06-t17" type="GSL-1">to</t>
+                <t id="p05-s06-t18" type="GSL-1">operate</t>
+                <t id="p05-s06-t19" type="GSL-1">a</t>
+                <t id="p05-s06-t20" type="GSL-1">successful</t>
+                <t id="p05-s06-t21" type="GSL-1">dry</t>
+                <t id="p05-s06-t22" type="GSL-2">cleaning</t>
+                <t id="p05-s06-t23" type="GSL-1">business</t>
+                <t id="p05-s06-t24" type="GSL-1">or</t>
+                <t id="p05-s06-t25">movie</t>
+                <t id="p05-s06-t26">theater</t>
+                <t id="p05-s06-t27" type="GSL-1">than</t>
+                <t id="p05-s06-t28" type="GSL-1">if</t>
+                <t id="p05-s06-t29" type="GSL-1">you</t>
+                <t id="p05-s06-t30" type="GSL-1">live</t>
+                <t id="p05-s06-t31" type="GSL-1">in</t>
+                <t id="p05-s06-t32" type="GSL-1">a</t>
+                <t id="p05-s06-t33">sparsely</t>
+                <t id="p05-s06-t34" type="GSL-1">populated</t>
+                <t id="p05-s06-t35">rural</t>
+                <t id="p05-s06-t36" type="Coxhead-AWL-1,AR-AWL-1a">area</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p05-s07">
+                <t id="p05-s07-t01" type="GSL-1">Whatever</t>
+                <t id="p05-s07-t02" type="GSL-1">the</t>
+                <t id="p05-s07-t03" type="GSL-1">reason</t>
+                <punc>,</punc>
+                <connector>
+                    <t id="p05-s07-t04" type="GSL-1">if</t>
+                </connector>
+                <t id="p05-s07-t05" type="GSL-1">people</t>
+                <t id="p05-s07-t06" type="GSL-1">specialize</t>
+                <t id="p05-s07-t07" type="GSL-1">in</t>
+                <t id="p05-s07-t08" type="GSL-1">the</t>
+                <t id="p05-s07-t09" type="GSL-1">production</t>
+                <t id="p05-s07-t10" type="GSL-1">of</t>
+                <t id="p05-s07-t11" type="GSL-1">what</t>
+                <anaphor>
+                    <t id="p05-s07-t12" type="GSL-1">they</t>
+                </anaphor>
+                <t id="p05-s07-t13" type="GSL-1">do</t>
+                <t id="p05-s07-t14" type="GSL-1">best</t>
+                <punc>,</punc>
+                <anaphor>
+                    <t id="p05-s07-t15" type="GSL-1">they</t>
+                </anaphor>
+                <t id="p05-s07-t16" type="GSL-1">will</t>
+                <t id="p05-s07-t17" type="GSL-1">be</t>
+                <t id="p05-s07-t18" type="GSL-1">more</t>
+                <t id="p05-s07-t19" type="GSL-1">productive</t>
+                <t id="p05-s07-t20" type="GSL-1">than</t>
+                <t id="p05-s07-t21" type="GSL-1">if</t>
+                <anaphor>
+                    <t id="p05-s07-t22" type="GSL-1">they</t>
+                </anaphor>
+                <t id="p05-s07-t23" type="GSL-1">produce</t>
+                <t id="p05-s07-t24" type="GSL-1">a</t>
+                <t id="p05-s07-t25" type="GSL-2">combination</t>
+                <t id="p05-s07-t26" type="GSL-1">of</t>
+                <t id="p05-s07-t27" type="GSL-1">things</t>
+                <punc>,</punc>
+                <t id="p05-s07-t28" type="GSL-1">some</t>
+                <t id="p05-s07-t29" type="GSL-1">of</t>
+                <t id="p05-s07-t30" type="GSL-1">which</t>
+                <t id="p05-s07-t31" type="GSL-1">they</t>
+                <t id="p05-s07-t32" type="GSL-1">are</t>
+                <t id="p05-s07-t33" type="GSL-1">good</t>
+                <t id="p05-s07-t34" type="GSL-1">at</t>
+                <t id="p05-s07-t35" type="GSL-1">and</t>
+                <t id="p05-s07-t36" type="GSL-1">some</t>
+                <t id="p05-s07-t37" type="GSL-1">of</t>
+                <t id="p05-s07-t38" type="GSL-1">which</t>
+                <t id="p05-s07-t39" type="GSL-1">they</t>
+                <t id="p05-s07-t40" type="GSL-1">are</t>
+                <t id="p05-s07-t41" type="GSL-1">not</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p06">
+            <sentence id="p06-s01">
+                <t id="p06-s01-t01" type="GSL-1">Second</t>
+                <punc>,</punc>
+                <t id="p06-s01-t02" type="GSL-1">workers</t>
+                <t id="p06-s01-t03" type="GSL-1">who</t>
+                <t id="p06-s01-t04" type="GSL-1">specialize</t>
+                <t id="p06-s01-t05" type="GSL-1">in</t>
+                <t id="p06-s01-t06" type="GSL-1">certain</t>
+                <t id="p06-s01-t07" type="Coxhead-AWL-3,AR-AWL-3b">tasks</t>
+                <t id="p06-s01-t08" type="GSL-1">often</t>
+                <t id="p06-s01-t09" type="GSL-1">learn</t>
+                <t id="p06-s01-t10" type="GSL-1">to</t>
+                <t id="p06-s01-t11" type="GSL-1">produce</t>
+                <t id="p06-s01-t12" type="GSL-1">more</t>
+                <t id="p06-s01-t13" type="GSL-2">quickly</t>
+                <t id="p06-s01-t14" type="GSL-1">and</t>
+                <t id="p06-s01-t15" type="GSL-1">with</t>
+                <t id="p06-s01-t16" type="GSL-1">higher</t>
+                <t id="p06-s01-t17" type="GSL-1">quality</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p06-s02">
+                <anaphor>
+                    <t id="p06-s02-t01" type="GSL-1">This</t>
+                    <t id="p06-s02-t02" type="GSL-2">pattern</t>
+                </anaphor>
+                <t id="p06-s02-t03" type="GSL-1">holds</t>
+                <t id="p06-s02-t04" type="GSL-1">true</t>
+                <t id="p06-s02-t05" type="GSL-1">for</t>
+                <t id="p06-s02-t06" type="GSL-1">many</t>
+                <t id="p06-s02-t07" type="GSL-1">workers</t>
+                <punc>,</punc>
+                <t id="p06-s02-t08" type="GSL-1">including</t>
+                <t id="p06-s02-t09" type="Coxhead-AWL-10,AR-AWL-10">assembly</t>
+                <t id="p06-s02-t10" type="GSL-1">line</t>
+                <t id="p06-s02-t11">laborers</t>
+                <t id="p06-s02-t12" type="GSL-1">who</t>
+                <t id="p06-s02-t13" type="GSL-1">build</t>
+                <t id="p06-s02-t14" type="GSL-1">cars</t>
+                <punc>,</punc>
+                <t id="p06-s02-t15">stylists</t>
+                <t id="p06-s02-t16" type="GSL-1">who</t>
+                <t id="p06-s02-t17" type="GSL-1">cut</t>
+                <t id="p06-s02-t18" type="GSL-2">hair</t>
+                <punc>,</punc>
+                <t id="p06-s02-t19" type="GSL-1">and</t>
+                <t id="p06-s02-t20" type="GSL-1">doctors</t>
+                <t id="p06-s02-t21" type="GSL-1">who</t>
+                <t id="p06-s02-t22" type="GSL-2">perform</t>
+                <t id="p06-s02-t23" type="GSL-1">heart</t>
+                <t id="p06-s02-t24">surgery</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p06-s03">
+                <t id="p06-s03-t01" type="GSL-1">In</t>
+                <t id="p06-s03-t02" type="GSL-1">fact</t>
+                <punc>,</punc>
+                <t id="p06-s03-t03" type="GSL-1">specialized</t>
+                <t id="p06-s03-t04" type="GSL-1">workers</t>
+                <t id="p06-s03-t05" type="GSL-1">often</t>
+                <t id="p06-s03-t06" type="GSL-1">know</t>
+                <anaphor>
+                    <t id="p06-s03-t07" type="GSL-1">their</t>
+                </anaphor>
+                <t id="p06-s03-t08" type="Coxhead-AWL-4,AR-AWL-4b">jobs</t>
+                <t id="p06-s03-t09" type="GSL-1">well</t>
+                <t id="p06-s03-t10" type="GSL-1">enough</t>
+                <t id="p06-s03-t11" type="GSL-1">to</t>
+                <t id="p06-s03-t12" type="GSL-1">suggest</t>
+                <t id="p06-s03-t13" type="Coxhead-AWL-7,AR-AWL-7b">innovative</t>
+                <t id="p06-s03-t14" type="GSL-1">ways</t>
+                <t id="p06-s03-t15" type="GSL-1">to</t>
+                <t id="p06-s03-t16" type="GSL-1">do</t>
+                <anaphor>
+                    <t id="p06-s03-t17" type="GSL-1">their</t>
+                </anaphor>
+                <t id="p06-s03-t18" type="GSL-1">work</t>
+                <t id="p06-s03-t19" type="GSL-1">faster</t>
+                <t id="p06-s03-t20" type="GSL-1">and</t>
+                <t id="p06-s03-t21" type="GSL-1">better</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p07">
+            <sentence id="p07-s01">
+                <t id="p07-s01-t01" type="GSL-1">A</t>
+                <t id="p07-s01-t02" type="Coxhead-AWL-1,AR-AWL-1b">similar</t>
+                <t id="p07-s01-t03" type="GSL-2">pattern</t>
+                <t id="p07-s01-t04" type="GSL-1">often</t>
+                <t id="p07-s01-t05" type="GSL-1">operates</t>
+                <t id="p07-s01-t06" type="GSL-1">within</t>
+                <t id="p07-s01-t07" type="GSL-1">businesses</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p07-s02">
+                <t id="p07-s02-t01" type="GSL-1">In</t>
+                <t id="p07-s02-t02" type="GSL-1">many</t>
+                <t id="p07-s02-t03" type="GSL-1">cases</t>
+                <punc>,</punc>
+                <t id="p07-s02-t04" type="GSL-1">a</t>
+                <t id="p07-s02-t05" type="GSL-1">business</t>
+                <t id="p07-s02-t06" type="GSL-1">that</t>
+                <t id="p07-s02-t07" type="Coxhead-AWL-2,AR-AWL-2a">focuses</t>
+                <t id="p07-s02-t08" type="GSL-1">on</t>
+                <t id="p07-s02-t09" type="GSL-1">one</t>
+                <t id="p07-s02-t10" type="GSL-1">or</t>
+                <t id="p07-s02-t11" type="GSL-1">a</t>
+                <t id="p07-s02-t12" type="GSL-1">few</t>
+                <t id="p07-s02-t13" type="GSL-1">products</t>
+                <t id="p07-s02-t14" type="GSL-1">is</t>
+                <t id="p07-s02-t15" type="GSL-1">more</t>
+                <t id="p07-s02-t16" type="GSL-1">successful</t>
+                <t id="p07-s02-t17" type="GSL-1">than</t>
+                <t id="p07-s02-t18" type="GSL-2">firms</t>
+                <t id="p07-s02-t19" type="GSL-1">that</t>
+                <t id="p07-s02-t20" type="GSL-1">try</t>
+                <t id="p07-s02-t21" type="GSL-1">to</t>
+                <t id="p07-s02-t22" type="GSL-1">make</t>
+                <t id="p07-s02-t23" type="GSL-1">a</t>
+                <t id="p07-s02-t24" type="GSL-1">wide</t>
+                <t id="p07-s02-t25" type="Coxhead-AWL-2,AR-AWL-2b">range</t>
+                <t id="p07-s02-t26" type="GSL-1">of</t>
+                <t id="p07-s02-t27" type="GSL-1">products</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p08">
+            <sentence id="p08-s01">
+                <t id="p08-s01-t01" type="GSL-1">Third</t>
+                <punc>,</punc>
+                <t id="p08-s01-t02" type="GSL-1">specialization</t>
+                <t id="p08-s01-t03" type="GSL-1">allows</t>
+                <t id="p08-s01-t04" type="GSL-1">businesses</t>
+                <t id="p08-s01-t05" type="GSL-1">to</t>
+                <t id="p08-s01-t06" type="GSL-1">take</t>
+                <t id="p08-s01-t07" type="GSL-1">advantage</t>
+                <t id="p08-s01-t08" type="GSL-1">of</t>
+                <emph>
+                    <term>
+                        <t id="p08-s01-t09" type="Coxhead-AWL-1,AR-AWL-1a">economies</t>
+                        <t id="p08-s01-t10" type="GSL-1">of</t>
+                        <t id="p08-s01-t11" type="GSL-2">scale</t>
+                    </term>
+                </emph>
+                <punc>,</punc>
+                <t id="p08-s01-t12" type="GSL-1">which</t>
+                <t id="p08-s01-t13" type="GSL-1">means</t>
+                <t id="p08-s01-t14" type="GSL-1">that</t>
+                <t id="p08-s01-t15" type="GSL-1">for</t>
+                <t id="p08-s01-t16" type="GSL-1">many</t>
+                <t id="p08-s01-t17">goods</t>
+                <punc>,</punc>
+                <t id="p08-s01-t18" type="GSL-1">as</t>
+                <t id="p08-s01-t19" type="GSL-1">the</t>
+                <t id="p08-s01-t20" type="GSL-1">level</t>
+                <t id="p08-s01-t21" type="GSL-1">of</t>
+                <t id="p08-s01-t22" type="GSL-1">production</t>
+                <t id="p08-s01-t23" type="GSL-1">increases</t>
+                <punc>,</punc>
+                <t id="p08-s01-t24" type="GSL-1">the</t>
+                <t id="p08-s01-t25" type="GSL-1">average</t>
+                <t id="p08-s01-t26" type="GSL-1">cost</t>
+                <t id="p08-s01-t27" type="GSL-1">of</t>
+                <t id="p08-s01-t28" type="GSL-1">producing</t>
+                <t id="p08-s01-t29" type="GSL-1">each</t>
+                <t id="p08-s01-t30" type="Coxhead-AWL-1,AR-AWL-1b">individual</t>
+                <t id="p08-s01-t31" type="GSL-1">unit</t>
+                <t id="p08-s01-t32" type="Coxhead-AWL-5,AR-AWL-5a">declines</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s02">
+                <connector>
+                    <t id="p08-s02-t01" type="GSL-1">For</t>
+                    <t id="p08-s02-t02" type="GSL-1">example</t>
+                </connector>
+                <punc>,</punc>
+                <connector>
+                    <t id="p08-s02-t03" type="GSL-1">if</t>
+                </connector>
+                <t id="p08-s02-t04" type="GSL-1">a</t>
+                <t id="p08-s02-t05" type="GSL-1">factory</t>
+                <t id="p08-s02-t06" type="GSL-1">produces</t>
+                <t id="p08-s02-t07" type="GSL-1">only</t>
+                <t id="p08-s02-t08">100</t>
+                <t id="p08-s02-t09" type="GSL-1">cars</t>
+                <t id="p08-s02-t10" type="GSL-1">per</t>
+                <t id="p08-s02-t11" type="GSL-1">year</t>
+                <punc>,</punc>
+                <t id="p08-s02-t12" type="GSL-1">each</t>
+                <t id="p08-s02-t13" type="GSL-1">car</t>
+                <t id="p08-s02-t14" type="GSL-1">will</t>
+                <t id="p08-s02-t15" type="GSL-1">be</t>
+                <t id="p08-s02-t16" type="GSL-1">quite</t>
+                <t id="p08-s02-t17" type="GSL-1">expensive</t>
+                <t id="p08-s02-t18" type="GSL-1">to</t>
+                <t id="p08-s02-t19" type="GSL-1">make</t>
+                <t id="p08-s02-t20" type="GSL-1">on</t>
+                <t id="p08-s02-t21" type="GSL-1">average</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s03">
+                <connector>
+                    <t id="p08-s03-t01" type="GSL-1">However</t>
+                </connector>
+                <punc>,</punc>
+                <connector>
+                    <t id="p08-s03-t02" type="GSL-1">if</t>
+                </connector>
+                <t id="p08-s03-t03" type="GSL-1">a</t>
+                <t id="p08-s03-t04" type="GSL-1">factory</t>
+                <t id="p08-s03-t05" type="GSL-1">produces</t>
+                <t id="p08-s03-t06">50,000</t>
+                <t id="p08-s03-t07" type="GSL-1">cars</t>
+                <t id="p08-s03-t08" type="GSL-1">each</t>
+                <t id="p08-s03-t09" type="GSL-1">year</t>
+                <punc>,</punc>
+                <t id="p08-s03-t10" type="GSL-1">then</t>
+                <anaphor>
+                    <t id="p08-s03-t11" type="GSL-1">it</t>
+                </anaphor>
+                <t id="p08-s03-t12" type="GSL-1">can</t>
+                <t id="p08-s03-t13" type="GSL-1">set</t>
+                <t id="p08-s03-t14" type="GSL-1">up</t>
+                <t id="p08-s03-t15" type="GSL-1">an</t>
+                <t id="p08-s03-t16" type="Coxhead-AWL-10,AR-AWL-10">assembly</t>
+                <t id="p08-s03-t17" type="GSL-1">line</t>
+                <t id="p08-s03-t18" type="GSL-1">with</t>
+                <t id="p08-s03-t19">huge</t>
+                <t id="p08-s03-t20" type="GSL-1">machines</t>
+                <t id="p08-s03-t21" type="GSL-1">and</t>
+                <t id="p08-s03-t22" type="GSL-1">workers</t>
+                <t id="p08-s03-t23" type="GSL-2">performing</t>
+                <t id="p08-s03-t24" type="GSL-1">specialized</t>
+                <t id="p08-s03-t25" type="Coxhead-AWL-3,AR-AWL-3b">tasks</t>
+                <punc>,</punc>
+                <connector>
+                    <t id="p08-s03-t26" type="GSL-1">and</t>
+                </connector>
+                <t id="p08-s03-t27" type="GSL-1">the</t>
+                <t id="p08-s03-t28" type="GSL-1">average</t>
+                <t id="p08-s03-t29" type="GSL-1">cost</t>
+                <t id="p08-s03-t30" type="GSL-1">of</t>
+                <t id="p08-s03-t31" type="GSL-1">production</t>
+                <t id="p08-s03-t32" type="GSL-1">per</t>
+                <t id="p08-s03-t33" type="GSL-1">car</t>
+                <t id="p08-s03-t34" type="GSL-1">will</t>
+                <t id="p08-s03-t35" type="GSL-1">be</t>
+                <t id="p08-s03-t36" type="GSL-1">lower</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s04">
+                <t id="p08-s04-t01" type="GSL-1">The</t>
+                <t id="p08-s04-t02" type="Coxhead-AWL-7,AR-AWL-7b">ultimate</t>
+                <t id="p08-s04-t03" type="GSL-1">result</t>
+                <t id="p08-s04-t04" type="GSL-1">of</t>
+                <t id="p08-s04-t05" type="GSL-1">workers</t>
+                <t id="p08-s04-t06" type="GSL-1">who</t>
+                <t id="p08-s04-t07" type="GSL-1">can</t>
+                <t id="p08-s04-t08" type="Coxhead-AWL-2,AR-AWL-2a">focus</t>
+                <t id="p08-s04-t09" type="GSL-1">on</t>
+                <anaphor>
+                    <t id="p08-s04-t10" type="GSL-1">their</t>
+                </anaphor>
+                <t id="p08-s04-t11" type="GSL-2">preferences</t>
+                <t id="p08-s04-t12" type="GSL-1">and</t>
+                <t id="p08-s04-t13">talents</t>
+                <punc>,</punc>
+                <t id="p08-s04-t14" type="GSL-1">learn</t>
+                <t id="p08-s04-t15" type="GSL-1">to</t>
+                <t id="p08-s04-t16" type="GSL-1">do</t>
+                <anaphor>
+                    <t id="p08-s04-t17" type="GSL-1">their</t>
+                </anaphor>
+                <t id="p08-s04-t18" type="GSL-1">specialized</t>
+                <t id="p08-s04-t19" type="Coxhead-AWL-4,AR-AWL-4b">jobs</t>
+                <t id="p08-s04-t20" type="GSL-1">better</t>
+                <punc>,</punc>
+                <connector>
+                    <t id="p08-s04-t21" type="GSL-1">and</t>
+                </connector>
+                <t id="p08-s04-t22" type="GSL-1">work</t>
+                <t id="p08-s04-t23" type="GSL-1">in</t>
+                <t id="p08-s04-t24" type="GSL-1">larger</t>
+                <t id="p08-s04-t25" type="GSL-1">organizations</t>
+                <t id="p08-s04-t26" type="GSL-1">is</t>
+                <t id="p08-s04-t27" type="GSL-1">that</t>
+                <t id="p08-s04-t28" type="GSL-1">society</t>
+                <t id="p08-s04-t29" type="GSL-1">as</t>
+                <t id="p08-s04-t30" type="GSL-1">a</t>
+                <t id="p08-s04-t31" type="GSL-1">whole</t>
+                <t id="p08-s04-t32" type="GSL-1">can</t>
+                <t id="p08-s04-t33" type="GSL-1">produce</t>
+                <t id="p08-s04-t34" type="GSL-1">and</t>
+                <t id="p08-s04-t35" type="Coxhead-AWL-2,AR-AWL-2a">consume</t>
+                <t id="p08-s04-t36" type="GSL-1">far</t>
+                <t id="p08-s04-t37" type="GSL-1">more</t>
+                <connector>
+                    <t id="p08-s04-t38" type="GSL-1">than</t>
+                    <t id="p08-s04-t39" type="GSL-1">if</t>
+                </connector>
+                <t id="p08-s04-t40" type="GSL-1">each</t>
+                <t id="p08-s04-t41" type="GSL-1">person</t>
+                <t id="p08-s04-t42" type="GSL-1">tried</t>
+                <t id="p08-s04-t43" type="GSL-1">to</t>
+                <t id="p08-s04-t44" type="GSL-1">produce</t>
+                <t id="p08-s04-t45" type="GSL-1">all</t>
+                <t id="p08-s04-t46" type="GSL-1">of</t>
+                <anaphor>
+                    <t id="p08-s04-t47" type="GSL-1">their</t>
+                </anaphor>
+                <t id="p08-s04-t48" type="GSL-1">own</t>
+                <t id="p08-s04-t49">goods</t>
+                <t id="p08-s04-t50" type="GSL-1">and</t>
+                <t id="p08-s04-t51" type="GSL-1">services</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s05">
+                <t id="p08-s05-t01" type="GSL-1">The</t>
+                <t id="p08-s05-t02" type="GSL-1">division</t>
+                <t id="p08-s05-t03" type="GSL-1">and</t>
+                <t id="p08-s05-t04" type="GSL-1">specialization</t>
+                <t id="p08-s05-t05" type="GSL-1">of</t>
+                <t id="p08-s05-t06" type="Coxhead-AWL-1,AR-AWL-1b">labor</t>
+                <t id="p08-s05-t07" type="GSL-1">has</t>
+                <t id="p08-s05-t08" type="GSL-1">been</t>
+                <t id="p08-s05-t09" type="GSL-1">a</t>
+                <t id="p08-s05-t10" type="GSL-1">force</t>
+                <t id="p08-s05-t11" type="GSL-1">against</t>
+                <t id="p08-s05-t12" type="GSL-1">the</t>
+                <t id="p08-s05-t13" type="GSL-1">problem</t>
+                <t id="p08-s05-t14" type="GSL-1">of</t>
+                <t id="p08-s05-t15" type="GSL-1">scarcity</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
 </document>

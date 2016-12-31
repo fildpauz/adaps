@@ -5,6 +5,9 @@
     <citation>Wikipedia: “Economy of the Han dynasty”. 
         Retrieved from http://en.wikipedia.org/wiki/Economy_of_the_Han_dynasty on 22 Aug 2014.</citation>
     <url>http://en.wikipedia.org/wiki/Economy_of_the_Han_dynasty</url>
+    <info type="arise">
+        <arise-info book="2" section="2" unit="6" part="2" item="F" firstpage="29"/>
+    </info>
     <body>
         <paragraph id="p01">
             <sentence id="p01-s01">
@@ -60,11 +63,11 @@
                 <punc>.</punc>
             </sentence>
             <sentence id="p02-s02">
-			<anaphor>
-                <t id="p02-s02-t01" type="GSL-1">These</t>
-                <t id="p02-s02-t02">itinerant</t>
-                <t id="p02-s02-t03" type="GSL-2">merchants</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p02-s02-t01" type="GSL-1">These</t>
+                    <t id="p02-s02-t02">itinerant</t>
+                    <t id="p02-s02-t03" type="GSL-2">merchants</t>
+                </anaphor>
                 <t id="p02-s02-t04" type="GSL-1">often</t>
                 <t id="p02-s02-t05" type="Coxhead-AWL-2,AR-AWL-2b">participated</t>
                 <t id="p02-s02-t06" type="GSL-1">in</t>
@@ -81,9 +84,9 @@
             </sentence>
             <sentence id="p02-s03">
                 <t id="p02-s03-t01">Nishijima</t>
-				<connector>
-                <t id="p02-s03-t02" type="GSL-1">writes</t>
-				</connector>
+                <connector>
+                    <t id="p02-s03-t02" type="GSL-1">writes</t>
+                </connector>
                 <t id="p02-s03-t03" type="GSL-1">that</t>
                 <t id="p02-s03-t04" type="GSL-1">most</t>
                 <t id="p02-s03-t05" type="GSL-1">of</t>
@@ -115,10 +118,10 @@
         </paragraph>
         <paragraph id="p03">
             <sentence id="p03-s01">
-			<connector>
-                <t id="p03-s01-t01" type="GSL-1">In</t>
-                <t id="p03-s01-t02" type="Coxhead-AWL-4,AR-AWL-4a">contrast</t>
-				</connector>
+                <connector>
+                    <t id="p03-s01-t01" type="GSL-1">In</t>
+                    <t id="p03-s01-t02" type="Coxhead-AWL-4,AR-AWL-4a">contrast</t>
+                </connector>
                 <punc>,</punc>
                 <t id="p03-s01-t03" type="Coxhead-AWL-3,AR-AWL-3b">registered</t>
                 <t id="p03-s01-t04">marketplace</t>
@@ -164,10 +167,10 @@
                 <punc>.</punc>
             </sentence>
             <sentence id="p03-s03">
-			<anaphor>
-                <t id="p03-s03-t01" type="GSL-1">These</t>
-                <t id="p03-s03-t02" type="GSL-1">laws</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p03-s03-t01" type="GSL-1">These</t>
+                    <t id="p03-s03-t02" type="GSL-1">laws</t>
+                </anaphor>
                 <t id="p03-s03-t03" type="GSL-1">were</t>
                 <t id="p03-s03-t04" type="GSL-1">difficult</t>
                 <t id="p03-s03-t05" type="GSL-1">to</t>
@@ -200,20 +203,20 @@
                 <t id="p03-s05-t08" type="GSL-1">own</t>
                 <t id="p03-s05-t09" type="GSL-1">land</t>
                 <punc>,</punc>
-				<connector>
-                <t id="p03-s05-t10" type="GSL-1">if</t>
-				</connector>
-				<anaphor>
-                <t id="p03-s05-t11" type="GSL-1">they</t>
-				</anaphor>
+                <connector>
+                    <t id="p03-s05-t10" type="GSL-1">if</t>
+                </connector>
+                <anaphor>
+                    <t id="p03-s05-t11" type="GSL-1">they</t>
+                </anaphor>
                 <t id="p03-s05-t12" type="GSL-1">broke</t>
-				<anaphor>
-                <t id="p03-s05-t13" type="GSL-1">this</t>
-                <t id="p03-s05-t14" type="GSL-1">law</t>
-				</anaphor>
-				<anaphor>
-                <t id="p03-s05-t15" type="GSL-1">their</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p03-s05-t13" type="GSL-1">this</t>
+                    <t id="p03-s05-t14" type="GSL-1">law</t>
+                </anaphor>
+                <anaphor>
+                    <t id="p03-s05-t15" type="GSL-1">their</t>
+                </anaphor>
                 <t id="p03-s05-t16" type="GSL-1">land</t>
                 <t id="p03-s05-t17" type="GSL-1">and</t>
                 <t id="p03-s05-t18" type="GSL-2">slaves</t>
@@ -223,9 +226,9 @@
                 <punc>.</punc>
             </sentence>
             <sentence id="p03-s06">
-			<connector>
-                <t id="p03-s06-t01" type="GSL-1">However</t>
-				</connector>
+                <connector>
+                    <t id="p03-s06-t01" type="GSL-1">However</t>
+                </connector>
                 <punc>,</punc>
                 <t id="p03-s06-t02" type="GSL-1">wealthy</t>
                 <t id="p03-s06-t03">unregistered</t>
@@ -255,19 +258,19 @@
                 <t id="p03-s07-t12" type="GSL-1">openly</t>
                 <t id="p03-s07-t13" type="GSL-2">competing</t>
                 <t id="p03-s07-t14" type="GSL-1">with</t>
-				<anaphor>
-                <t id="p03-s07-t15" type="GSL-1">them</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p03-s07-t15" type="GSL-1">them</t>
+                </anaphor>
                 <t id="p03-s07-t16" type="GSL-1">in</t>
                 <t id="p03-s07-t17" type="GSL-1">the</t>
                 <t id="p03-s07-t18">marketplace</t>
                 <punc>,</punc>
-				<connector>
-                <t id="p03-s07-t19" type="GSL-1">where</t>
-				</connector>
-				<anaphor>
-                <t id="p03-s07-t20" type="GSL-1">he</t>
-				</anaphor>
+                <connector>
+                    <t id="p03-s07-t19" type="GSL-1">where</t>
+                </connector>
+                <anaphor>
+                    <t id="p03-s07-t20" type="GSL-1">he</t>
+                </anaphor>
                 <t id="p03-s07-t21" type="GSL-1">set</t>
                 <t id="p03-s07-t22" type="GSL-1">up</t>
                 <t id="p03-s07-t23" type="GSL-2">government</t>
@@ -279,10 +282,10 @@
                 <t id="p03-s07-t28" type="Coxhead-AWL-8,AR-AWL-8a">commodities</t>
                 <t id="p03-s07-t29" type="GSL-2">collected</t>
                 <t id="p03-s07-t30" type="GSL-1">from</t>
-				<anaphor>
-                <t id="p03-s07-t31" type="GSL-1">the</t>
-                <t id="p03-s07-t32" type="GSL-2">merchants</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p03-s07-t31" type="GSL-1">the</t>
+                    <t id="p03-s07-t32" type="GSL-2">merchants</t>
+                </anaphor>
                 <t id="p03-s07-t33" type="GSL-1">as</t>
                 <t id="p03-s07-t34" type="GSL-1">property</t>
                 <t id="p03-s07-t35" type="GSL-1">taxes</t>

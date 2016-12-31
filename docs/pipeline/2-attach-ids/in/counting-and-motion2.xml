@@ -4,6 +4,9 @@
     <title>Materials and Methods</title>
     <citation>Lugli L, Baroni G, Anelli F, Borghi AM, Nicoletti R (2013) Counting Is Easier while Experiencing a Congruent Motion. PLoS ONE 8(5): e64500. doi:10.1371/journal.pone.0064500</citation>
     <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064500</url>
+    <info type="arise">
+        <arise-info book="1" section="4" unit="3" firstpage="54"/>
+    </info>
     <body>
         <paragraph>
             <sentence>
@@ -13,8 +16,8 @@
         <paragraph>
             <sentence>
                 <t>Fifty</t>
-				<punc>-</punc>
-				<t>six</t>
+                <punc>-</punc>
+                <t>six</t>
                 <t>students</t>
                 <t>of</t>
                 <t>the</t>
@@ -246,16 +249,16 @@
                 <t>while</t>
                 <punc>(</punc>
                 <t>on</t>
-				<punc>-</punc>
-				<t>line</t>
+                <punc>-</punc>
+                <t>line</t>
                 <t>condition</t>
                 <punc>)</punc>
                 <t>or</t>
                 <t>after</t>
                 <punc>(</punc>
                 <t>off</t>
-				<punc>-</punc>
-				<t>line</t>
+                <punc>-</punc>
+                <t>line</t>
                 <t>condition</t>
                 <punc>)</punc>
                 <t>taking</t>
@@ -299,8 +302,8 @@
                 <t>stairs</t>
                 <punc>(</punc>
                 <t>on</t>
-				<punc>-</punc>
-				<t>line</t>
+                <punc>-</punc>
+                <t>line</t>
                 <t>condition</t>
                 <punc>)</punc>
                 <punc>,</punc>
@@ -324,8 +327,8 @@
                 <t>taken</t>
                 <punc>(</punc>
                 <t>off</t>
-				<punc>-</punc>
-				<t>line</t>
+                <punc>-</punc>
+                <t>line</t>
                 <t>condition</t>
                 <punc>)</punc>
                 <punc>.</punc>
@@ -482,8 +485,8 @@
                 <punc>(</punc>
                 <t>for</t>
                 <t>on</t>
-				<punc>-</punc>
-				<t>line</t>
+                <punc>-</punc>
+                <t>line</t>
                 <t>condition</t>
                 <punc>)</punc>
                 <t>or</t>
@@ -493,8 +496,8 @@
                 <punc>(</punc>
                 <t>for</t>
                 <t>off</t>
-				<punc>-</punc>
-				<t>line</t>
+                <punc>-</punc>
+                <t>line</t>
                 <t>condition</t>
                 <punc>)</punc>
                 <t>of</t>
@@ -672,8 +675,8 @@
                 <t>while</t>
                 <t>going</t>
                 <t>up</t>
-				<punc>/</punc>
-				<t>down</t>
+                <punc>/</punc>
+                <t>down</t>
                 <t>the</t>
                 <t>stairs</t>
                 <t>and</t>
@@ -702,8 +705,8 @@
                 <t>experimenter</t>
                 <t>went</t>
                 <t>up</t>
-				<punc>/</punc>
-				<t>down</t>
+                <punc>/</punc>
+                <t>down</t>
                 <t>the</t>
                 <t>stairs</t>
                 <t>together</t>

@@ -5,6 +5,9 @@
     <citation>Schwartz HA, Eichstaedt JC, Kern ML, Dziurzynski L, Ramones SM, et al. (2013) Personality, Gender, and Age in the Language of Social Media: The Open-Vocabulary Approach. PLoS ONE 8(9): e73791. doi:10.1371/journal.pone. 0073791
         Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0073791 on 07 Dec 2016.</citation>
     <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0073791</url>
+    <info type="arise">
+        <arise-info book="2" section="2" unit="7" part="1" item="B" firstpage="32"/>
+    </info>
     <body>
         <paragraph>
             <sentence>
@@ -76,17 +79,17 @@
                 <t>could</t>
                 <t>be</t>
                 <t>sample</t>
-				<punc>-</punc>
-				<t>related</t>
-				<punc>–</punc>
+                <punc>-</punc>
+                <t>related</t>
+                <punc>–</punc>
                 <t>differing</t>
                 <t>demographics</t>
                 <t>or</t>
                 <t>having</t>
                 <t>a</t>
                 <t>non</t>
-				<punc>-</punc>
-				<t>representative</t>
+                <punc>-</punc>
+                <t>representative</t>
                 <t>sample</t>
                 <punc>(</punc>
                 <t>Huffaker</t>

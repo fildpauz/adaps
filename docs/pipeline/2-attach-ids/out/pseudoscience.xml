@@ -2,2134 +2,2137 @@
 <!DOCTYPE document
   SYSTEM "../../../xml/adaps.dtd">
 <document>
-   <title>Pseudoscience (Extract)</title>
-   <citation>Wikipedia: “Pseudoscience”. Retrieved from http://en.wikipedia.org/wiki/Pseudoscience on 18 Feb 2013.</citation>
-   <url>http://en.wikipedia.org/wiki/Pseudoscience</url>
-   <body>
-      <paragraph id="p01">
-         <sentence id="p01-s01">
-            <t id="p01-s01-t01">Pseudoscience</t>
-            <t id="p01-s01-t02">is</t>
-            <t id="p01-s01-t03">a</t>
-            <t id="p01-s01-t04">claim</t>
-            <punc>,</punc>
-            <t id="p01-s01-t05">belief</t>
-            <t id="p01-s01-t06">or</t>
-            <t id="p01-s01-t07">practice</t>
-            <t id="p01-s01-t08">which</t>
-            <t id="p01-s01-t09">is</t>
-            <t id="p01-s01-t10">presented</t>
-            <t id="p01-s01-t11">as</t>
-            <t id="p01-s01-t12">scientific</t>
-            <punc>,</punc>
-            <t id="p01-s01-t13">but</t>
-            <t id="p01-s01-t14">does</t>
-            <t id="p01-s01-t15">not</t>
-            <t id="p01-s01-t16">adhere</t>
-            <t id="p01-s01-t17">to</t>
-            <t id="p01-s01-t18">a</t>
-            <t id="p01-s01-t19">valid</t>
-            <t id="p01-s01-t20">scientific</t>
-            <t id="p01-s01-t21">method</t>
-            <punc>,</punc>
-            <t id="p01-s01-t22">lacks</t>
-            <t id="p01-s01-t23">supporting</t>
-            <t id="p01-s01-t24">evidence</t>
-            <t id="p01-s01-t25">or</t>
-            <t id="p01-s01-t26">plausibility</t>
-            <punc>,</punc>
-            <t id="p01-s01-t27">cannot</t>
-            <t id="p01-s01-t28">be</t>
-            <t id="p01-s01-t29">reliably</t>
-            <t id="p01-s01-t30">tested</t>
-            <punc>,</punc>
-            <t id="p01-s01-t31">or</t>
-            <t id="p01-s01-t32">otherwise</t>
-            <t id="p01-s01-t33">lacks</t>
-            <t id="p01-s01-t34">scientific</t>
-            <t id="p01-s01-t35">status</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p01-s02">
-            <t id="p01-s02-t01">Pseudoscience</t>
-            <t id="p01-s02-t02">is</t>
-            <t id="p01-s02-t03">often</t>
-            <t id="p01-s02-t04">characterized</t>
-            <t id="p01-s02-t05">by</t>
-            <t id="p01-s02-t06">the</t>
-            <t id="p01-s02-t07">use</t>
-            <t id="p01-s02-t08">of</t>
-            <t id="p01-s02-t09">vague</t>
-            <punc>,</punc>
-            <t id="p01-s02-t10">contradictory</t>
-            <punc>,</punc>
-            <t id="p01-s02-t11">exaggerated</t>
-            <t id="p01-s02-t12">or</t>
-            <t id="p01-s02-t13">unprovable</t>
-            <t id="p01-s02-t14">claims</t>
-            <punc>,</punc>
-            <t id="p01-s02-t15">an</t>
-            <t id="p01-s02-t16">over</t>
-            <punc>-</punc>
-            <t id="p01-s02-t17">reliance</t>
-            <t id="p01-s02-t18">on</t>
-            <t id="p01-s02-t19">confirmation</t>
-            <t id="p01-s02-t20">rather</t>
-            <t id="p01-s02-t21">than</t>
-            <t id="p01-s02-t22">rigorous</t>
-            <t id="p01-s02-t23">attempts</t>
-            <t id="p01-s02-t24">at</t>
-            <t id="p01-s02-t25">refutation</t>
-            <punc>,</punc>
-            <t id="p01-s02-t26">a</t>
-            <t id="p01-s02-t27">lack</t>
-            <t id="p01-s02-t28">of</t>
-            <t id="p01-s02-t29">openness</t>
-            <t id="p01-s02-t30">to</t>
-            <t id="p01-s02-t31">evaluation</t>
-            <t id="p01-s02-t32">by</t>
-            <t id="p01-s02-t33">other</t>
-            <t id="p01-s02-t34">experts</t>
-            <punc>,</punc>
-            <t id="p01-s02-t35">and</t>
-            <t id="p01-s02-t36">a</t>
-            <t id="p01-s02-t37">general</t>
-            <t id="p01-s02-t38">absence</t>
-            <t id="p01-s02-t39">of</t>
-            <t id="p01-s02-t40">systematic</t>
-            <t id="p01-s02-t41">processes</t>
-            <t id="p01-s02-t42">to</t>
-            <t id="p01-s02-t43">rationally</t>
-            <t id="p01-s02-t44">develop</t>
-            <t id="p01-s02-t45">theories</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p02">
-         <sentence id="p02-s01">
-            <t id="p02-s01-t01">A</t>
-            <t id="p02-s01-t02">field</t>
-            <punc>,</punc>
-            <t id="p02-s01-t03">practice</t>
-            <punc>,</punc>
-            <t id="p02-s01-t04">or</t>
-            <t id="p02-s01-t05">body</t>
-            <t id="p02-s01-t06">of</t>
-            <t id="p02-s01-t07">knowledge</t>
-            <t id="p02-s01-t08">can</t>
-            <t id="p02-s01-t09">reasonably</t>
-            <t id="p02-s01-t10">be</t>
-            <t id="p02-s01-t11">called</t>
-            <t id="p02-s01-t12">pseudoscientific</t>
-            <t id="p02-s01-t13">when</t>
-            <t id="p02-s01-t14">it</t>
-            <t id="p02-s01-t15">is</t>
-            <t id="p02-s01-t16">presented</t>
-            <t id="p02-s01-t17">as</t>
-            <t id="p02-s01-t18">consistent</t>
-            <t id="p02-s01-t19">with</t>
-            <t id="p02-s01-t20">the</t>
-            <t id="p02-s01-t21">norms</t>
-            <t id="p02-s01-t22">of</t>
-            <t id="p02-s01-t23">scientific</t>
-            <t id="p02-s01-t24">research</t>
-            <punc>,</punc>
-            <t id="p02-s01-t25">but</t>
-            <t id="p02-s01-t26">it</t>
-            <t id="p02-s01-t27">demonstrably</t>
-            <t id="p02-s01-t28">fails</t>
-            <t id="p02-s01-t29">to</t>
-            <t id="p02-s01-t30">meet</t>
-            <t id="p02-s01-t31">these</t>
-            <t id="p02-s01-t32">norms</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p02-s02">
-            <t id="p02-s02-t01">Science</t>
-            <t id="p02-s02-t02">is</t>
-            <t id="p02-s02-t03">also</t>
-            <t id="p02-s02-t04">distinguishable</t>
-            <t id="p02-s02-t05">from</t>
-            <t id="p02-s02-t06">revelation</t>
-            <punc>,</punc>
-            <t id="p02-s02-t07">theology</t>
-            <punc>,</punc>
-            <t id="p02-s02-t08">or</t>
-            <t id="p02-s02-t09">spirituality</t>
-            <t id="p02-s02-t10">in</t>
-            <t id="p02-s02-t11">that</t>
-            <t id="p02-s02-t12">it</t>
-            <t id="p02-s02-t13">offers</t>
-            <t id="p02-s02-t14">insight</t>
-            <t id="p02-s02-t15">into</t>
-            <t id="p02-s02-t16">the</t>
-            <t id="p02-s02-t17">physical</t>
-            <t id="p02-s02-t18">world</t>
-            <t id="p02-s02-t19">obtained</t>
-            <t id="p02-s02-t20">by</t>
-            <t id="p02-s02-t21">empirical</t>
-            <t id="p02-s02-t22">research</t>
-            <t id="p02-s02-t23">and</t>
-            <t id="p02-s02-t24">testing</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p02-s03">
-            <t id="p02-s03-t01">Commonly</t>
-            <t id="p02-s03-t02">held</t>
-            <t id="p02-s03-t03">beliefs</t>
-            <t id="p02-s03-t04">in</t>
-            <t id="p02-s03-t05">popular</t>
-            <t id="p02-s03-t06">science</t>
-            <t id="p02-s03-t07">may</t>
-            <t id="p02-s03-t08">not</t>
-            <t id="p02-s03-t09">meet</t>
-            <t id="p02-s03-t10">the</t>
-            <t id="p02-s03-t11">criteria</t>
-            <t id="p02-s03-t12">of</t>
-            <t id="p02-s03-t13">science</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p02-s04">
-            <punc>“</punc>
-            <t id="p02-s04-t01">Pop</t>
-            <t id="p02-s04-t02">science</t>
-            <punc>”</punc>
-            <t id="p02-s04-t03">may</t>
-            <t id="p02-s04-t04">blur</t>
-            <t id="p02-s04-t05">the</t>
-            <t id="p02-s04-t06">divide</t>
-            <t id="p02-s04-t07">between</t>
-            <t id="p02-s04-t08">science</t>
-            <t id="p02-s04-t09">and</t>
-            <t id="p02-s04-t10">pseudoscience</t>
-            <t id="p02-s04-t11">among</t>
-            <t id="p02-s04-t12">the</t>
-            <t id="p02-s04-t13">general</t>
-            <t id="p02-s04-t14">public</t>
-            <punc>,</punc>
-            <t id="p02-s04-t15">and</t>
-            <t id="p02-s04-t16">may</t>
-            <t id="p02-s04-t17">also</t>
-            <t id="p02-s04-t18">involve</t>
-            <t id="p02-s04-t19">science</t>
-            <t id="p02-s04-t20">fiction</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p02-s05">
-            <t id="p02-s05-t01">Pseudoscientific</t>
-            <t id="p02-s05-t02">beliefs</t>
-            <t id="p02-s05-t03">are</t>
-            <t id="p02-s05-t04">widespread</t>
-            <punc>,</punc>
-            <t id="p02-s05-t05">even</t>
-            <t id="p02-s05-t06">among</t>
-            <t id="p02-s05-t07">public</t>
-            <t id="p02-s05-t08">school</t>
-            <t id="p02-s05-t09">science</t>
-            <t id="p02-s05-t10">teachers</t>
-            <t id="p02-s05-t11">and</t>
-            <t id="p02-s05-t12">newspaper</t>
-            <t id="p02-s05-t13">reporters</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p03">
-         <sentence id="p03-s01">
-            <t id="p03-s01-t01">The</t>
-            <t id="p03-s01-t02">demarcation</t>
-            <t id="p03-s01-t03">problem</t>
-            <t id="p03-s01-t04">between</t>
-            <t id="p03-s01-t05">science</t>
-            <t id="p03-s01-t06">and</t>
-            <t id="p03-s01-t07">pseudoscience</t>
-            <t id="p03-s01-t08">has</t>
-            <t id="p03-s01-t09">ethical</t>
-            <t id="p03-s01-t10">political</t>
-            <t id="p03-s01-t11">implications</t>
-            <punc>,</punc>
-            <t id="p03-s01-t12">as</t>
-            <t id="p03-s01-t13">well</t>
-            <t id="p03-s01-t14">as</t>
-            <t id="p03-s01-t15">philosophical</t>
-            <t id="p03-s01-t16">and</t>
-            <t id="p03-s01-t17">scientific</t>
-            <t id="p03-s01-t18">issues</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p03-s02">
-            <t id="p03-s02-t01">Differentiating</t>
-            <t id="p03-s02-t02">science</t>
-            <t id="p03-s02-t03">from</t>
-            <t id="p03-s02-t04">pseudoscience</t>
-            <t id="p03-s02-t05">has</t>
-            <t id="p03-s02-t06">practical</t>
-            <t id="p03-s02-t07">implications</t>
-            <t id="p03-s02-t08">in</t>
-            <t id="p03-s02-t09">the</t>
-            <t id="p03-s02-t10">case</t>
-            <t id="p03-s02-t11">of</t>
-            <t id="p03-s02-t12">health</t>
-            <t id="p03-s02-t13">care</t>
-            <punc>,</punc>
-            <t id="p03-s02-t14">expert</t>
-            <t id="p03-s02-t15">testimony</t>
-            <punc>,</punc>
-            <t id="p03-s02-t16">environmental</t>
-            <t id="p03-s02-t17">policies</t>
-            <punc>,</punc>
-            <t id="p03-s02-t18">and</t>
-            <t id="p03-s02-t19">science</t>
-            <t id="p03-s02-t20">education</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p03-s03">
-            <t id="p03-s03-t01">Distinguishing</t>
-            <t id="p03-s03-t02">scientific</t>
-            <t id="p03-s03-t03">facts</t>
-            <t id="p03-s03-t04">and</t>
-            <t id="p03-s03-t05">theories</t>
-            <t id="p03-s03-t06">from</t>
-            <t id="p03-s03-t07">pseudoscientific</t>
-            <t id="p03-s03-t08">beliefs</t>
-            <t id="p03-s03-t09">such</t>
-            <t id="p03-s03-t10">as</t>
-            <t id="p03-s03-t11">those</t>
-            <t id="p03-s03-t12">found</t>
-            <t id="p03-s03-t13">in</t>
-            <t id="p03-s03-t14">astrology</t>
-            <punc>,</punc>
-            <t id="p03-s03-t15">medical</t>
-            <t id="p03-s03-t16">quackery</t>
-            <punc>,</punc>
-            <t id="p03-s03-t17">and</t>
-            <t id="p03-s03-t18">occult</t>
-            <t id="p03-s03-t19">beliefs</t>
-            <t id="p03-s03-t20">combined</t>
-            <t id="p03-s03-t21">with</t>
-            <t id="p03-s03-t22">scientific</t>
-            <t id="p03-s03-t23">concepts</t>
-            <punc>,</punc>
-            <t id="p03-s03-t24">is</t>
-            <t id="p03-s03-t25">part</t>
-            <t id="p03-s03-t26">of</t>
-            <t id="p03-s03-t27">science</t>
-            <t id="p03-s03-t28">education</t>
-            <t id="p03-s03-t29">and</t>
-            <t id="p03-s03-t30">scientific</t>
-            <t id="p03-s03-t31">literacy</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p04">
-         <sentence id="p04-s01">
-            <t id="p04-s01-t01">Overview</t>
-         </sentence>
-      </paragraph>
-      <paragraph id="p05">
-         <sentence id="p05-s01">
-            <t id="p05-s01-t01">Scientific</t>
-            <t id="p05-s01-t02">methodology</t>
-         </sentence>
-      </paragraph>
-      <paragraph id="p06">
-         <sentence id="p06-s01">
-            <t id="p06-s01-t01">While</t>
-            <t id="p06-s01-t02">the</t>
-            <t id="p06-s01-t03">standards</t>
-            <t id="p06-s01-t04">for</t>
-            <t id="p06-s01-t05">determining</t>
-            <t id="p06-s01-t06">whether</t>
-            <t id="p06-s01-t07">a</t>
-            <t id="p06-s01-t08">body</t>
-            <t id="p06-s01-t09">of</t>
-            <t id="p06-s01-t10">knowledge</t>
-            <punc>,</punc>
-            <t id="p06-s01-t11">methodology</t>
-            <punc>,</punc>
-            <t id="p06-s01-t12">or</t>
-            <t id="p06-s01-t13">practice</t>
-            <t id="p06-s01-t14">is</t>
-            <t id="p06-s01-t15">scientific</t>
-            <t id="p06-s01-t16">can</t>
-            <t id="p06-s01-t17">vary</t>
-            <t id="p06-s01-t18">from</t>
-            <t id="p06-s01-t19">field</t>
-            <t id="p06-s01-t20">to</t>
-            <t id="p06-s01-t21">field</t>
-            <punc>,</punc>
-            <t id="p06-s01-t22">a</t>
-            <t id="p06-s01-t23">number</t>
-            <t id="p06-s01-t24">of</t>
-            <t id="p06-s01-t25">basic</t>
-            <t id="p06-s01-t26">principles</t>
-            <t id="p06-s01-t27">are</t>
-            <t id="p06-s01-t28">widely</t>
-            <t id="p06-s01-t29">agreed</t>
-            <t id="p06-s01-t30">upon</t>
-            <t id="p06-s01-t31">by</t>
-            <t id="p06-s01-t32">scientists</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p06-s02">
-            <t id="p06-s02-t01">The</t>
-            <t id="p06-s02-t02">basic</t>
-            <t id="p06-s02-t03">notion</t>
-            <t id="p06-s02-t04">is</t>
-            <t id="p06-s02-t05">that</t>
-            <t id="p06-s02-t06">all</t>
-            <t id="p06-s02-t07">experimental</t>
-            <t id="p06-s02-t08">results</t>
-            <t id="p06-s02-t09">should</t>
-            <t id="p06-s02-t10">be</t>
-            <t id="p06-s02-t11">reproducible</t>
-            <punc>,</punc>
-            <t id="p06-s02-t12">and</t>
-            <t id="p06-s02-t13">able</t>
-            <t id="p06-s02-t14">to</t>
-            <t id="p06-s02-t15">be</t>
-            <t id="p06-s02-t16">verified</t>
-            <t id="p06-s02-t17">by</t>
-            <t id="p06-s02-t18">other</t>
-            <t id="p06-s02-t19">individuals</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p06-s03">
-            <t id="p06-s03-t01">These</t>
-            <t id="p06-s03-t02">principles</t>
-            <t id="p06-s03-t03">aim</t>
-            <t id="p06-s03-t04">to</t>
-            <t id="p06-s03-t05">ensure</t>
-            <t id="p06-s03-t06">experiments</t>
-            <t id="p06-s03-t07">can</t>
-            <t id="p06-s03-t08">be</t>
-            <t id="p06-s03-t09">measurably</t>
-            <t id="p06-s03-t10">reproduced</t>
-            <t id="p06-s03-t11">under</t>
-            <t id="p06-s03-t12">the</t>
-            <t id="p06-s03-t13">same</t>
-            <t id="p06-s03-t14">conditions</t>
-            <punc>,</punc>
-            <t id="p06-s03-t15">allowing</t>
-            <t id="p06-s03-t16">further</t>
-            <t id="p06-s03-t17">investigation</t>
-            <t id="p06-s03-t18">to</t>
-            <t id="p06-s03-t19">determine</t>
-            <t id="p06-s03-t20">whether</t>
-            <t id="p06-s03-t21">a</t>
-            <t id="p06-s03-t22">hypothesis</t>
-            <t id="p06-s03-t23">or</t>
-            <t id="p06-s03-t24">theory</t>
-            <t id="p06-s03-t25">related</t>
-            <t id="p06-s03-t26">to</t>
-            <t id="p06-s03-t27">given</t>
-            <t id="p06-s03-t28">phenomena</t>
-            <t id="p06-s03-t29">is</t>
-            <t id="p06-s03-t30">both</t>
-            <t id="p06-s03-t31">valid</t>
-            <t id="p06-s03-t32">and</t>
-            <t id="p06-s03-t33">reliable</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p06-s04">
-            <t id="p06-s04-t01">Standards</t>
-            <t id="p06-s04-t02">require</t>
-            <t id="p06-s04-t03">the</t>
-            <t id="p06-s04-t04">scientific</t>
-            <t id="p06-s04-t05">method</t>
-            <t id="p06-s04-t06">to</t>
-            <t id="p06-s04-t07">be</t>
-            <t id="p06-s04-t08">applied</t>
-            <t id="p06-s04-t09">throughout</t>
-            <punc>,</punc>
-            <t id="p06-s04-t10">and</t>
-            <t id="p06-s04-t11">bias</t>
-            <t id="p06-s04-t12">will</t>
-            <t id="p06-s04-t13">be</t>
-            <t id="p06-s04-t14">controlled</t>
-            <t id="p06-s04-t15">for</t>
-            <t id="p06-s04-t16">or</t>
-            <t id="p06-s04-t17">eliminated</t>
-            <t id="p06-s04-t18">through</t>
-            <t id="p06-s04-t19">randomization</t>
-            <punc>,</punc>
-            <t id="p06-s04-t20">fair</t>
-            <t id="p06-s04-t21">sampling</t>
-            <t id="p06-s04-t22">procedures</t>
-            <punc>,</punc>
-            <t id="p06-s04-t23">blinding</t>
-            <t id="p06-s04-t24">of</t>
-            <t id="p06-s04-t25">studies</t>
-            <punc>,</punc>
-            <t id="p06-s04-t26">and</t>
-            <t id="p06-s04-t27">other</t>
-            <t id="p06-s04-t28">methods</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p06-s05">
-            <t id="p06-s05-t01">All</t>
-            <t id="p06-s05-t02">gathered</t>
-            <t id="p06-s05-t03">data</t>
-            <punc>,</punc>
-            <t id="p06-s05-t04">including</t>
-            <t id="p06-s05-t05">the</t>
-            <t id="p06-s05-t06">experimental</t>
-            <t id="p06-s05-t07">or</t>
-            <t id="p06-s05-t08">environmental</t>
-            <t id="p06-s05-t09">conditions</t>
-            <punc>,</punc>
-            <t id="p06-s05-t10">are</t>
-            <t id="p06-s05-t11">expected</t>
-            <t id="p06-s05-t12">to</t>
-            <t id="p06-s05-t13">be</t>
-            <t id="p06-s05-t14">documented</t>
-            <t id="p06-s05-t15">for</t>
-            <t id="p06-s05-t16">scrutiny</t>
-            <t id="p06-s05-t17">and</t>
-            <t id="p06-s05-t18">made</t>
-            <t id="p06-s05-t19">available</t>
-            <t id="p06-s05-t20">for</t>
-            <t id="p06-s05-t21">peer</t>
-            <t id="p06-s05-t22">review</t>
-            <punc>,</punc>
-            <t id="p06-s05-t23">allowing</t>
-            <t id="p06-s05-t24">further</t>
-            <t id="p06-s05-t25">experiments</t>
-            <t id="p06-s05-t26">or</t>
-            <t id="p06-s05-t27">studies</t>
-            <t id="p06-s05-t28">to</t>
-            <t id="p06-s05-t29">be</t>
-            <t id="p06-s05-t30">conducted</t>
-            <t id="p06-s05-t31">to</t>
-            <t id="p06-s05-t32">confirm</t>
-            <t id="p06-s05-t33">or</t>
-            <t id="p06-s05-t34">falsify</t>
-            <t id="p06-s05-t35">results</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p06-s06">
-            <t id="p06-s06-t01">Statistical</t>
-            <t id="p06-s06-t02">quantification</t>
-            <t id="p06-s06-t03">of</t>
-            <t id="p06-s06-t04">significance</t>
-            <punc>,</punc>
-            <t id="p06-s06-t05">confidence</t>
-            <punc>,</punc>
-            <t id="p06-s06-t06">and</t>
-            <t id="p06-s06-t07">error</t>
-            <t id="p06-s06-t08">are</t>
-            <t id="p06-s06-t09">also</t>
-            <t id="p06-s06-t10">important</t>
-            <t id="p06-s06-t11">tools</t>
-            <t id="p06-s06-t12">for</t>
-            <t id="p06-s06-t13">the</t>
-            <t id="p06-s06-t14">scientific</t>
-            <t id="p06-s06-t15">method</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p07">
-         <sentence id="p07-s01">
-            <t id="p07-s01-t01">Falsifiability</t>
-         </sentence>
-      </paragraph>
-      <paragraph id="p08">
-         <sentence id="p08-s01">
-            <t id="p08-s01-t01">In</t>
-            <t id="p08-s01-t02">the</t>
-            <t id="p08-s01-t03">mid</t>
-            <punc>-</punc>
-            <t id="p08-s01-t04">20th</t>
-            <t id="p08-s01-t05">century</t>
-            <punc>,</punc>
-            <t id="p08-s01-t06">Karl</t>
-            <t id="p08-s01-t07">Popper</t>
-            <t id="p08-s01-t08">put</t>
-            <t id="p08-s01-t09">forth</t>
-            <t id="p08-s01-t10">the</t>
-            <t id="p08-s01-t11">criterion</t>
-            <t id="p08-s01-t12">of</t>
-            <t id="p08-s01-t13">falsifiability</t>
-            <t id="p08-s01-t14">to</t>
-            <t id="p08-s01-t15">distinguish</t>
-            <t id="p08-s01-t16">science</t>
-            <t id="p08-s01-t17">from</t>
-            <t id="p08-s01-t18">nonscience</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p08-s02">
-            <t id="p08-s02-t01">Falsifiability</t>
-            <t id="p08-s02-t02">means</t>
-            <t id="p08-s02-t03">a</t>
-            <t id="p08-s02-t04">result</t>
-            <t id="p08-s02-t05">can</t>
-            <t id="p08-s02-t06">be</t>
-            <t id="p08-s02-t07">disproved</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p08-s03">
-            <t id="p08-s03-t01">For</t>
-            <t id="p08-s03-t02">example</t>
-            <punc>,</punc>
-            <t id="p08-s03-t03">a</t>
-            <t id="p08-s03-t04">statement</t>
-            <t id="p08-s03-t05">such</t>
-            <t id="p08-s03-t06">as</t>
-            <punc>“</punc>
-            <t id="p08-s03-t07">God</t>
-            <t id="p08-s03-t08">created</t>
-            <t id="p08-s03-t09">the</t>
-            <t id="p08-s03-t10">universe</t>
-            <punc>”</punc>
-            <t id="p08-s03-t11">may</t>
-            <t id="p08-s03-t12">be</t>
-            <t id="p08-s03-t13">true</t>
-            <t id="p08-s03-t14">or</t>
-            <t id="p08-s03-t15">false</t>
-            <punc>,</punc>
-            <t id="p08-s03-t16">but</t>
-            <t id="p08-s03-t17">no</t>
-            <t id="p08-s03-t18">tests</t>
-            <t id="p08-s03-t19">can</t>
-            <t id="p08-s03-t20">be</t>
-            <t id="p08-s03-t21">devised</t>
-            <t id="p08-s03-t22">that</t>
-            <t id="p08-s03-t23">could</t>
-            <t id="p08-s03-t24">prove</t>
-            <t id="p08-s03-t25">it</t>
-            <t id="p08-s03-t26">either</t>
-            <t id="p08-s03-t27">way</t>
-            <punc>;</punc>
-            <t id="p08-s03-t28">it</t>
-            <t id="p08-s03-t29">simply</t>
-            <t id="p08-s03-t30">lies</t>
-            <t id="p08-s03-t31">outside</t>
-            <t id="p08-s03-t32">the</t>
-            <t id="p08-s03-t33">reach</t>
-            <t id="p08-s03-t34">of</t>
-            <t id="p08-s03-t35">science</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p08-s04">
-            <t id="p08-s04-t01">Popper</t>
-            <t id="p08-s04-t02">used</t>
-            <t id="p08-s04-t03">astrology</t>
-            <t id="p08-s04-t04">and</t>
-            <t id="p08-s04-t05">psychoanalysis</t>
-            <t id="p08-s04-t06">as</t>
-            <t id="p08-s04-t07">examples</t>
-            <t id="p08-s04-t08">of</t>
-            <t id="p08-s04-t09">pseudoscience</t>
-            <t id="p08-s04-t10">and</t>
-            <t id="p08-s04-t11">Einstein's</t>
-            <t id="p08-s04-t12">theory</t>
-            <t id="p08-s04-t13">of</t>
-            <t id="p08-s04-t14">relativity</t>
-            <t id="p08-s04-t15">as</t>
-            <t id="p08-s04-t16">an</t>
-            <t id="p08-s04-t17">example</t>
-            <t id="p08-s04-t18">of</t>
-            <t id="p08-s04-t19">science</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p08-s05">
-            <t id="p08-s05-t01">He</t>
-            <t id="p08-s05-t02">subdivided</t>
-            <t id="p08-s05-t03">nonscience</t>
-            <t id="p08-s05-t04">into</t>
-            <t id="p08-s05-t05">philosophical</t>
-            <punc>,</punc>
-            <t id="p08-s05-t06">mathematical</t>
-            <punc>,</punc>
-            <t id="p08-s05-t07">mythological</t>
-            <punc>,</punc>
-            <t id="p08-s05-t08">religious</t>
-            <t id="p08-s05-t09">and</t>
-            <punc>/</punc>
-            <t id="p08-s05-t10">or</t>
-            <t id="p08-s05-t11">metaphysical</t>
-            <t id="p08-s05-t12">formulations</t>
-            <t id="p08-s05-t13">on</t>
-            <t id="p08-s05-t14">one</t>
-            <t id="p08-s05-t15">hand</t>
-            <punc>,</punc>
-            <t id="p08-s05-t16">and</t>
-            <t id="p08-s05-t17">pseudoscientific</t>
-            <t id="p08-s05-t18">formulations</t>
-            <t id="p08-s05-t19">on</t>
-            <t id="p08-s05-t20">the</t>
-            <t id="p08-s05-t21">other</t>
-            <punc>,</punc>
-            <t id="p08-s05-t22">though</t>
-            <t id="p08-s05-t23">he</t>
-            <t id="p08-s05-t24">did</t>
-            <t id="p08-s05-t25">not</t>
-            <t id="p08-s05-t26">provide</t>
-            <t id="p08-s05-t27">clear</t>
-            <t id="p08-s05-t28">criteria</t>
-            <t id="p08-s05-t29">for</t>
-            <t id="p08-s05-t30">the</t>
-            <t id="p08-s05-t31">differences</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p09">
-         <sentence id="p09-s01">
-            <t id="p09-s01-t01">Merton's</t>
-            <t id="p09-s01-t02">norms</t>
-         </sentence>
-      </paragraph>
-      <paragraph id="p10">
-         <sentence id="p10-s01">
-            <t id="p10-s01-t01">In</t>
-            <t id="p10-s01-t02">1942</t>
-            <punc>,</punc>
-            <t id="p10-s01-t03">Robert</t>
-            <t id="p10-s01-t04">K</t>
-            <punc>.</punc>
-            <t id="p10-s01-t05">Merton</t>
-            <t id="p10-s01-t06">identified</t>
-            <t id="p10-s01-t07">a</t>
-            <t id="p10-s01-t08">small</t>
-            <t id="p10-s01-t09">set</t>
-            <t id="p10-s01-t10">of</t>
-            <punc>“</punc>
-            <t id="p10-s01-t11">norms</t>
-            <punc>”</punc>
-            <t id="p10-s01-t12">which</t>
-            <t id="p10-s01-t13">characterized</t>
-            <t id="p10-s01-t14">what</t>
-            <t id="p10-s01-t15">makes</t>
-            <t id="p10-s01-t16">a</t>
-            <punc>“</punc>
-            <t id="p10-s01-t17">real</t>
-            <punc>”</punc>
-            <t id="p10-s01-t18">science</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p10-s02">
-            <t id="p10-s02-t01">If</t>
-            <t id="p10-s02-t02">any</t>
-            <t id="p10-s02-t03">of</t>
-            <t id="p10-s02-t04">the</t>
-            <t id="p10-s02-t05">norms</t>
-            <t id="p10-s02-t06">were</t>
-            <t id="p10-s02-t07">violated</t>
-            <punc>,</punc>
-            <t id="p10-s02-t08">Merton</t>
-            <t id="p10-s02-t09">considered</t>
-            <t id="p10-s02-t10">the</t>
-            <t id="p10-s02-t11">enterprise</t>
-            <t id="p10-s02-t12">to</t>
-            <t id="p10-s02-t13">be</t>
-            <t id="p10-s02-t14">nonscience</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p10-s03">
-            <t id="p10-s03-t01">These</t>
-            <t id="p10-s03-t02">are</t>
-            <t id="p10-s03-t03">not</t>
-            <t id="p10-s03-t04">broadly</t>
-            <t id="p10-s03-t05">accepted</t>
-            <t id="p10-s03-t06">in</t>
-            <t id="p10-s03-t07">the</t>
-            <t id="p10-s03-t08">scientific</t>
-            <t id="p10-s03-t09">community</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p10-s04">
-            <t id="p10-s04-t01">His</t>
-            <t id="p10-s04-t02">norms</t>
-            <t id="p10-s04-t03">were</t>
-            <punc>:</punc>
-            <t id="p10-s04-t04">Originality</t>
-            <punc>:</punc>
-            <t id="p10-s04-t05">The</t>
-            <t id="p10-s04-t06">tests</t>
-            <t id="p10-s04-t07">and</t>
-            <t id="p10-s04-t08">research</t>
-            <t id="p10-s04-t09">done</t>
-            <t id="p10-s04-t10">must</t>
-            <t id="p10-s04-t11">present</t>
-            <t id="p10-s04-t12">something</t>
-            <t id="p10-s04-t13">new</t>
-            <t id="p10-s04-t14">to</t>
-            <t id="p10-s04-t15">the</t>
-            <t id="p10-s04-t16">scientific</t>
-            <t id="p10-s04-t17">community</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p10-s05">
-            <t id="p10-s05-t01">Detachment</t>
-            <punc>:</punc>
-            <t id="p10-s05-t02">The</t>
-            <t id="p10-s05-t03">scientists'</t>
-            <t id="p10-s05-t04">reasons</t>
-            <t id="p10-s05-t05">for</t>
-            <t id="p10-s05-t06">practicing</t>
-            <t id="p10-s05-t07">this</t>
-            <t id="p10-s05-t08">science</t>
-            <t id="p10-s05-t09">must</t>
-            <t id="p10-s05-t10">be</t>
-            <t id="p10-s05-t11">simply</t>
-            <t id="p10-s05-t12">for</t>
-            <t id="p10-s05-t13">the</t>
-            <t id="p10-s05-t14">expansion</t>
-            <t id="p10-s05-t15">of</t>
-            <t id="p10-s05-t16">their</t>
-            <t id="p10-s05-t17">knowledge</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p10-s06">
-            <t id="p10-s06-t01">The</t>
-            <t id="p10-s06-t02">scientists</t>
-            <t id="p10-s06-t03">should</t>
-            <t id="p10-s06-t04">not</t>
-            <t id="p10-s06-t05">have</t>
-            <t id="p10-s06-t06">personal</t>
-            <t id="p10-s06-t07">reasons</t>
-            <t id="p10-s06-t08">to</t>
-            <t id="p10-s06-t09">expect</t>
-            <t id="p10-s06-t10">certain</t>
-            <t id="p10-s06-t11">results</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p10-s07">
-            <t id="p10-s07-t01">Universality</t>
-            <punc>:</punc>
-            <t id="p10-s07-t02">No</t>
-            <t id="p10-s07-t03">person</t>
-            <t id="p10-s07-t04">should</t>
-            <t id="p10-s07-t05">be</t>
-            <t id="p10-s07-t06">able</t>
-            <t id="p10-s07-t07">to</t>
-            <t id="p10-s07-t08">more</t>
-            <t id="p10-s07-t09">easily</t>
-            <t id="p10-s07-t10">obtain</t>
-            <t id="p10-s07-t11">the</t>
-            <t id="p10-s07-t12">information</t>
-            <t id="p10-s07-t13">of</t>
-            <t id="p10-s07-t14">a</t>
-            <t id="p10-s07-t15">test</t>
-            <t id="p10-s07-t16">than</t>
-            <t id="p10-s07-t17">another</t>
-            <t id="p10-s07-t18">person</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p10-s08">
-            <t id="p10-s08-t01">Social</t>
-            <t id="p10-s08-t02">class</t>
-            <punc>,</punc>
-            <t id="p10-s08-t03">religion</t>
-            <punc>,</punc>
-            <t id="p10-s08-t04">ethnicity</t>
-            <punc>,</punc>
-            <t id="p10-s08-t05">or</t>
-            <t id="p10-s08-t06">any</t>
-            <t id="p10-s08-t07">other</t>
-            <t id="p10-s08-t08">personal</t>
-            <t id="p10-s08-t09">factors</t>
-            <t id="p10-s08-t10">should</t>
-            <t id="p10-s08-t11">not</t>
-            <t id="p10-s08-t12">be</t>
-            <t id="p10-s08-t13">factors</t>
-            <t id="p10-s08-t14">in</t>
-            <t id="p10-s08-t15">someone's</t>
-            <t id="p10-s08-t16">ability</t>
-            <t id="p10-s08-t17">to</t>
-            <t id="p10-s08-t18">receive</t>
-            <t id="p10-s08-t19">or</t>
-            <t id="p10-s08-t20">perform</t>
-            <t id="p10-s08-t21">a</t>
-            <t id="p10-s08-t22">type</t>
-            <t id="p10-s08-t23">of</t>
-            <t id="p10-s08-t24">science</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p10-s09">
-            <t id="p10-s09-t01">Skepticism</t>
-            <punc>:</punc>
-            <t id="p10-s09-t02">Scientific</t>
-            <t id="p10-s09-t03">facts</t>
-            <t id="p10-s09-t04">must</t>
-            <t id="p10-s09-t05">not</t>
-            <t id="p10-s09-t06">be</t>
-            <t id="p10-s09-t07">based</t>
-            <t id="p10-s09-t08">on</t>
-            <t id="p10-s09-t09">faith</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p10-s10">
-            <t id="p10-s10-t01">One</t>
-            <t id="p10-s10-t02">should</t>
-            <t id="p10-s10-t03">always</t>
-            <t id="p10-s10-t04">question</t>
-            <t id="p10-s10-t05">every</t>
-            <t id="p10-s10-t06">case</t>
-            <t id="p10-s10-t07">and</t>
-            <t id="p10-s10-t08">argument</t>
-            <t id="p10-s10-t09">and</t>
-            <t id="p10-s10-t10">constantly</t>
-            <t id="p10-s10-t11">check</t>
-            <t id="p10-s10-t12">for</t>
-            <t id="p10-s10-t13">errors</t>
-            <t id="p10-s10-t14">or</t>
-            <t id="p10-s10-t15">invalid</t>
-            <t id="p10-s10-t16">claims</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p10-s11">
-            <t id="p10-s11-t01">Public</t>
-            <t id="p10-s11-t02">accessibility</t>
-            <punc>:</punc>
-            <t id="p10-s11-t03">Any</t>
-            <t id="p10-s11-t04">scientific</t>
-            <t id="p10-s11-t05">knowledge</t>
-            <t id="p10-s11-t06">one</t>
-            <t id="p10-s11-t07">obtains</t>
-            <t id="p10-s11-t08">should</t>
-            <t id="p10-s11-t09">be</t>
-            <t id="p10-s11-t10">made</t>
-            <t id="p10-s11-t11">available</t>
-            <t id="p10-s11-t12">to</t>
-            <t id="p10-s11-t13">everyone</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p10-s12">
-            <t id="p10-s12-t01">The</t>
-            <t id="p10-s12-t02">results</t>
-            <t id="p10-s12-t03">of</t>
-            <t id="p10-s12-t04">any</t>
-            <t id="p10-s12-t05">research</t>
-            <t id="p10-s12-t06">should</t>
-            <t id="p10-s12-t07">be</t>
-            <t id="p10-s12-t08">openly</t>
-            <t id="p10-s12-t09">published</t>
-            <t id="p10-s12-t10">and</t>
-            <t id="p10-s12-t11">shared</t>
-            <t id="p10-s12-t12">with</t>
-            <t id="p10-s12-t13">the</t>
-            <t id="p10-s12-t14">scientific</t>
-            <t id="p10-s12-t15">community</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p11">
-         <sentence id="p11-s01">
-            <t id="p11-s01-t01">Identifying</t>
-            <t id="p11-s01-t02">pseudoscience</t>
-         </sentence>
-      </paragraph>
-      <paragraph id="p12">
-         <sentence id="p12-s01">
-            <t id="p12-s01-t01">A</t>
-            <t id="p12-s01-t02">field</t>
-            <punc>,</punc>
-            <t id="p12-s01-t03">practice</t>
-            <punc>,</punc>
-            <t id="p12-s01-t04">or</t>
-            <t id="p12-s01-t05">body</t>
-            <t id="p12-s01-t06">of</t>
-            <t id="p12-s01-t07">knowledge</t>
-            <t id="p12-s01-t08">might</t>
-            <t id="p12-s01-t09">reasonably</t>
-            <t id="p12-s01-t10">be</t>
-            <t id="p12-s01-t11">called</t>
-            <t id="p12-s01-t12">pseudoscientific</t>
-            <t id="p12-s01-t13">when</t>
-            <t id="p12-s01-t14">it</t>
-            <t id="p12-s01-t15">is</t>
-            <t id="p12-s01-t16">presented</t>
-            <t id="p12-s01-t17">as</t>
-            <t id="p12-s01-t18">consistent</t>
-            <t id="p12-s01-t19">with</t>
-            <t id="p12-s01-t20">the</t>
-            <t id="p12-s01-t21">norms</t>
-            <t id="p12-s01-t22">of</t>
-            <t id="p12-s01-t23">scientific</t>
-            <t id="p12-s01-t24">research</t>
-            <punc>,</punc>
-            <t id="p12-s01-t25">but</t>
-            <t id="p12-s01-t26">it</t>
-            <t id="p12-s01-t27">demonstrably</t>
-            <t id="p12-s01-t28">fails</t>
-            <t id="p12-s01-t29">to</t>
-            <t id="p12-s01-t30">meet</t>
-            <t id="p12-s01-t31">these</t>
-            <t id="p12-s01-t32">norms</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p13">
-         <sentence id="p13-s01">
-            <t id="p13-s01-t01">Karl</t>
-            <t id="p13-s01-t02">Popper</t>
-            <t id="p13-s01-t03">stated</t>
-            <t id="p13-s01-t04">it</t>
-            <t id="p13-s01-t05">is</t>
-            <t id="p13-s01-t06">insufficient</t>
-            <t id="p13-s01-t07">to</t>
-            <t id="p13-s01-t08">distinguish</t>
-            <t id="p13-s01-t09">science</t>
-            <t id="p13-s01-t10">from</t>
-            <t id="p13-s01-t11">pseudoscience</t>
-            <punc>,</punc>
-            <t id="p13-s01-t12">or</t>
-            <t id="p13-s01-t13">from</t>
-            <t id="p13-s01-t14">metaphysics</t>
-            <punc>,</punc>
-            <t id="p13-s01-t15">by</t>
-            <t id="p13-s01-t16">the</t>
-            <t id="p13-s01-t17">criterion</t>
-            <t id="p13-s01-t18">of</t>
-            <t id="p13-s01-t19">rigorous</t>
-            <t id="p13-s01-t20">adherence</t>
-            <t id="p13-s01-t21">to</t>
-            <t id="p13-s01-t22">the</t>
-            <t id="p13-s01-t23">empirical</t>
-            <t id="p13-s01-t24">method</t>
-            <punc>,</punc>
-            <t id="p13-s01-t25">which</t>
-            <t id="p13-s01-t26">is</t>
-            <t id="p13-s01-t27">essentially</t>
-            <t id="p13-s01-t28">inductive</t>
-            <punc>,</punc>
-            <t id="p13-s01-t29">based</t>
-            <t id="p13-s01-t30">on</t>
-            <t id="p13-s01-t31">observation</t>
-            <t id="p13-s01-t32">or</t>
-            <t id="p13-s01-t33">experimentation</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p13-s02">
-            <t id="p13-s02-t01">He</t>
-            <t id="p13-s02-t02">proposed</t>
-            <t id="p13-s02-t03">a</t>
-            <t id="p13-s02-t04">method</t>
-            <t id="p13-s02-t05">to</t>
-            <t id="p13-s02-t06">distinguish</t>
-            <t id="p13-s02-t07">between</t>
-            <t id="p13-s02-t08">genuine</t>
-            <t id="p13-s02-t09">empirical</t>
-            <punc>,</punc>
-            <t id="p13-s02-t10">nonempirical</t>
-            <t id="p13-s02-t11">or</t>
-            <t id="p13-s02-t12">even</t>
-            <t id="p13-s02-t13">pseudoempirical</t>
-            <t id="p13-s02-t14">methods</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p13-s03">
-            <t id="p13-s03-t01">The</t>
-            <t id="p13-s03-t02">latter</t>
-            <t id="p13-s03-t03">case</t>
-            <t id="p13-s03-t04">was</t>
-            <t id="p13-s03-t05">exemplified</t>
-            <t id="p13-s03-t06">by</t>
-            <t id="p13-s03-t07">astrology</t>
-            <punc>,</punc>
-            <t id="p13-s03-t08">which</t>
-            <t id="p13-s03-t09">appeals</t>
-            <t id="p13-s03-t10">to</t>
-            <t id="p13-s03-t11">observation</t>
-            <t id="p13-s03-t12">and</t>
-            <t id="p13-s03-t13">experimentation</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p13-s04">
-            <t id="p13-s04-t01">While</t>
-            <t id="p13-s04-t02">it</t>
-            <t id="p13-s04-t03">had</t>
-            <t id="p13-s04-t04">astonishing</t>
-            <t id="p13-s04-t05">empirical</t>
-            <t id="p13-s04-t06">evidence</t>
-            <t id="p13-s04-t07">based</t>
-            <t id="p13-s04-t08">on</t>
-            <t id="p13-s04-t09">observation</t>
-            <punc>,</punc>
-            <t id="p13-s04-t10">on</t>
-            <t id="p13-s04-t11">horoscopes</t>
-            <t id="p13-s04-t12">and</t>
-            <t id="p13-s04-t13">biographies</t>
-            <punc>,</punc>
-            <t id="p13-s04-t14">it</t>
-            <t id="p13-s04-t15">crucially</t>
-            <t id="p13-s04-t16">failed</t>
-            <t id="p13-s04-t17">to</t>
-            <t id="p13-s04-t18">adhere</t>
-            <t id="p13-s04-t19">to</t>
-            <t id="p13-s04-t20">acceptable</t>
-            <t id="p13-s04-t21">scientific</t>
-            <t id="p13-s04-t22">standards</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p13-s05">
-            <t id="p13-s05-t01">Popper</t>
-            <t id="p13-s05-t02">proposed</t>
-            <t id="p13-s05-t03">falsifiability</t>
-            <t id="p13-s05-t04">as</t>
-            <t id="p13-s05-t05">an</t>
-            <t id="p13-s05-t06">important</t>
-            <t id="p13-s05-t07">criterion</t>
-            <t id="p13-s05-t08">in</t>
-            <t id="p13-s05-t09">distinguishing</t>
-            <t id="p13-s05-t10">science</t>
-            <t id="p13-s05-t11">from</t>
-            <t id="p13-s05-t12">pseudoscience</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p14">
-         <sentence id="p14-s01">
-            <t id="p14-s01-t01">To</t>
-            <t id="p14-s01-t02">demonstrate</t>
-            <t id="p14-s01-t03">this</t>
-            <t id="p14-s01-t04">point</t>
-            <punc>,</punc>
-            <t id="p14-s01-t05">Popper</t>
-            <t id="p14-s01-t06">gave</t>
-            <t id="p14-s01-t07">two</t>
-            <t id="p14-s01-t08">cases</t>
-            <t id="p14-s01-t09">of</t>
-            <t id="p14-s01-t10">human</t>
-            <t id="p14-s01-t11">behavior</t>
-            <t id="p14-s01-t12">and</t>
-            <t id="p14-s01-t13">typical</t>
-            <t id="p14-s01-t14">explanations</t>
-            <t id="p14-s01-t15">from</t>
-            <t id="p14-s01-t16">Freud</t>
-            <t id="p14-s01-t17">and</t>
-            <t id="p14-s01-t18">Adler's</t>
-            <t id="p14-s01-t19">theories</t>
-            <punc>:</punc>
-            <punc>“</punc>
-            <t id="p14-s01-t20">that</t>
-            <t id="p14-s01-t21">of</t>
-            <t id="p14-s01-t22">a</t>
-            <t id="p14-s01-t23">man</t>
-            <t id="p14-s01-t24">who</t>
-            <t id="p14-s01-t25">pushes</t>
-            <t id="p14-s01-t26">a</t>
-            <t id="p14-s01-t27">child</t>
-            <t id="p14-s01-t28">into</t>
-            <t id="p14-s01-t29">the</t>
-            <t id="p14-s01-t30">water</t>
-            <t id="p14-s01-t31">with</t>
-            <t id="p14-s01-t32">the</t>
-            <t id="p14-s01-t33">intention</t>
-            <t id="p14-s01-t34">of</t>
-            <t id="p14-s01-t35">drowning</t>
-            <t id="p14-s01-t36">it</t>
-            <punc>;</punc>
-            <t id="p14-s01-t37">and</t>
-            <t id="p14-s01-t38">that</t>
-            <t id="p14-s01-t39">of</t>
-            <t id="p14-s01-t40">a</t>
-            <t id="p14-s01-t41">man</t>
-            <t id="p14-s01-t42">who</t>
-            <t id="p14-s01-t43">sacrifices</t>
-            <t id="p14-s01-t44">his</t>
-            <t id="p14-s01-t45">life</t>
-            <t id="p14-s01-t46">in</t>
-            <t id="p14-s01-t47">an</t>
-            <t id="p14-s01-t48">attempt</t>
-            <t id="p14-s01-t49">to</t>
-            <t id="p14-s01-t50">save</t>
-            <t id="p14-s01-t51">the</t>
-            <t id="p14-s01-t52">child</t>
-            <punc>.</punc>
-            <punc>”</punc>
-         </sentence>
-         <sentence id="p14-s02">
-            <t id="p14-s02-t01">From</t>
-            <t id="p14-s02-t02">Freud's</t>
-            <t id="p14-s02-t03">perspective</t>
-            <punc>,</punc>
-            <t id="p14-s02-t04">the</t>
-            <t id="p14-s02-t05">first</t>
-            <t id="p14-s02-t06">man</t>
-            <t id="p14-s02-t07">would</t>
-            <t id="p14-s02-t08">have</t>
-            <t id="p14-s02-t09">suffered</t>
-            <t id="p14-s02-t10">from</t>
-            <t id="p14-s02-t11">psychological</t>
-            <t id="p14-s02-t12">repression</t>
-            <punc>,</punc>
-            <t id="p14-s02-t13">probably</t>
-            <t id="p14-s02-t14">originating</t>
-            <t id="p14-s02-t15">from</t>
-            <t id="p14-s02-t16">an</t>
-            <t id="p14-s02-t17">Oedipus</t>
-            <t id="p14-s02-t18">complex</t>
-            <punc>,</punc>
-            <t id="p14-s02-t19">whereas</t>
-            <t id="p14-s02-t20">the</t>
-            <t id="p14-s02-t21">second</t>
-            <t id="p14-s02-t22">had</t>
-            <t id="p14-s02-t23">attained</t>
-            <t id="p14-s02-t24">sublimation</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p14-s03">
-            <t id="p14-s03-t01">From</t>
-            <t id="p14-s03-t02">Adler's</t>
-            <t id="p14-s03-t03">perspective</t>
-            <punc>,</punc>
-            <t id="p14-s03-t04">the</t>
-            <t id="p14-s03-t05">first</t>
-            <t id="p14-s03-t06">and</t>
-            <t id="p14-s03-t07">second</t>
-            <t id="p14-s03-t08">man</t>
-            <t id="p14-s03-t09">suffered</t>
-            <t id="p14-s03-t10">from</t>
-            <t id="p14-s03-t11">feelings</t>
-            <t id="p14-s03-t12">of</t>
-            <t id="p14-s03-t13">inferiority</t>
-            <t id="p14-s03-t14">and</t>
-            <t id="p14-s03-t15">had</t>
-            <t id="p14-s03-t16">to</t>
-            <t id="p14-s03-t17">prove</t>
-            <t id="p14-s03-t18">himself</t>
-            <t id="p14-s03-t19">which</t>
-            <t id="p14-s03-t20">drove</t>
-            <t id="p14-s03-t21">him</t>
-            <t id="p14-s03-t22">to</t>
-            <t id="p14-s03-t23">commit</t>
-            <t id="p14-s03-t24">the</t>
-            <t id="p14-s03-t25">crime</t>
-            <t id="p14-s03-t26">or</t>
-            <punc>,</punc>
-            <t id="p14-s03-t27">in</t>
-            <t id="p14-s03-t28">the</t>
-            <t id="p14-s03-t29">second</t>
-            <t id="p14-s03-t30">case</t>
-            <punc>,</punc>
-            <t id="p14-s03-t31">rescue</t>
-            <t id="p14-s03-t32">the</t>
-            <t id="p14-s03-t33">child</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p14-s04">
-            <t id="p14-s04-t01">Popper</t>
-            <t id="p14-s04-t02">was</t>
-            <t id="p14-s04-t03">not</t>
-            <t id="p14-s04-t04">able</t>
-            <t id="p14-s04-t05">to</t>
-            <t id="p14-s04-t06">find</t>
-            <t id="p14-s04-t07">any</t>
-            <t id="p14-s04-t08">counterexamples</t>
-            <t id="p14-s04-t09">of</t>
-            <t id="p14-s04-t10">human</t>
-            <t id="p14-s04-t11">behavior</t>
-            <t id="p14-s04-t12">in</t>
-            <t id="p14-s04-t13">which</t>
-            <t id="p14-s04-t14">the</t>
-            <t id="p14-s04-t15">behavior</t>
-            <t id="p14-s04-t16">could</t>
-            <t id="p14-s04-t17">not</t>
-            <t id="p14-s04-t18">be</t>
-            <t id="p14-s04-t19">explained</t>
-            <t id="p14-s04-t20">in</t>
-            <t id="p14-s04-t21">the</t>
-            <t id="p14-s04-t22">terms</t>
-            <t id="p14-s04-t23">of</t>
-            <t id="p14-s04-t24">Adler's</t>
-            <t id="p14-s04-t25">or</t>
-            <t id="p14-s04-t26">Freud's</t>
-            <t id="p14-s04-t27">theory</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p14-s05">
-            <t id="p14-s05-t01">Popper</t>
-            <t id="p14-s05-t02">argued</t>
-            <t id="p14-s05-t03">it</t>
-            <t id="p14-s05-t04">was</t>
-            <t id="p14-s05-t05">that</t>
-            <t id="p14-s05-t06">the</t>
-            <t id="p14-s05-t07">observation</t>
-            <t id="p14-s05-t08">always</t>
-            <t id="p14-s05-t09">fitted</t>
-            <t id="p14-s05-t10">or</t>
-            <t id="p14-s05-t11">confirmed</t>
-            <t id="p14-s05-t12">the</t>
-            <t id="p14-s05-t13">theory</t>
-            <t id="p14-s05-t14">which</t>
-            <punc>,</punc>
-            <t id="p14-s05-t15">rather</t>
-            <t id="p14-s05-t16">than</t>
-            <t id="p14-s05-t17">being</t>
-            <t id="p14-s05-t18">its</t>
-            <t id="p14-s05-t19">strength</t>
-            <punc>,</punc>
-            <t id="p14-s05-t20">was</t>
-            <t id="p14-s05-t21">actually</t>
-            <t id="p14-s05-t22">its</t>
-            <t id="p14-s05-t23">weakness</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p15">
-         <sentence id="p15-s01">
-            <t id="p15-s01-t01">In</t>
-            <t id="p15-s01-t02">contrast</t>
-            <punc>,</punc>
-            <t id="p15-s01-t03">Popper</t>
-            <t id="p15-s01-t04">gave</t>
-            <t id="p15-s01-t05">the</t>
-            <t id="p15-s01-t06">example</t>
-            <t id="p15-s01-t07">of</t>
-            <t id="p15-s01-t08">Einstein's</t>
-            <t id="p15-s01-t09">gravitational</t>
-            <t id="p15-s01-t10">theory</t>
-            <punc>,</punc>
-            <t id="p15-s01-t11">which</t>
-            <t id="p15-s01-t12">predicted</t>
-            <punc>“</punc>
-            <t id="p15-s01-t13">light</t>
-            <t id="p15-s01-t14">must</t>
-            <t id="p15-s01-t15">be</t>
-            <t id="p15-s01-t16">attracted</t>
-            <t id="p15-s01-t17">by</t>
-            <t id="p15-s01-t18">heavy</t>
-            <t id="p15-s01-t19">bodies</t>
-            <punc>(</punc>
-            <t id="p15-s01-t20">such</t>
-            <t id="p15-s01-t21">as</t>
-            <t id="p15-s01-t22">the</t>
-            <t id="p15-s01-t23">sun</t>
-            <punc>)</punc>
-            <punc>,</punc>
-            <t id="p15-s01-t24">precisely</t>
-            <t id="p15-s01-t25">as</t>
-            <t id="p15-s01-t26">material</t>
-            <t id="p15-s01-t27">bodies</t>
-            <t id="p15-s01-t28">were</t>
-            <t id="p15-s01-t29">attracted</t>
-            <punc>.</punc>
-            <punc>”</punc>
-         </sentence>
-         <sentence id="p15-s02">
-            <t id="p15-s02-t01">Following</t>
-            <t id="p15-s02-t02">from</t>
-            <t id="p15-s02-t03">this</t>
-            <punc>,</punc>
-            <t id="p15-s02-t04">stars</t>
-            <t id="p15-s02-t05">closer</t>
-            <t id="p15-s02-t06">to</t>
-            <t id="p15-s02-t07">the</t>
-            <t id="p15-s02-t08">sun</t>
-            <t id="p15-s02-t09">would</t>
-            <t id="p15-s02-t10">appear</t>
-            <t id="p15-s02-t11">to</t>
-            <t id="p15-s02-t12">have</t>
-            <t id="p15-s02-t13">moved</t>
-            <t id="p15-s02-t14">a</t>
-            <t id="p15-s02-t15">small</t>
-            <t id="p15-s02-t16">distance</t>
-            <t id="p15-s02-t17">away</t>
-            <t id="p15-s02-t18">from</t>
-            <t id="p15-s02-t19">the</t>
-            <t id="p15-s02-t20">sun</t>
-            <punc>,</punc>
-            <t id="p15-s02-t21">and</t>
-            <t id="p15-s02-t22">away</t>
-            <t id="p15-s02-t23">from</t>
-            <t id="p15-s02-t24">each</t>
-            <t id="p15-s02-t25">other</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p15-s03">
-            <t id="p15-s03-t01">This</t>
-            <t id="p15-s03-t02">prediction</t>
-            <t id="p15-s03-t03">was</t>
-            <t id="p15-s03-t04">particularly</t>
-            <t id="p15-s03-t05">striking</t>
-            <t id="p15-s03-t06">to</t>
-            <t id="p15-s03-t07">Popper</t>
-            <t id="p15-s03-t08">because</t>
-            <t id="p15-s03-t09">it</t>
-            <t id="p15-s03-t10">involved</t>
-            <t id="p15-s03-t11">considerable</t>
-            <t id="p15-s03-t12">risk</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p15-s04">
-            <t id="p15-s04-t01">The</t>
-            <t id="p15-s04-t02">brightness</t>
-            <t id="p15-s04-t03">of</t>
-            <t id="p15-s04-t04">the</t>
-            <t id="p15-s04-t05">sun</t>
-            <t id="p15-s04-t06">prevented</t>
-            <t id="p15-s04-t07">this</t>
-            <t id="p15-s04-t08">effect</t>
-            <t id="p15-s04-t09">from</t>
-            <t id="p15-s04-t10">being</t>
-            <t id="p15-s04-t11">observed</t>
-            <t id="p15-s04-t12">under</t>
-            <t id="p15-s04-t13">normal</t>
-            <t id="p15-s04-t14">circumstances</t>
-            <punc>,</punc>
-            <t id="p15-s04-t15">so</t>
-            <t id="p15-s04-t16">photographs</t>
-            <t id="p15-s04-t17">had</t>
-            <t id="p15-s04-t18">to</t>
-            <t id="p15-s04-t19">be</t>
-            <t id="p15-s04-t20">taken</t>
-            <t id="p15-s04-t21">during</t>
-            <t id="p15-s04-t22">an</t>
-            <t id="p15-s04-t23">eclipse</t>
-            <t id="p15-s04-t24">and</t>
-            <t id="p15-s04-t25">compared</t>
-            <t id="p15-s04-t26">to</t>
-            <t id="p15-s04-t27">photographs</t>
-            <t id="p15-s04-t28">taken</t>
-            <t id="p15-s04-t29">at</t>
-            <t id="p15-s04-t30">night</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p15-s05">
-            <t id="p15-s05-t01">Popper</t>
-            <t id="p15-s05-t02">states</t>
-            <punc>,</punc>
-            <punc>“</punc>
-            <t id="p15-s05-t03">If</t>
-            <t id="p15-s05-t04">observation</t>
-            <t id="p15-s05-t05">shows</t>
-            <t id="p15-s05-t06">that</t>
-            <t id="p15-s05-t07">the</t>
-            <t id="p15-s05-t08">predicted</t>
-            <t id="p15-s05-t09">effect</t>
-            <t id="p15-s05-t10">is</t>
-            <t id="p15-s05-t11">definitely</t>
-            <t id="p15-s05-t12">absent</t>
-            <punc>,</punc>
-            <t id="p15-s05-t13">then</t>
-            <t id="p15-s05-t14">the</t>
-            <t id="p15-s05-t15">theory</t>
-            <t id="p15-s05-t16">is</t>
-            <t id="p15-s05-t17">simply</t>
-            <t id="p15-s05-t18">refuted</t>
-            <punc>.</punc>
-            <punc>”</punc>
-         </sentence>
-         <sentence id="p15-s06">
-            <t id="p15-s06-t01">Popper</t>
-            <t id="p15-s06-t02">summed</t>
-            <t id="p15-s06-t03">up</t>
-            <t id="p15-s06-t04">his</t>
-            <t id="p15-s06-t05">criterion</t>
-            <t id="p15-s06-t06">for</t>
-            <t id="p15-s06-t07">the</t>
-            <t id="p15-s06-t08">scientific</t>
-            <t id="p15-s06-t09">status</t>
-            <t id="p15-s06-t10">of</t>
-            <t id="p15-s06-t11">a</t>
-            <t id="p15-s06-t12">theory</t>
-            <t id="p15-s06-t13">as</t>
-            <t id="p15-s06-t14">depending</t>
-            <t id="p15-s06-t15">on</t>
-            <t id="p15-s06-t16">its</t>
-            <t id="p15-s06-t17">falsifiability</t>
-            <punc>,</punc>
-            <t id="p15-s06-t18">refutability</t>
-            <punc>,</punc>
-            <t id="p15-s06-t19">or</t>
-            <t id="p15-s06-t20">testability</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p16">
-         <sentence id="p16-s01">
-            <t id="p16-s01-t01">Paul</t>
-            <t id="p16-s01-t02">R</t>
-            <punc>.</punc>
-            <t id="p16-s01-t03">Thagard</t>
-            <t id="p16-s01-t04">used</t>
-            <t id="p16-s01-t05">astrology</t>
-            <t id="p16-s01-t06">as</t>
-            <t id="p16-s01-t07">a</t>
-            <t id="p16-s01-t08">case</t>
-            <t id="p16-s01-t09">study</t>
-            <t id="p16-s01-t10">to</t>
-            <t id="p16-s01-t11">distinguish</t>
-            <t id="p16-s01-t12">science</t>
-            <t id="p16-s01-t13">from</t>
-            <t id="p16-s01-t14">pseudoscience</t>
-            <t id="p16-s01-t15">and</t>
-            <t id="p16-s01-t16">proposed</t>
-            <t id="p16-s01-t17">principles</t>
-            <t id="p16-s01-t18">and</t>
-            <t id="p16-s01-t19">criteria</t>
-            <t id="p16-s01-t20">to</t>
-            <t id="p16-s01-t21">delineate</t>
-            <t id="p16-s01-t22">them</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p16-s02">
-            <t id="p16-s02-t01">First</t>
-            <punc>,</punc>
-            <t id="p16-s02-t02">astrology</t>
-            <t id="p16-s02-t03">has</t>
-            <t id="p16-s02-t04">not</t>
-            <t id="p16-s02-t05">progressed</t>
-            <t id="p16-s02-t06">in</t>
-            <t id="p16-s02-t07">that</t>
-            <t id="p16-s02-t08">it</t>
-            <t id="p16-s02-t09">has</t>
-            <t id="p16-s02-t10">not</t>
-            <t id="p16-s02-t11">been</t>
-            <t id="p16-s02-t12">updated</t>
-            <t id="p16-s02-t13">nor</t>
-            <t id="p16-s02-t14">added</t>
-            <t id="p16-s02-t15">any</t>
-            <t id="p16-s02-t16">explanatory</t>
-            <t id="p16-s02-t17">power</t>
-            <t id="p16-s02-t18">since</t>
-            <t id="p16-s02-t19">Ptolemy</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p16-s03">
-            <t id="p16-s03-t01">Second</t>
-            <punc>,</punc>
-            <t id="p16-s03-t02">it</t>
-            <t id="p16-s03-t03">has</t>
-            <t id="p16-s03-t04">ignored</t>
-            <t id="p16-s03-t05">outstanding</t>
-            <t id="p16-s03-t06">problems</t>
-            <t id="p16-s03-t07">such</t>
-            <t id="p16-s03-t08">as</t>
-            <t id="p16-s03-t09">the</t>
-            <t id="p16-s03-t10">precession</t>
-            <t id="p16-s03-t11">of</t>
-            <t id="p16-s03-t12">equinoxes</t>
-            <t id="p16-s03-t13">in</t>
-            <t id="p16-s03-t14">astronomy</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p16-s04">
-            <t id="p16-s04-t01">Third</t>
-            <punc>,</punc>
-            <t id="p16-s04-t02">alternative</t>
-            <t id="p16-s04-t03">theories</t>
-            <t id="p16-s04-t04">of</t>
-            <t id="p16-s04-t05">personality</t>
-            <t id="p16-s04-t06">and</t>
-            <t id="p16-s04-t07">behavior</t>
-            <t id="p16-s04-t08">have</t>
-            <t id="p16-s04-t09">grown</t>
-            <t id="p16-s04-t10">progressively</t>
-            <t id="p16-s04-t11">to</t>
-            <t id="p16-s04-t12">encompass</t>
-            <t id="p16-s04-t13">explanations</t>
-            <t id="p16-s04-t14">of</t>
-            <t id="p16-s04-t15">phenomena</t>
-            <t id="p16-s04-t16">which</t>
-            <t id="p16-s04-t17">astrology</t>
-            <t id="p16-s04-t18">statically</t>
-            <t id="p16-s04-t19">attributes</t>
-            <t id="p16-s04-t20">to</t>
-            <t id="p16-s04-t21">heavenly</t>
-            <t id="p16-s04-t22">forces</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p16-s05">
-            <t id="p16-s05-t01">Fourth</t>
-            <punc>,</punc>
-            <t id="p16-s05-t02">astrologers</t>
-            <t id="p16-s05-t03">have</t>
-            <t id="p16-s05-t04">remained</t>
-            <t id="p16-s05-t05">uninterested</t>
-            <t id="p16-s05-t06">in</t>
-            <t id="p16-s05-t07">furthering</t>
-            <t id="p16-s05-t08">the</t>
-            <t id="p16-s05-t09">theory</t>
-            <t id="p16-s05-t10">to</t>
-            <t id="p16-s05-t11">deal</t>
-            <t id="p16-s05-t12">with</t>
-            <t id="p16-s05-t13">outstanding</t>
-            <t id="p16-s05-t14">problems</t>
-            <t id="p16-s05-t15">or</t>
-            <t id="p16-s05-t16">in</t>
-            <t id="p16-s05-t17">critically</t>
-            <t id="p16-s05-t18">evaluating</t>
-            <t id="p16-s05-t19">the</t>
-            <t id="p16-s05-t20">theory</t>
-            <t id="p16-s05-t21">in</t>
-            <t id="p16-s05-t22">relation</t>
-            <t id="p16-s05-t23">to</t>
-            <t id="p16-s05-t24">other</t>
-            <t id="p16-s05-t25">theories</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p16-s06">
-            <t id="p16-s06-t01">Thagard</t>
-            <t id="p16-s06-t02">intended</t>
-            <t id="p16-s06-t03">this</t>
-            <t id="p16-s06-t04">criterion</t>
-            <t id="p16-s06-t05">to</t>
-            <t id="p16-s06-t06">be</t>
-            <t id="p16-s06-t07">extended</t>
-            <t id="p16-s06-t08">to</t>
-            <t id="p16-s06-t09">areas</t>
-            <t id="p16-s06-t10">other</t>
-            <t id="p16-s06-t11">than</t>
-            <t id="p16-s06-t12">astrology</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p16-s07">
-            <t id="p16-s07-t01">He</t>
-            <t id="p16-s07-t02">believed</t>
-            <t id="p16-s07-t03">it</t>
-            <t id="p16-s07-t04">would</t>
-            <t id="p16-s07-t05">delineate</t>
-            <t id="p16-s07-t06">as</t>
-            <t id="p16-s07-t07">pseudoscientific</t>
-            <t id="p16-s07-t08">such</t>
-            <t id="p16-s07-t09">practices</t>
-            <t id="p16-s07-t10">as</t>
-            <t id="p16-s07-t11">witchcraft</t>
-            <t id="p16-s07-t12">and</t>
-            <t id="p16-s07-t13">pyramidology</t>
-            <punc>,</punc>
-            <t id="p16-s07-t14">while</t>
-            <t id="p16-s07-t15">leaving</t>
-            <t id="p16-s07-t16">physics</t>
-            <punc>,</punc>
-            <t id="p16-s07-t17">chemistry</t>
-            <t id="p16-s07-t18">and</t>
-            <t id="p16-s07-t19">biology</t>
-            <t id="p16-s07-t20">in</t>
-            <t id="p16-s07-t21">the</t>
-            <t id="p16-s07-t22">realm</t>
-            <t id="p16-s07-t23">of</t>
-            <t id="p16-s07-t24">science</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p16-s08">
-            <t id="p16-s08-t01">Biorhythms</t>
-            <punc>,</punc>
-            <t id="p16-s08-t02">which</t>
-            <t id="p16-s08-t03">like</t>
-            <t id="p16-s08-t04">astrology</t>
-            <t id="p16-s08-t05">relied</t>
-            <t id="p16-s08-t06">uncritically</t>
-            <t id="p16-s08-t07">on</t>
-            <t id="p16-s08-t08">birth</t>
-            <t id="p16-s08-t09">dates</t>
-            <punc>,</punc>
-            <t id="p16-s08-t10">did</t>
-            <t id="p16-s08-t11">not</t>
-            <t id="p16-s08-t12">meet</t>
-            <t id="p16-s08-t13">the</t>
-            <t id="p16-s08-t14">criterion</t>
-            <t id="p16-s08-t15">of</t>
-            <t id="p16-s08-t16">pseudoscience</t>
-            <t id="p16-s08-t17">at</t>
-            <t id="p16-s08-t18">the</t>
-            <t id="p16-s08-t19">time</t>
-            <t id="p16-s08-t20">because</t>
-            <t id="p16-s08-t21">there</t>
-            <t id="p16-s08-t22">were</t>
-            <t id="p16-s08-t23">no</t>
-            <t id="p16-s08-t24">alternative</t>
-            <t id="p16-s08-t25">explanations</t>
-            <t id="p16-s08-t26">for</t>
-            <t id="p16-s08-t27">the</t>
-            <t id="p16-s08-t28">same</t>
-            <t id="p16-s08-t29">observations</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p16-s09">
-            <t id="p16-s09-t01">The</t>
-            <t id="p16-s09-t02">use</t>
-            <t id="p16-s09-t03">of</t>
-            <t id="p16-s09-t04">this</t>
-            <t id="p16-s09-t05">criterion</t>
-            <t id="p16-s09-t06">has</t>
-            <t id="p16-s09-t07">the</t>
-            <t id="p16-s09-t08">consequence</t>
-            <t id="p16-s09-t09">that</t>
-            <t id="p16-s09-t10">a</t>
-            <t id="p16-s09-t11">theory</t>
-            <t id="p16-s09-t12">can</t>
-            <t id="p16-s09-t13">at</t>
-            <t id="p16-s09-t14">one</t>
-            <t id="p16-s09-t15">time</t>
-            <t id="p16-s09-t16">be</t>
-            <t id="p16-s09-t17">scientific</t>
-            <t id="p16-s09-t18">and</t>
-            <t id="p16-s09-t19">at</t>
-            <t id="p16-s09-t20">another</t>
-            <t id="p16-s09-t21">pseudoscientific</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p17">
-         <sentence id="p17-s01">
-            <t id="p17-s01-t01">Science</t>
-            <t id="p17-s01-t02">is</t>
-            <t id="p17-s01-t03">also</t>
-            <t id="p17-s01-t04">distinguishable</t>
-            <t id="p17-s01-t05">from</t>
-            <t id="p17-s01-t06">revelation</t>
-            <punc>,</punc>
-            <t id="p17-s01-t07">theology</t>
-            <punc>,</punc>
-            <t id="p17-s01-t08">or</t>
-            <t id="p17-s01-t09">spirituality</t>
-            <t id="p17-s01-t10">in</t>
-            <t id="p17-s01-t11">that</t>
-            <t id="p17-s01-t12">it</t>
-            <t id="p17-s01-t13">offers</t>
-            <t id="p17-s01-t14">insight</t>
-            <t id="p17-s01-t15">into</t>
-            <t id="p17-s01-t16">the</t>
-            <t id="p17-s01-t17">physical</t>
-            <t id="p17-s01-t18">world</t>
-            <t id="p17-s01-t19">obtained</t>
-            <t id="p17-s01-t20">by</t>
-            <t id="p17-s01-t21">empirical</t>
-            <t id="p17-s01-t22">research</t>
-            <t id="p17-s01-t23">and</t>
-            <t id="p17-s01-t24">testing</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p17-s02">
-            <t id="p17-s02-t01">For</t>
-            <t id="p17-s02-t02">this</t>
-            <t id="p17-s02-t03">reason</t>
-            <punc>,</punc>
-            <t id="p17-s02-t04">the</t>
-            <t id="p17-s02-t05">teaching</t>
-            <t id="p17-s02-t06">of</t>
-            <t id="p17-s02-t07">creation</t>
-            <t id="p17-s02-t08">science</t>
-            <t id="p17-s02-t09">and</t>
-            <t id="p17-s02-t10">intelligent</t>
-            <t id="p17-s02-t11">design</t>
-            <t id="p17-s02-t12">has</t>
-            <t id="p17-s02-t13">been</t>
-            <t id="p17-s02-t14">strongly</t>
-            <t id="p17-s02-t15">condemned</t>
-            <t id="p17-s02-t16">in</t>
-            <t id="p17-s02-t17">position</t>
-            <t id="p17-s02-t18">statements</t>
-            <t id="p17-s02-t19">from</t>
-            <t id="p17-s02-t20">scientific</t>
-            <t id="p17-s02-t21">organisations</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p17-s03">
-            <t id="p17-s03-t01">The</t>
-            <t id="p17-s03-t02">most</t>
-            <t id="p17-s03-t03">notable</t>
-            <t id="p17-s03-t04">disputes</t>
-            <t id="p17-s03-t05">concern</t>
-            <t id="p17-s03-t06">the</t>
-            <t id="p17-s03-t07">evolution</t>
-            <t id="p17-s03-t08">of</t>
-            <t id="p17-s03-t09">living</t>
-            <t id="p17-s03-t10">organisms</t>
-            <punc>,</punc>
-            <t id="p17-s03-t11">the</t>
-            <t id="p17-s03-t12">idea</t>
-            <t id="p17-s03-t13">of</t>
-            <t id="p17-s03-t14">common</t>
-            <t id="p17-s03-t15">descent</t>
-            <punc>,</punc>
-            <t id="p17-s03-t16">the</t>
-            <t id="p17-s03-t17">geologic</t>
-            <t id="p17-s03-t18">history</t>
-            <t id="p17-s03-t19">of</t>
-            <t id="p17-s03-t20">the</t>
-            <t id="p17-s03-t21">Earth</t>
-            <punc>,</punc>
-            <t id="p17-s03-t22">the</t>
-            <t id="p17-s03-t23">formation</t>
-            <t id="p17-s03-t24">of</t>
-            <t id="p17-s03-t25">the</t>
-            <t id="p17-s03-t26">solar</t>
-            <t id="p17-s03-t27">system</t>
-            <punc>,</punc>
-            <t id="p17-s03-t28">and</t>
-            <t id="p17-s03-t29">the</t>
-            <t id="p17-s03-t30">origin</t>
-            <t id="p17-s03-t31">of</t>
-            <t id="p17-s03-t32">the</t>
-            <t id="p17-s03-t33">universe</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p17-s04">
-            <t id="p17-s04-t01">Systems</t>
-            <t id="p17-s04-t02">of</t>
-            <t id="p17-s04-t03">belief</t>
-            <t id="p17-s04-t04">that</t>
-            <t id="p17-s04-t05">derive</t>
-            <t id="p17-s04-t06">from</t>
-            <t id="p17-s04-t07">divine</t>
-            <t id="p17-s04-t08">or</t>
-            <t id="p17-s04-t09">inspired</t>
-            <t id="p17-s04-t10">knowledge</t>
-            <t id="p17-s04-t11">are</t>
-            <t id="p17-s04-t12">not</t>
-            <t id="p17-s04-t13">considered</t>
-            <t id="p17-s04-t14">pseudoscience</t>
-            <t id="p17-s04-t15">if</t>
-            <t id="p17-s04-t16">they</t>
-            <t id="p17-s04-t17">do</t>
-            <t id="p17-s04-t18">not</t>
-            <t id="p17-s04-t19">claim</t>
-            <t id="p17-s04-t20">either</t>
-            <t id="p17-s04-t21">to</t>
-            <t id="p17-s04-t22">be</t>
-            <t id="p17-s04-t23">scientific</t>
-            <t id="p17-s04-t24">or</t>
-            <t id="p17-s04-t25">to</t>
-            <t id="p17-s04-t26">overturn</t>
-            <t id="p17-s04-t27">well</t>
-            <punc>-</punc>
-            <t id="p17-s04-t28">established</t>
-            <t id="p17-s04-t29">science</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p17-s05">
-            <t id="p17-s05-t01">Moreover</t>
-            <punc>,</punc>
-            <t id="p17-s05-t02">some</t>
-            <t id="p17-s05-t03">specific</t>
-            <t id="p17-s05-t04">religious</t>
-            <t id="p17-s05-t05">claims</t>
-            <punc>,</punc>
-            <t id="p17-s05-t06">such</t>
-            <t id="p17-s05-t07">as</t>
-            <t id="p17-s05-t08">the</t>
-            <t id="p17-s05-t09">power</t>
-            <t id="p17-s05-t10">of</t>
-            <t id="p17-s05-t11">intercessory</t>
-            <t id="p17-s05-t12">prayer</t>
-            <t id="p17-s05-t13">to</t>
-            <t id="p17-s05-t14">heal</t>
-            <t id="p17-s05-t15">the</t>
-            <t id="p17-s05-t16">sick</t>
-            <t id="p17-s05-t17">can</t>
-            <t id="p17-s05-t18">be</t>
-            <t id="p17-s05-t19">tested</t>
-            <t id="p17-s05-t20">by</t>
-            <t id="p17-s05-t21">the</t>
-            <t id="p17-s05-t22">scientific</t>
-            <t id="p17-s05-t23">method</t>
-            <punc>,</punc>
-            <t id="p17-s05-t24">though</t>
-            <t id="p17-s05-t25">they</t>
-            <t id="p17-s05-t26">may</t>
-            <t id="p17-s05-t27">be</t>
-            <t id="p17-s05-t28">based</t>
-            <t id="p17-s05-t29">on</t>
-            <t id="p17-s05-t30">untestable</t>
-            <t id="p17-s05-t31">beliefs</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p18">
-         <sentence id="p18-s01">
-            <t id="p18-s01-t01">Some</t>
-            <t id="p18-s01-t02">statements</t>
-            <t id="p18-s01-t03">and</t>
-            <t id="p18-s01-t04">commonly</t>
-            <t id="p18-s01-t05">held</t>
-            <t id="p18-s01-t06">beliefs</t>
-            <t id="p18-s01-t07">in</t>
-            <t id="p18-s01-t08">popular</t>
-            <t id="p18-s01-t09">science</t>
-            <t id="p18-s01-t10">may</t>
-            <t id="p18-s01-t11">not</t>
-            <t id="p18-s01-t12">meet</t>
-            <t id="p18-s01-t13">the</t>
-            <t id="p18-s01-t14">criteria</t>
-            <t id="p18-s01-t15">of</t>
-            <t id="p18-s01-t16">science</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p18-s02">
-            <punc>“</punc>
-            <t id="p18-s02-t01">Pop</t>
-            <punc>”</punc>
-            <t id="p18-s02-t02">science</t>
-            <t id="p18-s02-t03">may</t>
-            <t id="p18-s02-t04">blur</t>
-            <t id="p18-s02-t05">the</t>
-            <t id="p18-s02-t06">divide</t>
-            <t id="p18-s02-t07">between</t>
-            <t id="p18-s02-t08">science</t>
-            <t id="p18-s02-t09">and</t>
-            <t id="p18-s02-t10">pseudoscience</t>
-            <t id="p18-s02-t11">among</t>
-            <t id="p18-s02-t12">the</t>
-            <t id="p18-s02-t13">general</t>
-            <t id="p18-s02-t14">public</t>
-            <punc>,</punc>
-            <t id="p18-s02-t15">and</t>
-            <t id="p18-s02-t16">may</t>
-            <t id="p18-s02-t17">also</t>
-            <t id="p18-s02-t18">involve</t>
-            <t id="p18-s02-t19">science</t>
-            <t id="p18-s02-t20">fiction</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p18-s03">
-            <t id="p18-s03-t01">Indeed</t>
-            <punc>,</punc>
-            <t id="p18-s03-t02">pop</t>
-            <t id="p18-s03-t03">science</t>
-            <t id="p18-s03-t04">is</t>
-            <t id="p18-s03-t05">disseminated</t>
-            <t id="p18-s03-t06">to</t>
-            <punc>,</punc>
-            <t id="p18-s03-t07">and</t>
-            <t id="p18-s03-t08">can</t>
-            <t id="p18-s03-t09">also</t>
-            <t id="p18-s03-t10">easily</t>
-            <t id="p18-s03-t11">emanate</t>
-            <t id="p18-s03-t12">from</t>
-            <punc>,</punc>
-            <t id="p18-s03-t13">persons</t>
-            <t id="p18-s03-t14">not</t>
-            <t id="p18-s03-t15">accountable</t>
-            <t id="p18-s03-t16">to</t>
-            <t id="p18-s03-t17">scientific</t>
-            <t id="p18-s03-t18">methodology</t>
-            <t id="p18-s03-t19">and</t>
-            <t id="p18-s03-t20">expert</t>
-            <t id="p18-s03-t21">peer</t>
-            <t id="p18-s03-t22">review</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p19">
-         <sentence id="p19-s01">
-            <t id="p19-s01-t01">If</t>
-            <t id="p19-s01-t02">the</t>
-            <t id="p19-s01-t03">claims</t>
-            <t id="p19-s01-t04">of</t>
-            <t id="p19-s01-t05">a</t>
-            <t id="p19-s01-t06">given</t>
-            <t id="p19-s01-t07">field</t>
-            <t id="p19-s01-t08">can</t>
-            <t id="p19-s01-t09">be</t>
-            <t id="p19-s01-t10">experimentally</t>
-            <t id="p19-s01-t11">tested</t>
-            <t id="p19-s01-t12">and</t>
-            <t id="p19-s01-t13">methodological</t>
-            <t id="p19-s01-t14">standards</t>
-            <t id="p19-s01-t15">are</t>
-            <t id="p19-s01-t16">upheld</t>
-            <punc>,</punc>
-            <t id="p19-s01-t17">it</t>
-            <t id="p19-s01-t18">is</t>
-            <t id="p19-s01-t19">not</t>
-            <punc>“</punc>
-            <t id="p19-s01-t20">pseudoscience</t>
-            <punc>”</punc>
-            <punc>,</punc>
-            <t id="p19-s01-t21">however</t>
-            <t id="p19-s01-t22">odd</t>
-            <punc>,</punc>
-            <t id="p19-s01-t23">astonishing</t>
-            <punc>,</punc>
-            <t id="p19-s01-t24">or</t>
-            <t id="p19-s01-t25">counterintuitive</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p19-s02">
-            <t id="p19-s02-t01">If</t>
-            <t id="p19-s02-t02">claims</t>
-            <t id="p19-s02-t03">made</t>
-            <t id="p19-s02-t04">are</t>
-            <t id="p19-s02-t05">inconsistent</t>
-            <t id="p19-s02-t06">with</t>
-            <t id="p19-s02-t07">existing</t>
-            <t id="p19-s02-t08">experimental</t>
-            <t id="p19-s02-t09">results</t>
-            <t id="p19-s02-t10">or</t>
-            <t id="p19-s02-t11">established</t>
-            <t id="p19-s02-t12">theory</t>
-            <punc>,</punc>
-            <t id="p19-s02-t13">but</t>
-            <t id="p19-s02-t14">the</t>
-            <t id="p19-s02-t15">methodology</t>
-            <t id="p19-s02-t16">is</t>
-            <t id="p19-s02-t17">sound</t>
-            <punc>,</punc>
-            <t id="p19-s02-t18">caution</t>
-            <t id="p19-s02-t19">should</t>
-            <t id="p19-s02-t20">be</t>
-            <t id="p19-s02-t21">used</t>
-            <punc>;</punc>
-            <t id="p19-s02-t22">science</t>
-            <t id="p19-s02-t23">consists</t>
-            <t id="p19-s02-t24">of</t>
-            <t id="p19-s02-t25">testing</t>
-            <t id="p19-s02-t26">hypotheses</t>
-            <t id="p19-s02-t27">which</t>
-            <t id="p19-s02-t28">may</t>
-            <t id="p19-s02-t29">turn</t>
-            <t id="p19-s02-t30">out</t>
-            <t id="p19-s02-t31">to</t>
-            <t id="p19-s02-t32">be</t>
-            <t id="p19-s02-t33">false</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p19-s03">
-            <t id="p19-s03-t01">In</t>
-            <t id="p19-s03-t02">such</t>
-            <t id="p19-s03-t03">a</t>
-            <t id="p19-s03-t04">case</t>
-            <punc>,</punc>
-            <t id="p19-s03-t05">the</t>
-            <t id="p19-s03-t06">work</t>
-            <t id="p19-s03-t07">may</t>
-            <t id="p19-s03-t08">be</t>
-            <t id="p19-s03-t09">better</t>
-            <t id="p19-s03-t10">described</t>
-            <t id="p19-s03-t11">as</t>
-            <t id="p19-s03-t12">ideas</t>
-            <t id="p19-s03-t13">that</t>
-            <t id="p19-s03-t14">are</t>
-            <punc>“</punc>
-            <t id="p19-s03-t15">not</t>
-            <t id="p19-s03-t16">yet</t>
-            <t id="p19-s03-t17">generally</t>
-            <t id="p19-s03-t18">accepted</t>
-            <punc>”</punc>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p19-s04">
-            <t id="p19-s04-t01">Protoscience</t>
-            <t id="p19-s04-t02">is</t>
-            <t id="p19-s04-t03">a</t>
-            <t id="p19-s04-t04">term</t>
-            <t id="p19-s04-t05">sometimes</t>
-            <t id="p19-s04-t06">used</t>
-            <t id="p19-s04-t07">to</t>
-            <t id="p19-s04-t08">describe</t>
-            <t id="p19-s04-t09">a</t>
-            <t id="p19-s04-t10">hypothesis</t>
-            <t id="p19-s04-t11">that</t>
-            <t id="p19-s04-t12">has</t>
-            <t id="p19-s04-t13">not</t>
-            <t id="p19-s04-t14">yet</t>
-            <t id="p19-s04-t15">been</t>
-            <t id="p19-s04-t16">adequately</t>
-            <t id="p19-s04-t17">tested</t>
-            <t id="p19-s04-t18">by</t>
-            <t id="p19-s04-t19">the</t>
-            <t id="p19-s04-t20">scientific</t>
-            <t id="p19-s04-t21">method</t>
-            <punc>,</punc>
-            <t id="p19-s04-t22">but</t>
-            <t id="p19-s04-t23">which</t>
-            <t id="p19-s04-t24">is</t>
-            <t id="p19-s04-t25">otherwise</t>
-            <t id="p19-s04-t26">consistent</t>
-            <t id="p19-s04-t27">with</t>
-            <t id="p19-s04-t28">existing</t>
-            <t id="p19-s04-t29">science</t>
-            <t id="p19-s04-t30">or</t>
-            <t id="p19-s04-t31">which</t>
-            <punc>,</punc>
-            <t id="p19-s04-t32">where</t>
-            <t id="p19-s04-t33">inconsistent</t>
-            <punc>,</punc>
-            <t id="p19-s04-t34">offers</t>
-            <t id="p19-s04-t35">reasonable</t>
-            <t id="p19-s04-t36">account</t>
-            <t id="p19-s04-t37">of</t>
-            <t id="p19-s04-t38">the</t>
-            <t id="p19-s04-t39">inconsistency</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p19-s05">
-            <t id="p19-s05-t01">It</t>
-            <t id="p19-s05-t02">may</t>
-            <t id="p19-s05-t03">also</t>
-            <t id="p19-s05-t04">describe</t>
-            <t id="p19-s05-t05">the</t>
-            <t id="p19-s05-t06">transition</t>
-            <t id="p19-s05-t07">from</t>
-            <t id="p19-s05-t08">a</t>
-            <t id="p19-s05-t09">body</t>
-            <t id="p19-s05-t10">of</t>
-            <t id="p19-s05-t11">practical</t>
-            <t id="p19-s05-t12">knowledge</t>
-            <t id="p19-s05-t13">into</t>
-            <t id="p19-s05-t14">a</t>
-            <t id="p19-s05-t15">scientific</t>
-            <t id="p19-s05-t16">field</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p20">
-         <sentence id="p20-s01">
-            <t id="p20-s01-t01">The</t>
-            <t id="p20-s01-t02">following</t>
-            <t id="p20-s01-t03">are</t>
-            <t id="p20-s01-t04">some</t>
-            <t id="p20-s01-t05">of</t>
-            <t id="p20-s01-t06">the</t>
-            <t id="p20-s01-t07">indicators</t>
-            <t id="p20-s01-t08">of</t>
-            <t id="p20-s01-t09">the</t>
-            <t id="p20-s01-t10">possible</t>
-            <t id="p20-s01-t11">presence</t>
-            <t id="p20-s01-t12">of</t>
-            <t id="p20-s01-t13">pseudoscience</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p21">
-         <sentence id="p21-s01">
-            <t id="p21-s01-t01">Use</t>
-            <t id="p21-s01-t02">of</t>
-            <t id="p21-s01-t03">vague</t>
-            <punc>,</punc>
-            <t id="p21-s01-t04">exaggerated</t>
-            <t id="p21-s01-t05">or</t>
-            <t id="p21-s01-t06">untestable</t>
-            <t id="p21-s01-t07">claims</t>
-         </sentence>
-      </paragraph>
-      <paragraph id="p22">
-         <sentence id="p22-s01">
-            <t id="p22-s01-t01">Lack</t>
-            <t id="p22-s01-t02">of</t>
-            <t id="p22-s01-t03">openness</t>
-            <t id="p22-s01-t04">to</t>
-            <t id="p22-s01-t05">testing</t>
-            <t id="p22-s01-t06">by</t>
-            <t id="p22-s01-t07">other</t>
-            <t id="p22-s01-t08">experts</t>
-         </sentence>
-      </paragraph>
-      <paragraph id="p23">
-         <sentence id="p23-s01">
-            <t id="p23-s01-t01">Absence</t>
-            <t id="p23-s01-t02">of</t>
-            <t id="p23-s01-t03">progress</t>
-         </sentence>
-      </paragraph>
-      <paragraph id="p24">
-         <sentence id="p24-s01">
-            <t id="p24-s01-t01">Personalization</t>
-            <t id="p24-s01-t02">of</t>
-            <t id="p24-s01-t03">issues</t>
-         </sentence>
-      </paragraph>
-      <paragraph id="p25">
-         <sentence id="p25-s01">
-            <t id="p25-s01-t01">Use</t>
-            <t id="p25-s01-t02">of</t>
-            <t id="p25-s01-t03">misleading</t>
-            <t id="p25-s01-t04">language</t>
-         </sentence>
-      </paragraph>
-   </body>
+    <title>Pseudoscience (Extract)</title>
+    <citation>Wikipedia: “Pseudoscience”. Retrieved from http://en.wikipedia.org/wiki/Pseudoscience on 18 Feb 2013.</citation>
+    <url>http://en.wikipedia.org/wiki/Pseudoscience</url>
+    <info type="arise">
+        <arise-info book="1" section="3" unit="4" firstpage="43" lastpage="45"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01">Pseudoscience</t>
+                <t id="p01-s01-t02">is</t>
+                <t id="p01-s01-t03">a</t>
+                <t id="p01-s01-t04">claim</t>
+                <punc>,</punc>
+                <t id="p01-s01-t05">belief</t>
+                <t id="p01-s01-t06">or</t>
+                <t id="p01-s01-t07">practice</t>
+                <t id="p01-s01-t08">which</t>
+                <t id="p01-s01-t09">is</t>
+                <t id="p01-s01-t10">presented</t>
+                <t id="p01-s01-t11">as</t>
+                <t id="p01-s01-t12">scientific</t>
+                <punc>,</punc>
+                <t id="p01-s01-t13">but</t>
+                <t id="p01-s01-t14">does</t>
+                <t id="p01-s01-t15">not</t>
+                <t id="p01-s01-t16">adhere</t>
+                <t id="p01-s01-t17">to</t>
+                <t id="p01-s01-t18">a</t>
+                <t id="p01-s01-t19">valid</t>
+                <t id="p01-s01-t20">scientific</t>
+                <t id="p01-s01-t21">method</t>
+                <punc>,</punc>
+                <t id="p01-s01-t22">lacks</t>
+                <t id="p01-s01-t23">supporting</t>
+                <t id="p01-s01-t24">evidence</t>
+                <t id="p01-s01-t25">or</t>
+                <t id="p01-s01-t26">plausibility</t>
+                <punc>,</punc>
+                <t id="p01-s01-t27">cannot</t>
+                <t id="p01-s01-t28">be</t>
+                <t id="p01-s01-t29">reliably</t>
+                <t id="p01-s01-t30">tested</t>
+                <punc>,</punc>
+                <t id="p01-s01-t31">or</t>
+                <t id="p01-s01-t32">otherwise</t>
+                <t id="p01-s01-t33">lacks</t>
+                <t id="p01-s01-t34">scientific</t>
+                <t id="p01-s01-t35">status</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01">Pseudoscience</t>
+                <t id="p01-s02-t02">is</t>
+                <t id="p01-s02-t03">often</t>
+                <t id="p01-s02-t04">characterized</t>
+                <t id="p01-s02-t05">by</t>
+                <t id="p01-s02-t06">the</t>
+                <t id="p01-s02-t07">use</t>
+                <t id="p01-s02-t08">of</t>
+                <t id="p01-s02-t09">vague</t>
+                <punc>,</punc>
+                <t id="p01-s02-t10">contradictory</t>
+                <punc>,</punc>
+                <t id="p01-s02-t11">exaggerated</t>
+                <t id="p01-s02-t12">or</t>
+                <t id="p01-s02-t13">unprovable</t>
+                <t id="p01-s02-t14">claims</t>
+                <punc>,</punc>
+                <t id="p01-s02-t15">an</t>
+                <t id="p01-s02-t16">over</t>
+                <punc>-</punc>
+                <t id="p01-s02-t17">reliance</t>
+                <t id="p01-s02-t18">on</t>
+                <t id="p01-s02-t19">confirmation</t>
+                <t id="p01-s02-t20">rather</t>
+                <t id="p01-s02-t21">than</t>
+                <t id="p01-s02-t22">rigorous</t>
+                <t id="p01-s02-t23">attempts</t>
+                <t id="p01-s02-t24">at</t>
+                <t id="p01-s02-t25">refutation</t>
+                <punc>,</punc>
+                <t id="p01-s02-t26">a</t>
+                <t id="p01-s02-t27">lack</t>
+                <t id="p01-s02-t28">of</t>
+                <t id="p01-s02-t29">openness</t>
+                <t id="p01-s02-t30">to</t>
+                <t id="p01-s02-t31">evaluation</t>
+                <t id="p01-s02-t32">by</t>
+                <t id="p01-s02-t33">other</t>
+                <t id="p01-s02-t34">experts</t>
+                <punc>,</punc>
+                <t id="p01-s02-t35">and</t>
+                <t id="p01-s02-t36">a</t>
+                <t id="p01-s02-t37">general</t>
+                <t id="p01-s02-t38">absence</t>
+                <t id="p01-s02-t39">of</t>
+                <t id="p01-s02-t40">systematic</t>
+                <t id="p01-s02-t41">processes</t>
+                <t id="p01-s02-t42">to</t>
+                <t id="p01-s02-t43">rationally</t>
+                <t id="p01-s02-t44">develop</t>
+                <t id="p01-s02-t45">theories</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence id="p02-s01">
+                <t id="p02-s01-t01">A</t>
+                <t id="p02-s01-t02">field</t>
+                <punc>,</punc>
+                <t id="p02-s01-t03">practice</t>
+                <punc>,</punc>
+                <t id="p02-s01-t04">or</t>
+                <t id="p02-s01-t05">body</t>
+                <t id="p02-s01-t06">of</t>
+                <t id="p02-s01-t07">knowledge</t>
+                <t id="p02-s01-t08">can</t>
+                <t id="p02-s01-t09">reasonably</t>
+                <t id="p02-s01-t10">be</t>
+                <t id="p02-s01-t11">called</t>
+                <t id="p02-s01-t12">pseudoscientific</t>
+                <t id="p02-s01-t13">when</t>
+                <t id="p02-s01-t14">it</t>
+                <t id="p02-s01-t15">is</t>
+                <t id="p02-s01-t16">presented</t>
+                <t id="p02-s01-t17">as</t>
+                <t id="p02-s01-t18">consistent</t>
+                <t id="p02-s01-t19">with</t>
+                <t id="p02-s01-t20">the</t>
+                <t id="p02-s01-t21">norms</t>
+                <t id="p02-s01-t22">of</t>
+                <t id="p02-s01-t23">scientific</t>
+                <t id="p02-s01-t24">research</t>
+                <punc>,</punc>
+                <t id="p02-s01-t25">but</t>
+                <t id="p02-s01-t26">it</t>
+                <t id="p02-s01-t27">demonstrably</t>
+                <t id="p02-s01-t28">fails</t>
+                <t id="p02-s01-t29">to</t>
+                <t id="p02-s01-t30">meet</t>
+                <t id="p02-s01-t31">these</t>
+                <t id="p02-s01-t32">norms</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s02">
+                <t id="p02-s02-t01">Science</t>
+                <t id="p02-s02-t02">is</t>
+                <t id="p02-s02-t03">also</t>
+                <t id="p02-s02-t04">distinguishable</t>
+                <t id="p02-s02-t05">from</t>
+                <t id="p02-s02-t06">revelation</t>
+                <punc>,</punc>
+                <t id="p02-s02-t07">theology</t>
+                <punc>,</punc>
+                <t id="p02-s02-t08">or</t>
+                <t id="p02-s02-t09">spirituality</t>
+                <t id="p02-s02-t10">in</t>
+                <t id="p02-s02-t11">that</t>
+                <t id="p02-s02-t12">it</t>
+                <t id="p02-s02-t13">offers</t>
+                <t id="p02-s02-t14">insight</t>
+                <t id="p02-s02-t15">into</t>
+                <t id="p02-s02-t16">the</t>
+                <t id="p02-s02-t17">physical</t>
+                <t id="p02-s02-t18">world</t>
+                <t id="p02-s02-t19">obtained</t>
+                <t id="p02-s02-t20">by</t>
+                <t id="p02-s02-t21">empirical</t>
+                <t id="p02-s02-t22">research</t>
+                <t id="p02-s02-t23">and</t>
+                <t id="p02-s02-t24">testing</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s03">
+                <t id="p02-s03-t01">Commonly</t>
+                <t id="p02-s03-t02">held</t>
+                <t id="p02-s03-t03">beliefs</t>
+                <t id="p02-s03-t04">in</t>
+                <t id="p02-s03-t05">popular</t>
+                <t id="p02-s03-t06">science</t>
+                <t id="p02-s03-t07">may</t>
+                <t id="p02-s03-t08">not</t>
+                <t id="p02-s03-t09">meet</t>
+                <t id="p02-s03-t10">the</t>
+                <t id="p02-s03-t11">criteria</t>
+                <t id="p02-s03-t12">of</t>
+                <t id="p02-s03-t13">science</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s04">
+                <punc>“</punc>
+                <t id="p02-s04-t01">Pop</t>
+                <t id="p02-s04-t02">science</t>
+                <punc>”</punc>
+                <t id="p02-s04-t03">may</t>
+                <t id="p02-s04-t04">blur</t>
+                <t id="p02-s04-t05">the</t>
+                <t id="p02-s04-t06">divide</t>
+                <t id="p02-s04-t07">between</t>
+                <t id="p02-s04-t08">science</t>
+                <t id="p02-s04-t09">and</t>
+                <t id="p02-s04-t10">pseudoscience</t>
+                <t id="p02-s04-t11">among</t>
+                <t id="p02-s04-t12">the</t>
+                <t id="p02-s04-t13">general</t>
+                <t id="p02-s04-t14">public</t>
+                <punc>,</punc>
+                <t id="p02-s04-t15">and</t>
+                <t id="p02-s04-t16">may</t>
+                <t id="p02-s04-t17">also</t>
+                <t id="p02-s04-t18">involve</t>
+                <t id="p02-s04-t19">science</t>
+                <t id="p02-s04-t20">fiction</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s05">
+                <t id="p02-s05-t01">Pseudoscientific</t>
+                <t id="p02-s05-t02">beliefs</t>
+                <t id="p02-s05-t03">are</t>
+                <t id="p02-s05-t04">widespread</t>
+                <punc>,</punc>
+                <t id="p02-s05-t05">even</t>
+                <t id="p02-s05-t06">among</t>
+                <t id="p02-s05-t07">public</t>
+                <t id="p02-s05-t08">school</t>
+                <t id="p02-s05-t09">science</t>
+                <t id="p02-s05-t10">teachers</t>
+                <t id="p02-s05-t11">and</t>
+                <t id="p02-s05-t12">newspaper</t>
+                <t id="p02-s05-t13">reporters</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p03">
+            <sentence id="p03-s01">
+                <t id="p03-s01-t01">The</t>
+                <t id="p03-s01-t02">demarcation</t>
+                <t id="p03-s01-t03">problem</t>
+                <t id="p03-s01-t04">between</t>
+                <t id="p03-s01-t05">science</t>
+                <t id="p03-s01-t06">and</t>
+                <t id="p03-s01-t07">pseudoscience</t>
+                <t id="p03-s01-t08">has</t>
+                <t id="p03-s01-t09">ethical</t>
+                <t id="p03-s01-t10">political</t>
+                <t id="p03-s01-t11">implications</t>
+                <punc>,</punc>
+                <t id="p03-s01-t12">as</t>
+                <t id="p03-s01-t13">well</t>
+                <t id="p03-s01-t14">as</t>
+                <t id="p03-s01-t15">philosophical</t>
+                <t id="p03-s01-t16">and</t>
+                <t id="p03-s01-t17">scientific</t>
+                <t id="p03-s01-t18">issues</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s02">
+                <t id="p03-s02-t01">Differentiating</t>
+                <t id="p03-s02-t02">science</t>
+                <t id="p03-s02-t03">from</t>
+                <t id="p03-s02-t04">pseudoscience</t>
+                <t id="p03-s02-t05">has</t>
+                <t id="p03-s02-t06">practical</t>
+                <t id="p03-s02-t07">implications</t>
+                <t id="p03-s02-t08">in</t>
+                <t id="p03-s02-t09">the</t>
+                <t id="p03-s02-t10">case</t>
+                <t id="p03-s02-t11">of</t>
+                <t id="p03-s02-t12">health</t>
+                <t id="p03-s02-t13">care</t>
+                <punc>,</punc>
+                <t id="p03-s02-t14">expert</t>
+                <t id="p03-s02-t15">testimony</t>
+                <punc>,</punc>
+                <t id="p03-s02-t16">environmental</t>
+                <t id="p03-s02-t17">policies</t>
+                <punc>,</punc>
+                <t id="p03-s02-t18">and</t>
+                <t id="p03-s02-t19">science</t>
+                <t id="p03-s02-t20">education</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s03">
+                <t id="p03-s03-t01">Distinguishing</t>
+                <t id="p03-s03-t02">scientific</t>
+                <t id="p03-s03-t03">facts</t>
+                <t id="p03-s03-t04">and</t>
+                <t id="p03-s03-t05">theories</t>
+                <t id="p03-s03-t06">from</t>
+                <t id="p03-s03-t07">pseudoscientific</t>
+                <t id="p03-s03-t08">beliefs</t>
+                <t id="p03-s03-t09">such</t>
+                <t id="p03-s03-t10">as</t>
+                <t id="p03-s03-t11">those</t>
+                <t id="p03-s03-t12">found</t>
+                <t id="p03-s03-t13">in</t>
+                <t id="p03-s03-t14">astrology</t>
+                <punc>,</punc>
+                <t id="p03-s03-t15">medical</t>
+                <t id="p03-s03-t16">quackery</t>
+                <punc>,</punc>
+                <t id="p03-s03-t17">and</t>
+                <t id="p03-s03-t18">occult</t>
+                <t id="p03-s03-t19">beliefs</t>
+                <t id="p03-s03-t20">combined</t>
+                <t id="p03-s03-t21">with</t>
+                <t id="p03-s03-t22">scientific</t>
+                <t id="p03-s03-t23">concepts</t>
+                <punc>,</punc>
+                <t id="p03-s03-t24">is</t>
+                <t id="p03-s03-t25">part</t>
+                <t id="p03-s03-t26">of</t>
+                <t id="p03-s03-t27">science</t>
+                <t id="p03-s03-t28">education</t>
+                <t id="p03-s03-t29">and</t>
+                <t id="p03-s03-t30">scientific</t>
+                <t id="p03-s03-t31">literacy</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p04">
+            <sentence id="p04-s01">
+                <t id="p04-s01-t01">Overview</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p05">
+            <sentence id="p05-s01">
+                <t id="p05-s01-t01">Scientific</t>
+                <t id="p05-s01-t02">methodology</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p06">
+            <sentence id="p06-s01">
+                <t id="p06-s01-t01">While</t>
+                <t id="p06-s01-t02">the</t>
+                <t id="p06-s01-t03">standards</t>
+                <t id="p06-s01-t04">for</t>
+                <t id="p06-s01-t05">determining</t>
+                <t id="p06-s01-t06">whether</t>
+                <t id="p06-s01-t07">a</t>
+                <t id="p06-s01-t08">body</t>
+                <t id="p06-s01-t09">of</t>
+                <t id="p06-s01-t10">knowledge</t>
+                <punc>,</punc>
+                <t id="p06-s01-t11">methodology</t>
+                <punc>,</punc>
+                <t id="p06-s01-t12">or</t>
+                <t id="p06-s01-t13">practice</t>
+                <t id="p06-s01-t14">is</t>
+                <t id="p06-s01-t15">scientific</t>
+                <t id="p06-s01-t16">can</t>
+                <t id="p06-s01-t17">vary</t>
+                <t id="p06-s01-t18">from</t>
+                <t id="p06-s01-t19">field</t>
+                <t id="p06-s01-t20">to</t>
+                <t id="p06-s01-t21">field</t>
+                <punc>,</punc>
+                <t id="p06-s01-t22">a</t>
+                <t id="p06-s01-t23">number</t>
+                <t id="p06-s01-t24">of</t>
+                <t id="p06-s01-t25">basic</t>
+                <t id="p06-s01-t26">principles</t>
+                <t id="p06-s01-t27">are</t>
+                <t id="p06-s01-t28">widely</t>
+                <t id="p06-s01-t29">agreed</t>
+                <t id="p06-s01-t30">upon</t>
+                <t id="p06-s01-t31">by</t>
+                <t id="p06-s01-t32">scientists</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p06-s02">
+                <t id="p06-s02-t01">The</t>
+                <t id="p06-s02-t02">basic</t>
+                <t id="p06-s02-t03">notion</t>
+                <t id="p06-s02-t04">is</t>
+                <t id="p06-s02-t05">that</t>
+                <t id="p06-s02-t06">all</t>
+                <t id="p06-s02-t07">experimental</t>
+                <t id="p06-s02-t08">results</t>
+                <t id="p06-s02-t09">should</t>
+                <t id="p06-s02-t10">be</t>
+                <t id="p06-s02-t11">reproducible</t>
+                <punc>,</punc>
+                <t id="p06-s02-t12">and</t>
+                <t id="p06-s02-t13">able</t>
+                <t id="p06-s02-t14">to</t>
+                <t id="p06-s02-t15">be</t>
+                <t id="p06-s02-t16">verified</t>
+                <t id="p06-s02-t17">by</t>
+                <t id="p06-s02-t18">other</t>
+                <t id="p06-s02-t19">individuals</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p06-s03">
+                <t id="p06-s03-t01">These</t>
+                <t id="p06-s03-t02">principles</t>
+                <t id="p06-s03-t03">aim</t>
+                <t id="p06-s03-t04">to</t>
+                <t id="p06-s03-t05">ensure</t>
+                <t id="p06-s03-t06">experiments</t>
+                <t id="p06-s03-t07">can</t>
+                <t id="p06-s03-t08">be</t>
+                <t id="p06-s03-t09">measurably</t>
+                <t id="p06-s03-t10">reproduced</t>
+                <t id="p06-s03-t11">under</t>
+                <t id="p06-s03-t12">the</t>
+                <t id="p06-s03-t13">same</t>
+                <t id="p06-s03-t14">conditions</t>
+                <punc>,</punc>
+                <t id="p06-s03-t15">allowing</t>
+                <t id="p06-s03-t16">further</t>
+                <t id="p06-s03-t17">investigation</t>
+                <t id="p06-s03-t18">to</t>
+                <t id="p06-s03-t19">determine</t>
+                <t id="p06-s03-t20">whether</t>
+                <t id="p06-s03-t21">a</t>
+                <t id="p06-s03-t22">hypothesis</t>
+                <t id="p06-s03-t23">or</t>
+                <t id="p06-s03-t24">theory</t>
+                <t id="p06-s03-t25">related</t>
+                <t id="p06-s03-t26">to</t>
+                <t id="p06-s03-t27">given</t>
+                <t id="p06-s03-t28">phenomena</t>
+                <t id="p06-s03-t29">is</t>
+                <t id="p06-s03-t30">both</t>
+                <t id="p06-s03-t31">valid</t>
+                <t id="p06-s03-t32">and</t>
+                <t id="p06-s03-t33">reliable</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p06-s04">
+                <t id="p06-s04-t01">Standards</t>
+                <t id="p06-s04-t02">require</t>
+                <t id="p06-s04-t03">the</t>
+                <t id="p06-s04-t04">scientific</t>
+                <t id="p06-s04-t05">method</t>
+                <t id="p06-s04-t06">to</t>
+                <t id="p06-s04-t07">be</t>
+                <t id="p06-s04-t08">applied</t>
+                <t id="p06-s04-t09">throughout</t>
+                <punc>,</punc>
+                <t id="p06-s04-t10">and</t>
+                <t id="p06-s04-t11">bias</t>
+                <t id="p06-s04-t12">will</t>
+                <t id="p06-s04-t13">be</t>
+                <t id="p06-s04-t14">controlled</t>
+                <t id="p06-s04-t15">for</t>
+                <t id="p06-s04-t16">or</t>
+                <t id="p06-s04-t17">eliminated</t>
+                <t id="p06-s04-t18">through</t>
+                <t id="p06-s04-t19">randomization</t>
+                <punc>,</punc>
+                <t id="p06-s04-t20">fair</t>
+                <t id="p06-s04-t21">sampling</t>
+                <t id="p06-s04-t22">procedures</t>
+                <punc>,</punc>
+                <t id="p06-s04-t23">blinding</t>
+                <t id="p06-s04-t24">of</t>
+                <t id="p06-s04-t25">studies</t>
+                <punc>,</punc>
+                <t id="p06-s04-t26">and</t>
+                <t id="p06-s04-t27">other</t>
+                <t id="p06-s04-t28">methods</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p06-s05">
+                <t id="p06-s05-t01">All</t>
+                <t id="p06-s05-t02">gathered</t>
+                <t id="p06-s05-t03">data</t>
+                <punc>,</punc>
+                <t id="p06-s05-t04">including</t>
+                <t id="p06-s05-t05">the</t>
+                <t id="p06-s05-t06">experimental</t>
+                <t id="p06-s05-t07">or</t>
+                <t id="p06-s05-t08">environmental</t>
+                <t id="p06-s05-t09">conditions</t>
+                <punc>,</punc>
+                <t id="p06-s05-t10">are</t>
+                <t id="p06-s05-t11">expected</t>
+                <t id="p06-s05-t12">to</t>
+                <t id="p06-s05-t13">be</t>
+                <t id="p06-s05-t14">documented</t>
+                <t id="p06-s05-t15">for</t>
+                <t id="p06-s05-t16">scrutiny</t>
+                <t id="p06-s05-t17">and</t>
+                <t id="p06-s05-t18">made</t>
+                <t id="p06-s05-t19">available</t>
+                <t id="p06-s05-t20">for</t>
+                <t id="p06-s05-t21">peer</t>
+                <t id="p06-s05-t22">review</t>
+                <punc>,</punc>
+                <t id="p06-s05-t23">allowing</t>
+                <t id="p06-s05-t24">further</t>
+                <t id="p06-s05-t25">experiments</t>
+                <t id="p06-s05-t26">or</t>
+                <t id="p06-s05-t27">studies</t>
+                <t id="p06-s05-t28">to</t>
+                <t id="p06-s05-t29">be</t>
+                <t id="p06-s05-t30">conducted</t>
+                <t id="p06-s05-t31">to</t>
+                <t id="p06-s05-t32">confirm</t>
+                <t id="p06-s05-t33">or</t>
+                <t id="p06-s05-t34">falsify</t>
+                <t id="p06-s05-t35">results</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p06-s06">
+                <t id="p06-s06-t01">Statistical</t>
+                <t id="p06-s06-t02">quantification</t>
+                <t id="p06-s06-t03">of</t>
+                <t id="p06-s06-t04">significance</t>
+                <punc>,</punc>
+                <t id="p06-s06-t05">confidence</t>
+                <punc>,</punc>
+                <t id="p06-s06-t06">and</t>
+                <t id="p06-s06-t07">error</t>
+                <t id="p06-s06-t08">are</t>
+                <t id="p06-s06-t09">also</t>
+                <t id="p06-s06-t10">important</t>
+                <t id="p06-s06-t11">tools</t>
+                <t id="p06-s06-t12">for</t>
+                <t id="p06-s06-t13">the</t>
+                <t id="p06-s06-t14">scientific</t>
+                <t id="p06-s06-t15">method</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p07">
+            <sentence id="p07-s01">
+                <t id="p07-s01-t01">Falsifiability</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p08">
+            <sentence id="p08-s01">
+                <t id="p08-s01-t01">In</t>
+                <t id="p08-s01-t02">the</t>
+                <t id="p08-s01-t03">mid</t>
+                <punc>-</punc>
+                <t id="p08-s01-t04">20th</t>
+                <t id="p08-s01-t05">century</t>
+                <punc>,</punc>
+                <t id="p08-s01-t06">Karl</t>
+                <t id="p08-s01-t07">Popper</t>
+                <t id="p08-s01-t08">put</t>
+                <t id="p08-s01-t09">forth</t>
+                <t id="p08-s01-t10">the</t>
+                <t id="p08-s01-t11">criterion</t>
+                <t id="p08-s01-t12">of</t>
+                <t id="p08-s01-t13">falsifiability</t>
+                <t id="p08-s01-t14">to</t>
+                <t id="p08-s01-t15">distinguish</t>
+                <t id="p08-s01-t16">science</t>
+                <t id="p08-s01-t17">from</t>
+                <t id="p08-s01-t18">nonscience</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s02">
+                <t id="p08-s02-t01">Falsifiability</t>
+                <t id="p08-s02-t02">means</t>
+                <t id="p08-s02-t03">a</t>
+                <t id="p08-s02-t04">result</t>
+                <t id="p08-s02-t05">can</t>
+                <t id="p08-s02-t06">be</t>
+                <t id="p08-s02-t07">disproved</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s03">
+                <t id="p08-s03-t01">For</t>
+                <t id="p08-s03-t02">example</t>
+                <punc>,</punc>
+                <t id="p08-s03-t03">a</t>
+                <t id="p08-s03-t04">statement</t>
+                <t id="p08-s03-t05">such</t>
+                <t id="p08-s03-t06">as</t>
+                <punc>“</punc>
+                <t id="p08-s03-t07">God</t>
+                <t id="p08-s03-t08">created</t>
+                <t id="p08-s03-t09">the</t>
+                <t id="p08-s03-t10">universe</t>
+                <punc>”</punc>
+                <t id="p08-s03-t11">may</t>
+                <t id="p08-s03-t12">be</t>
+                <t id="p08-s03-t13">true</t>
+                <t id="p08-s03-t14">or</t>
+                <t id="p08-s03-t15">false</t>
+                <punc>,</punc>
+                <t id="p08-s03-t16">but</t>
+                <t id="p08-s03-t17">no</t>
+                <t id="p08-s03-t18">tests</t>
+                <t id="p08-s03-t19">can</t>
+                <t id="p08-s03-t20">be</t>
+                <t id="p08-s03-t21">devised</t>
+                <t id="p08-s03-t22">that</t>
+                <t id="p08-s03-t23">could</t>
+                <t id="p08-s03-t24">prove</t>
+                <t id="p08-s03-t25">it</t>
+                <t id="p08-s03-t26">either</t>
+                <t id="p08-s03-t27">way</t>
+                <punc>;</punc>
+                <t id="p08-s03-t28">it</t>
+                <t id="p08-s03-t29">simply</t>
+                <t id="p08-s03-t30">lies</t>
+                <t id="p08-s03-t31">outside</t>
+                <t id="p08-s03-t32">the</t>
+                <t id="p08-s03-t33">reach</t>
+                <t id="p08-s03-t34">of</t>
+                <t id="p08-s03-t35">science</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s04">
+                <t id="p08-s04-t01">Popper</t>
+                <t id="p08-s04-t02">used</t>
+                <t id="p08-s04-t03">astrology</t>
+                <t id="p08-s04-t04">and</t>
+                <t id="p08-s04-t05">psychoanalysis</t>
+                <t id="p08-s04-t06">as</t>
+                <t id="p08-s04-t07">examples</t>
+                <t id="p08-s04-t08">of</t>
+                <t id="p08-s04-t09">pseudoscience</t>
+                <t id="p08-s04-t10">and</t>
+                <t id="p08-s04-t11">Einstein's</t>
+                <t id="p08-s04-t12">theory</t>
+                <t id="p08-s04-t13">of</t>
+                <t id="p08-s04-t14">relativity</t>
+                <t id="p08-s04-t15">as</t>
+                <t id="p08-s04-t16">an</t>
+                <t id="p08-s04-t17">example</t>
+                <t id="p08-s04-t18">of</t>
+                <t id="p08-s04-t19">science</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s05">
+                <t id="p08-s05-t01">He</t>
+                <t id="p08-s05-t02">subdivided</t>
+                <t id="p08-s05-t03">nonscience</t>
+                <t id="p08-s05-t04">into</t>
+                <t id="p08-s05-t05">philosophical</t>
+                <punc>,</punc>
+                <t id="p08-s05-t06">mathematical</t>
+                <punc>,</punc>
+                <t id="p08-s05-t07">mythological</t>
+                <punc>,</punc>
+                <t id="p08-s05-t08">religious</t>
+                <t id="p08-s05-t09">and</t>
+                <punc>/</punc>
+                <t id="p08-s05-t10">or</t>
+                <t id="p08-s05-t11">metaphysical</t>
+                <t id="p08-s05-t12">formulations</t>
+                <t id="p08-s05-t13">on</t>
+                <t id="p08-s05-t14">one</t>
+                <t id="p08-s05-t15">hand</t>
+                <punc>,</punc>
+                <t id="p08-s05-t16">and</t>
+                <t id="p08-s05-t17">pseudoscientific</t>
+                <t id="p08-s05-t18">formulations</t>
+                <t id="p08-s05-t19">on</t>
+                <t id="p08-s05-t20">the</t>
+                <t id="p08-s05-t21">other</t>
+                <punc>,</punc>
+                <t id="p08-s05-t22">though</t>
+                <t id="p08-s05-t23">he</t>
+                <t id="p08-s05-t24">did</t>
+                <t id="p08-s05-t25">not</t>
+                <t id="p08-s05-t26">provide</t>
+                <t id="p08-s05-t27">clear</t>
+                <t id="p08-s05-t28">criteria</t>
+                <t id="p08-s05-t29">for</t>
+                <t id="p08-s05-t30">the</t>
+                <t id="p08-s05-t31">differences</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p09">
+            <sentence id="p09-s01">
+                <t id="p09-s01-t01">Merton's</t>
+                <t id="p09-s01-t02">norms</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p10">
+            <sentence id="p10-s01">
+                <t id="p10-s01-t01">In</t>
+                <t id="p10-s01-t02">1942</t>
+                <punc>,</punc>
+                <t id="p10-s01-t03">Robert</t>
+                <t id="p10-s01-t04">K</t>
+                <punc>.</punc>
+                <t id="p10-s01-t05">Merton</t>
+                <t id="p10-s01-t06">identified</t>
+                <t id="p10-s01-t07">a</t>
+                <t id="p10-s01-t08">small</t>
+                <t id="p10-s01-t09">set</t>
+                <t id="p10-s01-t10">of</t>
+                <punc>“</punc>
+                <t id="p10-s01-t11">norms</t>
+                <punc>”</punc>
+                <t id="p10-s01-t12">which</t>
+                <t id="p10-s01-t13">characterized</t>
+                <t id="p10-s01-t14">what</t>
+                <t id="p10-s01-t15">makes</t>
+                <t id="p10-s01-t16">a</t>
+                <punc>“</punc>
+                <t id="p10-s01-t17">real</t>
+                <punc>”</punc>
+                <t id="p10-s01-t18">science</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p10-s02">
+                <t id="p10-s02-t01">If</t>
+                <t id="p10-s02-t02">any</t>
+                <t id="p10-s02-t03">of</t>
+                <t id="p10-s02-t04">the</t>
+                <t id="p10-s02-t05">norms</t>
+                <t id="p10-s02-t06">were</t>
+                <t id="p10-s02-t07">violated</t>
+                <punc>,</punc>
+                <t id="p10-s02-t08">Merton</t>
+                <t id="p10-s02-t09">considered</t>
+                <t id="p10-s02-t10">the</t>
+                <t id="p10-s02-t11">enterprise</t>
+                <t id="p10-s02-t12">to</t>
+                <t id="p10-s02-t13">be</t>
+                <t id="p10-s02-t14">nonscience</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p10-s03">
+                <t id="p10-s03-t01">These</t>
+                <t id="p10-s03-t02">are</t>
+                <t id="p10-s03-t03">not</t>
+                <t id="p10-s03-t04">broadly</t>
+                <t id="p10-s03-t05">accepted</t>
+                <t id="p10-s03-t06">in</t>
+                <t id="p10-s03-t07">the</t>
+                <t id="p10-s03-t08">scientific</t>
+                <t id="p10-s03-t09">community</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p10-s04">
+                <t id="p10-s04-t01">His</t>
+                <t id="p10-s04-t02">norms</t>
+                <t id="p10-s04-t03">were</t>
+                <punc>:</punc>
+                <t id="p10-s04-t04">Originality</t>
+                <punc>:</punc>
+                <t id="p10-s04-t05">The</t>
+                <t id="p10-s04-t06">tests</t>
+                <t id="p10-s04-t07">and</t>
+                <t id="p10-s04-t08">research</t>
+                <t id="p10-s04-t09">done</t>
+                <t id="p10-s04-t10">must</t>
+                <t id="p10-s04-t11">present</t>
+                <t id="p10-s04-t12">something</t>
+                <t id="p10-s04-t13">new</t>
+                <t id="p10-s04-t14">to</t>
+                <t id="p10-s04-t15">the</t>
+                <t id="p10-s04-t16">scientific</t>
+                <t id="p10-s04-t17">community</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p10-s05">
+                <t id="p10-s05-t01">Detachment</t>
+                <punc>:</punc>
+                <t id="p10-s05-t02">The</t>
+                <t id="p10-s05-t03">scientists'</t>
+                <t id="p10-s05-t04">reasons</t>
+                <t id="p10-s05-t05">for</t>
+                <t id="p10-s05-t06">practicing</t>
+                <t id="p10-s05-t07">this</t>
+                <t id="p10-s05-t08">science</t>
+                <t id="p10-s05-t09">must</t>
+                <t id="p10-s05-t10">be</t>
+                <t id="p10-s05-t11">simply</t>
+                <t id="p10-s05-t12">for</t>
+                <t id="p10-s05-t13">the</t>
+                <t id="p10-s05-t14">expansion</t>
+                <t id="p10-s05-t15">of</t>
+                <t id="p10-s05-t16">their</t>
+                <t id="p10-s05-t17">knowledge</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p10-s06">
+                <t id="p10-s06-t01">The</t>
+                <t id="p10-s06-t02">scientists</t>
+                <t id="p10-s06-t03">should</t>
+                <t id="p10-s06-t04">not</t>
+                <t id="p10-s06-t05">have</t>
+                <t id="p10-s06-t06">personal</t>
+                <t id="p10-s06-t07">reasons</t>
+                <t id="p10-s06-t08">to</t>
+                <t id="p10-s06-t09">expect</t>
+                <t id="p10-s06-t10">certain</t>
+                <t id="p10-s06-t11">results</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p10-s07">
+                <t id="p10-s07-t01">Universality</t>
+                <punc>:</punc>
+                <t id="p10-s07-t02">No</t>
+                <t id="p10-s07-t03">person</t>
+                <t id="p10-s07-t04">should</t>
+                <t id="p10-s07-t05">be</t>
+                <t id="p10-s07-t06">able</t>
+                <t id="p10-s07-t07">to</t>
+                <t id="p10-s07-t08">more</t>
+                <t id="p10-s07-t09">easily</t>
+                <t id="p10-s07-t10">obtain</t>
+                <t id="p10-s07-t11">the</t>
+                <t id="p10-s07-t12">information</t>
+                <t id="p10-s07-t13">of</t>
+                <t id="p10-s07-t14">a</t>
+                <t id="p10-s07-t15">test</t>
+                <t id="p10-s07-t16">than</t>
+                <t id="p10-s07-t17">another</t>
+                <t id="p10-s07-t18">person</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p10-s08">
+                <t id="p10-s08-t01">Social</t>
+                <t id="p10-s08-t02">class</t>
+                <punc>,</punc>
+                <t id="p10-s08-t03">religion</t>
+                <punc>,</punc>
+                <t id="p10-s08-t04">ethnicity</t>
+                <punc>,</punc>
+                <t id="p10-s08-t05">or</t>
+                <t id="p10-s08-t06">any</t>
+                <t id="p10-s08-t07">other</t>
+                <t id="p10-s08-t08">personal</t>
+                <t id="p10-s08-t09">factors</t>
+                <t id="p10-s08-t10">should</t>
+                <t id="p10-s08-t11">not</t>
+                <t id="p10-s08-t12">be</t>
+                <t id="p10-s08-t13">factors</t>
+                <t id="p10-s08-t14">in</t>
+                <t id="p10-s08-t15">someone's</t>
+                <t id="p10-s08-t16">ability</t>
+                <t id="p10-s08-t17">to</t>
+                <t id="p10-s08-t18">receive</t>
+                <t id="p10-s08-t19">or</t>
+                <t id="p10-s08-t20">perform</t>
+                <t id="p10-s08-t21">a</t>
+                <t id="p10-s08-t22">type</t>
+                <t id="p10-s08-t23">of</t>
+                <t id="p10-s08-t24">science</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p10-s09">
+                <t id="p10-s09-t01">Skepticism</t>
+                <punc>:</punc>
+                <t id="p10-s09-t02">Scientific</t>
+                <t id="p10-s09-t03">facts</t>
+                <t id="p10-s09-t04">must</t>
+                <t id="p10-s09-t05">not</t>
+                <t id="p10-s09-t06">be</t>
+                <t id="p10-s09-t07">based</t>
+                <t id="p10-s09-t08">on</t>
+                <t id="p10-s09-t09">faith</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p10-s10">
+                <t id="p10-s10-t01">One</t>
+                <t id="p10-s10-t02">should</t>
+                <t id="p10-s10-t03">always</t>
+                <t id="p10-s10-t04">question</t>
+                <t id="p10-s10-t05">every</t>
+                <t id="p10-s10-t06">case</t>
+                <t id="p10-s10-t07">and</t>
+                <t id="p10-s10-t08">argument</t>
+                <t id="p10-s10-t09">and</t>
+                <t id="p10-s10-t10">constantly</t>
+                <t id="p10-s10-t11">check</t>
+                <t id="p10-s10-t12">for</t>
+                <t id="p10-s10-t13">errors</t>
+                <t id="p10-s10-t14">or</t>
+                <t id="p10-s10-t15">invalid</t>
+                <t id="p10-s10-t16">claims</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p10-s11">
+                <t id="p10-s11-t01">Public</t>
+                <t id="p10-s11-t02">accessibility</t>
+                <punc>:</punc>
+                <t id="p10-s11-t03">Any</t>
+                <t id="p10-s11-t04">scientific</t>
+                <t id="p10-s11-t05">knowledge</t>
+                <t id="p10-s11-t06">one</t>
+                <t id="p10-s11-t07">obtains</t>
+                <t id="p10-s11-t08">should</t>
+                <t id="p10-s11-t09">be</t>
+                <t id="p10-s11-t10">made</t>
+                <t id="p10-s11-t11">available</t>
+                <t id="p10-s11-t12">to</t>
+                <t id="p10-s11-t13">everyone</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p10-s12">
+                <t id="p10-s12-t01">The</t>
+                <t id="p10-s12-t02">results</t>
+                <t id="p10-s12-t03">of</t>
+                <t id="p10-s12-t04">any</t>
+                <t id="p10-s12-t05">research</t>
+                <t id="p10-s12-t06">should</t>
+                <t id="p10-s12-t07">be</t>
+                <t id="p10-s12-t08">openly</t>
+                <t id="p10-s12-t09">published</t>
+                <t id="p10-s12-t10">and</t>
+                <t id="p10-s12-t11">shared</t>
+                <t id="p10-s12-t12">with</t>
+                <t id="p10-s12-t13">the</t>
+                <t id="p10-s12-t14">scientific</t>
+                <t id="p10-s12-t15">community</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p11">
+            <sentence id="p11-s01">
+                <t id="p11-s01-t01">Identifying</t>
+                <t id="p11-s01-t02">pseudoscience</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p12">
+            <sentence id="p12-s01">
+                <t id="p12-s01-t01">A</t>
+                <t id="p12-s01-t02">field</t>
+                <punc>,</punc>
+                <t id="p12-s01-t03">practice</t>
+                <punc>,</punc>
+                <t id="p12-s01-t04">or</t>
+                <t id="p12-s01-t05">body</t>
+                <t id="p12-s01-t06">of</t>
+                <t id="p12-s01-t07">knowledge</t>
+                <t id="p12-s01-t08">might</t>
+                <t id="p12-s01-t09">reasonably</t>
+                <t id="p12-s01-t10">be</t>
+                <t id="p12-s01-t11">called</t>
+                <t id="p12-s01-t12">pseudoscientific</t>
+                <t id="p12-s01-t13">when</t>
+                <t id="p12-s01-t14">it</t>
+                <t id="p12-s01-t15">is</t>
+                <t id="p12-s01-t16">presented</t>
+                <t id="p12-s01-t17">as</t>
+                <t id="p12-s01-t18">consistent</t>
+                <t id="p12-s01-t19">with</t>
+                <t id="p12-s01-t20">the</t>
+                <t id="p12-s01-t21">norms</t>
+                <t id="p12-s01-t22">of</t>
+                <t id="p12-s01-t23">scientific</t>
+                <t id="p12-s01-t24">research</t>
+                <punc>,</punc>
+                <t id="p12-s01-t25">but</t>
+                <t id="p12-s01-t26">it</t>
+                <t id="p12-s01-t27">demonstrably</t>
+                <t id="p12-s01-t28">fails</t>
+                <t id="p12-s01-t29">to</t>
+                <t id="p12-s01-t30">meet</t>
+                <t id="p12-s01-t31">these</t>
+                <t id="p12-s01-t32">norms</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p13">
+            <sentence id="p13-s01">
+                <t id="p13-s01-t01">Karl</t>
+                <t id="p13-s01-t02">Popper</t>
+                <t id="p13-s01-t03">stated</t>
+                <t id="p13-s01-t04">it</t>
+                <t id="p13-s01-t05">is</t>
+                <t id="p13-s01-t06">insufficient</t>
+                <t id="p13-s01-t07">to</t>
+                <t id="p13-s01-t08">distinguish</t>
+                <t id="p13-s01-t09">science</t>
+                <t id="p13-s01-t10">from</t>
+                <t id="p13-s01-t11">pseudoscience</t>
+                <punc>,</punc>
+                <t id="p13-s01-t12">or</t>
+                <t id="p13-s01-t13">from</t>
+                <t id="p13-s01-t14">metaphysics</t>
+                <punc>,</punc>
+                <t id="p13-s01-t15">by</t>
+                <t id="p13-s01-t16">the</t>
+                <t id="p13-s01-t17">criterion</t>
+                <t id="p13-s01-t18">of</t>
+                <t id="p13-s01-t19">rigorous</t>
+                <t id="p13-s01-t20">adherence</t>
+                <t id="p13-s01-t21">to</t>
+                <t id="p13-s01-t22">the</t>
+                <t id="p13-s01-t23">empirical</t>
+                <t id="p13-s01-t24">method</t>
+                <punc>,</punc>
+                <t id="p13-s01-t25">which</t>
+                <t id="p13-s01-t26">is</t>
+                <t id="p13-s01-t27">essentially</t>
+                <t id="p13-s01-t28">inductive</t>
+                <punc>,</punc>
+                <t id="p13-s01-t29">based</t>
+                <t id="p13-s01-t30">on</t>
+                <t id="p13-s01-t31">observation</t>
+                <t id="p13-s01-t32">or</t>
+                <t id="p13-s01-t33">experimentation</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p13-s02">
+                <t id="p13-s02-t01">He</t>
+                <t id="p13-s02-t02">proposed</t>
+                <t id="p13-s02-t03">a</t>
+                <t id="p13-s02-t04">method</t>
+                <t id="p13-s02-t05">to</t>
+                <t id="p13-s02-t06">distinguish</t>
+                <t id="p13-s02-t07">between</t>
+                <t id="p13-s02-t08">genuine</t>
+                <t id="p13-s02-t09">empirical</t>
+                <punc>,</punc>
+                <t id="p13-s02-t10">nonempirical</t>
+                <t id="p13-s02-t11">or</t>
+                <t id="p13-s02-t12">even</t>
+                <t id="p13-s02-t13">pseudoempirical</t>
+                <t id="p13-s02-t14">methods</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p13-s03">
+                <t id="p13-s03-t01">The</t>
+                <t id="p13-s03-t02">latter</t>
+                <t id="p13-s03-t03">case</t>
+                <t id="p13-s03-t04">was</t>
+                <t id="p13-s03-t05">exemplified</t>
+                <t id="p13-s03-t06">by</t>
+                <t id="p13-s03-t07">astrology</t>
+                <punc>,</punc>
+                <t id="p13-s03-t08">which</t>
+                <t id="p13-s03-t09">appeals</t>
+                <t id="p13-s03-t10">to</t>
+                <t id="p13-s03-t11">observation</t>
+                <t id="p13-s03-t12">and</t>
+                <t id="p13-s03-t13">experimentation</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p13-s04">
+                <t id="p13-s04-t01">While</t>
+                <t id="p13-s04-t02">it</t>
+                <t id="p13-s04-t03">had</t>
+                <t id="p13-s04-t04">astonishing</t>
+                <t id="p13-s04-t05">empirical</t>
+                <t id="p13-s04-t06">evidence</t>
+                <t id="p13-s04-t07">based</t>
+                <t id="p13-s04-t08">on</t>
+                <t id="p13-s04-t09">observation</t>
+                <punc>,</punc>
+                <t id="p13-s04-t10">on</t>
+                <t id="p13-s04-t11">horoscopes</t>
+                <t id="p13-s04-t12">and</t>
+                <t id="p13-s04-t13">biographies</t>
+                <punc>,</punc>
+                <t id="p13-s04-t14">it</t>
+                <t id="p13-s04-t15">crucially</t>
+                <t id="p13-s04-t16">failed</t>
+                <t id="p13-s04-t17">to</t>
+                <t id="p13-s04-t18">adhere</t>
+                <t id="p13-s04-t19">to</t>
+                <t id="p13-s04-t20">acceptable</t>
+                <t id="p13-s04-t21">scientific</t>
+                <t id="p13-s04-t22">standards</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p13-s05">
+                <t id="p13-s05-t01">Popper</t>
+                <t id="p13-s05-t02">proposed</t>
+                <t id="p13-s05-t03">falsifiability</t>
+                <t id="p13-s05-t04">as</t>
+                <t id="p13-s05-t05">an</t>
+                <t id="p13-s05-t06">important</t>
+                <t id="p13-s05-t07">criterion</t>
+                <t id="p13-s05-t08">in</t>
+                <t id="p13-s05-t09">distinguishing</t>
+                <t id="p13-s05-t10">science</t>
+                <t id="p13-s05-t11">from</t>
+                <t id="p13-s05-t12">pseudoscience</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p14">
+            <sentence id="p14-s01">
+                <t id="p14-s01-t01">To</t>
+                <t id="p14-s01-t02">demonstrate</t>
+                <t id="p14-s01-t03">this</t>
+                <t id="p14-s01-t04">point</t>
+                <punc>,</punc>
+                <t id="p14-s01-t05">Popper</t>
+                <t id="p14-s01-t06">gave</t>
+                <t id="p14-s01-t07">two</t>
+                <t id="p14-s01-t08">cases</t>
+                <t id="p14-s01-t09">of</t>
+                <t id="p14-s01-t10">human</t>
+                <t id="p14-s01-t11">behavior</t>
+                <t id="p14-s01-t12">and</t>
+                <t id="p14-s01-t13">typical</t>
+                <t id="p14-s01-t14">explanations</t>
+                <t id="p14-s01-t15">from</t>
+                <t id="p14-s01-t16">Freud</t>
+                <t id="p14-s01-t17">and</t>
+                <t id="p14-s01-t18">Adler's</t>
+                <t id="p14-s01-t19">theories</t>
+                <punc>:</punc>
+                <punc>“</punc>
+                <t id="p14-s01-t20">that</t>
+                <t id="p14-s01-t21">of</t>
+                <t id="p14-s01-t22">a</t>
+                <t id="p14-s01-t23">man</t>
+                <t id="p14-s01-t24">who</t>
+                <t id="p14-s01-t25">pushes</t>
+                <t id="p14-s01-t26">a</t>
+                <t id="p14-s01-t27">child</t>
+                <t id="p14-s01-t28">into</t>
+                <t id="p14-s01-t29">the</t>
+                <t id="p14-s01-t30">water</t>
+                <t id="p14-s01-t31">with</t>
+                <t id="p14-s01-t32">the</t>
+                <t id="p14-s01-t33">intention</t>
+                <t id="p14-s01-t34">of</t>
+                <t id="p14-s01-t35">drowning</t>
+                <t id="p14-s01-t36">it</t>
+                <punc>;</punc>
+                <t id="p14-s01-t37">and</t>
+                <t id="p14-s01-t38">that</t>
+                <t id="p14-s01-t39">of</t>
+                <t id="p14-s01-t40">a</t>
+                <t id="p14-s01-t41">man</t>
+                <t id="p14-s01-t42">who</t>
+                <t id="p14-s01-t43">sacrifices</t>
+                <t id="p14-s01-t44">his</t>
+                <t id="p14-s01-t45">life</t>
+                <t id="p14-s01-t46">in</t>
+                <t id="p14-s01-t47">an</t>
+                <t id="p14-s01-t48">attempt</t>
+                <t id="p14-s01-t49">to</t>
+                <t id="p14-s01-t50">save</t>
+                <t id="p14-s01-t51">the</t>
+                <t id="p14-s01-t52">child</t>
+                <punc>.</punc>
+                <punc>”</punc>
+            </sentence>
+            <sentence id="p14-s02">
+                <t id="p14-s02-t01">From</t>
+                <t id="p14-s02-t02">Freud's</t>
+                <t id="p14-s02-t03">perspective</t>
+                <punc>,</punc>
+                <t id="p14-s02-t04">the</t>
+                <t id="p14-s02-t05">first</t>
+                <t id="p14-s02-t06">man</t>
+                <t id="p14-s02-t07">would</t>
+                <t id="p14-s02-t08">have</t>
+                <t id="p14-s02-t09">suffered</t>
+                <t id="p14-s02-t10">from</t>
+                <t id="p14-s02-t11">psychological</t>
+                <t id="p14-s02-t12">repression</t>
+                <punc>,</punc>
+                <t id="p14-s02-t13">probably</t>
+                <t id="p14-s02-t14">originating</t>
+                <t id="p14-s02-t15">from</t>
+                <t id="p14-s02-t16">an</t>
+                <t id="p14-s02-t17">Oedipus</t>
+                <t id="p14-s02-t18">complex</t>
+                <punc>,</punc>
+                <t id="p14-s02-t19">whereas</t>
+                <t id="p14-s02-t20">the</t>
+                <t id="p14-s02-t21">second</t>
+                <t id="p14-s02-t22">had</t>
+                <t id="p14-s02-t23">attained</t>
+                <t id="p14-s02-t24">sublimation</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p14-s03">
+                <t id="p14-s03-t01">From</t>
+                <t id="p14-s03-t02">Adler's</t>
+                <t id="p14-s03-t03">perspective</t>
+                <punc>,</punc>
+                <t id="p14-s03-t04">the</t>
+                <t id="p14-s03-t05">first</t>
+                <t id="p14-s03-t06">and</t>
+                <t id="p14-s03-t07">second</t>
+                <t id="p14-s03-t08">man</t>
+                <t id="p14-s03-t09">suffered</t>
+                <t id="p14-s03-t10">from</t>
+                <t id="p14-s03-t11">feelings</t>
+                <t id="p14-s03-t12">of</t>
+                <t id="p14-s03-t13">inferiority</t>
+                <t id="p14-s03-t14">and</t>
+                <t id="p14-s03-t15">had</t>
+                <t id="p14-s03-t16">to</t>
+                <t id="p14-s03-t17">prove</t>
+                <t id="p14-s03-t18">himself</t>
+                <t id="p14-s03-t19">which</t>
+                <t id="p14-s03-t20">drove</t>
+                <t id="p14-s03-t21">him</t>
+                <t id="p14-s03-t22">to</t>
+                <t id="p14-s03-t23">commit</t>
+                <t id="p14-s03-t24">the</t>
+                <t id="p14-s03-t25">crime</t>
+                <t id="p14-s03-t26">or</t>
+                <punc>,</punc>
+                <t id="p14-s03-t27">in</t>
+                <t id="p14-s03-t28">the</t>
+                <t id="p14-s03-t29">second</t>
+                <t id="p14-s03-t30">case</t>
+                <punc>,</punc>
+                <t id="p14-s03-t31">rescue</t>
+                <t id="p14-s03-t32">the</t>
+                <t id="p14-s03-t33">child</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p14-s04">
+                <t id="p14-s04-t01">Popper</t>
+                <t id="p14-s04-t02">was</t>
+                <t id="p14-s04-t03">not</t>
+                <t id="p14-s04-t04">able</t>
+                <t id="p14-s04-t05">to</t>
+                <t id="p14-s04-t06">find</t>
+                <t id="p14-s04-t07">any</t>
+                <t id="p14-s04-t08">counterexamples</t>
+                <t id="p14-s04-t09">of</t>
+                <t id="p14-s04-t10">human</t>
+                <t id="p14-s04-t11">behavior</t>
+                <t id="p14-s04-t12">in</t>
+                <t id="p14-s04-t13">which</t>
+                <t id="p14-s04-t14">the</t>
+                <t id="p14-s04-t15">behavior</t>
+                <t id="p14-s04-t16">could</t>
+                <t id="p14-s04-t17">not</t>
+                <t id="p14-s04-t18">be</t>
+                <t id="p14-s04-t19">explained</t>
+                <t id="p14-s04-t20">in</t>
+                <t id="p14-s04-t21">the</t>
+                <t id="p14-s04-t22">terms</t>
+                <t id="p14-s04-t23">of</t>
+                <t id="p14-s04-t24">Adler's</t>
+                <t id="p14-s04-t25">or</t>
+                <t id="p14-s04-t26">Freud's</t>
+                <t id="p14-s04-t27">theory</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p14-s05">
+                <t id="p14-s05-t01">Popper</t>
+                <t id="p14-s05-t02">argued</t>
+                <t id="p14-s05-t03">it</t>
+                <t id="p14-s05-t04">was</t>
+                <t id="p14-s05-t05">that</t>
+                <t id="p14-s05-t06">the</t>
+                <t id="p14-s05-t07">observation</t>
+                <t id="p14-s05-t08">always</t>
+                <t id="p14-s05-t09">fitted</t>
+                <t id="p14-s05-t10">or</t>
+                <t id="p14-s05-t11">confirmed</t>
+                <t id="p14-s05-t12">the</t>
+                <t id="p14-s05-t13">theory</t>
+                <t id="p14-s05-t14">which</t>
+                <punc>,</punc>
+                <t id="p14-s05-t15">rather</t>
+                <t id="p14-s05-t16">than</t>
+                <t id="p14-s05-t17">being</t>
+                <t id="p14-s05-t18">its</t>
+                <t id="p14-s05-t19">strength</t>
+                <punc>,</punc>
+                <t id="p14-s05-t20">was</t>
+                <t id="p14-s05-t21">actually</t>
+                <t id="p14-s05-t22">its</t>
+                <t id="p14-s05-t23">weakness</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p15">
+            <sentence id="p15-s01">
+                <t id="p15-s01-t01">In</t>
+                <t id="p15-s01-t02">contrast</t>
+                <punc>,</punc>
+                <t id="p15-s01-t03">Popper</t>
+                <t id="p15-s01-t04">gave</t>
+                <t id="p15-s01-t05">the</t>
+                <t id="p15-s01-t06">example</t>
+                <t id="p15-s01-t07">of</t>
+                <t id="p15-s01-t08">Einstein's</t>
+                <t id="p15-s01-t09">gravitational</t>
+                <t id="p15-s01-t10">theory</t>
+                <punc>,</punc>
+                <t id="p15-s01-t11">which</t>
+                <t id="p15-s01-t12">predicted</t>
+                <punc>“</punc>
+                <t id="p15-s01-t13">light</t>
+                <t id="p15-s01-t14">must</t>
+                <t id="p15-s01-t15">be</t>
+                <t id="p15-s01-t16">attracted</t>
+                <t id="p15-s01-t17">by</t>
+                <t id="p15-s01-t18">heavy</t>
+                <t id="p15-s01-t19">bodies</t>
+                <punc>(</punc>
+                <t id="p15-s01-t20">such</t>
+                <t id="p15-s01-t21">as</t>
+                <t id="p15-s01-t22">the</t>
+                <t id="p15-s01-t23">sun</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p15-s01-t24">precisely</t>
+                <t id="p15-s01-t25">as</t>
+                <t id="p15-s01-t26">material</t>
+                <t id="p15-s01-t27">bodies</t>
+                <t id="p15-s01-t28">were</t>
+                <t id="p15-s01-t29">attracted</t>
+                <punc>.</punc>
+                <punc>”</punc>
+            </sentence>
+            <sentence id="p15-s02">
+                <t id="p15-s02-t01">Following</t>
+                <t id="p15-s02-t02">from</t>
+                <t id="p15-s02-t03">this</t>
+                <punc>,</punc>
+                <t id="p15-s02-t04">stars</t>
+                <t id="p15-s02-t05">closer</t>
+                <t id="p15-s02-t06">to</t>
+                <t id="p15-s02-t07">the</t>
+                <t id="p15-s02-t08">sun</t>
+                <t id="p15-s02-t09">would</t>
+                <t id="p15-s02-t10">appear</t>
+                <t id="p15-s02-t11">to</t>
+                <t id="p15-s02-t12">have</t>
+                <t id="p15-s02-t13">moved</t>
+                <t id="p15-s02-t14">a</t>
+                <t id="p15-s02-t15">small</t>
+                <t id="p15-s02-t16">distance</t>
+                <t id="p15-s02-t17">away</t>
+                <t id="p15-s02-t18">from</t>
+                <t id="p15-s02-t19">the</t>
+                <t id="p15-s02-t20">sun</t>
+                <punc>,</punc>
+                <t id="p15-s02-t21">and</t>
+                <t id="p15-s02-t22">away</t>
+                <t id="p15-s02-t23">from</t>
+                <t id="p15-s02-t24">each</t>
+                <t id="p15-s02-t25">other</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p15-s03">
+                <t id="p15-s03-t01">This</t>
+                <t id="p15-s03-t02">prediction</t>
+                <t id="p15-s03-t03">was</t>
+                <t id="p15-s03-t04">particularly</t>
+                <t id="p15-s03-t05">striking</t>
+                <t id="p15-s03-t06">to</t>
+                <t id="p15-s03-t07">Popper</t>
+                <t id="p15-s03-t08">because</t>
+                <t id="p15-s03-t09">it</t>
+                <t id="p15-s03-t10">involved</t>
+                <t id="p15-s03-t11">considerable</t>
+                <t id="p15-s03-t12">risk</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p15-s04">
+                <t id="p15-s04-t01">The</t>
+                <t id="p15-s04-t02">brightness</t>
+                <t id="p15-s04-t03">of</t>
+                <t id="p15-s04-t04">the</t>
+                <t id="p15-s04-t05">sun</t>
+                <t id="p15-s04-t06">prevented</t>
+                <t id="p15-s04-t07">this</t>
+                <t id="p15-s04-t08">effect</t>
+                <t id="p15-s04-t09">from</t>
+                <t id="p15-s04-t10">being</t>
+                <t id="p15-s04-t11">observed</t>
+                <t id="p15-s04-t12">under</t>
+                <t id="p15-s04-t13">normal</t>
+                <t id="p15-s04-t14">circumstances</t>
+                <punc>,</punc>
+                <t id="p15-s04-t15">so</t>
+                <t id="p15-s04-t16">photographs</t>
+                <t id="p15-s04-t17">had</t>
+                <t id="p15-s04-t18">to</t>
+                <t id="p15-s04-t19">be</t>
+                <t id="p15-s04-t20">taken</t>
+                <t id="p15-s04-t21">during</t>
+                <t id="p15-s04-t22">an</t>
+                <t id="p15-s04-t23">eclipse</t>
+                <t id="p15-s04-t24">and</t>
+                <t id="p15-s04-t25">compared</t>
+                <t id="p15-s04-t26">to</t>
+                <t id="p15-s04-t27">photographs</t>
+                <t id="p15-s04-t28">taken</t>
+                <t id="p15-s04-t29">at</t>
+                <t id="p15-s04-t30">night</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p15-s05">
+                <t id="p15-s05-t01">Popper</t>
+                <t id="p15-s05-t02">states</t>
+                <punc>,</punc>
+                <punc>“</punc>
+                <t id="p15-s05-t03">If</t>
+                <t id="p15-s05-t04">observation</t>
+                <t id="p15-s05-t05">shows</t>
+                <t id="p15-s05-t06">that</t>
+                <t id="p15-s05-t07">the</t>
+                <t id="p15-s05-t08">predicted</t>
+                <t id="p15-s05-t09">effect</t>
+                <t id="p15-s05-t10">is</t>
+                <t id="p15-s05-t11">definitely</t>
+                <t id="p15-s05-t12">absent</t>
+                <punc>,</punc>
+                <t id="p15-s05-t13">then</t>
+                <t id="p15-s05-t14">the</t>
+                <t id="p15-s05-t15">theory</t>
+                <t id="p15-s05-t16">is</t>
+                <t id="p15-s05-t17">simply</t>
+                <t id="p15-s05-t18">refuted</t>
+                <punc>.</punc>
+                <punc>”</punc>
+            </sentence>
+            <sentence id="p15-s06">
+                <t id="p15-s06-t01">Popper</t>
+                <t id="p15-s06-t02">summed</t>
+                <t id="p15-s06-t03">up</t>
+                <t id="p15-s06-t04">his</t>
+                <t id="p15-s06-t05">criterion</t>
+                <t id="p15-s06-t06">for</t>
+                <t id="p15-s06-t07">the</t>
+                <t id="p15-s06-t08">scientific</t>
+                <t id="p15-s06-t09">status</t>
+                <t id="p15-s06-t10">of</t>
+                <t id="p15-s06-t11">a</t>
+                <t id="p15-s06-t12">theory</t>
+                <t id="p15-s06-t13">as</t>
+                <t id="p15-s06-t14">depending</t>
+                <t id="p15-s06-t15">on</t>
+                <t id="p15-s06-t16">its</t>
+                <t id="p15-s06-t17">falsifiability</t>
+                <punc>,</punc>
+                <t id="p15-s06-t18">refutability</t>
+                <punc>,</punc>
+                <t id="p15-s06-t19">or</t>
+                <t id="p15-s06-t20">testability</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p16">
+            <sentence id="p16-s01">
+                <t id="p16-s01-t01">Paul</t>
+                <t id="p16-s01-t02">R</t>
+                <punc>.</punc>
+                <t id="p16-s01-t03">Thagard</t>
+                <t id="p16-s01-t04">used</t>
+                <t id="p16-s01-t05">astrology</t>
+                <t id="p16-s01-t06">as</t>
+                <t id="p16-s01-t07">a</t>
+                <t id="p16-s01-t08">case</t>
+                <t id="p16-s01-t09">study</t>
+                <t id="p16-s01-t10">to</t>
+                <t id="p16-s01-t11">distinguish</t>
+                <t id="p16-s01-t12">science</t>
+                <t id="p16-s01-t13">from</t>
+                <t id="p16-s01-t14">pseudoscience</t>
+                <t id="p16-s01-t15">and</t>
+                <t id="p16-s01-t16">proposed</t>
+                <t id="p16-s01-t17">principles</t>
+                <t id="p16-s01-t18">and</t>
+                <t id="p16-s01-t19">criteria</t>
+                <t id="p16-s01-t20">to</t>
+                <t id="p16-s01-t21">delineate</t>
+                <t id="p16-s01-t22">them</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p16-s02">
+                <t id="p16-s02-t01">First</t>
+                <punc>,</punc>
+                <t id="p16-s02-t02">astrology</t>
+                <t id="p16-s02-t03">has</t>
+                <t id="p16-s02-t04">not</t>
+                <t id="p16-s02-t05">progressed</t>
+                <t id="p16-s02-t06">in</t>
+                <t id="p16-s02-t07">that</t>
+                <t id="p16-s02-t08">it</t>
+                <t id="p16-s02-t09">has</t>
+                <t id="p16-s02-t10">not</t>
+                <t id="p16-s02-t11">been</t>
+                <t id="p16-s02-t12">updated</t>
+                <t id="p16-s02-t13">nor</t>
+                <t id="p16-s02-t14">added</t>
+                <t id="p16-s02-t15">any</t>
+                <t id="p16-s02-t16">explanatory</t>
+                <t id="p16-s02-t17">power</t>
+                <t id="p16-s02-t18">since</t>
+                <t id="p16-s02-t19">Ptolemy</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p16-s03">
+                <t id="p16-s03-t01">Second</t>
+                <punc>,</punc>
+                <t id="p16-s03-t02">it</t>
+                <t id="p16-s03-t03">has</t>
+                <t id="p16-s03-t04">ignored</t>
+                <t id="p16-s03-t05">outstanding</t>
+                <t id="p16-s03-t06">problems</t>
+                <t id="p16-s03-t07">such</t>
+                <t id="p16-s03-t08">as</t>
+                <t id="p16-s03-t09">the</t>
+                <t id="p16-s03-t10">precession</t>
+                <t id="p16-s03-t11">of</t>
+                <t id="p16-s03-t12">equinoxes</t>
+                <t id="p16-s03-t13">in</t>
+                <t id="p16-s03-t14">astronomy</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p16-s04">
+                <t id="p16-s04-t01">Third</t>
+                <punc>,</punc>
+                <t id="p16-s04-t02">alternative</t>
+                <t id="p16-s04-t03">theories</t>
+                <t id="p16-s04-t04">of</t>
+                <t id="p16-s04-t05">personality</t>
+                <t id="p16-s04-t06">and</t>
+                <t id="p16-s04-t07">behavior</t>
+                <t id="p16-s04-t08">have</t>
+                <t id="p16-s04-t09">grown</t>
+                <t id="p16-s04-t10">progressively</t>
+                <t id="p16-s04-t11">to</t>
+                <t id="p16-s04-t12">encompass</t>
+                <t id="p16-s04-t13">explanations</t>
+                <t id="p16-s04-t14">of</t>
+                <t id="p16-s04-t15">phenomena</t>
+                <t id="p16-s04-t16">which</t>
+                <t id="p16-s04-t17">astrology</t>
+                <t id="p16-s04-t18">statically</t>
+                <t id="p16-s04-t19">attributes</t>
+                <t id="p16-s04-t20">to</t>
+                <t id="p16-s04-t21">heavenly</t>
+                <t id="p16-s04-t22">forces</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p16-s05">
+                <t id="p16-s05-t01">Fourth</t>
+                <punc>,</punc>
+                <t id="p16-s05-t02">astrologers</t>
+                <t id="p16-s05-t03">have</t>
+                <t id="p16-s05-t04">remained</t>
+                <t id="p16-s05-t05">uninterested</t>
+                <t id="p16-s05-t06">in</t>
+                <t id="p16-s05-t07">furthering</t>
+                <t id="p16-s05-t08">the</t>
+                <t id="p16-s05-t09">theory</t>
+                <t id="p16-s05-t10">to</t>
+                <t id="p16-s05-t11">deal</t>
+                <t id="p16-s05-t12">with</t>
+                <t id="p16-s05-t13">outstanding</t>
+                <t id="p16-s05-t14">problems</t>
+                <t id="p16-s05-t15">or</t>
+                <t id="p16-s05-t16">in</t>
+                <t id="p16-s05-t17">critically</t>
+                <t id="p16-s05-t18">evaluating</t>
+                <t id="p16-s05-t19">the</t>
+                <t id="p16-s05-t20">theory</t>
+                <t id="p16-s05-t21">in</t>
+                <t id="p16-s05-t22">relation</t>
+                <t id="p16-s05-t23">to</t>
+                <t id="p16-s05-t24">other</t>
+                <t id="p16-s05-t25">theories</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p16-s06">
+                <t id="p16-s06-t01">Thagard</t>
+                <t id="p16-s06-t02">intended</t>
+                <t id="p16-s06-t03">this</t>
+                <t id="p16-s06-t04">criterion</t>
+                <t id="p16-s06-t05">to</t>
+                <t id="p16-s06-t06">be</t>
+                <t id="p16-s06-t07">extended</t>
+                <t id="p16-s06-t08">to</t>
+                <t id="p16-s06-t09">areas</t>
+                <t id="p16-s06-t10">other</t>
+                <t id="p16-s06-t11">than</t>
+                <t id="p16-s06-t12">astrology</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p16-s07">
+                <t id="p16-s07-t01">He</t>
+                <t id="p16-s07-t02">believed</t>
+                <t id="p16-s07-t03">it</t>
+                <t id="p16-s07-t04">would</t>
+                <t id="p16-s07-t05">delineate</t>
+                <t id="p16-s07-t06">as</t>
+                <t id="p16-s07-t07">pseudoscientific</t>
+                <t id="p16-s07-t08">such</t>
+                <t id="p16-s07-t09">practices</t>
+                <t id="p16-s07-t10">as</t>
+                <t id="p16-s07-t11">witchcraft</t>
+                <t id="p16-s07-t12">and</t>
+                <t id="p16-s07-t13">pyramidology</t>
+                <punc>,</punc>
+                <t id="p16-s07-t14">while</t>
+                <t id="p16-s07-t15">leaving</t>
+                <t id="p16-s07-t16">physics</t>
+                <punc>,</punc>
+                <t id="p16-s07-t17">chemistry</t>
+                <t id="p16-s07-t18">and</t>
+                <t id="p16-s07-t19">biology</t>
+                <t id="p16-s07-t20">in</t>
+                <t id="p16-s07-t21">the</t>
+                <t id="p16-s07-t22">realm</t>
+                <t id="p16-s07-t23">of</t>
+                <t id="p16-s07-t24">science</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p16-s08">
+                <t id="p16-s08-t01">Biorhythms</t>
+                <punc>,</punc>
+                <t id="p16-s08-t02">which</t>
+                <t id="p16-s08-t03">like</t>
+                <t id="p16-s08-t04">astrology</t>
+                <t id="p16-s08-t05">relied</t>
+                <t id="p16-s08-t06">uncritically</t>
+                <t id="p16-s08-t07">on</t>
+                <t id="p16-s08-t08">birth</t>
+                <t id="p16-s08-t09">dates</t>
+                <punc>,</punc>
+                <t id="p16-s08-t10">did</t>
+                <t id="p16-s08-t11">not</t>
+                <t id="p16-s08-t12">meet</t>
+                <t id="p16-s08-t13">the</t>
+                <t id="p16-s08-t14">criterion</t>
+                <t id="p16-s08-t15">of</t>
+                <t id="p16-s08-t16">pseudoscience</t>
+                <t id="p16-s08-t17">at</t>
+                <t id="p16-s08-t18">the</t>
+                <t id="p16-s08-t19">time</t>
+                <t id="p16-s08-t20">because</t>
+                <t id="p16-s08-t21">there</t>
+                <t id="p16-s08-t22">were</t>
+                <t id="p16-s08-t23">no</t>
+                <t id="p16-s08-t24">alternative</t>
+                <t id="p16-s08-t25">explanations</t>
+                <t id="p16-s08-t26">for</t>
+                <t id="p16-s08-t27">the</t>
+                <t id="p16-s08-t28">same</t>
+                <t id="p16-s08-t29">observations</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p16-s09">
+                <t id="p16-s09-t01">The</t>
+                <t id="p16-s09-t02">use</t>
+                <t id="p16-s09-t03">of</t>
+                <t id="p16-s09-t04">this</t>
+                <t id="p16-s09-t05">criterion</t>
+                <t id="p16-s09-t06">has</t>
+                <t id="p16-s09-t07">the</t>
+                <t id="p16-s09-t08">consequence</t>
+                <t id="p16-s09-t09">that</t>
+                <t id="p16-s09-t10">a</t>
+                <t id="p16-s09-t11">theory</t>
+                <t id="p16-s09-t12">can</t>
+                <t id="p16-s09-t13">at</t>
+                <t id="p16-s09-t14">one</t>
+                <t id="p16-s09-t15">time</t>
+                <t id="p16-s09-t16">be</t>
+                <t id="p16-s09-t17">scientific</t>
+                <t id="p16-s09-t18">and</t>
+                <t id="p16-s09-t19">at</t>
+                <t id="p16-s09-t20">another</t>
+                <t id="p16-s09-t21">pseudoscientific</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p17">
+            <sentence id="p17-s01">
+                <t id="p17-s01-t01">Science</t>
+                <t id="p17-s01-t02">is</t>
+                <t id="p17-s01-t03">also</t>
+                <t id="p17-s01-t04">distinguishable</t>
+                <t id="p17-s01-t05">from</t>
+                <t id="p17-s01-t06">revelation</t>
+                <punc>,</punc>
+                <t id="p17-s01-t07">theology</t>
+                <punc>,</punc>
+                <t id="p17-s01-t08">or</t>
+                <t id="p17-s01-t09">spirituality</t>
+                <t id="p17-s01-t10">in</t>
+                <t id="p17-s01-t11">that</t>
+                <t id="p17-s01-t12">it</t>
+                <t id="p17-s01-t13">offers</t>
+                <t id="p17-s01-t14">insight</t>
+                <t id="p17-s01-t15">into</t>
+                <t id="p17-s01-t16">the</t>
+                <t id="p17-s01-t17">physical</t>
+                <t id="p17-s01-t18">world</t>
+                <t id="p17-s01-t19">obtained</t>
+                <t id="p17-s01-t20">by</t>
+                <t id="p17-s01-t21">empirical</t>
+                <t id="p17-s01-t22">research</t>
+                <t id="p17-s01-t23">and</t>
+                <t id="p17-s01-t24">testing</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p17-s02">
+                <t id="p17-s02-t01">For</t>
+                <t id="p17-s02-t02">this</t>
+                <t id="p17-s02-t03">reason</t>
+                <punc>,</punc>
+                <t id="p17-s02-t04">the</t>
+                <t id="p17-s02-t05">teaching</t>
+                <t id="p17-s02-t06">of</t>
+                <t id="p17-s02-t07">creation</t>
+                <t id="p17-s02-t08">science</t>
+                <t id="p17-s02-t09">and</t>
+                <t id="p17-s02-t10">intelligent</t>
+                <t id="p17-s02-t11">design</t>
+                <t id="p17-s02-t12">has</t>
+                <t id="p17-s02-t13">been</t>
+                <t id="p17-s02-t14">strongly</t>
+                <t id="p17-s02-t15">condemned</t>
+                <t id="p17-s02-t16">in</t>
+                <t id="p17-s02-t17">position</t>
+                <t id="p17-s02-t18">statements</t>
+                <t id="p17-s02-t19">from</t>
+                <t id="p17-s02-t20">scientific</t>
+                <t id="p17-s02-t21">organisations</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p17-s03">
+                <t id="p17-s03-t01">The</t>
+                <t id="p17-s03-t02">most</t>
+                <t id="p17-s03-t03">notable</t>
+                <t id="p17-s03-t04">disputes</t>
+                <t id="p17-s03-t05">concern</t>
+                <t id="p17-s03-t06">the</t>
+                <t id="p17-s03-t07">evolution</t>
+                <t id="p17-s03-t08">of</t>
+                <t id="p17-s03-t09">living</t>
+                <t id="p17-s03-t10">organisms</t>
+                <punc>,</punc>
+                <t id="p17-s03-t11">the</t>
+                <t id="p17-s03-t12">idea</t>
+                <t id="p17-s03-t13">of</t>
+                <t id="p17-s03-t14">common</t>
+                <t id="p17-s03-t15">descent</t>
+                <punc>,</punc>
+                <t id="p17-s03-t16">the</t>
+                <t id="p17-s03-t17">geologic</t>
+                <t id="p17-s03-t18">history</t>
+                <t id="p17-s03-t19">of</t>
+                <t id="p17-s03-t20">the</t>
+                <t id="p17-s03-t21">Earth</t>
+                <punc>,</punc>
+                <t id="p17-s03-t22">the</t>
+                <t id="p17-s03-t23">formation</t>
+                <t id="p17-s03-t24">of</t>
+                <t id="p17-s03-t25">the</t>
+                <t id="p17-s03-t26">solar</t>
+                <t id="p17-s03-t27">system</t>
+                <punc>,</punc>
+                <t id="p17-s03-t28">and</t>
+                <t id="p17-s03-t29">the</t>
+                <t id="p17-s03-t30">origin</t>
+                <t id="p17-s03-t31">of</t>
+                <t id="p17-s03-t32">the</t>
+                <t id="p17-s03-t33">universe</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p17-s04">
+                <t id="p17-s04-t01">Systems</t>
+                <t id="p17-s04-t02">of</t>
+                <t id="p17-s04-t03">belief</t>
+                <t id="p17-s04-t04">that</t>
+                <t id="p17-s04-t05">derive</t>
+                <t id="p17-s04-t06">from</t>
+                <t id="p17-s04-t07">divine</t>
+                <t id="p17-s04-t08">or</t>
+                <t id="p17-s04-t09">inspired</t>
+                <t id="p17-s04-t10">knowledge</t>
+                <t id="p17-s04-t11">are</t>
+                <t id="p17-s04-t12">not</t>
+                <t id="p17-s04-t13">considered</t>
+                <t id="p17-s04-t14">pseudoscience</t>
+                <t id="p17-s04-t15">if</t>
+                <t id="p17-s04-t16">they</t>
+                <t id="p17-s04-t17">do</t>
+                <t id="p17-s04-t18">not</t>
+                <t id="p17-s04-t19">claim</t>
+                <t id="p17-s04-t20">either</t>
+                <t id="p17-s04-t21">to</t>
+                <t id="p17-s04-t22">be</t>
+                <t id="p17-s04-t23">scientific</t>
+                <t id="p17-s04-t24">or</t>
+                <t id="p17-s04-t25">to</t>
+                <t id="p17-s04-t26">overturn</t>
+                <t id="p17-s04-t27">well</t>
+                <punc>-</punc>
+                <t id="p17-s04-t28">established</t>
+                <t id="p17-s04-t29">science</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p17-s05">
+                <t id="p17-s05-t01">Moreover</t>
+                <punc>,</punc>
+                <t id="p17-s05-t02">some</t>
+                <t id="p17-s05-t03">specific</t>
+                <t id="p17-s05-t04">religious</t>
+                <t id="p17-s05-t05">claims</t>
+                <punc>,</punc>
+                <t id="p17-s05-t06">such</t>
+                <t id="p17-s05-t07">as</t>
+                <t id="p17-s05-t08">the</t>
+                <t id="p17-s05-t09">power</t>
+                <t id="p17-s05-t10">of</t>
+                <t id="p17-s05-t11">intercessory</t>
+                <t id="p17-s05-t12">prayer</t>
+                <t id="p17-s05-t13">to</t>
+                <t id="p17-s05-t14">heal</t>
+                <t id="p17-s05-t15">the</t>
+                <t id="p17-s05-t16">sick</t>
+                <t id="p17-s05-t17">can</t>
+                <t id="p17-s05-t18">be</t>
+                <t id="p17-s05-t19">tested</t>
+                <t id="p17-s05-t20">by</t>
+                <t id="p17-s05-t21">the</t>
+                <t id="p17-s05-t22">scientific</t>
+                <t id="p17-s05-t23">method</t>
+                <punc>,</punc>
+                <t id="p17-s05-t24">though</t>
+                <t id="p17-s05-t25">they</t>
+                <t id="p17-s05-t26">may</t>
+                <t id="p17-s05-t27">be</t>
+                <t id="p17-s05-t28">based</t>
+                <t id="p17-s05-t29">on</t>
+                <t id="p17-s05-t30">untestable</t>
+                <t id="p17-s05-t31">beliefs</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p18">
+            <sentence id="p18-s01">
+                <t id="p18-s01-t01">Some</t>
+                <t id="p18-s01-t02">statements</t>
+                <t id="p18-s01-t03">and</t>
+                <t id="p18-s01-t04">commonly</t>
+                <t id="p18-s01-t05">held</t>
+                <t id="p18-s01-t06">beliefs</t>
+                <t id="p18-s01-t07">in</t>
+                <t id="p18-s01-t08">popular</t>
+                <t id="p18-s01-t09">science</t>
+                <t id="p18-s01-t10">may</t>
+                <t id="p18-s01-t11">not</t>
+                <t id="p18-s01-t12">meet</t>
+                <t id="p18-s01-t13">the</t>
+                <t id="p18-s01-t14">criteria</t>
+                <t id="p18-s01-t15">of</t>
+                <t id="p18-s01-t16">science</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p18-s02">
+                <punc>“</punc>
+                <t id="p18-s02-t01">Pop</t>
+                <punc>”</punc>
+                <t id="p18-s02-t02">science</t>
+                <t id="p18-s02-t03">may</t>
+                <t id="p18-s02-t04">blur</t>
+                <t id="p18-s02-t05">the</t>
+                <t id="p18-s02-t06">divide</t>
+                <t id="p18-s02-t07">between</t>
+                <t id="p18-s02-t08">science</t>
+                <t id="p18-s02-t09">and</t>
+                <t id="p18-s02-t10">pseudoscience</t>
+                <t id="p18-s02-t11">among</t>
+                <t id="p18-s02-t12">the</t>
+                <t id="p18-s02-t13">general</t>
+                <t id="p18-s02-t14">public</t>
+                <punc>,</punc>
+                <t id="p18-s02-t15">and</t>
+                <t id="p18-s02-t16">may</t>
+                <t id="p18-s02-t17">also</t>
+                <t id="p18-s02-t18">involve</t>
+                <t id="p18-s02-t19">science</t>
+                <t id="p18-s02-t20">fiction</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p18-s03">
+                <t id="p18-s03-t01">Indeed</t>
+                <punc>,</punc>
+                <t id="p18-s03-t02">pop</t>
+                <t id="p18-s03-t03">science</t>
+                <t id="p18-s03-t04">is</t>
+                <t id="p18-s03-t05">disseminated</t>
+                <t id="p18-s03-t06">to</t>
+                <punc>,</punc>
+                <t id="p18-s03-t07">and</t>
+                <t id="p18-s03-t08">can</t>
+                <t id="p18-s03-t09">also</t>
+                <t id="p18-s03-t10">easily</t>
+                <t id="p18-s03-t11">emanate</t>
+                <t id="p18-s03-t12">from</t>
+                <punc>,</punc>
+                <t id="p18-s03-t13">persons</t>
+                <t id="p18-s03-t14">not</t>
+                <t id="p18-s03-t15">accountable</t>
+                <t id="p18-s03-t16">to</t>
+                <t id="p18-s03-t17">scientific</t>
+                <t id="p18-s03-t18">methodology</t>
+                <t id="p18-s03-t19">and</t>
+                <t id="p18-s03-t20">expert</t>
+                <t id="p18-s03-t21">peer</t>
+                <t id="p18-s03-t22">review</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p19">
+            <sentence id="p19-s01">
+                <t id="p19-s01-t01">If</t>
+                <t id="p19-s01-t02">the</t>
+                <t id="p19-s01-t03">claims</t>
+                <t id="p19-s01-t04">of</t>
+                <t id="p19-s01-t05">a</t>
+                <t id="p19-s01-t06">given</t>
+                <t id="p19-s01-t07">field</t>
+                <t id="p19-s01-t08">can</t>
+                <t id="p19-s01-t09">be</t>
+                <t id="p19-s01-t10">experimentally</t>
+                <t id="p19-s01-t11">tested</t>
+                <t id="p19-s01-t12">and</t>
+                <t id="p19-s01-t13">methodological</t>
+                <t id="p19-s01-t14">standards</t>
+                <t id="p19-s01-t15">are</t>
+                <t id="p19-s01-t16">upheld</t>
+                <punc>,</punc>
+                <t id="p19-s01-t17">it</t>
+                <t id="p19-s01-t18">is</t>
+                <t id="p19-s01-t19">not</t>
+                <punc>“</punc>
+                <t id="p19-s01-t20">pseudoscience</t>
+                <punc>”</punc>
+                <punc>,</punc>
+                <t id="p19-s01-t21">however</t>
+                <t id="p19-s01-t22">odd</t>
+                <punc>,</punc>
+                <t id="p19-s01-t23">astonishing</t>
+                <punc>,</punc>
+                <t id="p19-s01-t24">or</t>
+                <t id="p19-s01-t25">counterintuitive</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p19-s02">
+                <t id="p19-s02-t01">If</t>
+                <t id="p19-s02-t02">claims</t>
+                <t id="p19-s02-t03">made</t>
+                <t id="p19-s02-t04">are</t>
+                <t id="p19-s02-t05">inconsistent</t>
+                <t id="p19-s02-t06">with</t>
+                <t id="p19-s02-t07">existing</t>
+                <t id="p19-s02-t08">experimental</t>
+                <t id="p19-s02-t09">results</t>
+                <t id="p19-s02-t10">or</t>
+                <t id="p19-s02-t11">established</t>
+                <t id="p19-s02-t12">theory</t>
+                <punc>,</punc>
+                <t id="p19-s02-t13">but</t>
+                <t id="p19-s02-t14">the</t>
+                <t id="p19-s02-t15">methodology</t>
+                <t id="p19-s02-t16">is</t>
+                <t id="p19-s02-t17">sound</t>
+                <punc>,</punc>
+                <t id="p19-s02-t18">caution</t>
+                <t id="p19-s02-t19">should</t>
+                <t id="p19-s02-t20">be</t>
+                <t id="p19-s02-t21">used</t>
+                <punc>;</punc>
+                <t id="p19-s02-t22">science</t>
+                <t id="p19-s02-t23">consists</t>
+                <t id="p19-s02-t24">of</t>
+                <t id="p19-s02-t25">testing</t>
+                <t id="p19-s02-t26">hypotheses</t>
+                <t id="p19-s02-t27">which</t>
+                <t id="p19-s02-t28">may</t>
+                <t id="p19-s02-t29">turn</t>
+                <t id="p19-s02-t30">out</t>
+                <t id="p19-s02-t31">to</t>
+                <t id="p19-s02-t32">be</t>
+                <t id="p19-s02-t33">false</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p19-s03">
+                <t id="p19-s03-t01">In</t>
+                <t id="p19-s03-t02">such</t>
+                <t id="p19-s03-t03">a</t>
+                <t id="p19-s03-t04">case</t>
+                <punc>,</punc>
+                <t id="p19-s03-t05">the</t>
+                <t id="p19-s03-t06">work</t>
+                <t id="p19-s03-t07">may</t>
+                <t id="p19-s03-t08">be</t>
+                <t id="p19-s03-t09">better</t>
+                <t id="p19-s03-t10">described</t>
+                <t id="p19-s03-t11">as</t>
+                <t id="p19-s03-t12">ideas</t>
+                <t id="p19-s03-t13">that</t>
+                <t id="p19-s03-t14">are</t>
+                <punc>“</punc>
+                <t id="p19-s03-t15">not</t>
+                <t id="p19-s03-t16">yet</t>
+                <t id="p19-s03-t17">generally</t>
+                <t id="p19-s03-t18">accepted</t>
+                <punc>”</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p19-s04">
+                <t id="p19-s04-t01">Protoscience</t>
+                <t id="p19-s04-t02">is</t>
+                <t id="p19-s04-t03">a</t>
+                <t id="p19-s04-t04">term</t>
+                <t id="p19-s04-t05">sometimes</t>
+                <t id="p19-s04-t06">used</t>
+                <t id="p19-s04-t07">to</t>
+                <t id="p19-s04-t08">describe</t>
+                <t id="p19-s04-t09">a</t>
+                <t id="p19-s04-t10">hypothesis</t>
+                <t id="p19-s04-t11">that</t>
+                <t id="p19-s04-t12">has</t>
+                <t id="p19-s04-t13">not</t>
+                <t id="p19-s04-t14">yet</t>
+                <t id="p19-s04-t15">been</t>
+                <t id="p19-s04-t16">adequately</t>
+                <t id="p19-s04-t17">tested</t>
+                <t id="p19-s04-t18">by</t>
+                <t id="p19-s04-t19">the</t>
+                <t id="p19-s04-t20">scientific</t>
+                <t id="p19-s04-t21">method</t>
+                <punc>,</punc>
+                <t id="p19-s04-t22">but</t>
+                <t id="p19-s04-t23">which</t>
+                <t id="p19-s04-t24">is</t>
+                <t id="p19-s04-t25">otherwise</t>
+                <t id="p19-s04-t26">consistent</t>
+                <t id="p19-s04-t27">with</t>
+                <t id="p19-s04-t28">existing</t>
+                <t id="p19-s04-t29">science</t>
+                <t id="p19-s04-t30">or</t>
+                <t id="p19-s04-t31">which</t>
+                <punc>,</punc>
+                <t id="p19-s04-t32">where</t>
+                <t id="p19-s04-t33">inconsistent</t>
+                <punc>,</punc>
+                <t id="p19-s04-t34">offers</t>
+                <t id="p19-s04-t35">reasonable</t>
+                <t id="p19-s04-t36">account</t>
+                <t id="p19-s04-t37">of</t>
+                <t id="p19-s04-t38">the</t>
+                <t id="p19-s04-t39">inconsistency</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p19-s05">
+                <t id="p19-s05-t01">It</t>
+                <t id="p19-s05-t02">may</t>
+                <t id="p19-s05-t03">also</t>
+                <t id="p19-s05-t04">describe</t>
+                <t id="p19-s05-t05">the</t>
+                <t id="p19-s05-t06">transition</t>
+                <t id="p19-s05-t07">from</t>
+                <t id="p19-s05-t08">a</t>
+                <t id="p19-s05-t09">body</t>
+                <t id="p19-s05-t10">of</t>
+                <t id="p19-s05-t11">practical</t>
+                <t id="p19-s05-t12">knowledge</t>
+                <t id="p19-s05-t13">into</t>
+                <t id="p19-s05-t14">a</t>
+                <t id="p19-s05-t15">scientific</t>
+                <t id="p19-s05-t16">field</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p20">
+            <sentence id="p20-s01">
+                <t id="p20-s01-t01">The</t>
+                <t id="p20-s01-t02">following</t>
+                <t id="p20-s01-t03">are</t>
+                <t id="p20-s01-t04">some</t>
+                <t id="p20-s01-t05">of</t>
+                <t id="p20-s01-t06">the</t>
+                <t id="p20-s01-t07">indicators</t>
+                <t id="p20-s01-t08">of</t>
+                <t id="p20-s01-t09">the</t>
+                <t id="p20-s01-t10">possible</t>
+                <t id="p20-s01-t11">presence</t>
+                <t id="p20-s01-t12">of</t>
+                <t id="p20-s01-t13">pseudoscience</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p21">
+            <sentence id="p21-s01">
+                <t id="p21-s01-t01">Use</t>
+                <t id="p21-s01-t02">of</t>
+                <t id="p21-s01-t03">vague</t>
+                <punc>,</punc>
+                <t id="p21-s01-t04">exaggerated</t>
+                <t id="p21-s01-t05">or</t>
+                <t id="p21-s01-t06">untestable</t>
+                <t id="p21-s01-t07">claims</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p22">
+            <sentence id="p22-s01">
+                <t id="p22-s01-t01">Lack</t>
+                <t id="p22-s01-t02">of</t>
+                <t id="p22-s01-t03">openness</t>
+                <t id="p22-s01-t04">to</t>
+                <t id="p22-s01-t05">testing</t>
+                <t id="p22-s01-t06">by</t>
+                <t id="p22-s01-t07">other</t>
+                <t id="p22-s01-t08">experts</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p23">
+            <sentence id="p23-s01">
+                <t id="p23-s01-t01">Absence</t>
+                <t id="p23-s01-t02">of</t>
+                <t id="p23-s01-t03">progress</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p24">
+            <sentence id="p24-s01">
+                <t id="p24-s01-t01">Personalization</t>
+                <t id="p24-s01-t02">of</t>
+                <t id="p24-s01-t03">issues</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p25">
+            <sentence id="p25-s01">
+                <t id="p25-s01-t01">Use</t>
+                <t id="p25-s01-t02">of</t>
+                <t id="p25-s01-t03">misleading</t>
+                <t id="p25-s01-t04">language</t>
+            </sentence>
+        </paragraph>
+    </body>
 </document>

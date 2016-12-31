@@ -4,10 +4,10 @@
     <title>Accuracy and Precision</title>
     <citation>OpenStax College, “College Physics”. Retrieved from http://cnx.org/content/col11406/latest/ on 21 June 2012</citation>
     <url>http://cnx.org/content/col11406/latest/</url>
-     <info type="arise">
+    <info type="arise">
         <arise-info book="1" section="4" unit="2" firstpage="52"/>
     </info>
-   <body>
+    <body>
         <paragraph>
             <sentence>
                 <t>Science</t>
@@ -17,8 +17,8 @@
                 <t>observation</t>
                 <t>and</t>
                 <t>experiment</t>
-				<punc>—</punc>
-				<t>that</t>
+                <punc>—</punc>
+                <t>that</t>
                 <t>is</t>
                 <punc>,</punc>
                 <t>on</t>
@@ -101,7 +101,7 @@
                 <punc>,</punc>
                 <t>and</t>
                 <t>10.9 in</t>
-				<punc>.</punc>
+                <punc>.</punc>
             </sentence>
             <sentence>
                 <t>These</t>
@@ -248,7 +248,7 @@
                 <t>value</t>
                 <t>was</t>
                 <t>11.2 in</t>
-				<punc>.</punc>
+                <punc>.</punc>
             </sentence>
             <sentence>
                 <t>Thus</t>
@@ -264,7 +264,7 @@
                 <t>at</t>
                 <t>most</t>
                 <t>0.3 in</t>
-				<punc>.</punc>
+                <punc>.</punc>
             </sentence>
             <sentence>
                 <t>These</t>
@@ -715,7 +715,7 @@
                 <t>or</t>
                 <t>minus</t>
                 <t>0.2 in</t>
-				<punc>.</punc>
+                <punc>.</punc>
             </sentence>
         </paragraph>
         <paragraph>
@@ -734,7 +734,7 @@
             <sentence>
                 <t>1</t>
                 <punc>.</punc>
-				<t>Limitations</t>
+                <t>Limitations</t>
                 <t>of</t>
                 <t>the</t>
                 <t>measuring</t>
@@ -744,7 +744,7 @@
             <sentence>
                 <t>2</t>
                 <punc>.</punc>
-				<t>The</t>
+                <t>The</t>
                 <t>skill</t>
                 <t>of</t>
                 <t>the</t>
@@ -757,7 +757,7 @@
             <sentence>
                 <t>3</t>
                 <punc>.</punc>
-				<t>Irregularities</t>
+                <t>Irregularities</t>
                 <t>in</t>
                 <t>the</t>
                 <t>object</t>
@@ -768,7 +768,7 @@
             <sentence>
                 <t>4</t>
                 <punc>.</punc>
-				<t>Any</t>
+                <t>Any</t>
                 <t>other</t>
                 <t>factors</t>
                 <t>that</t>

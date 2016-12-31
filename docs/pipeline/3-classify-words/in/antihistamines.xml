@@ -2,682 +2,685 @@
 <!DOCTYPE document
   SYSTEM "../../../xml/adaps.dtd">
 <document>
-   <title>Do allergy meds contribute to weight gain?</title>
-   <citation>Janiszewski, P. (2015) Do allergy meds contribute to weight gain? Obesity Panacea (PLoS ONE blog). Retrieved from http://blogs.plos.org/obesitypanacea/2015/06/30/do-allergy-meds-contribute-to-weight-gain/ on 20 Aug 2015.</citation>
-   <url>http://blogs.plos.org/obesitypanacea/2015/06/30/do-allergy-meds-contribute-to-weight-gain/</url>
-   <body>
-      <paragraph id="p01">
-         <sentence id="p01-s01">
-            <punc>“</punc>
-            <t id="p01-s01-t01">Achoo</t>
-            <punc>!</punc>
-            <punc>!</punc>
-            <punc>”</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p02">
-         <sentence id="p02-s01">
-            <t id="p02-s01-t01">Some</t>
-            <t id="p02-s01-t02">folks</t>
-            <t id="p02-s01-t03">have</t>
-            <t id="p02-s01-t04">allergies</t>
-            <t id="p02-s01-t05">that</t>
-            <t id="p02-s01-t06">flare</t>
-            <t id="p02-s01-t07">up</t>
-            <t id="p02-s01-t08">on</t>
-            <t id="p02-s01-t09">a</t>
-            <t id="p02-s01-t10">seasonal</t>
-            <t id="p02-s01-t11">basis</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p02-s02">
-            <t id="p02-s02-t01">This</t>
-            <t id="p02-s02-t02">spring</t>
-            <t id="p02-s02-t03">has</t>
-            <t id="p02-s02-t04">certainly</t>
-            <t id="p02-s02-t05">not</t>
-            <t id="p02-s02-t06">been</t>
-            <t id="p02-s02-t07">kind</t>
-            <t id="p02-s02-t08">to</t>
-            <t id="p02-s02-t09">this</t>
-            <t id="p02-s02-t10">group</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p03">
-         <sentence id="p03-s01">
-            <t id="p03-s01-t01">But</t>
-            <t id="p03-s01-t02">if</t>
-            <t id="p03-s01-t03">you're</t>
-            <t id="p03-s01-t04">like</t>
-            <t id="p03-s01-t05">me</t>
-            <punc>,</punc>
-            <t id="p03-s01-t06">battling</t>
-            <t id="p03-s01-t07">your</t>
-            <t id="p03-s01-t08">allergies</t>
-            <t id="p03-s01-t09">is</t>
-            <t id="p03-s01-t10">a</t>
-            <t id="p03-s01-t11">year-round</t>
-            <t id="p03-s01-t12">affair</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p03-s02">
-            <t id="p03-s02-t01">The</t>
-            <t id="p03-s02-t02">common</t>
-            <t id="p03-s02-t03">antihistamines</t>
-            <t id="p03-s02-t04">available</t>
-            <t id="p03-s02-t05">at</t>
-            <t id="p03-s02-t06">every</t>
-            <t id="p03-s02-t07">drug</t>
-            <t id="p03-s02-t08">store</t>
-            <punc>,</punc>
-            <t id="p03-s02-t09">including</t>
-            <t id="p03-s02-t10">Cleratin</t>
-            <punc>,</punc>
-            <t id="p03-s02-t11">Reactine</t>
-            <punc>,</punc>
-            <t id="p03-s02-t12">and</t>
-            <t id="p03-s02-t13">Aerius</t>
-            <punc>,</punc>
-            <t id="p03-s02-t14">have</t>
-            <t id="p03-s02-t15">all</t>
-            <t id="p03-s02-t16">at</t>
-            <t id="p03-s02-t17">one</t>
-            <t id="p03-s02-t18">point</t>
-            <t id="p03-s02-t19">or</t>
-            <t id="p03-s02-t20">another</t>
-            <t id="p03-s02-t21">helped</t>
-            <t id="p03-s02-t22">me</t>
-            <t id="p03-s02-t23">breathe</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p03-s03">
-            <t id="p03-s03-t01">More</t>
-            <t id="p03-s03-t02">recently</t>
-            <punc>,</punc>
-            <t id="p03-s03-t03">I've</t>
-            <t id="p03-s03-t04">also</t>
-            <t id="p03-s03-t05">been</t>
-            <t id="p03-s03-t06">using</t>
-            <t id="p03-s03-t07">saline</t>
-            <t id="p03-s03-t08">nasal</t>
-            <t id="p03-s03-t09">rinses</t>
-            <t id="p03-s03-t10">as</t>
-            <t id="p03-s03-t11">well</t>
-            <t id="p03-s03-t12">as</t>
-            <t id="p03-s03-t13">intranasal</t>
-            <t id="p03-s03-t14">corticosteroid</t>
-            <t id="p03-s03-t15">sprays</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p04">
-         <sentence id="p04-s01">
-            <t id="p04-s01-t01">However</t>
-            <punc>,</punc>
-            <t id="p04-s01-t02">the</t>
-            <t id="p04-s01-t03">off-the-shelf</t>
-            <t id="p04-s01-t04">antihistamines</t>
-            <t id="p04-s01-t05">many</t>
-            <t id="p04-s01-t06">of</t>
-            <t id="p04-s01-t07">us</t>
-            <t id="p04-s01-t08">take</t>
-            <t id="p04-s01-t09">to</t>
-            <t id="p04-s01-t10">get</t>
-            <t id="p04-s01-t11">us</t>
-            <t id="p04-s01-t12">through</t>
-            <t id="p04-s01-t13">allergy</t>
-            <t id="p04-s01-t14">season</t>
-            <t id="p04-s01-t15">have</t>
-            <t id="p04-s01-t16">an</t>
-            <t id="p04-s01-t17">additional</t>
-            <t id="p04-s01-t18">effect</t>
-            <punc>:</punc>
-            <t id="p04-s01-t19">they</t>
-            <t id="p04-s01-t20">may</t>
-            <t id="p04-s01-t21">increase</t>
-            <t id="p04-s01-t22">appetite</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p04-s02">
-            <t id="p04-s02-t01">Despite</t>
-            <t id="p04-s02-t02">the</t>
-            <t id="p04-s02-t03">fact</t>
-            <t id="p04-s02-t04">that</t>
-            <t id="p04-s02-t05">increased</t>
-            <t id="p04-s02-t06">appetite</t>
-            <t id="p04-s02-t07">is</t>
-            <t id="p04-s02-t08">a</t>
-            <t id="p04-s02-t09">fairly</t>
-            <t id="p04-s02-t10">well-known</t>
-            <t id="p04-s02-t11">side-effect</t>
-            <t id="p04-s02-t12">of</t>
-            <t id="p04-s02-t13">antihistamines</t>
-            <punc>,</punc>
-            <t id="p04-s02-t14">the</t>
-            <t id="p04-s02-t15">packaging</t>
-            <t id="p04-s02-t16">of</t>
-            <t id="p04-s02-t17">my</t>
-            <t id="p04-s02-t18">allergy</t>
-            <t id="p04-s02-t19">meds</t>
-            <t id="p04-s02-t20">had</t>
-            <t id="p04-s02-t21">no</t>
-            <t id="p04-s02-t22">mention</t>
-            <t id="p04-s02-t23">of</t>
-            <t id="p04-s02-t24">this</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p05">
-         <sentence id="p05-s01">
-            <t id="p05-s01-t01">Histamine</t>
-            <t id="p05-s01-t02">is</t>
-            <t id="p05-s01-t03">a</t>
-            <t id="p05-s01-t04">neurotransmitter</t>
-            <t id="p05-s01-t05">which</t>
-            <punc>,</punc>
-            <t id="p05-s01-t06">in</t>
-            <t id="p05-s01-t07">addition</t>
-            <t id="p05-s01-t08">to</t>
-            <t id="p05-s01-t09">mediating</t>
-            <t id="p05-s01-t10">the</t>
-            <t id="p05-s01-t11">inflammatory</t>
-            <t id="p05-s01-t12">response</t>
-            <punc>,</punc>
-            <t id="p05-s01-t13">and</t>
-            <t id="p05-s01-t14">thus</t>
-            <t id="p05-s01-t15">symptoms</t>
-            <t id="p05-s01-t16">of</t>
-            <t id="p05-s01-t17">allergies</t>
-            <punc>,</punc>
-            <t id="p05-s01-t18">suppresses</t>
-            <t id="p05-s01-t19">appetite</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p05-s02">
-            <t id="p05-s02-t01">Thus</t>
-            <punc>,</punc>
-            <t id="p05-s02-t02">antihistamines</t>
-            <punc>,</punc>
-            <t id="p05-s02-t03">which</t>
-            <t id="p05-s02-t04">work</t>
-            <t id="p05-s02-t05">by</t>
-            <t id="p05-s02-t06">blocking</t>
-            <t id="p05-s02-t07">the</t>
-            <t id="p05-s02-t08">H1</t>
-            <t id="p05-s02-t09">histamine</t>
-            <t id="p05-s02-t10">receptor</t>
-            <punc>,</punc>
-            <t id="p05-s02-t11">may</t>
-            <t id="p05-s02-t12">remove</t>
-            <t id="p05-s02-t13">this</t>
-            <t id="p05-s02-t14">appetite</t>
-            <t id="p05-s02-t15">suppressing</t>
-            <t id="p05-s02-t16">signal</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p06">
-         <sentence id="p06-s01">
-            <t id="p06-s01-t01">Not</t>
-            <t id="p06-s01-t02">surprisingly</t>
-            <punc>,</punc>
-            <t id="p06-s01-t03">a</t>
-            <t id="p06-s01-t04">paper</t>
-            <t id="p06-s01-t05">published</t>
-            <t id="p06-s01-t06">in</t>
-            <t id="p06-s01-t07">the</t>
-            <t id="p06-s01-t08">journal</t>
-            <t id="p06-s01-t09">Obesity</t>
-            <t id="p06-s01-t10">suggests</t>
-            <t id="p06-s01-t11">a</t>
-            <t id="p06-s01-t12">possible</t>
-            <t id="p06-s01-t13">link</t>
-            <t id="p06-s01-t14">between</t>
-            <t id="p06-s01-t15">the</t>
-            <t id="p06-s01-t16">use</t>
-            <t id="p06-s01-t17">of</t>
-            <t id="p06-s01-t18">anti-histamines</t>
-            <t id="p06-s01-t19">and</t>
-            <t id="p06-s01-t20">body</t>
-            <t id="p06-s01-t21">weight</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p07">
-         <sentence id="p07-s01">
-            <t id="p07-s01-t01">In</t>
-            <t id="p07-s01-t02">the</t>
-            <t id="p07-s01-t03">paper</t>
-            <punc>,</punc>
-            <t id="p07-s01-t04">Ratliff</t>
-            <t id="p07-s01-t05">and</t>
-            <t id="p07-s01-t06">colleagues</t>
-            <t id="p07-s01-t07">used</t>
-            <t id="p07-s01-t08">data</t>
-            <t id="p07-s01-t09">from</t>
-            <t id="p07-s01-t10">the</t>
-            <t id="p07-s01-t11">National</t>
-            <t id="p07-s01-t12">Health</t>
-            <t id="p07-s01-t13">and</t>
-            <t id="p07-s01-t14">Nutrition</t>
-            <t id="p07-s01-t15">Examination</t>
-            <t id="p07-s01-t16">Survey</t>
-            <t id="p07-s01-t17">during</t>
-            <t id="p07-s01-t18">the</t>
-            <t id="p07-s01-t19">2005-2006</t>
-            <t id="p07-s01-t20">years</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p08">
-         <sentence id="p08-s01">
-            <punc>“</punc>
-            <t id="p08-s01-t01">268</t>
-            <t id="p08-s01-t02">adults</t>
-            <punc>(</punc>
-            <t id="p08-s01-t03">174</t>
-            <t id="p08-s01-t04">females</t>
-            <t id="p08-s01-t05">and</t>
-            <t id="p08-s01-t06">94</t>
-            <t id="p08-s01-t07">males</t>
-            <punc>)</punc>
-            <t id="p08-s01-t08">reported</t>
-            <t id="p08-s01-t09">use</t>
-            <t id="p08-s01-t10">of</t>
-            <t id="p08-s01-t11">an</t>
-            <t id="p08-s01-t12">H1</t>
-            <t id="p08-s01-t13">antihistamine</t>
-            <t id="p08-s01-t14">and</t>
-            <t id="p08-s01-t15">completed</t>
-            <t id="p08-s01-t16">all</t>
-            <t id="p08-s01-t17">outcome</t>
-            <t id="p08-s01-t18">measure</t>
-            <t id="p08-s01-t19">components</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p08-s02">
-            <t id="p08-s02-t01">599</t>
-            <t id="p08-s02-t02">age-</t>
-            <t id="p08-s02-t03">and</t>
-            <t id="p08-s02-t04">gender-matched</t>
-            <t id="p08-s02-t05">controls</t>
-            <punc>(</punc>
-            <t id="p08-s02-t06">401</t>
-            <t id="p08-s02-t07">females</t>
-            <t id="p08-s02-t08">and</t>
-            <t id="p08-s02-t09">198</t>
-            <t id="p08-s02-t10">males</t>
-            <punc>)</punc>
-            <t id="p08-s02-t11">were</t>
-            <t id="p08-s02-t12">used</t>
-            <t id="p08-s02-t13">as</t>
-            <t id="p08-s02-t14">a</t>
-            <t id="p08-s02-t15">comparison</t>
-            <t id="p08-s02-t16">for</t>
-            <t id="p08-s02-t17">body</t>
-            <t id="p08-s02-t18">measurements</t>
-            <punc>,</punc>
-            <t id="p08-s02-t19">plasma</t>
-            <t id="p08-s02-t20">glucose</t>
-            <punc>,</punc>
-            <t id="p08-s02-t21">insulin</t>
-            <t id="p08-s02-t22">concentrations</t>
-            <punc>,</punc>
-            <t id="p08-s02-t23">and</t>
-            <t id="p08-s02-t24">lipid</t>
-            <t id="p08-s02-t25">levels</t>
-            <punc>.</punc>
-            <punc>”</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p09">
-         <sentence id="p09-s01">
-            <t id="p09-s01-t01">What</t>
-            <t id="p09-s01-t02">did</t>
-            <t id="p09-s01-t03">they</t>
-            <t id="p09-s01-t04">find</t>
-            <punc>?</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p10">
-         <sentence id="p10-s01">
-            <punc>“</punc>
-            <t id="p10-s01-t01">After</t>
-            <t id="p10-s01-t02">adjusting</t>
-            <t id="p10-s01-t03">for</t>
-            <t id="p10-s01-t04">gender</t>
-            <punc>,</punc>
-            <t id="p10-s01-t05">prescription</t>
-            <t id="p10-s01-t06">H1</t>
-            <t id="p10-s01-t07">antihistamine</t>
-            <t id="p10-s01-t08">users</t>
-            <t id="p10-s01-t09">had</t>
-            <t id="p10-s01-t10">significantly</t>
-            <t id="p10-s01-t11">higher</t>
-            <t id="p10-s01-t12">weight</t>
-            <punc>(</punc>
-            <t id="p10-s01-t13">P &lt; 0.001</t>
-            <punc>)</punc>
-            <punc>,</punc>
-            <t id="p10-s01-t14">BMI</t>
-            <punc>(</punc>
-            <t id="p10-s01-t15">P &lt; 0.001</t>
-            <punc>)</punc>
-            <punc>,</punc>
-            <t id="p10-s01-t16">waist</t>
-            <t id="p10-s01-t17">circumference</t>
-            <punc>(</punc>
-            <t id="p10-s01-t18">P &lt; 0.001</t>
-            <punc>)</punc>
-            <punc>,</punc>
-            <t id="p10-s01-t19">and</t>
-            <t id="p10-s01-t20">insulin</t>
-            <t id="p10-s01-t21">levels</t>
-            <punc>(</punc>
-            <t id="p10-s01-t22">P &lt; 0.005</t>
-            <punc>)</punc>
-            <t id="p10-s01-t23">compared</t>
-            <t id="p10-s01-t24">to</t>
-            <t id="p10-s01-t25">healthy</t>
-            <t id="p10-s01-t26">controls</t>
-            <punc>.</punc>
-            <punc>”</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p11">
-         <sentence id="p11-s01">
-            <t id="p11-s01-t01">Specifically</t>
-            <punc>,</punc>
-            <t id="p11-s01-t02">controlling</t>
-            <t id="p11-s01-t03">for</t>
-            <t id="p11-s01-t04">age</t>
-            <t id="p11-s01-t05">and</t>
-            <t id="p11-s01-t06">gender</t>
-            <punc>,</punc>
-            <t id="p11-s01-t07">those</t>
-            <t id="p11-s01-t08">who</t>
-            <t id="p11-s01-t09">take</t>
-            <t id="p11-s01-t10">anti-histamines</t>
-            <t id="p11-s01-t11">were</t>
-            <t id="p11-s01-t12">55%</t>
-            <t id="p11-s01-t13">more</t>
-            <t id="p11-s01-t14">likely</t>
-            <t id="p11-s01-t15">to</t>
-            <t id="p11-s01-t16">be</t>
-            <t id="p11-s01-t17">overweight</t>
-            <t id="p11-s01-t18">than</t>
-            <t id="p11-s01-t19">their</t>
-            <t id="p11-s01-t20">non-allergy-suffering</t>
-            <t id="p11-s01-t21">peers</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p12">
-         <sentence id="p12-s01">
-            <t id="p12-s01-t01">However</t>
-            <punc>,</punc>
-            <t id="p12-s01-t02">the</t>
-            <t id="p12-s01-t03">increased</t>
-            <t id="p12-s01-t04">risk</t>
-            <t id="p12-s01-t05">of</t>
-            <t id="p12-s01-t06">overweight</t>
-            <t id="p12-s01-t07">with</t>
-            <t id="p12-s01-t08">antihistamine</t>
-            <t id="p12-s01-t09">use</t>
-            <t id="p12-s01-t10">was</t>
-            <t id="p12-s01-t11">more</t>
-            <t id="p12-s01-t12">pronounced</t>
-            <t id="p12-s01-t13">for</t>
-            <t id="p12-s01-t14">men</t>
-            <t id="p12-s01-t15">than</t>
-            <t id="p12-s01-t16">women</t>
-            <punc>(</punc>
-            <t id="p12-s01-t17">70%</t>
-            <t id="p12-s01-t18">vs</t>
-            <t id="p12-s01-t19">21%</t>
-            <t id="p12-s01-t20">increased</t>
-            <t id="p12-s01-t21">likelihood</t>
-            <punc>)</punc>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p13">
-         <sentence id="p13-s01">
-            <t id="p13-s01-t01">No</t>
-            <t id="p13-s01-t02">differences</t>
-            <t id="p13-s01-t03">between</t>
-            <t id="p13-s01-t04">the</t>
-            <t id="p13-s01-t05">groups</t>
-            <t id="p13-s01-t06">were</t>
-            <t id="p13-s01-t07">observed</t>
-            <t id="p13-s01-t08">for</t>
-            <t id="p13-s01-t09">any</t>
-            <t id="p13-s01-t10">of</t>
-            <t id="p13-s01-t11">the</t>
-            <t id="p13-s01-t12">other</t>
-            <t id="p13-s01-t13">metabolic</t>
-            <t id="p13-s01-t14">risk</t>
-            <t id="p13-s01-t15">factors</t>
-            <t id="p13-s01-t16">studied</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p14">
-         <sentence id="p14-s01">
-            <t id="p14-s01-t01">Of</t>
-            <t id="p14-s01-t02">course</t>
-            <punc>,</punc>
-            <t id="p14-s01-t03">as</t>
-            <t id="p14-s01-t04">I</t>
-            <t id="p14-s01-t05">mention</t>
-            <t id="p14-s01-t06">often</t>
-            <t id="p14-s01-t07">with</t>
-            <t id="p14-s01-t08">this</t>
-            <t id="p14-s01-t09">type</t>
-            <t id="p14-s01-t10">of</t>
-            <t id="p14-s01-t11">study</t>
-            <punc>,</punc>
-            <t id="p14-s01-t12">the</t>
-            <t id="p14-s01-t13">results</t>
-            <t id="p14-s01-t14">merely</t>
-            <t id="p14-s01-t15">suggest</t>
-            <t id="p14-s01-t16">a</t>
-            <t id="p14-s01-t17">correlation</t>
-            <t id="p14-s01-t18">between</t>
-            <t id="p14-s01-t19">antihistamine</t>
-            <t id="p14-s01-t20">use</t>
-            <t id="p14-s01-t21">and</t>
-            <t id="p14-s01-t22">body</t>
-            <t id="p14-s01-t23">weight</t>
-            <punc>;</punc>
-            <t id="p14-s01-t24">countless</t>
-            <t id="p14-s01-t25">other</t>
-            <t id="p14-s01-t26">confounding</t>
-            <t id="p14-s01-t27">factors</t>
-            <t id="p14-s01-t28">may</t>
-            <t id="p14-s01-t29">be</t>
-            <t id="p14-s01-t30">playing</t>
-            <t id="p14-s01-t31">a</t>
-            <t id="p14-s01-t32">role</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p14-s02">
-            <t id="p14-s02-t01">Nevertheless</t>
-            <punc>,</punc>
-            <t id="p14-s02-t02">the</t>
-            <t id="p14-s02-t03">preliminary</t>
-            <t id="p14-s02-t04">observation</t>
-            <t id="p14-s02-t05">is</t>
-            <t id="p14-s02-t06">intriguing</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p15">
-         <sentence id="p15-s01">
-            <t id="p15-s01-t01">In</t>
-            <t id="p15-s01-t02">addition</t>
-            <t id="p15-s01-t03">to</t>
-            <t id="p15-s01-t04">the</t>
-            <t id="p15-s01-t05">direct</t>
-            <t id="p15-s01-t06">effect</t>
-            <t id="p15-s01-t07">on</t>
-            <t id="p15-s01-t08">appetite</t>
-            <t id="p15-s01-t09">stimulation</t>
-            <punc>,</punc>
-            <t id="p15-s01-t10">the</t>
-            <t id="p15-s01-t11">increased</t>
-            <t id="p15-s01-t12">weight</t>
-            <t id="p15-s01-t13">observed</t>
-            <t id="p15-s01-t14">with</t>
-            <t id="p15-s01-t15">antihistamines</t>
-            <t id="p15-s01-t16">may</t>
-            <t id="p15-s01-t17">also</t>
-            <t id="p15-s01-t18">be</t>
-            <t id="p15-s01-t19">due</t>
-            <t id="p15-s01-t20">to</t>
-            <t id="p15-s01-t21">increased</t>
-            <t id="p15-s01-t22">sedation</t>
-            <punc>,</punc>
-            <t id="p15-s01-t23">suggest</t>
-            <t id="p15-s01-t24">the</t>
-            <t id="p15-s01-t25">authors</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p15-s02">
-            <t id="p15-s02-t01">Theoretically</t>
-            <punc>,</punc>
-            <t id="p15-s02-t02">at</t>
-            <t id="p15-s02-t03">least</t>
-            <punc>,</punc>
-            <t id="p15-s02-t04">the</t>
-            <t id="p15-s02-t05">increased</t>
-            <t id="p15-s02-t06">sedation</t>
-            <t id="p15-s02-t07">may</t>
-            <t id="p15-s02-t08">lead</t>
-            <t id="p15-s02-t09">to</t>
-            <t id="p15-s02-t10">a</t>
-            <t id="p15-s02-t11">decreased</t>
-            <t id="p15-s02-t12">energy</t>
-            <t id="p15-s02-t13">expenditure</t>
-            <t id="p15-s02-t14">and</t>
-            <t id="p15-s02-t15">weight</t>
-            <t id="p15-s02-t16">gain</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p15-s03">
-            <t id="p15-s03-t01">However</t>
-            <punc>,</punc>
-            <t id="p15-s03-t02">most</t>
-            <t id="p15-s03-t03">current</t>
-            <t id="p15-s03-t04">antihistamines</t>
-            <t id="p15-s03-t05">are</t>
-            <t id="p15-s03-t06">only</t>
-            <t id="p15-s03-t07">mildly</t>
-            <t id="p15-s03-t08">sedative</t>
-            <t id="p15-s03-t09">at</t>
-            <t id="p15-s03-t10">best</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p16">
-         <sentence id="p16-s01">
-            <t id="p16-s01-t01">I</t>
-            <t id="p16-s01-t02">have</t>
-            <t id="p16-s01-t03">tried</t>
-            <t id="p16-s01-t04">to</t>
-            <t id="p16-s01-t05">think</t>
-            <t id="p16-s01-t06">back</t>
-            <t id="p16-s01-t07">to</t>
-            <t id="p16-s01-t08">times</t>
-            <t id="p16-s01-t09">when</t>
-            <t id="p16-s01-t10">I</t>
-            <t id="p16-s01-t11">take</t>
-            <t id="p16-s01-t12">antihistamines</t>
-            <t id="p16-s01-t13">and</t>
-            <t id="p16-s01-t14">recount</t>
-            <t id="p16-s01-t15">whether</t>
-            <t id="p16-s01-t16">I</t>
-            <t id="p16-s01-t17">had</t>
-            <t id="p16-s01-t18">an</t>
-            <t id="p16-s01-t19">increased</t>
-            <t id="p16-s01-t20">appetite</t>
-            <t id="p16-s01-t21">or</t>
-            <t id="p16-s01-t22">sedation</t>
-            <punc>,</punc>
-            <t id="p16-s01-t23">and</t>
-            <t id="p16-s01-t24">I'm</t>
-            <t id="p16-s01-t25">not</t>
-            <t id="p16-s01-t26">sure</t>
-            <t id="p16-s01-t27">my</t>
-            <t id="p16-s01-t28">personal</t>
-            <t id="p16-s01-t29">experiences</t>
-            <t id="p16-s01-t30">corroborate</t>
-            <t id="p16-s01-t31">this</t>
-            <t id="p16-s01-t32">observation</t>
-            <punc>.</punc>
-         </sentence>
-         <sentence id="p16-s02">
-            <t id="p16-s02-t01">Then</t>
-            <t id="p16-s02-t02">again</t>
-            <punc>,</punc>
-            <t id="p16-s02-t03">since</t>
-            <t id="p16-s02-t04">I'm</t>
-            <t id="p16-s02-t05">a</t>
-            <t id="p16-s02-t06">fairly</t>
-            <t id="p16-s02-t07">chronic</t>
-            <t id="p16-s02-t08">antihistamine</t>
-            <t id="p16-s02-t09">user</t>
-            <punc>,</punc>
-            <t id="p16-s02-t10">I'm</t>
-            <t id="p16-s02-t11">probably</t>
-            <t id="p16-s02-t12">unlikely</t>
-            <t id="p16-s02-t13">to</t>
-            <t id="p16-s02-t14">notice</t>
-            <t id="p16-s02-t15">this</t>
-            <t id="p16-s02-t16">change</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p17">
-         <sentence id="p17-s01">
-            <t id="p17-s01-t01">For</t>
-            <t id="p17-s01-t02">the</t>
-            <t id="p17-s01-t03">sake</t>
-            <t id="p17-s01-t04">of</t>
-            <t id="p17-s01-t05">proper</t>
-            <t id="p17-s01-t06">breathing</t>
-            <punc>,</punc>
-            <t id="p17-s01-t07">I'll</t>
-            <t id="p17-s01-t08">stick</t>
-            <t id="p17-s01-t09">to</t>
-            <t id="p17-s01-t10">my</t>
-            <t id="p17-s01-t11">anti-histamines</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-      <paragraph id="p18">
-         <sentence id="p18-s01">
-            <t id="p18-s01-t01">I</t>
-            <t id="p18-s01-t02">wonder</t>
-            <t id="p18-s01-t03">if</t>
-            <t id="p18-s01-t04">any</t>
-            <t id="p18-s01-t05">of</t>
-            <t id="p18-s01-t06">our</t>
-            <t id="p18-s01-t07">readers</t>
-            <t id="p18-s01-t08">have</t>
-            <t id="p18-s01-t09">noted</t>
-            <t id="p18-s01-t10">a</t>
-            <t id="p18-s01-t11">change</t>
-            <t id="p18-s01-t12">in</t>
-            <t id="p18-s01-t13">appetite</t>
-            <t id="p18-s01-t14">or</t>
-            <t id="p18-s01-t15">wakefulness</t>
-            <t id="p18-s01-t16">when</t>
-            <t id="p18-s01-t17">taking</t>
-            <t id="p18-s01-t18">antihistamines</t>
-            <punc>.</punc>
-         </sentence>
-      </paragraph>
-   </body>
+    <title>Do allergy meds contribute to weight gain?</title>
+    <citation>Janiszewski, P. (2015) Do allergy meds contribute to weight gain? Obesity Panacea (PLoS ONE blog). Retrieved from http://blogs.plos.org/obesitypanacea/2015/06/30/do-allergy-meds-contribute-to-weight-gain/ on 20 Aug 2015.</citation>
+    <url>http://blogs.plos.org/obesitypanacea/2015/06/30/do-allergy-meds-contribute-to-weight-gain/</url>
+    <info type="arise">
+        <arise-info book="2" section="4" unit="1" firstpage="52"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <punc>“</punc>
+                <t id="p01-s01-t01">Achoo</t>
+                <punc>!</punc>
+                <punc>!</punc>
+                <punc>”</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence id="p02-s01">
+                <t id="p02-s01-t01">Some</t>
+                <t id="p02-s01-t02">folks</t>
+                <t id="p02-s01-t03">have</t>
+                <t id="p02-s01-t04">allergies</t>
+                <t id="p02-s01-t05">that</t>
+                <t id="p02-s01-t06">flare</t>
+                <t id="p02-s01-t07">up</t>
+                <t id="p02-s01-t08">on</t>
+                <t id="p02-s01-t09">a</t>
+                <t id="p02-s01-t10">seasonal</t>
+                <t id="p02-s01-t11">basis</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s02">
+                <t id="p02-s02-t01">This</t>
+                <t id="p02-s02-t02">spring</t>
+                <t id="p02-s02-t03">has</t>
+                <t id="p02-s02-t04">certainly</t>
+                <t id="p02-s02-t05">not</t>
+                <t id="p02-s02-t06">been</t>
+                <t id="p02-s02-t07">kind</t>
+                <t id="p02-s02-t08">to</t>
+                <t id="p02-s02-t09">this</t>
+                <t id="p02-s02-t10">group</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p03">
+            <sentence id="p03-s01">
+                <t id="p03-s01-t01">But</t>
+                <t id="p03-s01-t02">if</t>
+                <t id="p03-s01-t03">you're</t>
+                <t id="p03-s01-t04">like</t>
+                <t id="p03-s01-t05">me</t>
+                <punc>,</punc>
+                <t id="p03-s01-t06">battling</t>
+                <t id="p03-s01-t07">your</t>
+                <t id="p03-s01-t08">allergies</t>
+                <t id="p03-s01-t09">is</t>
+                <t id="p03-s01-t10">a</t>
+                <t id="p03-s01-t11">year-round</t>
+                <t id="p03-s01-t12">affair</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s02">
+                <t id="p03-s02-t01">The</t>
+                <t id="p03-s02-t02">common</t>
+                <t id="p03-s02-t03">antihistamines</t>
+                <t id="p03-s02-t04">available</t>
+                <t id="p03-s02-t05">at</t>
+                <t id="p03-s02-t06">every</t>
+                <t id="p03-s02-t07">drug</t>
+                <t id="p03-s02-t08">store</t>
+                <punc>,</punc>
+                <t id="p03-s02-t09">including</t>
+                <t id="p03-s02-t10">Cleratin</t>
+                <punc>,</punc>
+                <t id="p03-s02-t11">Reactine</t>
+                <punc>,</punc>
+                <t id="p03-s02-t12">and</t>
+                <t id="p03-s02-t13">Aerius</t>
+                <punc>,</punc>
+                <t id="p03-s02-t14">have</t>
+                <t id="p03-s02-t15">all</t>
+                <t id="p03-s02-t16">at</t>
+                <t id="p03-s02-t17">one</t>
+                <t id="p03-s02-t18">point</t>
+                <t id="p03-s02-t19">or</t>
+                <t id="p03-s02-t20">another</t>
+                <t id="p03-s02-t21">helped</t>
+                <t id="p03-s02-t22">me</t>
+                <t id="p03-s02-t23">breathe</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s03">
+                <t id="p03-s03-t01">More</t>
+                <t id="p03-s03-t02">recently</t>
+                <punc>,</punc>
+                <t id="p03-s03-t03">I've</t>
+                <t id="p03-s03-t04">also</t>
+                <t id="p03-s03-t05">been</t>
+                <t id="p03-s03-t06">using</t>
+                <t id="p03-s03-t07">saline</t>
+                <t id="p03-s03-t08">nasal</t>
+                <t id="p03-s03-t09">rinses</t>
+                <t id="p03-s03-t10">as</t>
+                <t id="p03-s03-t11">well</t>
+                <t id="p03-s03-t12">as</t>
+                <t id="p03-s03-t13">intranasal</t>
+                <t id="p03-s03-t14">corticosteroid</t>
+                <t id="p03-s03-t15">sprays</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p04">
+            <sentence id="p04-s01">
+                <t id="p04-s01-t01">However</t>
+                <punc>,</punc>
+                <t id="p04-s01-t02">the</t>
+                <t id="p04-s01-t03">off-the-shelf</t>
+                <t id="p04-s01-t04">antihistamines</t>
+                <t id="p04-s01-t05">many</t>
+                <t id="p04-s01-t06">of</t>
+                <t id="p04-s01-t07">us</t>
+                <t id="p04-s01-t08">take</t>
+                <t id="p04-s01-t09">to</t>
+                <t id="p04-s01-t10">get</t>
+                <t id="p04-s01-t11">us</t>
+                <t id="p04-s01-t12">through</t>
+                <t id="p04-s01-t13">allergy</t>
+                <t id="p04-s01-t14">season</t>
+                <t id="p04-s01-t15">have</t>
+                <t id="p04-s01-t16">an</t>
+                <t id="p04-s01-t17">additional</t>
+                <t id="p04-s01-t18">effect</t>
+                <punc>:</punc>
+                <t id="p04-s01-t19">they</t>
+                <t id="p04-s01-t20">may</t>
+                <t id="p04-s01-t21">increase</t>
+                <t id="p04-s01-t22">appetite</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p04-s02">
+                <t id="p04-s02-t01">Despite</t>
+                <t id="p04-s02-t02">the</t>
+                <t id="p04-s02-t03">fact</t>
+                <t id="p04-s02-t04">that</t>
+                <t id="p04-s02-t05">increased</t>
+                <t id="p04-s02-t06">appetite</t>
+                <t id="p04-s02-t07">is</t>
+                <t id="p04-s02-t08">a</t>
+                <t id="p04-s02-t09">fairly</t>
+                <t id="p04-s02-t10">well-known</t>
+                <t id="p04-s02-t11">side-effect</t>
+                <t id="p04-s02-t12">of</t>
+                <t id="p04-s02-t13">antihistamines</t>
+                <punc>,</punc>
+                <t id="p04-s02-t14">the</t>
+                <t id="p04-s02-t15">packaging</t>
+                <t id="p04-s02-t16">of</t>
+                <t id="p04-s02-t17">my</t>
+                <t id="p04-s02-t18">allergy</t>
+                <t id="p04-s02-t19">meds</t>
+                <t id="p04-s02-t20">had</t>
+                <t id="p04-s02-t21">no</t>
+                <t id="p04-s02-t22">mention</t>
+                <t id="p04-s02-t23">of</t>
+                <t id="p04-s02-t24">this</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p05">
+            <sentence id="p05-s01">
+                <t id="p05-s01-t01">Histamine</t>
+                <t id="p05-s01-t02">is</t>
+                <t id="p05-s01-t03">a</t>
+                <t id="p05-s01-t04">neurotransmitter</t>
+                <t id="p05-s01-t05">which</t>
+                <punc>,</punc>
+                <t id="p05-s01-t06">in</t>
+                <t id="p05-s01-t07">addition</t>
+                <t id="p05-s01-t08">to</t>
+                <t id="p05-s01-t09">mediating</t>
+                <t id="p05-s01-t10">the</t>
+                <t id="p05-s01-t11">inflammatory</t>
+                <t id="p05-s01-t12">response</t>
+                <punc>,</punc>
+                <t id="p05-s01-t13">and</t>
+                <t id="p05-s01-t14">thus</t>
+                <t id="p05-s01-t15">symptoms</t>
+                <t id="p05-s01-t16">of</t>
+                <t id="p05-s01-t17">allergies</t>
+                <punc>,</punc>
+                <t id="p05-s01-t18">suppresses</t>
+                <t id="p05-s01-t19">appetite</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p05-s02">
+                <t id="p05-s02-t01">Thus</t>
+                <punc>,</punc>
+                <t id="p05-s02-t02">antihistamines</t>
+                <punc>,</punc>
+                <t id="p05-s02-t03">which</t>
+                <t id="p05-s02-t04">work</t>
+                <t id="p05-s02-t05">by</t>
+                <t id="p05-s02-t06">blocking</t>
+                <t id="p05-s02-t07">the</t>
+                <t id="p05-s02-t08">H1</t>
+                <t id="p05-s02-t09">histamine</t>
+                <t id="p05-s02-t10">receptor</t>
+                <punc>,</punc>
+                <t id="p05-s02-t11">may</t>
+                <t id="p05-s02-t12">remove</t>
+                <t id="p05-s02-t13">this</t>
+                <t id="p05-s02-t14">appetite</t>
+                <t id="p05-s02-t15">suppressing</t>
+                <t id="p05-s02-t16">signal</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p06">
+            <sentence id="p06-s01">
+                <t id="p06-s01-t01">Not</t>
+                <t id="p06-s01-t02">surprisingly</t>
+                <punc>,</punc>
+                <t id="p06-s01-t03">a</t>
+                <t id="p06-s01-t04">paper</t>
+                <t id="p06-s01-t05">published</t>
+                <t id="p06-s01-t06">in</t>
+                <t id="p06-s01-t07">the</t>
+                <t id="p06-s01-t08">journal</t>
+                <t id="p06-s01-t09">Obesity</t>
+                <t id="p06-s01-t10">suggests</t>
+                <t id="p06-s01-t11">a</t>
+                <t id="p06-s01-t12">possible</t>
+                <t id="p06-s01-t13">link</t>
+                <t id="p06-s01-t14">between</t>
+                <t id="p06-s01-t15">the</t>
+                <t id="p06-s01-t16">use</t>
+                <t id="p06-s01-t17">of</t>
+                <t id="p06-s01-t18">anti-histamines</t>
+                <t id="p06-s01-t19">and</t>
+                <t id="p06-s01-t20">body</t>
+                <t id="p06-s01-t21">weight</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p07">
+            <sentence id="p07-s01">
+                <t id="p07-s01-t01">In</t>
+                <t id="p07-s01-t02">the</t>
+                <t id="p07-s01-t03">paper</t>
+                <punc>,</punc>
+                <t id="p07-s01-t04">Ratliff</t>
+                <t id="p07-s01-t05">and</t>
+                <t id="p07-s01-t06">colleagues</t>
+                <t id="p07-s01-t07">used</t>
+                <t id="p07-s01-t08">data</t>
+                <t id="p07-s01-t09">from</t>
+                <t id="p07-s01-t10">the</t>
+                <t id="p07-s01-t11">National</t>
+                <t id="p07-s01-t12">Health</t>
+                <t id="p07-s01-t13">and</t>
+                <t id="p07-s01-t14">Nutrition</t>
+                <t id="p07-s01-t15">Examination</t>
+                <t id="p07-s01-t16">Survey</t>
+                <t id="p07-s01-t17">during</t>
+                <t id="p07-s01-t18">the</t>
+                <t id="p07-s01-t19">2005-2006</t>
+                <t id="p07-s01-t20">years</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p08">
+            <sentence id="p08-s01">
+                <punc>“</punc>
+                <t id="p08-s01-t01">268</t>
+                <t id="p08-s01-t02">adults</t>
+                <punc>(</punc>
+                <t id="p08-s01-t03">174</t>
+                <t id="p08-s01-t04">females</t>
+                <t id="p08-s01-t05">and</t>
+                <t id="p08-s01-t06">94</t>
+                <t id="p08-s01-t07">males</t>
+                <punc>)</punc>
+                <t id="p08-s01-t08">reported</t>
+                <t id="p08-s01-t09">use</t>
+                <t id="p08-s01-t10">of</t>
+                <t id="p08-s01-t11">an</t>
+                <t id="p08-s01-t12">H1</t>
+                <t id="p08-s01-t13">antihistamine</t>
+                <t id="p08-s01-t14">and</t>
+                <t id="p08-s01-t15">completed</t>
+                <t id="p08-s01-t16">all</t>
+                <t id="p08-s01-t17">outcome</t>
+                <t id="p08-s01-t18">measure</t>
+                <t id="p08-s01-t19">components</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s02">
+                <t id="p08-s02-t01">599</t>
+                <t id="p08-s02-t02">age-</t>
+                <t id="p08-s02-t03">and</t>
+                <t id="p08-s02-t04">gender-matched</t>
+                <t id="p08-s02-t05">controls</t>
+                <punc>(</punc>
+                <t id="p08-s02-t06">401</t>
+                <t id="p08-s02-t07">females</t>
+                <t id="p08-s02-t08">and</t>
+                <t id="p08-s02-t09">198</t>
+                <t id="p08-s02-t10">males</t>
+                <punc>)</punc>
+                <t id="p08-s02-t11">were</t>
+                <t id="p08-s02-t12">used</t>
+                <t id="p08-s02-t13">as</t>
+                <t id="p08-s02-t14">a</t>
+                <t id="p08-s02-t15">comparison</t>
+                <t id="p08-s02-t16">for</t>
+                <t id="p08-s02-t17">body</t>
+                <t id="p08-s02-t18">measurements</t>
+                <punc>,</punc>
+                <t id="p08-s02-t19">plasma</t>
+                <t id="p08-s02-t20">glucose</t>
+                <punc>,</punc>
+                <t id="p08-s02-t21">insulin</t>
+                <t id="p08-s02-t22">concentrations</t>
+                <punc>,</punc>
+                <t id="p08-s02-t23">and</t>
+                <t id="p08-s02-t24">lipid</t>
+                <t id="p08-s02-t25">levels</t>
+                <punc>.</punc>
+                <punc>”</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p09">
+            <sentence id="p09-s01">
+                <t id="p09-s01-t01">What</t>
+                <t id="p09-s01-t02">did</t>
+                <t id="p09-s01-t03">they</t>
+                <t id="p09-s01-t04">find</t>
+                <punc>?</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p10">
+            <sentence id="p10-s01">
+                <punc>“</punc>
+                <t id="p10-s01-t01">After</t>
+                <t id="p10-s01-t02">adjusting</t>
+                <t id="p10-s01-t03">for</t>
+                <t id="p10-s01-t04">gender</t>
+                <punc>,</punc>
+                <t id="p10-s01-t05">prescription</t>
+                <t id="p10-s01-t06">H1</t>
+                <t id="p10-s01-t07">antihistamine</t>
+                <t id="p10-s01-t08">users</t>
+                <t id="p10-s01-t09">had</t>
+                <t id="p10-s01-t10">significantly</t>
+                <t id="p10-s01-t11">higher</t>
+                <t id="p10-s01-t12">weight</t>
+                <punc>(</punc>
+                <t id="p10-s01-t13">P &lt; 0.001</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p10-s01-t14">BMI</t>
+                <punc>(</punc>
+                <t id="p10-s01-t15">P &lt; 0.001</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p10-s01-t16">waist</t>
+                <t id="p10-s01-t17">circumference</t>
+                <punc>(</punc>
+                <t id="p10-s01-t18">P &lt; 0.001</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p10-s01-t19">and</t>
+                <t id="p10-s01-t20">insulin</t>
+                <t id="p10-s01-t21">levels</t>
+                <punc>(</punc>
+                <t id="p10-s01-t22">P &lt; 0.005</t>
+                <punc>)</punc>
+                <t id="p10-s01-t23">compared</t>
+                <t id="p10-s01-t24">to</t>
+                <t id="p10-s01-t25">healthy</t>
+                <t id="p10-s01-t26">controls</t>
+                <punc>.</punc>
+                <punc>”</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p11">
+            <sentence id="p11-s01">
+                <t id="p11-s01-t01">Specifically</t>
+                <punc>,</punc>
+                <t id="p11-s01-t02">controlling</t>
+                <t id="p11-s01-t03">for</t>
+                <t id="p11-s01-t04">age</t>
+                <t id="p11-s01-t05">and</t>
+                <t id="p11-s01-t06">gender</t>
+                <punc>,</punc>
+                <t id="p11-s01-t07">those</t>
+                <t id="p11-s01-t08">who</t>
+                <t id="p11-s01-t09">take</t>
+                <t id="p11-s01-t10">anti-histamines</t>
+                <t id="p11-s01-t11">were</t>
+                <t id="p11-s01-t12">55%</t>
+                <t id="p11-s01-t13">more</t>
+                <t id="p11-s01-t14">likely</t>
+                <t id="p11-s01-t15">to</t>
+                <t id="p11-s01-t16">be</t>
+                <t id="p11-s01-t17">overweight</t>
+                <t id="p11-s01-t18">than</t>
+                <t id="p11-s01-t19">their</t>
+                <t id="p11-s01-t20">non-allergy-suffering</t>
+                <t id="p11-s01-t21">peers</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p12">
+            <sentence id="p12-s01">
+                <t id="p12-s01-t01">However</t>
+                <punc>,</punc>
+                <t id="p12-s01-t02">the</t>
+                <t id="p12-s01-t03">increased</t>
+                <t id="p12-s01-t04">risk</t>
+                <t id="p12-s01-t05">of</t>
+                <t id="p12-s01-t06">overweight</t>
+                <t id="p12-s01-t07">with</t>
+                <t id="p12-s01-t08">antihistamine</t>
+                <t id="p12-s01-t09">use</t>
+                <t id="p12-s01-t10">was</t>
+                <t id="p12-s01-t11">more</t>
+                <t id="p12-s01-t12">pronounced</t>
+                <t id="p12-s01-t13">for</t>
+                <t id="p12-s01-t14">men</t>
+                <t id="p12-s01-t15">than</t>
+                <t id="p12-s01-t16">women</t>
+                <punc>(</punc>
+                <t id="p12-s01-t17">70%</t>
+                <t id="p12-s01-t18">vs</t>
+                <t id="p12-s01-t19">21%</t>
+                <t id="p12-s01-t20">increased</t>
+                <t id="p12-s01-t21">likelihood</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p13">
+            <sentence id="p13-s01">
+                <t id="p13-s01-t01">No</t>
+                <t id="p13-s01-t02">differences</t>
+                <t id="p13-s01-t03">between</t>
+                <t id="p13-s01-t04">the</t>
+                <t id="p13-s01-t05">groups</t>
+                <t id="p13-s01-t06">were</t>
+                <t id="p13-s01-t07">observed</t>
+                <t id="p13-s01-t08">for</t>
+                <t id="p13-s01-t09">any</t>
+                <t id="p13-s01-t10">of</t>
+                <t id="p13-s01-t11">the</t>
+                <t id="p13-s01-t12">other</t>
+                <t id="p13-s01-t13">metabolic</t>
+                <t id="p13-s01-t14">risk</t>
+                <t id="p13-s01-t15">factors</t>
+                <t id="p13-s01-t16">studied</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p14">
+            <sentence id="p14-s01">
+                <t id="p14-s01-t01">Of</t>
+                <t id="p14-s01-t02">course</t>
+                <punc>,</punc>
+                <t id="p14-s01-t03">as</t>
+                <t id="p14-s01-t04">I</t>
+                <t id="p14-s01-t05">mention</t>
+                <t id="p14-s01-t06">often</t>
+                <t id="p14-s01-t07">with</t>
+                <t id="p14-s01-t08">this</t>
+                <t id="p14-s01-t09">type</t>
+                <t id="p14-s01-t10">of</t>
+                <t id="p14-s01-t11">study</t>
+                <punc>,</punc>
+                <t id="p14-s01-t12">the</t>
+                <t id="p14-s01-t13">results</t>
+                <t id="p14-s01-t14">merely</t>
+                <t id="p14-s01-t15">suggest</t>
+                <t id="p14-s01-t16">a</t>
+                <t id="p14-s01-t17">correlation</t>
+                <t id="p14-s01-t18">between</t>
+                <t id="p14-s01-t19">antihistamine</t>
+                <t id="p14-s01-t20">use</t>
+                <t id="p14-s01-t21">and</t>
+                <t id="p14-s01-t22">body</t>
+                <t id="p14-s01-t23">weight</t>
+                <punc>;</punc>
+                <t id="p14-s01-t24">countless</t>
+                <t id="p14-s01-t25">other</t>
+                <t id="p14-s01-t26">confounding</t>
+                <t id="p14-s01-t27">factors</t>
+                <t id="p14-s01-t28">may</t>
+                <t id="p14-s01-t29">be</t>
+                <t id="p14-s01-t30">playing</t>
+                <t id="p14-s01-t31">a</t>
+                <t id="p14-s01-t32">role</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p14-s02">
+                <t id="p14-s02-t01">Nevertheless</t>
+                <punc>,</punc>
+                <t id="p14-s02-t02">the</t>
+                <t id="p14-s02-t03">preliminary</t>
+                <t id="p14-s02-t04">observation</t>
+                <t id="p14-s02-t05">is</t>
+                <t id="p14-s02-t06">intriguing</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p15">
+            <sentence id="p15-s01">
+                <t id="p15-s01-t01">In</t>
+                <t id="p15-s01-t02">addition</t>
+                <t id="p15-s01-t03">to</t>
+                <t id="p15-s01-t04">the</t>
+                <t id="p15-s01-t05">direct</t>
+                <t id="p15-s01-t06">effect</t>
+                <t id="p15-s01-t07">on</t>
+                <t id="p15-s01-t08">appetite</t>
+                <t id="p15-s01-t09">stimulation</t>
+                <punc>,</punc>
+                <t id="p15-s01-t10">the</t>
+                <t id="p15-s01-t11">increased</t>
+                <t id="p15-s01-t12">weight</t>
+                <t id="p15-s01-t13">observed</t>
+                <t id="p15-s01-t14">with</t>
+                <t id="p15-s01-t15">antihistamines</t>
+                <t id="p15-s01-t16">may</t>
+                <t id="p15-s01-t17">also</t>
+                <t id="p15-s01-t18">be</t>
+                <t id="p15-s01-t19">due</t>
+                <t id="p15-s01-t20">to</t>
+                <t id="p15-s01-t21">increased</t>
+                <t id="p15-s01-t22">sedation</t>
+                <punc>,</punc>
+                <t id="p15-s01-t23">suggest</t>
+                <t id="p15-s01-t24">the</t>
+                <t id="p15-s01-t25">authors</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p15-s02">
+                <t id="p15-s02-t01">Theoretically</t>
+                <punc>,</punc>
+                <t id="p15-s02-t02">at</t>
+                <t id="p15-s02-t03">least</t>
+                <punc>,</punc>
+                <t id="p15-s02-t04">the</t>
+                <t id="p15-s02-t05">increased</t>
+                <t id="p15-s02-t06">sedation</t>
+                <t id="p15-s02-t07">may</t>
+                <t id="p15-s02-t08">lead</t>
+                <t id="p15-s02-t09">to</t>
+                <t id="p15-s02-t10">a</t>
+                <t id="p15-s02-t11">decreased</t>
+                <t id="p15-s02-t12">energy</t>
+                <t id="p15-s02-t13">expenditure</t>
+                <t id="p15-s02-t14">and</t>
+                <t id="p15-s02-t15">weight</t>
+                <t id="p15-s02-t16">gain</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p15-s03">
+                <t id="p15-s03-t01">However</t>
+                <punc>,</punc>
+                <t id="p15-s03-t02">most</t>
+                <t id="p15-s03-t03">current</t>
+                <t id="p15-s03-t04">antihistamines</t>
+                <t id="p15-s03-t05">are</t>
+                <t id="p15-s03-t06">only</t>
+                <t id="p15-s03-t07">mildly</t>
+                <t id="p15-s03-t08">sedative</t>
+                <t id="p15-s03-t09">at</t>
+                <t id="p15-s03-t10">best</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p16">
+            <sentence id="p16-s01">
+                <t id="p16-s01-t01">I</t>
+                <t id="p16-s01-t02">have</t>
+                <t id="p16-s01-t03">tried</t>
+                <t id="p16-s01-t04">to</t>
+                <t id="p16-s01-t05">think</t>
+                <t id="p16-s01-t06">back</t>
+                <t id="p16-s01-t07">to</t>
+                <t id="p16-s01-t08">times</t>
+                <t id="p16-s01-t09">when</t>
+                <t id="p16-s01-t10">I</t>
+                <t id="p16-s01-t11">take</t>
+                <t id="p16-s01-t12">antihistamines</t>
+                <t id="p16-s01-t13">and</t>
+                <t id="p16-s01-t14">recount</t>
+                <t id="p16-s01-t15">whether</t>
+                <t id="p16-s01-t16">I</t>
+                <t id="p16-s01-t17">had</t>
+                <t id="p16-s01-t18">an</t>
+                <t id="p16-s01-t19">increased</t>
+                <t id="p16-s01-t20">appetite</t>
+                <t id="p16-s01-t21">or</t>
+                <t id="p16-s01-t22">sedation</t>
+                <punc>,</punc>
+                <t id="p16-s01-t23">and</t>
+                <t id="p16-s01-t24">I'm</t>
+                <t id="p16-s01-t25">not</t>
+                <t id="p16-s01-t26">sure</t>
+                <t id="p16-s01-t27">my</t>
+                <t id="p16-s01-t28">personal</t>
+                <t id="p16-s01-t29">experiences</t>
+                <t id="p16-s01-t30">corroborate</t>
+                <t id="p16-s01-t31">this</t>
+                <t id="p16-s01-t32">observation</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p16-s02">
+                <t id="p16-s02-t01">Then</t>
+                <t id="p16-s02-t02">again</t>
+                <punc>,</punc>
+                <t id="p16-s02-t03">since</t>
+                <t id="p16-s02-t04">I'm</t>
+                <t id="p16-s02-t05">a</t>
+                <t id="p16-s02-t06">fairly</t>
+                <t id="p16-s02-t07">chronic</t>
+                <t id="p16-s02-t08">antihistamine</t>
+                <t id="p16-s02-t09">user</t>
+                <punc>,</punc>
+                <t id="p16-s02-t10">I'm</t>
+                <t id="p16-s02-t11">probably</t>
+                <t id="p16-s02-t12">unlikely</t>
+                <t id="p16-s02-t13">to</t>
+                <t id="p16-s02-t14">notice</t>
+                <t id="p16-s02-t15">this</t>
+                <t id="p16-s02-t16">change</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p17">
+            <sentence id="p17-s01">
+                <t id="p17-s01-t01">For</t>
+                <t id="p17-s01-t02">the</t>
+                <t id="p17-s01-t03">sake</t>
+                <t id="p17-s01-t04">of</t>
+                <t id="p17-s01-t05">proper</t>
+                <t id="p17-s01-t06">breathing</t>
+                <punc>,</punc>
+                <t id="p17-s01-t07">I'll</t>
+                <t id="p17-s01-t08">stick</t>
+                <t id="p17-s01-t09">to</t>
+                <t id="p17-s01-t10">my</t>
+                <t id="p17-s01-t11">anti-histamines</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p18">
+            <sentence id="p18-s01">
+                <t id="p18-s01-t01">I</t>
+                <t id="p18-s01-t02">wonder</t>
+                <t id="p18-s01-t03">if</t>
+                <t id="p18-s01-t04">any</t>
+                <t id="p18-s01-t05">of</t>
+                <t id="p18-s01-t06">our</t>
+                <t id="p18-s01-t07">readers</t>
+                <t id="p18-s01-t08">have</t>
+                <t id="p18-s01-t09">noted</t>
+                <t id="p18-s01-t10">a</t>
+                <t id="p18-s01-t11">change</t>
+                <t id="p18-s01-t12">in</t>
+                <t id="p18-s01-t13">appetite</t>
+                <t id="p18-s01-t14">or</t>
+                <t id="p18-s01-t15">wakefulness</t>
+                <t id="p18-s01-t16">when</t>
+                <t id="p18-s01-t17">taking</t>
+                <t id="p18-s01-t18">antihistamines</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
 </document>

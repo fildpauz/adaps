@@ -5,6 +5,9 @@
     <citation>Kross E, Verduyn P, Demiralp E, Park J, Lee DS, et al. (2013) Facebook Use Predicts Declines in Subjective Well-Being in Young Adults. PLoS ONE 8(8): e69841. doi:10.1371/journal.pone.0069841 
         Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0069841 on 07 Dec 2016.</citation>
     <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0069841</url>
+    <info type="arise">
+        <arise-info book="2" section="2" unit="6" part="2" item="H" firstpage="30"/>
+    </info>
     <body>
         <paragraph id="p01">
             <sentence id="p01-s01">
@@ -31,8 +34,8 @@
                 <t id="p01-s02-t10">usage</t>
                 <t id="p01-s02-t11">and</t>
                 <t id="p01-s02-t12">well</t>
-				<punc>-</punc>
-				<t id="p01-s02-t13">being</t>
+                <punc>-</punc>
+                <t id="p01-s02-t13">being</t>
                 <punc>,</punc>
                 <t id="p01-s02-t14">the</t>
                 <t id="p01-s02-t15">sizes</t>
@@ -65,15 +68,15 @@
             <sentence id="p01-s04">
                 <t id="p01-s04-t01">Subjective</t>
                 <t id="p01-s04-t02">well</t>
-				<punc>-</punc>
-				<t id="p01-s04-t03">being</t>
+                <punc>-</punc>
+                <t id="p01-s04-t03">being</t>
                 <t id="p01-s04-t04">is</t>
                 <t id="p01-s04-t05">a</t>
                 <t id="p01-s04-t06">multiply</t>
                 <t id="p01-s04-t07">determined</t>
-           		<t id="p01-s04-t08">outcome</t>
-				<punc>—</punc>
-				<t id="p01-s04-t09">it</t>
+                <t id="p01-s04-t08">outcome</t>
+                <punc>—</punc>
+                <t id="p01-s04-t09">it</t>
                 <t id="p01-s04-t10">is</t>
                 <t id="p01-s04-t11">unrealistic</t>
                 <t id="p01-s04-t12">to</t>
@@ -102,8 +105,8 @@
                 <punc>,</punc>
                 <t id="p01-s05-t11">subjective</t>
                 <t id="p01-s05-t12">well</t>
-				<punc>-</punc>
-				<t id="p01-s05-t13">being</t>
+                <punc>-</punc>
+                <t id="p01-s05-t13">being</t>
                 <t id="p01-s05-t14">predicts</t>
                 <t id="p01-s05-t15">an</t>
                 <t id="p01-s05-t16">array</t>

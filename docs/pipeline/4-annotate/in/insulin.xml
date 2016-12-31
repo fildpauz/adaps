@@ -5,6 +5,9 @@
     <citation>Peyot M-L, Gray JP, Lamontagne J, Smith PJS, Holz GG, et al. (2009) Glucagon-Like Peptide-1 Induced Signaling and Insulin Secretion Do Not Drive Fuel and Energy Metabolism in Primary Rodent Pancreatic β-Cells. PLoS ONE 4(7): e6221. doi:10.1371/journal.pone.0006221
         Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0006221 on 15 Dec 2016.</citation>
     <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0006221</url>
+    <info type="arise">
+        <arise-info book="2" section="2" unit="6" part="2" item="G" firstpage="30"/>
+    </info>
     <body>
         <paragraph id="p01">
             <sentence id="p01-s01">
@@ -52,10 +55,10 @@
                 <punc>.</punc>
             </sentence>
             <sentence id="p01-s02">
-			<anaphor>
-                <t id="p01-s02-t01" type="GSL-1">The</t>
-                <t id="p01-s02-t02" type="GSL-1">study</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p01-s02-t01" type="GSL-1">The</t>
+                    <t id="p01-s02-t02" type="GSL-1">study</t>
+                </anaphor>
                 <t id="p01-s02-t03" type="GSL-1">was</t>
                 <t id="p01-s02-t04" type="Coxhead-AWL-2,AR-AWL-2a">designed</t>
                 <t id="p01-s02-t05" type="GSL-1">to</t>
@@ -156,13 +159,13 @@
                 <t id="p01-s06-t14">metabolic</t>
                 <t id="p01-s06-t15">activation</t>
                 <punc>,</punc>
-				<connector>
-                <t id="p01-s06-t16" type="Coxhead-AWL-1,AR-AWL-1b">specifically</t>
-				</connector>
+                <connector>
+                    <t id="p01-s06-t16" type="Coxhead-AWL-1,AR-AWL-1b">specifically</t>
+                </connector>
                 <t id="p01-s06-t17" type="GSL-1">whether</t>
-				<anaphor>
-                <t id="p01-s06-t18" type="GSL-1">it</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p01-s06-t18" type="GSL-1">it</t>
+                </anaphor>
                 <t id="p01-s06-t19" type="GSL-1">is</t>
                 <t id="p01-s06-t20" type="Coxhead-AWL-2,AR-AWL-2b">primarily</t>
                 <t id="p01-s06-t21" type="GSL-2">governed</t>
@@ -190,9 +193,9 @@
                 <t id="p01-s06-t36" type="Coxhead-AWL-6,AR-AWL-6a">enhanced</t>
                 <t id="p01-s06-t37">activation</t>
                 <t id="p01-s06-t38" type="GSL-1">of</t>
-				<anaphor>
-                <t id="p01-s06-t39" type="GSL-1">its</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p01-s06-t39" type="GSL-1">its</t>
+                </anaphor>
                 <t id="p01-s06-t40" type="Coxhead-AWL-1,AR-AWL-1b">major</t>
                 <t id="p01-s06-t41">cellular</t>
                 <t id="p01-s06-t42" type="Coxhead-AWL-1,AR-AWL-1a">function</t>

@@ -1,610 +1,613 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
 <document>
-<title>A New Body Shape Index Predicts Mortality Hazard Independently of Body Mass Index</title>
-<citation>Krakauer NY, Krakauer JC (2012) A New Body Shape Index Predicts Mortality Hazard Independently of Body Mass Index. PLoS ONE 7(7): e39504. doi:10.1371/journal.pone0039504
-Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0039504 on 04 Oct 2016.</citation>
-<url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0039504</url>
-<body>
-<paragraph id="p01">
-<sentence id="p01-s01">
-<t id="p01-s01-t01">According</t>
-<t id="p01-s01-t02">to</t>
-<t id="p01-s01-t03">the</t>
-<t id="p01-s01-t04">World</t>
-<t id="p01-s01-t05">Health</t>
-<t id="p01-s01-t06">Organization</t>
-<punc>(</punc>
-<t id="p01-s01-t07">WHO</t>
-<punc>)</punc>
-<punc>,</punc>
-<t id="p01-s01-t08">overweight</t>
-<t id="p01-s01-t09">and</t>
-<t id="p01-s01-t10">obesity</t>
-<t id="p01-s01-t11">are</t>
-<t id="p01-s01-t12">increasing</t>
-<t id="p01-s01-t13">in</t>
-<t id="p01-s01-t14">prevalence</t>
-<t id="p01-s01-t15">and</t>
-<t id="p01-s01-t16">rank</t>
-<t id="p01-s01-t17">fifth</t>
-<t id="p01-s01-t18">as</t>
-<t id="p01-s01-t19">worldwide</t>
-<t id="p01-s01-t20">causes</t>
-<t id="p01-s01-t21">of</t>
-<t id="p01-s01-t22">death</t>
-<t id="p01-s01-t23">among</t>
-<t id="p01-s01-t24">risk</t>
-<t id="p01-s01-t25">factors</t>
-<punc>,</punc>
-<t id="p01-s01-t26">behind</t>
-<t id="p01-s01-t27">high</t>
-<t id="p01-s01-t28">blood</t>
-<t id="p01-s01-t29">pressure</t>
-<punc>,</punc>
-<t id="p01-s01-t30">tobacco</t>
-<t id="p01-s01-t31">use</t>
-<punc>,</punc>
-<t id="p01-s01-t32">high</t>
-<t id="p01-s01-t33">blood</t>
-<t id="p01-s01-t34">glucose</t>
-<punc>,</punc>
-<t id="p01-s01-t35">and</t>
-<t id="p01-s01-t36">physical</t>
-<t id="p01-s01-t37">inactivity</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p01-s02">
-<t id="p01-s02-t01">In</t>
-<t id="p01-s02-t02">high</t>
-<t id="p01-s02-t03">and</t>
-<t id="p01-s02-t04">middle</t>
-<t id="p01-s02-t05">income</t>
-<t id="p01-s02-t06">countries</t>
-<punc>,</punc>
-<t id="p01-s02-t07">where</t>
-<t id="p01-s02-t08">the</t>
-<t id="p01-s02-t09">prevalence</t>
-<t id="p01-s02-t10">of</t>
-<t id="p01-s02-t11">overweight</t>
-<t id="p01-s02-t12">and</t>
-<t id="p01-s02-t13">obesity</t>
-<t id="p01-s02-t14">among</t>
-<t id="p01-s02-t15">the</t>
-<t id="p01-s02-t16">adult</t>
-<t id="p01-s02-t17">population</t>
-<t id="p01-s02-t18">already</t>
-<t id="p01-s02-t19">exceeds</t>
-<t id="p01-s02-t20">50%</t>
-<punc>,</punc>
-<t id="p01-s02-t21">overweight</t>
-<t id="p01-s02-t22">and</t>
-<t id="p01-s02-t23">obesity</t>
-<t id="p01-s02-t24">occupy</t>
-<t id="p01-s02-t25">third</t>
-<t id="p01-s02-t26">place</t>
-<t id="p01-s02-t27">as</t>
-<t id="p01-s02-t28">risk</t>
-<t id="p01-s02-t29">factors</t>
-<t id="p01-s02-t30">causing</t>
-<t id="p01-s02-t31">death</t>
-<punc>,</punc>
-<t id="p01-s02-t32">behind</t>
-<t id="p01-s02-t33">high</t>
-<t id="p01-s02-t34">blood</t>
-<t id="p01-s02-t35">pressure</t>
-<t id="p01-s02-t36">and</t>
-<t id="p01-s02-t37">tobacco</t>
-<t id="p01-s02-t38">use</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p01-s03">
-<t id="p01-s03-t01">WHO</t>
-<t id="p01-s03-t02">defined</t>
-<t id="p01-s03-t03">overweight</t>
-<t id="p01-s03-t04">as</t>
-<t id="p01-s03-t05">body</t>
-<t id="p01-s03-t06">mass</t>
-<t id="p01-s03-t07">index</t>
-<punc>(</punc>
-<t id="p01-s03-t08">BMI</t>
-<punc>;</punc>
-<t id="p01-s03-t09">weight</t>
-<t id="p01-s03-t10">divided</t>
-<t id="p01-s03-t11">by</t>
-<t id="p01-s03-t12">height2</t>
-<punc>)</punc>
-<t id="p01-s03-t13">at</t>
-<t id="p01-s03-t14">or</t>
-<t id="p01-s03-t15">above</t>
-<t id="p01-s03-t16">25</t>
-<t id="p01-s03-t17">kg m-2</t>
-<punc>,</punc>
-<t id="p01-s03-t18">with</t>
-<t id="p01-s03-t19">obesity</t>
-<t id="p01-s03-t20">defined</t>
-<t id="p01-s03-t21">as</t>
-<t id="p01-s03-t22">BMI</t>
-<t id="p01-s03-t23">≥</t>
-<t id="p01-s03-t24">30</t>
-<t id="p01-s03-t25">kg m-2</t>
-<punc>[</punc>
-<t id="p01-s03-t26">1</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-<sentence id="p01-s04">
-<t id="p01-s04-t01">Guidelines</t>
-<t id="p01-s04-t02">published</t>
-<t id="p01-s04-t03">by</t>
-<t id="p01-s04-t04">the</t>
-<t id="p01-s04-t05">USA</t>
-<t id="p01-s04-t06">National</t>
-<t id="p01-s04-t07">Institutes</t>
-<t id="p01-s04-t08">of</t>
-<t id="p01-s04-t09">Health</t>
-<punc>,</punc>
-<t id="p01-s04-t10">using</t>
-<t id="p01-s04-t11">the</t>
-<t id="p01-s04-t12">same</t>
-<t id="p01-s04-t13">definition</t>
-<punc>,</punc>
-<t id="p01-s04-t14">considered</t>
-<t id="p01-s04-t15">that</t>
-<t id="p01-s04-t16">overweight</t>
-<t id="p01-s04-t17">and</t>
-<t id="p01-s04-t18">obesity</t>
-<t id="p01-s04-t19">are</t>
-<t id="p01-s04-t20">the</t>
-<t id="p01-s04-t21">second</t>
-<t id="p01-s04-t22">leading</t>
-<t id="p01-s04-t23">cause</t>
-<t id="p01-s04-t24">of</t>
-<t id="p01-s04-t25">preventable</t>
-<t id="p01-s04-t26">death</t>
-<t id="p01-s04-t27">in</t>
-<t id="p01-s04-t28">the</t>
-<t id="p01-s04-t29">USA</t>
-<punc>,</punc>
-<t id="p01-s04-t30">behind</t>
-<t id="p01-s04-t31">smoking</t>
-<punc>[</punc>
-<t id="p01-s04-t32">2</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p02">
-<sentence id="p02-s01">
-<t id="p02-s01-t01">These</t>
-<t id="p02-s01-t02">BMI</t>
-<punc>-</punc>
-<t id="p02-s01-t03">based</t>
-<t id="p02-s01-t04">obesity</t>
-<t id="p02-s01-t05">guidelines</t>
-<t id="p02-s01-t06">have</t>
-<t id="p02-s01-t07">been</t>
-<t id="p02-s01-t08">accompanied</t>
-<t id="p02-s01-t09">by</t>
-<t id="p02-s01-t10">doubt</t>
-<t id="p02-s01-t11">as</t>
-<t id="p02-s01-t12">to</t>
-<t id="p02-s01-t13">the</t>
-<t id="p02-s01-t14">validity</t>
-<t id="p02-s01-t15">of</t>
-<t id="p02-s01-t16">BMI</t>
-<t id="p02-s01-t17">as</t>
-<t id="p02-s01-t18">an</t>
-<t id="p02-s01-t19">indicator</t>
-<t id="p02-s01-t20">of</t>
-<t id="p02-s01-t21">dangerous</t>
-<t id="p02-s01-t22">obesity</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p02-s02">
-<t id="p02-s02-t01">BMI</t>
-<t id="p02-s02-t02">does</t>
-<t id="p02-s02-t03">not</t>
-<t id="p02-s02-t04">distinguish</t>
-<t id="p02-s02-t05">between</t>
-<t id="p02-s02-t06">muscle</t>
-<t id="p02-s02-t07">and</t>
-<t id="p02-s02-t08">fat</t>
-<t id="p02-s02-t09">accumulation</t>
-<punc>[</punc>
-<t id="p02-s02-t10">3</t>
-<punc>]</punc>
-<punc>–</punc>
-<punc>[</punc>
-<t id="p02-s02-t11">6</t>
-<punc>]</punc>
-<punc>,</punc>
-<t id="p02-s02-t12">and</t>
-<t id="p02-s02-t13">there</t>
-<t id="p02-s02-t14">is</t>
-<t id="p02-s02-t15">evidence</t>
-<t id="p02-s02-t16">that</t>
-<t id="p02-s02-t17">whereas</t>
-<t id="p02-s02-t18">higher</t>
-<t id="p02-s02-t19">fat</t>
-<t id="p02-s02-t20">mass</t>
-<t id="p02-s02-t21">is</t>
-<t id="p02-s02-t22">associated</t>
-<t id="p02-s02-t23">with</t>
-<t id="p02-s02-t24">greater</t>
-<t id="p02-s02-t25">risk</t>
-<t id="p02-s02-t26">of</t>
-<t id="p02-s02-t27">premature</t>
-<t id="p02-s02-t28">death</t>
-<punc>,</punc>
-<t id="p02-s02-t29">higher</t>
-<t id="p02-s02-t30">muscle</t>
-<t id="p02-s02-t31">mass</t>
-<t id="p02-s02-t32">reduces</t>
-<t id="p02-s02-t33">risk</t>
-<punc>[</punc>
-<t id="p02-s02-t34">7</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-<sentence id="p02-s03">
-<t id="p02-s03-t01">As</t>
-<t id="p02-s03-t02">well</t>
-<punc>,</punc>
-<t id="p02-s03-t03">BMI</t>
-<t id="p02-s03-t04">does</t>
-<t id="p02-s03-t05">not</t>
-<t id="p02-s03-t06">distinguish</t>
-<t id="p02-s03-t07">between</t>
-<t id="p02-s03-t08">fat</t>
-<t id="p02-s03-t09">locations</t>
-<punc>,</punc>
-<t id="p02-s03-t10">when</t>
-<t id="p02-s03-t11">central</t>
-<t id="p02-s03-t12">or</t>
-<t id="p02-s03-t13">abdominal</t>
-<t id="p02-s03-t14">fat</t>
-<t id="p02-s03-t15">deposition</t>
-<t id="p02-s03-t16">is</t>
-<t id="p02-s03-t17">thought</t>
-<t id="p02-s03-t18">to</t>
-<t id="p02-s03-t19">be</t>
-<t id="p02-s03-t20">particularly</t>
-<t id="p02-s03-t21">perilous</t>
-<punc>[</punc>
-<t id="p02-s03-t22">8</t>
-<punc>]</punc>
-<punc>–</punc>
-<punc>[</punc>
-<t id="p02-s03-t23">11</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-<sentence id="p02-s04">
-<t id="p02-s04-t01">Waist</t>
-<t id="p02-s04-t02">circumference</t>
-<punc>(</punc>
-<t id="p02-s04-t03">WC</t>
-<punc>)</punc>
-<t id="p02-s04-t04">has</t>
-<t id="p02-s04-t05">emerged</t>
-<t id="p02-s04-t06">as</t>
-<t id="p02-s04-t07">a</t>
-<t id="p02-s04-t08">leading</t>
-<t id="p02-s04-t09">complement</t>
-<t id="p02-s04-t10">to</t>
-<t id="p02-s04-t11">BMI</t>
-<t id="p02-s04-t12">for</t>
-<t id="p02-s04-t13">indicating</t>
-<t id="p02-s04-t14">obesity</t>
-<t id="p02-s04-t15">risk</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p02-s05">
-<t id="p02-s05-t01">A</t>
-<t id="p02-s05-t02">number</t>
-<t id="p02-s05-t03">of</t>
-<t id="p02-s05-t04">studies</t>
-<t id="p02-s05-t05">have</t>
-<t id="p02-s05-t06">found</t>
-<t id="p02-s05-t07">that</t>
-<t id="p02-s05-t08">WC</t>
-<t id="p02-s05-t09">predicted</t>
-<t id="p02-s05-t10">mortality</t>
-<t id="p02-s05-t11">risk</t>
-<t id="p02-s05-t12">better</t>
-<t id="p02-s05-t13">than</t>
-<t id="p02-s05-t14">BMI</t>
-<punc>[</punc>
-<t id="p02-s05-t15">12</t>
-<punc>]</punc>
-<punc>–</punc>
-<punc>[</punc>
-<t id="p02-s05-t16">17</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-<sentence id="p02-s06">
-<t id="p02-s06-t01">A</t>
-<t id="p02-s06-t02">recent</t>
-<t id="p02-s06-t03">WHO</t>
-<t id="p02-s06-t04">report</t>
-<t id="p02-s06-t05">summarized</t>
-<t id="p02-s06-t06">evidence</t>
-<t id="p02-s06-t07">for</t>
-<t id="p02-s06-t08">WC</t>
-<t id="p02-s06-t09">as</t>
-<t id="p02-s06-t10">an</t>
-<t id="p02-s06-t11">indicator</t>
-<t id="p02-s06-t12">of</t>
-<t id="p02-s06-t13">disease</t>
-<t id="p02-s06-t14">risk</t>
-<punc>,</punc>
-<t id="p02-s06-t15">and</t>
-<t id="p02-s06-t16">suggests</t>
-<t id="p02-s06-t17">that</t>
-<t id="p02-s06-t18">WC</t>
-<t id="p02-s06-t19">could</t>
-<t id="p02-s06-t20">be</t>
-<t id="p02-s06-t21">used</t>
-<t id="p02-s06-t22">as</t>
-<t id="p02-s06-t23">an</t>
-<t id="p02-s06-t24">alternative</t>
-<t id="p02-s06-t25">to</t>
-<t id="p02-s06-t26">BMI</t>
-<punc>[</punc>
-<t id="p02-s06-t27">18</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p03">
-<sentence id="p03-s01">
-<t id="p03-s01-t01">A</t>
-<t id="p03-s01-t02">key</t>
-<t id="p03-s01-t03">limitation</t>
-<punc>,</punc>
-<t id="p03-s01-t04">mentioned</t>
-<t id="p03-s01-t05">in</t>
-<t id="p03-s01-t06">the</t>
-<t id="p03-s01-t07">WHO</t>
-<t id="p03-s01-t08">report</t>
-<punc>,</punc>
-<t id="p03-s01-t09">of</t>
-<t id="p03-s01-t10">using</t>
-<t id="p03-s01-t11">WC</t>
-<t id="p03-s01-t12">as</t>
-<t id="p03-s01-t13">a</t>
-<t id="p03-s01-t14">proxy</t>
-<t id="p03-s01-t15">for</t>
-<t id="p03-s01-t16">abdominal</t>
-<t id="p03-s01-t17">fat</t>
-<t id="p03-s01-t18">distribution</t>
-<t id="p03-s01-t19">is</t>
-<t id="p03-s01-t20">that</t>
-<t id="p03-s01-t21">it</t>
-<t id="p03-s01-t22">is</t>
-<t id="p03-s01-t23">sensitive</t>
-<t id="p03-s01-t24">to</t>
-<t id="p03-s01-t25">body</t>
-<t id="p03-s01-t26">size</t>
-<punc>(</punc>
-<t id="p03-s01-t27">height</t>
-<t id="p03-s01-t28">and</t>
-<t id="p03-s01-t29">weight</t>
-<punc>)</punc>
-<t id="p03-s01-t30">as</t>
-<t id="p03-s01-t31">well</t>
-<t id="p03-s01-t32">as</t>
-<t id="p03-s01-t33">to</t>
-<t id="p03-s01-t34">fat</t>
-<t id="p03-s01-t35">percentage</t>
-<t id="p03-s01-t36">and</t>
-<t id="p03-s01-t37">distribution</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p03-s02">
-<t id="p03-s02-t01">In</t>
-<t id="p03-s02-t02">fact</t>
-<punc>,</punc>
-<t id="p03-s02-t03">WC</t>
-<t id="p03-s02-t04">is</t>
-<t id="p03-s02-t05">highly</t>
-<t id="p03-s02-t06">correlated</t>
-<t id="p03-s02-t07">with</t>
-<t id="p03-s02-t08">BMI</t>
-<punc>,</punc>
-<t id="p03-s02-t09">to</t>
-<t id="p03-s02-t10">the</t>
-<t id="p03-s02-t11">extent</t>
-<t id="p03-s02-t12">that</t>
-<t id="p03-s02-t13">differentiating</t>
-<t id="p03-s02-t14">the</t>
-<t id="p03-s02-t15">two</t>
-<t id="p03-s02-t16">as</t>
-<t id="p03-s02-t17">epidemiological</t>
-<t id="p03-s02-t18">risk</t>
-<t id="p03-s02-t19">factors</t>
-<t id="p03-s02-t20">can</t>
-<t id="p03-s02-t21">be</t>
-<t id="p03-s02-t22">difficult</t>
-<punc>[</punc>
-<t id="p03-s02-t23">19</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-<sentence id="p03-s03">
-<t id="p03-s03-t01">According</t>
-<t id="p03-s03-t02">to</t>
-<t id="p03-s03-t03">a</t>
-<t id="p03-s03-t04">consensus</t>
-<t id="p03-s03-t05">statement</t>
-<t id="p03-s03-t06">on</t>
-<t id="p03-s03-t07">the</t>
-<t id="p03-s03-t08">clinical</t>
-<t id="p03-s03-t09">usefulness</t>
-<t id="p03-s03-t10">of</t>
-<t id="p03-s03-t11">WC</t>
-<punc>[</punc>
-<t id="p03-s03-t12">20</t>
-<punc>]</punc>
-<punc>,</punc>
-<punc>“</punc>
-<t id="p03-s03-t13">Further</t>
-<t id="p03-s03-t14">studies</t>
-<t id="p03-s03-t15">are</t>
-<t id="p03-s03-t16">needed</t>
-<t id="p03-s03-t17">to</t>
-<t id="p03-s03-t18">establish</t>
-<t id="p03-s03-t19">WC</t>
-<t id="p03-s03-t20">cut</t>
-<t id="p03-s03-t21">points</t>
-<t id="p03-s03-t22">that</t>
-<t id="p03-s03-t23">can</t>
-<t id="p03-s03-t24">assess</t>
-<t id="p03-s03-t25">cardiometabolic</t>
-<t id="p03-s03-t26">risk</t>
-<punc>,</punc>
-<t id="p03-s03-t27">not</t>
-<t id="p03-s03-t28">adequately</t>
-<t id="p03-s03-t29">captured</t>
-<t id="p03-s03-t30">by</t>
-<t id="p03-s03-t31">BMI</t>
-<t id="p03-s03-t32">and</t>
-<t id="p03-s03-t33">routine</t>
-<t id="p03-s03-t34">clinical</t>
-<t id="p03-s03-t35">assessments</t>
-<punc>.</punc>
-<punc>”</punc>
-</sentence>
-<sentence id="p03-s04">
-<t id="p03-s04-t01">Scaling</t>
-<t id="p03-s04-t02">WC</t>
-<t id="p03-s04-t03">via</t>
-<t id="p03-s04-t04">allometric</t>
-<t id="p03-s04-t05">analysis</t>
-<t id="p03-s04-t06">to</t>
-<t id="p03-s04-t07">produce</t>
-<t id="p03-s04-t08">a</t>
-<t id="p03-s04-t09">quantity</t>
-<t id="p03-s04-t10">that</t>
-<t id="p03-s04-t11">is</t>
-<t id="p03-s04-t12">independent</t>
-<t id="p03-s04-t13">of</t>
-<t id="p03-s04-t14">BMI</t>
-<t id="p03-s04-t15">offers</t>
-<t id="p03-s04-t16">one</t>
-<t id="p03-s04-t17">means</t>
-<t id="p03-s04-t18">of</t>
-<t id="p03-s04-t19">separating</t>
-<t id="p03-s04-t20">the</t>
-<t id="p03-s04-t21">impact</t>
-<t id="p03-s04-t22">on</t>
-<t id="p03-s04-t23">health</t>
-<t id="p03-s04-t24">of</t>
-<t id="p03-s04-t25">body</t>
-<t id="p03-s04-t26">shape</t>
-<punc>(</punc>
-<t id="p03-s04-t27">degree</t>
-<t id="p03-s04-t28">of</t>
-<t id="p03-s04-t29">central</t>
-<t id="p03-s04-t30">bulge</t>
-<punc>,</punc>
-<t id="p03-s04-t31">presumably</t>
-<t id="p03-s04-t32">correlating</t>
-<t id="p03-s04-t33">with</t>
-<t id="p03-s04-t34">abdominal</t>
-<t id="p03-s04-t35">fat</t>
-<t id="p03-s04-t36">deposits</t>
-<punc>)</punc>
-<t id="p03-s04-t37">from</t>
-<t id="p03-s04-t38">that</t>
-<t id="p03-s04-t39">of</t>
-<t id="p03-s04-t40">body</t>
-<t id="p03-s04-t41">size</t>
-<punc>(</punc>
-<t id="p03-s04-t42">as</t>
-<t id="p03-s04-t43">measured</t>
-<t id="p03-s04-t44">by</t>
-<t id="p03-s04-t45">height</t>
-<punc>,</punc>
-<t id="p03-s04-t46">weight</t>
-<punc>,</punc>
-<t id="p03-s04-t47">and</t>
-<t id="p03-s04-t48">BMI</t>
-<punc>)</punc>
-<punc>.</punc>
-</sentence>
-<sentence id="p03-s05">
-<t id="p03-s05-t01">In</t>
-<t id="p03-s05-t02">this</t>
-<t id="p03-s05-t03">paper</t>
-<punc>,</punc>
-<t id="p03-s05-t04">our</t>
-<t id="p03-s05-t05">objectives</t>
-<t id="p03-s05-t06">are</t>
-<punc>(</punc>
-<t id="p03-s05-t07">1</t>
-<punc>)</punc>
-<t id="p03-s05-t08">develop</t>
-<t id="p03-s05-t09">A</t>
-<t id="p03-s05-t10">Body</t>
-<t id="p03-s05-t11">Shape</t>
-<t id="p03-s05-t12">Index</t>
-<punc>(</punc>
-<t id="p03-s05-t13">ABSI</t>
-<punc>)</punc>
-<t id="p03-s05-t14">based</t>
-<t id="p03-s05-t15">on</t>
-<t id="p03-s05-t16">WC</t>
-<t id="p03-s05-t17">that</t>
-<t id="p03-s05-t18">is</t>
-<t id="p03-s05-t19">approximately</t>
-<t id="p03-s05-t20">independent</t>
-<t id="p03-s05-t21">of</t>
-<t id="p03-s05-t22">height</t>
-<punc>,</punc>
-<t id="p03-s05-t23">weight</t>
-<punc>,</punc>
-<t id="p03-s05-t24">and</t>
-<t id="p03-s05-t25">BMI</t>
-<punc>;</punc>
-<t id="p03-s05-t26">and</t>
-<punc>(</punc>
-<t id="p03-s05-t27">2</t>
-<punc>)</punc>
-<t id="p03-s05-t28">evaluate</t>
-<t id="p03-s05-t29">ABSI</t>
-<t id="p03-s05-t30">as</t>
-<t id="p03-s05-t31">a</t>
-<t id="p03-s05-t32">predictor</t>
-<t id="p03-s05-t33">of</t>
-<t id="p03-s05-t34">mortality</t>
-<t id="p03-s05-t35">across</t>
-<t id="p03-s05-t36">age</t>
-<punc>,</punc>
-<t id="p03-s05-t37">sex</t>
-<punc>,</punc>
-<t id="p03-s05-t38">ethnicity</t>
-<punc>,</punc>
-<t id="p03-s05-t39">and</t>
-<t id="p03-s05-t40">BMI</t>
-<t id="p03-s05-t41">categories</t>
-<t id="p03-s05-t42">in</t>
-<t id="p03-s05-t43">a</t>
-<t id="p03-s05-t44">population</t>
-<t id="p03-s05-t45">sample</t>
-<punc>,</punc>
-<t id="p03-s05-t46">compared</t>
-<t id="p03-s05-t47">to</t>
-<t id="p03-s05-t48">the</t>
-<t id="p03-s05-t49">conventional</t>
-<t id="p03-s05-t50">predictors</t>
-<t id="p03-s05-t51">BMI</t>
-<t id="p03-s05-t52">and</t>
-<t id="p03-s05-t53">WC</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-</body>
+    <title>A New Body Shape Index Predicts Mortality Hazard Independently of Body Mass Index</title>
+    <citation>Krakauer NY, Krakauer JC (2012) A New Body Shape Index Predicts Mortality Hazard Independently of Body Mass Index. PLoS ONE 7(7): e39504. doi:10.1371/journal.pone0039504
+        Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0039504 on 04 Oct 2016.</citation>
+    <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0039504</url>
+    <info type="arise">
+        <arise-info book="2" section="3" unit="3" part="2" firstpage="43"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01">According</t>
+                <t id="p01-s01-t02">to</t>
+                <t id="p01-s01-t03">the</t>
+                <t id="p01-s01-t04">World</t>
+                <t id="p01-s01-t05">Health</t>
+                <t id="p01-s01-t06">Organization</t>
+                <punc>(</punc>
+                <t id="p01-s01-t07">WHO</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p01-s01-t08">overweight</t>
+                <t id="p01-s01-t09">and</t>
+                <t id="p01-s01-t10">obesity</t>
+                <t id="p01-s01-t11">are</t>
+                <t id="p01-s01-t12">increasing</t>
+                <t id="p01-s01-t13">in</t>
+                <t id="p01-s01-t14">prevalence</t>
+                <t id="p01-s01-t15">and</t>
+                <t id="p01-s01-t16">rank</t>
+                <t id="p01-s01-t17">fifth</t>
+                <t id="p01-s01-t18">as</t>
+                <t id="p01-s01-t19">worldwide</t>
+                <t id="p01-s01-t20">causes</t>
+                <t id="p01-s01-t21">of</t>
+                <t id="p01-s01-t22">death</t>
+                <t id="p01-s01-t23">among</t>
+                <t id="p01-s01-t24">risk</t>
+                <t id="p01-s01-t25">factors</t>
+                <punc>,</punc>
+                <t id="p01-s01-t26">behind</t>
+                <t id="p01-s01-t27">high</t>
+                <t id="p01-s01-t28">blood</t>
+                <t id="p01-s01-t29">pressure</t>
+                <punc>,</punc>
+                <t id="p01-s01-t30">tobacco</t>
+                <t id="p01-s01-t31">use</t>
+                <punc>,</punc>
+                <t id="p01-s01-t32">high</t>
+                <t id="p01-s01-t33">blood</t>
+                <t id="p01-s01-t34">glucose</t>
+                <punc>,</punc>
+                <t id="p01-s01-t35">and</t>
+                <t id="p01-s01-t36">physical</t>
+                <t id="p01-s01-t37">inactivity</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01">In</t>
+                <t id="p01-s02-t02">high</t>
+                <t id="p01-s02-t03">and</t>
+                <t id="p01-s02-t04">middle</t>
+                <t id="p01-s02-t05">income</t>
+                <t id="p01-s02-t06">countries</t>
+                <punc>,</punc>
+                <t id="p01-s02-t07">where</t>
+                <t id="p01-s02-t08">the</t>
+                <t id="p01-s02-t09">prevalence</t>
+                <t id="p01-s02-t10">of</t>
+                <t id="p01-s02-t11">overweight</t>
+                <t id="p01-s02-t12">and</t>
+                <t id="p01-s02-t13">obesity</t>
+                <t id="p01-s02-t14">among</t>
+                <t id="p01-s02-t15">the</t>
+                <t id="p01-s02-t16">adult</t>
+                <t id="p01-s02-t17">population</t>
+                <t id="p01-s02-t18">already</t>
+                <t id="p01-s02-t19">exceeds</t>
+                <t id="p01-s02-t20">50%</t>
+                <punc>,</punc>
+                <t id="p01-s02-t21">overweight</t>
+                <t id="p01-s02-t22">and</t>
+                <t id="p01-s02-t23">obesity</t>
+                <t id="p01-s02-t24">occupy</t>
+                <t id="p01-s02-t25">third</t>
+                <t id="p01-s02-t26">place</t>
+                <t id="p01-s02-t27">as</t>
+                <t id="p01-s02-t28">risk</t>
+                <t id="p01-s02-t29">factors</t>
+                <t id="p01-s02-t30">causing</t>
+                <t id="p01-s02-t31">death</t>
+                <punc>,</punc>
+                <t id="p01-s02-t32">behind</t>
+                <t id="p01-s02-t33">high</t>
+                <t id="p01-s02-t34">blood</t>
+                <t id="p01-s02-t35">pressure</t>
+                <t id="p01-s02-t36">and</t>
+                <t id="p01-s02-t37">tobacco</t>
+                <t id="p01-s02-t38">use</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s03">
+                <t id="p01-s03-t01">WHO</t>
+                <t id="p01-s03-t02">defined</t>
+                <t id="p01-s03-t03">overweight</t>
+                <t id="p01-s03-t04">as</t>
+                <t id="p01-s03-t05">body</t>
+                <t id="p01-s03-t06">mass</t>
+                <t id="p01-s03-t07">index</t>
+                <punc>(</punc>
+                <t id="p01-s03-t08">BMI</t>
+                <punc>;</punc>
+                <t id="p01-s03-t09">weight</t>
+                <t id="p01-s03-t10">divided</t>
+                <t id="p01-s03-t11">by</t>
+                <t id="p01-s03-t12">height2</t>
+                <punc>)</punc>
+                <t id="p01-s03-t13">at</t>
+                <t id="p01-s03-t14">or</t>
+                <t id="p01-s03-t15">above</t>
+                <t id="p01-s03-t16">25</t>
+                <t id="p01-s03-t17">kg m-2</t>
+                <punc>,</punc>
+                <t id="p01-s03-t18">with</t>
+                <t id="p01-s03-t19">obesity</t>
+                <t id="p01-s03-t20">defined</t>
+                <t id="p01-s03-t21">as</t>
+                <t id="p01-s03-t22">BMI</t>
+                <t id="p01-s03-t23">≥</t>
+                <t id="p01-s03-t24">30</t>
+                <t id="p01-s03-t25">kg m-2</t>
+                <punc>[</punc>
+                <t id="p01-s03-t26">1</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s04">
+                <t id="p01-s04-t01">Guidelines</t>
+                <t id="p01-s04-t02">published</t>
+                <t id="p01-s04-t03">by</t>
+                <t id="p01-s04-t04">the</t>
+                <t id="p01-s04-t05">USA</t>
+                <t id="p01-s04-t06">National</t>
+                <t id="p01-s04-t07">Institutes</t>
+                <t id="p01-s04-t08">of</t>
+                <t id="p01-s04-t09">Health</t>
+                <punc>,</punc>
+                <t id="p01-s04-t10">using</t>
+                <t id="p01-s04-t11">the</t>
+                <t id="p01-s04-t12">same</t>
+                <t id="p01-s04-t13">definition</t>
+                <punc>,</punc>
+                <t id="p01-s04-t14">considered</t>
+                <t id="p01-s04-t15">that</t>
+                <t id="p01-s04-t16">overweight</t>
+                <t id="p01-s04-t17">and</t>
+                <t id="p01-s04-t18">obesity</t>
+                <t id="p01-s04-t19">are</t>
+                <t id="p01-s04-t20">the</t>
+                <t id="p01-s04-t21">second</t>
+                <t id="p01-s04-t22">leading</t>
+                <t id="p01-s04-t23">cause</t>
+                <t id="p01-s04-t24">of</t>
+                <t id="p01-s04-t25">preventable</t>
+                <t id="p01-s04-t26">death</t>
+                <t id="p01-s04-t27">in</t>
+                <t id="p01-s04-t28">the</t>
+                <t id="p01-s04-t29">USA</t>
+                <punc>,</punc>
+                <t id="p01-s04-t30">behind</t>
+                <t id="p01-s04-t31">smoking</t>
+                <punc>[</punc>
+                <t id="p01-s04-t32">2</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence id="p02-s01">
+                <t id="p02-s01-t01">These</t>
+                <t id="p02-s01-t02">BMI</t>
+                <punc>-</punc>
+                <t id="p02-s01-t03">based</t>
+                <t id="p02-s01-t04">obesity</t>
+                <t id="p02-s01-t05">guidelines</t>
+                <t id="p02-s01-t06">have</t>
+                <t id="p02-s01-t07">been</t>
+                <t id="p02-s01-t08">accompanied</t>
+                <t id="p02-s01-t09">by</t>
+                <t id="p02-s01-t10">doubt</t>
+                <t id="p02-s01-t11">as</t>
+                <t id="p02-s01-t12">to</t>
+                <t id="p02-s01-t13">the</t>
+                <t id="p02-s01-t14">validity</t>
+                <t id="p02-s01-t15">of</t>
+                <t id="p02-s01-t16">BMI</t>
+                <t id="p02-s01-t17">as</t>
+                <t id="p02-s01-t18">an</t>
+                <t id="p02-s01-t19">indicator</t>
+                <t id="p02-s01-t20">of</t>
+                <t id="p02-s01-t21">dangerous</t>
+                <t id="p02-s01-t22">obesity</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s02">
+                <t id="p02-s02-t01">BMI</t>
+                <t id="p02-s02-t02">does</t>
+                <t id="p02-s02-t03">not</t>
+                <t id="p02-s02-t04">distinguish</t>
+                <t id="p02-s02-t05">between</t>
+                <t id="p02-s02-t06">muscle</t>
+                <t id="p02-s02-t07">and</t>
+                <t id="p02-s02-t08">fat</t>
+                <t id="p02-s02-t09">accumulation</t>
+                <punc>[</punc>
+                <t id="p02-s02-t10">3</t>
+                <punc>]</punc>
+                <punc>–</punc>
+                <punc>[</punc>
+                <t id="p02-s02-t11">6</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <t id="p02-s02-t12">and</t>
+                <t id="p02-s02-t13">there</t>
+                <t id="p02-s02-t14">is</t>
+                <t id="p02-s02-t15">evidence</t>
+                <t id="p02-s02-t16">that</t>
+                <t id="p02-s02-t17">whereas</t>
+                <t id="p02-s02-t18">higher</t>
+                <t id="p02-s02-t19">fat</t>
+                <t id="p02-s02-t20">mass</t>
+                <t id="p02-s02-t21">is</t>
+                <t id="p02-s02-t22">associated</t>
+                <t id="p02-s02-t23">with</t>
+                <t id="p02-s02-t24">greater</t>
+                <t id="p02-s02-t25">risk</t>
+                <t id="p02-s02-t26">of</t>
+                <t id="p02-s02-t27">premature</t>
+                <t id="p02-s02-t28">death</t>
+                <punc>,</punc>
+                <t id="p02-s02-t29">higher</t>
+                <t id="p02-s02-t30">muscle</t>
+                <t id="p02-s02-t31">mass</t>
+                <t id="p02-s02-t32">reduces</t>
+                <t id="p02-s02-t33">risk</t>
+                <punc>[</punc>
+                <t id="p02-s02-t34">7</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s03">
+                <t id="p02-s03-t01">As</t>
+                <t id="p02-s03-t02">well</t>
+                <punc>,</punc>
+                <t id="p02-s03-t03">BMI</t>
+                <t id="p02-s03-t04">does</t>
+                <t id="p02-s03-t05">not</t>
+                <t id="p02-s03-t06">distinguish</t>
+                <t id="p02-s03-t07">between</t>
+                <t id="p02-s03-t08">fat</t>
+                <t id="p02-s03-t09">locations</t>
+                <punc>,</punc>
+                <t id="p02-s03-t10">when</t>
+                <t id="p02-s03-t11">central</t>
+                <t id="p02-s03-t12">or</t>
+                <t id="p02-s03-t13">abdominal</t>
+                <t id="p02-s03-t14">fat</t>
+                <t id="p02-s03-t15">deposition</t>
+                <t id="p02-s03-t16">is</t>
+                <t id="p02-s03-t17">thought</t>
+                <t id="p02-s03-t18">to</t>
+                <t id="p02-s03-t19">be</t>
+                <t id="p02-s03-t20">particularly</t>
+                <t id="p02-s03-t21">perilous</t>
+                <punc>[</punc>
+                <t id="p02-s03-t22">8</t>
+                <punc>]</punc>
+                <punc>–</punc>
+                <punc>[</punc>
+                <t id="p02-s03-t23">11</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s04">
+                <t id="p02-s04-t01">Waist</t>
+                <t id="p02-s04-t02">circumference</t>
+                <punc>(</punc>
+                <t id="p02-s04-t03">WC</t>
+                <punc>)</punc>
+                <t id="p02-s04-t04">has</t>
+                <t id="p02-s04-t05">emerged</t>
+                <t id="p02-s04-t06">as</t>
+                <t id="p02-s04-t07">a</t>
+                <t id="p02-s04-t08">leading</t>
+                <t id="p02-s04-t09">complement</t>
+                <t id="p02-s04-t10">to</t>
+                <t id="p02-s04-t11">BMI</t>
+                <t id="p02-s04-t12">for</t>
+                <t id="p02-s04-t13">indicating</t>
+                <t id="p02-s04-t14">obesity</t>
+                <t id="p02-s04-t15">risk</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s05">
+                <t id="p02-s05-t01">A</t>
+                <t id="p02-s05-t02">number</t>
+                <t id="p02-s05-t03">of</t>
+                <t id="p02-s05-t04">studies</t>
+                <t id="p02-s05-t05">have</t>
+                <t id="p02-s05-t06">found</t>
+                <t id="p02-s05-t07">that</t>
+                <t id="p02-s05-t08">WC</t>
+                <t id="p02-s05-t09">predicted</t>
+                <t id="p02-s05-t10">mortality</t>
+                <t id="p02-s05-t11">risk</t>
+                <t id="p02-s05-t12">better</t>
+                <t id="p02-s05-t13">than</t>
+                <t id="p02-s05-t14">BMI</t>
+                <punc>[</punc>
+                <t id="p02-s05-t15">12</t>
+                <punc>]</punc>
+                <punc>–</punc>
+                <punc>[</punc>
+                <t id="p02-s05-t16">17</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s06">
+                <t id="p02-s06-t01">A</t>
+                <t id="p02-s06-t02">recent</t>
+                <t id="p02-s06-t03">WHO</t>
+                <t id="p02-s06-t04">report</t>
+                <t id="p02-s06-t05">summarized</t>
+                <t id="p02-s06-t06">evidence</t>
+                <t id="p02-s06-t07">for</t>
+                <t id="p02-s06-t08">WC</t>
+                <t id="p02-s06-t09">as</t>
+                <t id="p02-s06-t10">an</t>
+                <t id="p02-s06-t11">indicator</t>
+                <t id="p02-s06-t12">of</t>
+                <t id="p02-s06-t13">disease</t>
+                <t id="p02-s06-t14">risk</t>
+                <punc>,</punc>
+                <t id="p02-s06-t15">and</t>
+                <t id="p02-s06-t16">suggests</t>
+                <t id="p02-s06-t17">that</t>
+                <t id="p02-s06-t18">WC</t>
+                <t id="p02-s06-t19">could</t>
+                <t id="p02-s06-t20">be</t>
+                <t id="p02-s06-t21">used</t>
+                <t id="p02-s06-t22">as</t>
+                <t id="p02-s06-t23">an</t>
+                <t id="p02-s06-t24">alternative</t>
+                <t id="p02-s06-t25">to</t>
+                <t id="p02-s06-t26">BMI</t>
+                <punc>[</punc>
+                <t id="p02-s06-t27">18</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p03">
+            <sentence id="p03-s01">
+                <t id="p03-s01-t01">A</t>
+                <t id="p03-s01-t02">key</t>
+                <t id="p03-s01-t03">limitation</t>
+                <punc>,</punc>
+                <t id="p03-s01-t04">mentioned</t>
+                <t id="p03-s01-t05">in</t>
+                <t id="p03-s01-t06">the</t>
+                <t id="p03-s01-t07">WHO</t>
+                <t id="p03-s01-t08">report</t>
+                <punc>,</punc>
+                <t id="p03-s01-t09">of</t>
+                <t id="p03-s01-t10">using</t>
+                <t id="p03-s01-t11">WC</t>
+                <t id="p03-s01-t12">as</t>
+                <t id="p03-s01-t13">a</t>
+                <t id="p03-s01-t14">proxy</t>
+                <t id="p03-s01-t15">for</t>
+                <t id="p03-s01-t16">abdominal</t>
+                <t id="p03-s01-t17">fat</t>
+                <t id="p03-s01-t18">distribution</t>
+                <t id="p03-s01-t19">is</t>
+                <t id="p03-s01-t20">that</t>
+                <t id="p03-s01-t21">it</t>
+                <t id="p03-s01-t22">is</t>
+                <t id="p03-s01-t23">sensitive</t>
+                <t id="p03-s01-t24">to</t>
+                <t id="p03-s01-t25">body</t>
+                <t id="p03-s01-t26">size</t>
+                <punc>(</punc>
+                <t id="p03-s01-t27">height</t>
+                <t id="p03-s01-t28">and</t>
+                <t id="p03-s01-t29">weight</t>
+                <punc>)</punc>
+                <t id="p03-s01-t30">as</t>
+                <t id="p03-s01-t31">well</t>
+                <t id="p03-s01-t32">as</t>
+                <t id="p03-s01-t33">to</t>
+                <t id="p03-s01-t34">fat</t>
+                <t id="p03-s01-t35">percentage</t>
+                <t id="p03-s01-t36">and</t>
+                <t id="p03-s01-t37">distribution</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s02">
+                <t id="p03-s02-t01">In</t>
+                <t id="p03-s02-t02">fact</t>
+                <punc>,</punc>
+                <t id="p03-s02-t03">WC</t>
+                <t id="p03-s02-t04">is</t>
+                <t id="p03-s02-t05">highly</t>
+                <t id="p03-s02-t06">correlated</t>
+                <t id="p03-s02-t07">with</t>
+                <t id="p03-s02-t08">BMI</t>
+                <punc>,</punc>
+                <t id="p03-s02-t09">to</t>
+                <t id="p03-s02-t10">the</t>
+                <t id="p03-s02-t11">extent</t>
+                <t id="p03-s02-t12">that</t>
+                <t id="p03-s02-t13">differentiating</t>
+                <t id="p03-s02-t14">the</t>
+                <t id="p03-s02-t15">two</t>
+                <t id="p03-s02-t16">as</t>
+                <t id="p03-s02-t17">epidemiological</t>
+                <t id="p03-s02-t18">risk</t>
+                <t id="p03-s02-t19">factors</t>
+                <t id="p03-s02-t20">can</t>
+                <t id="p03-s02-t21">be</t>
+                <t id="p03-s02-t22">difficult</t>
+                <punc>[</punc>
+                <t id="p03-s02-t23">19</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s03">
+                <t id="p03-s03-t01">According</t>
+                <t id="p03-s03-t02">to</t>
+                <t id="p03-s03-t03">a</t>
+                <t id="p03-s03-t04">consensus</t>
+                <t id="p03-s03-t05">statement</t>
+                <t id="p03-s03-t06">on</t>
+                <t id="p03-s03-t07">the</t>
+                <t id="p03-s03-t08">clinical</t>
+                <t id="p03-s03-t09">usefulness</t>
+                <t id="p03-s03-t10">of</t>
+                <t id="p03-s03-t11">WC</t>
+                <punc>[</punc>
+                <t id="p03-s03-t12">20</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>“</punc>
+                <t id="p03-s03-t13">Further</t>
+                <t id="p03-s03-t14">studies</t>
+                <t id="p03-s03-t15">are</t>
+                <t id="p03-s03-t16">needed</t>
+                <t id="p03-s03-t17">to</t>
+                <t id="p03-s03-t18">establish</t>
+                <t id="p03-s03-t19">WC</t>
+                <t id="p03-s03-t20">cut</t>
+                <t id="p03-s03-t21">points</t>
+                <t id="p03-s03-t22">that</t>
+                <t id="p03-s03-t23">can</t>
+                <t id="p03-s03-t24">assess</t>
+                <t id="p03-s03-t25">cardiometabolic</t>
+                <t id="p03-s03-t26">risk</t>
+                <punc>,</punc>
+                <t id="p03-s03-t27">not</t>
+                <t id="p03-s03-t28">adequately</t>
+                <t id="p03-s03-t29">captured</t>
+                <t id="p03-s03-t30">by</t>
+                <t id="p03-s03-t31">BMI</t>
+                <t id="p03-s03-t32">and</t>
+                <t id="p03-s03-t33">routine</t>
+                <t id="p03-s03-t34">clinical</t>
+                <t id="p03-s03-t35">assessments</t>
+                <punc>.</punc>
+                <punc>”</punc>
+            </sentence>
+            <sentence id="p03-s04">
+                <t id="p03-s04-t01">Scaling</t>
+                <t id="p03-s04-t02">WC</t>
+                <t id="p03-s04-t03">via</t>
+                <t id="p03-s04-t04">allometric</t>
+                <t id="p03-s04-t05">analysis</t>
+                <t id="p03-s04-t06">to</t>
+                <t id="p03-s04-t07">produce</t>
+                <t id="p03-s04-t08">a</t>
+                <t id="p03-s04-t09">quantity</t>
+                <t id="p03-s04-t10">that</t>
+                <t id="p03-s04-t11">is</t>
+                <t id="p03-s04-t12">independent</t>
+                <t id="p03-s04-t13">of</t>
+                <t id="p03-s04-t14">BMI</t>
+                <t id="p03-s04-t15">offers</t>
+                <t id="p03-s04-t16">one</t>
+                <t id="p03-s04-t17">means</t>
+                <t id="p03-s04-t18">of</t>
+                <t id="p03-s04-t19">separating</t>
+                <t id="p03-s04-t20">the</t>
+                <t id="p03-s04-t21">impact</t>
+                <t id="p03-s04-t22">on</t>
+                <t id="p03-s04-t23">health</t>
+                <t id="p03-s04-t24">of</t>
+                <t id="p03-s04-t25">body</t>
+                <t id="p03-s04-t26">shape</t>
+                <punc>(</punc>
+                <t id="p03-s04-t27">degree</t>
+                <t id="p03-s04-t28">of</t>
+                <t id="p03-s04-t29">central</t>
+                <t id="p03-s04-t30">bulge</t>
+                <punc>,</punc>
+                <t id="p03-s04-t31">presumably</t>
+                <t id="p03-s04-t32">correlating</t>
+                <t id="p03-s04-t33">with</t>
+                <t id="p03-s04-t34">abdominal</t>
+                <t id="p03-s04-t35">fat</t>
+                <t id="p03-s04-t36">deposits</t>
+                <punc>)</punc>
+                <t id="p03-s04-t37">from</t>
+                <t id="p03-s04-t38">that</t>
+                <t id="p03-s04-t39">of</t>
+                <t id="p03-s04-t40">body</t>
+                <t id="p03-s04-t41">size</t>
+                <punc>(</punc>
+                <t id="p03-s04-t42">as</t>
+                <t id="p03-s04-t43">measured</t>
+                <t id="p03-s04-t44">by</t>
+                <t id="p03-s04-t45">height</t>
+                <punc>,</punc>
+                <t id="p03-s04-t46">weight</t>
+                <punc>,</punc>
+                <t id="p03-s04-t47">and</t>
+                <t id="p03-s04-t48">BMI</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s05">
+                <t id="p03-s05-t01">In</t>
+                <t id="p03-s05-t02">this</t>
+                <t id="p03-s05-t03">paper</t>
+                <punc>,</punc>
+                <t id="p03-s05-t04">our</t>
+                <t id="p03-s05-t05">objectives</t>
+                <t id="p03-s05-t06">are</t>
+                <punc>(</punc>
+                <t id="p03-s05-t07">1</t>
+                <punc>)</punc>
+                <t id="p03-s05-t08">develop</t>
+                <t id="p03-s05-t09">A</t>
+                <t id="p03-s05-t10">Body</t>
+                <t id="p03-s05-t11">Shape</t>
+                <t id="p03-s05-t12">Index</t>
+                <punc>(</punc>
+                <t id="p03-s05-t13">ABSI</t>
+                <punc>)</punc>
+                <t id="p03-s05-t14">based</t>
+                <t id="p03-s05-t15">on</t>
+                <t id="p03-s05-t16">WC</t>
+                <t id="p03-s05-t17">that</t>
+                <t id="p03-s05-t18">is</t>
+                <t id="p03-s05-t19">approximately</t>
+                <t id="p03-s05-t20">independent</t>
+                <t id="p03-s05-t21">of</t>
+                <t id="p03-s05-t22">height</t>
+                <punc>,</punc>
+                <t id="p03-s05-t23">weight</t>
+                <punc>,</punc>
+                <t id="p03-s05-t24">and</t>
+                <t id="p03-s05-t25">BMI</t>
+                <punc>;</punc>
+                <t id="p03-s05-t26">and</t>
+                <punc>(</punc>
+                <t id="p03-s05-t27">2</t>
+                <punc>)</punc>
+                <t id="p03-s05-t28">evaluate</t>
+                <t id="p03-s05-t29">ABSI</t>
+                <t id="p03-s05-t30">as</t>
+                <t id="p03-s05-t31">a</t>
+                <t id="p03-s05-t32">predictor</t>
+                <t id="p03-s05-t33">of</t>
+                <t id="p03-s05-t34">mortality</t>
+                <t id="p03-s05-t35">across</t>
+                <t id="p03-s05-t36">age</t>
+                <punc>,</punc>
+                <t id="p03-s05-t37">sex</t>
+                <punc>,</punc>
+                <t id="p03-s05-t38">ethnicity</t>
+                <punc>,</punc>
+                <t id="p03-s05-t39">and</t>
+                <t id="p03-s05-t40">BMI</t>
+                <t id="p03-s05-t41">categories</t>
+                <t id="p03-s05-t42">in</t>
+                <t id="p03-s05-t43">a</t>
+                <t id="p03-s05-t44">population</t>
+                <t id="p03-s05-t45">sample</t>
+                <punc>,</punc>
+                <t id="p03-s05-t46">compared</t>
+                <t id="p03-s05-t47">to</t>
+                <t id="p03-s05-t48">the</t>
+                <t id="p03-s05-t49">conventional</t>
+                <t id="p03-s05-t50">predictors</t>
+                <t id="p03-s05-t51">BMI</t>
+                <t id="p03-s05-t52">and</t>
+                <t id="p03-s05-t53">WC</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
 </document>

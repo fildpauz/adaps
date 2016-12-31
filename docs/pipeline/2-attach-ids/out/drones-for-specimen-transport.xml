@@ -1,852 +1,855 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
 <document>
-<title>Can Unmanned Aerial Systems (Drones) Be Used for the Routine Transport of Chemistry, Hematology, and Coagulation Laboratory Specimens?</title>
-<citation>Amukele TK, Sokoll LJ, Pepper D, Howard DP, Street J (2015) Can Unmanned Aerial Systems (Drones) Be Used for the Routine Transport of Chemistry, Hematology, and Coagulation Laboratory Specimens? PLoS ONE 10(7):e0134020. doi:10.1371/journal/pone.0134020
-Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0134020 on 04 Oct 2016.</citation>
-<url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0134020</url>
-<body>
-<paragraph id="p01">
-<sentence id="p01-s01">
-<t id="p01-s01-t01">Unmanned</t>
-<t id="p01-s01-t02">Aerial</t>
-<t id="p01-s01-t03">Systems</t>
-<punc>(</punc>
-<t id="p01-s01-t04">UAS</t>
-<punc>)</punc>
-<punc>,</punc>
-<t id="p01-s01-t05">colloquially</t>
-<t id="p01-s01-t06">known</t>
-<t id="p01-s01-t07">as</t>
-<t id="p01-s01-t08">drones</t>
-<punc>,</punc>
-<t id="p01-s01-t09">are</t>
-<t id="p01-s01-t10">aircraft</t>
-<t id="p01-s01-t11">without</t>
-<t id="p01-s01-t12">an</t>
-<t id="p01-s01-t13">on</t>
-<punc>-</punc>
-<t id="p01-s01-t14">board</t>
-<t id="p01-s01-t15">human</t>
-<t id="p01-s01-t16">pilot</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p01-s02">
-<t id="p01-s02-t01">On</t>
-<t id="p01-s02-t02">December</t>
-<t id="p01-s02-t03">1st</t>
-<t id="p01-s02-t04">2013</t>
-<t id="p01-s02-t05">Amazon</t>
-<punc>.</punc>
-<t id="p01-s02-t06">com</t>
-<t id="p01-s02-t07">introduced</t>
-<t id="p01-s02-t08">the</t>
-<t id="p01-s02-t09">world</t>
-<t id="p01-s02-t10">to</t>
-<t id="p01-s02-t11">the</t>
-<t id="p01-s02-t12">idea</t>
-<t id="p01-s02-t13">of</t>
-<t id="p01-s02-t14">civilian</t>
-<t id="p01-s02-t15">drones</t>
-<t id="p01-s02-t16">when</t>
-<t id="p01-s02-t17">its</t>
-<t id="p01-s02-t18">CEO</t>
-<t id="p01-s02-t19">unveiled</t>
-<t id="p01-s02-t20">Prime</t>
-<t id="p01-s02-t21">Air</t>
-<punc>,</punc>
-<t id="p01-s02-t22">a</t>
-<t id="p01-s02-t23">delivery</t>
-<t id="p01-s02-t24">drone</t>
-<punc>,</punc>
-<t id="p01-s02-t25">on</t>
-<t id="p01-s02-t26">live</t>
-<t id="p01-s02-t27">TV</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p01-s03">
-<t id="p01-s03-t01">However</t>
-<t id="p01-s03-t02">UAS</t>
-<t id="p01-s03-t03">are</t>
-<t id="p01-s03-t04">not</t>
-<t id="p01-s03-t05">new</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p01-s04">
-<t id="p01-s04-t01">They</t>
-<t id="p01-s04-t02">have</t>
-<t id="p01-s04-t03">been</t>
-<t id="p01-s04-t04">in</t>
-<t id="p01-s04-t05">use</t>
-<t id="p01-s04-t06">since</t>
-<t id="p01-s04-t07">the</t>
-<t id="p01-s04-t08">early</t>
-<t id="p01-s04-t09">1900's</t>
-<punc>[</punc>
-<t id="p01-s04-t10">1</t>
-<punc>]</punc>
-<t id="p01-s04-t11">but</t>
-<t id="p01-s04-t12">were</t>
-<t id="p01-s04-t13">primarily</t>
-<t id="p01-s04-t14">developed</t>
-<t id="p01-s04-t15">and</t>
-<t id="p01-s04-t16">flown</t>
-<t id="p01-s04-t17">by</t>
-<t id="p01-s04-t18">military</t>
-<t id="p01-s04-t19">organizations</t>
-<t id="p01-s04-t20">due</t>
-<t id="p01-s04-t21">to</t>
-<t id="p01-s04-t22">their</t>
-<t id="p01-s04-t23">enormous</t>
-<t id="p01-s04-t24">cost</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p01-s05">
-<t id="p01-s05-t01">Recent</t>
-<t id="p01-s05-t02">advances</t>
-<t id="p01-s05-t03">in</t>
-<t id="p01-s05-t04">technology</t>
-<t id="p01-s05-t05">have</t>
-<t id="p01-s05-t06">provided</t>
-<t id="p01-s05-t07">high</t>
-<t id="p01-s05-t08">quality</t>
-<t id="p01-s05-t09">sensors</t>
-<t id="p01-s05-t10">at</t>
-<t id="p01-s05-t11">low</t>
-<t id="p01-s05-t12">price</t>
-<punc>-</punc>
-<t id="p01-s05-t13">points</t>
-<punc>,</punc>
-<t id="p01-s05-t14">greatly</t>
-<t id="p01-s05-t15">expanding</t>
-<t id="p01-s05-t16">the</t>
-<t id="p01-s05-t17">availability</t>
-<t id="p01-s05-t18">and</t>
-<t id="p01-s05-t19">potential</t>
-<t id="p01-s05-t20">utility</t>
-<t id="p01-s05-t21">of</t>
-<t id="p01-s05-t22">UAS</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p01-s06">
-<t id="p01-s06-t01">One</t>
-<t id="p01-s06-t02">of</t>
-<t id="p01-s06-t03">these</t>
-<t id="p01-s06-t04">potential</t>
-<t id="p01-s06-t05">new</t>
-<t id="p01-s06-t06">uses</t>
-<t id="p01-s06-t07">is</t>
-<t id="p01-s06-t08">the</t>
-<t id="p01-s06-t09">routine</t>
-<t id="p01-s06-t10">transport</t>
-<t id="p01-s06-t11">of</t>
-<t id="p01-s06-t12">small</t>
-<t id="p01-s06-t13">goods</t>
-<t id="p01-s06-t14">such</t>
-<t id="p01-s06-t15">as</t>
-<t id="p01-s06-t16">diagnostic</t>
-<t id="p01-s06-t17">clinical</t>
-<t id="p01-s06-t18">laboratory</t>
-<t id="p01-s06-t19">specimens</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p02">
-<sentence id="p02-s01">
-<t id="p02-s01-t01">Transport</t>
-<t id="p02-s01-t02">of</t>
-<t id="p02-s01-t03">biological</t>
-<t id="p02-s01-t04">specimens</t>
-<punc>,</punc>
-<t id="p02-s01-t05">whether</t>
-<t id="p02-s01-t06">by</t>
-<t id="p02-s01-t07">planes</t>
-<punc>,</punc>
-<t id="p02-s01-t08">trains</t>
-<punc>,</punc>
-<t id="p02-s01-t09">or</t>
-<t id="p02-s01-t10">cars</t>
-<punc>,</punc>
-<t id="p02-s01-t11">is</t>
-<t id="p02-s01-t12">ubiquitous</t>
-<t id="p02-s01-t13">in</t>
-<t id="p02-s01-t14">both</t>
-<t id="p02-s01-t15">high</t>
-<punc>-</punc>
-<t id="p02-s01-t16">and</t>
-<t id="p02-s01-t17">low</t>
-<punc>-</punc>
-<t id="p02-s01-t18">resourced</t>
-<t id="p02-s01-t19">environments</t>
-<punc>[</punc>
-<t id="p02-s01-t20">2</t>
-<punc>–</punc>
-<t id="p02-s01-t21">4</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-<sentence id="p02-s02">
-<t id="p02-s02-t01">The</t>
-<t id="p02-s02-t02">majority</t>
-<t id="p02-s02-t03">of</t>
-<t id="p02-s02-t04">specimens</t>
-<t id="p02-s02-t05">are</t>
-<t id="p02-s02-t06">obtained</t>
-<t id="p02-s02-t07">in</t>
-<t id="p02-s02-t08">physician</t>
-<t id="p02-s02-t09">offices</t>
-<t id="p02-s02-t10">or</t>
-<t id="p02-s02-t11">clinics</t>
-<t id="p02-s02-t12">that</t>
-<t id="p02-s02-t13">tend</t>
-<t id="p02-s02-t14">to</t>
-<t id="p02-s02-t15">have</t>
-<t id="p02-s02-t16">small</t>
-<t id="p02-s02-t17">laboratories</t>
-<t id="p02-s02-t18">with</t>
-<t id="p02-s02-t19">limited</t>
-<t id="p02-s02-t20">testing</t>
-<t id="p02-s02-t21">menus</t>
-<punc>[</punc>
-<t id="p02-s02-t22">5</t>
-<punc>,</punc>
-<t id="p02-s02-t23">6</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-<sentence id="p02-s03">
-<t id="p02-s03-t01">Thus</t>
-<t id="p02-s03-t02">samples</t>
-<t id="p02-s03-t03">must</t>
-<t id="p02-s03-t04">be</t>
-<t id="p02-s03-t05">transported</t>
-<t id="p02-s03-t06">to</t>
-<t id="p02-s03-t07">larger</t>
-<punc>,</punc>
-<t id="p02-s03-t08">more</t>
-<t id="p02-s03-t09">complex</t>
-<t id="p02-s03-t10">laboratories</t>
-<t id="p02-s03-t11">to</t>
-<t id="p02-s03-t12">provide</t>
-<t id="p02-s03-t13">the</t>
-<t id="p02-s03-t14">testing</t>
-<t id="p02-s03-t15">required</t>
-<t id="p02-s03-t16">for</t>
-<t id="p02-s03-t17">clinical</t>
-<t id="p02-s03-t18">care</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p02-s04">
-<t id="p02-s04-t01">To</t>
-<t id="p02-s04-t02">illustrate</t>
-<punc>,</punc>
-<t id="p02-s04-t03">there</t>
-<t id="p02-s04-t04">are</t>
-<t id="p02-s04-t05">approximately</t>
-<t id="p02-s04-t06">244,000</t>
-<t id="p02-s04-t07">laboratories</t>
-<t id="p02-s04-t08">in</t>
-<t id="p02-s04-t09">the</t>
-<t id="p02-s04-t10">United</t>
-<t id="p02-s04-t11">States</t>
-<punc>[</punc>
-<t id="p02-s04-t12">7</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-<sentence id="p02-s05">
-<t id="p02-s05-t01">In</t>
-<t id="p02-s05-t02">2006</t>
-<punc>,</punc>
-<t id="p02-s05-t03">physician</t>
-<t id="p02-s05-t04">office</t>
-<t id="p02-s05-t05">and</t>
-<t id="p02-s05-t06">other</t>
-<t id="p02-s05-t07">small</t>
-<t id="p02-s05-t08">non</t>
-<punc>-</punc>
-<t id="p02-s05-t09">hospital</t>
-<t id="p02-s05-t10">clinical</t>
-<t id="p02-s05-t11">laboratories</t>
-<t id="p02-s05-t12">accounted</t>
-<t id="p02-s05-t13">for</t>
-<punc>~</punc>
-<t id="p02-s05-t14">75%</t>
-<t id="p02-s05-t15">of</t>
-<t id="p02-s05-t16">the</t>
-<t id="p02-s05-t17">total</t>
-<t id="p02-s05-t18">number</t>
-<t id="p02-s05-t19">of</t>
-<t id="p02-s05-t20">laboratories</t>
-<punc>[</punc>
-<t id="p02-s05-t21">6</t>
-<punc>,</punc>
-<t id="p02-s05-t22">8</t>
-<punc>]</punc>
-<punc>,</punc>
-<t id="p02-s05-t23">but</t>
-<t id="p02-s05-t24">they</t>
-<t id="p02-s05-t25">only</t>
-<t id="p02-s05-t26">accounted</t>
-<t id="p02-s05-t27">for</t>
-<t id="p02-s05-t28">13%</t>
-<t id="p02-s05-t29">of</t>
-<t id="p02-s05-t30">the</t>
-<t id="p02-s05-t31">test</t>
-<t id="p02-s05-t32">volume</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p02-s06">
-<t id="p02-s06-t01">In</t>
-<t id="p02-s06-t02">addition</t>
-<t id="p02-s06-t03">63%</t>
-<t id="p02-s06-t04">of</t>
-<t id="p02-s06-t05">their</t>
-<t id="p02-s06-t06">testing</t>
-<t id="p02-s06-t07">was</t>
-<t id="p02-s06-t08">in</t>
-<t id="p02-s06-t09">a</t>
-<t id="p02-s06-t10">point-of-care</t>
-<punc>-</punc>
-<t id="p02-s06-t11">of</t>
-<punc>-</punc>
-<t id="p02-s06-t12">care</t>
-<t id="p02-s06-t13">format</t>
-<t id="p02-s06-t14">which</t>
-<t id="p02-s06-t15">proffers</t>
-<t id="p02-s06-t16">a</t>
-<t id="p02-s06-t17">limited</t>
-<t id="p02-s06-t18">range</t>
-<t id="p02-s06-t19">of</t>
-<t id="p02-s06-t20">tests</t>
-<t id="p02-s06-t21">relative</t>
-<t id="p02-s06-t22">to</t>
-<t id="p02-s06-t23">core</t>
-<t id="p02-s06-t24">laboratory</t>
-<t id="p02-s06-t25">testing</t>
-<punc>[</punc>
-<t id="p02-s06-t26">6</t>
-<punc>,</punc>
-<t id="p02-s06-t27">8</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-<sentence id="p02-s07">
-<t id="p02-s07-t01">A</t>
-<t id="p02-s07-t02">2011</t>
-<t id="p02-s07-t03">survey</t>
-<t id="p02-s07-t04">of</t>
-<t id="p02-s07-t05">clinical</t>
-<t id="p02-s07-t06">laboratories</t>
-<t id="p02-s07-t07">in</t>
-<t id="p02-s07-t08">Kampala</t>
-<punc>,</punc>
-<t id="p02-s07-t09">Uganda</t>
-<t id="p02-s07-t10">showed</t>
-<t id="p02-s07-t11">the</t>
-<t id="p02-s07-t12">same</t>
-<t id="p02-s07-t13">pattern</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p03">
-<sentence id="p03-s01">
-<t id="p03-s01-t01">In</t>
-<t id="p03-s01-t02">addition</t>
-<t id="p03-s01-t03">to</t>
-<t id="p03-s01-t04">being</t>
-<t id="p03-s01-t05">a</t>
-<t id="p03-s01-t06">potentially</t>
-<t id="p03-s01-t07">new</t>
-<t id="p03-s01-t08">mode</t>
-<t id="p03-s01-t09">of</t>
-<t id="p03-s01-t10">transporting</t>
-<t id="p03-s01-t11">biological</t>
-<t id="p03-s01-t12">samples</t>
-<punc>,</punc>
-<t id="p03-s01-t13">UAS</t>
-<t id="p03-s01-t14">have</t>
-<t id="p03-s01-t15">unique</t>
-<t id="p03-s01-t16">advantages</t>
-<t id="p03-s01-t17">such</t>
-<t id="p03-s01-t18">as</t>
-<t id="p03-s01-t19">no</t>
-<t id="p03-s01-t20">traffic</t>
-<t id="p03-s01-t21">delays</t>
-<punc>,</punc>
-<t id="p03-s01-t22">low</t>
-<t id="p03-s01-t23">overhead</t>
-<t id="p03-s01-t24">costs</t>
-<punc>,</punc>
-<t id="p03-s01-t25">and</t>
-<t id="p03-s01-t26">the</t>
-<t id="p03-s01-t27">ability</t>
-<t id="p03-s01-t28">to</t>
-<t id="p03-s01-t29">go</t>
-<t id="p03-s01-t30">where</t>
-<t id="p03-s01-t31">there</t>
-<t id="p03-s01-t32">is</t>
-<t id="p03-s01-t33">no</t>
-<t id="p03-s01-t34">passable</t>
-<t id="p03-s01-t35">road</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p03-s02">
-<t id="p03-s02-t01">The</t>
-<t id="p03-s02-t02">impact</t>
-<t id="p03-s02-t03">of</t>
-<t id="p03-s02-t04">poor</t>
-<t id="p03-s02-t05">or</t>
-<t id="p03-s02-t06">difficult</t>
-<t id="p03-s02-t07">road</t>
-<t id="p03-s02-t08">access</t>
-<t id="p03-s02-t09">on</t>
-<t id="p03-s02-t10">healthcare</t>
-<t id="p03-s02-t11">is</t>
-<t id="p03-s02-t12">well</t>
-<t id="p03-s02-t13">documented</t>
-<t id="p03-s02-t14">in</t>
-<t id="p03-s02-t15">both</t>
-<t id="p03-s02-t16">high</t>
-<punc>-</punc>
-<punc>[</punc>
-<t id="p03-s02-t17">10</t>
-<punc>]</punc>
-<t id="p03-s02-t18">and</t>
-<t id="p03-s02-t19">low</t>
-<punc>-</punc>
-<t id="p03-s02-t20">resourced</t>
-<punc>[</punc>
-<t id="p03-s02-t21">11</t>
-<punc>,</punc>
-<t id="p03-s02-t22">12</t>
-<punc>]</punc>
-<t id="p03-s02-t23">countries</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p03-s03">
-<t id="p03-s03-t01">UAS</t>
-<t id="p03-s03-t02">are</t>
-<t id="p03-s03-t03">a</t>
-<t id="p03-s03-t04">potential</t>
-<t id="p03-s03-t05">way</t>
-<t id="p03-s03-t06">around</t>
-<t id="p03-s03-t07">this</t>
-<t id="p03-s03-t08">barrier</t>
-<punc>,</punc>
-<t id="p03-s03-t09">but</t>
-<t id="p03-s03-t10">are</t>
-<t id="p03-s03-t11">only</t>
-<t id="p03-s03-t12">useful</t>
-<t id="p03-s03-t13">if</t>
-<t id="p03-s03-t14">they</t>
-<t id="p03-s03-t15">do</t>
-<t id="p03-s03-t16">not</t>
-<t id="p03-s03-t17">adversely</t>
-<t id="p03-s03-t18">affect</t>
-<t id="p03-s03-t19">the</t>
-<t id="p03-s03-t20">test</t>
-<t id="p03-s03-t21">results</t>
-<t id="p03-s03-t22">of</t>
-<t id="p03-s03-t23">transported</t>
-<t id="p03-s03-t24">samples</t>
-<punc>[</punc>
-<t id="p03-s03-t25">2</t>
-<punc>,</punc>
-<t id="p03-s03-t26">13</t>
-<punc>–</punc>
-<t id="p03-s03-t27">16</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p04">
-<sentence id="p04-s01">
-<t id="p04-s01-t01">Our</t>
-<t id="p04-s01-t02">first</t>
-<t id="p04-s01-t03">challenge</t>
-<t id="p04-s01-t04">in</t>
-<t id="p04-s01-t05">addressing</t>
-<t id="p04-s01-t06">the</t>
-<t id="p04-s01-t07">impact</t>
-<t id="p04-s01-t08">of</t>
-<t id="p04-s01-t09">UAS</t>
-<t id="p04-s01-t10">transport</t>
-<t id="p04-s01-t11">on</t>
-<t id="p04-s01-t12">laboratory</t>
-<t id="p04-s01-t13">results</t>
-<t id="p04-s01-t14">was</t>
-<t id="p04-s01-t15">the</t>
-<t id="p04-s01-t16">high</t>
-<t id="p04-s01-t17">and</t>
-<t id="p04-s01-t18">expanding</t>
-<t id="p04-s01-t19">number</t>
-<t id="p04-s01-t20">of</t>
-<t id="p04-s01-t21">tests</t>
-<t id="p04-s01-t22">used</t>
-<t id="p04-s01-t23">in</t>
-<t id="p04-s01-t24">clinical</t>
-<t id="p04-s01-t25">care</t>
-<punc>[</punc>
-<t id="p04-s01-t26">17</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-<sentence id="p04-s02">
-<t id="p04-s02-t01">Fortunately</t>
-<punc>,</punc>
-<t id="p04-s02-t02">less</t>
-<t id="p04-s02-t03">than</t>
-<t id="p04-s02-t04">0.5%</t>
-<punc>(</punc>
-<t id="p04-s02-t05">40/2000</t>
-<punc>)</punc>
-<t id="p04-s02-t06">of</t>
-<t id="p04-s02-t07">these</t>
-<t id="p04-s02-t08">tests</t>
-<t id="p04-s02-t09">account</t>
-<t id="p04-s02-t10">for</t>
-<t id="p04-s02-t11">80%</t>
-<t id="p04-s02-t12">of</t>
-<t id="p04-s02-t13">the</t>
-<t id="p04-s02-t14">test</t>
-<t id="p04-s02-t15">volume</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p04-s03">
-<t id="p04-s03-t01">Thus</t>
-<t id="p04-s03-t02">we</t>
-<t id="p04-s03-t03">began</t>
-<t id="p04-s03-t04">by</t>
-<t id="p04-s03-t05">focusing</t>
-<punc>,</punc>
-<t id="p04-s03-t06">in</t>
-<t id="p04-s03-t07">these</t>
-<t id="p04-s03-t08">first</t>
-<t id="p04-s03-t09">experiments</t>
-<punc>,</punc>
-<t id="p04-s03-t10">on</t>
-<t id="p04-s03-t11">the</t>
-<t id="p04-s03-t12">impact</t>
-<t id="p04-s03-t13">of</t>
-<t id="p04-s03-t14">UAS</t>
-<t id="p04-s03-t15">transport</t>
-<t id="p04-s03-t16">on</t>
-<t id="p04-s03-t17">the</t>
-<t id="p04-s03-t18">33</t>
-<t id="p04-s03-t19">most</t>
-<t id="p04-s03-t20">common</t>
-<t id="p04-s03-t21">tests</t>
-<t id="p04-s03-t22">performed</t>
-<t id="p04-s03-t23">in</t>
-<t id="p04-s03-t24">hospital</t>
-<t id="p04-s03-t25">laboratories</t>
-<punc>[</punc>
-<t id="p04-s03-t26">17</t>
-<punc>,</punc>
-<t id="p04-s03-t27">18</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-<sentence id="p04-s04">
-<t id="p04-s04-t01">A</t>
-<t id="p04-s04-t02">second</t>
-<t id="p04-s04-t03">challenge</t>
-<t id="p04-s04-t04">was</t>
-<t id="p04-s04-t05">determining</t>
-<t id="p04-s04-t06">what</t>
-<t id="p04-s04-t07">quality</t>
-<t id="p04-s04-t08">criteria</t>
-<t id="p04-s04-t09">to</t>
-<t id="p04-s04-t10">use</t>
-<t id="p04-s04-t11">for</t>
-<t id="p04-s04-t12">evaluating</t>
-<t id="p04-s04-t13">any</t>
-<t id="p04-s04-t14">differences</t>
-<t id="p04-s04-t15">we</t>
-<t id="p04-s04-t16">might</t>
-<t id="p04-s04-t17">see</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p04-s05">
-<t id="p04-s05-t01">There</t>
-<t id="p04-s05-t02">is</t>
-<t id="p04-s05-t03">no</t>
-<t id="p04-s05-t04">single</t>
-<t id="p04-s05-t05">worldwide</t>
-<t id="p04-s05-t06">consensus</t>
-<t id="p04-s05-t07">on</t>
-<t id="p04-s05-t08">acceptable</t>
-<t id="p04-s05-t09">performance</t>
-<t id="p04-s05-t10">for</t>
-<t id="p04-s05-t11">laboratory</t>
-<t id="p04-s05-t12">tests</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p04-s06">
-<t id="p04-s06-t01">The</t>
-<t id="p04-s06-t02">most</t>
-<t id="p04-s06-t03">widely</t>
-<t id="p04-s06-t04">used</t>
-<t id="p04-s06-t05">performance</t>
-<t id="p04-s06-t06">criteria</t>
-<t id="p04-s06-t07">are</t>
-<t id="p04-s06-t08">intended</t>
-<t id="p04-s06-t09">for</t>
-<t id="p04-s06-t10">interpretation</t>
-<t id="p04-s06-t11">of</t>
-<t id="p04-s06-t12">External</t>
-<t id="p04-s06-t13">Quality</t>
-<t id="p04-s06-t14">Assessment</t>
-<t id="p04-s06-t15">reports</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p04-s07">
-<t id="p04-s07-t01">They</t>
-<t id="p04-s07-t02">are</t>
-<t id="p04-s07-t03">largely</t>
-<t id="p04-s07-t04">measures</t>
-<t id="p04-s07-t05">of</t>
-<t id="p04-s07-t06">accuracy</t>
-<punc>,</punc>
-<t id="p04-s07-t07">and</t>
-<t id="p04-s07-t08">vary</t>
-<t id="p04-s07-t09">by</t>
-<t id="p04-s07-t10">jurisdiction</t>
-<punc>[</punc>
-<t id="p04-s07-t11">19</t>
-<punc>–</punc>
-<t id="p04-s07-t12">22</t>
-<punc>]</punc>
-<punc>.</punc>
-</sentence>
-<sentence id="p04-s08">
-<t id="p04-s08-t01">To</t>
-<t id="p04-s08-t02">account</t>
-<t id="p04-s08-t03">for</t>
-<t id="p04-s08-t04">these</t>
-<t id="p04-s08-t05">limitations</t>
-<punc>,</punc>
-<t id="p04-s08-t06">we</t>
-<t id="p04-s08-t07">evaluated</t>
-<t id="p04-s08-t08">our</t>
-<t id="p04-s08-t09">results</t>
-<t id="p04-s08-t10">in</t>
-<t id="p04-s08-t11">three</t>
-<t id="p04-s08-t12">ways</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p04-s09">
-<t id="p04-s09-t01">1</t>
-<punc>)</punc>
-<t id="p04-s09-t02">We</t>
-<t id="p04-s09-t03">used</t>
-<t id="p04-s09-t04">four</t>
-<t id="p04-s09-t05">performance</t>
-<t id="p04-s09-t06">acceptability</t>
-<t id="p04-s09-t07">criteria</t>
-<t id="p04-s09-t08">including</t>
-<t id="p04-s09-t09">two</t>
-<t id="p04-s09-t10">from</t>
-<t id="p04-s09-t11">groups</t>
-<t id="p04-s09-t12">outside</t>
-<t id="p04-s09-t13">the</t>
-<t id="p04-s09-t14">United</t>
-<t id="p04-s09-t15">States</t>
-<punc>[</punc>
-<t id="p04-s09-t16">19</t>
-<punc>–</punc>
-<t id="p04-s09-t17">22</t>
-<punc>]</punc>
-<punc>;</punc>
-<t id="p04-s09-t18">2</t>
-<punc>)</punc>
-<t id="p04-s09-t19">We</t>
-<t id="p04-s09-t20">examined</t>
-<t id="p04-s09-t21">changes</t>
-<t id="p04-s09-t22">in</t>
-<t id="p04-s09-t23">reference</t>
-<t id="p04-s09-t24">range</t>
-<punc>-</punc>
-<t id="p04-s09-t25">based</t>
-<t id="p04-s09-t26">clinical</t>
-<t id="p04-s09-t27">classification</t>
-<punc>;</punc>
-<t id="p04-s09-t28">and</t>
-<t id="p04-s09-t29">3</t>
-<punc>)</punc>
-<t id="p04-s09-t30">We</t>
-<t id="p04-s09-t31">examined</t>
-<t id="p04-s09-t32">differences</t>
-<t id="p04-s09-t33">between</t>
-<t id="p04-s09-t34">laboratory</t>
-<punc>-</punc>
-<t id="p04-s09-t35">derived</t>
-<punc>(</punc>
-<t id="p04-s09-t36">analytic</t>
-<punc>)</punc>
-<t id="p04-s09-t37">CV's</t>
-<t id="p04-s09-t38">and</t>
-<t id="p04-s09-t39">that</t>
-<t id="p04-s09-t40">from</t>
-<t id="p04-s09-t41">our</t>
-<t id="p04-s09-t42">paired</t>
-<t id="p04-s09-t43">samples</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p05">
-<sentence id="p05-s01">
-<t id="p05-s01-t01">To</t>
-<t id="p05-s01-t02">the</t>
-<t id="p05-s01-t03">best</t>
-<t id="p05-s01-t04">of</t>
-<t id="p05-s01-t05">our</t>
-<t id="p05-s01-t06">knowledge</t>
-<t id="p05-s01-t07">there</t>
-<t id="p05-s01-t08">has</t>
-<t id="p05-s01-t09">been</t>
-<t id="p05-s01-t10">no</t>
-<t id="p05-s01-t11">published</t>
-<t id="p05-s01-t12">research</t>
-<t id="p05-s01-t13">of</t>
-<t id="p05-s01-t14">the</t>
-<t id="p05-s01-t15">impact</t>
-<t id="p05-s01-t16">of</t>
-<t id="p05-s01-t17">UAS</t>
-<t id="p05-s01-t18">transportation</t>
-<t id="p05-s01-t19">on</t>
-<t id="p05-s01-t20">the</t>
-<t id="p05-s01-t21">stability</t>
-<t id="p05-s01-t22">of</t>
-<t id="p05-s01-t23">biological</t>
-<t id="p05-s01-t24">specimens</t>
-<t id="p05-s01-t25">or</t>
-<t id="p05-s01-t26">on</t>
-<t id="p05-s01-t27">the</t>
-<t id="p05-s01-t28">laboratory</t>
-<t id="p05-s01-t29">test</t>
-<t id="p05-s01-t30">results</t>
-<t id="p05-s01-t31">obtained</t>
-<t id="p05-s01-t32">from</t>
-<t id="p05-s01-t33">those</t>
-<t id="p05-s01-t34">specimens</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p05-s02">
-<t id="p05-s02-t01">Obtaining</t>
-<t id="p05-s02-t02">this</t>
-<t id="p05-s02-t03">data</t>
-<punc>,</punc>
-<t id="p05-s02-t04">which</t>
-<t id="p05-s02-t05">would</t>
-<t id="p05-s02-t06">be</t>
-<t id="p05-s02-t07">needed</t>
-<t id="p05-s02-t08">to</t>
-<t id="p05-s02-t09">determine</t>
-<t id="p05-s02-t10">the</t>
-<t id="p05-s02-t11">feasibility</t>
-<t id="p05-s02-t12">of</t>
-<t id="p05-s02-t13">UAS</t>
-<t id="p05-s02-t14">transportation</t>
-<t id="p05-s02-t15">of</t>
-<t id="p05-s02-t16">biological</t>
-<t id="p05-s02-t17">samples</t>
-<punc>,</punc>
-<t id="p05-s02-t18">is</t>
-<t id="p05-s02-t19">the</t>
-<t id="p05-s02-t20">objective</t>
-<t id="p05-s02-t21">of</t>
-<t id="p05-s02-t22">this</t>
-<t id="p05-s02-t23">study</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p06">
-<sentence id="p06-s01">
-<t id="p06-s01-t01">Our</t>
-<t id="p06-s01-t02">findings</t>
-<t id="p06-s01-t03">demonstrate</t>
-<t id="p06-s01-t04">that</t>
-<punc>,</punc>
-<t id="p06-s01-t05">for</t>
-<t id="p06-s01-t06">the</t>
-<t id="p06-s01-t07">33</t>
-<t id="p06-s01-t08">test</t>
-<punc>-</punc>
-<t id="p06-s01-t09">types</t>
-<t id="p06-s01-t10">in</t>
-<t id="p06-s01-t11">this</t>
-<t id="p06-s01-t12">study</t>
-<punc>,</punc>
-<t id="p06-s01-t13">laboratory</t>
-<t id="p06-s01-t14">results</t>
-<t id="p06-s01-t15">from</t>
-<t id="p06-s01-t16">UAS</t>
-<punc>-</punc>
-<t id="p06-s01-t17">transported</t>
-<t id="p06-s01-t18">samples</t>
-<t id="p06-s01-t19">agree</t>
-<t id="p06-s01-t20">with</t>
-<t id="p06-s01-t21">those</t>
-<t id="p06-s01-t22">transported</t>
-<t id="p06-s01-t23">terrestrially</t>
-<punc>:</punc>
-<t id="p06-s01-t24">there</t>
-<t id="p06-s01-t25">were</t>
-<t id="p06-s01-t26">no</t>
-<t id="p06-s01-t27">systematic</t>
-<t id="p06-s01-t28">differences</t>
-<t id="p06-s01-t29">in</t>
-<t id="p06-s01-t30">results</t>
-<t id="p06-s01-t31">from</t>
-<t id="p06-s01-t32">flown</t>
-<t id="p06-s01-t33">versus</t>
-<t id="p06-s01-t34">terrestrial</t>
-<t id="p06-s01-t35">specimens</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p06-s02">
-<t id="p06-s02-t01">However</t>
-<punc>,</punc>
-<t id="p06-s02-t02">there</t>
-<t id="p06-s02-t03">was</t>
-<t id="p06-s02-t04">slightly</t>
-<t id="p06-s02-t05">worse</t>
-<t id="p06-s02-t06">precision</t>
-<t id="p06-s02-t07">in</t>
-<t id="p06-s02-t08">the</t>
-<t id="p06-s02-t09">flown</t>
-<t id="p06-s02-t10">samples</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p06-s03">
-<t id="p06-s03-t01">Full</t>
-<t id="p06-s03-t02">adoption</t>
-<t id="p06-s03-t03">of</t>
-<t id="p06-s03-t04">UAS</t>
-<t id="p06-s03-t05">transport</t>
-<t id="p06-s03-t06">of</t>
-<t id="p06-s03-t07">diagnostic</t>
-<t id="p06-s03-t08">specimens</t>
-<t id="p06-s03-t09">will</t>
-<t id="p06-s03-t10">require</t>
-<t id="p06-s03-t11">similar</t>
-<t id="p06-s03-t12">studies</t>
-<t id="p06-s03-t13">for</t>
-<t id="p06-s03-t14">other</t>
-<t id="p06-s03-t15">types</t>
-<t id="p06-s03-t16">of</t>
-<t id="p06-s03-t17">laboratory</t>
-<t id="p06-s03-t18">tests</t>
-<punc>,</punc>
-<t id="p06-s03-t19">specimens</t>
-<punc>,</punc>
-<t id="p06-s03-t20">and</t>
-<t id="p06-s03-t21">environmental</t>
-<t id="p06-s03-t22">conditions</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-</body>
+    <title>Can Unmanned Aerial Systems (Drones) Be Used for the Routine Transport of Chemistry, Hematology, and Coagulation Laboratory Specimens?</title>
+    <citation>Amukele TK, Sokoll LJ, Pepper D, Howard DP, Street J (2015) Can Unmanned Aerial Systems (Drones) Be Used for the Routine Transport of Chemistry, Hematology, and Coagulation Laboratory Specimens? PLoS ONE 10(7):e0134020. doi:10.1371/journal/pone.0134020
+        Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0134020 on 04 Oct 2016.</citation>
+    <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0134020</url>
+    <info type="arise">
+        <arise-info book="2" section="4" unit="4" firstpage="58"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01">Unmanned</t>
+                <t id="p01-s01-t02">Aerial</t>
+                <t id="p01-s01-t03">Systems</t>
+                <punc>(</punc>
+                <t id="p01-s01-t04">UAS</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p01-s01-t05">colloquially</t>
+                <t id="p01-s01-t06">known</t>
+                <t id="p01-s01-t07">as</t>
+                <t id="p01-s01-t08">drones</t>
+                <punc>,</punc>
+                <t id="p01-s01-t09">are</t>
+                <t id="p01-s01-t10">aircraft</t>
+                <t id="p01-s01-t11">without</t>
+                <t id="p01-s01-t12">an</t>
+                <t id="p01-s01-t13">on</t>
+                <punc>-</punc>
+                <t id="p01-s01-t14">board</t>
+                <t id="p01-s01-t15">human</t>
+                <t id="p01-s01-t16">pilot</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01">On</t>
+                <t id="p01-s02-t02">December</t>
+                <t id="p01-s02-t03">1st</t>
+                <t id="p01-s02-t04">2013</t>
+                <t id="p01-s02-t05">Amazon</t>
+                <punc>.</punc>
+                <t id="p01-s02-t06">com</t>
+                <t id="p01-s02-t07">introduced</t>
+                <t id="p01-s02-t08">the</t>
+                <t id="p01-s02-t09">world</t>
+                <t id="p01-s02-t10">to</t>
+                <t id="p01-s02-t11">the</t>
+                <t id="p01-s02-t12">idea</t>
+                <t id="p01-s02-t13">of</t>
+                <t id="p01-s02-t14">civilian</t>
+                <t id="p01-s02-t15">drones</t>
+                <t id="p01-s02-t16">when</t>
+                <t id="p01-s02-t17">its</t>
+                <t id="p01-s02-t18">CEO</t>
+                <t id="p01-s02-t19">unveiled</t>
+                <t id="p01-s02-t20">Prime</t>
+                <t id="p01-s02-t21">Air</t>
+                <punc>,</punc>
+                <t id="p01-s02-t22">a</t>
+                <t id="p01-s02-t23">delivery</t>
+                <t id="p01-s02-t24">drone</t>
+                <punc>,</punc>
+                <t id="p01-s02-t25">on</t>
+                <t id="p01-s02-t26">live</t>
+                <t id="p01-s02-t27">TV</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s03">
+                <t id="p01-s03-t01">However</t>
+                <t id="p01-s03-t02">UAS</t>
+                <t id="p01-s03-t03">are</t>
+                <t id="p01-s03-t04">not</t>
+                <t id="p01-s03-t05">new</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s04">
+                <t id="p01-s04-t01">They</t>
+                <t id="p01-s04-t02">have</t>
+                <t id="p01-s04-t03">been</t>
+                <t id="p01-s04-t04">in</t>
+                <t id="p01-s04-t05">use</t>
+                <t id="p01-s04-t06">since</t>
+                <t id="p01-s04-t07">the</t>
+                <t id="p01-s04-t08">early</t>
+                <t id="p01-s04-t09">1900's</t>
+                <punc>[</punc>
+                <t id="p01-s04-t10">1</t>
+                <punc>]</punc>
+                <t id="p01-s04-t11">but</t>
+                <t id="p01-s04-t12">were</t>
+                <t id="p01-s04-t13">primarily</t>
+                <t id="p01-s04-t14">developed</t>
+                <t id="p01-s04-t15">and</t>
+                <t id="p01-s04-t16">flown</t>
+                <t id="p01-s04-t17">by</t>
+                <t id="p01-s04-t18">military</t>
+                <t id="p01-s04-t19">organizations</t>
+                <t id="p01-s04-t20">due</t>
+                <t id="p01-s04-t21">to</t>
+                <t id="p01-s04-t22">their</t>
+                <t id="p01-s04-t23">enormous</t>
+                <t id="p01-s04-t24">cost</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s05">
+                <t id="p01-s05-t01">Recent</t>
+                <t id="p01-s05-t02">advances</t>
+                <t id="p01-s05-t03">in</t>
+                <t id="p01-s05-t04">technology</t>
+                <t id="p01-s05-t05">have</t>
+                <t id="p01-s05-t06">provided</t>
+                <t id="p01-s05-t07">high</t>
+                <t id="p01-s05-t08">quality</t>
+                <t id="p01-s05-t09">sensors</t>
+                <t id="p01-s05-t10">at</t>
+                <t id="p01-s05-t11">low</t>
+                <t id="p01-s05-t12">price</t>
+                <punc>-</punc>
+                <t id="p01-s05-t13">points</t>
+                <punc>,</punc>
+                <t id="p01-s05-t14">greatly</t>
+                <t id="p01-s05-t15">expanding</t>
+                <t id="p01-s05-t16">the</t>
+                <t id="p01-s05-t17">availability</t>
+                <t id="p01-s05-t18">and</t>
+                <t id="p01-s05-t19">potential</t>
+                <t id="p01-s05-t20">utility</t>
+                <t id="p01-s05-t21">of</t>
+                <t id="p01-s05-t22">UAS</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s06">
+                <t id="p01-s06-t01">One</t>
+                <t id="p01-s06-t02">of</t>
+                <t id="p01-s06-t03">these</t>
+                <t id="p01-s06-t04">potential</t>
+                <t id="p01-s06-t05">new</t>
+                <t id="p01-s06-t06">uses</t>
+                <t id="p01-s06-t07">is</t>
+                <t id="p01-s06-t08">the</t>
+                <t id="p01-s06-t09">routine</t>
+                <t id="p01-s06-t10">transport</t>
+                <t id="p01-s06-t11">of</t>
+                <t id="p01-s06-t12">small</t>
+                <t id="p01-s06-t13">goods</t>
+                <t id="p01-s06-t14">such</t>
+                <t id="p01-s06-t15">as</t>
+                <t id="p01-s06-t16">diagnostic</t>
+                <t id="p01-s06-t17">clinical</t>
+                <t id="p01-s06-t18">laboratory</t>
+                <t id="p01-s06-t19">specimens</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence id="p02-s01">
+                <t id="p02-s01-t01">Transport</t>
+                <t id="p02-s01-t02">of</t>
+                <t id="p02-s01-t03">biological</t>
+                <t id="p02-s01-t04">specimens</t>
+                <punc>,</punc>
+                <t id="p02-s01-t05">whether</t>
+                <t id="p02-s01-t06">by</t>
+                <t id="p02-s01-t07">planes</t>
+                <punc>,</punc>
+                <t id="p02-s01-t08">trains</t>
+                <punc>,</punc>
+                <t id="p02-s01-t09">or</t>
+                <t id="p02-s01-t10">cars</t>
+                <punc>,</punc>
+                <t id="p02-s01-t11">is</t>
+                <t id="p02-s01-t12">ubiquitous</t>
+                <t id="p02-s01-t13">in</t>
+                <t id="p02-s01-t14">both</t>
+                <t id="p02-s01-t15">high</t>
+                <punc>-</punc>
+                <t id="p02-s01-t16">and</t>
+                <t id="p02-s01-t17">low</t>
+                <punc>-</punc>
+                <t id="p02-s01-t18">resourced</t>
+                <t id="p02-s01-t19">environments</t>
+                <punc>[</punc>
+                <t id="p02-s01-t20">2</t>
+                <punc>–</punc>
+                <t id="p02-s01-t21">4</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s02">
+                <t id="p02-s02-t01">The</t>
+                <t id="p02-s02-t02">majority</t>
+                <t id="p02-s02-t03">of</t>
+                <t id="p02-s02-t04">specimens</t>
+                <t id="p02-s02-t05">are</t>
+                <t id="p02-s02-t06">obtained</t>
+                <t id="p02-s02-t07">in</t>
+                <t id="p02-s02-t08">physician</t>
+                <t id="p02-s02-t09">offices</t>
+                <t id="p02-s02-t10">or</t>
+                <t id="p02-s02-t11">clinics</t>
+                <t id="p02-s02-t12">that</t>
+                <t id="p02-s02-t13">tend</t>
+                <t id="p02-s02-t14">to</t>
+                <t id="p02-s02-t15">have</t>
+                <t id="p02-s02-t16">small</t>
+                <t id="p02-s02-t17">laboratories</t>
+                <t id="p02-s02-t18">with</t>
+                <t id="p02-s02-t19">limited</t>
+                <t id="p02-s02-t20">testing</t>
+                <t id="p02-s02-t21">menus</t>
+                <punc>[</punc>
+                <t id="p02-s02-t22">5</t>
+                <punc>,</punc>
+                <t id="p02-s02-t23">6</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s03">
+                <t id="p02-s03-t01">Thus</t>
+                <t id="p02-s03-t02">samples</t>
+                <t id="p02-s03-t03">must</t>
+                <t id="p02-s03-t04">be</t>
+                <t id="p02-s03-t05">transported</t>
+                <t id="p02-s03-t06">to</t>
+                <t id="p02-s03-t07">larger</t>
+                <punc>,</punc>
+                <t id="p02-s03-t08">more</t>
+                <t id="p02-s03-t09">complex</t>
+                <t id="p02-s03-t10">laboratories</t>
+                <t id="p02-s03-t11">to</t>
+                <t id="p02-s03-t12">provide</t>
+                <t id="p02-s03-t13">the</t>
+                <t id="p02-s03-t14">testing</t>
+                <t id="p02-s03-t15">required</t>
+                <t id="p02-s03-t16">for</t>
+                <t id="p02-s03-t17">clinical</t>
+                <t id="p02-s03-t18">care</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s04">
+                <t id="p02-s04-t01">To</t>
+                <t id="p02-s04-t02">illustrate</t>
+                <punc>,</punc>
+                <t id="p02-s04-t03">there</t>
+                <t id="p02-s04-t04">are</t>
+                <t id="p02-s04-t05">approximately</t>
+                <t id="p02-s04-t06">244,000</t>
+                <t id="p02-s04-t07">laboratories</t>
+                <t id="p02-s04-t08">in</t>
+                <t id="p02-s04-t09">the</t>
+                <t id="p02-s04-t10">United</t>
+                <t id="p02-s04-t11">States</t>
+                <punc>[</punc>
+                <t id="p02-s04-t12">7</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s05">
+                <t id="p02-s05-t01">In</t>
+                <t id="p02-s05-t02">2006</t>
+                <punc>,</punc>
+                <t id="p02-s05-t03">physician</t>
+                <t id="p02-s05-t04">office</t>
+                <t id="p02-s05-t05">and</t>
+                <t id="p02-s05-t06">other</t>
+                <t id="p02-s05-t07">small</t>
+                <t id="p02-s05-t08">non</t>
+                <punc>-</punc>
+                <t id="p02-s05-t09">hospital</t>
+                <t id="p02-s05-t10">clinical</t>
+                <t id="p02-s05-t11">laboratories</t>
+                <t id="p02-s05-t12">accounted</t>
+                <t id="p02-s05-t13">for</t>
+                <punc>~</punc>
+                <t id="p02-s05-t14">75%</t>
+                <t id="p02-s05-t15">of</t>
+                <t id="p02-s05-t16">the</t>
+                <t id="p02-s05-t17">total</t>
+                <t id="p02-s05-t18">number</t>
+                <t id="p02-s05-t19">of</t>
+                <t id="p02-s05-t20">laboratories</t>
+                <punc>[</punc>
+                <t id="p02-s05-t21">6</t>
+                <punc>,</punc>
+                <t id="p02-s05-t22">8</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <t id="p02-s05-t23">but</t>
+                <t id="p02-s05-t24">they</t>
+                <t id="p02-s05-t25">only</t>
+                <t id="p02-s05-t26">accounted</t>
+                <t id="p02-s05-t27">for</t>
+                <t id="p02-s05-t28">13%</t>
+                <t id="p02-s05-t29">of</t>
+                <t id="p02-s05-t30">the</t>
+                <t id="p02-s05-t31">test</t>
+                <t id="p02-s05-t32">volume</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s06">
+                <t id="p02-s06-t01">In</t>
+                <t id="p02-s06-t02">addition</t>
+                <t id="p02-s06-t03">63%</t>
+                <t id="p02-s06-t04">of</t>
+                <t id="p02-s06-t05">their</t>
+                <t id="p02-s06-t06">testing</t>
+                <t id="p02-s06-t07">was</t>
+                <t id="p02-s06-t08">in</t>
+                <t id="p02-s06-t09">a</t>
+                <t id="p02-s06-t10">point-of-care</t>
+                <punc>-</punc>
+                <t id="p02-s06-t11">of</t>
+                <punc>-</punc>
+                <t id="p02-s06-t12">care</t>
+                <t id="p02-s06-t13">format</t>
+                <t id="p02-s06-t14">which</t>
+                <t id="p02-s06-t15">proffers</t>
+                <t id="p02-s06-t16">a</t>
+                <t id="p02-s06-t17">limited</t>
+                <t id="p02-s06-t18">range</t>
+                <t id="p02-s06-t19">of</t>
+                <t id="p02-s06-t20">tests</t>
+                <t id="p02-s06-t21">relative</t>
+                <t id="p02-s06-t22">to</t>
+                <t id="p02-s06-t23">core</t>
+                <t id="p02-s06-t24">laboratory</t>
+                <t id="p02-s06-t25">testing</t>
+                <punc>[</punc>
+                <t id="p02-s06-t26">6</t>
+                <punc>,</punc>
+                <t id="p02-s06-t27">8</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s07">
+                <t id="p02-s07-t01">A</t>
+                <t id="p02-s07-t02">2011</t>
+                <t id="p02-s07-t03">survey</t>
+                <t id="p02-s07-t04">of</t>
+                <t id="p02-s07-t05">clinical</t>
+                <t id="p02-s07-t06">laboratories</t>
+                <t id="p02-s07-t07">in</t>
+                <t id="p02-s07-t08">Kampala</t>
+                <punc>,</punc>
+                <t id="p02-s07-t09">Uganda</t>
+                <t id="p02-s07-t10">showed</t>
+                <t id="p02-s07-t11">the</t>
+                <t id="p02-s07-t12">same</t>
+                <t id="p02-s07-t13">pattern</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p03">
+            <sentence id="p03-s01">
+                <t id="p03-s01-t01">In</t>
+                <t id="p03-s01-t02">addition</t>
+                <t id="p03-s01-t03">to</t>
+                <t id="p03-s01-t04">being</t>
+                <t id="p03-s01-t05">a</t>
+                <t id="p03-s01-t06">potentially</t>
+                <t id="p03-s01-t07">new</t>
+                <t id="p03-s01-t08">mode</t>
+                <t id="p03-s01-t09">of</t>
+                <t id="p03-s01-t10">transporting</t>
+                <t id="p03-s01-t11">biological</t>
+                <t id="p03-s01-t12">samples</t>
+                <punc>,</punc>
+                <t id="p03-s01-t13">UAS</t>
+                <t id="p03-s01-t14">have</t>
+                <t id="p03-s01-t15">unique</t>
+                <t id="p03-s01-t16">advantages</t>
+                <t id="p03-s01-t17">such</t>
+                <t id="p03-s01-t18">as</t>
+                <t id="p03-s01-t19">no</t>
+                <t id="p03-s01-t20">traffic</t>
+                <t id="p03-s01-t21">delays</t>
+                <punc>,</punc>
+                <t id="p03-s01-t22">low</t>
+                <t id="p03-s01-t23">overhead</t>
+                <t id="p03-s01-t24">costs</t>
+                <punc>,</punc>
+                <t id="p03-s01-t25">and</t>
+                <t id="p03-s01-t26">the</t>
+                <t id="p03-s01-t27">ability</t>
+                <t id="p03-s01-t28">to</t>
+                <t id="p03-s01-t29">go</t>
+                <t id="p03-s01-t30">where</t>
+                <t id="p03-s01-t31">there</t>
+                <t id="p03-s01-t32">is</t>
+                <t id="p03-s01-t33">no</t>
+                <t id="p03-s01-t34">passable</t>
+                <t id="p03-s01-t35">road</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s02">
+                <t id="p03-s02-t01">The</t>
+                <t id="p03-s02-t02">impact</t>
+                <t id="p03-s02-t03">of</t>
+                <t id="p03-s02-t04">poor</t>
+                <t id="p03-s02-t05">or</t>
+                <t id="p03-s02-t06">difficult</t>
+                <t id="p03-s02-t07">road</t>
+                <t id="p03-s02-t08">access</t>
+                <t id="p03-s02-t09">on</t>
+                <t id="p03-s02-t10">healthcare</t>
+                <t id="p03-s02-t11">is</t>
+                <t id="p03-s02-t12">well</t>
+                <t id="p03-s02-t13">documented</t>
+                <t id="p03-s02-t14">in</t>
+                <t id="p03-s02-t15">both</t>
+                <t id="p03-s02-t16">high</t>
+                <punc>-</punc>
+                <punc>[</punc>
+                <t id="p03-s02-t17">10</t>
+                <punc>]</punc>
+                <t id="p03-s02-t18">and</t>
+                <t id="p03-s02-t19">low</t>
+                <punc>-</punc>
+                <t id="p03-s02-t20">resourced</t>
+                <punc>[</punc>
+                <t id="p03-s02-t21">11</t>
+                <punc>,</punc>
+                <t id="p03-s02-t22">12</t>
+                <punc>]</punc>
+                <t id="p03-s02-t23">countries</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s03">
+                <t id="p03-s03-t01">UAS</t>
+                <t id="p03-s03-t02">are</t>
+                <t id="p03-s03-t03">a</t>
+                <t id="p03-s03-t04">potential</t>
+                <t id="p03-s03-t05">way</t>
+                <t id="p03-s03-t06">around</t>
+                <t id="p03-s03-t07">this</t>
+                <t id="p03-s03-t08">barrier</t>
+                <punc>,</punc>
+                <t id="p03-s03-t09">but</t>
+                <t id="p03-s03-t10">are</t>
+                <t id="p03-s03-t11">only</t>
+                <t id="p03-s03-t12">useful</t>
+                <t id="p03-s03-t13">if</t>
+                <t id="p03-s03-t14">they</t>
+                <t id="p03-s03-t15">do</t>
+                <t id="p03-s03-t16">not</t>
+                <t id="p03-s03-t17">adversely</t>
+                <t id="p03-s03-t18">affect</t>
+                <t id="p03-s03-t19">the</t>
+                <t id="p03-s03-t20">test</t>
+                <t id="p03-s03-t21">results</t>
+                <t id="p03-s03-t22">of</t>
+                <t id="p03-s03-t23">transported</t>
+                <t id="p03-s03-t24">samples</t>
+                <punc>[</punc>
+                <t id="p03-s03-t25">2</t>
+                <punc>,</punc>
+                <t id="p03-s03-t26">13</t>
+                <punc>–</punc>
+                <t id="p03-s03-t27">16</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p04">
+            <sentence id="p04-s01">
+                <t id="p04-s01-t01">Our</t>
+                <t id="p04-s01-t02">first</t>
+                <t id="p04-s01-t03">challenge</t>
+                <t id="p04-s01-t04">in</t>
+                <t id="p04-s01-t05">addressing</t>
+                <t id="p04-s01-t06">the</t>
+                <t id="p04-s01-t07">impact</t>
+                <t id="p04-s01-t08">of</t>
+                <t id="p04-s01-t09">UAS</t>
+                <t id="p04-s01-t10">transport</t>
+                <t id="p04-s01-t11">on</t>
+                <t id="p04-s01-t12">laboratory</t>
+                <t id="p04-s01-t13">results</t>
+                <t id="p04-s01-t14">was</t>
+                <t id="p04-s01-t15">the</t>
+                <t id="p04-s01-t16">high</t>
+                <t id="p04-s01-t17">and</t>
+                <t id="p04-s01-t18">expanding</t>
+                <t id="p04-s01-t19">number</t>
+                <t id="p04-s01-t20">of</t>
+                <t id="p04-s01-t21">tests</t>
+                <t id="p04-s01-t22">used</t>
+                <t id="p04-s01-t23">in</t>
+                <t id="p04-s01-t24">clinical</t>
+                <t id="p04-s01-t25">care</t>
+                <punc>[</punc>
+                <t id="p04-s01-t26">17</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p04-s02">
+                <t id="p04-s02-t01">Fortunately</t>
+                <punc>,</punc>
+                <t id="p04-s02-t02">less</t>
+                <t id="p04-s02-t03">than</t>
+                <t id="p04-s02-t04">0.5%</t>
+                <punc>(</punc>
+                <t id="p04-s02-t05">40/2000</t>
+                <punc>)</punc>
+                <t id="p04-s02-t06">of</t>
+                <t id="p04-s02-t07">these</t>
+                <t id="p04-s02-t08">tests</t>
+                <t id="p04-s02-t09">account</t>
+                <t id="p04-s02-t10">for</t>
+                <t id="p04-s02-t11">80%</t>
+                <t id="p04-s02-t12">of</t>
+                <t id="p04-s02-t13">the</t>
+                <t id="p04-s02-t14">test</t>
+                <t id="p04-s02-t15">volume</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p04-s03">
+                <t id="p04-s03-t01">Thus</t>
+                <t id="p04-s03-t02">we</t>
+                <t id="p04-s03-t03">began</t>
+                <t id="p04-s03-t04">by</t>
+                <t id="p04-s03-t05">focusing</t>
+                <punc>,</punc>
+                <t id="p04-s03-t06">in</t>
+                <t id="p04-s03-t07">these</t>
+                <t id="p04-s03-t08">first</t>
+                <t id="p04-s03-t09">experiments</t>
+                <punc>,</punc>
+                <t id="p04-s03-t10">on</t>
+                <t id="p04-s03-t11">the</t>
+                <t id="p04-s03-t12">impact</t>
+                <t id="p04-s03-t13">of</t>
+                <t id="p04-s03-t14">UAS</t>
+                <t id="p04-s03-t15">transport</t>
+                <t id="p04-s03-t16">on</t>
+                <t id="p04-s03-t17">the</t>
+                <t id="p04-s03-t18">33</t>
+                <t id="p04-s03-t19">most</t>
+                <t id="p04-s03-t20">common</t>
+                <t id="p04-s03-t21">tests</t>
+                <t id="p04-s03-t22">performed</t>
+                <t id="p04-s03-t23">in</t>
+                <t id="p04-s03-t24">hospital</t>
+                <t id="p04-s03-t25">laboratories</t>
+                <punc>[</punc>
+                <t id="p04-s03-t26">17</t>
+                <punc>,</punc>
+                <t id="p04-s03-t27">18</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p04-s04">
+                <t id="p04-s04-t01">A</t>
+                <t id="p04-s04-t02">second</t>
+                <t id="p04-s04-t03">challenge</t>
+                <t id="p04-s04-t04">was</t>
+                <t id="p04-s04-t05">determining</t>
+                <t id="p04-s04-t06">what</t>
+                <t id="p04-s04-t07">quality</t>
+                <t id="p04-s04-t08">criteria</t>
+                <t id="p04-s04-t09">to</t>
+                <t id="p04-s04-t10">use</t>
+                <t id="p04-s04-t11">for</t>
+                <t id="p04-s04-t12">evaluating</t>
+                <t id="p04-s04-t13">any</t>
+                <t id="p04-s04-t14">differences</t>
+                <t id="p04-s04-t15">we</t>
+                <t id="p04-s04-t16">might</t>
+                <t id="p04-s04-t17">see</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p04-s05">
+                <t id="p04-s05-t01">There</t>
+                <t id="p04-s05-t02">is</t>
+                <t id="p04-s05-t03">no</t>
+                <t id="p04-s05-t04">single</t>
+                <t id="p04-s05-t05">worldwide</t>
+                <t id="p04-s05-t06">consensus</t>
+                <t id="p04-s05-t07">on</t>
+                <t id="p04-s05-t08">acceptable</t>
+                <t id="p04-s05-t09">performance</t>
+                <t id="p04-s05-t10">for</t>
+                <t id="p04-s05-t11">laboratory</t>
+                <t id="p04-s05-t12">tests</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p04-s06">
+                <t id="p04-s06-t01">The</t>
+                <t id="p04-s06-t02">most</t>
+                <t id="p04-s06-t03">widely</t>
+                <t id="p04-s06-t04">used</t>
+                <t id="p04-s06-t05">performance</t>
+                <t id="p04-s06-t06">criteria</t>
+                <t id="p04-s06-t07">are</t>
+                <t id="p04-s06-t08">intended</t>
+                <t id="p04-s06-t09">for</t>
+                <t id="p04-s06-t10">interpretation</t>
+                <t id="p04-s06-t11">of</t>
+                <t id="p04-s06-t12">External</t>
+                <t id="p04-s06-t13">Quality</t>
+                <t id="p04-s06-t14">Assessment</t>
+                <t id="p04-s06-t15">reports</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p04-s07">
+                <t id="p04-s07-t01">They</t>
+                <t id="p04-s07-t02">are</t>
+                <t id="p04-s07-t03">largely</t>
+                <t id="p04-s07-t04">measures</t>
+                <t id="p04-s07-t05">of</t>
+                <t id="p04-s07-t06">accuracy</t>
+                <punc>,</punc>
+                <t id="p04-s07-t07">and</t>
+                <t id="p04-s07-t08">vary</t>
+                <t id="p04-s07-t09">by</t>
+                <t id="p04-s07-t10">jurisdiction</t>
+                <punc>[</punc>
+                <t id="p04-s07-t11">19</t>
+                <punc>–</punc>
+                <t id="p04-s07-t12">22</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p04-s08">
+                <t id="p04-s08-t01">To</t>
+                <t id="p04-s08-t02">account</t>
+                <t id="p04-s08-t03">for</t>
+                <t id="p04-s08-t04">these</t>
+                <t id="p04-s08-t05">limitations</t>
+                <punc>,</punc>
+                <t id="p04-s08-t06">we</t>
+                <t id="p04-s08-t07">evaluated</t>
+                <t id="p04-s08-t08">our</t>
+                <t id="p04-s08-t09">results</t>
+                <t id="p04-s08-t10">in</t>
+                <t id="p04-s08-t11">three</t>
+                <t id="p04-s08-t12">ways</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p04-s09">
+                <t id="p04-s09-t01">1</t>
+                <punc>)</punc>
+                <t id="p04-s09-t02">We</t>
+                <t id="p04-s09-t03">used</t>
+                <t id="p04-s09-t04">four</t>
+                <t id="p04-s09-t05">performance</t>
+                <t id="p04-s09-t06">acceptability</t>
+                <t id="p04-s09-t07">criteria</t>
+                <t id="p04-s09-t08">including</t>
+                <t id="p04-s09-t09">two</t>
+                <t id="p04-s09-t10">from</t>
+                <t id="p04-s09-t11">groups</t>
+                <t id="p04-s09-t12">outside</t>
+                <t id="p04-s09-t13">the</t>
+                <t id="p04-s09-t14">United</t>
+                <t id="p04-s09-t15">States</t>
+                <punc>[</punc>
+                <t id="p04-s09-t16">19</t>
+                <punc>–</punc>
+                <t id="p04-s09-t17">22</t>
+                <punc>]</punc>
+                <punc>;</punc>
+                <t id="p04-s09-t18">2</t>
+                <punc>)</punc>
+                <t id="p04-s09-t19">We</t>
+                <t id="p04-s09-t20">examined</t>
+                <t id="p04-s09-t21">changes</t>
+                <t id="p04-s09-t22">in</t>
+                <t id="p04-s09-t23">reference</t>
+                <t id="p04-s09-t24">range</t>
+                <punc>-</punc>
+                <t id="p04-s09-t25">based</t>
+                <t id="p04-s09-t26">clinical</t>
+                <t id="p04-s09-t27">classification</t>
+                <punc>;</punc>
+                <t id="p04-s09-t28">and</t>
+                <t id="p04-s09-t29">3</t>
+                <punc>)</punc>
+                <t id="p04-s09-t30">We</t>
+                <t id="p04-s09-t31">examined</t>
+                <t id="p04-s09-t32">differences</t>
+                <t id="p04-s09-t33">between</t>
+                <t id="p04-s09-t34">laboratory</t>
+                <punc>-</punc>
+                <t id="p04-s09-t35">derived</t>
+                <punc>(</punc>
+                <t id="p04-s09-t36">analytic</t>
+                <punc>)</punc>
+                <t id="p04-s09-t37">CV's</t>
+                <t id="p04-s09-t38">and</t>
+                <t id="p04-s09-t39">that</t>
+                <t id="p04-s09-t40">from</t>
+                <t id="p04-s09-t41">our</t>
+                <t id="p04-s09-t42">paired</t>
+                <t id="p04-s09-t43">samples</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p05">
+            <sentence id="p05-s01">
+                <t id="p05-s01-t01">To</t>
+                <t id="p05-s01-t02">the</t>
+                <t id="p05-s01-t03">best</t>
+                <t id="p05-s01-t04">of</t>
+                <t id="p05-s01-t05">our</t>
+                <t id="p05-s01-t06">knowledge</t>
+                <t id="p05-s01-t07">there</t>
+                <t id="p05-s01-t08">has</t>
+                <t id="p05-s01-t09">been</t>
+                <t id="p05-s01-t10">no</t>
+                <t id="p05-s01-t11">published</t>
+                <t id="p05-s01-t12">research</t>
+                <t id="p05-s01-t13">of</t>
+                <t id="p05-s01-t14">the</t>
+                <t id="p05-s01-t15">impact</t>
+                <t id="p05-s01-t16">of</t>
+                <t id="p05-s01-t17">UAS</t>
+                <t id="p05-s01-t18">transportation</t>
+                <t id="p05-s01-t19">on</t>
+                <t id="p05-s01-t20">the</t>
+                <t id="p05-s01-t21">stability</t>
+                <t id="p05-s01-t22">of</t>
+                <t id="p05-s01-t23">biological</t>
+                <t id="p05-s01-t24">specimens</t>
+                <t id="p05-s01-t25">or</t>
+                <t id="p05-s01-t26">on</t>
+                <t id="p05-s01-t27">the</t>
+                <t id="p05-s01-t28">laboratory</t>
+                <t id="p05-s01-t29">test</t>
+                <t id="p05-s01-t30">results</t>
+                <t id="p05-s01-t31">obtained</t>
+                <t id="p05-s01-t32">from</t>
+                <t id="p05-s01-t33">those</t>
+                <t id="p05-s01-t34">specimens</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p05-s02">
+                <t id="p05-s02-t01">Obtaining</t>
+                <t id="p05-s02-t02">this</t>
+                <t id="p05-s02-t03">data</t>
+                <punc>,</punc>
+                <t id="p05-s02-t04">which</t>
+                <t id="p05-s02-t05">would</t>
+                <t id="p05-s02-t06">be</t>
+                <t id="p05-s02-t07">needed</t>
+                <t id="p05-s02-t08">to</t>
+                <t id="p05-s02-t09">determine</t>
+                <t id="p05-s02-t10">the</t>
+                <t id="p05-s02-t11">feasibility</t>
+                <t id="p05-s02-t12">of</t>
+                <t id="p05-s02-t13">UAS</t>
+                <t id="p05-s02-t14">transportation</t>
+                <t id="p05-s02-t15">of</t>
+                <t id="p05-s02-t16">biological</t>
+                <t id="p05-s02-t17">samples</t>
+                <punc>,</punc>
+                <t id="p05-s02-t18">is</t>
+                <t id="p05-s02-t19">the</t>
+                <t id="p05-s02-t20">objective</t>
+                <t id="p05-s02-t21">of</t>
+                <t id="p05-s02-t22">this</t>
+                <t id="p05-s02-t23">study</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p06">
+            <sentence id="p06-s01">
+                <t id="p06-s01-t01">Our</t>
+                <t id="p06-s01-t02">findings</t>
+                <t id="p06-s01-t03">demonstrate</t>
+                <t id="p06-s01-t04">that</t>
+                <punc>,</punc>
+                <t id="p06-s01-t05">for</t>
+                <t id="p06-s01-t06">the</t>
+                <t id="p06-s01-t07">33</t>
+                <t id="p06-s01-t08">test</t>
+                <punc>-</punc>
+                <t id="p06-s01-t09">types</t>
+                <t id="p06-s01-t10">in</t>
+                <t id="p06-s01-t11">this</t>
+                <t id="p06-s01-t12">study</t>
+                <punc>,</punc>
+                <t id="p06-s01-t13">laboratory</t>
+                <t id="p06-s01-t14">results</t>
+                <t id="p06-s01-t15">from</t>
+                <t id="p06-s01-t16">UAS</t>
+                <punc>-</punc>
+                <t id="p06-s01-t17">transported</t>
+                <t id="p06-s01-t18">samples</t>
+                <t id="p06-s01-t19">agree</t>
+                <t id="p06-s01-t20">with</t>
+                <t id="p06-s01-t21">those</t>
+                <t id="p06-s01-t22">transported</t>
+                <t id="p06-s01-t23">terrestrially</t>
+                <punc>:</punc>
+                <t id="p06-s01-t24">there</t>
+                <t id="p06-s01-t25">were</t>
+                <t id="p06-s01-t26">no</t>
+                <t id="p06-s01-t27">systematic</t>
+                <t id="p06-s01-t28">differences</t>
+                <t id="p06-s01-t29">in</t>
+                <t id="p06-s01-t30">results</t>
+                <t id="p06-s01-t31">from</t>
+                <t id="p06-s01-t32">flown</t>
+                <t id="p06-s01-t33">versus</t>
+                <t id="p06-s01-t34">terrestrial</t>
+                <t id="p06-s01-t35">specimens</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p06-s02">
+                <t id="p06-s02-t01">However</t>
+                <punc>,</punc>
+                <t id="p06-s02-t02">there</t>
+                <t id="p06-s02-t03">was</t>
+                <t id="p06-s02-t04">slightly</t>
+                <t id="p06-s02-t05">worse</t>
+                <t id="p06-s02-t06">precision</t>
+                <t id="p06-s02-t07">in</t>
+                <t id="p06-s02-t08">the</t>
+                <t id="p06-s02-t09">flown</t>
+                <t id="p06-s02-t10">samples</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p06-s03">
+                <t id="p06-s03-t01">Full</t>
+                <t id="p06-s03-t02">adoption</t>
+                <t id="p06-s03-t03">of</t>
+                <t id="p06-s03-t04">UAS</t>
+                <t id="p06-s03-t05">transport</t>
+                <t id="p06-s03-t06">of</t>
+                <t id="p06-s03-t07">diagnostic</t>
+                <t id="p06-s03-t08">specimens</t>
+                <t id="p06-s03-t09">will</t>
+                <t id="p06-s03-t10">require</t>
+                <t id="p06-s03-t11">similar</t>
+                <t id="p06-s03-t12">studies</t>
+                <t id="p06-s03-t13">for</t>
+                <t id="p06-s03-t14">other</t>
+                <t id="p06-s03-t15">types</t>
+                <t id="p06-s03-t16">of</t>
+                <t id="p06-s03-t17">laboratory</t>
+                <t id="p06-s03-t18">tests</t>
+                <punc>,</punc>
+                <t id="p06-s03-t19">specimens</t>
+                <punc>,</punc>
+                <t id="p06-s03-t20">and</t>
+                <t id="p06-s03-t21">environmental</t>
+                <t id="p06-s03-t22">conditions</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
 </document>

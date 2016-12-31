@@ -5,18 +5,21 @@
     <citation> Logan CJ, Jelbert SA, Breen AJ, Gray RD, Taylor AH (2014) Modifications to the Aesop's Fable Paradigm Change New Caledonian Crow Performances. PLoS ONE 9(7): e103049. doi:10.1371/journal.pone.0103049 
         Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0103049 on 07 Dec 2016</citation>
     <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0103049</url>
+    <info type="arise">
+        <arise-info book="2" section="2" unit="7" part="1" item="A" firstpage="32"/>
+    </info>
     <body>
         <paragraph id="p01">
             <sentence id="p01-s01">
-			<connector>
-                <t id="p01-s01-t01" type="GSL-1">While</t>
-				</connector>
+                <connector>
+                    <t id="p01-s01-t01" type="GSL-1">While</t>
+                </connector>
                 <t id="p01-s01-t02" type="Coxhead-AWL-2,AR-AWL-2b">previous</t>
                 <t id="p01-s01-t03" type="GSL-1">work</t>
                 <t id="p01-s01-t04" type="GSL-1">has</t>
-				<connector>
-                <t id="p01-s01-t05" type="GSL-1">suggested</t>
-				</connector>
+                <connector>
+                    <t id="p01-s01-t05" type="GSL-1">suggested</t>
+                </connector>
                 <t id="p01-s01-t06" type="GSL-1">that</t>
                 <t id="p01-s01-t07" type="GSL-1">New</t>
                 <t id="p01-s01-t08">Caledonian</t>
@@ -61,9 +64,9 @@
                 <t id="p01-s01-t34" type="GSL-1">able</t>
                 <t id="p01-s01-t35" type="GSL-1">to</t>
                 <t id="p01-s01-t36" type="GSL-1">do</t>
-				<anaphor>
-                <t id="p01-s01-t37" type="GSL-1">so</t>
-				</anaphor>
+                <anaphor>
+                    <t id="p01-s01-t37" type="GSL-1">so</t>
+                </anaphor>
                 <t id="p01-s01-t38" type="GSL-1">by</t>
                 <t id="p01-s01-t39" type="GSL-1">learning</t>
                 <t id="p01-s01-t40" type="GSL-1">the</t>

@@ -1,1760 +1,1763 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
 <document>
-<title>Environmental Limits to Population Growth</title>
-<citation>OpenStax College, Biology. OpenStax College. 30 May 2013. Retrieved from 
-http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
-<url>http://cnx.org/content/col11448/latest/</url>
-<body>
-<paragraph id="p01">
-<sentence id="p01-s01">
-<t id="p01-s01-t01">Although</t>
-<t id="p01-s01-t02">life</t>
-<t id="p01-s01-t03">histories</t>
-<t id="p01-s01-t04">describe</t>
-<t id="p01-s01-t05">the</t>
-<t id="p01-s01-t06">way</t>
-<t id="p01-s01-t07">many</t>
-<t id="p01-s01-t08">characteristics</t>
-<t id="p01-s01-t09">of</t>
-<t id="p01-s01-t10">a</t>
-<t id="p01-s01-t11">population</t>
-<punc>(</punc>
-<t id="p01-s01-t12">such</t>
-<t id="p01-s01-t13">as</t>
-<t id="p01-s01-t14">their</t>
-<t id="p01-s01-t15">age</t>
-<t id="p01-s01-t16">structure</t>
-<punc>)</punc>
-<t id="p01-s01-t17">change</t>
-<t id="p01-s01-t18">over</t>
-<t id="p01-s01-t19">time</t>
-<t id="p01-s01-t20">in</t>
-<t id="p01-s01-t21">a</t>
-<t id="p01-s01-t22">general</t>
-<t id="p01-s01-t23">way</t>
-<punc>,</punc>
-<t id="p01-s01-t24">population</t>
-<t id="p01-s01-t25">ecologists</t>
-<t id="p01-s01-t26">make</t>
-<t id="p01-s01-t27">use</t>
-<t id="p01-s01-t28">of</t>
-<t id="p01-s01-t29">a</t>
-<t id="p01-s01-t30">variety</t>
-<t id="p01-s01-t31">of</t>
-<t id="p01-s01-t32">methods</t>
-<t id="p01-s01-t33">to</t>
-<t id="p01-s01-t34">model</t>
-<t id="p01-s01-t35">population</t>
-<t id="p01-s01-t36">dynamics</t>
-<t id="p01-s01-t37">mathematically</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p01-s02">
-<t id="p01-s02-t01">These</t>
-<t id="p01-s02-t02">more</t>
-<t id="p01-s02-t03">precise</t>
-<t id="p01-s02-t04">models</t>
-<t id="p01-s02-t05">can</t>
-<t id="p01-s02-t06">then</t>
-<t id="p01-s02-t07">be</t>
-<t id="p01-s02-t08">used</t>
-<t id="p01-s02-t09">to</t>
-<t id="p01-s02-t10">accurately</t>
-<t id="p01-s02-t11">describe</t>
-<t id="p01-s02-t12">changes</t>
-<t id="p01-s02-t13">occurring</t>
-<t id="p01-s02-t14">in</t>
-<t id="p01-s02-t15">a</t>
-<t id="p01-s02-t16">population</t>
-<t id="p01-s02-t17">and</t>
-<t id="p01-s02-t18">better</t>
-<t id="p01-s02-t19">predict</t>
-<t id="p01-s02-t20">future</t>
-<t id="p01-s02-t21">changes</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p01-s03">
-<t id="p01-s03-t01">Certain</t>
-<t id="p01-s03-t02">models</t>
-<t id="p01-s03-t03">that</t>
-<t id="p01-s03-t04">have</t>
-<t id="p01-s03-t05">been</t>
-<t id="p01-s03-t06">accepted</t>
-<t id="p01-s03-t07">for</t>
-<t id="p01-s03-t08">decades</t>
-<t id="p01-s03-t09">are</t>
-<t id="p01-s03-t10">now</t>
-<t id="p01-s03-t11">being</t>
-<t id="p01-s03-t12">modified</t>
-<t id="p01-s03-t13">or</t>
-<t id="p01-s03-t14">even</t>
-<t id="p01-s03-t15">abandoned</t>
-<t id="p01-s03-t16">due</t>
-<t id="p01-s03-t17">to</t>
-<t id="p01-s03-t18">their</t>
-<t id="p01-s03-t19">lack</t>
-<t id="p01-s03-t20">of</t>
-<t id="p01-s03-t21">predictive</t>
-<t id="p01-s03-t22">ability</t>
-<punc>,</punc>
-<t id="p01-s03-t23">and</t>
-<t id="p01-s03-t24">scholars</t>
-<t id="p01-s03-t25">strive</t>
-<t id="p01-s03-t26">to</t>
-<t id="p01-s03-t27">create</t>
-<t id="p01-s03-t28">effective</t>
-<t id="p01-s03-t29">new</t>
-<t id="p01-s03-t30">models</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p02">
-<sentence id="p02-s01">
-<t id="p02-s01-t01">Charles</t>
-<t id="p02-s01-t02">Darwin</t>
-<punc>,</punc>
-<t id="p02-s01-t03">in</t>
-<t id="p02-s01-t04">his</t>
-<t id="p02-s01-t05">theory</t>
-<t id="p02-s01-t06">of</t>
-<t id="p02-s01-t07">natural</t>
-<t id="p02-s01-t08">selection</t>
-<punc>,</punc>
-<t id="p02-s01-t09">was</t>
-<t id="p02-s01-t10">greatly</t>
-<t id="p02-s01-t11">influenced</t>
-<t id="p02-s01-t12">by</t>
-<t id="p02-s01-t13">the</t>
-<t id="p02-s01-t14">English</t>
-<t id="p02-s01-t15">clergyman</t>
-<t id="p02-s01-t16">Thomas</t>
-<t id="p02-s01-t17">Malthus</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p02-s02">
-<t id="p02-s02-t01">Malthus</t>
-<t id="p02-s02-t02">published</t>
-<t id="p02-s02-t03">a</t>
-<t id="p02-s02-t04">book</t>
-<t id="p02-s02-t05">in</t>
-<t id="p02-s02-t06">1798</t>
-<t id="p02-s02-t07">stating</t>
-<t id="p02-s02-t08">that</t>
-<t id="p02-s02-t09">populations</t>
-<t id="p02-s02-t10">with</t>
-<t id="p02-s02-t11">unlimited</t>
-<t id="p02-s02-t12">natural</t>
-<t id="p02-s02-t13">resources</t>
-<t id="p02-s02-t14">grow</t>
-<t id="p02-s02-t15">very</t>
-<t id="p02-s02-t16">rapidly</t>
-<punc>,</punc>
-<t id="p02-s02-t17">and</t>
-<t id="p02-s02-t18">then</t>
-<t id="p02-s02-t19">population</t>
-<t id="p02-s02-t20">growth</t>
-<t id="p02-s02-t21">decreases</t>
-<t id="p02-s02-t22">as</t>
-<t id="p02-s02-t23">resources</t>
-<t id="p02-s02-t24">become</t>
-<t id="p02-s02-t25">depleted</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p02-s03">
-<t id="p02-s03-t01">This</t>
-<t id="p02-s03-t02">accelerating</t>
-<t id="p02-s03-t03">pattern</t>
-<t id="p02-s03-t04">of</t>
-<t id="p02-s03-t05">increasing</t>
-<t id="p02-s03-t06">population</t>
-<t id="p02-s03-t07">size</t>
-<t id="p02-s03-t08">is</t>
-<t id="p02-s03-t09">called</t>
-<t id="p02-s03-t10">exponential</t>
-<t id="p02-s03-t11">growth</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p03">
-<sentence id="p03-s01">
-<t id="p03-s01-t01">The</t>
-<t id="p03-s01-t02">best</t>
-<t id="p03-s01-t03">example</t>
-<t id="p03-s01-t04">of</t>
-<t id="p03-s01-t05">exponential</t>
-<t id="p03-s01-t06">growth</t>
-<t id="p03-s01-t07">is</t>
-<t id="p03-s01-t08">seen</t>
-<t id="p03-s01-t09">in</t>
-<t id="p03-s01-t10">bacteria</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p03-s02">
-<t id="p03-s02-t01">Bacteria</t>
-<t id="p03-s02-t02">are</t>
-<t id="p03-s02-t03">prokaryotes</t>
-<t id="p03-s02-t04">that</t>
-<t id="p03-s02-t05">reproduce</t>
-<t id="p03-s02-t06">by</t>
-<t id="p03-s02-t07">prokaryotic</t>
-<t id="p03-s02-t08">fission</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p03-s03">
-<t id="p03-s03-t01">This</t>
-<t id="p03-s03-t02">division</t>
-<t id="p03-s03-t03">takes</t>
-<t id="p03-s03-t04">about</t>
-<t id="p03-s03-t05">an</t>
-<t id="p03-s03-t06">hour</t>
-<t id="p03-s03-t07">for</t>
-<t id="p03-s03-t08">many</t>
-<t id="p03-s03-t09">bacterial</t>
-<t id="p03-s03-t10">species</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p03-s04">
-<t id="p03-s04-t01">If</t>
-<t id="p03-s04-t02">1000</t>
-<t id="p03-s04-t03">bacteria</t>
-<t id="p03-s04-t04">are</t>
-<t id="p03-s04-t05">placed</t>
-<t id="p03-s04-t06">in</t>
-<t id="p03-s04-t07">a</t>
-<t id="p03-s04-t08">large</t>
-<t id="p03-s04-t09">flask</t>
-<t id="p03-s04-t10">with</t>
-<t id="p03-s04-t11">an</t>
-<t id="p03-s04-t12">unlimited</t>
-<t id="p03-s04-t13">supply</t>
-<t id="p03-s04-t14">of</t>
-<t id="p03-s04-t15">nutrients</t>
-<punc>(</punc>
-<t id="p03-s04-t16">so</t>
-<t id="p03-s04-t17">the</t>
-<t id="p03-s04-t18">nutrients</t>
-<t id="p03-s04-t19">will</t>
-<t id="p03-s04-t20">not</t>
-<t id="p03-s04-t21">become</t>
-<t id="p03-s04-t22">depleted</t>
-<punc>)</punc>
-<punc>,</punc>
-<t id="p03-s04-t23">after</t>
-<t id="p03-s04-t24">an</t>
-<t id="p03-s04-t25">hour</t>
-<punc>,</punc>
-<t id="p03-s04-t26">there</t>
-<t id="p03-s04-t27">is</t>
-<t id="p03-s04-t28">one</t>
-<t id="p03-s04-t29">round</t>
-<t id="p03-s04-t30">of</t>
-<t id="p03-s04-t31">division</t>
-<t id="p03-s04-t32">and</t>
-<t id="p03-s04-t33">each</t>
-<t id="p03-s04-t34">organism</t>
-<t id="p03-s04-t35">divides</t>
-<punc>,</punc>
-<t id="p03-s04-t36">resulting</t>
-<t id="p03-s04-t37">in</t>
-<t id="p03-s04-t38">2000</t>
-<t id="p03-s04-t39">organisms</t>
-<punc>—</punc>
-<t id="p03-s04-t40">an</t>
-<t id="p03-s04-t41">increase</t>
-<t id="p03-s04-t42">of</t>
-<t id="p03-s04-t43">1000</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p03-s05">
-<t id="p03-s05-t01">In</t>
-<t id="p03-s05-t02">another</t>
-<t id="p03-s05-t03">hour</t>
-<punc>,</punc>
-<t id="p03-s05-t04">each</t>
-<t id="p03-s05-t05">of</t>
-<t id="p03-s05-t06">the</t>
-<t id="p03-s05-t07">2000</t>
-<t id="p03-s05-t08">organisms</t>
-<t id="p03-s05-t09">will</t>
-<t id="p03-s05-t10">double</t>
-<punc>,</punc>
-<t id="p03-s05-t11">producing</t>
-<t id="p03-s05-t12">4000</t>
-<punc>,</punc>
-<t id="p03-s05-t13">an</t>
-<t id="p03-s05-t14">increase</t>
-<t id="p03-s05-t15">of</t>
-<t id="p03-s05-t16">2000</t>
-<t id="p03-s05-t17">organisms</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p03-s06">
-<t id="p03-s06-t01">After</t>
-<t id="p03-s06-t02">the</t>
-<t id="p03-s06-t03">third</t>
-<t id="p03-s06-t04">hour</t>
-<punc>,</punc>
-<t id="p03-s06-t05">there</t>
-<t id="p03-s06-t06">should</t>
-<t id="p03-s06-t07">be</t>
-<t id="p03-s06-t08">8000</t>
-<t id="p03-s06-t09">bacteria</t>
-<t id="p03-s06-t10">in</t>
-<t id="p03-s06-t11">the</t>
-<t id="p03-s06-t12">flask</t>
-<punc>,</punc>
-<t id="p03-s06-t13">an</t>
-<t id="p03-s06-t14">increase</t>
-<t id="p03-s06-t15">of</t>
-<t id="p03-s06-t16">4000</t>
-<t id="p03-s06-t17">organisms</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p03-s07">
-<t id="p03-s07-t01">The</t>
-<t id="p03-s07-t02">important</t>
-<t id="p03-s07-t03">concept</t>
-<t id="p03-s07-t04">of</t>
-<t id="p03-s07-t05">exponential</t>
-<t id="p03-s07-t06">growth</t>
-<t id="p03-s07-t07">is</t>
-<t id="p03-s07-t08">that</t>
-<t id="p03-s07-t09">the</t>
-<t id="p03-s07-t10">population</t>
-<t id="p03-s07-t11">growth</t>
-<t id="p03-s07-t12">rate</t>
-<punc>—</punc>
-<t id="p03-s07-t13">the</t>
-<t id="p03-s07-t14">number</t>
-<t id="p03-s07-t15">of</t>
-<t id="p03-s07-t16">organisms</t>
-<t id="p03-s07-t17">added</t>
-<t id="p03-s07-t18">in</t>
-<t id="p03-s07-t19">each</t>
-<t id="p03-s07-t20">reproductive</t>
-<t id="p03-s07-t21">generation</t>
-<punc>—</punc>
-<t id="p03-s07-t22">is</t>
-<t id="p03-s07-t23">accelerating</t>
-<punc>;</punc>
-<t id="p03-s07-t24">that</t>
-<t id="p03-s07-t25">is</t>
-<punc>,</punc>
-<t id="p03-s07-t26">it</t>
-<t id="p03-s07-t27">is</t>
-<t id="p03-s07-t28">increasing</t>
-<t id="p03-s07-t29">at</t>
-<t id="p03-s07-t30">a</t>
-<t id="p03-s07-t31">greater</t>
-<t id="p03-s07-t32">and</t>
-<t id="p03-s07-t33">greater</t>
-<t id="p03-s07-t34">rate</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p03-s08">
-<t id="p03-s08-t01">After</t>
-<t id="p03-s08-t02">1</t>
-<t id="p03-s08-t03">day</t>
-<t id="p03-s08-t04">and</t>
-<t id="p03-s08-t05">24</t>
-<t id="p03-s08-t06">of</t>
-<t id="p03-s08-t07">these</t>
-<t id="p03-s08-t08">cycles</t>
-<punc>,</punc>
-<t id="p03-s08-t09">the</t>
-<t id="p03-s08-t10">population</t>
-<t id="p03-s08-t11">would</t>
-<t id="p03-s08-t12">have</t>
-<t id="p03-s08-t13">increased</t>
-<t id="p03-s08-t14">from</t>
-<t id="p03-s08-t15">1000</t>
-<t id="p03-s08-t16">to</t>
-<t id="p03-s08-t17">more</t>
-<t id="p03-s08-t18">than</t>
-<t id="p03-s08-t19">16</t>
-<t id="p03-s08-t20">billion</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p03-s09">
-<t id="p03-s09-t01">When</t>
-<t id="p03-s09-t02">the</t>
-<t id="p03-s09-t03">population</t>
-<t id="p03-s09-t04">size</t>
-<punc>,</punc>
-<t id="p03-s09-t05">N</t>
-<punc>,</punc>
-<t id="p03-s09-t06">is</t>
-<t id="p03-s09-t07">plotted</t>
-<t id="p03-s09-t08">over</t>
-<t id="p03-s09-t09">time</t>
-<punc>,</punc>
-<t id="p03-s09-t10">a</t>
-<t id="p03-s09-t11">J</t>
-<punc>-</punc>
-<t id="p03-s09-t12">shaped</t>
-<t id="p03-s09-t13">growth</t>
-<t id="p03-s09-t14">curve</t>
-<t id="p03-s09-t15">is</t>
-<t id="p03-s09-t16">produced</t>
-<punc>(</punc>
-<t id="p03-s09-t17">Figure</t>
-<punc>)</punc>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p04">
-<sentence id="p04-s01">
-<t id="p04-s01-t01">The</t>
-<t id="p04-s01-t02">bacteria</t>
-<t id="p04-s01-t03">example</t>
-<t id="p04-s01-t04">is</t>
-<t id="p04-s01-t05">not</t>
-<t id="p04-s01-t06">representative</t>
-<t id="p04-s01-t07">of</t>
-<t id="p04-s01-t08">the</t>
-<t id="p04-s01-t09">real</t>
-<t id="p04-s01-t10">world</t>
-<t id="p04-s01-t11">where</t>
-<t id="p04-s01-t12">resources</t>
-<t id="p04-s01-t13">are</t>
-<t id="p04-s01-t14">limited</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p04-s02">
-<t id="p04-s02-t01">Furthermore</t>
-<punc>,</punc>
-<t id="p04-s02-t02">some</t>
-<t id="p04-s02-t03">bacteria</t>
-<t id="p04-s02-t04">will</t>
-<t id="p04-s02-t05">die</t>
-<t id="p04-s02-t06">during</t>
-<t id="p04-s02-t07">the</t>
-<t id="p04-s02-t08">experiment</t>
-<t id="p04-s02-t09">and</t>
-<t id="p04-s02-t10">thus</t>
-<t id="p04-s02-t11">not</t>
-<t id="p04-s02-t12">reproduce</t>
-<punc>,</punc>
-<t id="p04-s02-t13">lowering</t>
-<t id="p04-s02-t14">the</t>
-<t id="p04-s02-t15">growth</t>
-<t id="p04-s02-t16">rate</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p04-s03">
-<t id="p04-s03-t01">Therefore</t>
-<punc>,</punc>
-<t id="p04-s03-t02">when</t>
-<t id="p04-s03-t03">calculating</t>
-<t id="p04-s03-t04">the</t>
-<t id="p04-s03-t05">growth</t>
-<t id="p04-s03-t06">rate</t>
-<t id="p04-s03-t07">of</t>
-<t id="p04-s03-t08">a</t>
-<t id="p04-s03-t09">population</t>
-<punc>,</punc>
-<t id="p04-s03-t10">the</t>
-<t id="p04-s03-t11">death</t>
-<t id="p04-s03-t12">rate</t>
-<punc>(</punc>
-<t id="p04-s03-t13">D</t>
-<punc>)</punc>
-<punc>(</punc>
-<t id="p04-s03-t14">number</t>
-<t id="p04-s03-t15">organisms</t>
-<t id="p04-s03-t16">that</t>
-<t id="p04-s03-t17">die</t>
-<t id="p04-s03-t18">during</t>
-<t id="p04-s03-t19">a</t>
-<t id="p04-s03-t20">particular</t>
-<t id="p04-s03-t21">time</t>
-<t id="p04-s03-t22">interval</t>
-<punc>)</punc>
-<t id="p04-s03-t23">is</t>
-<t id="p04-s03-t24">subtracted</t>
-<t id="p04-s03-t25">from</t>
-<t id="p04-s03-t26">the</t>
-<t id="p04-s03-t27">birth</t>
-<t id="p04-s03-t28">rate</t>
-<punc>(</punc>
-<t id="p04-s03-t29">B</t>
-<punc>)</punc>
-<punc>(</punc>
-<t id="p04-s03-t30">number</t>
-<t id="p04-s03-t31">organisms</t>
-<t id="p04-s03-t32">that</t>
-<t id="p04-s03-t33">are</t>
-<t id="p04-s03-t34">born</t>
-<t id="p04-s03-t35">during</t>
-<t id="p04-s03-t36">that</t>
-<t id="p04-s03-t37">interval</t>
-<punc>)</punc>
-<punc>.</punc>
-</sentence>
-<sentence id="p04-s04">
-<t id="p04-s04-t01">This</t>
-<t id="p04-s04-t02">is</t>
-<t id="p04-s04-t03">shown</t>
-<t id="p04-s04-t04">in</t>
-<t id="p04-s04-t05">the</t>
-<t id="p04-s04-t06">following</t>
-<t id="p04-s04-t07">formula</t>
-<punc>:</punc>
-</sentence>
-</paragraph>
-<paragraph id="p05">
-<sentence id="p05-s01">
-<t id="p05-s01-t01">The</t>
-<t id="p05-s01-t02">birth</t>
-<t id="p05-s01-t03">rate</t>
-<t id="p05-s01-t04">is</t>
-<t id="p05-s01-t05">usually</t>
-<t id="p05-s01-t06">expressed</t>
-<t id="p05-s01-t07">on</t>
-<t id="p05-s01-t08">a</t>
-<t id="p05-s01-t09">per</t>
-<t id="p05-s01-t10">capita</t>
-<punc>(</punc>
-<t id="p05-s01-t11">for</t>
-<t id="p05-s01-t12">each</t>
-<t id="p05-s01-t13">individual</t>
-<punc>)</punc>
-<t id="p05-s01-t14">basis</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p05-s02">
-<t id="p05-s02-t01">Thus</t>
-<punc>,</punc>
-<t id="p05-s02-t02">B</t>
-<punc>(</punc>
-<t id="p05-s02-t03">birth</t>
-<t id="p05-s02-t04">rate</t>
-<punc>)</punc>
-<t id="p05-s02-t05">=</t>
-<t id="p05-s02-t06">bN</t>
-<punc>(</punc>
-<t id="p05-s02-t07">the</t>
-<t id="p05-s02-t08">per</t>
-<t id="p05-s02-t09">capita</t>
-<t id="p05-s02-t10">birth</t>
-<t id="p05-s02-t11">rate</t>
-<punc>“</punc>
-<t id="p05-s02-t12">b</t>
-<punc>”</punc>
-<t id="p05-s02-t13">multiplied</t>
-<t id="p05-s02-t14">by</t>
-<t id="p05-s02-t15">the</t>
-<t id="p05-s02-t16">number</t>
-<t id="p05-s02-t17">of</t>
-<t id="p05-s02-t18">individuals</t>
-<punc>“</punc>
-<t id="p05-s02-t19">N</t>
-<punc>”</punc>
-<punc>)</punc>
-<t id="p05-s02-t20">and</t>
-<t id="p05-s02-t21">D</t>
-<punc>(</punc>
-<t id="p05-s02-t22">death</t>
-<t id="p05-s02-t23">rate</t>
-<punc>)</punc>
-<t id="p05-s02-t24">=</t>
-<t id="p05-s02-t25">dN</t>
-<punc>(</punc>
-<t id="p05-s02-t26">the</t>
-<t id="p05-s02-t27">per</t>
-<t id="p05-s02-t28">capita</t>
-<t id="p05-s02-t29">death</t>
-<t id="p05-s02-t30">rate</t>
-<punc>“</punc>
-<t id="p05-s02-t31">d</t>
-<punc>”</punc>
-<t id="p05-s02-t32">multiplied</t>
-<t id="p05-s02-t33">by</t>
-<t id="p05-s02-t34">the</t>
-<t id="p05-s02-t35">number</t>
-<t id="p05-s02-t36">of</t>
-<t id="p05-s02-t37">individuals</t>
-<punc>“</punc>
-<t id="p05-s02-t38">N</t>
-<punc>”</punc>
-<punc>)</punc>
-<punc>.</punc>
-</sentence>
-<sentence id="p05-s03">
-<t id="p05-s03-t01">Additionally</t>
-<punc>,</punc>
-<t id="p05-s03-t02">ecologists</t>
-<t id="p05-s03-t03">are</t>
-<t id="p05-s03-t04">interested</t>
-<t id="p05-s03-t05">in</t>
-<t id="p05-s03-t06">the</t>
-<t id="p05-s03-t07">population</t>
-<t id="p05-s03-t08">at</t>
-<t id="p05-s03-t09">a</t>
-<t id="p05-s03-t10">particular</t>
-<t id="p05-s03-t11">point</t>
-<t id="p05-s03-t12">in</t>
-<t id="p05-s03-t13">time</t>
-<punc>,</punc>
-<t id="p05-s03-t14">an</t>
-<t id="p05-s03-t15">infinitely</t>
-<t id="p05-s03-t16">small</t>
-<t id="p05-s03-t17">time</t>
-<t id="p05-s03-t18">interval</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p05-s04">
-<t id="p05-s04-t01">For</t>
-<t id="p05-s04-t02">this</t>
-<t id="p05-s04-t03">reason</t>
-<punc>,</punc>
-<t id="p05-s04-t04">the</t>
-<t id="p05-s04-t05">terminology</t>
-<t id="p05-s04-t06">of</t>
-<t id="p05-s04-t07">differential</t>
-<t id="p05-s04-t08">calculus</t>
-<t id="p05-s04-t09">is</t>
-<t id="p05-s04-t10">used</t>
-<t id="p05-s04-t11">to</t>
-<t id="p05-s04-t12">obtain</t>
-<t id="p05-s04-t13">the</t>
-<punc>“</punc>
-<t id="p05-s04-t14">instantaneous</t>
-<punc>”</punc>
-<t id="p05-s04-t15">growth</t>
-<t id="p05-s04-t16">rate</t>
-<punc>,</punc>
-<t id="p05-s04-t17">replacing</t>
-<t id="p05-s04-t18">the</t>
-<t id="p05-s04-t19">change</t>
-<t id="p05-s04-t20">in</t>
-<t id="p05-s04-t21">number</t>
-<t id="p05-s04-t22">and</t>
-<t id="p05-s04-t23">time</t>
-<t id="p05-s04-t24">with</t>
-<t id="p05-s04-t25">an</t>
-<t id="p05-s04-t26">instant</t>
-<punc>-</punc>
-<t id="p05-s04-t27">specific</t>
-<t id="p05-s04-t28">measurement</t>
-<t id="p05-s04-t29">of</t>
-<t id="p05-s04-t30">number</t>
-<t id="p05-s04-t31">and</t>
-<t id="p05-s04-t32">time</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p06">
-<sentence id="p06-s01">
-<t id="p06-s01-t01">Notice</t>
-<t id="p06-s01-t02">that</t>
-<t id="p06-s01-t03">the</t>
-<punc>“</punc>
-<t id="p06-s01-t04">d</t>
-<punc>”</punc>
-<t id="p06-s01-t05">associated</t>
-<t id="p06-s01-t06">with</t>
-<t id="p06-s01-t07">the</t>
-<t id="p06-s01-t08">first</t>
-<t id="p06-s01-t09">term</t>
-<t id="p06-s01-t10">refers</t>
-<t id="p06-s01-t11">to</t>
-<t id="p06-s01-t12">the</t>
-<t id="p06-s01-t13">derivative</t>
-<punc>(</punc>
-<t id="p06-s01-t14">as</t>
-<t id="p06-s01-t15">the</t>
-<t id="p06-s01-t16">term</t>
-<t id="p06-s01-t17">is</t>
-<t id="p06-s01-t18">used</t>
-<t id="p06-s01-t19">in</t>
-<t id="p06-s01-t20">calculus</t>
-<punc>)</punc>
-<t id="p06-s01-t21">and</t>
-<t id="p06-s01-t22">is</t>
-<t id="p06-s01-t23">different</t>
-<t id="p06-s01-t24">from</t>
-<t id="p06-s01-t25">the</t>
-<t id="p06-s01-t26">death</t>
-<t id="p06-s01-t27">rate</t>
-<punc>,</punc>
-<t id="p06-s01-t28">also</t>
-<t id="p06-s01-t29">called</t>
-<punc>“</punc>
-<t id="p06-s01-t30">d</t>
-<punc>.</punc>
-<punc>”</punc>
-</sentence>
-<sentence id="p06-s02">
-<t id="p06-s02-t01">The</t>
-<t id="p06-s02-t02">difference</t>
-<t id="p06-s02-t03">between</t>
-<t id="p06-s02-t04">birth</t>
-<t id="p06-s02-t05">and</t>
-<t id="p06-s02-t06">death</t>
-<t id="p06-s02-t07">rates</t>
-<t id="p06-s02-t08">is</t>
-<t id="p06-s02-t09">further</t>
-<t id="p06-s02-t10">simplified</t>
-<t id="p06-s02-t11">by</t>
-<t id="p06-s02-t12">substituting</t>
-<t id="p06-s02-t13">the</t>
-<t id="p06-s02-t14">term</t>
-<punc>“</punc>
-<t id="p06-s02-t15">r</t>
-<punc>”</punc>
-<punc>(</punc>
-<t id="p06-s02-t16">intrinsic</t>
-<t id="p06-s02-t17">rate</t>
-<t id="p06-s02-t18">of</t>
-<t id="p06-s02-t19">increase</t>
-<punc>)</punc>
-<t id="p06-s02-t20">for</t>
-<t id="p06-s02-t21">the</t>
-<t id="p06-s02-t22">relationship</t>
-<t id="p06-s02-t23">between</t>
-<t id="p06-s02-t24">birth</t>
-<t id="p06-s02-t25">and</t>
-<t id="p06-s02-t26">death</t>
-<t id="p06-s02-t27">rates</t>
-<punc>:</punc>
-</sentence>
-</paragraph>
-<paragraph id="p07">
-<sentence id="p07-s01">
-<t id="p07-s01-t01">The</t>
-<t id="p07-s01-t02">value</t>
-<punc>“</punc>
-<t id="p07-s01-t03">r</t>
-<punc>”</punc>
-<t id="p07-s01-t04">can</t>
-<t id="p07-s01-t05">be</t>
-<t id="p07-s01-t06">positive</t>
-<punc>,</punc>
-<t id="p07-s01-t07">meaning</t>
-<t id="p07-s01-t08">the</t>
-<t id="p07-s01-t09">population</t>
-<t id="p07-s01-t10">is</t>
-<t id="p07-s01-t11">increasing</t>
-<t id="p07-s01-t12">in</t>
-<t id="p07-s01-t13">size</t>
-<punc>;</punc>
-<t id="p07-s01-t14">or</t>
-<t id="p07-s01-t15">negative</t>
-<punc>,</punc>
-<t id="p07-s01-t16">meaning</t>
-<t id="p07-s01-t17">the</t>
-<t id="p07-s01-t18">population</t>
-<t id="p07-s01-t19">is</t>
-<t id="p07-s01-t20">decreasing</t>
-<t id="p07-s01-t21">in</t>
-<t id="p07-s01-t22">size</t>
-<punc>;</punc>
-<t id="p07-s01-t23">or</t>
-<t id="p07-s01-t24">zero</t>
-<punc>,</punc>
-<t id="p07-s01-t25">where</t>
-<t id="p07-s01-t26">the</t>
-<t id="p07-s01-t27">population's</t>
-<t id="p07-s01-t28">size</t>
-<t id="p07-s01-t29">is</t>
-<t id="p07-s01-t30">unchanging</t>
-<punc>,</punc>
-<t id="p07-s01-t31">a</t>
-<t id="p07-s01-t32">condition</t>
-<t id="p07-s01-t33">known</t>
-<t id="p07-s01-t34">as</t>
-<t id="p07-s01-t35">zero</t>
-<t id="p07-s01-t36">population</t>
-<t id="p07-s01-t37">growth</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p07-s02">
-<t id="p07-s02-t01">A</t>
-<t id="p07-s02-t02">further</t>
-<t id="p07-s02-t03">refinement</t>
-<t id="p07-s02-t04">of</t>
-<t id="p07-s02-t05">the</t>
-<t id="p07-s02-t06">formula</t>
-<t id="p07-s02-t07">recognizes</t>
-<t id="p07-s02-t08">that</t>
-<t id="p07-s02-t09">different</t>
-<t id="p07-s02-t10">species</t>
-<t id="p07-s02-t11">have</t>
-<t id="p07-s02-t12">inherent</t>
-<t id="p07-s02-t13">differences</t>
-<t id="p07-s02-t14">in</t>
-<t id="p07-s02-t15">their</t>
-<t id="p07-s02-t16">intrinsic</t>
-<t id="p07-s02-t17">rate</t>
-<t id="p07-s02-t18">of</t>
-<t id="p07-s02-t19">increase</t>
-<punc>(</punc>
-<t id="p07-s02-t20">often</t>
-<t id="p07-s02-t21">thought</t>
-<t id="p07-s02-t22">of</t>
-<t id="p07-s02-t23">as</t>
-<t id="p07-s02-t24">the</t>
-<t id="p07-s02-t25">potential</t>
-<t id="p07-s02-t26">for</t>
-<t id="p07-s02-t27">reproduction</t>
-<punc>)</punc>
-<punc>,</punc>
-<t id="p07-s02-t28">even</t>
-<t id="p07-s02-t29">under</t>
-<t id="p07-s02-t30">ideal</t>
-<t id="p07-s02-t31">conditions</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p07-s03">
-<t id="p07-s03-t01">Obviously</t>
-<punc>,</punc>
-<t id="p07-s03-t02">a</t>
-<t id="p07-s03-t03">bacterium</t>
-<t id="p07-s03-t04">can</t>
-<t id="p07-s03-t05">reproduce</t>
-<t id="p07-s03-t06">more</t>
-<t id="p07-s03-t07">rapidly</t>
-<t id="p07-s03-t08">and</t>
-<t id="p07-s03-t09">have</t>
-<t id="p07-s03-t10">a</t>
-<t id="p07-s03-t11">higher</t>
-<t id="p07-s03-t12">intrinsic</t>
-<t id="p07-s03-t13">rate</t>
-<t id="p07-s03-t14">of</t>
-<t id="p07-s03-t15">growth</t>
-<t id="p07-s03-t16">than</t>
-<t id="p07-s03-t17">a</t>
-<t id="p07-s03-t18">human</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p07-s04">
-<t id="p07-s04-t01">The</t>
-<t id="p07-s04-t02">maximal</t>
-<t id="p07-s04-t03">growth</t>
-<t id="p07-s04-t04">rate</t>
-<t id="p07-s04-t05">for</t>
-<t id="p07-s04-t06">a</t>
-<t id="p07-s04-t07">species</t>
-<t id="p07-s04-t08">is</t>
-<t id="p07-s04-t09">its</t>
-<t id="p07-s04-t10">biotic</t>
-<t id="p07-s04-t11">potential</t>
-<punc>,</punc>
-<t id="p07-s04-t12">or</t>
-<t id="p07-s04-t13">rmax</t>
-<punc>,</punc>
-<t id="p07-s04-t14">thus</t>
-<t id="p07-s04-t15">changing</t>
-<t id="p07-s04-t16">the</t>
-<t id="p07-s04-t17">equation</t>
-<t id="p07-s04-t18">to</t>
-<punc>:</punc>
-</sentence>
-</paragraph>
-<paragraph id="p08">
-<sentence id="p08-s01">
-<t id="p08-s01-t01">Exponential</t>
-<t id="p08-s01-t02">growth</t>
-<t id="p08-s01-t03">is</t>
-<t id="p08-s01-t04">possible</t>
-<t id="p08-s01-t05">only</t>
-<t id="p08-s01-t06">when</t>
-<t id="p08-s01-t07">infinite</t>
-<t id="p08-s01-t08">natural</t>
-<t id="p08-s01-t09">resources</t>
-<t id="p08-s01-t10">are</t>
-<t id="p08-s01-t11">available</t>
-<punc>;</punc>
-<t id="p08-s01-t12">this</t>
-<t id="p08-s01-t13">is</t>
-<t id="p08-s01-t14">not</t>
-<t id="p08-s01-t15">the</t>
-<t id="p08-s01-t16">case</t>
-<t id="p08-s01-t17">in</t>
-<t id="p08-s01-t18">the</t>
-<t id="p08-s01-t19">real</t>
-<t id="p08-s01-t20">world</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p08-s02">
-<t id="p08-s02-t01">Charles</t>
-<t id="p08-s02-t02">Darwin</t>
-<t id="p08-s02-t03">recognized</t>
-<t id="p08-s02-t04">this</t>
-<t id="p08-s02-t05">fact</t>
-<t id="p08-s02-t06">in</t>
-<t id="p08-s02-t07">his</t>
-<t id="p08-s02-t08">description</t>
-<t id="p08-s02-t09">of</t>
-<t id="p08-s02-t10">the</t>
-<punc>“</punc>
-<t id="p08-s02-t11">struggle</t>
-<t id="p08-s02-t12">for</t>
-<t id="p08-s02-t13">existence</t>
-<punc>,</punc>
-<punc>”</punc>
-<t id="p08-s02-t14">which</t>
-<t id="p08-s02-t15">states</t>
-<t id="p08-s02-t16">that</t>
-<t id="p08-s02-t17">individuals</t>
-<t id="p08-s02-t18">will</t>
-<t id="p08-s02-t19">compete</t>
-<punc>(</punc>
-<t id="p08-s02-t20">with</t>
-<t id="p08-s02-t21">members</t>
-<t id="p08-s02-t22">of</t>
-<t id="p08-s02-t23">their</t>
-<t id="p08-s02-t24">own</t>
-<t id="p08-s02-t25">or</t>
-<t id="p08-s02-t26">other</t>
-<t id="p08-s02-t27">species</t>
-<punc>)</punc>
-<t id="p08-s02-t28">for</t>
-<t id="p08-s02-t29">limited</t>
-<t id="p08-s02-t30">resources</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p08-s03">
-<t id="p08-s03-t01">The</t>
-<t id="p08-s03-t02">successful</t>
-<t id="p08-s03-t03">ones</t>
-<t id="p08-s03-t04">will</t>
-<t id="p08-s03-t05">survive</t>
-<t id="p08-s03-t06">to</t>
-<t id="p08-s03-t07">pass</t>
-<t id="p08-s03-t08">on</t>
-<t id="p08-s03-t09">their</t>
-<t id="p08-s03-t10">own</t>
-<t id="p08-s03-t11">characteristics</t>
-<t id="p08-s03-t12">and</t>
-<t id="p08-s03-t13">traits</t>
-<punc>(</punc>
-<t id="p08-s03-t14">which</t>
-<t id="p08-s03-t15">we</t>
-<t id="p08-s03-t16">know</t>
-<t id="p08-s03-t17">now</t>
-<t id="p08-s03-t18">are</t>
-<t id="p08-s03-t19">transferred</t>
-<t id="p08-s03-t20">by</t>
-<t id="p08-s03-t21">genes</t>
-<punc>)</punc>
-<t id="p08-s03-t22">to</t>
-<t id="p08-s03-t23">the</t>
-<t id="p08-s03-t24">next</t>
-<t id="p08-s03-t25">generation</t>
-<t id="p08-s03-t26">at</t>
-<t id="p08-s03-t27">a</t>
-<t id="p08-s03-t28">greater</t>
-<t id="p08-s03-t29">rate</t>
-<punc>(</punc>
-<t id="p08-s03-t30">natural</t>
-<t id="p08-s03-t31">selection</t>
-<punc>)</punc>
-<punc>.</punc>
-</sentence>
-<sentence id="p08-s04">
-<t id="p08-s04-t01">To</t>
-<t id="p08-s04-t02">model</t>
-<t id="p08-s04-t03">the</t>
-<t id="p08-s04-t04">reality</t>
-<t id="p08-s04-t05">of</t>
-<t id="p08-s04-t06">limited</t>
-<t id="p08-s04-t07">resources</t>
-<punc>,</punc>
-<t id="p08-s04-t08">population</t>
-<t id="p08-s04-t09">ecologists</t>
-<t id="p08-s04-t10">developed</t>
-<t id="p08-s04-t11">the</t>
-<t id="p08-s04-t12">logistic</t>
-<t id="p08-s04-t13">growth</t>
-<t id="p08-s04-t14">model</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p09">
-<sentence id="p09-s01">
-<t id="p09-s01-t01">In</t>
-<t id="p09-s01-t02">the</t>
-<t id="p09-s01-t03">real</t>
-<t id="p09-s01-t04">world</t>
-<punc>,</punc>
-<t id="p09-s01-t05">with</t>
-<t id="p09-s01-t06">its</t>
-<t id="p09-s01-t07">limited</t>
-<t id="p09-s01-t08">resources</t>
-<punc>,</punc>
-<t id="p09-s01-t09">exponential</t>
-<t id="p09-s01-t10">growth</t>
-<t id="p09-s01-t11">cannot</t>
-<t id="p09-s01-t12">continue</t>
-<t id="p09-s01-t13">indefinitely</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p09-s02">
-<t id="p09-s02-t01">Exponential</t>
-<t id="p09-s02-t02">growth</t>
-<t id="p09-s02-t03">may</t>
-<t id="p09-s02-t04">occur</t>
-<t id="p09-s02-t05">in</t>
-<t id="p09-s02-t06">environments</t>
-<t id="p09-s02-t07">where</t>
-<t id="p09-s02-t08">there</t>
-<t id="p09-s02-t09">are</t>
-<t id="p09-s02-t10">few</t>
-<t id="p09-s02-t11">individuals</t>
-<t id="p09-s02-t12">and</t>
-<t id="p09-s02-t13">plentiful</t>
-<t id="p09-s02-t14">resources</t>
-<punc>,</punc>
-<t id="p09-s02-t15">but</t>
-<t id="p09-s02-t16">when</t>
-<t id="p09-s02-t17">the</t>
-<t id="p09-s02-t18">number</t>
-<t id="p09-s02-t19">of</t>
-<t id="p09-s02-t20">individuals</t>
-<t id="p09-s02-t21">gets</t>
-<t id="p09-s02-t22">large</t>
-<t id="p09-s02-t23">enough</t>
-<punc>,</punc>
-<t id="p09-s02-t24">resources</t>
-<t id="p09-s02-t25">will</t>
-<t id="p09-s02-t26">be</t>
-<t id="p09-s02-t27">depleted</t>
-<punc>,</punc>
-<t id="p09-s02-t28">slowing</t>
-<t id="p09-s02-t29">the</t>
-<t id="p09-s02-t30">growth</t>
-<t id="p09-s02-t31">rate</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p09-s03">
-<t id="p09-s03-t01">Eventually</t>
-<punc>,</punc>
-<t id="p09-s03-t02">the</t>
-<t id="p09-s03-t03">growth</t>
-<t id="p09-s03-t04">rate</t>
-<t id="p09-s03-t05">will</t>
-<t id="p09-s03-t06">plateau</t>
-<t id="p09-s03-t07">or</t>
-<t id="p09-s03-t08">level</t>
-<t id="p09-s03-t09">off</t>
-<punc>(</punc>
-<t id="p09-s03-t10">Figure</t>
-<punc>)</punc>
-<punc>.</punc>
-</sentence>
-<sentence id="p09-s04">
-<t id="p09-s04-t01">This</t>
-<t id="p09-s04-t02">population</t>
-<t id="p09-s04-t03">size</t>
-<punc>,</punc>
-<t id="p09-s04-t04">which</t>
-<t id="p09-s04-t05">represents</t>
-<t id="p09-s04-t06">the</t>
-<t id="p09-s04-t07">maximum</t>
-<t id="p09-s04-t08">population</t>
-<t id="p09-s04-t09">size</t>
-<t id="p09-s04-t10">that</t>
-<t id="p09-s04-t11">a</t>
-<t id="p09-s04-t12">particular</t>
-<t id="p09-s04-t13">environment</t>
-<t id="p09-s04-t14">can</t>
-<t id="p09-s04-t15">support</t>
-<punc>,</punc>
-<t id="p09-s04-t16">is</t>
-<t id="p09-s04-t17">called</t>
-<t id="p09-s04-t18">the</t>
-<t id="p09-s04-t19">carrying</t>
-<t id="p09-s04-t20">capacity</t>
-<punc>,</punc>
-<t id="p09-s04-t21">or</t>
-<t id="p09-s04-t22">K</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p10">
-<sentence id="p10-s01">
-<t id="p10-s01-t01">The</t>
-<t id="p10-s01-t02">formula</t>
-<t id="p10-s01-t03">we</t>
-<t id="p10-s01-t04">use</t>
-<t id="p10-s01-t05">to</t>
-<t id="p10-s01-t06">calculate</t>
-<t id="p10-s01-t07">logistic</t>
-<t id="p10-s01-t08">growth</t>
-<t id="p10-s01-t09">adds</t>
-<t id="p10-s01-t10">the</t>
-<t id="p10-s01-t11">carrying</t>
-<t id="p10-s01-t12">capacity</t>
-<t id="p10-s01-t13">as</t>
-<t id="p10-s01-t14">a</t>
-<t id="p10-s01-t15">moderating</t>
-<t id="p10-s01-t16">force</t>
-<t id="p10-s01-t17">in</t>
-<t id="p10-s01-t18">the</t>
-<t id="p10-s01-t19">growth</t>
-<t id="p10-s01-t20">rate</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p10-s02">
-<t id="p10-s02-t01">The</t>
-<t id="p10-s02-t02">expression</t>
-<punc>“</punc>
-<t id="p10-s02-t03">K</t>
-<punc>–</punc>
-<t id="p10-s02-t04">N</t>
-<punc>”</punc>
-<t id="p10-s02-t05">is</t>
-<t id="p10-s02-t06">indicative</t>
-<t id="p10-s02-t07">of</t>
-<t id="p10-s02-t08">how</t>
-<t id="p10-s02-t09">many</t>
-<t id="p10-s02-t10">individuals</t>
-<t id="p10-s02-t11">may</t>
-<t id="p10-s02-t12">be</t>
-<t id="p10-s02-t13">added</t>
-<t id="p10-s02-t14">to</t>
-<t id="p10-s02-t15">a</t>
-<t id="p10-s02-t16">population</t>
-<t id="p10-s02-t17">at</t>
-<t id="p10-s02-t18">a</t>
-<t id="p10-s02-t19">given</t>
-<t id="p10-s02-t20">stage</t>
-<punc>,</punc>
-<t id="p10-s02-t21">and</t>
-<punc>“</punc>
-<t id="p10-s02-t22">K</t>
-<punc>–</punc>
-<t id="p10-s02-t23">N</t>
-<punc>”</punc>
-<t id="p10-s02-t24">divided</t>
-<t id="p10-s02-t25">by</t>
-<punc>“</punc>
-<t id="p10-s02-t26">K</t>
-<punc>”</punc>
-<t id="p10-s02-t27">is</t>
-<t id="p10-s02-t28">the</t>
-<t id="p10-s02-t29">fraction</t>
-<t id="p10-s02-t30">of</t>
-<t id="p10-s02-t31">the</t>
-<t id="p10-s02-t32">carrying</t>
-<t id="p10-s02-t33">capacity</t>
-<t id="p10-s02-t34">available</t>
-<t id="p10-s02-t35">for</t>
-<t id="p10-s02-t36">further</t>
-<t id="p10-s02-t37">growth</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p10-s03">
-<t id="p10-s03-t01">Thus</t>
-<punc>,</punc>
-<t id="p10-s03-t02">the</t>
-<t id="p10-s03-t03">exponential</t>
-<t id="p10-s03-t04">growth</t>
-<t id="p10-s03-t05">model</t>
-<t id="p10-s03-t06">is</t>
-<t id="p10-s03-t07">restricted</t>
-<t id="p10-s03-t08">by</t>
-<t id="p10-s03-t09">this</t>
-<t id="p10-s03-t10">factor</t>
-<t id="p10-s03-t11">to</t>
-<t id="p10-s03-t12">generate</t>
-<t id="p10-s03-t13">the</t>
-<t id="p10-s03-t14">logistic</t>
-<t id="p10-s03-t15">growth</t>
-<t id="p10-s03-t16">equation</t>
-<punc>:</punc>
-</sentence>
-</paragraph>
-<paragraph id="p11">
-<sentence id="p11-s01">
-<t id="p11-s01-t01">Notice</t>
-<t id="p11-s01-t02">that</t>
-<t id="p11-s01-t03">when</t>
-<t id="p11-s01-t04">N</t>
-<t id="p11-s01-t05">is</t>
-<t id="p11-s01-t06">very</t>
-<t id="p11-s01-t07">small</t>
-<punc>,</punc>
-<t id="p11-s01-t08">(K-N)/K</t>
-<t id="p11-s01-t09">becomes</t>
-<t id="p11-s01-t10">close</t>
-<t id="p11-s01-t11">to</t>
-<t id="p11-s01-t12">K/K</t>
-<t id="p11-s01-t13">or</t>
-<t id="p11-s01-t14">1</t>
-<punc>,</punc>
-<t id="p11-s01-t15">and</t>
-<t id="p11-s01-t16">the</t>
-<t id="p11-s01-t17">right</t>
-<t id="p11-s01-t18">side</t>
-<t id="p11-s01-t19">of</t>
-<t id="p11-s01-t20">the</t>
-<t id="p11-s01-t21">equation</t>
-<t id="p11-s01-t22">reduces</t>
-<t id="p11-s01-t23">to</t>
-<t id="p11-s01-t24">rmaxN</t>
-<punc>,</punc>
-<t id="p11-s01-t25">which</t>
-<t id="p11-s01-t26">means</t>
-<t id="p11-s01-t27">the</t>
-<t id="p11-s01-t28">population</t>
-<t id="p11-s01-t29">is</t>
-<t id="p11-s01-t30">growing</t>
-<t id="p11-s01-t31">exponentially</t>
-<t id="p11-s01-t32">and</t>
-<t id="p11-s01-t33">is</t>
-<t id="p11-s01-t34">not</t>
-<t id="p11-s01-t35">influenced</t>
-<t id="p11-s01-t36">by</t>
-<t id="p11-s01-t37">carrying</t>
-<t id="p11-s01-t38">capacity</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p11-s02">
-<t id="p11-s02-t01">On</t>
-<t id="p11-s02-t02">the</t>
-<t id="p11-s02-t03">other</t>
-<t id="p11-s02-t04">hand</t>
-<punc>,</punc>
-<t id="p11-s02-t05">when</t>
-<t id="p11-s02-t06">N</t>
-<t id="p11-s02-t07">is</t>
-<t id="p11-s02-t08">large</t>
-<punc>,</punc>
-<t id="p11-s02-t09">(K-N)/K</t>
-<t id="p11-s02-t10">come</t>
-<t id="p11-s02-t11">close</t>
-<t id="p11-s02-t12">to</t>
-<t id="p11-s02-t13">zero</t>
-<punc>,</punc>
-<t id="p11-s02-t14">which</t>
-<t id="p11-s02-t15">means</t>
-<t id="p11-s02-t16">that</t>
-<t id="p11-s02-t17">population</t>
-<t id="p11-s02-t18">growth</t>
-<t id="p11-s02-t19">will</t>
-<t id="p11-s02-t20">be</t>
-<t id="p11-s02-t21">slowed</t>
-<t id="p11-s02-t22">greatly</t>
-<t id="p11-s02-t23">or</t>
-<t id="p11-s02-t24">even</t>
-<t id="p11-s02-t25">stopped</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p11-s03">
-<t id="p11-s03-t01">Thus</t>
-<punc>,</punc>
-<t id="p11-s03-t02">population</t>
-<t id="p11-s03-t03">growth</t>
-<t id="p11-s03-t04">is</t>
-<t id="p11-s03-t05">greatly</t>
-<t id="p11-s03-t06">slowed</t>
-<t id="p11-s03-t07">in</t>
-<t id="p11-s03-t08">large</t>
-<t id="p11-s03-t09">populations</t>
-<t id="p11-s03-t10">by</t>
-<t id="p11-s03-t11">the</t>
-<t id="p11-s03-t12">carrying</t>
-<t id="p11-s03-t13">capacity</t>
-<t id="p11-s03-t14">K</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p11-s04">
-<t id="p11-s04-t01">This</t>
-<t id="p11-s04-t02">model</t>
-<t id="p11-s04-t03">also</t>
-<t id="p11-s04-t04">allows</t>
-<t id="p11-s04-t05">for</t>
-<t id="p11-s04-t06">the</t>
-<t id="p11-s04-t07">population</t>
-<t id="p11-s04-t08">of</t>
-<t id="p11-s04-t09">a</t>
-<t id="p11-s04-t10">negative</t>
-<t id="p11-s04-t11">population</t>
-<t id="p11-s04-t12">growth</t>
-<punc>,</punc>
-<t id="p11-s04-t13">or</t>
-<t id="p11-s04-t14">a</t>
-<t id="p11-s04-t15">population</t>
-<t id="p11-s04-t16">decline</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p11-s05">
-<t id="p11-s05-t01">This</t>
-<t id="p11-s05-t02">occurs</t>
-<t id="p11-s05-t03">when</t>
-<t id="p11-s05-t04">the</t>
-<t id="p11-s05-t05">number</t>
-<t id="p11-s05-t06">of</t>
-<t id="p11-s05-t07">individuals</t>
-<t id="p11-s05-t08">in</t>
-<t id="p11-s05-t09">the</t>
-<t id="p11-s05-t10">population</t>
-<t id="p11-s05-t11">exceeds</t>
-<t id="p11-s05-t12">the</t>
-<t id="p11-s05-t13">carrying</t>
-<t id="p11-s05-t14">capacity</t>
-<punc>(</punc>
-<t id="p11-s05-t15">because</t>
-<t id="p11-s05-t16">the</t>
-<t id="p11-s05-t17">value</t>
-<t id="p11-s05-t18">of</t>
-<t id="p11-s05-t19">(K-N)/K</t>
-<t id="p11-s05-t20">is</t>
-<t id="p11-s05-t21">negative</t>
-<punc>)</punc>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p12">
-<sentence id="p12-s01">
-<t id="p12-s01-t01">A</t>
-<t id="p12-s01-t02">graph</t>
-<t id="p12-s01-t03">of</t>
-<t id="p12-s01-t04">this</t>
-<t id="p12-s01-t05">equation</t>
-<t id="p12-s01-t06">yields</t>
-<t id="p12-s01-t07">an</t>
-<t id="p12-s01-t08">S</t>
-<punc>-</punc>
-<t id="p12-s01-t09">shaped</t>
-<t id="p12-s01-t10">curve</t>
-<punc>(</punc>
-<t id="p12-s01-t11">Figure</t>
-<punc>)</punc>
-<punc>,</punc>
-<t id="p12-s01-t12">and</t>
-<t id="p12-s01-t13">it</t>
-<t id="p12-s01-t14">is</t>
-<t id="p12-s01-t15">a</t>
-<t id="p12-s01-t16">more</t>
-<t id="p12-s01-t17">realistic</t>
-<t id="p12-s01-t18">model</t>
-<t id="p12-s01-t19">of</t>
-<t id="p12-s01-t20">population</t>
-<t id="p12-s01-t21">growth</t>
-<t id="p12-s01-t22">than</t>
-<t id="p12-s01-t23">exponential</t>
-<t id="p12-s01-t24">growth</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p12-s02">
-<t id="p12-s02-t01">There</t>
-<t id="p12-s02-t02">are</t>
-<t id="p12-s02-t03">three</t>
-<t id="p12-s02-t04">different</t>
-<t id="p12-s02-t05">sections</t>
-<t id="p12-s02-t06">to</t>
-<t id="p12-s02-t07">an</t>
-<t id="p12-s02-t08">S</t>
-<punc>-</punc>
-<t id="p12-s02-t09">shaped</t>
-<t id="p12-s02-t10">curve</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p12-s03">
-<t id="p12-s03-t01">Initially</t>
-<punc>,</punc>
-<t id="p12-s03-t02">growth</t>
-<t id="p12-s03-t03">is</t>
-<t id="p12-s03-t04">exponential</t>
-<t id="p12-s03-t05">because</t>
-<t id="p12-s03-t06">there</t>
-<t id="p12-s03-t07">are</t>
-<t id="p12-s03-t08">few</t>
-<t id="p12-s03-t09">individuals</t>
-<t id="p12-s03-t10">and</t>
-<t id="p12-s03-t11">ample</t>
-<t id="p12-s03-t12">resources</t>
-<t id="p12-s03-t13">available</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p12-s04">
-<t id="p12-s04-t01">Then</t>
-<punc>,</punc>
-<t id="p12-s04-t02">as</t>
-<t id="p12-s04-t03">resources</t>
-<t id="p12-s04-t04">begin</t>
-<t id="p12-s04-t05">to</t>
-<t id="p12-s04-t06">become</t>
-<t id="p12-s04-t07">limited</t>
-<punc>,</punc>
-<t id="p12-s04-t08">the</t>
-<t id="p12-s04-t09">growth</t>
-<t id="p12-s04-t10">rate</t>
-<t id="p12-s04-t11">decreases</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p12-s05">
-<t id="p12-s05-t01">Finally</t>
-<punc>,</punc>
-<t id="p12-s05-t02">growth</t>
-<t id="p12-s05-t03">levels</t>
-<t id="p12-s05-t04">off</t>
-<t id="p12-s05-t05">at</t>
-<t id="p12-s05-t06">the</t>
-<t id="p12-s05-t07">carrying</t>
-<t id="p12-s05-t08">capacity</t>
-<t id="p12-s05-t09">of</t>
-<t id="p12-s05-t10">the</t>
-<t id="p12-s05-t11">environment</t>
-<punc>,</punc>
-<t id="p12-s05-t12">with</t>
-<t id="p12-s05-t13">little</t>
-<t id="p12-s05-t14">change</t>
-<t id="p12-s05-t15">in</t>
-<t id="p12-s05-t16">population</t>
-<t id="p12-s05-t17">size</t>
-<t id="p12-s05-t18">over</t>
-<t id="p12-s05-t19">time</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p13">
-<sentence id="p13-s01">
-<t id="p13-s01-t01">The</t>
-<t id="p13-s01-t02">logistic</t>
-<t id="p13-s01-t03">model</t>
-<t id="p13-s01-t04">assumes</t>
-<t id="p13-s01-t05">that</t>
-<t id="p13-s01-t06">every</t>
-<t id="p13-s01-t07">individual</t>
-<t id="p13-s01-t08">within</t>
-<t id="p13-s01-t09">a</t>
-<t id="p13-s01-t10">population</t>
-<t id="p13-s01-t11">will</t>
-<t id="p13-s01-t12">have</t>
-<t id="p13-s01-t13">equal</t>
-<t id="p13-s01-t14">access</t>
-<t id="p13-s01-t15">to</t>
-<t id="p13-s01-t16">resources</t>
-<t id="p13-s01-t17">and</t>
-<punc>,</punc>
-<t id="p13-s01-t18">thus</t>
-<punc>,</punc>
-<t id="p13-s01-t19">an</t>
-<t id="p13-s01-t20">equal</t>
-<t id="p13-s01-t21">chance</t>
-<t id="p13-s01-t22">for</t>
-<t id="p13-s01-t23">survival</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p13-s02">
-<t id="p13-s02-t01">For</t>
-<t id="p13-s02-t02">plants</t>
-<punc>,</punc>
-<t id="p13-s02-t03">the</t>
-<t id="p13-s02-t04">amount</t>
-<t id="p13-s02-t05">of</t>
-<t id="p13-s02-t06">water</t>
-<punc>,</punc>
-<t id="p13-s02-t07">sunlight</t>
-<punc>,</punc>
-<t id="p13-s02-t08">nutrients</t>
-<punc>,</punc>
-<t id="p13-s02-t09">and</t>
-<t id="p13-s02-t10">the</t>
-<t id="p13-s02-t11">space</t>
-<t id="p13-s02-t12">to</t>
-<t id="p13-s02-t13">grow</t>
-<t id="p13-s02-t14">are</t>
-<t id="p13-s02-t15">the</t>
-<t id="p13-s02-t16">important</t>
-<t id="p13-s02-t17">resources</t>
-<punc>,</punc>
-<t id="p13-s02-t18">whereas</t>
-<t id="p13-s02-t19">in</t>
-<t id="p13-s02-t20">animals</t>
-<punc>,</punc>
-<t id="p13-s02-t21">important</t>
-<t id="p13-s02-t22">resources</t>
-<t id="p13-s02-t23">include</t>
-<t id="p13-s02-t24">food</t>
-<punc>,</punc>
-<t id="p13-s02-t25">water</t>
-<punc>,</punc>
-<t id="p13-s02-t26">shelter</t>
-<punc>,</punc>
-<t id="p13-s02-t27">nesting</t>
-<t id="p13-s02-t28">space</t>
-<punc>,</punc>
-<t id="p13-s02-t29">and</t>
-<t id="p13-s02-t30">mates</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p14">
-<sentence id="p14-s01">
-<t id="p14-s01-t01">In</t>
-<t id="p14-s01-t02">the</t>
-<t id="p14-s01-t03">real</t>
-<t id="p14-s01-t04">world</t>
-<punc>,</punc>
-<t id="p14-s01-t05">phenotypic</t>
-<t id="p14-s01-t06">variation</t>
-<t id="p14-s01-t07">among</t>
-<t id="p14-s01-t08">individuals</t>
-<t id="p14-s01-t09">within</t>
-<t id="p14-s01-t10">a</t>
-<t id="p14-s01-t11">population</t>
-<t id="p14-s01-t12">means</t>
-<t id="p14-s01-t13">that</t>
-<t id="p14-s01-t14">some</t>
-<t id="p14-s01-t15">individuals</t>
-<t id="p14-s01-t16">will</t>
-<t id="p14-s01-t17">be</t>
-<t id="p14-s01-t18">better</t>
-<t id="p14-s01-t19">adapted</t>
-<t id="p14-s01-t20">to</t>
-<t id="p14-s01-t21">their</t>
-<t id="p14-s01-t22">environment</t>
-<t id="p14-s01-t23">than</t>
-<t id="p14-s01-t24">others</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p14-s02">
-<t id="p14-s02-t01">The</t>
-<t id="p14-s02-t02">resulting</t>
-<t id="p14-s02-t03">competition</t>
-<t id="p14-s02-t04">between</t>
-<t id="p14-s02-t05">population</t>
-<t id="p14-s02-t06">members</t>
-<t id="p14-s02-t07">of</t>
-<t id="p14-s02-t08">the</t>
-<t id="p14-s02-t09">same</t>
-<t id="p14-s02-t10">species</t>
-<t id="p14-s02-t11">for</t>
-<t id="p14-s02-t12">resources</t>
-<t id="p14-s02-t13">is</t>
-<t id="p14-s02-t14">termed</t>
-<t id="p14-s02-t15">intraspecific</t>
-<t id="p14-s02-t16">competition</t>
-<punc>(</punc>
-<t id="p14-s02-t17">intra-</t>
-<t id="p14-s02-t18">=</t>
-<punc>“</punc>
-<t id="p14-s02-t19">within</t>
-<punc>”</punc>
-<punc>;</punc>
-<t id="p14-s02-t20">-specific</t>
-<t id="p14-s02-t21">=</t>
-<punc>“</punc>
-<t id="p14-s02-t22">species</t>
-<punc>”</punc>
-<punc>)</punc>
-<punc>.</punc>
-</sentence>
-<sentence id="p14-s03">
-<t id="p14-s03-t01">Intraspecific</t>
-<t id="p14-s03-t02">competition</t>
-<t id="p14-s03-t03">for</t>
-<t id="p14-s03-t04">resources</t>
-<t id="p14-s03-t05">may</t>
-<t id="p14-s03-t06">not</t>
-<t id="p14-s03-t07">affect</t>
-<t id="p14-s03-t08">populations</t>
-<t id="p14-s03-t09">that</t>
-<t id="p14-s03-t10">are</t>
-<t id="p14-s03-t11">well</t>
-<t id="p14-s03-t12">below</t>
-<t id="p14-s03-t13">their</t>
-<t id="p14-s03-t14">carrying</t>
-<t id="p14-s03-t15">capacity</t>
-<punc>—</punc>
-<t id="p14-s03-t16">resources</t>
-<t id="p14-s03-t17">are</t>
-<t id="p14-s03-t18">plentiful</t>
-<t id="p14-s03-t19">and</t>
-<t id="p14-s03-t20">all</t>
-<t id="p14-s03-t21">individuals</t>
-<t id="p14-s03-t22">can</t>
-<t id="p14-s03-t23">obtain</t>
-<t id="p14-s03-t24">what</t>
-<t id="p14-s03-t25">they</t>
-<t id="p14-s03-t26">need</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p14-s04">
-<t id="p14-s04-t01">However</t>
-<punc>,</punc>
-<t id="p14-s04-t02">as</t>
-<t id="p14-s04-t03">population</t>
-<t id="p14-s04-t04">size</t>
-<t id="p14-s04-t05">increases</t>
-<punc>,</punc>
-<t id="p14-s04-t06">this</t>
-<t id="p14-s04-t07">competition</t>
-<t id="p14-s04-t08">intensifies</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p14-s05">
-<t id="p14-s05-t01">In</t>
-<t id="p14-s05-t02">addition</t>
-<punc>,</punc>
-<t id="p14-s05-t03">the</t>
-<t id="p14-s05-t04">accumulation</t>
-<t id="p14-s05-t05">of</t>
-<t id="p14-s05-t06">waste</t>
-<t id="p14-s05-t07">products</t>
-<t id="p14-s05-t08">can</t>
-<t id="p14-s05-t09">reduce</t>
-<t id="p14-s05-t10">an</t>
-<t id="p14-s05-t11">environment's</t>
-<t id="p14-s05-t12">carrying</t>
-<t id="p14-s05-t13">capacity</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-<paragraph id="p15">
-<sentence id="p15-s01">
-<t id="p15-s01-t01">Yeast</t>
-<punc>,</punc>
-<t id="p15-s01-t02">a</t>
-<t id="p15-s01-t03">microscopic</t>
-<t id="p15-s01-t04">fungus</t>
-<t id="p15-s01-t05">used</t>
-<t id="p15-s01-t06">to</t>
-<t id="p15-s01-t07">make</t>
-<t id="p15-s01-t08">bread</t>
-<t id="p15-s01-t09">and</t>
-<t id="p15-s01-t10">alcoholic</t>
-<t id="p15-s01-t11">beverages</t>
-<punc>,</punc>
-<t id="p15-s01-t12">exhibits</t>
-<t id="p15-s01-t13">the</t>
-<t id="p15-s01-t14">classical</t>
-<t id="p15-s01-t15">S</t>
-<punc>-</punc>
-<t id="p15-s01-t16">shaped</t>
-<t id="p15-s01-t17">curve</t>
-<t id="p15-s01-t18">when</t>
-<t id="p15-s01-t19">grown</t>
-<t id="p15-s01-t20">in</t>
-<t id="p15-s01-t21">a</t>
-<t id="p15-s01-t22">test</t>
-<t id="p15-s01-t23">tube</t>
-<punc>(</punc>
-<t id="p15-s01-t24">Figure</t>
-<t id="p15-s01-t25">a</t>
-<punc>)</punc>
-<punc>.</punc>
-</sentence>
-<sentence id="p15-s02">
-<t id="p15-s02-t01">Its</t>
-<t id="p15-s02-t02">growth</t>
-<t id="p15-s02-t03">levels</t>
-<t id="p15-s02-t04">off</t>
-<t id="p15-s02-t05">as</t>
-<t id="p15-s02-t06">the</t>
-<t id="p15-s02-t07">population</t>
-<t id="p15-s02-t08">depletes</t>
-<t id="p15-s02-t09">the</t>
-<t id="p15-s02-t10">nutrients</t>
-<t id="p15-s02-t11">that</t>
-<t id="p15-s02-t12">are</t>
-<t id="p15-s02-t13">necessary</t>
-<t id="p15-s02-t14">for</t>
-<t id="p15-s02-t15">its</t>
-<t id="p15-s02-t16">growth</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p15-s03">
-<t id="p15-s03-t01">In</t>
-<t id="p15-s03-t02">the</t>
-<t id="p15-s03-t03">real</t>
-<t id="p15-s03-t04">world</t>
-<punc>,</punc>
-<t id="p15-s03-t05">however</t>
-<punc>,</punc>
-<t id="p15-s03-t06">there</t>
-<t id="p15-s03-t07">are</t>
-<t id="p15-s03-t08">variations</t>
-<t id="p15-s03-t09">to</t>
-<t id="p15-s03-t10">this</t>
-<t id="p15-s03-t11">idealized</t>
-<t id="p15-s03-t12">curve</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p15-s04">
-<t id="p15-s04-t01">Examples</t>
-<t id="p15-s04-t02">in</t>
-<t id="p15-s04-t03">wild</t>
-<t id="p15-s04-t04">populations</t>
-<t id="p15-s04-t05">include</t>
-<t id="p15-s04-t06">sheep</t>
-<t id="p15-s04-t07">and</t>
-<t id="p15-s04-t08">harbor</t>
-<t id="p15-s04-t09">seals</t>
-<punc>(</punc>
-<t id="p15-s04-t10">Figure</t>
-<t id="p15-s04-t11">b</t>
-<punc>)</punc>
-<punc>.</punc>
-</sentence>
-<sentence id="p15-s05">
-<t id="p15-s05-t01">In</t>
-<t id="p15-s05-t02">both</t>
-<t id="p15-s05-t03">examples</t>
-<punc>,</punc>
-<t id="p15-s05-t04">the</t>
-<t id="p15-s05-t05">population</t>
-<t id="p15-s05-t06">size</t>
-<t id="p15-s05-t07">exceeds</t>
-<t id="p15-s05-t08">the</t>
-<t id="p15-s05-t09">carrying</t>
-<t id="p15-s05-t10">capacity</t>
-<t id="p15-s05-t11">for</t>
-<t id="p15-s05-t12">short</t>
-<t id="p15-s05-t13">periods</t>
-<t id="p15-s05-t14">of</t>
-<t id="p15-s05-t15">time</t>
-<t id="p15-s05-t16">and</t>
-<t id="p15-s05-t17">then</t>
-<t id="p15-s05-t18">falls</t>
-<t id="p15-s05-t19">below</t>
-<t id="p15-s05-t20">the</t>
-<t id="p15-s05-t21">carrying</t>
-<t id="p15-s05-t22">capacity</t>
-<t id="p15-s05-t23">afterwards</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p15-s06">
-<t id="p15-s06-t01">This</t>
-<t id="p15-s06-t02">fluctuation</t>
-<t id="p15-s06-t03">in</t>
-<t id="p15-s06-t04">population</t>
-<t id="p15-s06-t05">size</t>
-<t id="p15-s06-t06">continues</t>
-<t id="p15-s06-t07">to</t>
-<t id="p15-s06-t08">occur</t>
-<t id="p15-s06-t09">as</t>
-<t id="p15-s06-t10">the</t>
-<t id="p15-s06-t11">population</t>
-<t id="p15-s06-t12">oscillates</t>
-<t id="p15-s06-t13">around</t>
-<t id="p15-s06-t14">its</t>
-<t id="p15-s06-t15">carrying</t>
-<t id="p15-s06-t16">capacity</t>
-<punc>.</punc>
-</sentence>
-<sentence id="p15-s07">
-<t id="p15-s07-t01">Still</t>
-<punc>,</punc>
-<t id="p15-s07-t02">even</t>
-<t id="p15-s07-t03">with</t>
-<t id="p15-s07-t04">this</t>
-<t id="p15-s07-t05">oscillation</t>
-<punc>,</punc>
-<t id="p15-s07-t06">the</t>
-<t id="p15-s07-t07">logistic</t>
-<t id="p15-s07-t08">model</t>
-<t id="p15-s07-t09">is</t>
-<t id="p15-s07-t10">confirmed</t>
-<punc>.</punc>
-</sentence>
-</paragraph>
-</body>
+    <title>Environmental Limits to Population Growth</title>
+    <citation>OpenStax College, Biology. OpenStax College. 30 May 2013. Retrieved from 
+        http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
+    <url>http://cnx.org/content/col11448/latest/</url>
+    <info type="arise">
+        <arise-info book="2" section="3" unit="1" firstpage="37" lastpage="38"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01">Although</t>
+                <t id="p01-s01-t02">life</t>
+                <t id="p01-s01-t03">histories</t>
+                <t id="p01-s01-t04">describe</t>
+                <t id="p01-s01-t05">the</t>
+                <t id="p01-s01-t06">way</t>
+                <t id="p01-s01-t07">many</t>
+                <t id="p01-s01-t08">characteristics</t>
+                <t id="p01-s01-t09">of</t>
+                <t id="p01-s01-t10">a</t>
+                <t id="p01-s01-t11">population</t>
+                <punc>(</punc>
+                <t id="p01-s01-t12">such</t>
+                <t id="p01-s01-t13">as</t>
+                <t id="p01-s01-t14">their</t>
+                <t id="p01-s01-t15">age</t>
+                <t id="p01-s01-t16">structure</t>
+                <punc>)</punc>
+                <t id="p01-s01-t17">change</t>
+                <t id="p01-s01-t18">over</t>
+                <t id="p01-s01-t19">time</t>
+                <t id="p01-s01-t20">in</t>
+                <t id="p01-s01-t21">a</t>
+                <t id="p01-s01-t22">general</t>
+                <t id="p01-s01-t23">way</t>
+                <punc>,</punc>
+                <t id="p01-s01-t24">population</t>
+                <t id="p01-s01-t25">ecologists</t>
+                <t id="p01-s01-t26">make</t>
+                <t id="p01-s01-t27">use</t>
+                <t id="p01-s01-t28">of</t>
+                <t id="p01-s01-t29">a</t>
+                <t id="p01-s01-t30">variety</t>
+                <t id="p01-s01-t31">of</t>
+                <t id="p01-s01-t32">methods</t>
+                <t id="p01-s01-t33">to</t>
+                <t id="p01-s01-t34">model</t>
+                <t id="p01-s01-t35">population</t>
+                <t id="p01-s01-t36">dynamics</t>
+                <t id="p01-s01-t37">mathematically</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01">These</t>
+                <t id="p01-s02-t02">more</t>
+                <t id="p01-s02-t03">precise</t>
+                <t id="p01-s02-t04">models</t>
+                <t id="p01-s02-t05">can</t>
+                <t id="p01-s02-t06">then</t>
+                <t id="p01-s02-t07">be</t>
+                <t id="p01-s02-t08">used</t>
+                <t id="p01-s02-t09">to</t>
+                <t id="p01-s02-t10">accurately</t>
+                <t id="p01-s02-t11">describe</t>
+                <t id="p01-s02-t12">changes</t>
+                <t id="p01-s02-t13">occurring</t>
+                <t id="p01-s02-t14">in</t>
+                <t id="p01-s02-t15">a</t>
+                <t id="p01-s02-t16">population</t>
+                <t id="p01-s02-t17">and</t>
+                <t id="p01-s02-t18">better</t>
+                <t id="p01-s02-t19">predict</t>
+                <t id="p01-s02-t20">future</t>
+                <t id="p01-s02-t21">changes</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s03">
+                <t id="p01-s03-t01">Certain</t>
+                <t id="p01-s03-t02">models</t>
+                <t id="p01-s03-t03">that</t>
+                <t id="p01-s03-t04">have</t>
+                <t id="p01-s03-t05">been</t>
+                <t id="p01-s03-t06">accepted</t>
+                <t id="p01-s03-t07">for</t>
+                <t id="p01-s03-t08">decades</t>
+                <t id="p01-s03-t09">are</t>
+                <t id="p01-s03-t10">now</t>
+                <t id="p01-s03-t11">being</t>
+                <t id="p01-s03-t12">modified</t>
+                <t id="p01-s03-t13">or</t>
+                <t id="p01-s03-t14">even</t>
+                <t id="p01-s03-t15">abandoned</t>
+                <t id="p01-s03-t16">due</t>
+                <t id="p01-s03-t17">to</t>
+                <t id="p01-s03-t18">their</t>
+                <t id="p01-s03-t19">lack</t>
+                <t id="p01-s03-t20">of</t>
+                <t id="p01-s03-t21">predictive</t>
+                <t id="p01-s03-t22">ability</t>
+                <punc>,</punc>
+                <t id="p01-s03-t23">and</t>
+                <t id="p01-s03-t24">scholars</t>
+                <t id="p01-s03-t25">strive</t>
+                <t id="p01-s03-t26">to</t>
+                <t id="p01-s03-t27">create</t>
+                <t id="p01-s03-t28">effective</t>
+                <t id="p01-s03-t29">new</t>
+                <t id="p01-s03-t30">models</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence id="p02-s01">
+                <t id="p02-s01-t01">Charles</t>
+                <t id="p02-s01-t02">Darwin</t>
+                <punc>,</punc>
+                <t id="p02-s01-t03">in</t>
+                <t id="p02-s01-t04">his</t>
+                <t id="p02-s01-t05">theory</t>
+                <t id="p02-s01-t06">of</t>
+                <t id="p02-s01-t07">natural</t>
+                <t id="p02-s01-t08">selection</t>
+                <punc>,</punc>
+                <t id="p02-s01-t09">was</t>
+                <t id="p02-s01-t10">greatly</t>
+                <t id="p02-s01-t11">influenced</t>
+                <t id="p02-s01-t12">by</t>
+                <t id="p02-s01-t13">the</t>
+                <t id="p02-s01-t14">English</t>
+                <t id="p02-s01-t15">clergyman</t>
+                <t id="p02-s01-t16">Thomas</t>
+                <t id="p02-s01-t17">Malthus</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s02">
+                <t id="p02-s02-t01">Malthus</t>
+                <t id="p02-s02-t02">published</t>
+                <t id="p02-s02-t03">a</t>
+                <t id="p02-s02-t04">book</t>
+                <t id="p02-s02-t05">in</t>
+                <t id="p02-s02-t06">1798</t>
+                <t id="p02-s02-t07">stating</t>
+                <t id="p02-s02-t08">that</t>
+                <t id="p02-s02-t09">populations</t>
+                <t id="p02-s02-t10">with</t>
+                <t id="p02-s02-t11">unlimited</t>
+                <t id="p02-s02-t12">natural</t>
+                <t id="p02-s02-t13">resources</t>
+                <t id="p02-s02-t14">grow</t>
+                <t id="p02-s02-t15">very</t>
+                <t id="p02-s02-t16">rapidly</t>
+                <punc>,</punc>
+                <t id="p02-s02-t17">and</t>
+                <t id="p02-s02-t18">then</t>
+                <t id="p02-s02-t19">population</t>
+                <t id="p02-s02-t20">growth</t>
+                <t id="p02-s02-t21">decreases</t>
+                <t id="p02-s02-t22">as</t>
+                <t id="p02-s02-t23">resources</t>
+                <t id="p02-s02-t24">become</t>
+                <t id="p02-s02-t25">depleted</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s03">
+                <t id="p02-s03-t01">This</t>
+                <t id="p02-s03-t02">accelerating</t>
+                <t id="p02-s03-t03">pattern</t>
+                <t id="p02-s03-t04">of</t>
+                <t id="p02-s03-t05">increasing</t>
+                <t id="p02-s03-t06">population</t>
+                <t id="p02-s03-t07">size</t>
+                <t id="p02-s03-t08">is</t>
+                <t id="p02-s03-t09">called</t>
+                <t id="p02-s03-t10">exponential</t>
+                <t id="p02-s03-t11">growth</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p03">
+            <sentence id="p03-s01">
+                <t id="p03-s01-t01">The</t>
+                <t id="p03-s01-t02">best</t>
+                <t id="p03-s01-t03">example</t>
+                <t id="p03-s01-t04">of</t>
+                <t id="p03-s01-t05">exponential</t>
+                <t id="p03-s01-t06">growth</t>
+                <t id="p03-s01-t07">is</t>
+                <t id="p03-s01-t08">seen</t>
+                <t id="p03-s01-t09">in</t>
+                <t id="p03-s01-t10">bacteria</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s02">
+                <t id="p03-s02-t01">Bacteria</t>
+                <t id="p03-s02-t02">are</t>
+                <t id="p03-s02-t03">prokaryotes</t>
+                <t id="p03-s02-t04">that</t>
+                <t id="p03-s02-t05">reproduce</t>
+                <t id="p03-s02-t06">by</t>
+                <t id="p03-s02-t07">prokaryotic</t>
+                <t id="p03-s02-t08">fission</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s03">
+                <t id="p03-s03-t01">This</t>
+                <t id="p03-s03-t02">division</t>
+                <t id="p03-s03-t03">takes</t>
+                <t id="p03-s03-t04">about</t>
+                <t id="p03-s03-t05">an</t>
+                <t id="p03-s03-t06">hour</t>
+                <t id="p03-s03-t07">for</t>
+                <t id="p03-s03-t08">many</t>
+                <t id="p03-s03-t09">bacterial</t>
+                <t id="p03-s03-t10">species</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s04">
+                <t id="p03-s04-t01">If</t>
+                <t id="p03-s04-t02">1000</t>
+                <t id="p03-s04-t03">bacteria</t>
+                <t id="p03-s04-t04">are</t>
+                <t id="p03-s04-t05">placed</t>
+                <t id="p03-s04-t06">in</t>
+                <t id="p03-s04-t07">a</t>
+                <t id="p03-s04-t08">large</t>
+                <t id="p03-s04-t09">flask</t>
+                <t id="p03-s04-t10">with</t>
+                <t id="p03-s04-t11">an</t>
+                <t id="p03-s04-t12">unlimited</t>
+                <t id="p03-s04-t13">supply</t>
+                <t id="p03-s04-t14">of</t>
+                <t id="p03-s04-t15">nutrients</t>
+                <punc>(</punc>
+                <t id="p03-s04-t16">so</t>
+                <t id="p03-s04-t17">the</t>
+                <t id="p03-s04-t18">nutrients</t>
+                <t id="p03-s04-t19">will</t>
+                <t id="p03-s04-t20">not</t>
+                <t id="p03-s04-t21">become</t>
+                <t id="p03-s04-t22">depleted</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p03-s04-t23">after</t>
+                <t id="p03-s04-t24">an</t>
+                <t id="p03-s04-t25">hour</t>
+                <punc>,</punc>
+                <t id="p03-s04-t26">there</t>
+                <t id="p03-s04-t27">is</t>
+                <t id="p03-s04-t28">one</t>
+                <t id="p03-s04-t29">round</t>
+                <t id="p03-s04-t30">of</t>
+                <t id="p03-s04-t31">division</t>
+                <t id="p03-s04-t32">and</t>
+                <t id="p03-s04-t33">each</t>
+                <t id="p03-s04-t34">organism</t>
+                <t id="p03-s04-t35">divides</t>
+                <punc>,</punc>
+                <t id="p03-s04-t36">resulting</t>
+                <t id="p03-s04-t37">in</t>
+                <t id="p03-s04-t38">2000</t>
+                <t id="p03-s04-t39">organisms</t>
+                <punc>—</punc>
+                <t id="p03-s04-t40">an</t>
+                <t id="p03-s04-t41">increase</t>
+                <t id="p03-s04-t42">of</t>
+                <t id="p03-s04-t43">1000</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s05">
+                <t id="p03-s05-t01">In</t>
+                <t id="p03-s05-t02">another</t>
+                <t id="p03-s05-t03">hour</t>
+                <punc>,</punc>
+                <t id="p03-s05-t04">each</t>
+                <t id="p03-s05-t05">of</t>
+                <t id="p03-s05-t06">the</t>
+                <t id="p03-s05-t07">2000</t>
+                <t id="p03-s05-t08">organisms</t>
+                <t id="p03-s05-t09">will</t>
+                <t id="p03-s05-t10">double</t>
+                <punc>,</punc>
+                <t id="p03-s05-t11">producing</t>
+                <t id="p03-s05-t12">4000</t>
+                <punc>,</punc>
+                <t id="p03-s05-t13">an</t>
+                <t id="p03-s05-t14">increase</t>
+                <t id="p03-s05-t15">of</t>
+                <t id="p03-s05-t16">2000</t>
+                <t id="p03-s05-t17">organisms</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s06">
+                <t id="p03-s06-t01">After</t>
+                <t id="p03-s06-t02">the</t>
+                <t id="p03-s06-t03">third</t>
+                <t id="p03-s06-t04">hour</t>
+                <punc>,</punc>
+                <t id="p03-s06-t05">there</t>
+                <t id="p03-s06-t06">should</t>
+                <t id="p03-s06-t07">be</t>
+                <t id="p03-s06-t08">8000</t>
+                <t id="p03-s06-t09">bacteria</t>
+                <t id="p03-s06-t10">in</t>
+                <t id="p03-s06-t11">the</t>
+                <t id="p03-s06-t12">flask</t>
+                <punc>,</punc>
+                <t id="p03-s06-t13">an</t>
+                <t id="p03-s06-t14">increase</t>
+                <t id="p03-s06-t15">of</t>
+                <t id="p03-s06-t16">4000</t>
+                <t id="p03-s06-t17">organisms</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s07">
+                <t id="p03-s07-t01">The</t>
+                <t id="p03-s07-t02">important</t>
+                <t id="p03-s07-t03">concept</t>
+                <t id="p03-s07-t04">of</t>
+                <t id="p03-s07-t05">exponential</t>
+                <t id="p03-s07-t06">growth</t>
+                <t id="p03-s07-t07">is</t>
+                <t id="p03-s07-t08">that</t>
+                <t id="p03-s07-t09">the</t>
+                <t id="p03-s07-t10">population</t>
+                <t id="p03-s07-t11">growth</t>
+                <t id="p03-s07-t12">rate</t>
+                <punc>—</punc>
+                <t id="p03-s07-t13">the</t>
+                <t id="p03-s07-t14">number</t>
+                <t id="p03-s07-t15">of</t>
+                <t id="p03-s07-t16">organisms</t>
+                <t id="p03-s07-t17">added</t>
+                <t id="p03-s07-t18">in</t>
+                <t id="p03-s07-t19">each</t>
+                <t id="p03-s07-t20">reproductive</t>
+                <t id="p03-s07-t21">generation</t>
+                <punc>—</punc>
+                <t id="p03-s07-t22">is</t>
+                <t id="p03-s07-t23">accelerating</t>
+                <punc>;</punc>
+                <t id="p03-s07-t24">that</t>
+                <t id="p03-s07-t25">is</t>
+                <punc>,</punc>
+                <t id="p03-s07-t26">it</t>
+                <t id="p03-s07-t27">is</t>
+                <t id="p03-s07-t28">increasing</t>
+                <t id="p03-s07-t29">at</t>
+                <t id="p03-s07-t30">a</t>
+                <t id="p03-s07-t31">greater</t>
+                <t id="p03-s07-t32">and</t>
+                <t id="p03-s07-t33">greater</t>
+                <t id="p03-s07-t34">rate</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s08">
+                <t id="p03-s08-t01">After</t>
+                <t id="p03-s08-t02">1</t>
+                <t id="p03-s08-t03">day</t>
+                <t id="p03-s08-t04">and</t>
+                <t id="p03-s08-t05">24</t>
+                <t id="p03-s08-t06">of</t>
+                <t id="p03-s08-t07">these</t>
+                <t id="p03-s08-t08">cycles</t>
+                <punc>,</punc>
+                <t id="p03-s08-t09">the</t>
+                <t id="p03-s08-t10">population</t>
+                <t id="p03-s08-t11">would</t>
+                <t id="p03-s08-t12">have</t>
+                <t id="p03-s08-t13">increased</t>
+                <t id="p03-s08-t14">from</t>
+                <t id="p03-s08-t15">1000</t>
+                <t id="p03-s08-t16">to</t>
+                <t id="p03-s08-t17">more</t>
+                <t id="p03-s08-t18">than</t>
+                <t id="p03-s08-t19">16</t>
+                <t id="p03-s08-t20">billion</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s09">
+                <t id="p03-s09-t01">When</t>
+                <t id="p03-s09-t02">the</t>
+                <t id="p03-s09-t03">population</t>
+                <t id="p03-s09-t04">size</t>
+                <punc>,</punc>
+                <t id="p03-s09-t05">N</t>
+                <punc>,</punc>
+                <t id="p03-s09-t06">is</t>
+                <t id="p03-s09-t07">plotted</t>
+                <t id="p03-s09-t08">over</t>
+                <t id="p03-s09-t09">time</t>
+                <punc>,</punc>
+                <t id="p03-s09-t10">a</t>
+                <t id="p03-s09-t11">J</t>
+                <punc>-</punc>
+                <t id="p03-s09-t12">shaped</t>
+                <t id="p03-s09-t13">growth</t>
+                <t id="p03-s09-t14">curve</t>
+                <t id="p03-s09-t15">is</t>
+                <t id="p03-s09-t16">produced</t>
+                <punc>(</punc>
+                <t id="p03-s09-t17">Figure</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p04">
+            <sentence id="p04-s01">
+                <t id="p04-s01-t01">The</t>
+                <t id="p04-s01-t02">bacteria</t>
+                <t id="p04-s01-t03">example</t>
+                <t id="p04-s01-t04">is</t>
+                <t id="p04-s01-t05">not</t>
+                <t id="p04-s01-t06">representative</t>
+                <t id="p04-s01-t07">of</t>
+                <t id="p04-s01-t08">the</t>
+                <t id="p04-s01-t09">real</t>
+                <t id="p04-s01-t10">world</t>
+                <t id="p04-s01-t11">where</t>
+                <t id="p04-s01-t12">resources</t>
+                <t id="p04-s01-t13">are</t>
+                <t id="p04-s01-t14">limited</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p04-s02">
+                <t id="p04-s02-t01">Furthermore</t>
+                <punc>,</punc>
+                <t id="p04-s02-t02">some</t>
+                <t id="p04-s02-t03">bacteria</t>
+                <t id="p04-s02-t04">will</t>
+                <t id="p04-s02-t05">die</t>
+                <t id="p04-s02-t06">during</t>
+                <t id="p04-s02-t07">the</t>
+                <t id="p04-s02-t08">experiment</t>
+                <t id="p04-s02-t09">and</t>
+                <t id="p04-s02-t10">thus</t>
+                <t id="p04-s02-t11">not</t>
+                <t id="p04-s02-t12">reproduce</t>
+                <punc>,</punc>
+                <t id="p04-s02-t13">lowering</t>
+                <t id="p04-s02-t14">the</t>
+                <t id="p04-s02-t15">growth</t>
+                <t id="p04-s02-t16">rate</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p04-s03">
+                <t id="p04-s03-t01">Therefore</t>
+                <punc>,</punc>
+                <t id="p04-s03-t02">when</t>
+                <t id="p04-s03-t03">calculating</t>
+                <t id="p04-s03-t04">the</t>
+                <t id="p04-s03-t05">growth</t>
+                <t id="p04-s03-t06">rate</t>
+                <t id="p04-s03-t07">of</t>
+                <t id="p04-s03-t08">a</t>
+                <t id="p04-s03-t09">population</t>
+                <punc>,</punc>
+                <t id="p04-s03-t10">the</t>
+                <t id="p04-s03-t11">death</t>
+                <t id="p04-s03-t12">rate</t>
+                <punc>(</punc>
+                <t id="p04-s03-t13">D</t>
+                <punc>)</punc>
+                <punc>(</punc>
+                <t id="p04-s03-t14">number</t>
+                <t id="p04-s03-t15">organisms</t>
+                <t id="p04-s03-t16">that</t>
+                <t id="p04-s03-t17">die</t>
+                <t id="p04-s03-t18">during</t>
+                <t id="p04-s03-t19">a</t>
+                <t id="p04-s03-t20">particular</t>
+                <t id="p04-s03-t21">time</t>
+                <t id="p04-s03-t22">interval</t>
+                <punc>)</punc>
+                <t id="p04-s03-t23">is</t>
+                <t id="p04-s03-t24">subtracted</t>
+                <t id="p04-s03-t25">from</t>
+                <t id="p04-s03-t26">the</t>
+                <t id="p04-s03-t27">birth</t>
+                <t id="p04-s03-t28">rate</t>
+                <punc>(</punc>
+                <t id="p04-s03-t29">B</t>
+                <punc>)</punc>
+                <punc>(</punc>
+                <t id="p04-s03-t30">number</t>
+                <t id="p04-s03-t31">organisms</t>
+                <t id="p04-s03-t32">that</t>
+                <t id="p04-s03-t33">are</t>
+                <t id="p04-s03-t34">born</t>
+                <t id="p04-s03-t35">during</t>
+                <t id="p04-s03-t36">that</t>
+                <t id="p04-s03-t37">interval</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p04-s04">
+                <t id="p04-s04-t01">This</t>
+                <t id="p04-s04-t02">is</t>
+                <t id="p04-s04-t03">shown</t>
+                <t id="p04-s04-t04">in</t>
+                <t id="p04-s04-t05">the</t>
+                <t id="p04-s04-t06">following</t>
+                <t id="p04-s04-t07">formula</t>
+                <punc>:</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p05">
+            <sentence id="p05-s01">
+                <t id="p05-s01-t01">The</t>
+                <t id="p05-s01-t02">birth</t>
+                <t id="p05-s01-t03">rate</t>
+                <t id="p05-s01-t04">is</t>
+                <t id="p05-s01-t05">usually</t>
+                <t id="p05-s01-t06">expressed</t>
+                <t id="p05-s01-t07">on</t>
+                <t id="p05-s01-t08">a</t>
+                <t id="p05-s01-t09">per</t>
+                <t id="p05-s01-t10">capita</t>
+                <punc>(</punc>
+                <t id="p05-s01-t11">for</t>
+                <t id="p05-s01-t12">each</t>
+                <t id="p05-s01-t13">individual</t>
+                <punc>)</punc>
+                <t id="p05-s01-t14">basis</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p05-s02">
+                <t id="p05-s02-t01">Thus</t>
+                <punc>,</punc>
+                <t id="p05-s02-t02">B</t>
+                <punc>(</punc>
+                <t id="p05-s02-t03">birth</t>
+                <t id="p05-s02-t04">rate</t>
+                <punc>)</punc>
+                <t id="p05-s02-t05">=</t>
+                <t id="p05-s02-t06">bN</t>
+                <punc>(</punc>
+                <t id="p05-s02-t07">the</t>
+                <t id="p05-s02-t08">per</t>
+                <t id="p05-s02-t09">capita</t>
+                <t id="p05-s02-t10">birth</t>
+                <t id="p05-s02-t11">rate</t>
+                <punc>“</punc>
+                <t id="p05-s02-t12">b</t>
+                <punc>”</punc>
+                <t id="p05-s02-t13">multiplied</t>
+                <t id="p05-s02-t14">by</t>
+                <t id="p05-s02-t15">the</t>
+                <t id="p05-s02-t16">number</t>
+                <t id="p05-s02-t17">of</t>
+                <t id="p05-s02-t18">individuals</t>
+                <punc>“</punc>
+                <t id="p05-s02-t19">N</t>
+                <punc>”</punc>
+                <punc>)</punc>
+                <t id="p05-s02-t20">and</t>
+                <t id="p05-s02-t21">D</t>
+                <punc>(</punc>
+                <t id="p05-s02-t22">death</t>
+                <t id="p05-s02-t23">rate</t>
+                <punc>)</punc>
+                <t id="p05-s02-t24">=</t>
+                <t id="p05-s02-t25">dN</t>
+                <punc>(</punc>
+                <t id="p05-s02-t26">the</t>
+                <t id="p05-s02-t27">per</t>
+                <t id="p05-s02-t28">capita</t>
+                <t id="p05-s02-t29">death</t>
+                <t id="p05-s02-t30">rate</t>
+                <punc>“</punc>
+                <t id="p05-s02-t31">d</t>
+                <punc>”</punc>
+                <t id="p05-s02-t32">multiplied</t>
+                <t id="p05-s02-t33">by</t>
+                <t id="p05-s02-t34">the</t>
+                <t id="p05-s02-t35">number</t>
+                <t id="p05-s02-t36">of</t>
+                <t id="p05-s02-t37">individuals</t>
+                <punc>“</punc>
+                <t id="p05-s02-t38">N</t>
+                <punc>”</punc>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p05-s03">
+                <t id="p05-s03-t01">Additionally</t>
+                <punc>,</punc>
+                <t id="p05-s03-t02">ecologists</t>
+                <t id="p05-s03-t03">are</t>
+                <t id="p05-s03-t04">interested</t>
+                <t id="p05-s03-t05">in</t>
+                <t id="p05-s03-t06">the</t>
+                <t id="p05-s03-t07">population</t>
+                <t id="p05-s03-t08">at</t>
+                <t id="p05-s03-t09">a</t>
+                <t id="p05-s03-t10">particular</t>
+                <t id="p05-s03-t11">point</t>
+                <t id="p05-s03-t12">in</t>
+                <t id="p05-s03-t13">time</t>
+                <punc>,</punc>
+                <t id="p05-s03-t14">an</t>
+                <t id="p05-s03-t15">infinitely</t>
+                <t id="p05-s03-t16">small</t>
+                <t id="p05-s03-t17">time</t>
+                <t id="p05-s03-t18">interval</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p05-s04">
+                <t id="p05-s04-t01">For</t>
+                <t id="p05-s04-t02">this</t>
+                <t id="p05-s04-t03">reason</t>
+                <punc>,</punc>
+                <t id="p05-s04-t04">the</t>
+                <t id="p05-s04-t05">terminology</t>
+                <t id="p05-s04-t06">of</t>
+                <t id="p05-s04-t07">differential</t>
+                <t id="p05-s04-t08">calculus</t>
+                <t id="p05-s04-t09">is</t>
+                <t id="p05-s04-t10">used</t>
+                <t id="p05-s04-t11">to</t>
+                <t id="p05-s04-t12">obtain</t>
+                <t id="p05-s04-t13">the</t>
+                <punc>“</punc>
+                <t id="p05-s04-t14">instantaneous</t>
+                <punc>”</punc>
+                <t id="p05-s04-t15">growth</t>
+                <t id="p05-s04-t16">rate</t>
+                <punc>,</punc>
+                <t id="p05-s04-t17">replacing</t>
+                <t id="p05-s04-t18">the</t>
+                <t id="p05-s04-t19">change</t>
+                <t id="p05-s04-t20">in</t>
+                <t id="p05-s04-t21">number</t>
+                <t id="p05-s04-t22">and</t>
+                <t id="p05-s04-t23">time</t>
+                <t id="p05-s04-t24">with</t>
+                <t id="p05-s04-t25">an</t>
+                <t id="p05-s04-t26">instant</t>
+                <punc>-</punc>
+                <t id="p05-s04-t27">specific</t>
+                <t id="p05-s04-t28">measurement</t>
+                <t id="p05-s04-t29">of</t>
+                <t id="p05-s04-t30">number</t>
+                <t id="p05-s04-t31">and</t>
+                <t id="p05-s04-t32">time</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p06">
+            <sentence id="p06-s01">
+                <t id="p06-s01-t01">Notice</t>
+                <t id="p06-s01-t02">that</t>
+                <t id="p06-s01-t03">the</t>
+                <punc>“</punc>
+                <t id="p06-s01-t04">d</t>
+                <punc>”</punc>
+                <t id="p06-s01-t05">associated</t>
+                <t id="p06-s01-t06">with</t>
+                <t id="p06-s01-t07">the</t>
+                <t id="p06-s01-t08">first</t>
+                <t id="p06-s01-t09">term</t>
+                <t id="p06-s01-t10">refers</t>
+                <t id="p06-s01-t11">to</t>
+                <t id="p06-s01-t12">the</t>
+                <t id="p06-s01-t13">derivative</t>
+                <punc>(</punc>
+                <t id="p06-s01-t14">as</t>
+                <t id="p06-s01-t15">the</t>
+                <t id="p06-s01-t16">term</t>
+                <t id="p06-s01-t17">is</t>
+                <t id="p06-s01-t18">used</t>
+                <t id="p06-s01-t19">in</t>
+                <t id="p06-s01-t20">calculus</t>
+                <punc>)</punc>
+                <t id="p06-s01-t21">and</t>
+                <t id="p06-s01-t22">is</t>
+                <t id="p06-s01-t23">different</t>
+                <t id="p06-s01-t24">from</t>
+                <t id="p06-s01-t25">the</t>
+                <t id="p06-s01-t26">death</t>
+                <t id="p06-s01-t27">rate</t>
+                <punc>,</punc>
+                <t id="p06-s01-t28">also</t>
+                <t id="p06-s01-t29">called</t>
+                <punc>“</punc>
+                <t id="p06-s01-t30">d</t>
+                <punc>.</punc>
+                <punc>”</punc>
+            </sentence>
+            <sentence id="p06-s02">
+                <t id="p06-s02-t01">The</t>
+                <t id="p06-s02-t02">difference</t>
+                <t id="p06-s02-t03">between</t>
+                <t id="p06-s02-t04">birth</t>
+                <t id="p06-s02-t05">and</t>
+                <t id="p06-s02-t06">death</t>
+                <t id="p06-s02-t07">rates</t>
+                <t id="p06-s02-t08">is</t>
+                <t id="p06-s02-t09">further</t>
+                <t id="p06-s02-t10">simplified</t>
+                <t id="p06-s02-t11">by</t>
+                <t id="p06-s02-t12">substituting</t>
+                <t id="p06-s02-t13">the</t>
+                <t id="p06-s02-t14">term</t>
+                <punc>“</punc>
+                <t id="p06-s02-t15">r</t>
+                <punc>”</punc>
+                <punc>(</punc>
+                <t id="p06-s02-t16">intrinsic</t>
+                <t id="p06-s02-t17">rate</t>
+                <t id="p06-s02-t18">of</t>
+                <t id="p06-s02-t19">increase</t>
+                <punc>)</punc>
+                <t id="p06-s02-t20">for</t>
+                <t id="p06-s02-t21">the</t>
+                <t id="p06-s02-t22">relationship</t>
+                <t id="p06-s02-t23">between</t>
+                <t id="p06-s02-t24">birth</t>
+                <t id="p06-s02-t25">and</t>
+                <t id="p06-s02-t26">death</t>
+                <t id="p06-s02-t27">rates</t>
+                <punc>:</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p07">
+            <sentence id="p07-s01">
+                <t id="p07-s01-t01">The</t>
+                <t id="p07-s01-t02">value</t>
+                <punc>“</punc>
+                <t id="p07-s01-t03">r</t>
+                <punc>”</punc>
+                <t id="p07-s01-t04">can</t>
+                <t id="p07-s01-t05">be</t>
+                <t id="p07-s01-t06">positive</t>
+                <punc>,</punc>
+                <t id="p07-s01-t07">meaning</t>
+                <t id="p07-s01-t08">the</t>
+                <t id="p07-s01-t09">population</t>
+                <t id="p07-s01-t10">is</t>
+                <t id="p07-s01-t11">increasing</t>
+                <t id="p07-s01-t12">in</t>
+                <t id="p07-s01-t13">size</t>
+                <punc>;</punc>
+                <t id="p07-s01-t14">or</t>
+                <t id="p07-s01-t15">negative</t>
+                <punc>,</punc>
+                <t id="p07-s01-t16">meaning</t>
+                <t id="p07-s01-t17">the</t>
+                <t id="p07-s01-t18">population</t>
+                <t id="p07-s01-t19">is</t>
+                <t id="p07-s01-t20">decreasing</t>
+                <t id="p07-s01-t21">in</t>
+                <t id="p07-s01-t22">size</t>
+                <punc>;</punc>
+                <t id="p07-s01-t23">or</t>
+                <t id="p07-s01-t24">zero</t>
+                <punc>,</punc>
+                <t id="p07-s01-t25">where</t>
+                <t id="p07-s01-t26">the</t>
+                <t id="p07-s01-t27">population's</t>
+                <t id="p07-s01-t28">size</t>
+                <t id="p07-s01-t29">is</t>
+                <t id="p07-s01-t30">unchanging</t>
+                <punc>,</punc>
+                <t id="p07-s01-t31">a</t>
+                <t id="p07-s01-t32">condition</t>
+                <t id="p07-s01-t33">known</t>
+                <t id="p07-s01-t34">as</t>
+                <t id="p07-s01-t35">zero</t>
+                <t id="p07-s01-t36">population</t>
+                <t id="p07-s01-t37">growth</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p07-s02">
+                <t id="p07-s02-t01">A</t>
+                <t id="p07-s02-t02">further</t>
+                <t id="p07-s02-t03">refinement</t>
+                <t id="p07-s02-t04">of</t>
+                <t id="p07-s02-t05">the</t>
+                <t id="p07-s02-t06">formula</t>
+                <t id="p07-s02-t07">recognizes</t>
+                <t id="p07-s02-t08">that</t>
+                <t id="p07-s02-t09">different</t>
+                <t id="p07-s02-t10">species</t>
+                <t id="p07-s02-t11">have</t>
+                <t id="p07-s02-t12">inherent</t>
+                <t id="p07-s02-t13">differences</t>
+                <t id="p07-s02-t14">in</t>
+                <t id="p07-s02-t15">their</t>
+                <t id="p07-s02-t16">intrinsic</t>
+                <t id="p07-s02-t17">rate</t>
+                <t id="p07-s02-t18">of</t>
+                <t id="p07-s02-t19">increase</t>
+                <punc>(</punc>
+                <t id="p07-s02-t20">often</t>
+                <t id="p07-s02-t21">thought</t>
+                <t id="p07-s02-t22">of</t>
+                <t id="p07-s02-t23">as</t>
+                <t id="p07-s02-t24">the</t>
+                <t id="p07-s02-t25">potential</t>
+                <t id="p07-s02-t26">for</t>
+                <t id="p07-s02-t27">reproduction</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p07-s02-t28">even</t>
+                <t id="p07-s02-t29">under</t>
+                <t id="p07-s02-t30">ideal</t>
+                <t id="p07-s02-t31">conditions</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p07-s03">
+                <t id="p07-s03-t01">Obviously</t>
+                <punc>,</punc>
+                <t id="p07-s03-t02">a</t>
+                <t id="p07-s03-t03">bacterium</t>
+                <t id="p07-s03-t04">can</t>
+                <t id="p07-s03-t05">reproduce</t>
+                <t id="p07-s03-t06">more</t>
+                <t id="p07-s03-t07">rapidly</t>
+                <t id="p07-s03-t08">and</t>
+                <t id="p07-s03-t09">have</t>
+                <t id="p07-s03-t10">a</t>
+                <t id="p07-s03-t11">higher</t>
+                <t id="p07-s03-t12">intrinsic</t>
+                <t id="p07-s03-t13">rate</t>
+                <t id="p07-s03-t14">of</t>
+                <t id="p07-s03-t15">growth</t>
+                <t id="p07-s03-t16">than</t>
+                <t id="p07-s03-t17">a</t>
+                <t id="p07-s03-t18">human</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p07-s04">
+                <t id="p07-s04-t01">The</t>
+                <t id="p07-s04-t02">maximal</t>
+                <t id="p07-s04-t03">growth</t>
+                <t id="p07-s04-t04">rate</t>
+                <t id="p07-s04-t05">for</t>
+                <t id="p07-s04-t06">a</t>
+                <t id="p07-s04-t07">species</t>
+                <t id="p07-s04-t08">is</t>
+                <t id="p07-s04-t09">its</t>
+                <t id="p07-s04-t10">biotic</t>
+                <t id="p07-s04-t11">potential</t>
+                <punc>,</punc>
+                <t id="p07-s04-t12">or</t>
+                <t id="p07-s04-t13">rmax</t>
+                <punc>,</punc>
+                <t id="p07-s04-t14">thus</t>
+                <t id="p07-s04-t15">changing</t>
+                <t id="p07-s04-t16">the</t>
+                <t id="p07-s04-t17">equation</t>
+                <t id="p07-s04-t18">to</t>
+                <punc>:</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p08">
+            <sentence id="p08-s01">
+                <t id="p08-s01-t01">Exponential</t>
+                <t id="p08-s01-t02">growth</t>
+                <t id="p08-s01-t03">is</t>
+                <t id="p08-s01-t04">possible</t>
+                <t id="p08-s01-t05">only</t>
+                <t id="p08-s01-t06">when</t>
+                <t id="p08-s01-t07">infinite</t>
+                <t id="p08-s01-t08">natural</t>
+                <t id="p08-s01-t09">resources</t>
+                <t id="p08-s01-t10">are</t>
+                <t id="p08-s01-t11">available</t>
+                <punc>;</punc>
+                <t id="p08-s01-t12">this</t>
+                <t id="p08-s01-t13">is</t>
+                <t id="p08-s01-t14">not</t>
+                <t id="p08-s01-t15">the</t>
+                <t id="p08-s01-t16">case</t>
+                <t id="p08-s01-t17">in</t>
+                <t id="p08-s01-t18">the</t>
+                <t id="p08-s01-t19">real</t>
+                <t id="p08-s01-t20">world</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s02">
+                <t id="p08-s02-t01">Charles</t>
+                <t id="p08-s02-t02">Darwin</t>
+                <t id="p08-s02-t03">recognized</t>
+                <t id="p08-s02-t04">this</t>
+                <t id="p08-s02-t05">fact</t>
+                <t id="p08-s02-t06">in</t>
+                <t id="p08-s02-t07">his</t>
+                <t id="p08-s02-t08">description</t>
+                <t id="p08-s02-t09">of</t>
+                <t id="p08-s02-t10">the</t>
+                <punc>“</punc>
+                <t id="p08-s02-t11">struggle</t>
+                <t id="p08-s02-t12">for</t>
+                <t id="p08-s02-t13">existence</t>
+                <punc>,</punc>
+                <punc>”</punc>
+                <t id="p08-s02-t14">which</t>
+                <t id="p08-s02-t15">states</t>
+                <t id="p08-s02-t16">that</t>
+                <t id="p08-s02-t17">individuals</t>
+                <t id="p08-s02-t18">will</t>
+                <t id="p08-s02-t19">compete</t>
+                <punc>(</punc>
+                <t id="p08-s02-t20">with</t>
+                <t id="p08-s02-t21">members</t>
+                <t id="p08-s02-t22">of</t>
+                <t id="p08-s02-t23">their</t>
+                <t id="p08-s02-t24">own</t>
+                <t id="p08-s02-t25">or</t>
+                <t id="p08-s02-t26">other</t>
+                <t id="p08-s02-t27">species</t>
+                <punc>)</punc>
+                <t id="p08-s02-t28">for</t>
+                <t id="p08-s02-t29">limited</t>
+                <t id="p08-s02-t30">resources</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s03">
+                <t id="p08-s03-t01">The</t>
+                <t id="p08-s03-t02">successful</t>
+                <t id="p08-s03-t03">ones</t>
+                <t id="p08-s03-t04">will</t>
+                <t id="p08-s03-t05">survive</t>
+                <t id="p08-s03-t06">to</t>
+                <t id="p08-s03-t07">pass</t>
+                <t id="p08-s03-t08">on</t>
+                <t id="p08-s03-t09">their</t>
+                <t id="p08-s03-t10">own</t>
+                <t id="p08-s03-t11">characteristics</t>
+                <t id="p08-s03-t12">and</t>
+                <t id="p08-s03-t13">traits</t>
+                <punc>(</punc>
+                <t id="p08-s03-t14">which</t>
+                <t id="p08-s03-t15">we</t>
+                <t id="p08-s03-t16">know</t>
+                <t id="p08-s03-t17">now</t>
+                <t id="p08-s03-t18">are</t>
+                <t id="p08-s03-t19">transferred</t>
+                <t id="p08-s03-t20">by</t>
+                <t id="p08-s03-t21">genes</t>
+                <punc>)</punc>
+                <t id="p08-s03-t22">to</t>
+                <t id="p08-s03-t23">the</t>
+                <t id="p08-s03-t24">next</t>
+                <t id="p08-s03-t25">generation</t>
+                <t id="p08-s03-t26">at</t>
+                <t id="p08-s03-t27">a</t>
+                <t id="p08-s03-t28">greater</t>
+                <t id="p08-s03-t29">rate</t>
+                <punc>(</punc>
+                <t id="p08-s03-t30">natural</t>
+                <t id="p08-s03-t31">selection</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s04">
+                <t id="p08-s04-t01">To</t>
+                <t id="p08-s04-t02">model</t>
+                <t id="p08-s04-t03">the</t>
+                <t id="p08-s04-t04">reality</t>
+                <t id="p08-s04-t05">of</t>
+                <t id="p08-s04-t06">limited</t>
+                <t id="p08-s04-t07">resources</t>
+                <punc>,</punc>
+                <t id="p08-s04-t08">population</t>
+                <t id="p08-s04-t09">ecologists</t>
+                <t id="p08-s04-t10">developed</t>
+                <t id="p08-s04-t11">the</t>
+                <t id="p08-s04-t12">logistic</t>
+                <t id="p08-s04-t13">growth</t>
+                <t id="p08-s04-t14">model</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p09">
+            <sentence id="p09-s01">
+                <t id="p09-s01-t01">In</t>
+                <t id="p09-s01-t02">the</t>
+                <t id="p09-s01-t03">real</t>
+                <t id="p09-s01-t04">world</t>
+                <punc>,</punc>
+                <t id="p09-s01-t05">with</t>
+                <t id="p09-s01-t06">its</t>
+                <t id="p09-s01-t07">limited</t>
+                <t id="p09-s01-t08">resources</t>
+                <punc>,</punc>
+                <t id="p09-s01-t09">exponential</t>
+                <t id="p09-s01-t10">growth</t>
+                <t id="p09-s01-t11">cannot</t>
+                <t id="p09-s01-t12">continue</t>
+                <t id="p09-s01-t13">indefinitely</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p09-s02">
+                <t id="p09-s02-t01">Exponential</t>
+                <t id="p09-s02-t02">growth</t>
+                <t id="p09-s02-t03">may</t>
+                <t id="p09-s02-t04">occur</t>
+                <t id="p09-s02-t05">in</t>
+                <t id="p09-s02-t06">environments</t>
+                <t id="p09-s02-t07">where</t>
+                <t id="p09-s02-t08">there</t>
+                <t id="p09-s02-t09">are</t>
+                <t id="p09-s02-t10">few</t>
+                <t id="p09-s02-t11">individuals</t>
+                <t id="p09-s02-t12">and</t>
+                <t id="p09-s02-t13">plentiful</t>
+                <t id="p09-s02-t14">resources</t>
+                <punc>,</punc>
+                <t id="p09-s02-t15">but</t>
+                <t id="p09-s02-t16">when</t>
+                <t id="p09-s02-t17">the</t>
+                <t id="p09-s02-t18">number</t>
+                <t id="p09-s02-t19">of</t>
+                <t id="p09-s02-t20">individuals</t>
+                <t id="p09-s02-t21">gets</t>
+                <t id="p09-s02-t22">large</t>
+                <t id="p09-s02-t23">enough</t>
+                <punc>,</punc>
+                <t id="p09-s02-t24">resources</t>
+                <t id="p09-s02-t25">will</t>
+                <t id="p09-s02-t26">be</t>
+                <t id="p09-s02-t27">depleted</t>
+                <punc>,</punc>
+                <t id="p09-s02-t28">slowing</t>
+                <t id="p09-s02-t29">the</t>
+                <t id="p09-s02-t30">growth</t>
+                <t id="p09-s02-t31">rate</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p09-s03">
+                <t id="p09-s03-t01">Eventually</t>
+                <punc>,</punc>
+                <t id="p09-s03-t02">the</t>
+                <t id="p09-s03-t03">growth</t>
+                <t id="p09-s03-t04">rate</t>
+                <t id="p09-s03-t05">will</t>
+                <t id="p09-s03-t06">plateau</t>
+                <t id="p09-s03-t07">or</t>
+                <t id="p09-s03-t08">level</t>
+                <t id="p09-s03-t09">off</t>
+                <punc>(</punc>
+                <t id="p09-s03-t10">Figure</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p09-s04">
+                <t id="p09-s04-t01">This</t>
+                <t id="p09-s04-t02">population</t>
+                <t id="p09-s04-t03">size</t>
+                <punc>,</punc>
+                <t id="p09-s04-t04">which</t>
+                <t id="p09-s04-t05">represents</t>
+                <t id="p09-s04-t06">the</t>
+                <t id="p09-s04-t07">maximum</t>
+                <t id="p09-s04-t08">population</t>
+                <t id="p09-s04-t09">size</t>
+                <t id="p09-s04-t10">that</t>
+                <t id="p09-s04-t11">a</t>
+                <t id="p09-s04-t12">particular</t>
+                <t id="p09-s04-t13">environment</t>
+                <t id="p09-s04-t14">can</t>
+                <t id="p09-s04-t15">support</t>
+                <punc>,</punc>
+                <t id="p09-s04-t16">is</t>
+                <t id="p09-s04-t17">called</t>
+                <t id="p09-s04-t18">the</t>
+                <t id="p09-s04-t19">carrying</t>
+                <t id="p09-s04-t20">capacity</t>
+                <punc>,</punc>
+                <t id="p09-s04-t21">or</t>
+                <t id="p09-s04-t22">K</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p10">
+            <sentence id="p10-s01">
+                <t id="p10-s01-t01">The</t>
+                <t id="p10-s01-t02">formula</t>
+                <t id="p10-s01-t03">we</t>
+                <t id="p10-s01-t04">use</t>
+                <t id="p10-s01-t05">to</t>
+                <t id="p10-s01-t06">calculate</t>
+                <t id="p10-s01-t07">logistic</t>
+                <t id="p10-s01-t08">growth</t>
+                <t id="p10-s01-t09">adds</t>
+                <t id="p10-s01-t10">the</t>
+                <t id="p10-s01-t11">carrying</t>
+                <t id="p10-s01-t12">capacity</t>
+                <t id="p10-s01-t13">as</t>
+                <t id="p10-s01-t14">a</t>
+                <t id="p10-s01-t15">moderating</t>
+                <t id="p10-s01-t16">force</t>
+                <t id="p10-s01-t17">in</t>
+                <t id="p10-s01-t18">the</t>
+                <t id="p10-s01-t19">growth</t>
+                <t id="p10-s01-t20">rate</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p10-s02">
+                <t id="p10-s02-t01">The</t>
+                <t id="p10-s02-t02">expression</t>
+                <punc>“</punc>
+                <t id="p10-s02-t03">K</t>
+                <punc>–</punc>
+                <t id="p10-s02-t04">N</t>
+                <punc>”</punc>
+                <t id="p10-s02-t05">is</t>
+                <t id="p10-s02-t06">indicative</t>
+                <t id="p10-s02-t07">of</t>
+                <t id="p10-s02-t08">how</t>
+                <t id="p10-s02-t09">many</t>
+                <t id="p10-s02-t10">individuals</t>
+                <t id="p10-s02-t11">may</t>
+                <t id="p10-s02-t12">be</t>
+                <t id="p10-s02-t13">added</t>
+                <t id="p10-s02-t14">to</t>
+                <t id="p10-s02-t15">a</t>
+                <t id="p10-s02-t16">population</t>
+                <t id="p10-s02-t17">at</t>
+                <t id="p10-s02-t18">a</t>
+                <t id="p10-s02-t19">given</t>
+                <t id="p10-s02-t20">stage</t>
+                <punc>,</punc>
+                <t id="p10-s02-t21">and</t>
+                <punc>“</punc>
+                <t id="p10-s02-t22">K</t>
+                <punc>–</punc>
+                <t id="p10-s02-t23">N</t>
+                <punc>”</punc>
+                <t id="p10-s02-t24">divided</t>
+                <t id="p10-s02-t25">by</t>
+                <punc>“</punc>
+                <t id="p10-s02-t26">K</t>
+                <punc>”</punc>
+                <t id="p10-s02-t27">is</t>
+                <t id="p10-s02-t28">the</t>
+                <t id="p10-s02-t29">fraction</t>
+                <t id="p10-s02-t30">of</t>
+                <t id="p10-s02-t31">the</t>
+                <t id="p10-s02-t32">carrying</t>
+                <t id="p10-s02-t33">capacity</t>
+                <t id="p10-s02-t34">available</t>
+                <t id="p10-s02-t35">for</t>
+                <t id="p10-s02-t36">further</t>
+                <t id="p10-s02-t37">growth</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p10-s03">
+                <t id="p10-s03-t01">Thus</t>
+                <punc>,</punc>
+                <t id="p10-s03-t02">the</t>
+                <t id="p10-s03-t03">exponential</t>
+                <t id="p10-s03-t04">growth</t>
+                <t id="p10-s03-t05">model</t>
+                <t id="p10-s03-t06">is</t>
+                <t id="p10-s03-t07">restricted</t>
+                <t id="p10-s03-t08">by</t>
+                <t id="p10-s03-t09">this</t>
+                <t id="p10-s03-t10">factor</t>
+                <t id="p10-s03-t11">to</t>
+                <t id="p10-s03-t12">generate</t>
+                <t id="p10-s03-t13">the</t>
+                <t id="p10-s03-t14">logistic</t>
+                <t id="p10-s03-t15">growth</t>
+                <t id="p10-s03-t16">equation</t>
+                <punc>:</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p11">
+            <sentence id="p11-s01">
+                <t id="p11-s01-t01">Notice</t>
+                <t id="p11-s01-t02">that</t>
+                <t id="p11-s01-t03">when</t>
+                <t id="p11-s01-t04">N</t>
+                <t id="p11-s01-t05">is</t>
+                <t id="p11-s01-t06">very</t>
+                <t id="p11-s01-t07">small</t>
+                <punc>,</punc>
+                <t id="p11-s01-t08">(K-N)/K</t>
+                <t id="p11-s01-t09">becomes</t>
+                <t id="p11-s01-t10">close</t>
+                <t id="p11-s01-t11">to</t>
+                <t id="p11-s01-t12">K/K</t>
+                <t id="p11-s01-t13">or</t>
+                <t id="p11-s01-t14">1</t>
+                <punc>,</punc>
+                <t id="p11-s01-t15">and</t>
+                <t id="p11-s01-t16">the</t>
+                <t id="p11-s01-t17">right</t>
+                <t id="p11-s01-t18">side</t>
+                <t id="p11-s01-t19">of</t>
+                <t id="p11-s01-t20">the</t>
+                <t id="p11-s01-t21">equation</t>
+                <t id="p11-s01-t22">reduces</t>
+                <t id="p11-s01-t23">to</t>
+                <t id="p11-s01-t24">rmaxN</t>
+                <punc>,</punc>
+                <t id="p11-s01-t25">which</t>
+                <t id="p11-s01-t26">means</t>
+                <t id="p11-s01-t27">the</t>
+                <t id="p11-s01-t28">population</t>
+                <t id="p11-s01-t29">is</t>
+                <t id="p11-s01-t30">growing</t>
+                <t id="p11-s01-t31">exponentially</t>
+                <t id="p11-s01-t32">and</t>
+                <t id="p11-s01-t33">is</t>
+                <t id="p11-s01-t34">not</t>
+                <t id="p11-s01-t35">influenced</t>
+                <t id="p11-s01-t36">by</t>
+                <t id="p11-s01-t37">carrying</t>
+                <t id="p11-s01-t38">capacity</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p11-s02">
+                <t id="p11-s02-t01">On</t>
+                <t id="p11-s02-t02">the</t>
+                <t id="p11-s02-t03">other</t>
+                <t id="p11-s02-t04">hand</t>
+                <punc>,</punc>
+                <t id="p11-s02-t05">when</t>
+                <t id="p11-s02-t06">N</t>
+                <t id="p11-s02-t07">is</t>
+                <t id="p11-s02-t08">large</t>
+                <punc>,</punc>
+                <t id="p11-s02-t09">(K-N)/K</t>
+                <t id="p11-s02-t10">come</t>
+                <t id="p11-s02-t11">close</t>
+                <t id="p11-s02-t12">to</t>
+                <t id="p11-s02-t13">zero</t>
+                <punc>,</punc>
+                <t id="p11-s02-t14">which</t>
+                <t id="p11-s02-t15">means</t>
+                <t id="p11-s02-t16">that</t>
+                <t id="p11-s02-t17">population</t>
+                <t id="p11-s02-t18">growth</t>
+                <t id="p11-s02-t19">will</t>
+                <t id="p11-s02-t20">be</t>
+                <t id="p11-s02-t21">slowed</t>
+                <t id="p11-s02-t22">greatly</t>
+                <t id="p11-s02-t23">or</t>
+                <t id="p11-s02-t24">even</t>
+                <t id="p11-s02-t25">stopped</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p11-s03">
+                <t id="p11-s03-t01">Thus</t>
+                <punc>,</punc>
+                <t id="p11-s03-t02">population</t>
+                <t id="p11-s03-t03">growth</t>
+                <t id="p11-s03-t04">is</t>
+                <t id="p11-s03-t05">greatly</t>
+                <t id="p11-s03-t06">slowed</t>
+                <t id="p11-s03-t07">in</t>
+                <t id="p11-s03-t08">large</t>
+                <t id="p11-s03-t09">populations</t>
+                <t id="p11-s03-t10">by</t>
+                <t id="p11-s03-t11">the</t>
+                <t id="p11-s03-t12">carrying</t>
+                <t id="p11-s03-t13">capacity</t>
+                <t id="p11-s03-t14">K</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p11-s04">
+                <t id="p11-s04-t01">This</t>
+                <t id="p11-s04-t02">model</t>
+                <t id="p11-s04-t03">also</t>
+                <t id="p11-s04-t04">allows</t>
+                <t id="p11-s04-t05">for</t>
+                <t id="p11-s04-t06">the</t>
+                <t id="p11-s04-t07">population</t>
+                <t id="p11-s04-t08">of</t>
+                <t id="p11-s04-t09">a</t>
+                <t id="p11-s04-t10">negative</t>
+                <t id="p11-s04-t11">population</t>
+                <t id="p11-s04-t12">growth</t>
+                <punc>,</punc>
+                <t id="p11-s04-t13">or</t>
+                <t id="p11-s04-t14">a</t>
+                <t id="p11-s04-t15">population</t>
+                <t id="p11-s04-t16">decline</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p11-s05">
+                <t id="p11-s05-t01">This</t>
+                <t id="p11-s05-t02">occurs</t>
+                <t id="p11-s05-t03">when</t>
+                <t id="p11-s05-t04">the</t>
+                <t id="p11-s05-t05">number</t>
+                <t id="p11-s05-t06">of</t>
+                <t id="p11-s05-t07">individuals</t>
+                <t id="p11-s05-t08">in</t>
+                <t id="p11-s05-t09">the</t>
+                <t id="p11-s05-t10">population</t>
+                <t id="p11-s05-t11">exceeds</t>
+                <t id="p11-s05-t12">the</t>
+                <t id="p11-s05-t13">carrying</t>
+                <t id="p11-s05-t14">capacity</t>
+                <punc>(</punc>
+                <t id="p11-s05-t15">because</t>
+                <t id="p11-s05-t16">the</t>
+                <t id="p11-s05-t17">value</t>
+                <t id="p11-s05-t18">of</t>
+                <t id="p11-s05-t19">(K-N)/K</t>
+                <t id="p11-s05-t20">is</t>
+                <t id="p11-s05-t21">negative</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p12">
+            <sentence id="p12-s01">
+                <t id="p12-s01-t01">A</t>
+                <t id="p12-s01-t02">graph</t>
+                <t id="p12-s01-t03">of</t>
+                <t id="p12-s01-t04">this</t>
+                <t id="p12-s01-t05">equation</t>
+                <t id="p12-s01-t06">yields</t>
+                <t id="p12-s01-t07">an</t>
+                <t id="p12-s01-t08">S</t>
+                <punc>-</punc>
+                <t id="p12-s01-t09">shaped</t>
+                <t id="p12-s01-t10">curve</t>
+                <punc>(</punc>
+                <t id="p12-s01-t11">Figure</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p12-s01-t12">and</t>
+                <t id="p12-s01-t13">it</t>
+                <t id="p12-s01-t14">is</t>
+                <t id="p12-s01-t15">a</t>
+                <t id="p12-s01-t16">more</t>
+                <t id="p12-s01-t17">realistic</t>
+                <t id="p12-s01-t18">model</t>
+                <t id="p12-s01-t19">of</t>
+                <t id="p12-s01-t20">population</t>
+                <t id="p12-s01-t21">growth</t>
+                <t id="p12-s01-t22">than</t>
+                <t id="p12-s01-t23">exponential</t>
+                <t id="p12-s01-t24">growth</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p12-s02">
+                <t id="p12-s02-t01">There</t>
+                <t id="p12-s02-t02">are</t>
+                <t id="p12-s02-t03">three</t>
+                <t id="p12-s02-t04">different</t>
+                <t id="p12-s02-t05">sections</t>
+                <t id="p12-s02-t06">to</t>
+                <t id="p12-s02-t07">an</t>
+                <t id="p12-s02-t08">S</t>
+                <punc>-</punc>
+                <t id="p12-s02-t09">shaped</t>
+                <t id="p12-s02-t10">curve</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p12-s03">
+                <t id="p12-s03-t01">Initially</t>
+                <punc>,</punc>
+                <t id="p12-s03-t02">growth</t>
+                <t id="p12-s03-t03">is</t>
+                <t id="p12-s03-t04">exponential</t>
+                <t id="p12-s03-t05">because</t>
+                <t id="p12-s03-t06">there</t>
+                <t id="p12-s03-t07">are</t>
+                <t id="p12-s03-t08">few</t>
+                <t id="p12-s03-t09">individuals</t>
+                <t id="p12-s03-t10">and</t>
+                <t id="p12-s03-t11">ample</t>
+                <t id="p12-s03-t12">resources</t>
+                <t id="p12-s03-t13">available</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p12-s04">
+                <t id="p12-s04-t01">Then</t>
+                <punc>,</punc>
+                <t id="p12-s04-t02">as</t>
+                <t id="p12-s04-t03">resources</t>
+                <t id="p12-s04-t04">begin</t>
+                <t id="p12-s04-t05">to</t>
+                <t id="p12-s04-t06">become</t>
+                <t id="p12-s04-t07">limited</t>
+                <punc>,</punc>
+                <t id="p12-s04-t08">the</t>
+                <t id="p12-s04-t09">growth</t>
+                <t id="p12-s04-t10">rate</t>
+                <t id="p12-s04-t11">decreases</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p12-s05">
+                <t id="p12-s05-t01">Finally</t>
+                <punc>,</punc>
+                <t id="p12-s05-t02">growth</t>
+                <t id="p12-s05-t03">levels</t>
+                <t id="p12-s05-t04">off</t>
+                <t id="p12-s05-t05">at</t>
+                <t id="p12-s05-t06">the</t>
+                <t id="p12-s05-t07">carrying</t>
+                <t id="p12-s05-t08">capacity</t>
+                <t id="p12-s05-t09">of</t>
+                <t id="p12-s05-t10">the</t>
+                <t id="p12-s05-t11">environment</t>
+                <punc>,</punc>
+                <t id="p12-s05-t12">with</t>
+                <t id="p12-s05-t13">little</t>
+                <t id="p12-s05-t14">change</t>
+                <t id="p12-s05-t15">in</t>
+                <t id="p12-s05-t16">population</t>
+                <t id="p12-s05-t17">size</t>
+                <t id="p12-s05-t18">over</t>
+                <t id="p12-s05-t19">time</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p13">
+            <sentence id="p13-s01">
+                <t id="p13-s01-t01">The</t>
+                <t id="p13-s01-t02">logistic</t>
+                <t id="p13-s01-t03">model</t>
+                <t id="p13-s01-t04">assumes</t>
+                <t id="p13-s01-t05">that</t>
+                <t id="p13-s01-t06">every</t>
+                <t id="p13-s01-t07">individual</t>
+                <t id="p13-s01-t08">within</t>
+                <t id="p13-s01-t09">a</t>
+                <t id="p13-s01-t10">population</t>
+                <t id="p13-s01-t11">will</t>
+                <t id="p13-s01-t12">have</t>
+                <t id="p13-s01-t13">equal</t>
+                <t id="p13-s01-t14">access</t>
+                <t id="p13-s01-t15">to</t>
+                <t id="p13-s01-t16">resources</t>
+                <t id="p13-s01-t17">and</t>
+                <punc>,</punc>
+                <t id="p13-s01-t18">thus</t>
+                <punc>,</punc>
+                <t id="p13-s01-t19">an</t>
+                <t id="p13-s01-t20">equal</t>
+                <t id="p13-s01-t21">chance</t>
+                <t id="p13-s01-t22">for</t>
+                <t id="p13-s01-t23">survival</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p13-s02">
+                <t id="p13-s02-t01">For</t>
+                <t id="p13-s02-t02">plants</t>
+                <punc>,</punc>
+                <t id="p13-s02-t03">the</t>
+                <t id="p13-s02-t04">amount</t>
+                <t id="p13-s02-t05">of</t>
+                <t id="p13-s02-t06">water</t>
+                <punc>,</punc>
+                <t id="p13-s02-t07">sunlight</t>
+                <punc>,</punc>
+                <t id="p13-s02-t08">nutrients</t>
+                <punc>,</punc>
+                <t id="p13-s02-t09">and</t>
+                <t id="p13-s02-t10">the</t>
+                <t id="p13-s02-t11">space</t>
+                <t id="p13-s02-t12">to</t>
+                <t id="p13-s02-t13">grow</t>
+                <t id="p13-s02-t14">are</t>
+                <t id="p13-s02-t15">the</t>
+                <t id="p13-s02-t16">important</t>
+                <t id="p13-s02-t17">resources</t>
+                <punc>,</punc>
+                <t id="p13-s02-t18">whereas</t>
+                <t id="p13-s02-t19">in</t>
+                <t id="p13-s02-t20">animals</t>
+                <punc>,</punc>
+                <t id="p13-s02-t21">important</t>
+                <t id="p13-s02-t22">resources</t>
+                <t id="p13-s02-t23">include</t>
+                <t id="p13-s02-t24">food</t>
+                <punc>,</punc>
+                <t id="p13-s02-t25">water</t>
+                <punc>,</punc>
+                <t id="p13-s02-t26">shelter</t>
+                <punc>,</punc>
+                <t id="p13-s02-t27">nesting</t>
+                <t id="p13-s02-t28">space</t>
+                <punc>,</punc>
+                <t id="p13-s02-t29">and</t>
+                <t id="p13-s02-t30">mates</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p14">
+            <sentence id="p14-s01">
+                <t id="p14-s01-t01">In</t>
+                <t id="p14-s01-t02">the</t>
+                <t id="p14-s01-t03">real</t>
+                <t id="p14-s01-t04">world</t>
+                <punc>,</punc>
+                <t id="p14-s01-t05">phenotypic</t>
+                <t id="p14-s01-t06">variation</t>
+                <t id="p14-s01-t07">among</t>
+                <t id="p14-s01-t08">individuals</t>
+                <t id="p14-s01-t09">within</t>
+                <t id="p14-s01-t10">a</t>
+                <t id="p14-s01-t11">population</t>
+                <t id="p14-s01-t12">means</t>
+                <t id="p14-s01-t13">that</t>
+                <t id="p14-s01-t14">some</t>
+                <t id="p14-s01-t15">individuals</t>
+                <t id="p14-s01-t16">will</t>
+                <t id="p14-s01-t17">be</t>
+                <t id="p14-s01-t18">better</t>
+                <t id="p14-s01-t19">adapted</t>
+                <t id="p14-s01-t20">to</t>
+                <t id="p14-s01-t21">their</t>
+                <t id="p14-s01-t22">environment</t>
+                <t id="p14-s01-t23">than</t>
+                <t id="p14-s01-t24">others</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p14-s02">
+                <t id="p14-s02-t01">The</t>
+                <t id="p14-s02-t02">resulting</t>
+                <t id="p14-s02-t03">competition</t>
+                <t id="p14-s02-t04">between</t>
+                <t id="p14-s02-t05">population</t>
+                <t id="p14-s02-t06">members</t>
+                <t id="p14-s02-t07">of</t>
+                <t id="p14-s02-t08">the</t>
+                <t id="p14-s02-t09">same</t>
+                <t id="p14-s02-t10">species</t>
+                <t id="p14-s02-t11">for</t>
+                <t id="p14-s02-t12">resources</t>
+                <t id="p14-s02-t13">is</t>
+                <t id="p14-s02-t14">termed</t>
+                <t id="p14-s02-t15">intraspecific</t>
+                <t id="p14-s02-t16">competition</t>
+                <punc>(</punc>
+                <t id="p14-s02-t17">intra-</t>
+                <t id="p14-s02-t18">=</t>
+                <punc>“</punc>
+                <t id="p14-s02-t19">within</t>
+                <punc>”</punc>
+                <punc>;</punc>
+                <t id="p14-s02-t20">-specific</t>
+                <t id="p14-s02-t21">=</t>
+                <punc>“</punc>
+                <t id="p14-s02-t22">species</t>
+                <punc>”</punc>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p14-s03">
+                <t id="p14-s03-t01">Intraspecific</t>
+                <t id="p14-s03-t02">competition</t>
+                <t id="p14-s03-t03">for</t>
+                <t id="p14-s03-t04">resources</t>
+                <t id="p14-s03-t05">may</t>
+                <t id="p14-s03-t06">not</t>
+                <t id="p14-s03-t07">affect</t>
+                <t id="p14-s03-t08">populations</t>
+                <t id="p14-s03-t09">that</t>
+                <t id="p14-s03-t10">are</t>
+                <t id="p14-s03-t11">well</t>
+                <t id="p14-s03-t12">below</t>
+                <t id="p14-s03-t13">their</t>
+                <t id="p14-s03-t14">carrying</t>
+                <t id="p14-s03-t15">capacity</t>
+                <punc>—</punc>
+                <t id="p14-s03-t16">resources</t>
+                <t id="p14-s03-t17">are</t>
+                <t id="p14-s03-t18">plentiful</t>
+                <t id="p14-s03-t19">and</t>
+                <t id="p14-s03-t20">all</t>
+                <t id="p14-s03-t21">individuals</t>
+                <t id="p14-s03-t22">can</t>
+                <t id="p14-s03-t23">obtain</t>
+                <t id="p14-s03-t24">what</t>
+                <t id="p14-s03-t25">they</t>
+                <t id="p14-s03-t26">need</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p14-s04">
+                <t id="p14-s04-t01">However</t>
+                <punc>,</punc>
+                <t id="p14-s04-t02">as</t>
+                <t id="p14-s04-t03">population</t>
+                <t id="p14-s04-t04">size</t>
+                <t id="p14-s04-t05">increases</t>
+                <punc>,</punc>
+                <t id="p14-s04-t06">this</t>
+                <t id="p14-s04-t07">competition</t>
+                <t id="p14-s04-t08">intensifies</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p14-s05">
+                <t id="p14-s05-t01">In</t>
+                <t id="p14-s05-t02">addition</t>
+                <punc>,</punc>
+                <t id="p14-s05-t03">the</t>
+                <t id="p14-s05-t04">accumulation</t>
+                <t id="p14-s05-t05">of</t>
+                <t id="p14-s05-t06">waste</t>
+                <t id="p14-s05-t07">products</t>
+                <t id="p14-s05-t08">can</t>
+                <t id="p14-s05-t09">reduce</t>
+                <t id="p14-s05-t10">an</t>
+                <t id="p14-s05-t11">environment's</t>
+                <t id="p14-s05-t12">carrying</t>
+                <t id="p14-s05-t13">capacity</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p15">
+            <sentence id="p15-s01">
+                <t id="p15-s01-t01">Yeast</t>
+                <punc>,</punc>
+                <t id="p15-s01-t02">a</t>
+                <t id="p15-s01-t03">microscopic</t>
+                <t id="p15-s01-t04">fungus</t>
+                <t id="p15-s01-t05">used</t>
+                <t id="p15-s01-t06">to</t>
+                <t id="p15-s01-t07">make</t>
+                <t id="p15-s01-t08">bread</t>
+                <t id="p15-s01-t09">and</t>
+                <t id="p15-s01-t10">alcoholic</t>
+                <t id="p15-s01-t11">beverages</t>
+                <punc>,</punc>
+                <t id="p15-s01-t12">exhibits</t>
+                <t id="p15-s01-t13">the</t>
+                <t id="p15-s01-t14">classical</t>
+                <t id="p15-s01-t15">S</t>
+                <punc>-</punc>
+                <t id="p15-s01-t16">shaped</t>
+                <t id="p15-s01-t17">curve</t>
+                <t id="p15-s01-t18">when</t>
+                <t id="p15-s01-t19">grown</t>
+                <t id="p15-s01-t20">in</t>
+                <t id="p15-s01-t21">a</t>
+                <t id="p15-s01-t22">test</t>
+                <t id="p15-s01-t23">tube</t>
+                <punc>(</punc>
+                <t id="p15-s01-t24">Figure</t>
+                <t id="p15-s01-t25">a</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p15-s02">
+                <t id="p15-s02-t01">Its</t>
+                <t id="p15-s02-t02">growth</t>
+                <t id="p15-s02-t03">levels</t>
+                <t id="p15-s02-t04">off</t>
+                <t id="p15-s02-t05">as</t>
+                <t id="p15-s02-t06">the</t>
+                <t id="p15-s02-t07">population</t>
+                <t id="p15-s02-t08">depletes</t>
+                <t id="p15-s02-t09">the</t>
+                <t id="p15-s02-t10">nutrients</t>
+                <t id="p15-s02-t11">that</t>
+                <t id="p15-s02-t12">are</t>
+                <t id="p15-s02-t13">necessary</t>
+                <t id="p15-s02-t14">for</t>
+                <t id="p15-s02-t15">its</t>
+                <t id="p15-s02-t16">growth</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p15-s03">
+                <t id="p15-s03-t01">In</t>
+                <t id="p15-s03-t02">the</t>
+                <t id="p15-s03-t03">real</t>
+                <t id="p15-s03-t04">world</t>
+                <punc>,</punc>
+                <t id="p15-s03-t05">however</t>
+                <punc>,</punc>
+                <t id="p15-s03-t06">there</t>
+                <t id="p15-s03-t07">are</t>
+                <t id="p15-s03-t08">variations</t>
+                <t id="p15-s03-t09">to</t>
+                <t id="p15-s03-t10">this</t>
+                <t id="p15-s03-t11">idealized</t>
+                <t id="p15-s03-t12">curve</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p15-s04">
+                <t id="p15-s04-t01">Examples</t>
+                <t id="p15-s04-t02">in</t>
+                <t id="p15-s04-t03">wild</t>
+                <t id="p15-s04-t04">populations</t>
+                <t id="p15-s04-t05">include</t>
+                <t id="p15-s04-t06">sheep</t>
+                <t id="p15-s04-t07">and</t>
+                <t id="p15-s04-t08">harbor</t>
+                <t id="p15-s04-t09">seals</t>
+                <punc>(</punc>
+                <t id="p15-s04-t10">Figure</t>
+                <t id="p15-s04-t11">b</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p15-s05">
+                <t id="p15-s05-t01">In</t>
+                <t id="p15-s05-t02">both</t>
+                <t id="p15-s05-t03">examples</t>
+                <punc>,</punc>
+                <t id="p15-s05-t04">the</t>
+                <t id="p15-s05-t05">population</t>
+                <t id="p15-s05-t06">size</t>
+                <t id="p15-s05-t07">exceeds</t>
+                <t id="p15-s05-t08">the</t>
+                <t id="p15-s05-t09">carrying</t>
+                <t id="p15-s05-t10">capacity</t>
+                <t id="p15-s05-t11">for</t>
+                <t id="p15-s05-t12">short</t>
+                <t id="p15-s05-t13">periods</t>
+                <t id="p15-s05-t14">of</t>
+                <t id="p15-s05-t15">time</t>
+                <t id="p15-s05-t16">and</t>
+                <t id="p15-s05-t17">then</t>
+                <t id="p15-s05-t18">falls</t>
+                <t id="p15-s05-t19">below</t>
+                <t id="p15-s05-t20">the</t>
+                <t id="p15-s05-t21">carrying</t>
+                <t id="p15-s05-t22">capacity</t>
+                <t id="p15-s05-t23">afterwards</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p15-s06">
+                <t id="p15-s06-t01">This</t>
+                <t id="p15-s06-t02">fluctuation</t>
+                <t id="p15-s06-t03">in</t>
+                <t id="p15-s06-t04">population</t>
+                <t id="p15-s06-t05">size</t>
+                <t id="p15-s06-t06">continues</t>
+                <t id="p15-s06-t07">to</t>
+                <t id="p15-s06-t08">occur</t>
+                <t id="p15-s06-t09">as</t>
+                <t id="p15-s06-t10">the</t>
+                <t id="p15-s06-t11">population</t>
+                <t id="p15-s06-t12">oscillates</t>
+                <t id="p15-s06-t13">around</t>
+                <t id="p15-s06-t14">its</t>
+                <t id="p15-s06-t15">carrying</t>
+                <t id="p15-s06-t16">capacity</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p15-s07">
+                <t id="p15-s07-t01">Still</t>
+                <punc>,</punc>
+                <t id="p15-s07-t02">even</t>
+                <t id="p15-s07-t03">with</t>
+                <t id="p15-s07-t04">this</t>
+                <t id="p15-s07-t05">oscillation</t>
+                <punc>,</punc>
+                <t id="p15-s07-t06">the</t>
+                <t id="p15-s07-t07">logistic</t>
+                <t id="p15-s07-t08">model</t>
+                <t id="p15-s07-t09">is</t>
+                <t id="p15-s07-t10">confirmed</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
 </document>
