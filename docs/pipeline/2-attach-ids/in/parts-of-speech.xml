@@ -375,7 +375,9 @@
                 <punc>,</punc>
                 <t>such</t>
                 <t>as</t>
-                <t>a(n</t>
+                <t>a</t>
+                <punc>(</punc>
+                <t>n</t>
                 <punc>)</punc>
                 <punc>,</punc>
                 <t>the</t>

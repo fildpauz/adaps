@@ -12,7 +12,9 @@
         <paragraph>
             <sentence>
                 <t>Wind</t>
-                <t>energy—that</t>
+                <t>energy</t>
+                <punc>—</punc>
+                <t>that</t>
                 <t>is</t>
                 <punc>,</punc>
                 <t>consumer</t>
@@ -31,7 +33,9 @@
                 <t>on</t>
                 <t>large</t>
                 <t>wind</t>
-                <t>farms—seems</t>
+                <t>farms</t>
+                <punc>—</punc>
+                <t>seems</t>
                 <t>like</t>
                 <t>a</t>
                 <t>very</t>
