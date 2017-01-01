@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<arise-structure>
+    <book id="arise1" number="1" text="Academic Reading in Science and Engineering, Book 1" shorttext="ARiSE 1">
+        <section id="arise1-s1" number="1" index="Section 1" title="Getting Started">
+            <unit id="arise1-s1-u1" number="1" index="Unit 1.1" title="Academic reading skills: A self-assessment"/>
+            <unit id="arise1-s1-u2" number="2" index="Unit 1.2" title="Interests"/>
+            <unit id="arise1-s1-u3" number="3" index="Unit 1.3" title="Motivations"/>
+        </section>
+        <section id="arise1-s2" number="2" index="Section 2" title="Linguistic Knowledge">
+            <unit id="arise1-s2-u1" number="1" index="Unit 2.1" title="Words, types, and parts"/>
+            <unit id="arise1-s2-u2" number="2" index="Unit 2.2" title="Academic words"/>
+            <unit id="arise1-s2-u3" number="3" index="Unit 2.3" title="Technical terms and abbreviations"/>
+            <unit id="arise1-s2-u4" number="4" index="Unit 2.4" title="Context clues to word meaning"/>
+            <unit id="arise1-s2-u5" number="5" index="Unit 2.5" title="Paragraphs 1"/>
+            <unit id="arise1-s2-u6" number="6" index="Unit 2.6" title="Paragraphs 2"/>
+            <unit id="arise1-s2-u7" number="7" index="Unit 2.7" title="Cohesive expressions"/>
+        </section>
+        <section id="arise1-s3" number="3" index="Section 3" title="Cognitive Skills">
+            <unit id="arise1-s3-u1" number="1" index="Unit 3.1" title="References"/>
+            <unit id="arise1-s3-u2" number="2" index="Unit 3.2" title="Topics and main ideas"/>
+            <unit id="arise1-s3-u3" number="3" index="Unit 3.3" title="Summarizing"/>
+            <unit id="arise1-s3-u4" number="4" index="Unit 3.4" title="Skimming and scanning"/>
+            <unit id="arise1-s3-u5" number="5" index="Unit 3.5" title="Paraphrasing and quoting"/>
+        </section>
+        <section id="arise1-s4" number="4" index="Section 4" title="Intensive Reading">
+            <unit id="arise1-s4-u1" number="1" title="Intensive Reading 1"/>
+            <unit id="arise1-s4-u2" number="2" title="Intensive Reading 2"/>
+            <unit id="arise1-s4-u3" number="3" title="Intensive Reading 3"/>
+            <unit id="arise1-s4-u4" number="4" title="Intensive Reading 4"/>
+            <unit id="arise1-s4-u5" number="5" title="Intensive Reading 5"/>
+        </section>
+        <section id="arise1-s5" number="5" index="Section 5" title="Extensive Reading">
+            <unit id="arise1-s5-u1" number="1" index="Unit 5.1" title="Reaction statements"/>
+            <unit id="arise1-s5-u2" number="2" index="Unit 5.2" title="Support groups"/>
+            <unit id="arise1-s5-u3" number="3" title="Extensive Reading 1"/>
+            <unit id="arise1-s5-u4" number="4" title="Extensive Reading 2"/>
+            <unit id="arise1-s5-u5" number="5" title="Extensive Reading 3"/>
+            <unit id="arise1-s5-u6" number="6" title="Extensive Reading 4"/>
+            <unit id="arise1-s5-u7" number="7" title="Extensive Reading 5"/>
+        </section>
+    </book>    
+    <book id="arise2" number="2" text="Academic Reading in Science and Engineering, Book 2" shorttext="ARiSE 2">
+        <section id="arise2-s1" number="1" index="Section 1" title="Getting Started">
+            <unit id="arise2-s1-u1" number="1" index="Unit 1.1" title="Academic reading skills: A self-assessment"/>
+            <unit id="arise2-s1-u2" number="2" index="Unit 1.2" title="Interests"/>
+            <unit id="arise2-s1-u3" number="3" index="Unit 1.3" title="Motivations"/>
+        </section>
+        <section id="arise2-s2" number="2" index="Section 2" title="Linguistic Knowledge">
+            <unit id="arise2-s2-u1" number="1" index="Unit 2.1" title="Logical connectors — Resemblance"/>
+            <unit id="arise2-s2-u2" number="2" index="Unit 2.2" title="Logical connectors — Cause and effect"/>
+            <unit id="arise2-s2-u3" number="3" index="Unit 2.3" title="Logical connectors — Other"/>
+            <unit id="arise2-s2-u4" number="4" index="Unit 2.4" title="Logical connectors — Review"/>
+            <unit id="arise2-s2-u5" number="5" index="Unit 2.5" title="Objective vs. subjective register"/>
+            <unit id="arise2-s2-u6" number="6" index="Unit 2.6" title="Macro-organization"/>
+            <unit id="arise2-s2-u7" number="7" index="Unit 2.7" title="Complex organization"/>
+        </section>
+        <section id="arise2-s3" number="3" index="Section 3" title="Cognitive Skills">
+            <unit id="arise2-s3-u1" number="1" index="Unit 3.1" title="Skimming and scanning"/>
+            <unit id="arise2-s3-u2" number="2" index="Unit 3.2" title="Types of academic texts"/>
+            <unit id="arise2-s3-u3" number="3" index="Unit 3.3" title="Outlines"/>
+            <unit id="arise2-s3-u4" number="4" index="Unit 3.4" title="Note-taking"/>
+            <unit id="arise2-s3-u5" number="5" index="Unit 3.5" title="Cognitive levels of reading"/>
+            <unit id="arise2-s3-u6" number="6" index="Unit 3.6" title="SQ3R"/>
+        </section>
+        <section id="arise2-s4" number="4" index="Section 4" title="Intensive Reading">
+            <unit id="arise2-s4-u1" number="1" title="Intensive Reading 1"/>
+            <unit id="arise2-s4-u2" number="2" title="Intensive Reading 2"/>
+            <unit id="arise2-s4-u3" number="3" title="Intensive Reading 3"/>
+            <unit id="arise2-s4-u4" number="4" title="Intensive Reading 4"/>
+            <unit id="arise2-s4-u5" number="5" title="Intensive Reading 5"/>
+        </section>
+        <section id="arise2-s5" number="5" index="Section 5" title="Extensive Reading">
+            <unit id="arise2-s5-u1" number="1" index="Unit 5.1" title="Reaction statements"/>
+            <unit id="arise2-s5-u2" number="2" index="Unit 5.2" title="Support groups"/>
+            <unit id="arise2-s5-u3" number="3" title="Extensive Reading 1"/>
+            <unit id="arise2-s5-u4" number="4" title="Extensive Reading 2"/>
+            <unit id="arise2-s5-u5" number="5" title="Extensive Reading 3"/>
+            <unit id="arise2-s5-u6" number="6" title="Extensive Reading 4"/>
+            <unit id="arise2-s5-u7" number="7" title="Extensive Reading 5"/>
+        </section>
+    </book>    
+</arise-structure>

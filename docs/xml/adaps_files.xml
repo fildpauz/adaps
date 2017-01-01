@@ -29,6 +29,7 @@ and open the template in the editor.
     <file name="language-learning-obj" path="../pipeline/5-detail-and-finish/in/language-learning-obj.xml"/>
     <file name="language-learning-subj" path="../pipeline/5-detail-and-finish/in/language-learning-subj.xml"/>
     <file name="maria-mitchell" path="../pipeline/5-detail-and-finish/in/maria-mitchell.xml"/>
+    <file name="origami-robot" path="../pipeline/5-detail-and-finish/in/origami-robot.xml"/>
     <file name="population-growth" path="../pipeline/5-detail-and-finish/in/population-growth.xml"/>
     <file name="robot-feedback" path="../pipeline/5-detail-and-finish/in/robot-feedback.xml"/>
     <file name="scope-of-biology" path="../pipeline/5-detail-and-finish/in/scope-of-biology.xml"/>

@@ -1,32 +1,213 @@
-<!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="UTF-8">
-        <title>ADAPS - Academic Document Annotation and Presentation
-            Schema</title>
-    </head>
-    <body>
-        <div class="header" data-role="header"></div>
-        <div class="content" data-role="main">
-            <h1>Academic Document Annotation and Presentation Schema (ADAPS)</h1>
-            <p>
-                ADAPS is designed to be a vehicle for giving an enhanced presentation
-                of many of the texts used in <i>Academic Reading in Science and
-                    Engineering, Books 1 and 2 (ARiSE1, ARiSE2)</i> in order to enable a
-                closer study of academic texts with respect to the various linguistic
-                features of texts studied in the textbooks. Click on one of the
-                following texts to study it in detail.
-            </p>
-            <h2>ARiSE 1</h2>
-            <ul>
-                <li><a href="./docs/html/origami_robot.html">US scientists create prototype of autonomous origami-inspired robot</a></li>
-            </ul>
-            <h2>ARiSE 2</h2>
-            <ul>
-                <li><a href="./docs/html/antihistamines.html">Do allergy meds contribute to weight gain?</a></li>
-            </ul>
-            <p><i>More coming soon...</i></p>
-        </div>
-        <div class="footer" data-role="footer"></div>
-    </body>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>ADAPS - Academic Document Annotation and Presentation Schema</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="stylesheet" href="./css/w3.css">
+      <link rel="stylesheet" href="./css/w3-theme-blue-grey.css"><script>
+                function myFunction(id) {
+                var x = document.getElementById(id);
+                if (x.className.indexOf("w3-show") == -1) {
+                x.className += " w3-show";
+                } else { 
+                x.className = x.className.replace(" w3-show", "");
+                }
+                }
+            </script></head>
+   <body>
+      <div id="header" class="w3-container w3-theme-d2 w3-center" style="">
+         <div class="w3-margin"><img src="./images/adaps_logo.png" class="w3-round w3-image w3-animate-opacity" style="" alt="ADAPS logo"></div>
+         <div class="w3-margin">
+            <h1>Academic Document Annotation and Presentation Schema</h1>
+         </div>
+      </div>
+      <div id="content" class="w3-container">
+         <p>ADAPS is designed to be a vehicle for giving an enhanced presentation
+            of many of the texts used in <i>Academic Reading in Science and
+               Engineering, Books 1 and 2 (ARiSE1, ARiSE2)</i> in order to enable a
+            closer study of academic texts with respect to the various linguistic
+            features of texts studied in the textbooks. Click on one of the
+            following texts to study it in detail.
+         </p>
+         <div class="w3-theme-l1 w3-hover">
+            <h2 class="w3-padding-medium">ARiSE 1</h2>
+            <div class="w3-accordion w3-theme-l4 w3-border-top"><button class="w3-btn-block w3-left-align w3-theme-l2 w3-padding-medium w3-margin-0" onclick="myFunction('b1-s2')">
+                  <h3>Section 2. Linguistic Knowledge</h3></button><div id="b1-s2" class="w3-accordion-content w3-container">
+                  <div class="w3-accordion w3-theme-l4 w3-border-top"><button class="w3-btn-block w3-left-align w3-theme-l3 w3-padding-small w3-margin-0" onclick="myFunction('b1-s2-u3')">
+                        <h4>Unit 2.3. Technical terms and abbreviations</h4></button><div id="b1-s2-u3" class="w3-accordion-content w3-container">
+                        <ul class="w3-ul">
+                           <li class="w3-padding-tiny w3-margin-0 w3-border-top"><a href="./docs/html/color-diffusion-online.html">The Colors of Diffusion on Pinterest (Extract)</a></li>
+                           <li class="w3-padding-tiny w3-margin-0 w3-border-top"><a href="./docs/html/robot-feedback.html">Robots Show Us How to Teach Them: Feedback from Robots Shapes Tutoring Behavior during
+                                 Action Learning (Extract)</a></li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="w3-accordion w3-theme-l4 w3-border-top"><button class="w3-btn-block w3-left-align w3-theme-l2 w3-padding-medium w3-margin-0" onclick="myFunction('b1-s4')">
+                  <h3>Section 4. Intensive Reading</h3></button><div id="b1-s4" class="w3-accordion-content w3-container">
+                  <div class="w3-accordion w3-theme-l4 w3-border-top"><button class="w3-btn-block w3-left-align w3-theme-l3 w3-padding-small w3-margin-0" onclick="myFunction('b1-s4-u1')">
+                        <h4>Intensive Reading 1</h4></button><div id="b1-s4-u1" class="w3-accordion-content w3-container">
+                        <ul class="w3-ul">
+                           <li class="w3-padding-tiny w3-margin-0 w3-border-top"><a href="./docs/html/origami-robot.html">US scientists create prototype of autonomous origami-inspired
+                                 robot
+                                 </a></li>
+                        </ul>
+                     </div>
+                  </div>
+                  <div class="w3-accordion w3-theme-l4 w3-border-top"><button class="w3-btn-block w3-left-align w3-theme-l3 w3-padding-small w3-margin-0" onclick="myFunction('b1-s4-u2')">
+                        <h4>Intensive Reading 2</h4></button><div id="b1-s4-u2" class="w3-accordion-content w3-container">
+                        <ul class="w3-ul">
+                           <li class="w3-padding-tiny w3-margin-0 w3-border-top"><a href="./docs/html/accuracy-precision.html">Accuracy and Precision</a></li>
+                        </ul>
+                     </div>
+                  </div>
+                  <div class="w3-accordion w3-theme-l4 w3-border-top"><button class="w3-btn-block w3-left-align w3-theme-l3 w3-padding-small w3-margin-0" onclick="myFunction('b1-s4-u3')">
+                        <h4>Intensive Reading 3</h4></button><div id="b1-s4-u3" class="w3-accordion-content w3-container">
+                        <ul class="w3-ul">
+                           <li class="w3-padding-tiny w3-margin-0 w3-border-top"><a href="./docs/html/counting-and-motion2.html">Counting Is Easier while Experiencing a Congruent Motion (Extract: Materials and Method)</a></li>
+                        </ul>
+                     </div>
+                  </div>
+                  <div class="w3-accordion w3-theme-l4 w3-border-top"><button class="w3-btn-block w3-left-align w3-theme-l3 w3-padding-small w3-margin-0" onclick="myFunction('b1-s4-u4')">
+                        <h4>Intensive Reading 4</h4></button><div id="b1-s4-u4" class="w3-accordion-content w3-container">
+                        <ul class="w3-ul">
+                           <li class="w3-padding-tiny w3-margin-0 w3-border-top"><a href="./docs/html/information-systems.html">Information Systems for Business and Beyond (Extract)</a></li>
+                        </ul>
+                     </div>
+                  </div>
+                  <div class="w3-accordion w3-theme-l4 w3-border-top"><button class="w3-btn-block w3-left-align w3-theme-l3 w3-padding-small w3-margin-0" onclick="myFunction('b1-s4-u5')">
+                        <h4>Intensive Reading 5</h4></button><div id="b1-s4-u5" class="w3-accordion-content w3-container">
+                        <ul class="w3-ul">
+                           <li class="w3-padding-tiny w3-margin-0 w3-border-top"><a href="./docs/html/size-mass-illusion.html">Effects of Varying Gravity Levels in Parabolic Flight on the Size-Mass Illusion</a></li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="w3-theme-l1 w3-hover">
+            <h2 class="w3-padding-medium">ARiSE 2</h2>
+            <div class="w3-accordion w3-theme-l4 w3-border-top"><button class="w3-btn-block w3-left-align w3-theme-l2 w3-padding-medium w3-margin-0" onclick="myFunction('b2-s1')">
+                  <h3>Section 1. Getting Started</h3></button><div id="b2-s1" class="w3-accordion-content w3-container">
+                  <div class="w3-accordion w3-theme-l4 w3-border-top"><button class="w3-btn-block w3-left-align w3-theme-l3 w3-padding-small w3-margin-0" onclick="myFunction('b2-s1-u1')">
+                        <h4>Unit 1.1. Academic reading skills: A self-assessment</h4></button><div id="b2-s1-u1" class="w3-accordion-content w3-container">
+                        <ul class="w3-ul">
+                           <li class="w3-padding-tiny w3-margin-0 w3-border-top"><a href="./docs/html/texting-and-walking.html">Gait Pattern Alterations during Walking, Texting and Walking and Texting during Cognitively
+                                 Distractive Tasks while Negotiating Common Pedestrian Obstacles (Extract)</a></li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="w3-accordion w3-theme-l4 w3-border-top"><button class="w3-btn-block w3-left-align w3-theme-l2 w3-padding-medium w3-margin-0" onclick="myFunction('b2-s2')">
+                  <h3>Section 2. Linguistic Knowledge</h3></button><div id="b2-s2" class="w3-accordion-content w3-container">
+                  <div class="w3-accordion w3-theme-l4 w3-border-top"><button class="w3-btn-block w3-left-align w3-theme-l3 w3-padding-small w3-margin-0" onclick="myFunction('b2-s2-u5')">
+                        <h4>Unit 2.5. Objective vs. subjective register</h4></button><div id="b2-s2-u5" class="w3-accordion-content w3-container">
+                        <ul class="w3-ul">
+                           <li class="w3-padding-tiny w3-margin-0 w3-border-top"><a href="./docs/html/language-learning-obj.html">When It Hurts (and Helps) to Try: The Role of Effort in Language Learning (Extract)</a></li>
+                           <li class="w3-padding-tiny w3-margin-0 w3-border-top"><a href="./docs/html/language-learning-subj.html">If at First You Don’t Succeed, Sit Back and Listen (Extract)</a></li>
+                        </ul>
+                     </div>
+                  </div>
+                  <div class="w3-accordion w3-theme-l4 w3-border-top"><button class="w3-btn-block w3-left-align w3-theme-l3 w3-padding-small w3-margin-0" onclick="myFunction('b2-s2-u6')">
+                        <h4>Unit 2.6. Macro-organization</h4></button><div id="b2-s2-u6" class="w3-accordion-content w3-container">
+                        <ul class="w3-ul">
+                           <li class="w3-padding-tiny w3-margin-0 w3-border-top"><a href="./docs/html/facebook1.html">Facebook Use Predicts Declines in Subjective Well-Being in Young Adults (Extract 1)</a></li>
+                           <li class="w3-padding-tiny w3-margin-0 w3-border-top"><a href="./docs/html/facebook2.html">Facebook Use Predicts Declines in Subjective Well-Being in Young Adults (Extract 2)</a></li>
+                           <li class="w3-padding-tiny w3-margin-0 w3-border-top"><a href="./docs/html/fashion.html">The Science of Style: In Fashion, Colors Should Match Only Moderately (Extract)</a></li>
+                           <li class="w3-padding-tiny w3-margin-0 w3-border-top"><a href="./docs/html/han-merchants.html">Economy of the Han dynasty (Extract)</a></li>
+                           <li class="w3-padding-tiny w3-margin-0 w3-border-top"><a href="./docs/html/insulin.html">Glucagon-Like Peptide-1 Induced Signaling and Insulin Secretion Do Not Drive Fuel
+                                 and Energy Metabolism in Primary Rodent Pancreatic β-Cells (Extract)</a></li>
+                           <li class="w3-padding-tiny w3-margin-0 w3-border-top"><a href="./docs/html/scope-of-biology.html">The Scope of Biology (Extract)</a></li>
+                        </ul>
+                     </div>
+                  </div>
+                  <div class="w3-accordion w3-theme-l4 w3-border-top"><button class="w3-btn-block w3-left-align w3-theme-l3 w3-padding-small w3-margin-0" onclick="myFunction('b2-s2-u7')">
+                        <h4>Unit 2.7. Complex organization</h4></button><div id="b2-s2-u7" class="w3-accordion-content w3-container">
+                        <ul class="w3-ul">
+                           <li class="w3-padding-tiny w3-margin-0 w3-border-top"><a href="./docs/html/crows.html">Modifications to the Aesop's Fable Paradigm Change New Caledonian Crow Performances
+                                 (Extract)</a></li>
+                           <li class="w3-padding-tiny w3-margin-0 w3-border-top"><a href="./docs/html/emoticons.html">Personality, Gender, and Age in the Language of Social Media: The Open-Vocabulary
+                                 Approach (Extract)</a></li>
+                           <li class="w3-padding-tiny w3-margin-0 w3-border-top"><a href="./docs/html/landslide.html">Landslide (Extract)</a></li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="w3-accordion w3-theme-l4 w3-border-top"><button class="w3-btn-block w3-left-align w3-theme-l2 w3-padding-medium w3-margin-0" onclick="myFunction('b2-s3')">
+                  <h3>Section 3. Cognitive Skills</h3></button><div id="b2-s3" class="w3-accordion-content w3-container">
+                  <div class="w3-accordion w3-theme-l4 w3-border-top"><button class="w3-btn-block w3-left-align w3-theme-l3 w3-padding-small w3-margin-0" onclick="myFunction('b2-s3-u1')">
+                        <h4>Unit 3.1. Skimming and scanning</h4></button><div id="b2-s3-u1" class="w3-accordion-content w3-container">
+                        <ul class="w3-ul">
+                           <li class="w3-padding-tiny w3-margin-0 w3-border-top"><a href="./docs/html/population-growth.html">Environmental Limits to Population Growth</a></li>
+                        </ul>
+                     </div>
+                  </div>
+                  <div class="w3-accordion w3-theme-l4 w3-border-top"><button class="w3-btn-block w3-left-align w3-theme-l3 w3-padding-small w3-margin-0" onclick="myFunction('b2-s3-u3')">
+                        <h4>Unit 3.3. Outlines</h4></button><div id="b2-s3-u3" class="w3-accordion-content w3-container">
+                        <ul class="w3-ul">
+                           <li class="w3-padding-tiny w3-margin-0 w3-border-top"><a href="./docs/html/body-shape-index.html">A New Body Shape Index Predicts Mortality Hazard Independently of Body Mass Index</a></li>
+                        </ul>
+                     </div>
+                  </div>
+                  <div class="w3-accordion w3-theme-l4 w3-border-top"><button class="w3-btn-block w3-left-align w3-theme-l3 w3-padding-small w3-margin-0" onclick="myFunction('b2-s3-u6')">
+                        <h4>Unit 3.6. SQ3R</h4></button><div id="b2-s3-u6" class="w3-accordion-content w3-container">
+                        <ul class="w3-ul">
+                           <li class="w3-padding-tiny w3-margin-0 w3-border-top"><a href="./docs/html/maria-mitchell.html">Maria Mitchell</a></li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="w3-accordion w3-theme-l4 w3-border-top"><button class="w3-btn-block w3-left-align w3-theme-l2 w3-padding-medium w3-margin-0" onclick="myFunction('b2-s4')">
+                  <h3>Section 4. Intensive Reading</h3></button><div id="b2-s4" class="w3-accordion-content w3-container">
+                  <div class="w3-accordion w3-theme-l4 w3-border-top"><button class="w3-btn-block w3-left-align w3-theme-l3 w3-padding-small w3-margin-0" onclick="myFunction('b2-s4-u2')">
+                        <h4>Intensive Reading 2</h4></button><div id="b2-s4-u2" class="w3-accordion-content w3-container">
+                        <ul class="w3-ul">
+                           <li class="w3-padding-tiny w3-margin-0 w3-border-top"><a href="./docs/html/division-of-labor.html">The Division of and Specialization of Labor</a></li>
+                        </ul>
+                     </div>
+                  </div>
+                  <div class="w3-accordion w3-theme-l4 w3-border-top"><button class="w3-btn-block w3-left-align w3-theme-l3 w3-padding-small w3-margin-0" onclick="myFunction('b2-s4-u3')">
+                        <h4>Intensive Reading 3</h4></button><div id="b2-s4-u3" class="w3-accordion-content w3-container">
+                        <ul class="w3-ul">
+                           <li class="w3-padding-tiny w3-margin-0 w3-border-top"><a href="./docs/html/algorithm.html">Algorithm (Extract)</a></li>
+                           <li class="w3-padding-tiny w3-margin-0 w3-border-top"><a href="./docs/html/antihistamines.html">Algorithm (Extract)</a></li>
+                        </ul>
+                     </div>
+                  </div>
+                  <div class="w3-accordion w3-theme-l4 w3-border-top"><button class="w3-btn-block w3-left-align w3-theme-l3 w3-padding-small w3-margin-0" onclick="myFunction('b2-s4-u4')">
+                        <h4>Intensive Reading 4</h4></button><div id="b2-s4-u4" class="w3-accordion-content w3-container">
+                        <ul class="w3-ul">
+                           <li class="w3-padding-tiny w3-margin-0 w3-border-top"><a href="./docs/html/drones-for-specimen-transport.html">Can Unmanned Aerial Systems (Drones) Be Used for the Routine Transport of Chemistry,
+                                 Hematology, and Coagulation Laboratory Specimens?</a></li>
+                        </ul>
+                     </div>
+                  </div>
+                  <div class="w3-accordion w3-theme-l4 w3-border-top"><button class="w3-btn-block w3-left-align w3-theme-l3 w3-padding-small w3-margin-0" onclick="myFunction('b2-s4-u5')">
+                        <h4>Intensive Reading 5</h4></button><div id="b2-s4-u5" class="w3-accordion-content w3-container">
+                        <ul class="w3-ul">
+                           <li class="w3-padding-tiny w3-margin-0 w3-border-top"><a href="./docs/html/counting-and-motion.html">Counting Is Easier while Experiencing a Congruent Motion</a></li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="w3-theme-l1">
+            <h2 class="w3-padding-medium">Other</h2>
+            <div class="w3-accordion w3-theme-l4 w3-border-top"><button class="w3-btn-block w3-left-align w3-theme-l2 w3-padding-medium w3-margin-0" onclick="myFunction('science-news')">
+                  <h3>Science news</h3></button><div id="science-news" class="w3-accordion-content w3-container">
+                  <ul class="w3-ul">
+                     <li class="w3-padding-tiny w3-margin-0 w3-border-top"><a href="./docs/html/hawaiian-crows.html">Critically Endangered Hawaiian Crow Joins the Tool-Users Club</a></li>
+                  </ul>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div id="footer" class="w3-container w3-theme-d4 w3-margin-top"><img src="./images/adaps_icon.png" class="w3-round w3-image w3-left w3-margin-0" style="max-width: 60px;" alt="ADAPS icon"><p>ADAPS</p>
+      </div>
+   </body>
 </html>

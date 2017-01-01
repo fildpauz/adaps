@@ -119,7 +119,7 @@
                 <xsl:text> </xsl:text>
                 <xsl:value-of select="." />
             </xsl:when>
-            <xsl:when test=". = '&#145;'">
+            <xsl:when test=". = '&#145;' or . = '&#8216;'">
                 <xsl:text> </xsl:text>
                 <xsl:value-of select="." />
             </xsl:when>
@@ -129,7 +129,7 @@
                     <xsl:text> </xsl:text>
                 </xsl:if>
             </xsl:when>
-            <xsl:when test=". = '&#146;'">
+            <xsl:when test=". = '&#146;' or . = '&#8217;'">
                 <xsl:value-of select="." />
                 <xsl:if test="following-sibling::*[position()=1][not(self::punc)]">
                     <xsl:text> </xsl:text>
@@ -372,18 +372,18 @@
                 <xsl:text>stylesheet</xsl:text>
             </xsl:attribute>
             <xsl:attribute name="href">
-                <xsl:text>//code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css</xsl:text>
+                <xsl:text>https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css</xsl:text>
             </xsl:attribute>
         </xsl:element>
         <xsl:element name="script">
             <xsl:attribute name="src">
-                <xsl:text>//code.jquery.com/jquery-1.11.3.min.js</xsl:text>
+                <xsl:text>https://code.jquery.com/jquery-1.11.3.min.js</xsl:text>
                 <!-- 				<xsl:text>https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js</xsl:text> -->
             </xsl:attribute>
         </xsl:element>
         <xsl:element name="script">
             <xsl:attribute name="src">
-                <xsl:text>//code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js</xsl:text>
+                <xsl:text>https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js</xsl:text>
             </xsl:attribute>
         </xsl:element>
         <xsl:element name="link">

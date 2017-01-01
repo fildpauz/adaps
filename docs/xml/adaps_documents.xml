@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <documents>
-   <document>
+   <document id="accuracy-precision"
+             path="../pipeline/5-detail-and-finish/in/accuracy-precision.xml">
       <title>Accuracy and Precision</title>
       <citation>OpenStax College, “College Physics”. Retrieved from http://cnx.org/content/col11406/latest/ on 21 June 2012</citation>
       <url>http://cnx.org/content/col11406/latest/</url>
+      <info type="arise">
+         <arise-info book="1" section="4" unit="2" firstpage="52"/>
+      </info>
       <body>
          <paragraph id="p01">
             <sentence par-function="topic" id="p01-s01">
@@ -1068,10 +1072,13 @@
          </paragraph>
       </body>
    </document>
-   <document>
+   <document id="algorithm" path="../pipeline/5-detail-and-finish/in/algorithm.xml">
       <title>Algorithm (Extract)</title>
       <citation>Simple English Wikipedia: “Algorithm”. Retrieved from https://simple.wikipedia.org/wiki/Algorithm on 20 Aug 2015.</citation>
       <url>https://simple.wikipedia.org/wiki/Algorithm</url>
+      <info type="arise">
+         <arise-info book="2" section="4" unit="3" firstpage="56"/>
+      </info>
       <body>
          <paragraph id="p01">
             <sentence par-function="topic" id="p01-s01">
@@ -2053,10 +2060,14 @@
          </paragraph>
       </body>
    </document>
-   <document>
+   <document id="antihistamines"
+             path="../pipeline/5-detail-and-finish/in/algorithm.xml">
       <title>Algorithm (Extract)</title>
       <citation>Simple English Wikipedia: “Algorithm”. Retrieved from https://simple.wikipedia.org/wiki/Algorithm on 20 Aug 2015.</citation>
       <url>https://simple.wikipedia.org/wiki/Algorithm</url>
+      <info type="arise">
+         <arise-info book="2" section="4" unit="3" firstpage="56"/>
+      </info>
       <body>
          <paragraph id="p01">
             <sentence par-function="topic" id="p01-s01">
@@ -3038,11 +3049,15 @@
          </paragraph>
       </body>
    </document>
-   <document>
+   <document id="body-shape-index"
+             path="../pipeline/5-detail-and-finish/in/body-shape-index.xml">
       <title>A New Body Shape Index Predicts Mortality Hazard Independently of Body Mass Index</title>
       <citation>Krakauer NY, Krakauer JC (2012) A New Body Shape Index Predicts Mortality Hazard Independently of Body Mass Index. PLoS ONE 7(7): e39504. doi:10.1371/journal.pone0039504
         Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0039504 on 04 Oct 2016.</citation>
       <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0039504</url>
+      <info type="arise">
+         <arise-info book="2" section="3" unit="3" part="2" firstpage="43"/>
+      </info>
       <body>
          <paragraph id="p01">
             <sentence par-function="topic" id="p01-s01">
@@ -3698,10 +3713,19 @@
          </paragraph>
       </body>
    </document>
-   <document>
+   <document id="color-diffusion-online"
+             path="../pipeline/5-detail-and-finish/in/color-diffusion-online.xml">
       <title>The Colors of Diffusion on Pinterest (Extract)</title>
       <citation>Bakhshi S, Gilbert E (2015) Red, Purple and Pink: The Colors of Diffusion on Pinterest. PLoS ONE 10(2): e0117148. doi:10.1371/journal.pone.0117148</citation>
       <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0117148</url>
+      <info type="arise">
+         <arise-info book="1"
+                     section="2"
+                     unit="3"
+                     part="1"
+                     item="A,C"
+                     firstpage="19"/>
+      </info>
       <body>
          <paragraph id="p01">
             <sentence par-function="topic" id="p01-s01">
@@ -4577,11 +4601,15 @@
          </paragraph>
       </body>
    </document>
-   <document>
+   <document id="counting-and-motion"
+             path="../pipeline/5-detail-and-finish/in/counting-and-motion.xml">
       <title>Counting Is Easier while Experiencing a Congruent Motion</title>
       <citation>Lugli L, Baroni G, Anelli F, Borghi AM, Nicoletti R (2013) Counting Is Easier while Experiencing a Congruent Motion. PLoS ONE 8(5):e64500. doi:10.1371/journal/pone.0064500
         Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064500 on 04 Oct 2016.</citation>
       <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064500</url>
+      <info type="arise">
+         <arise-info book="2" section="4" unit="5" firstpage="60" lastpage="61"/>
+      </info>
       <body>
          <paragraph id="p01">
             <sentence par-function="topic" id="p01-s01">
@@ -5672,10 +5700,14 @@
          </paragraph>
       </body>
    </document>
-   <document>
+   <document id="counting-and-motion2"
+             path="../pipeline/5-detail-and-finish/in/counting-and-motion2.xml">
       <title>Counting Is Easier while Experiencing a Congruent Motion (Extract: Materials and Method)</title>
       <citation>Lugli L, Baroni G, Anelli F, Borghi AM, Nicoletti R (2013) Counting Is Easier while Experiencing a Congruent Motion. PLoS ONE 8(5): e64500. doi:10.1371/journal.pone.0064500</citation>
       <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064500</url>
+      <info type="arise">
+         <arise-info book="1" section="4" unit="3" firstpage="54"/>
+      </info>
       <body>
          <paragraph id="p01">
             <sentence par-function="" id="p01-s01">
@@ -6607,11 +6639,19 @@
          </paragraph>
       </body>
    </document>
-   <document>
+   <document id="crows" path="../pipeline/5-detail-and-finish/in/crows.xml">
       <title>Modifications to the Aesop's Fable Paradigm Change New Caledonian Crow Performances (Extract)</title>
       <citation> Logan CJ, Jelbert SA, Breen AJ, Gray RD, Taylor AH (2014) Modifications to the Aesop's Fable Paradigm Change New Caledonian Crow Performances. PLoS ONE 9(7): e103049. doi:10.1371/journal.pone.0103049 
         Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0103049 on 07 Dec 2016</citation>
       <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0103049</url>
+      <info type="arise">
+         <arise-info book="2"
+                     section="2"
+                     unit="7"
+                     part="1"
+                     item="A"
+                     firstpage="32"/>
+      </info>
       <body>
          <paragraph id="p01">
             <sentence par-function="" id="p01-s01">
@@ -6695,11 +6735,15 @@
          </paragraph>
       </body>
    </document>
-   <document>
+   <document id="division-of-labor"
+             path="../pipeline/5-detail-and-finish/in/division-of-labor.xml">
       <title>The Division of and Specialization of Labor</title>
       <citation>OpenStax College, Principles of Economics. OpenStax College.19 March 2014. Retrieved from 
         http://cnx.org/content/col11613/latest/ on 03 Oct 2016.</citation>
       <url>http://cnx.org/content/col11613/latest/</url>
+      <info type="arise">
+         <arise-info book="2" section="4" unit="2" firstpage="54"/>
+      </info>
       <body>
          <paragraph id="p01">
             <sentence par-function="topic" id="p01-s01">
@@ -7797,11 +7841,15 @@
          </paragraph>
       </body>
    </document>
-   <document>
+   <document id="drones-for-specimen-transport"
+             path="../pipeline/5-detail-and-finish/in/drones-for-specimen-transport.xml">
       <title>Can Unmanned Aerial Systems (Drones) Be Used for the Routine Transport of Chemistry, Hematology, and Coagulation Laboratory Specimens?</title>
       <citation>Amukele TK, Sokoll LJ, Pepper D, Howard DP, Street J (2015) Can Unmanned Aerial Systems (Drones) Be Used for the Routine Transport of Chemistry, Hematology, and Coagulation Laboratory Specimens? PLoS ONE 10(7):e0134020. doi:10.1371/journal/pone.0134020
         Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0134020 on 04 Oct 2016.</citation>
       <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0134020</url>
+      <info type="arise">
+         <arise-info book="2" section="4" unit="4" firstpage="58"/>
+      </info>
       <body>
          <paragraph id="p01">
             <sentence par-function="topic" id="p01-s01">
@@ -8731,11 +8779,19 @@
          </paragraph>
       </body>
    </document>
-   <document>
+   <document id="emoticons" path="../pipeline/5-detail-and-finish/in/emoticons.xml">
       <title>Personality, Gender, and Age in the Language of Social Media: The Open-Vocabulary Approach (Extract)</title>
       <citation>Schwartz HA, Eichstaedt JC, Kern ML, Dziurzynski L, Ramones SM, et al. (2013) Personality, Gender, and Age in the Language of Social Media: The Open-Vocabulary Approach. PLoS ONE 8(9): e73791. doi:10.1371/journal.pone. 0073791
         Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0073791 on 07 Dec 2016.</citation>
       <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0073791</url>
+      <info type="arise">
+         <arise-info book="2"
+                     section="2"
+                     unit="7"
+                     part="1"
+                     item="B"
+                     firstpage="32"/>
+      </info>
       <body>
          <paragraph id="p01">
             <sentence par-function="topic" id="p01-s01">
@@ -8884,11 +8940,19 @@
          </paragraph>
       </body>
    </document>
-   <document>
+   <document id="facebook1" path="../pipeline/5-detail-and-finish/in/facebook1.xml">
       <title>Facebook Use Predicts Declines in Subjective Well-Being in Young Adults (Extract 1)</title>
       <citation>Kross E, Verduyn P, Demiralp E, Park J, Lee DS, et al. (2013) Facebook Use Predicts Declines in Subjective Well-Being in Young Adults. PLoS ONE 8(8): e69841. doi:10.1371/journal.pone.0069841 
         Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0069841 on 07 Dec 2016.</citation>
       <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0069841</url>
+      <info type="arise">
+         <arise-info book="2"
+                     section="2"
+                     unit="6"
+                     part="2"
+                     item="B"
+                     firstpage="28"/>
+      </info>
       <body>
          <paragraph id="p01">
             <sentence par-function="topic" id="p01-s01">
@@ -9054,11 +9118,19 @@
          </paragraph>
       </body>
    </document>
-   <document>
+   <document id="facebook2" path="../pipeline/5-detail-and-finish/in/facebook2.xml">
       <title>Facebook Use Predicts Declines in Subjective Well-Being in Young Adults (Extract 2)</title>
       <citation>Kross E, Verduyn P, Demiralp E, Park J, Lee DS, et al. (2013) Facebook Use Predicts Declines in Subjective Well-Being in Young Adults. PLoS ONE 8(8): e69841. doi:10.1371/journal.pone.0069841 
         Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0069841 on 07 Dec 2016.</citation>
       <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0069841</url>
+      <info type="arise">
+         <arise-info book="2"
+                     section="2"
+                     unit="6"
+                     part="2"
+                     item="H"
+                     firstpage="30"/>
+      </info>
       <body>
          <paragraph id="p01">
             <sentence par-function="" id="p01-s01">
@@ -9343,11 +9415,19 @@
          </paragraph>
       </body>
    </document>
-   <document>
+   <document id="fashion" path="../pipeline/5-detail-and-finish/in/fashion.xml">
       <title>The Science of Style: In Fashion, Colors Should Match Only Moderately (Extract)</title>
       <citation>Gray K, Schmitt P, Strohminger N, Kassam KS (2014) The Science of Style: In Fashion, Colors Should Match Only Moderately. PLoS ONE 9(7): e102772. doi:10.1371/journal.pone.0102772
         Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102772 on 15 Dec 2016.</citation>
       <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102772</url>
+      <info type="arise">
+         <arise-info book="2"
+                     section="2"
+                     unit="6"
+                     part="2"
+                     item="C"
+                     firstpage="29"/>
+      </info>
       <body>
          <paragraph id="p01">
             <sentence par-function="topic" id="p01-s01">
@@ -9512,11 +9592,20 @@
          </paragraph>
       </body>
    </document>
-   <document>
+   <document id="han-merchants"
+             path="../pipeline/5-detail-and-finish/in/han-merchants.xml">
       <title>Economy of the Han dynasty (Extract)</title>
       <citation>Wikipedia: “Economy of the Han dynasty”. 
         Retrieved from http://en.wikipedia.org/wiki/Economy_of_the_Han_dynasty on 22 Aug 2014.</citation>
       <url>http://en.wikipedia.org/wiki/Economy_of_the_Han_dynasty</url>
+      <info type="arise">
+         <arise-info book="2"
+                     section="2"
+                     unit="6"
+                     part="2"
+                     item="F"
+                     firstpage="29"/>
+      </info>
       <body>
          <paragraph id="p01">
             <sentence par-function="topic" id="p01-s01">
@@ -9813,10 +9902,12 @@
          </paragraph>
       </body>
    </document>
-   <document>
+   <document id="hawaiian-crows"
+             path="../pipeline/5-detail-and-finish/in/hawaiian-crows.xml">
       <title>Critically Endangered Hawaiian Crow Joins the Tool-Users Club</title>
       <citation>Bates, M. (2016) Critically Endangered Hawaiian Crow Joins the Tool-Users Club. PLOS Ecology Community (PLoS ONE blog). Retrieved from http://blogs.plos.org/ecology/2016/09/14/critically-endangered-hawaiian-crow-joins-the-tool-users-club/ on 27 Sep 2016.</citation>
       <url>http://blogs.plos.org/ecology/2016/09/14/critically-endangered-hawaiian-crow-joins-the-tool-users-club/</url>
+      <info type="science-news"/>
       <body>
          <paragraph id="p01">
             <sentence par-function="topic" id="p01-s01">
@@ -10933,10 +11024,14 @@
          </paragraph>
       </body>
    </document>
-   <document>
+   <document id="information-systems"
+             path="../pipeline/5-detail-and-finish/in/information-systems.xml">
       <title>Information Systems for Business and Beyond (Extract)</title>
       <citation>Bourgeois, D. (2014) Information Systems for Business and Beyond, pp. 94-96. Saylor.org. Retrieved from http://www.saylor.org/ courses/bus206 on 19 February 2015.</citation>
       <url>http://www.saylor.org/ courses/bus206</url>
+      <info type="arise">
+         <arise-info book="1" section="4" unit="4" firstpage="56"/>
+      </info>
       <body>
          <paragraph id="p01">
             <sentence par-function="" id="p01-s01">
@@ -11683,11 +11778,19 @@
          </paragraph>
       </body>
    </document>
-   <document>
+   <document id="insulin" path="../pipeline/5-detail-and-finish/in/insulin.xml">
       <title>Glucagon-Like Peptide-1 Induced Signaling and Insulin Secretion Do Not Drive Fuel and Energy Metabolism in Primary Rodent Pancreatic β-Cells (Extract)</title>
       <citation>Peyot M-L, Gray JP, Lamontagne J, Smith PJS, Holz GG, et al. (2009) Glucagon-Like Peptide-1 Induced Signaling and Insulin Secretion Do Not Drive Fuel and Energy Metabolism in Primary Rodent Pancreatic β-Cells. PLoS ONE 4(7): e6221. doi:10.1371/journal.pone.0006221
         Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0006221 on 15 Dec 2016.</citation>
       <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0006221</url>
+      <info type="arise">
+         <arise-info book="2"
+                     section="2"
+                     unit="6"
+                     part="2"
+                     item="G"
+                     firstpage="30"/>
+      </info>
       <body>
          <paragraph id="p01">
             <sentence par-function="topic" id="p01-s01">
@@ -11886,11 +11989,19 @@
          </paragraph>
       </body>
    </document>
-   <document>
+   <document id="landslide" path="../pipeline/5-detail-and-finish/in/landslide.xml">
       <title>Landslide (Extract)</title>
       <citation>Wikipedia: “Landslide”. 
         Retrieved from http://en.wikipedia.org/wiki/Landslide on 7 Sep 2014.</citation>
       <url>http://en.wikipedia.org/wiki/Landslide</url>
+      <info type="arise">
+         <arise-info book="2"
+                     section="2"
+                     unit="7"
+                     part="1"
+                     item="C"
+                     firstpage="33"/>
+      </info>
       <body>
          <paragraph id="p01">
             <sentence par-function="topic" id="p01-s01">
@@ -12092,11 +12203,20 @@
          </paragraph>
       </body>
    </document>
-   <document>
+   <document id="language-learning-obj"
+             path="../pipeline/5-detail-and-finish/in/language-learning-obj.xml">
       <title>When It Hurts (and Helps) to Try: The Role of Effort in Language Learning (Extract)</title>
       <citation>Finn AS, Lee T, Kraus A, Hudson Kam CL (2014) When It Hurts (and Helps) to Try: The Role of Effort in Language Learning. PLoS ONE 9(7): e101806. doi:10.1371/journal.pone.0101806
         Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101806 on 24 Nov 2016.</citation>
       <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101806</url>
+      <info type="arise">
+         <arise-info book="2"
+                     section="2"
+                     unit="5"
+                     part="1"
+                     item="B"
+                     firstpage="26"/>
+      </info>
       <body>
          <paragraph id="p01">
             <sentence par-function="topic" id="p01-s01">
@@ -12311,11 +12431,20 @@
          </paragraph>
       </body>
    </document>
-   <document>
+   <document id="language-learning-subj"
+             path="../pipeline/5-detail-and-finish/in/language-learning-subj.xml">
       <title>If at First You Don’t Succeed, Sit Back and Listen (Extract)</title>
       <citation>Wallace, S (2014) If at First You Don’t Succeed, Sit Back and Listen. EveryONE (PLoS One blog).
         Retrieved from http:// blogs.plos.org/everyone/2014/07/22/first-dont-succeed-sit-back-listen/ on 20 August 2015.</citation>
       <url>http:// blogs.plos.org/everyone/2014/07/22/first-dont-succeed-sit-back-listen/</url>
+      <info type="arise">
+         <arise-info book="2"
+                     section="2"
+                     unit="5"
+                     part="1"
+                     item="A"
+                     firstpage="26"/>
+      </info>
       <body>
          <paragraph id="p01">
             <sentence par-function="topic" id="p01-s01">
@@ -12604,11 +12733,20 @@
          </paragraph>
       </body>
    </document>
-   <document>
+   <document id="maria-mitchell"
+             path="../pipeline/5-detail-and-finish/in/maria-mitchell.xml">
       <title>Maria Mitchell</title>
       <citation>Wikipedia:"Maria Mitchell". Retrieved from 
         https://en.wikipedia.org/wiki/Maria_Mitchell on 04 Oct 2016.</citation>
       <url>https://en.wikipedia.org/wiki/Maria_Mitchell</url>
+      <info type="arise">
+         <arise-info book="2"
+                     section="3"
+                     unit="6"
+                     part="2"
+                     firstpage="49"
+                     lastpage="50"/>
+      </info>
       <body>
          <paragraph id="p01">
             <sentence par-function="topic" id="p01-s01">
@@ -14028,11 +14166,770 @@
          </paragraph>
       </body>
    </document>
-   <document>
+   <document id="origami-robot"
+             path="../pipeline/5-detail-and-finish/in/origami-robot.xml">
+      <title>US scientists create prototype of autonomous origami-inspired
+        robot
+    </title>
+      <citation>Wikinews contributors, “US scientists create prototype
+        of autonomous origami-inspired robot,” Wikinews, The free news
+        source you can write,
+        https://en.wikinews.org/w/index.php?title=US_scientists_create_prototype_of_autonomous_origami-inspired_robot&amp;oldid=3569382
+        (accessed April 29, 2016).
+    </citation>
+      <url>https://en.wikinews.org/wiki/US_scientists_create_prototype_of_autonomous_origami-inspired_robot
+    </url>
+      <info type="arise">
+         <arise-info book="1" section="4" unit="1" firstpage="50"/>
+      </info>
+      <body>
+         <paragraph id="p1">
+            <sentence par-function="topic" id="p1-s1">
+               <t id="p1-s1-t1" type="GSL-1">A</t>
+               <t id="p1-s1-t2" type="Coxhead-AWL-1,AR-AWL-1b">research</t>
+               <t id="p1-s1-t3" type="Coxhead-AWL-9,AR-AWL-9b">team</t>
+               <t id="p1-s1-t4" type="GSL-1">from</t>
+               <t id="p1-s1-t5" type="GSL-1">the</t>
+               <t id="p1-s1-t6">Massachusetts</t>
+               <t id="p1-s1-t7" type="Coxhead-AWL-2,AR-AWL-2b">Institute</t>
+               <t id="p1-s1-t8" type="GSL-1">of</t>
+               <t id="p1-s1-t9" type="Coxhead-AWL-3,AR-AWL-3b">Technology</t>
+               <punc>(</punc>
+               <abbr id="p1-s1-b1" info="p1-s1-t6:p1-s1-t9">
+                  <t id="p1-s1-t10">MIT</t>
+               </abbr>
+               <punc>)</punc>
+               <t id="p1-s1-t11" type="GSL-1">and</t>
+               <t id="p1-s1-t12">Harvard</t>
+               <t id="p1-s1-t13">University's</t>
+               <t id="p1-s1-t14">Wyss</t>
+               <t id="p1-s1-t15" type="Coxhead-AWL-2,AR-AWL-2b">Institute</t>
+               <t id="p1-s1-t16" type="GSL-1">for</t>
+               <t id="p1-s1-t17">Biologically</t>
+               <t id="p1-s1-t18">Inspired</t>
+               <t id="p1-s1-t19" type="GSL-2">Engineering</t>
+               <t id="p1-s1-t20" type="GSL-1">has</t>
+               <t id="p1-s1-t21" type="GSL-1">developed</t>
+               <t id="p1-s1-t22" type="GSL-1">a</t>
+               <t id="p1-s1-t23">robot</t>
+               <t id="p1-s1-t24" type="GSL-1">that</t>
+               <t id="p1-s1-t25" type="Coxhead-AWL-10,AR-AWL-10">assembles</t>
+               <t id="p1-s1-t26" type="GSL-1">itself</t>
+               <t id="p1-s1-t27" type="GSL-1">within</t>
+               <t id="p1-s1-t28" type="GSL-1">four</t>
+               <t id="p1-s1-t29" type="GSL-1">minutes</t>
+               <t id="p1-s1-t30" type="GSL-1">from</t>
+               <t id="p1-s1-t31" type="GSL-1">a</t>
+               <t id="p1-s1-t32" type="GSL-2">flat</t>
+               <t id="p1-s1-t33" type="GSL-2">sheet</t>
+               <t id="p1-s1-t34" type="GSL-1">into</t>
+               <t id="p1-s1-t35" type="GSL-1">a</t>
+               <abbr id="p1-s1-b2" info="p1-s1-t37:p1-s1-t38">
+                  <t id="p1-s1-t36">3D</t>
+               </abbr>
+               <punc>(</punc>
+               <t id="p1-s1-t37" type="GSL-1">three</t>
+               <punc>-</punc>
+               <t id="p1-s1-t38" type="Coxhead-AWL-4,AR-AWL-4a">dimensional</t>
+               <punc>)</punc>
+               <t id="p1-s1-t39" type="GSL-1">moving</t>
+               <t id="p1-s1-t40" type="Coxhead-AWL-1,AR-AWL-1b">structure</t>
+               <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p1-s2">
+               <t id="p1-s2-t1" type="GSL-1">Unlike</t>
+               <t id="p1-s2-t2" type="Coxhead-AWL-2,AR-AWL-2b">previous</t>
+               <t id="p1-s2-t3" type="GSL-2">self</t>
+               <punc>-</punc>
+               <t id="p1-s2-t4" type="GSL-2">folding</t>
+               <t id="p1-s2-t5" type="GSL-1">machines</t>
+               <punc>,</punc>
+               <anaphor id="p1-s2-a1" info="p1-s1-t22:p1-s1-t23">
+                  <t id="p1-s2-t6" type="GSL-1">the</t>
+                  <t id="p1-s2-t7">robot</t>
+               </anaphor>
+               <t id="p1-s2-t8" type="GSL-1">can</t>
+               <t id="p1-s2-t9" type="Coxhead-AWL-1,AR-AWL-1a">function</t>
+               <t id="p1-s2-t10">autonomously</t>
+               <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p1-s3">
+               <emph>
+                  <t id="p1-s3-t1" type="GSL-1">Science</t>
+               </emph>
+               <t id="p1-s3-t2" type="Coxhead-AWL-3,AR-AWL-3b">published</t>
+               <anaphor id="p1-s3-a1" info="p1-s1-t1:p1-s2-t10">
+                  <t id="p1-s3-t3" type="GSL-1">the</t>
+                  <t id="p1-s3-t4" type="GSL-1">study</t>
+               </anaphor>
+               <t id="p1-s3-t5" type="GSL-1">this</t>
+               <t id="p1-s3-t6" type="GSL-1">Friday</t>
+               <punc>.</punc>
+            </sentence>
+         </paragraph>
+         <paragraph id="p2">
+            <sentence par-function="topic" id="p2-s1">
+               <connector id="p2-s1-c1"
+                          type="elaboration"
+                          info="p1-s3-t1:p1-s3-t6,p2-s1-t2:p2-s1-t23">
+                  <t id="p2-s1-t1" type="GSL-1">Also</t>
+               </connector>
+               <t id="p2-s1-t2" type="GSL-1">on</t>
+               <t id="p2-s1-t3" type="GSL-1">Friday</t>
+               <punc>,</punc>
+               <emph>
+                  <t id="p2-s1-t4" type="GSL-1">Science</t>
+               </emph>
+               <t id="p2-s1-t5" type="Coxhead-AWL-3,AR-AWL-3b">published</t>
+               <t id="p2-s1-t6" type="GSL-1">a</t>
+               <t id="p2-s1-t7" type="GSL-1">report</t>
+               <t id="p2-s1-t8" type="GSL-1">of</t>
+               <t id="p2-s1-t9" type="GSL-1">a</t>
+               <t id="p2-s1-t10">Cornell</t>
+               <t id="p2-s1-t11" type="GSL-1">University</t>
+               <punc>-</punc>
+               <t id="p2-s1-t12" type="GSL-1">led</t>
+               <t id="p2-s1-t13" type="Coxhead-AWL-1,AR-AWL-1b">research</t>
+               <t id="p2-s1-t14" type="Coxhead-AWL-9,AR-AWL-9b">team</t>
+               <t id="p2-s1-t15" type="GSL-1">on</t>
+               <t id="p2-s1-t16" type="GSL-1">applications</t>
+               <t id="p2-s1-t17" type="GSL-1">of</t>
+               <t id="p2-s1-t18">origami</t>
+               <t id="p2-s1-t19" type="GSL-1">in</t>
+               <t id="p2-s1-t20" type="Coxhead-AWL-2,AR-AWL-2a">design</t>
+               <t id="p2-s1-t21" type="GSL-1">of</t>
+               <t id="p2-s1-t22">programmable</t>
+               <t id="p2-s1-t23">metamaterials</t>
+               <punc>.</punc>
+            </sentence>
+         </paragraph>
+         <paragraph id="p3">
+            <sentence par-function="topic" id="p3-s1">
+               <t id="p3-s1-t1" type="GSL-1">As</t>
+               <emph>
+                  <t id="p3-s1-t2" type="GSL-1">The</t>
+                  <t id="p3-s1-t3">Guardian</t>
+               </emph>
+               <connector id="p3-s1-c1"
+                          type="attribution"
+                          info="p3-s1-t2:p3-s1-t3,p3-s1-t5:p3-s1-t42">
+                  <t id="p3-s1-t4" type="GSL-1">reported</t>
+               </connector>
+               <punc>,</punc>
+               <t id="p3-s1-t5">MIT</t>
+               <punc>–</punc>
+               <t id="p3-s1-t6">Harvard</t>
+               <t id="p3-s1-t7" type="Coxhead-AWL-9,AR-AWL-9b">team</t>
+               <t id="p3-s1-t8" type="GSL-1">lead</t>
+               <t id="p3-s1-t9" type="Coxhead-AWL-6,AR-AWL-6a">author</t>
+               <t id="p3-s1-t10">Sam</t>
+               <t id="p3-s1-t11">Felton</t>
+               <punc>,</punc>
+               <t id="p3-s1-t12" type="GSL-1">a</t>
+               <t id="p3-s1-t13">Harvard</t>
+               <t id="p3-s1-t14" type="GSL-1">University</t>
+               <t id="p3-s1-t15">Ph.D.</t>
+               <t id="p3-s1-t16">candidate</t>
+               <punc>,</punc>
+               <t id="p3-s1-t17" type="GSL-1">priced</t>
+               <t id="p3-s1-t18" type="GSL-1">the</t>
+               <t id="p3-s1-t19" type="GSL-1">manufacturing</t>
+               <t id="p3-s1-t20" type="Coxhead-AWL-7,AR-AWL-7a">equipment</t>
+               <t id="p3-s1-t21" type="GSL-1">for</t>
+               <anaphor id="p3-s1-a1" info="p1-s2-t6:p1-s2-t7">
+                  <t id="p3-s1-t22" type="GSL-1">the</t>
+                  <t id="p3-s1-t23">robot</t>
+               </anaphor>
+               <t id="p3-s1-t24" type="GSL-1">at</t>
+               <t id="p3-s1-t25">$3,000</t>
+               <punc>,</punc>
+               <t id="p3-s1-t26" type="GSL-1">which</t>
+               <t id="p3-s1-t27" type="GSL-1">could</t>
+               <t id="p3-s1-t28" type="GSL-1">then</t>
+               <t id="p3-s1-t29" type="GSL-1">make</t>
+               <t id="p3-s1-t30" type="GSL-1">each</t>
+               <t id="p3-s1-t31" type="Coxhead-AWL-1,AR-AWL-1b">individual</t>
+               <t id="p3-s1-t32" type="GSL-1">unit</t>
+               <punc>—</punc>
+               <t id="p3-s1-t33" type="GSL-1">a</t>
+               <t id="p3-s1-t34">13</t>
+               <t id="p3-s1-t35">cm</t>
+               <punc>-</punc>
+               <t id="p3-s1-t36" type="GSL-1">long</t>
+               <punc>,</punc>
+               <t id="p3-s1-t37">Transformer</t>
+               <punc>-</punc>
+               <t id="p3-s1-t38" type="GSL-1">like</t>
+               <t id="p3-s1-t39">robot</t>
+               <punc>—</punc>
+               <t id="p3-s1-t40" type="GSL-1">for</t>
+               <t id="p3-s1-t41" type="GSL-1">about</t>
+               <t id="p3-s1-t42">$100</t>
+               <punc>.</punc>
+            </sentence>
+         </paragraph>
+         <paragraph id="p4">
+            <sentence par-function="topic" id="p4-s1">
+               <t id="p4-s1-t1" type="GSL-1">As</t>
+               <connector id="p4-s1-c1"
+                          type="attribution"
+                          info="p4-s1-t4:p4-s1-t5,p4-s1-t6:p4-s1-t34">
+                  <t id="p4-s1-t2" type="GSL-1">described</t>
+               </connector>
+               <t id="p4-s1-t3" type="GSL-1">by</t>
+               <t id="p4-s1-t4">MIT</t>
+               <t id="p4-s1-t5" type="Coxhead-AWL-1,AR-AWL-1b">researchers</t>
+               <punc>,</punc>
+               <t id="p4-s1-t6" type="GSL-1">the</t>
+               <t id="p4-s1-t7" type="Coxhead-AWL-3,AR-AWL-3a">initially</t>
+               <t id="p4-s1-t8" type="GSL-2">flat</t>
+               <t id="p4-s1-t9" type="GSL-2">sheet</t>
+               <t id="p4-s1-t10" type="Coxhead-AWL-1,AR-AWL-1a">consists</t>
+               <t id="p4-s1-t11" type="GSL-1">of</t>
+               <t id="p4-s1-t12" type="GSL-1">five</t>
+               <t id="p4-s1-t13" type="Coxhead-AWL-3,AR-AWL-3b">layers</t>
+               <punc>:</punc>
+               <t id="p4-s1-t14" type="GSL-2">copper</t>
+               <t id="p4-s1-t15" type="GSL-2">wires</t>
+               <t id="p4-s1-t16" type="GSL-1">in</t>
+               <t id="p4-s1-t17" type="GSL-1">the</t>
+               <t id="p4-s1-t18" type="GSL-1">middle</t>
+               <punc>,</punc>
+               <t id="p4-s1-t19" type="GSL-1">then</t>
+               <t id="p4-s1-t20" type="GSL-1">two</t>
+               <t id="p4-s1-t21" type="Coxhead-AWL-3,AR-AWL-3b">layers</t>
+               <t id="p4-s1-t22" type="GSL-1">of</t>
+               <t id="p4-s1-t23" type="GSL-1">paper</t>
+               <punc>(</punc>
+               <t id="p4-s1-t24" type="GSL-1">above</t>
+               <t id="p4-s1-t25" type="GSL-1">and</t>
+               <t id="p4-s1-t26" type="GSL-1">below</t>
+               <punc>)</punc>
+               <punc>,</punc>
+               <t id="p4-s1-t27" type="GSL-1">and</t>
+               <t id="p4-s1-t28" type="GSL-1">two</t>
+               <t id="p4-s1-t29" type="GSL-1">outer</t>
+               <t id="p4-s1-t30" type="Coxhead-AWL-3,AR-AWL-3b">layers</t>
+               <t id="p4-s1-t31" type="GSL-1">of</t>
+               <t id="p4-s1-t32" type="GSL-1">shape</t>
+               <t id="p4-s1-t33" type="GSL-1">memory</t>
+               <t id="p4-s1-t34">polymer</t>
+               <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p4-s2">
+               <t id="p4-s2-t1" type="GSL-1">The</t>
+               <t id="p4-s2-t2">embedded</t>
+               <t id="p4-s2-t3" type="GSL-1">heating</t>
+               <t id="p4-s2-t4">circuits</t>
+               <t id="p4-s2-t5">activate</t>
+               <anaphor id="p4-s2-a1" info="p3-s1-t22:p3-s1-t23">
+                  <t id="p4-s2-t6" type="GSL-1">the</t>
+                  <t id="p4-s2-t7">robot's</t>
+               </anaphor>
+               <t id="p4-s2-t8" type="GSL-2">self</t>
+               <punc>-</punc>
+               <t id="p4-s2-t9" type="GSL-2">folding</t>
+               <t id="p4-s2-t10" type="GSL-1">by</t>
+               <t id="p4-s2-t11" type="GSL-1">heating</t>
+               <t id="p4-s2-t12" type="GSL-1">shape</t>
+               <t id="p4-s2-t13" type="GSL-1">memory</t>
+               <t id="p4-s2-t14">polymers</t>
+               <t id="p4-s2-t15" type="GSL-1">at</t>
+               <t id="p4-s2-t16" type="GSL-1">the</t>
+               <t id="p4-s2-t17">hinges</t>
+               <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p4-s3">
+               <t id="p4-s3-t1" type="GSL-1">The</t>
+               <t id="p4-s3-t2" type="Coxhead-AWL-4,AR-AWL-4b">parameters</t>
+               <t id="p4-s3-t3" type="Coxhead-AWL-1,AR-AWL-1a">defining</t>
+               <t id="p4-s3-t4" type="GSL-1">the</t>
+               <t id="p4-s3-t5" type="GSL-2">fold</t>
+               <t id="p4-s3-t6" type="GSL-2">pattern</t>
+               <t id="p4-s3-t7" type="GSL-1">which</t>
+               <t id="p4-s3-t8" type="GSL-1">determines</t>
+               <t id="p4-s3-t9" type="GSL-1">the</t>
+               <t id="p4-s3-t10" type="Coxhead-AWL-2,AR-AWL-2a">final</t>
+               <t id="p4-s3-t11">3D</t>
+               <t id="p4-s3-t12" type="GSL-1">shape</t>
+               <t id="p4-s3-t13" type="GSL-1">are</t>
+               <t id="p4-s3-t14">placement</t>
+               <t id="p4-s3-t15" type="GSL-1">of</t>
+               <t id="p4-s3-t16" type="GSL-1">the</t>
+               <t id="p4-s3-t17" type="GSL-2">self</t>
+               <punc>-</punc>
+               <t id="p4-s3-t18" type="GSL-2">folding</t>
+               <t id="p4-s3-t19">hinges</t>
+               <punc>,</punc>
+               <t id="p4-s3-t20" type="GSL-1">and</t>
+               <t id="p4-s3-t21" type="GSL-1">the</t>
+               <t id="p4-s3-t22" type="GSL-1">order</t>
+               <t id="p4-s3-t23" type="GSL-1">of</t>
+               <anaphor id="p4-s3-a1" info="p4-s3-t16:p4-s3-t19">
+                  <t id="p4-s3-t24" type="GSL-1">their</t>
+               </anaphor>
+               <t id="p4-s3-t25" type="Coxhead-AWL-9,AR-AWL-9b">triggering</t>
+               <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p4-s4">
+               <t id="p4-s4-t1">Felton</t>
+               <connector id="p4-s4-c1"
+                          type="attribution"
+                          info="p4-s4-t1:p4-s4-t1,p4-s4-t4:p4-s4-1-t17">
+                  <t id="p4-s4-t2" type="GSL-1">told</t>
+                  <t id="p4-s4-t3" type="GSL-1">about</t>
+               </connector>
+               <t id="p4-s4-t4" type="Coxhead-AWL-1,AR-AWL-1a">creation</t>
+               <t id="p4-s4-t5" type="GSL-1">of</t>
+               <anaphor id="p4-s4-a1" info="p4-s3-t4:p4-s3-t6">
+                  <t id="p4-s4-t6" type="GSL-1">the</t>
+                  <t id="p4-s4-t7" type="GSL-2">pattern</t>
+               </anaphor>
+               <punc>:</punc>
+               <punc>“</punc>
+               <sentence par-function="supporting" id="p4-s4-1">
+                  <t id="p4-s4-1-t1" type="Coxhead-AWL-4,AR-AWL-4a">Cyclic</t>
+                  <t id="p4-s4-1-t2" type="GSL-2">folds</t>
+                  <t id="p4-s4-1-t3" type="GSL-1">are</t>
+                  <t id="p4-s4-1-t4" type="GSL-1">used</t>
+                  <t id="p4-s4-1-t5" type="GSL-1">by</t>
+                  <t id="p4-s4-1-t6" type="GSL-1">a</t>
+                  <t id="p4-s4-1-t7">software</t>
+                  <t id="p4-s4-1-t8" type="GSL-2">program</t>
+                  <t id="p4-s4-1-t9" type="GSL-1">called</t>
+                  <punc>‘</punc>
+                  <term id="p4-s4-1-e1" info="p4-s4-1-t6:p4-s4-1-t8">
+                     <t id="p4-s4-1-t10">Origamizer</t>
+                  </term>
+                  <punc>’</punc>
+                  <t id="p4-s4-1-t11" type="GSL-1">as</t>
+                  <t id="p4-s4-1-t12" type="GSL-1">building</t>
+                  <t id="p4-s4-1-t13" type="GSL-2">blocks</t>
+                  <t id="p4-s4-1-t14" type="GSL-1">to</t>
+                  <t id="p4-s4-1-t15" type="Coxhead-AWL-1,AR-AWL-1a">create</t>
+                  <t id="p4-s4-1-t16" type="GSL-1">any</t>
+                  <t id="p4-s4-1-t17">polyhedron</t>
+                  <punc>.</punc>
+               </sentence>
+               <sentence par-function="supporting" id="p4-s4-2">
+                  <t id="p4-s4-2-t1">We've</t>
+                  <t id="p4-s4-2-t2" type="GSL-1">discovered</t>
+                  <t id="p4-s4-2-t3" type="GSL-1">that</t>
+                  <t id="p4-s4-2-t4" type="GSL-1">we</t>
+                  <t id="p4-s4-2-t5" type="GSL-1">can</t>
+                  <punc>[...]</punc>
+                  <t id="p4-s4-2-t6" type="Coxhead-AWL-1,AR-AWL-1a">create</t>
+                  <t id="p4-s4-2-t7" type="GSL-1">a</t>
+                  <t id="p4-s4-2-t8" type="GSL-1">wide</t>
+                  <t id="p4-s4-2-t9" type="GSL-1">variety</t>
+                  <t id="p4-s4-2-t10" type="GSL-1">of</t>
+                  <t id="p4-s4-2-t11" type="Coxhead-AWL-1,AR-AWL-1b">structures</t>
+                  <t id="p4-s4-2-t12" type="GSL-1">and</t>
+                  <t id="p4-s4-2-t13" type="GSL-1">machines</t>
+                  <punc>.</punc>
+               </sentence>
+               <punc>”</punc>
+            </sentence>
+         </paragraph>
+         <paragraph id="p5">
+            <sentence par-function="topic" id="p5-s1">
+               <connector id="p5-s1-c1"
+                          type="temporal sequence"
+                          info="p5-s1-t2:p5-s1-t8,p5-s1-t9:p5-s1-t39">
+                  <t id="p5-s1-t1" type="GSL-1">Once</t>
+               </connector>
+               <t id="p5-s1-t2" type="GSL-1">the</t>
+               <t id="p5-s1-t3">battery</t>
+               <t id="p5-s1-t4" type="GSL-1">is</t>
+               <t id="p5-s1-t5" type="Coxhead-AWL-6,AR-AWL-6a">attached</t>
+               <t id="p5-s1-t6" type="GSL-1">to</t>
+               <t id="p5-s1-t7" type="GSL-1">the</t>
+               <t id="p5-s1-t8" type="Coxhead-AWL-2,AR-AWL-2a">design</t>
+               <punc>,</punc>
+               <anaphor id="p5-s1-a1" info="p4-s2-t6:p4-s2-t7">
+                  <t id="p5-s1-t9" type="GSL-1">the</t>
+                  <t id="p5-s1-t10">robot</t>
+               </anaphor>
+               <t id="p5-s1-t11" type="GSL-2">folds</t>
+               <t id="p5-s1-t12" type="GSL-1">itself</t>
+               <t id="p5-s1-t13" type="GSL-1">into</t>
+               <t id="p5-s1-t14" type="GSL-1">the</t>
+               <t id="p5-s1-t15">pre</t>
+               <punc>-</punc>
+               <t id="p5-s1-t16" type="GSL-1">determined</t>
+               <t id="p5-s1-t17" type="GSL-1">shape</t>
+               <t id="p5-s1-t18" type="GSL-1">and</t>
+               <t id="p5-s1-t19" type="GSL-1">walks</t>
+               <t id="p5-s1-t20" type="GSL-1">away</t>
+               <punc>,</punc>
+               <t id="p5-s1-t21" type="GSL-1">with</t>
+               <t id="p5-s1-t22" type="GSL-2">motion</t>
+               <t id="p5-s1-t23" type="GSL-1">of</t>
+               <t id="p5-s1-t24" type="GSL-1">the</t>
+               <t id="p5-s1-t25" type="GSL-1">four</t>
+               <punc>-</punc>
+               <t id="p5-s1-t26">legged</t>
+               <t id="p5-s1-t27">robot</t>
+               <t id="p5-s1-t28" type="GSL-1">controlled</t>
+               <t id="p5-s1-t29" type="GSL-1">by</t>
+               <t id="p5-s1-t30" type="GSL-1">the</t>
+               <t id="p5-s1-t31" type="GSL-1">included</t>
+               <t id="p5-s1-t32">microprocessor</t>
+               <t id="p5-s1-t33" type="GSL-1">and</t>
+               <t id="p5-s1-t34" type="GSL-1">two</t>
+               <t id="p5-s1-t35" type="GSL-1">small</t>
+               <t id="p5-s1-t36" type="GSL-1">motors</t>
+               <t id="p5-s1-t37">synchronised</t>
+               <t id="p5-s1-t38" type="GSL-1">by</t>
+               <anaphor id="p5-s1-a2" info="p5-s1-t30:p5-s1-t32">
+                  <t id="p5-s1-t39" type="GSL-1">it</t>
+               </anaphor>
+               <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p5-s2">
+               <t id="p5-s2-t1" type="GSL-1">Each</t>
+               <t id="p5-s2-t2" type="GSL-1">of</t>
+               <anaphor id="p5-s2-a1" info="p5-s1-t25:p5-s1-t26">
+                  <t id="p5-s2-t3" type="GSL-1">the</t>
+                  <t id="p5-s2-t4" type="GSL-1">four</t>
+                  <t id="p5-s2-t5" type="GSL-2">legs</t>
+               </anaphor>
+               <t id="p5-s2-t6" type="GSL-1">has</t>
+               <t id="p5-s2-t7" type="GSL-1">eight</t>
+               <punc>“</punc>
+               <t id="p5-s2-t8" type="Coxhead-AWL-3,AR-AWL-3b">linkages</t>
+               <punc>”</punc>
+               <t id="p5-s2-t9" type="GSL-1">which</t>
+               <t id="p5-s2-t10" type="Coxhead-AWL-7,AR-AWL-7a">convert</t>
+               <t id="p5-s2-t11" type="GSL-1">the</t>
+               <t id="p5-s2-t12" type="GSL-1">force</t>
+               <t id="p5-s2-t13" type="GSL-1">applied</t>
+               <t id="p5-s2-t14" type="GSL-1">by</t>
+               <t id="p5-s2-t15" type="GSL-1">a</t>
+               <t id="p5-s2-t16" type="GSL-1">motor</t>
+               <t id="p5-s2-t17" type="GSL-1">into</t>
+               <t id="p5-s2-t18" type="GSL-2">motion</t>
+               <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p5-s3">
+               <punc>“</punc>
+               <anaphor id="p5-s3-a1" info="p5-s2-t1:p5-s2-t18">
+                  <t id="p5-s3-t1" type="GSL-1">It</t>
+               </anaphor>
+               <t id="p5-s3-t2" type="GSL-1">lets</t>
+               <t id="p5-s3-t3" type="GSL-1">you</t>
+               <t id="p5-s3-t4" type="Coxhead-AWL-2,AR-AWL-2b">transfer</t>
+               <t id="p5-s3-t5" type="GSL-1">just</t>
+               <t id="p5-s3-t6" type="GSL-1">one</t>
+               <t id="p5-s3-t7" type="GSL-1">degree</t>
+               <t id="p5-s3-t8" type="GSL-1">of</t>
+               <t id="p5-s3-t9" type="GSL-1">freedom</t>
+               <t id="p5-s3-t10" type="GSL-1">into</t>
+               <t id="p5-s3-t11" type="GSL-1">a</t>
+               <t id="p5-s3-t12" type="GSL-1">whole</t>
+               <t id="p5-s3-t13" type="GSL-2">complicated</t>
+               <t id="p5-s3-t14" type="GSL-2">motion</t>
+               <punc>,</punc>
+               <t id="p5-s3-t15" type="GSL-1">all</t>
+               <t id="p5-s3-t16" type="GSL-1">through</t>
+               <t id="p5-s3-t17" type="GSL-1">the</t>
+               <t id="p5-s3-t18" type="GSL-2">mechanics</t>
+               <t id="p5-s3-t19" type="GSL-1">of</t>
+               <t id="p5-s3-t20" type="GSL-1">the</t>
+               <t id="p5-s3-t21" type="Coxhead-AWL-1,AR-AWL-1b">structure</t>
+               <punc>,</punc>
+               <punc>”</punc>
+               <connector id="p5-s3-c1"
+                          type="attribution"
+                          info="p5-s3-t1:p5-s3-t21,p5-s3-t23:p5-s3-t32">
+                  <t id="p5-s3-t22" type="GSL-1">says</t>
+               </connector>
+               <t id="p5-s3-t23">coauthor</t>
+               <t id="p5-s3-t24">Erik</t>
+               <t id="p5-s3-t25">Demaine</t>
+               <punc>,</punc>
+               <t id="p5-s3-t26">MIT</t>
+               <t id="p5-s3-t27">professor</t>
+               <t id="p5-s3-t28" type="GSL-1">of</t>
+               <t id="p5-s3-t29" type="Coxhead-AWL-2,AR-AWL-2a">computer</t>
+               <t id="p5-s3-t30" type="GSL-1">science</t>
+               <t id="p5-s3-t31" type="GSL-1">and</t>
+               <t id="p5-s3-t32" type="GSL-2">engineering</t>
+               <punc>.</punc>
+            </sentence>
+         </paragraph>
+         <paragraph id="p6">
+            <sentence par-function="topic" id="p6-s1">
+               <anaphor id="p6-s1-a1" info="p5-s1-t24:p5-s1-t27">
+                  <t id="p6-s1-t1" type="GSL-1">The</t>
+                  <t id="p6-s1-t2">robot</t>
+               </anaphor>
+               <t id="p6-s1-t3" type="GSL-1">moved</t>
+               <t id="p6-s1-t4" type="GSL-2">during</t>
+               <t id="p6-s1-t5" type="GSL-1">testing</t>
+               <t id="p6-s1-t6" type="GSL-1">at</t>
+               <t id="p6-s1-t7" type="GSL-1">about</t>
+               <t id="p6-s1-t8">5.4</t>
+               <t id="p6-s1-t9">centimeters</t>
+               <t id="p6-s1-t10" type="GSL-1">per</t>
+               <t id="p6-s1-t11" type="GSL-1">second</t>
+               <punc>,</punc>
+               <t id="p6-s1-t12" type="GSL-1">over</t>
+               <t id="p6-s1-t13" type="GSL-1">a</t>
+               <t id="p6-s1-t14">pre</t>
+               <punc>-</punc>
+               <t id="p6-s1-t15" type="GSL-1">determined</t>
+               <t id="p6-s1-t16" type="Coxhead-AWL-9,AR-AWL-9b">route</t>
+               <punc>,</punc>
+               <t id="p6-s1-t17" type="GSL-1">not</t>
+               <t id="p6-s1-t18" type="GSL-1">just</t>
+               <t id="p6-s1-t19" type="GSL-1">a</t>
+               <t id="p6-s1-t20" type="GSL-2">straight</t>
+               <t id="p6-s1-t21" type="GSL-1">line</t>
+               <punc>—</punc>
+               <t id="p6-s1-t22" type="GSL-1">without</t>
+               <t id="p6-s1-t23" type="GSL-1">any</t>
+               <t id="p6-s1-t24" type="GSL-1">outside</t>
+               <t id="p6-s1-t25" type="Coxhead-AWL-2,AR-AWL-2a">assistance</t>
+               <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p6-s2">
+               <t id="p6-s2-t1">Marc</t>
+               <t id="p6-s2-t2">Lavine</t>
+               <punc>,</punc>
+               <t id="p6-s2-t3" type="GSL-1">a</t>
+               <t id="p6-s2-t4">senior</t>
+               <emph>
+                  <t id="p6-s2-t5" type="GSL-1">Science</t>
+               </emph>
+               <t id="p6-s2-t6" type="Coxhead-AWL-6,AR-AWL-6a">editor</t>
+               <punc>,</punc>
+               <connector id="p6-s2-c1"
+                          type="attribution"
+                          info="p6-s2-t1:p6-s2-t6,p6-s2-t8:p6-s2-t33">
+                  <t id="p6-s2-t7" type="GSL-1">suggested</t>
+               </connector>
+               <anaphor id="p6-s2-a1" info="p6-s1-t1:p6-s1-t2">
+                  <t id="p6-s2-t8" type="GSL-1">such</t>
+                  <t id="p6-s2-t9">robots</t>
+               </anaphor>
+               <t id="p6-s2-t10" type="GSL-1">might</t>
+               <t id="p6-s2-t11" type="GSL-1">be</t>
+               <t id="p6-s2-t12" type="GSL-1">put</t>
+               <t id="p6-s2-t13" type="GSL-1">in</t>
+               <t id="p6-s2-t14" type="GSL-1">place</t>
+               <punc>“</punc>
+               <t id="p6-s2-t15" type="GSL-1">through</t>
+               <t id="p6-s2-t16" type="GSL-1">a</t>
+               <t id="p6-s2-t17" type="Coxhead-AWL-9,AR-AWL-9a">confined</t>
+               <t id="p6-s2-t18">passageway</t>
+               <punc>,</punc>
+               <t id="p6-s2-t19" type="GSL-1">such</t>
+               <t id="p6-s2-t20" type="GSL-1">as</t>
+               <t id="p6-s2-t21" type="GSL-1">a</t>
+               <t id="p6-s2-t22" type="Coxhead-AWL-10,AR-AWL-10">collapsed</t>
+               <t id="p6-s2-t23" type="GSL-1">building</t>
+               <punc>,</punc>
+               <connector id="p6-s2-c2"
+                          type="temporal sequence"
+                          info="p6-s2-t8:p6-s2-t23,p6-s2-t26:p6-s2-t33">
+                  <t id="p6-s2-t24" type="GSL-1">after</t>
+               </connector>
+               <t id="p6-s2-t25" type="GSL-1">which</t>
+               <t id="p6-s2-t26" type="GSL-1">they</t>
+               <t id="p6-s2-t27" type="GSL-1">would</t>
+               <t id="p6-s2-t28" type="Coxhead-AWL-10,AR-AWL-10">assemble</t>
+               <t id="p6-s2-t29" type="GSL-1">into</t>
+               <anaphor id="p6-s2-a2" info="p6-s2-t8:p6-s2-t9">
+                  <t id="p6-s2-t30" type="GSL-1">their</t>
+               </anaphor>
+               <t id="p6-s2-t31" type="Coxhead-AWL-2,AR-AWL-2a">final</t>
+               <t id="p6-s2-t32" type="GSL-1">form</t>
+               <t id="p6-s2-t33">autonomously</t>
+               <punc>”</punc>
+               <punc>.</punc>
+            </sentence>
+         </paragraph>
+         <paragraph id="p7">
+            <sentence par-function="topic" id="p7-s1">
+               <t id="p7-s1-t1" type="GSL-1">The</t>
+               <t id="p7-s1-t2" type="GSL-2">folding</t>
+               <t id="p7-s1-t3" type="GSL-2">pattern</t>
+               <t id="p7-s1-t4" type="GSL-1">studied</t>
+               <t id="p7-s1-t5" type="GSL-1">by</t>
+               <t id="p7-s1-t6" type="GSL-1">the</t>
+               <t id="p7-s1-t7">Cornell</t>
+               <punc>-</punc>
+               <t id="p7-s1-t8" type="GSL-1">led</t>
+               <t id="p7-s1-t9" type="Coxhead-AWL-1,AR-AWL-1b">research</t>
+               <t id="p7-s1-t10" type="Coxhead-AWL-9,AR-AWL-9b">team</t>
+               <t id="p7-s1-t11" type="GSL-1">is</t>
+               <t id="p7-s1-t12" type="GSL-1">well</t>
+               <punc>-</punc>
+               <t id="p7-s1-t13" type="GSL-1">known</t>
+               <t id="p7-s1-t14" type="GSL-1">in</t>
+               <t id="p7-s1-t15">origami</t>
+               <t id="p7-s1-t16" type="GSL-1">as</t>
+               <term id="p7-s1-e1" info="p7-s1-t1:p7-s1-t10">
+                  <t id="p7-s1-t17">Miura-ori</t>
+               </term>
+               <punc>,</punc>
+               <t id="p7-s1-t18" type="GSL-1">whose</t>
+               <t id="p7-s1-t19" type="GSL-1">unusual</t>
+               <t id="p7-s1-t20" type="GSL-2">engineering</t>
+               <t id="p7-s1-t21" type="GSL-1">properties</t>
+               <t id="p7-s1-t22" type="GSL-1">caught</t>
+               <t id="p7-s1-t23" type="GSL-1">the</t>
+               <t id="p7-s1-t24" type="GSL-2">attention</t>
+               <t id="p7-s1-t25" type="GSL-1">of</t>
+               <t id="p7-s1-t26" type="Coxhead-AWL-9,AR-AWL-9b">team</t>
+               <t id="p7-s1-t27" type="GSL-1">member</t>
+               <t id="p7-s1-t28">Chris</t>
+               <t id="p7-s1-t29">Santangelo</t>
+               <t id="p7-s1-t30" type="GSL-1">of</t>
+               <t id="p7-s1-t31" type="GSL-1">the</t>
+               <t id="p7-s1-t32" type="GSL-1">University</t>
+               <t id="p7-s1-t33" type="GSL-1">of</t>
+               <t id="p7-s1-t34">Massachusetts</t>
+               <t id="p7-s1-t35">Amherst</t>
+               <punc>.</punc>
+            </sentence>
+         </paragraph>
+         <paragraph id="p8">
+            <sentence par-function="topic" id="p8-s1">
+               <t id="p8-s1-t1">Cornell</t>
+               <t id="p8-s1-t2" type="GSL-1">University</t>
+               <t id="p8-s1-t3" type="GSL-1">lead</t>
+               <t id="p8-s1-t4" type="Coxhead-AWL-6,AR-AWL-6a">author</t>
+               <t id="p8-s1-t5">Jesse</t>
+               <t id="p8-s1-t6">Silverberg</t>
+               <t id="p8-s1-t7" type="Coxhead-AWL-3,AR-AWL-3a">commented</t>
+               <t id="p8-s1-t8" type="GSL-1">on</t>
+               <t id="p8-s1-t9" type="Coxhead-AWL-2,AR-AWL-2b">potential</t>
+               <t id="p8-s1-t10" type="GSL-1">of</t>
+               <t id="p8-s1-t11">origami</t>
+               <punc>-</punc>
+               <t id="p8-s1-t12" type="GSL-1">based</t>
+               <t id="p8-s1-t13" type="GSL-2">engineering</t>
+               <punc>:</punc>
+               <punc>“</punc>
+               <t id="p8-s1-t14" type="GSL-1">When</t>
+               <t id="p8-s1-t15" type="Coxhead-AWL-6,AR-AWL-6b">incorporated</t>
+               <t id="p8-s1-t16" type="GSL-1">into</t>
+               <t id="p8-s1-t17" type="GSL-1">more</t>
+               <t id="p8-s1-t18" type="Coxhead-AWL-2,AR-AWL-2a">complex</t>
+               <t id="p8-s1-t19" type="Coxhead-AWL-9,AR-AWL-9a">devices</t>
+               <punc>,</punc>
+               <anaphor id="p8-s1-a1" info="p8-s1-t11:p8-s1-t13">
+                  <t id="p8-s1-t20" type="GSL-1">these</t>
+                  <t id="p8-s1-t21" type="GSL-1">materials</t>
+               </anaphor>
+               <t id="p8-s1-t22" type="GSL-1">will</t>
+               <t id="p8-s1-t23" type="Coxhead-AWL-5,AR-AWL-5a">enable</t>
+               <t id="p8-s1-t24" type="GSL-1">on</t>
+               <punc>-</punc>
+               <t id="p8-s1-t25" type="GSL-1">the</t>
+               <punc>-</punc>
+               <t id="p8-s1-t26" type="GSL-1">fly</t>
+               <t id="p8-s1-t27" type="Coxhead-AWL-6,AR-AWL-6b">transformation</t>
+               <t id="p8-s1-t28" type="GSL-1">of</t>
+               <t id="p8-s1-t29" type="GSL-2">mechanical</t>
+               <t id="p8-s1-t30" type="Coxhead-AWL-1,AR-AWL-1a">function</t>
+               <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p8-s2">
+               <t id="p8-s2-t1" type="GSL-1">We</t>
+               <t id="p8-s2-t2">envision</t>
+               <t id="p8-s2-t3" type="GSL-2">combining</t>
+               <anaphor id="p8-s2-a1" info="p8-s1-t20:p8-s1-t21">
+                  <t id="p8-s2-t4" type="GSL-1">these</t>
+                  <t id="p8-s2-t5">origami</t>
+                  <punc>-</punc>
+                  <t id="p8-s2-t6">inspired</t>
+                  <t id="p8-s2-t7" type="GSL-1">materials</t>
+               </anaphor>
+               <t id="p8-s2-t8" type="GSL-1">with</t>
+               <t id="p8-s2-t9" type="Coxhead-AWL-2,AR-AWL-2a">computer</t>
+               <punc>-</punc>
+               <t id="p8-s2-t10" type="GSL-1">controlled</t>
+               <t id="p8-s2-t11">actuators</t>
+               <t id="p8-s2-t12" type="GSL-1">to</t>
+               <t id="p8-s2-t13" type="GSL-1">build</t>
+               <t id="p8-s2-t14" type="GSL-1">more</t>
+               <t id="p8-s2-t15" type="Coxhead-AWL-2,AR-AWL-2a">complex</t>
+               <t id="p8-s2-t16" type="GSL-1">machines</t>
+               <punc>,</punc>
+               <t id="p8-s2-t17" type="GSL-1">such</t>
+               <t id="p8-s2-t18" type="GSL-1">as</t>
+               <t id="p8-s2-t19" type="GSL-1">hardening</t>
+               <t id="p8-s2-t20" type="GSL-2">shells</t>
+               <punc>,</punc>
+               <t id="p8-s2-t21" type="GSL-2">locked</t>
+               <punc>-</punc>
+               <t id="p8-s2-t22" type="GSL-1">in</t>
+               <t id="p8-s2-t23" type="GSL-1">joints</t>
+               <t id="p8-s2-t24" type="GSL-1">and</t>
+               <t id="p8-s2-t25">deployable</t>
+               <t id="p8-s2-t26">barriers</t>
+               <punc>;</punc>
+               <connector id="p8-s2-c1"
+                          type="temporal sequence"
+                          info="p8-s2-t1:p8-s2-t26,p8-s2-t29:p8-s2-t56">
+                  <t id="p8-s2-t27" type="GSL-1">and</t>
+                  <t id="p8-s2-t28" type="Coxhead-AWL-7,AR-AWL-7b">ultimately</t>
+               </connector>
+               <punc>,</punc>
+               <anaphor id="p8-s2-a2" info="p8-s2-t4:p8-s2-t7">
+                  <t id="p8-s2-t29" type="GSL-1">this</t>
+                  <t id="p8-s2-t30">transformer</t>
+                  <t id="p8-s2-t31" type="Coxhead-AWL-3,AR-AWL-3b">technology</t>
+               </anaphor>
+               <t id="p8-s2-t32" type="GSL-1">will</t>
+               <t id="p8-s2-t33" type="Coxhead-AWL-9,AR-AWL-9b">revolutionize</t>
+               <t id="p8-s2-t34" type="GSL-1">the</t>
+               <t id="p8-s2-t35" type="GSL-1">way</t>
+               <t id="p8-s2-t36" type="GSL-1">we</t>
+               <t id="p8-s2-t37" type="GSL-1">think</t>
+               <t id="p8-s2-t38" type="GSL-1">about</t>
+               <t id="p8-s2-t39" type="GSL-1">materials</t>
+               <punc>,</punc>
+               <t id="p8-s2-t40" type="GSL-1">moving</t>
+               <anaphor id="p8-s2-a3" info="p8-s2-t39:p8-s2-t39">
+                  <t id="p8-s2-t41" type="GSL-1">them</t>
+               </anaphor>
+               <t id="p8-s2-t42" type="GSL-1">beyond</t>
+               <anaphor id="p8-s2-a4" info="p8-s2-t41:p8-s2-t41">
+                  <t id="p8-s2-t43" type="GSL-1">their</t>
+               </anaphor>
+               <t id="p8-s2-t44" type="GSL-1">current</t>
+               <t id="p8-s2-t45">static</t>
+               <t id="p8-s2-t46" type="GSL-1">form</t>
+               <punc>,</punc>
+               <t id="p8-s2-t47" type="GSL-1">and</t>
+               <t id="p8-s2-t48" type="Coxhead-AWL-6,AR-AWL-6b">revealing</t>
+               <t id="p8-s2-t49" type="GSL-1">more</t>
+               <t id="p8-s2-t50">functionality</t>
+               <t id="p8-s2-t51" type="GSL-1">than</t>
+               <t id="p8-s2-t52" type="GSL-1">what</t>
+               <t id="p8-s2-t53" type="GSL-2">originally</t>
+               <t id="p8-s2-t54" type="GSL-1">meets</t>
+               <t id="p8-s2-t55" type="GSL-1">the</t>
+               <t id="p8-s2-t56" type="GSL-1">eye</t>
+               <punc>”</punc>
+               <punc>.</punc>
+            </sentence>
+         </paragraph>
+      </body>
+   </document>
+   <document id="population-growth"
+             path="../pipeline/5-detail-and-finish/in/population-growth.xml">
       <title>Environmental Limits to Population Growth</title>
       <citation>OpenStax College, Biology. OpenStax College. 30 May 2013. Retrieved from 
         http://cnx.org/content/col11448/latest/ on 03 Oct 2016.</citation>
       <url>http://cnx.org/content/col11448/latest/</url>
+      <info type="arise">
+         <arise-info book="2" section="3" unit="1" firstpage="37" lastpage="38"/>
+      </info>
       <body>
          <paragraph id="p01">
             <sentence par-function="topic" id="p01-s01">
@@ -16071,10 +16968,19 @@
          </paragraph>
       </body>
    </document>
-   <document>
+   <document id="robot-feedback"
+             path="../pipeline/5-detail-and-finish/in/robot-feedback.xml">
       <title>Robots Show Us How to Teach Them: Feedback from Robots Shapes Tutoring Behavior during Action Learning (Extract)</title>
       <citation>Vollmer A-L, Mühlig M, Steil JJ, Pitsch K, Fritsch J, Rohlfing KJ, et al. (2014) Robots Show Us How to Teach Them: Feedback from Robots Shapes Tutoring Behavior during Action Learning. PLoS ONE 9(3): e91349. doi:10.1371/journal.pone.0091349</citation>
       <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091349</url>
+      <info type="arise">
+         <arise-info book="1"
+                     section="2"
+                     unit="3"
+                     part="1"
+                     item="B,D"
+                     firstpage="19"/>
+      </info>
       <body>
          <paragraph id="p01">
             <sentence par-function="topic" id="p01-s01">
@@ -16600,10 +17506,19 @@
          </paragraph>
       </body>
    </document>
-   <document>
+   <document id="scope-of-biology"
+             path="../pipeline/5-detail-and-finish/in/scope-of-biology.xml">
       <title>The Scope of Biology (Extract)</title>
       <citation>OpenStax College, Biology. OpenStax College. Retrieved from http://cnx.org/content/col11448/latest/ 30 May 2013.</citation>
       <url>http://cnx.org/content/col11448/latest/</url>
+      <info type="arise">
+         <arise-info book="2"
+                     section="2"
+                     unit="6"
+                     part="1"
+                     item="A"
+                     firstpage="28"/>
+      </info>
       <body>
          <paragraph id="p01">
             <sentence par-function="topic" id="p01-s01">
@@ -16846,11 +17761,15 @@
          </paragraph>
       </body>
    </document>
-   <document>
+   <document id="size-mass-illusion"
+             path="../pipeline/5-detail-and-finish/in/size-mass-illusion.xml">
       <title>Effects of Varying Gravity Levels in Parabolic Flight on the Size-Mass Illusion</title>
       <citation>Clément G (2014) Effects of Varying Gravity Levels in Parabolic Flight on the Size-Mass Illusion. PLoS ONE 9(6): e99188. doi:10.1371/journal.pone.0099188 
         Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0099188 on 21 Dec 2016.</citation>
       <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0099188</url>
+      <info type="arise">
+         <arise-info book="1" section="4" unit="5" firstpage="58" lastpage="59"/>
+      </info>
       <body>
          <paragraph id="p01">
             <sentence par-function="" id="p01-s01">
@@ -18016,10 +18935,14 @@
          </paragraph>
       </body>
    </document>
-   <document>
+   <document id="texting-and-walking"
+             path="../pipeline/5-detail-and-finish/in/texting-and-walking.xml">
       <title>Gait Pattern Alterations during Walking, Texting and Walking and Texting during Cognitively Distractive Tasks while Negotiating Common Pedestrian Obstacles (Extract)</title>
       <citation>Licence S, Smith R, McGuigan MP, Earnest CP (2015) Gait Pattern Alterations during Walking, Texting and Walking and Texting during Cognitively Distractive Tasks while Negotiating Common Pedestrian Obstacles. PLoS ONE 10(7): e0133281. doi:10.1371/journal.pone.0133281</citation>
       <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133281</url>
+      <info type="arise">
+         <arise-info book="2" section="1" unit="1" firstpage="9"/>
+      </info>
       <body>
          <paragraph id="p01">
             <sentence par-function="" id="p01-s01">
@@ -18443,11 +19366,15 @@
          </paragraph>
       </body>
    </document>
-   <document>
+   <document id="water-filters"
+             path="../pipeline/5-detail-and-finish/in/water-filters.xml">
       <title>Assessing the Impact of Water Filters and Improved Cook Stoves on Drinking Water Quality and Household Air Pollution: A Randomised Controlled Trial in Rwanda</title>
       <citation>Rosa G, Majorin F, Boisson S, Barstow C, Johnson M, et al (2014) Assessing the Impact of Water Filters and Improved Cook Stoves on Drinking Water Quality and Household Air Pollution: A Randomised Controlled Trial in Rwanda. PLoS ONE 9(3):e91011. doi:10.1371/journal/pone.0091011
         Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091011 on 04 Oct 2016.</citation>
       <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091011</url>
+      <info type="arise">
+         <arise-info book="2" section="4" unit="6" firstpage="62"/>
+      </info>
       <body>
          <paragraph id="p01">
             <sentence par-function="topic" id="p01-s01">

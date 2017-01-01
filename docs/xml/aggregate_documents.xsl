@@ -24,7 +24,16 @@
     
     <xsl:template match="file">
         <xsl:variable name="path" select="@path"/>
-        <xsl:apply-templates select="document($path)/document"/>
+        <xsl:variable name="id" select="@name"/>
+        <xsl:element name="document">
+            <xsl:attribute name="id">
+                <xsl:value-of select="$id"/>
+            </xsl:attribute>
+            <xsl:attribute name="path">
+                <xsl:value-of select="$path"/>
+            </xsl:attribute>
+            <xsl:apply-templates select="document($path)/document/*"/>
+        </xsl:element>
     </xsl:template>
     
     <xsl:template match="@*|node()">
