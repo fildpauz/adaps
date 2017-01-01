@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Electronics</title>
+    <citation>Simple English Wikipedia: “Electronics”. Retrieved from http://simple.wikipedia.org/wiki/Electronics on 17 Feb 2015.</citation>
+    <url>http://simple.wikipedia.org/wiki/Electronics</url>
+    <info type="arise">
+        <arise-info book="1"
+                    section="2"
+                    unit="2"
+                    part="1"
+                    item="A"
+                    firstpage="17"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01">Pulse</t>
+                <t id="p01-s01-t02">circuits</t>
+                <t id="p01-s01-t03">are</t>
+                <t id="p01-s01-t04">used</t>
+                <t id="p01-s01-t05">for</t>
+                <t id="p01-s01-t06">signals</t>
+                <t id="p01-s01-t07">that</t>
+                <t id="p01-s01-t08">require</t>
+                <t id="p01-s01-t09">rapid</t>
+                <t id="p01-s01-t10">pulses</t>
+                <t id="p01-s01-t11">of</t>
+                <t id="p01-s01-t12">energy</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01">For</t>
+                <t id="p01-s02-t02">example</t>
+                <punc>,</punc>
+                <t id="p01-s02-t03">aircraft</t>
+                <t id="p01-s02-t04">and</t>
+                <t id="p01-s02-t05">ground</t>
+                <t id="p01-s02-t06">radar</t>
+                <t id="p01-s02-t07">equipment</t>
+                <t id="p01-s02-t08">work</t>
+                <t id="p01-s02-t09">by</t>
+                <t id="p01-s02-t10">using</t>
+                <t id="p01-s02-t11">pulse</t>
+                <t id="p01-s02-t12">circuits</t>
+                <t id="p01-s02-t13">to</t>
+                <t id="p01-s02-t14">create</t>
+                <t id="p01-s02-t15">and</t>
+                <t id="p01-s02-t16">send</t>
+                <t id="p01-s02-t17">high</t>
+                <t id="p01-s02-t18">powered</t>
+                <t id="p01-s02-t19">bursts</t>
+                <t id="p01-s02-t20">of</t>
+                <t id="p01-s02-t21">radio</t>
+                <t id="p01-s02-t22">energy</t>
+                <t id="p01-s02-t23">from</t>
+                <t id="p01-s02-t24">radar</t>
+                <t id="p01-s02-t25">transmitters</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s03">
+                <t id="p01-s03-t01">Special</t>
+                <t id="p01-s03-t02">antennas</t>
+                <punc>(</punc>
+                <t id="p01-s03-t03">called</t>
+                <punc>“</punc>
+                <t id="p01-s03-t04">beam</t>
+                <punc>”</punc>
+                <t id="p01-s03-t05">or</t>
+                <punc>“</punc>
+                <t id="p01-s03-t06">dish</t>
+                <punc>”</punc>
+                <t id="p01-s03-t07">antennas</t>
+                <t id="p01-s03-t08">because</t>
+                <t id="p01-s03-t09">of</t>
+                <t id="p01-s03-t10">their</t>
+                <t id="p01-s03-t11">shape</t>
+                <punc>)</punc>
+                <t id="p01-s03-t12">are</t>
+                <t id="p01-s03-t13">used</t>
+                <t id="p01-s03-t14">to</t>
+                <t id="p01-s03-t15">send</t>
+                <punc>(</punc>
+                <punc>“</punc>
+                <t id="p01-s03-t16">transmit</t>
+                <punc>”</punc>
+                <punc>)</punc>
+                <t id="p01-s03-t17">the</t>
+                <t id="p01-s03-t18">high</t>
+                <t id="p01-s03-t19">powered</t>
+                <t id="p01-s03-t20">bursts</t>
+                <t id="p01-s03-t21">in</t>
+                <t id="p01-s03-t22">the</t>
+                <t id="p01-s03-t23">direction</t>
+                <t id="p01-s03-t24">the</t>
+                <t id="p01-s03-t25">beam</t>
+                <t id="p01-s03-t26">or</t>
+                <t id="p01-s03-t27">dish</t>
+                <t id="p01-s03-t28">antenna</t>
+                <t id="p01-s03-t29">is</t>
+                <t id="p01-s03-t30">pointed</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence id="p02-s01">
+                <t id="p02-s01-t01">The</t>
+                <t id="p02-s01-t02">radar</t>
+                <t id="p02-s01-t03">transmitter's</t>
+                <t id="p02-s01-t04">pulses</t>
+                <t id="p02-s01-t05">or</t>
+                <t id="p02-s01-t06">bursts</t>
+                <t id="p02-s01-t07">of</t>
+                <t id="p02-s01-t08">radio</t>
+                <t id="p02-s01-t09">energy</t>
+                <t id="p02-s01-t10">hit</t>
+                <t id="p02-s01-t11">and</t>
+                <t id="p02-s01-t12">bounce</t>
+                <t id="p02-s01-t13">back</t>
+                <punc>(</punc>
+                <t id="p02-s01-t14">they</t>
+                <t id="p02-s01-t15">are</t>
+                <punc>“</punc>
+                <t id="p02-s01-t16">reflected</t>
+                <punc>”</punc>
+                <punc>)</punc>
+                <t id="p02-s01-t17">from</t>
+                <t id="p02-s01-t18">hard</t>
+                <t id="p02-s01-t19">and</t>
+                <t id="p02-s01-t20">metallic</t>
+                <t id="p02-s01-t21">objects</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s02">
+                <t id="p02-s02-t01">Hard</t>
+                <t id="p02-s02-t02">objects</t>
+                <t id="p02-s02-t03">are</t>
+                <t id="p02-s02-t04">things</t>
+                <t id="p02-s02-t05">like</t>
+                <t id="p02-s02-t06">buildings</t>
+                <punc>,</punc>
+                <t id="p02-s02-t07">hills</t>
+                <punc>,</punc>
+                <t id="p02-s02-t08">and</t>
+                <t id="p02-s02-t09">mountains</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s03">
+                <t id="p02-s03-t01">Metallic</t>
+                <t id="p02-s03-t02">objects</t>
+                <t id="p02-s03-t03">are</t>
+                <t id="p02-s03-t04">anything</t>
+                <t id="p02-s03-t05">made</t>
+                <t id="p02-s03-t06">of</t>
+                <t id="p02-s03-t07">metal</t>
+                <punc>,</punc>
+                <t id="p02-s03-t08">like</t>
+                <t id="p02-s03-t09">aircraft</t>
+                <punc>,</punc>
+                <t id="p02-s03-t10">bridges</t>
+                <punc>,</punc>
+                <t id="p02-s03-t11">or</t>
+                <t id="p02-s03-t12">even</t>
+                <t id="p02-s03-t13">objects</t>
+                <t id="p02-s03-t14">in</t>
+                <t id="p02-s03-t15">space</t>
+                <punc>,</punc>
+                <t id="p02-s03-t16">like</t>
+                <t id="p02-s03-t17">satellites</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s04">
+                <t id="p02-s04-t01">The</t>
+                <t id="p02-s04-t02">reflected</t>
+                <t id="p02-s04-t03">radar</t>
+                <t id="p02-s04-t04">energy</t>
+                <t id="p02-s04-t05">is</t>
+                <t id="p02-s04-t06">detected</t>
+                <t id="p02-s04-t07">by</t>
+                <t id="p02-s04-t08">radar</t>
+                <t id="p02-s04-t09">pulse</t>
+                <t id="p02-s04-t10">receivers</t>
+                <t id="p02-s04-t11">which</t>
+                <t id="p02-s04-t12">use</t>
+                <t id="p02-s04-t13">both</t>
+                <t id="p02-s04-t14">pulse</t>
+                <t id="p02-s04-t15">and</t>
+                <t id="p02-s04-t16">digital</t>
+                <t id="p02-s04-t17">circuits</t>
+                <t id="p02-s04-t18">together</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s05">
+                <t id="p02-s05-t01">The</t>
+                <t id="p02-s05-t02">pulse</t>
+                <t id="p02-s05-t03">and</t>
+                <t id="p02-s05-t04">digital</t>
+                <t id="p02-s05-t05">circuits</t>
+                <t id="p02-s05-t06">in</t>
+                <t id="p02-s05-t07">radar</t>
+                <t id="p02-s05-t08">pulse</t>
+                <t id="p02-s05-t09">receivers</t>
+                <t id="p02-s05-t10">are</t>
+                <t id="p02-s05-t11">used</t>
+                <t id="p02-s05-t12">to</t>
+                <t id="p02-s05-t13">show</t>
+                <t id="p02-s05-t14">the</t>
+                <t id="p02-s05-t15">location</t>
+                <t id="p02-s05-t16">and</t>
+                <t id="p02-s05-t17">distance</t>
+                <t id="p02-s05-t18">of</t>
+                <t id="p02-s05-t19">objects</t>
+                <t id="p02-s05-t20">which</t>
+                <t id="p02-s05-t21">have</t>
+                <t id="p02-s05-t22">reflected</t>
+                <t id="p02-s05-t23">the</t>
+                <t id="p02-s05-t24">radar</t>
+                <t id="p02-s05-t25">transmitter's</t>
+                <t id="p02-s05-t26">high</t>
+                <t id="p02-s05-t27">powered</t>
+                <t id="p02-s05-t28">pulses</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

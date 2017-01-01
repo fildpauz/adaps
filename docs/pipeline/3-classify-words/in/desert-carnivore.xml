@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Finding a Fox: An Evaluation of Survey Methods to Estimate Abundance of a Small Desert Carnivore.</title>
+    <citation>Dempsey SJ, Gese EM, Kluever BM (2014) Finding a Fox: An Evaluation of Survey Methods to Estimate Abundance of a Small Desert Carnivore. PLoS ONE 9(8): e105873. doi:10.1371/journal.pone.0105873</citation>
+    <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0105873</url>
+    <info type="arise">
+        <arise-info book="1"
+                    section="2"
+                    unit="4"
+                    part="1"
+                    item="A,B"
+                    firstpage="21"
+                    lastpage="22"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01">Populations</t>
+                <t id="p01-s01-t02">of</t>
+                <t id="p01-s01-t03">large</t>
+                <t id="p01-s01-t04">and</t>
+                <t id="p01-s01-t05">small</t>
+                <t id="p01-s01-t06">carnivores</t>
+                <t id="p01-s01-t07">are</t>
+                <t id="p01-s01-t08">threatened</t>
+                <t id="p01-s01-t09">or</t>
+                <t id="p01-s01-t10">imperiled</t>
+                <t id="p01-s01-t11">throughout</t>
+                <t id="p01-s01-t12">the</t>
+                <t id="p01-s01-t13">world</t>
+                <punc>[</punc>
+                <t id="p01-s01-t14">1</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01">With</t>
+                <t id="p01-s02-t02">increasing</t>
+                <t id="p01-s02-t03">human</t>
+                <t id="p01-s02-t04">populations</t>
+                <t id="p01-s02-t05">and</t>
+                <t id="p01-s02-t06">subsequent</t>
+                <t id="p01-s02-t07">habitat</t>
+                <t id="p01-s02-t08">loss</t>
+                <t id="p01-s02-t09">and</t>
+                <t id="p01-s02-t10">fragmentation</t>
+                <punc>,</punc>
+                <t id="p01-s02-t11">declines</t>
+                <t id="p01-s02-t12">in</t>
+                <t id="p01-s02-t13">natural</t>
+                <t id="p01-s02-t14">prey</t>
+                <punc>,</punc>
+                <t id="p01-s02-t15">increased</t>
+                <t id="p01-s02-t16">human</t>
+                <t id="p01-s02-t17">persecution</t>
+                <t id="p01-s02-t18">and</t>
+                <t id="p01-s02-t19">illegal</t>
+                <t id="p01-s02-t20">poaching</t>
+                <punc>,</punc>
+                <t id="p01-s02-t21">many</t>
+                <t id="p01-s02-t22">carnivore</t>
+                <t id="p01-s02-t23">species</t>
+                <t id="p01-s02-t24">have</t>
+                <t id="p01-s02-t25">declined</t>
+                <t id="p01-s02-t26">in</t>
+                <t id="p01-s02-t27">number</t>
+                <t id="p01-s02-t28">and</t>
+                <t id="p01-s02-t29">now</t>
+                <t id="p01-s02-t30">occupy</t>
+                <t id="p01-s02-t31">a</t>
+                <t id="p01-s02-t32">fragment</t>
+                <t id="p01-s02-t33">of</t>
+                <t id="p01-s02-t34">their</t>
+                <t id="p01-s02-t35">former</t>
+                <t id="p01-s02-t36">range</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s03">
+                <t id="p01-s03-t01">Paramount</t>
+                <t id="p01-s03-t02">to</t>
+                <t id="p01-s03-t03">species</t>
+                <t id="p01-s03-t04">management</t>
+                <t id="p01-s03-t05">and</t>
+                <t id="p01-s03-t06">conservation</t>
+                <t id="p01-s03-t07">is</t>
+                <t id="p01-s03-t08">knowledge</t>
+                <t id="p01-s03-t09">about</t>
+                <t id="p01-s03-t10">the</t>
+                <t id="p01-s03-t11">status</t>
+                <t id="p01-s03-t12">and</t>
+                <t id="p01-s03-t13">distribution</t>
+                <t id="p01-s03-t14">of</t>
+                <t id="p01-s03-t15">many</t>
+                <t id="p01-s03-t16">carnivore</t>
+                <t id="p01-s03-t17">species</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s04">
+                <t id="p01-s04-t01">A</t>
+                <t id="p01-s04-t02">question</t>
+                <t id="p01-s04-t03">often</t>
+                <t id="p01-s04-t04">facing</t>
+                <t id="p01-s04-t05">wildlife</t>
+                <t id="p01-s04-t06">agencies</t>
+                <t id="p01-s04-t07">and</t>
+                <t id="p01-s04-t08">conservation</t>
+                <t id="p01-s04-t09">groups</t>
+                <t id="p01-s04-t10">is</t>
+                <t id="p01-s04-t11">how</t>
+                <t id="p01-s04-t12">many</t>
+                <t id="p01-s04-t13">animals</t>
+                <t id="p01-s04-t14">are</t>
+                <t id="p01-s04-t15">there</t>
+                <t id="p01-s04-t16">and</t>
+                <t id="p01-s04-t17">what</t>
+                <t id="p01-s04-t18">is</t>
+                <t id="p01-s04-t19">the</t>
+                <t id="p01-s04-t20">population</t>
+                <t id="p01-s04-t21">trend</t>
+                <punc>?</punc>
+            </sentence>
+            <sentence id="p01-s05">
+                <t id="p01-s05-t01">However</t>
+                <punc>,</punc>
+                <t id="p01-s05-t02">many</t>
+                <t id="p01-s05-t03">carnivore</t>
+                <t id="p01-s05-t04">species</t>
+                <t id="p01-s05-t05">are</t>
+                <t id="p01-s05-t06">difficult</t>
+                <t id="p01-s05-t07">to</t>
+                <t id="p01-s05-t08">survey</t>
+                <t id="p01-s05-t09">due</t>
+                <t id="p01-s05-t10">to</t>
+                <t id="p01-s05-t11">their</t>
+                <t id="p01-s05-t12">low</t>
+                <t id="p01-s05-t13">densities</t>
+                <punc>,</punc>
+                <t id="p01-s05-t14">are</t>
+                <t id="p01-s05-t15">generally</t>
+                <t id="p01-s05-t16">nocturnal</t>
+                <t id="p01-s05-t17">and</t>
+                <t id="p01-s05-t18">elusive</t>
+                <punc>,</punc>
+                <t id="p01-s05-t19">and</t>
+                <t id="p01-s05-t20">wary</t>
+                <t id="p01-s05-t21">of</t>
+                <t id="p01-s05-t22">humans</t>
+                <punc>[</punc>
+                <t id="p01-s05-t23">2</t>
+                <punc>]</punc>
+                <punc>–</punc>
+                <punc>[</punc>
+                <t id="p01-s05-t24">6</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence id="p02-s01">
+                <t id="p02-s01-t01">Kit</t>
+                <t id="p02-s01-t02">foxes</t>
+                <punc>(</punc>
+                <t id="p02-s01-t03">Vulpes</t>
+                <t id="p02-s01-t04">macrotis</t>
+                <punc>)</punc>
+                <t id="p02-s01-t05">are</t>
+                <t id="p02-s01-t06">a</t>
+                <t id="p02-s01-t07">slim</t>
+                <punc>,</punc>
+                <t id="p02-s01-t08">small</t>
+                <t id="p02-s01-t09">canid</t>
+                <punc>(</punc>
+                <t id="p02-s01-t10">1</t>
+                <punc>–</punc>
+                <t id="p02-s01-t11">3</t>
+                <t id="p02-s01-t12">kg</t>
+                <t id="p02-s01-t13">body</t>
+                <t id="p02-s01-t14">mass</t>
+                <punc>)</punc>
+                <t id="p02-s01-t15">with</t>
+                <t id="p02-s01-t16">ears</t>
+                <t id="p02-s01-t17">that</t>
+                <t id="p02-s01-t18">are</t>
+                <t id="p02-s01-t19">relatively</t>
+                <t id="p02-s01-t20">larger</t>
+                <t id="p02-s01-t21">than</t>
+                <t id="p02-s01-t22">those</t>
+                <t id="p02-s01-t23">of</t>
+                <t id="p02-s01-t24">other</t>
+                <t id="p02-s01-t25">North</t>
+                <t id="p02-s01-t26">American</t>
+                <t id="p02-s01-t27">canids</t>
+                <punc>,</punc>
+                <t id="p02-s01-t28">are</t>
+                <t id="p02-s01-t29">considered</t>
+                <t id="p02-s01-t30">to</t>
+                <t id="p02-s01-t31">be</t>
+                <t id="p02-s01-t32">monestrus</t>
+                <t id="p02-s01-t33">and</t>
+                <t id="p02-s01-t34">socially</t>
+                <t id="p02-s01-t35">monogamous</t>
+                <punc>,</punc>
+                <t id="p02-s01-t36">and</t>
+                <t id="p02-s01-t37">are</t>
+                <t id="p02-s01-t38">a</t>
+                <t id="p02-s01-t39">dietary</t>
+                <t id="p02-s01-t40">generalist</t>
+                <t id="p02-s01-t41">feeding</t>
+                <t id="p02-s01-t42">on</t>
+                <t id="p02-s01-t43">rodents</t>
+                <punc>,</punc>
+                <t id="p02-s01-t44">insects</t>
+                <punc>,</punc>
+                <t id="p02-s01-t45">lagomorphs</t>
+                <punc>,</punc>
+                <t id="p02-s01-t46">ground</t>
+                <punc>-</punc>
+                <t id="p02-s01-t47">nesting</t>
+                <t id="p02-s01-t48">birds</t>
+                <punc>,</punc>
+                <t id="p02-s01-t49">and</t>
+                <t id="p02-s01-t50">reptiles</t>
+                <punc>[</punc>
+                <t id="p02-s01-t51">7</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s02">
+                <t id="p02-s02-t01">Historically</t>
+                <punc>,</punc>
+                <t id="p02-s02-t02">kit</t>
+                <t id="p02-s02-t03">foxes</t>
+                <t id="p02-s02-t04">were</t>
+                <t id="p02-s02-t05">once</t>
+                <t id="p02-s02-t06">abundant</t>
+                <t id="p02-s02-t07">and</t>
+                <t id="p02-s02-t08">distributed</t>
+                <t id="p02-s02-t09">throughout</t>
+                <t id="p02-s02-t10">the</t>
+                <t id="p02-s02-t11">desert</t>
+                <t id="p02-s02-t12">and</t>
+                <t id="p02-s02-t13">semi</t>
+                <punc>-</punc>
+                <t id="p02-s02-t14">arid</t>
+                <t id="p02-s02-t15">regions</t>
+                <t id="p02-s02-t16">of</t>
+                <t id="p02-s02-t17">southwestern</t>
+                <t id="p02-s02-t18">North</t>
+                <t id="p02-s02-t19">America</t>
+                <punc>,</punc>
+                <t id="p02-s02-t20">ranging</t>
+                <t id="p02-s02-t21">from</t>
+                <t id="p02-s02-t22">Idaho</t>
+                <t id="p02-s02-t23">to</t>
+                <t id="p02-s02-t24">central</t>
+                <t id="p02-s02-t25">Mexico</t>
+                <punc>[</punc>
+                <t id="p02-s02-t26">7</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s03">
+                <t id="p02-s03-t01">Their</t>
+                <t id="p02-s03-t02">range</t>
+                <punc>-</punc>
+                <t id="p02-s03-t03">wide</t>
+                <t id="p02-s03-t04">decline</t>
+                <t id="p02-s03-t05">has</t>
+                <t id="p02-s03-t06">warranted</t>
+                <t id="p02-s03-t07">the</t>
+                <t id="p02-s03-t08">kit</t>
+                <t id="p02-s03-t09">fox</t>
+                <t id="p02-s03-t10">to</t>
+                <t id="p02-s03-t11">be</t>
+                <t id="p02-s03-t12">state</t>
+                <punc>-</punc>
+                <t id="p02-s03-t13">listed</t>
+                <t id="p02-s03-t14">as</t>
+                <t id="p02-s03-t15">endangered</t>
+                <t id="p02-s03-t16">in</t>
+                <t id="p02-s03-t17">Colorado</t>
+                <punc>,</punc>
+                <t id="p02-s03-t18">threatened</t>
+                <t id="p02-s03-t19">in</t>
+                <t id="p02-s03-t20">California</t>
+                <t id="p02-s03-t21">and</t>
+                <t id="p02-s03-t22">Oregon</t>
+                <punc>,</punc>
+                <t id="p02-s03-t23">and</t>
+                <t id="p02-s03-t24">designated</t>
+                <t id="p02-s03-t25">as</t>
+                <t id="p02-s03-t26">a</t>
+                <t id="p02-s03-t27">state</t>
+                <t id="p02-s03-t28">sensitive</t>
+                <t id="p02-s03-t29">species</t>
+                <t id="p02-s03-t30">in</t>
+                <t id="p02-s03-t31">Idaho</t>
+                <t id="p02-s03-t32">and</t>
+                <t id="p02-s03-t33">Utah</t>
+                <punc>[</punc>
+                <t id="p02-s03-t34">8</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s04">
+                <t id="p02-s04-t01">However</t>
+                <punc>,</punc>
+                <t id="p02-s04-t02">a</t>
+                <t id="p02-s04-t03">comprehensive</t>
+                <t id="p02-s04-t04">study</t>
+                <t id="p02-s04-t05">of</t>
+                <t id="p02-s04-t06">kit</t>
+                <t id="p02-s04-t07">fox</t>
+                <t id="p02-s04-t08">abundance</t>
+                <t id="p02-s04-t09">across</t>
+                <t id="p02-s04-t10">its</t>
+                <t id="p02-s04-t11">range</t>
+                <t id="p02-s04-t12">is</t>
+                <t id="p02-s04-t13">lacking</t>
+                <punc>,</punc>
+                <t id="p02-s04-t14">with</t>
+                <t id="p02-s04-t15">the</t>
+                <t id="p02-s04-t16">majority</t>
+                <t id="p02-s04-t17">of</t>
+                <t id="p02-s04-t18">studies</t>
+                <t id="p02-s04-t19">focused</t>
+                <t id="p02-s04-t20">on</t>
+                <t id="p02-s04-t21">the</t>
+                <t id="p02-s04-t22">endangered</t>
+                <t id="p02-s04-t23">subspecies</t>
+                <punc>,</punc>
+                <t id="p02-s04-t24">the</t>
+                <t id="p02-s04-t25">San</t>
+                <t id="p02-s04-t26">Joaquin</t>
+                <t id="p02-s04-t27">kit</t>
+                <t id="p02-s04-t28">fox</t>
+                <punc>(</punc>
+                <t id="p02-s04-t29">V.</t>
+                <t id="p02-s04-t30">macrotis</t>
+                <t id="p02-s04-t31">mutica</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s05">
+                <t id="p02-s05-t01">In</t>
+                <t id="p02-s05-t02">Utah</t>
+                <punc>,</punc>
+                <t id="p02-s05-t03">where</t>
+                <t id="p02-s05-t04">kit</t>
+                <t id="p02-s05-t05">foxes</t>
+                <t id="p02-s05-t06">were</t>
+                <t id="p02-s05-t07">once</t>
+                <t id="p02-s05-t08">considered</t>
+                <t id="p02-s05-t09">the</t>
+                <t id="p02-s05-t10">most</t>
+                <t id="p02-s05-t11">abundant</t>
+                <t id="p02-s05-t12">carnivore</t>
+                <t id="p02-s05-t13">in</t>
+                <t id="p02-s05-t14">the</t>
+                <t id="p02-s05-t15">west</t>
+                <t id="p02-s05-t16">desert</t>
+                <punc>[</punc>
+                <t id="p02-s05-t17">9</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p02-s05-t18">10</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <t id="p02-s05-t19">the</t>
+                <t id="p02-s05-t20">kit</t>
+                <t id="p02-s05-t21">fox</t>
+                <t id="p02-s05-t22">has</t>
+                <t id="p02-s05-t23">been</t>
+                <t id="p02-s05-t24">in</t>
+                <t id="p02-s05-t25">steep</t>
+                <t id="p02-s05-t26">decline</t>
+                <t id="p02-s05-t27">over</t>
+                <t id="p02-s05-t28">the</t>
+                <t id="p02-s05-t29">past</t>
+                <t id="p02-s05-t30">decade</t>
+                <punc>[</punc>
+                <t id="p02-s05-t31">2</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p02-s05-t32">11</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p02-s05-t33">12</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p03">
+            <sentence id="p03-s01">
+                <t id="p03-s01-t01">Current</t>
+                <t id="p03-s01-t02">methods</t>
+                <t id="p03-s01-t03">used</t>
+                <t id="p03-s01-t04">for</t>
+                <t id="p03-s01-t05">surveying</t>
+                <t id="p03-s01-t06">kit</t>
+                <t id="p03-s01-t07">foxes</t>
+                <t id="p03-s01-t08">and</t>
+                <t id="p03-s01-t09">their</t>
+                <t id="p03-s01-t10">close</t>
+                <t id="p03-s01-t11">relative</t>
+                <t id="p03-s01-t12">the</t>
+                <t id="p03-s01-t13">swift</t>
+                <t id="p03-s01-t14">fox</t>
+                <punc>(</punc>
+                <t id="p03-s01-t15">V.</t>
+                <t id="p03-s01-t16">velox</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p03-s01-t17">include</t>
+                <t id="p03-s01-t18">capture</t>
+                <punc>-</punc>
+                <t id="p03-s01-t19">recapture</t>
+                <punc>[</punc>
+                <t id="p03-s01-t20">2</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p03-s01-t21">13</t>
+                <punc>]</punc>
+                <punc>–</punc>
+                <punc>[</punc>
+                <t id="p03-s01-t22">17</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <t id="p03-s01-t23">spotlight</t>
+                <t id="p03-s01-t24">surveys</t>
+                <punc>[</punc>
+                <t id="p03-s01-t25">2</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p03-s01-t26">13</t>
+                <punc>]</punc>
+                <punc>–</punc>
+                <punc>[</punc>
+                <t id="p03-s01-t27">15</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p03-s01-t28">18</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <t id="p03-s01-t29">scent</t>
+                <t id="p03-s01-t30">station</t>
+                <t id="p03-s01-t31">surveys</t>
+                <punc>[</punc>
+                <t id="p03-s01-t32">2</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p03-s01-t33">13</t>
+                <punc>]</punc>
+                <punc>–</punc>
+                <punc>[</punc>
+                <t id="p03-s01-t34">15</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <t id="p03-s01-t35">scat</t>
+                <t id="p03-s01-t36">deposition</t>
+                <t id="p03-s01-t37">transects</t>
+                <t id="p03-s01-t38">with</t>
+                <t id="p03-s01-t39">and</t>
+                <t id="p03-s01-t40">without</t>
+                <t id="p03-s01-t41">scat</t>
+                <t id="p03-s01-t42">detection</t>
+                <t id="p03-s01-t43">dogs</t>
+                <punc>[</punc>
+                <t id="p03-s01-t44">2</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p03-s01-t45">14</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p03-s01-t46">15</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p03-s01-t47">17</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p03-s01-t48">19</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <t id="p03-s01-t49">track</t>
+                <t id="p03-s01-t50">counts</t>
+                <punc>[</punc>
+                <t id="p03-s01-t51">14</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <t id="p03-s01-t52">activity</t>
+                <t id="p03-s01-t53">index</t>
+                <punc>[</punc>
+                <t id="p03-s01-t54">15</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <t id="p03-s01-t55">and</t>
+                <t id="p03-s01-t56">howling</t>
+                <t id="p03-s01-t57">response</t>
+                <punc>[</punc>
+                <t id="p03-s01-t58">14</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s02">
+                <t id="p03-s02-t01">Generally</t>
+                <t id="p03-s02-t02">these</t>
+                <t id="p03-s02-t03">methods</t>
+                <t id="p03-s02-t04">have</t>
+                <t id="p03-s02-t05">been</t>
+                <t id="p03-s02-t06">evaluated</t>
+                <t id="p03-s02-t07">in</t>
+                <t id="p03-s02-t08">study</t>
+                <t id="p03-s02-t09">areas</t>
+                <t id="p03-s02-t10">with</t>
+                <t id="p03-s02-t11">a</t>
+                <t id="p03-s02-t12">relatively</t>
+                <t id="p03-s02-t13">high</t>
+                <t id="p03-s02-t14">fox</t>
+                <t id="p03-s02-t15">density</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s03">
+                <t id="p03-s03-t01">How</t>
+                <t id="p03-s03-t02">well</t>
+                <t id="p03-s03-t03">these</t>
+                <t id="p03-s03-t04">methods</t>
+                <t id="p03-s03-t05">will</t>
+                <t id="p03-s03-t06">perform</t>
+                <t id="p03-s03-t07">for</t>
+                <t id="p03-s03-t08">monitoring</t>
+                <t id="p03-s03-t09">fox</t>
+                <t id="p03-s03-t10">abundance</t>
+                <t id="p03-s03-t11">in</t>
+                <t id="p03-s03-t12">a</t>
+                <t id="p03-s03-t13">low</t>
+                <punc>-</punc>
+                <t id="p03-s03-t14">density</t>
+                <punc>,</punc>
+                <t id="p03-s03-t15">widely</t>
+                <t id="p03-s03-t16">dispersed</t>
+                <t id="p03-s03-t17">kit</t>
+                <t id="p03-s03-t18">fox</t>
+                <t id="p03-s03-t19">population</t>
+                <t id="p03-s03-t20">is</t>
+                <t id="p03-s03-t21">unknown</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s04">
+                <t id="p03-s04-t01">We</t>
+                <t id="p03-s04-t02">tested</t>
+                <t id="p03-s04-t03">4</t>
+                <t id="p03-s04-t04">survey</t>
+                <t id="p03-s04-t05">methods</t>
+                <punc>(</punc>
+                <t id="p03-s04-t06">scat</t>
+                <t id="p03-s04-t07">deposition</t>
+                <punc>,</punc>
+                <t id="p03-s04-t08">scent</t>
+                <t id="p03-s04-t09">station</t>
+                <punc>,</punc>
+                <t id="p03-s04-t10">spotlight</t>
+                <punc>,</punc>
+                <t id="p03-s04-t11">trapping</t>
+                <punc>)</punc>
+                <t id="p03-s04-t12">on</t>
+                <t id="p03-s04-t13">the</t>
+                <t id="p03-s04-t14">U.S.</t>
+                <t id="p03-s04-t15">Army</t>
+                <t id="p03-s04-t16">Dugway</t>
+                <t id="p03-s04-t17">Proving</t>
+                <t id="p03-s04-t18">Ground</t>
+                <punc>(</punc>
+                <t id="p03-s04-t19">DPG</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p03-s04-t20">Utah</t>
+                <punc>,</punc>
+                <t id="p03-s04-t21">with</t>
+                <t id="p03-s04-t22">the</t>
+                <t id="p03-s04-t23">primary</t>
+                <t id="p03-s04-t24">objectives</t>
+                <t id="p03-s04-t25">to</t>
+                <punc>(</punc>
+                <t id="p03-s04-t26">1</t>
+                <punc>)</punc>
+                <t id="p03-s04-t27">determine</t>
+                <t id="p03-s04-t28">detection</t>
+                <t id="p03-s04-t29">probabilities</t>
+                <t id="p03-s04-t30">for</t>
+                <t id="p03-s04-t31">each</t>
+                <t id="p03-s04-t32">method</t>
+                <punc>,</punc>
+                <t id="p03-s04-t33">and</t>
+                <punc>(</punc>
+                <t id="p03-s04-t34">2</t>
+                <punc>)</punc>
+                <t id="p03-s04-t35">evaluate</t>
+                <t id="p03-s04-t36">how</t>
+                <t id="p03-s04-t37">well</t>
+                <t id="p03-s04-t38">the</t>
+                <t id="p03-s04-t39">indices</t>
+                <t id="p03-s04-t40">of</t>
+                <t id="p03-s04-t41">relative</t>
+                <t id="p03-s04-t42">abundance</t>
+                <t id="p03-s04-t43">for</t>
+                <t id="p03-s04-t44">each</t>
+                <t id="p03-s04-t45">survey</t>
+                <t id="p03-s04-t46">method</t>
+                <t id="p03-s04-t47">correlate</t>
+                <t id="p03-s04-t48">with</t>
+                <t id="p03-s04-t49">known</t>
+                <t id="p03-s04-t50">kit</t>
+                <t id="p03-s04-t51">fox</t>
+                <t id="p03-s04-t52">abundance</t>
+                <t id="p03-s04-t53">as</t>
+                <t id="p03-s04-t54">determined</t>
+                <t id="p03-s04-t55">from</t>
+                <t id="p03-s04-t56">available</t>
+                <t id="p03-s04-t57">radio</t>
+                <punc>-</punc>
+                <t id="p03-s04-t58">collared</t>
+                <t id="p03-s04-t59">animals</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s05">
+                <t id="p03-s05-t01">The</t>
+                <t id="p03-s05-t02">kit</t>
+                <t id="p03-s05-t03">fox</t>
+                <t id="p03-s05-t04">population</t>
+                <t id="p03-s05-t05">in</t>
+                <t id="p03-s05-t06">the</t>
+                <t id="p03-s05-t07">west</t>
+                <t id="p03-s05-t08">desert</t>
+                <t id="p03-s05-t09">of</t>
+                <t id="p03-s05-t10">Utah</t>
+                <t id="p03-s05-t11">is</t>
+                <t id="p03-s05-t12">considered</t>
+                <t id="p03-s05-t13">low</t>
+                <t id="p03-s05-t14">density</t>
+                <punc>,</punc>
+                <t id="p03-s05-t15">declining</t>
+                <t id="p03-s05-t16">in</t>
+                <t id="p03-s05-t17">abundance</t>
+                <punc>,</punc>
+                <t id="p03-s05-t18">and</t>
+                <t id="p03-s05-t19">widely</t>
+                <t id="p03-s05-t20">dispersed</t>
+                <punc>[</punc>
+                <t id="p03-s05-t21">11</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p03-s05-t22">20</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p03-s05-t23">21</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
