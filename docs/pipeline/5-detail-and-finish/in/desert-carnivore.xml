@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Finding a Fox: An Evaluation of Survey Methods to Estimate Abundance of a Small Desert Carnivore (Extract)</title>
+    <citation>Dempsey SJ, Gese EM, Kluever BM (2014) Finding a Fox: An Evaluation of Survey Methods to Estimate Abundance of a Small Desert Carnivore. PLoS ONE 9(8): e105873. doi:10.1371/journal.pone.0105873</citation>
+    <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0105873</url>
+    <info type="arise">
+        <arise-info book="1"
+                    section="2"
+                    unit="4"
+                    part="1"
+                    item="A,B"
+                    firstpage="21"
+                    lastpage="22"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence par-function="topic" id="p01-s01">
+                <t id="p01-s01-t01" type="GSL-1">Populations</t>
+                <t id="p01-s01-t02" type="GSL-1">of</t>
+                <t id="p01-s01-t03" type="GSL-1">large</t>
+                <t id="p01-s01-t04" type="GSL-1">and</t>
+                <t id="p01-s01-t05" type="GSL-1">small</t>
+                <t id="p01-s01-t06">carnivores</t>
+                <t id="p01-s01-t07" type="GSL-1">are</t>
+                <t id="p01-s01-t08" type="GSL-2">threatened</t>
+                <t id="p01-s01-t09" type="GSL-1">or</t>
+                <t id="p01-s01-t10">imperiled</t>
+                <t id="p01-s01-t11" type="GSL-1">throughout</t>
+                <t id="p01-s01-t12" type="GSL-1">the</t>
+                <t id="p01-s01-t13" type="GSL-1">world</t>
+                <punc>[</punc>
+                <t id="p01-s01-t14">1</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s02">
+                <t id="p01-s02-t01" type="GSL-1">With</t>
+                <t id="p01-s02-t02" type="GSL-1">increasing</t>
+                <t id="p01-s02-t03" type="GSL-1">human</t>
+                <t id="p01-s02-t04" type="GSL-1">populations</t>
+                <t id="p01-s02-t05" type="GSL-1">and</t>
+                <t id="p01-s02-t06" type="Coxhead-AWL-4,AR-AWL-4b">subsequent</t>
+                <t id="p01-s02-t07">habitat</t>
+                <t id="p01-s02-t08" type="GSL-1">loss</t>
+                <t id="p01-s02-t09" type="GSL-1">and</t>
+                <t id="p01-s02-t10">fragmentation</t>
+                <punc>,</punc>
+                <t id="p01-s02-t11" type="Coxhead-AWL-5,AR-AWL-5a">declines</t>
+                <t id="p01-s02-t12" type="GSL-1">in</t>
+                <t id="p01-s02-t13" type="GSL-1">natural</t>
+                <t id="p01-s02-t14">prey</t>
+                <punc>,</punc>
+                <t id="p01-s02-t15" type="GSL-1">increased</t>
+                <t id="p01-s02-t16" type="GSL-1">human</t>
+                <t id="p01-s02-t17">persecution</t>
+                <t id="p01-s02-t18" type="GSL-1">and</t>
+                <t id="p01-s02-t19" type="Coxhead-AWL-1,AR-AWL-1b">illegal</t>
+                <t id="p01-s02-t20">poaching</t>
+                <punc>,</punc>
+                <t id="p01-s02-t21" type="GSL-1">many</t>
+                <t id="p01-s02-t22">carnivore</t>
+                <t id="p01-s02-t23">species</t>
+                <t id="p01-s02-t24" type="GSL-1">have</t>
+                <t id="p01-s02-t25" type="Coxhead-AWL-5,AR-AWL-5a">declined</t>
+                <t id="p01-s02-t26" type="GSL-1">in</t>
+                <t id="p01-s02-t27" type="GSL-1">number</t>
+                <t id="p01-s02-t28" type="GSL-1">and</t>
+                <t id="p01-s02-t29" type="GSL-1">now</t>
+                <t id="p01-s02-t30" type="Coxhead-AWL-4,AR-AWL-4b">occupy</t>
+                <t id="p01-s02-t31" type="GSL-1">a</t>
+                <t id="p01-s02-t32">fragment</t>
+                <t id="p01-s02-t33" type="GSL-1">of</t>
+                <anaphor id="p01-s02-a01" info="p01-s02-t21:p01-s02-t23">
+                    <t id="p01-s02-t34" type="GSL-1">their</t>
+                </anaphor>
+                <t id="p01-s02-t35" type="GSL-1">former</t>
+                <t id="p01-s02-t36" type="Coxhead-AWL-2,AR-AWL-2b">range</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s03">
+                <t id="p01-s03-t01">Paramount</t>
+                <t id="p01-s03-t02" type="GSL-1">to</t>
+                <t id="p01-s03-t03">species</t>
+                <t id="p01-s03-t04" type="GSL-2">management</t>
+                <t id="p01-s03-t05" type="GSL-1">and</t>
+                <t id="p01-s03-t06">conservation</t>
+                <t id="p01-s03-t07" type="GSL-1">is</t>
+                <t id="p01-s03-t08" type="GSL-1">knowledge</t>
+                <t id="p01-s03-t09" type="GSL-1">about</t>
+                <t id="p01-s03-t10" type="GSL-1">the</t>
+                <t id="p01-s03-t11" type="Coxhead-AWL-4,AR-AWL-4b">status</t>
+                <t id="p01-s03-t12" type="GSL-1">and</t>
+                <t id="p01-s03-t13" type="Coxhead-AWL-1,AR-AWL-1a">distribution</t>
+                <t id="p01-s03-t14" type="GSL-1">of</t>
+                <t id="p01-s03-t15" type="GSL-1">many</t>
+                <t id="p01-s03-t16">carnivore</t>
+                <t id="p01-s03-t17">species</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s04">
+                <t id="p01-s04-t01" type="GSL-1">A</t>
+                <t id="p01-s04-t02" type="GSL-1">question</t>
+                <t id="p01-s04-t03" type="GSL-1">often</t>
+                <t id="p01-s04-t04" type="GSL-1">facing</t>
+                <t id="p01-s04-t05">wildlife</t>
+                <t id="p01-s04-t06" type="GSL-1">agencies</t>
+                <t id="p01-s04-t07" type="GSL-1">and</t>
+                <t id="p01-s04-t08">conservation</t>
+                <t id="p01-s04-t09" type="GSL-1">groups</t>
+                <t id="p01-s04-t10" type="GSL-1">is</t>
+                <t id="p01-s04-t11" type="GSL-1">how</t>
+                <t id="p01-s04-t12" type="GSL-1">many</t>
+                <t id="p01-s04-t13" type="GSL-1">animals</t>
+                <t id="p01-s04-t14" type="GSL-1">are</t>
+                <t id="p01-s04-t15" type="GSL-1">there</t>
+                <t id="p01-s04-t16" type="GSL-1">and</t>
+                <t id="p01-s04-t17" type="GSL-1">what</t>
+                <t id="p01-s04-t18" type="GSL-1">is</t>
+                <t id="p01-s04-t19" type="GSL-1">the</t>
+                <t id="p01-s04-t20" type="GSL-1">population</t>
+                <t id="p01-s04-t21" type="Coxhead-AWL-5,AR-AWL-5b">trend</t>
+                <punc>?</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s05">
+                <connector id="p01-s05-c01" type="violated expectation" info="p01-s04-t01:p01-s04-t21,p01-s05-t02:p01-s05-t22">
+                    <t id="p01-s05-t01" type="GSL-1">However</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p01-s05-t02" type="GSL-1">many</t>
+                <t id="p01-s05-t03">carnivore</t>
+                <t id="p01-s05-t04">species</t>
+                <t id="p01-s05-t05" type="GSL-1">are</t>
+                <t id="p01-s05-t06" type="GSL-1">difficult</t>
+                <t id="p01-s05-t07" type="GSL-1">to</t>
+                <t id="p01-s05-t08" type="Coxhead-AWL-2,AR-AWL-2b">survey</t>
+                <t id="p01-s05-t09" type="GSL-1">due</t>
+                <t id="p01-s05-t10" type="GSL-1">to</t>
+                <anaphor id="p01-s05-a01" info="p01-s05-t02:p01-s05-t04">
+                    <t id="p01-s05-t11" type="GSL-1">their</t>
+                </anaphor>
+                <t id="p01-s05-t12" type="GSL-1">low</t>
+                <t id="p01-s05-t13">densities</t>
+                <punc>,</punc>
+                <t id="p01-s05-t14" type="GSL-1">are</t>
+                <t id="p01-s05-t15" type="GSL-1">generally</t>
+                <t id="p01-s05-t16">nocturnal</t>
+                <t id="p01-s05-t17" type="GSL-1">and</t>
+                <t id="p01-s05-t18">elusive</t>
+                <punc>,</punc>
+                <t id="p01-s05-t19" type="GSL-1">and</t>
+                <t id="p01-s05-t20">wary</t>
+                <t id="p01-s05-t21" type="GSL-1">of</t>
+                <t id="p01-s05-t22" type="GSL-1">humans</t>
+                <punc>[</punc>
+                <t id="p01-s05-t23">2</t>
+                <punc>]</punc>
+                <punc>–</punc>
+                <punc>[</punc>
+                <t id="p01-s05-t24">6</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence par-function="topic" id="p02-s01">
+                <t id="p02-s01-t01">Kit</t>
+                <t id="p02-s01-t02">foxes</t>
+                <punc>(</punc>
+                <t id="p02-s01-t03">Vulpes</t>
+                <t id="p02-s01-t04">macrotis</t>
+                <punc>)</punc>
+                <t id="p02-s01-t05" type="GSL-1">are</t>
+                <t id="p02-s01-t06" type="GSL-1">a</t>
+                <t id="p02-s01-t07">slim</t>
+                <punc>,</punc>
+                <t id="p02-s01-t08" type="GSL-1">small</t>
+                <t id="p02-s01-t09">canid</t>
+                <punc>(</punc>
+                <t id="p02-s01-t10">1</t>
+                <punc>–</punc>
+                <t id="p02-s01-t11">3</t>
+                <t id="p02-s01-t12">kg</t>
+                <t id="p02-s01-t13" type="GSL-1">body</t>
+                <t id="p02-s01-t14" type="GSL-1">mass</t>
+                <punc>)</punc>
+                <t id="p02-s01-t15" type="GSL-1">with</t>
+                <t id="p02-s01-t16" type="GSL-1">ears</t>
+                <t id="p02-s01-t17" type="GSL-1">that</t>
+                <t id="p02-s01-t18" type="GSL-1">are</t>
+                <t id="p02-s01-t19" type="GSL-1">relatively</t>
+                <t id="p02-s01-t20" type="GSL-1">larger</t>
+                <t id="p02-s01-t21" type="GSL-1">than</t>
+                <anaphor id="p02-s01-a01" info="p02-s01-t16:p02-s01-t16">
+                    <t id="p02-s01-t22" type="GSL-1">those</t>
+                </anaphor>
+                <t id="p02-s01-t23" type="GSL-1">of</t>
+                <t id="p02-s01-t24" type="GSL-1">other</t>
+                <t id="p02-s01-t25" type="GSL-1">North</t>
+                <t id="p02-s01-t26">American</t>
+                <t id="p02-s01-t27">canids</t>
+                <punc>,</punc>
+                <t id="p02-s01-t28" type="GSL-1">are</t>
+                <t id="p02-s01-t29" type="GSL-1">considered</t>
+                <t id="p02-s01-t30" type="GSL-1">to</t>
+                <t id="p02-s01-t31" type="GSL-1">be</t>
+                <t id="p02-s01-t32">monestrus</t>
+                <t id="p02-s01-t33" type="GSL-1">and</t>
+                <t id="p02-s01-t34" type="GSL-1">socially</t>
+                <t id="p02-s01-t35">monogamous</t>
+                <punc>,</punc>
+                <t id="p02-s01-t36" type="GSL-1">and</t>
+                <t id="p02-s01-t37" type="GSL-1">are</t>
+                <t id="p02-s01-t38" type="GSL-1">a</t>
+                <t id="p02-s01-t39">dietary</t>
+                <t id="p02-s01-t40">generalist</t>
+                <t id="p02-s01-t41">feeding</t>
+                <t id="p02-s01-t42" type="GSL-1">on</t>
+                <t id="p02-s01-t43">rodents</t>
+                <punc>,</punc>
+                <t id="p02-s01-t44" type="GSL-2">insects</t>
+                <punc>,</punc>
+                <t id="p02-s01-t45">lagomorphs</t>
+                <punc>,</punc>
+                <t id="p02-s01-t46" type="GSL-1">ground</t>
+                <punc>-</punc>
+                <t id="p02-s01-t47" type="GSL-2">nesting</t>
+                <t id="p02-s01-t48" type="GSL-1">birds</t>
+                <punc>,</punc>
+                <t id="p02-s01-t49" type="GSL-1">and</t>
+                <t id="p02-s01-t50">reptiles</t>
+                <punc>[</punc>
+                <t id="p02-s01-t51">7</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p02-s02">
+                <t id="p02-s02-t01">Historically</t>
+                <punc>,</punc>
+                <t id="p02-s02-t02">kit</t>
+                <t id="p02-s02-t03">foxes</t>
+                <t id="p02-s02-t04" type="GSL-1">were</t>
+                <t id="p02-s02-t05" type="GSL-1">once</t>
+                <t id="p02-s02-t06">abundant</t>
+                <t id="p02-s02-t07" type="GSL-1">and</t>
+                <t id="p02-s02-t08" type="Coxhead-AWL-1,AR-AWL-1a">distributed</t>
+                <t id="p02-s02-t09" type="GSL-1">throughout</t>
+                <t id="p02-s02-t10" type="GSL-1">the</t>
+                <t id="p02-s02-t11" type="GSL-1">desert</t>
+                <t id="p02-s02-t12" type="GSL-1">and</t>
+                <t id="p02-s02-t13">semi</t>
+                <punc>-</punc>
+                <t id="p02-s02-t14">arid</t>
+                <t id="p02-s02-t15" type="Coxhead-AWL-2,AR-AWL-2b">regions</t>
+                <t id="p02-s02-t16" type="GSL-1">of</t>
+                <t id="p02-s02-t17">southwestern</t>
+                <t id="p02-s02-t18" type="GSL-1">North</t>
+                <t id="p02-s02-t19">America</t>
+                <punc>,</punc>
+                <t id="p02-s02-t20" type="Coxhead-AWL-2,AR-AWL-2b">ranging</t>
+                <t id="p02-s02-t21" type="GSL-1">from</t>
+                <t id="p02-s02-t22">Idaho</t>
+                <t id="p02-s02-t23" type="GSL-1">to</t>
+                <t id="p02-s02-t24" type="GSL-1">central</t>
+                <t id="p02-s02-t25">Mexico</t>
+                <punc>[</punc>
+                <t id="p02-s02-t26">7</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p02-s03">
+                <anaphor id="p02-s03-a01" info="p02-s02-t02:p02-s02-t03">
+                    <t id="p02-s03-t01" type="GSL-1">Their</t>
+                </anaphor>
+                <t id="p02-s03-t02" type="Coxhead-AWL-2,AR-AWL-2b">range</t>
+                <punc>-</punc>
+                <t id="p02-s03-t03" type="GSL-1">wide</t>
+                <t id="p02-s03-t04" type="Coxhead-AWL-5,AR-AWL-5a">decline</t>
+                <t id="p02-s03-t05" type="GSL-1">has</t>
+                <t id="p02-s03-t06">warranted</t>
+                <t id="p02-s03-t07" type="GSL-1">the</t>
+                <t id="p02-s03-t08">kit</t>
+                <t id="p02-s03-t09">fox</t>
+                <t id="p02-s03-t10" type="GSL-1">to</t>
+                <t id="p02-s03-t11" type="GSL-1">be</t>
+                <t id="p02-s03-t12" type="GSL-1">state</t>
+                <punc>-</punc>
+                <t id="p02-s03-t13" type="GSL-2">listed</t>
+                <t id="p02-s03-t14" type="GSL-1">as</t>
+                <t id="p02-s03-t15">endangered</t>
+                <t id="p02-s03-t16" type="GSL-1">in</t>
+                <t id="p02-s03-t17">Colorado</t>
+                <punc>,</punc>
+                <t id="p02-s03-t18" type="GSL-2">threatened</t>
+                <t id="p02-s03-t19" type="GSL-1">in</t>
+                <t id="p02-s03-t20">California</t>
+                <t id="p02-s03-t21" type="GSL-1">and</t>
+                <t id="p02-s03-t22">Oregon</t>
+                <punc>,</punc>
+                <t id="p02-s03-t23" type="GSL-1">and</t>
+                <t id="p02-s03-t24">designated</t>
+                <t id="p02-s03-t25" type="GSL-1">as</t>
+                <t id="p02-s03-t26" type="GSL-1">a</t>
+                <t id="p02-s03-t27" type="GSL-1">state</t>
+                <t id="p02-s03-t28" type="GSL-1">sensitive</t>
+                <t id="p02-s03-t29">species</t>
+                <t id="p02-s03-t30" type="GSL-1">in</t>
+                <t id="p02-s03-t31">Idaho</t>
+                <t id="p02-s03-t32" type="GSL-1">and</t>
+                <t id="p02-s03-t33">Utah</t>
+                <punc>[</punc>
+                <t id="p02-s03-t34">8</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p02-s04">
+                <connector id="p02-s04-c01" type="violated expectation" info="p02-s03-t01:p02-s03-t33,p02-s04-t02:p02-s04-t31">
+                    <t id="p02-s04-t01" type="GSL-1">However</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p02-s04-t02" type="GSL-1">a</t>
+                <t id="p02-s04-t03" type="Coxhead-AWL-7,AR-AWL-7a">comprehensive</t>
+                <t id="p02-s04-t04" type="GSL-1">study</t>
+                <t id="p02-s04-t05" type="GSL-1">of</t>
+                <t id="p02-s04-t06">kit</t>
+                <t id="p02-s04-t07">fox</t>
+                <t id="p02-s04-t08">abundance</t>
+                <t id="p02-s04-t09" type="GSL-1">across</t>
+                <anaphor id="p02-s04-a01" info="p02-s04-t06:p02-s04-t07">
+                    <t id="p02-s04-t10" type="GSL-1">its</t>
+                </anaphor>
+                <t id="p02-s04-t11" type="Coxhead-AWL-2,AR-AWL-2b">range</t>
+                <t id="p02-s04-t12" type="GSL-1">is</t>
+                <t id="p02-s04-t13" type="GSL-1">lacking</t>
+                <punc>,</punc>
+                <t id="p02-s04-t14" type="GSL-1">with</t>
+                <t id="p02-s04-t15" type="GSL-1">the</t>
+                <t id="p02-s04-t16" type="Coxhead-AWL-1,AR-AWL-1b">majority</t>
+                <t id="p02-s04-t17" type="GSL-1">of</t>
+                <t id="p02-s04-t18" type="GSL-1">studies</t>
+                <t id="p02-s04-t19" type="Coxhead-AWL-2,AR-AWL-2a">focused</t>
+                <t id="p02-s04-t20" type="GSL-1">on</t>
+                <t id="p02-s04-t21" type="GSL-1">the</t>
+                <t id="p02-s04-t22">endangered</t>
+                <t id="p02-s04-t23">subspecies</t>
+                <punc>,</punc>
+                <t id="p02-s04-t24" type="GSL-1">the</t>
+                <t id="p02-s04-t25">San</t>
+                <t id="p02-s04-t26">Joaquin</t>
+                <t id="p02-s04-t27">kit</t>
+                <t id="p02-s04-t28">fox</t>
+                <punc>(</punc>
+                <term id="p02-s04-e01" info="p02-s04-t24:p02-s04-t28">
+                    <t id="p02-s04-t29">V.</t>
+                    <t id="p02-s04-t30">macrotis</t>
+                    <t id="p02-s04-t31">mutica</t>
+                </term>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p02-s05">
+                <t id="p02-s05-t01" type="GSL-1">In</t>
+                <t id="p02-s05-t02">Utah</t>
+                <punc>,</punc>
+                <t id="p02-s05-t03" type="GSL-1">where</t>
+                <t id="p02-s05-t04">kit</t>
+                <t id="p02-s05-t05">foxes</t>
+                <t id="p02-s05-t06" type="GSL-1">were</t>
+                <t id="p02-s05-t07" type="GSL-1">once</t>
+                <t id="p02-s05-t08" type="GSL-1">considered</t>
+                <t id="p02-s05-t09" type="GSL-1">the</t>
+                <t id="p02-s05-t10" type="GSL-1">most</t>
+                <t id="p02-s05-t11">abundant</t>
+                <t id="p02-s05-t12">carnivore</t>
+                <t id="p02-s05-t13" type="GSL-1">in</t>
+                <t id="p02-s05-t14" type="GSL-1">the</t>
+                <t id="p02-s05-t15" type="GSL-1">west</t>
+                <t id="p02-s05-t16" type="GSL-1">desert</t>
+                <punc>[</punc>
+                <t id="p02-s05-t17">9</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p02-s05-t18">10</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <t id="p02-s05-t19" type="GSL-1">the</t>
+                <t id="p02-s05-t20">kit</t>
+                <t id="p02-s05-t21">fox</t>
+                <t id="p02-s05-t22" type="GSL-1">has</t>
+                <t id="p02-s05-t23" type="GSL-1">been</t>
+                <t id="p02-s05-t24" type="GSL-1">in</t>
+                <t id="p02-s05-t25" type="GSL-2">steep</t>
+                <t id="p02-s05-t26" type="Coxhead-AWL-5,AR-AWL-5a">decline</t>
+                <t id="p02-s05-t27" type="GSL-1">over</t>
+                <t id="p02-s05-t28" type="GSL-1">the</t>
+                <t id="p02-s05-t29" type="GSL-1">past</t>
+                <t id="p02-s05-t30" type="Coxhead-AWL-7,AR-AWL-7a">decade</t>
+                <punc>[</punc>
+                <t id="p02-s05-t31">2</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p02-s05-t32">11</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p02-s05-t33">12</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p03">
+            <sentence par-function="topic" id="p03-s01">
+                <t id="p03-s01-t01" type="GSL-1">Current</t>
+                <t id="p03-s01-t02" type="Coxhead-AWL-1,AR-AWL-1b">methods</t>
+                <t id="p03-s01-t03" type="GSL-1">used</t>
+                <t id="p03-s01-t04" type="GSL-1">for</t>
+                <t id="p03-s01-t05" type="Coxhead-AWL-2,AR-AWL-2b">surveying</t>
+                <t id="p03-s01-t06">kit</t>
+                <t id="p03-s01-t07">foxes</t>
+                <t id="p03-s01-t08" type="GSL-1">and</t>
+                <anaphor id="p03-s01-a01" info="p03-s01-t06:p03-s01-t07">
+                    <t id="p03-s01-t09" type="GSL-1">their</t>
+                </anaphor>
+                <t id="p03-s01-t10" type="GSL-1">close</t>
+                <t id="p03-s01-t11" type="GSL-1">relative</t>
+                <t id="p03-s01-t12" type="GSL-1">the</t>
+                <t id="p03-s01-t13">swift</t>
+                <t id="p03-s01-t14">fox</t>
+                <punc>(</punc>
+                <term id="p03-s01-e01" info="p03-s01-t12:p03-s01-t14">
+                    <t id="p03-s01-t15">V.</t>
+                    <t id="p03-s01-t16">velox</t>
+                </term>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p03-s01-t17" type="GSL-1">include</t>
+                <t id="p03-s01-t18">capture</t>
+                <punc>-</punc>
+                <t id="p03-s01-t19">recapture</t>
+                <punc>[</punc>
+                <t id="p03-s01-t20">2</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p03-s01-t21">13</t>
+                <punc>]</punc>
+                <punc>–</punc>
+                <punc>[</punc>
+                <t id="p03-s01-t22">17</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <t id="p03-s01-t23">spotlight</t>
+                <t id="p03-s01-t24" type="Coxhead-AWL-2,AR-AWL-2b">surveys</t>
+                <punc>[</punc>
+                <t id="p03-s01-t25">2</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p03-s01-t26">13</t>
+                <punc>]</punc>
+                <punc>–</punc>
+                <punc>[</punc>
+                <t id="p03-s01-t27">15</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p03-s01-t28">18</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <t id="p03-s01-t29" type="GSL-2">scent</t>
+                <t id="p03-s01-t30" type="GSL-1">station</t>
+                <t id="p03-s01-t31" type="Coxhead-AWL-2,AR-AWL-2b">surveys</t>
+                <punc>[</punc>
+                <t id="p03-s01-t32">2</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p03-s01-t33">13</t>
+                <punc>]</punc>
+                <punc>–</punc>
+                <punc>[</punc>
+                <t id="p03-s01-t34">15</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <t id="p03-s01-t35">scat</t>
+                <t id="p03-s01-t36">deposition</t>
+                <t id="p03-s01-t37">transects</t>
+                <t id="p03-s01-t38" type="GSL-1">with</t>
+                <t id="p03-s01-t39" type="GSL-1">and</t>
+                <t id="p03-s01-t40" type="GSL-1">without</t>
+                <t id="p03-s01-t41">scat</t>
+                <t id="p03-s01-t42" type="Coxhead-AWL-8,AR-AWL-8a">detection</t>
+                <t id="p03-s01-t43" type="GSL-1">dogs</t>
+                <punc>[</punc>
+                <t id="p03-s01-t44">2</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p03-s01-t45">14</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p03-s01-t46">15</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p03-s01-t47">17</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p03-s01-t48">19</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <t id="p03-s01-t49" type="GSL-2">track</t>
+                <t id="p03-s01-t50" type="GSL-1">counts</t>
+                <punc>[</punc>
+                <t id="p03-s01-t51">14</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <t id="p03-s01-t52" type="GSL-1">activity</t>
+                <t id="p03-s01-t53" type="Coxhead-AWL-6,AR-AWL-6b">index</t>
+                <punc>[</punc>
+                <t id="p03-s01-t54">15</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <t id="p03-s01-t55" type="GSL-1">and</t>
+                <t id="p03-s01-t56">howling</t>
+                <t id="p03-s01-t57" type="Coxhead-AWL-1,AR-AWL-1b">response</t>
+                <punc>[</punc>
+                <t id="p03-s01-t58">14</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p03-s02">
+                <connector id="p03-s02-c01" type="generalization" info="p03-s01-t01:p03-s01-t58,p03-s02-t02:p03-s02-t15">
+                    <t id="p03-s02-t01" type="GSL-1">Generally</t>
+                </connector>
+                <anaphor id="p03-s02-a01" info="p03-s01-t18:p03-s01-t57">
+                    <t id="p03-s02-t02" type="GSL-1">these</t>
+                    <t id="p03-s02-t03" type="Coxhead-AWL-1,AR-AWL-1b">methods</t>
+                </anaphor>
+                <t id="p03-s02-t04" type="GSL-1">have</t>
+                <t id="p03-s02-t05" type="GSL-1">been</t>
+                <t id="p03-s02-t06" type="Coxhead-AWL-2,AR-AWL-2a">evaluated</t>
+                <t id="p03-s02-t07" type="GSL-1">in</t>
+                <t id="p03-s02-t08" type="GSL-1">study</t>
+                <t id="p03-s02-t09" type="Coxhead-AWL-1,AR-AWL-1a">areas</t>
+                <t id="p03-s02-t10" type="GSL-1">with</t>
+                <t id="p03-s02-t11" type="GSL-1">a</t>
+                <t id="p03-s02-t12" type="GSL-1">relatively</t>
+                <t id="p03-s02-t13" type="GSL-1">high</t>
+                <t id="p03-s02-t14">fox</t>
+                <t id="p03-s02-t15">density</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p03-s03">
+                <t id="p03-s03-t01" type="GSL-1">How</t>
+                <t id="p03-s03-t02" type="GSL-1">well</t>
+                <anaphor id="p03-s03-a01" info="p03-s01-t18:p03-s01-t57">
+                    <t id="p03-s03-t03" type="GSL-1">these</t>
+                    <t id="p03-s03-t04" type="Coxhead-AWL-1,AR-AWL-1b">methods</t>
+                </anaphor>
+                <t id="p03-s03-t05" type="GSL-1">will</t>
+                <t id="p03-s03-t06" type="GSL-2">perform</t>
+                <t id="p03-s03-t07" type="GSL-1">for</t>
+                <t id="p03-s03-t08" type="Coxhead-AWL-5,AR-AWL-5b">monitoring</t>
+                <t id="p03-s03-t09">fox</t>
+                <t id="p03-s03-t10">abundance</t>
+                <t id="p03-s03-t11" type="GSL-1">in</t>
+                <t id="p03-s03-t12" type="GSL-1">a</t>
+                <t id="p03-s03-t13" type="GSL-1">low</t>
+                <punc>-</punc>
+                <t id="p03-s03-t14">density</t>
+                <punc>,</punc>
+                <t id="p03-s03-t15" type="GSL-1">widely</t>
+                <t id="p03-s03-t16">dispersed</t>
+                <t id="p03-s03-t17">kit</t>
+                <t id="p03-s03-t18">fox</t>
+                <t id="p03-s03-t19" type="GSL-1">population</t>
+                <t id="p03-s03-t20" type="GSL-1">is</t>
+                <t id="p03-s03-t21" type="GSL-1">unknown</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p03-s04">
+                <t id="p03-s04-t01" type="GSL-1">We</t>
+                <t id="p03-s04-t02" type="GSL-1">tested</t>
+                <t id="p03-s04-t03">4</t>
+                <t id="p03-s04-t04" type="Coxhead-AWL-2,AR-AWL-2b">survey</t>
+                <t id="p03-s04-t05" type="Coxhead-AWL-1,AR-AWL-1b">methods</t>
+                <punc>(</punc>
+                <t id="p03-s04-t06">scat</t>
+                <t id="p03-s04-t07">deposition</t>
+                <punc>,</punc>
+                <t id="p03-s04-t08" type="GSL-2">scent</t>
+                <t id="p03-s04-t09" type="GSL-1">station</t>
+                <punc>,</punc>
+                <t id="p03-s04-t10">spotlight</t>
+                <punc>,</punc>
+                <t id="p03-s04-t11" type="GSL-2">trapping</t>
+                <punc>)</punc>
+                <t id="p03-s04-t12" type="GSL-1">on</t>
+                <t id="p03-s04-t13" type="GSL-1">the</t>
+                <t id="p03-s04-t14">U.S.</t>
+                <t id="p03-s04-t15" type="GSL-1">Army</t>
+                <t id="p03-s04-t16">Dugway</t>
+                <t id="p03-s04-t17" type="GSL-1">Proving</t>
+                <t id="p03-s04-t18" type="GSL-1">Ground</t>
+                <punc>(</punc>
+                <abbr id="p03-s04-b01" info="p03-s04-t16:p03-s04-t18">
+                    <t id="p03-s04-t19">DPG</t>
+                </abbr>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p03-s04-t20">Utah</t>
+                <punc>,</punc>
+                <t id="p03-s04-t21" type="GSL-1">with</t>
+                <t id="p03-s04-t22" type="GSL-1">the</t>
+                <t id="p03-s04-t23" type="Coxhead-AWL-2,AR-AWL-2b">primary</t>
+                <t id="p03-s04-t24">objectives</t>
+                <t id="p03-s04-t25" type="GSL-1">to</t>
+                <punc>(</punc>
+                <t id="p03-s04-t26">1</t>
+                <punc>)</punc>
+                <t id="p03-s04-t27" type="GSL-1">determine</t>
+                <t id="p03-s04-t28" type="Coxhead-AWL-8,AR-AWL-8a">detection</t>
+                <t id="p03-s04-t29" type="GSL-2">probabilities</t>
+                <t id="p03-s04-t30" type="GSL-1">for</t>
+                <t id="p03-s04-t31" type="GSL-1">each</t>
+                <t id="p03-s04-t32" type="Coxhead-AWL-1,AR-AWL-1b">method</t>
+                <punc>,</punc>
+                <t id="p03-s04-t33" type="GSL-1">and</t>
+                <punc>(</punc>
+                <t id="p03-s04-t34">2</t>
+                <punc>)</punc>
+                <t id="p03-s04-t35" type="Coxhead-AWL-2,AR-AWL-2a">evaluate</t>
+                <t id="p03-s04-t36" type="GSL-1">how</t>
+                <t id="p03-s04-t37" type="GSL-1">well</t>
+                <t id="p03-s04-t38" type="GSL-1">the</t>
+                <t id="p03-s04-t39">indices</t>
+                <t id="p03-s04-t40" type="GSL-1">of</t>
+                <t id="p03-s04-t41" type="GSL-1">relative</t>
+                <t id="p03-s04-t42">abundance</t>
+                <t id="p03-s04-t43" type="GSL-1">for</t>
+                <t id="p03-s04-t44" type="GSL-1">each</t>
+                <t id="p03-s04-t45" type="Coxhead-AWL-2,AR-AWL-2b">survey</t>
+                <t id="p03-s04-t46" type="Coxhead-AWL-1,AR-AWL-1b">method</t>
+                <t id="p03-s04-t47">correlate</t>
+                <t id="p03-s04-t48" type="GSL-1">with</t>
+                <t id="p03-s04-t49" type="GSL-1">known</t>
+                <t id="p03-s04-t50">kit</t>
+                <t id="p03-s04-t51">fox</t>
+                <t id="p03-s04-t52">abundance</t>
+                <t id="p03-s04-t53" type="GSL-1">as</t>
+                <t id="p03-s04-t54" type="GSL-1">determined</t>
+                <t id="p03-s04-t55" type="GSL-1">from</t>
+                <t id="p03-s04-t56" type="Coxhead-AWL-1,AR-AWL-1a">available</t>
+                <t id="p03-s04-t57" type="GSL-2">radio</t>
+                <punc>-</punc>
+                <t id="p03-s04-t58">collared</t>
+                <t id="p03-s04-t59" type="GSL-1">animals</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p03-s05">
+                <t id="p03-s05-t01" type="GSL-1">The</t>
+                <t id="p03-s05-t02">kit</t>
+                <t id="p03-s05-t03">fox</t>
+                <t id="p03-s05-t04" type="GSL-1">population</t>
+                <t id="p03-s05-t05" type="GSL-1">in</t>
+                <t id="p03-s05-t06" type="GSL-1">the</t>
+                <t id="p03-s05-t07" type="GSL-1">west</t>
+                <t id="p03-s05-t08" type="GSL-1">desert</t>
+                <t id="p03-s05-t09" type="GSL-1">of</t>
+                <t id="p03-s05-t10">Utah</t>
+                <t id="p03-s05-t11" type="GSL-1">is</t>
+                <t id="p03-s05-t12" type="GSL-1">considered</t>
+                <t id="p03-s05-t13" type="GSL-1">low</t>
+                <t id="p03-s05-t14">density</t>
+                <punc>,</punc>
+                <t id="p03-s05-t15" type="Coxhead-AWL-5,AR-AWL-5a">declining</t>
+                <t id="p03-s05-t16" type="GSL-1">in</t>
+                <t id="p03-s05-t17">abundance</t>
+                <punc>,</punc>
+                <t id="p03-s05-t18" type="GSL-1">and</t>
+                <t id="p03-s05-t19" type="GSL-1">widely</t>
+                <t id="p03-s05-t20">dispersed</t>
+                <punc>[</punc>
+                <t id="p03-s05-t21">11</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p03-s05-t22">20</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p03-s05-t23">21</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

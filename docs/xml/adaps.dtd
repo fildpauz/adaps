@@ -102,7 +102,7 @@
   >
 
 <!--- Put your DTDDoc comment here. -->
-<!ELEMENT term (t)*>
+<!ELEMENT term (t|punc)*>
 <!ATTLIST term
     id CDATA #IMPLIED
     info CDATA #IMPLIED

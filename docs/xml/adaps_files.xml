@@ -15,8 +15,10 @@ and open the template in the editor.
     <file name="counting-and-motion" path="../pipeline/5-detail-and-finish/in/counting-and-motion.xml"/>
     <file name="counting-and-motion2" path="../pipeline/5-detail-and-finish/in/counting-and-motion2.xml"/>
     <file name="crows" path="../pipeline/5-detail-and-finish/in/crows.xml"/>
+    <file name="desert-carnivore" path="../pipeline/5-detail-and-finish/in/desert-carnivore.xml"/>
     <file name="division-of-labor" path="../pipeline/5-detail-and-finish/in/division-of-labor.xml"/>
     <file name="drones-for-specimen-transport" path="../pipeline/5-detail-and-finish/in/drones-for-specimen-transport.xml"/>
+    <file name="electronics" path="../pipeline/5-detail-and-finish/in/electronics.xml"/>
     <file name="emoticons" path="../pipeline/5-detail-and-finish/in/emoticons.xml"/>
     <file name="facebook1" path="../pipeline/5-detail-and-finish/in/facebook1.xml"/>
     <file name="facebook2" path="../pipeline/5-detail-and-finish/in/facebook2.xml"/>
@@ -31,6 +33,7 @@ and open the template in the editor.
     <file name="maria-mitchell" path="../pipeline/5-detail-and-finish/in/maria-mitchell.xml"/>
     <file name="origami-robot" path="../pipeline/5-detail-and-finish/in/origami-robot.xml"/>
     <file name="population-growth" path="../pipeline/5-detail-and-finish/in/population-growth.xml"/>
+    <file name="reaction-statements" path="../pipeline/5-detail-and-finish/in/reaction-statements.xml"/>
     <file name="robot-feedback" path="../pipeline/5-detail-and-finish/in/robot-feedback.xml"/>
     <file name="scope-of-biology" path="../pipeline/5-detail-and-finish/in/scope-of-biology.xml"/>
     <file name="size-mass-illusion" path="../pipeline/5-detail-and-finish/in/size-mass-illusion.xml"/>
