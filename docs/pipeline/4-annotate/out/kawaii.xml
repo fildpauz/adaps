@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Kawaii</title>
+    <citation>Nittono H, Fukushima M, Yano A, Moriya H, (2012), The Power of Kawaii: Viewing Cute Images Promotes a Careful Behavior and Narrows Attentional Focus., PLoS ONE 7(9): e46362., doi:10.1371/journal.pone.0046362</citation>
+    <url>doi:10.1371/journal.pone.0046362</url>
+    <info type="arise">
+        <arise-info book="1"
+                    section="2"
+                    unit="7"
+                    part="2"
+                    item="A"
+                    firstpage="30"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence par-function="topic|supporting|concluding" id="p01-s01">
+                <t id="p01-s01-t01">Kawaii</t>
+                <t id="p01-s01-t02" type="GSL-1">things</t>
+                <t id="p01-s01-t03" type="GSL-1">not</t>
+                <t id="p01-s01-t04" type="GSL-1">only</t>
+                <t id="p01-s01-t05" type="GSL-1">make</t>
+                <t id="p01-s01-t06" type="GSL-1">us</t>
+                <t id="p01-s01-t07" type="GSL-1">happier</t>
+                <punc>,</punc>
+                <t id="p01-s01-t08" type="GSL-1">but</t>
+                <t id="p01-s01-t09" type="GSL-1">also</t>
+                <t id="p01-s01-t10" type="Coxhead-AWL-2,AR-AWL-2a">affect</t>
+                <t id="p01-s01-t11" type="GSL-1">our</t>
+                <t id="p01-s01-t12" type="GSL-2">behavior</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p01-s02">
+                <t id="p01-s02-t01" type="GSL-1">This</t>
+                <t id="p01-s02-t02" type="GSL-1">study</t>
+                <t id="p01-s02-t03" type="GSL-1">shows</t>
+                <t id="p01-s02-t04" type="GSL-1">that</t>
+                <t id="p01-s02-t05" type="GSL-1">viewing</t>
+                <t id="p01-s02-t06">cute</t>
+                <t id="p01-s02-t07" type="GSL-1">things</t>
+                <t id="p01-s02-t08" type="GSL-2">improves</t>
+                <t id="p01-s02-t09" type="Coxhead-AWL-4,AR-AWL-4b">subsequent</t>
+                <t id="p01-s02-t10" type="GSL-2">performance</t>
+                <t id="p01-s02-t11" type="GSL-1">in</t>
+                <t id="p01-s02-t12" type="Coxhead-AWL-3,AR-AWL-3b">tasks</t>
+                <t id="p01-s02-t13" type="GSL-1">that</t>
+                <t id="p01-s02-t14" type="Coxhead-AWL-1,AR-AWL-1b">require</t>
+                <t id="p01-s02-t15" type="GSL-2">behavioral</t>
+                <t id="p01-s02-t16">carefulness</t>
+                <punc>,</punc>
+                <t id="p01-s02-t17" type="GSL-1">possibly</t>
+                <t id="p01-s02-t18" type="GSL-1">by</t>
+                <t id="p01-s02-t19" type="GSL-2">narrowing</t>
+                <t id="p01-s02-t20" type="GSL-1">the</t>
+                <t id="p01-s02-t21" type="GSL-1">breadth</t>
+                <t id="p01-s02-t22" type="GSL-1">of</t>
+                <t id="p01-s02-t23">attentional</t>
+                <t id="p01-s02-t24" type="Coxhead-AWL-2,AR-AWL-2a">focus</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p01-s03">
+                <anaphor id="p01-s03-a01" info="">
+                    <t id="p01-s03-t01" type="GSL-1">This</t>
+                    <t id="p01-s03-t02" type="GSL-1">effect</t>
+                </anaphor>
+                <t id="p01-s03-t03" type="GSL-1">is</t>
+                <t id="p01-s03-t04" type="GSL-1">not</t>
+                <t id="p01-s03-t05" type="Coxhead-AWL-1,AR-AWL-1b">specific</t>
+                <t id="p01-s03-t06" type="GSL-1">to</t>
+                <t id="p01-s03-t07" type="Coxhead-AWL-3,AR-AWL-3b">tasks</t>
+                <t id="p01-s03-t08" type="GSL-1">related</t>
+                <t id="p01-s03-t09" type="GSL-1">to</t>
+                <t id="p01-s03-t10">caregiving</t>
+                <t id="p01-s03-t11" type="GSL-1">or</t>
+                <t id="p01-s03-t12" type="GSL-1">social</t>
+                <t id="p01-s03-t13" type="Coxhead-AWL-3,AR-AWL-3b">interaction</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p01-s04"><!-- Added the following connector node -->
+                <connector id="p01-s04-c01" type="" info="">
+                    <t id="p01-s04-t01" type="GSL-1">For</t>
+                    <t id="p01-s04-t02" type="GSL-1">future</t>
+                    <t id="p01-s04-t03" type="GSL-1">applications</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p01-s04-t04">cute</t>
+                <t id="p01-s04-t05" type="GSL-1">objects</t>
+                <t id="p01-s04-t06" type="GSL-1">may</t>
+                <t id="p01-s04-t07" type="GSL-1">be</t>
+                <t id="p01-s04-t08" type="GSL-1">used</t>
+                <t id="p01-s04-t09" type="GSL-1">as</t>
+                <t id="p01-s04-t10" type="GSL-1">a</t>
+                <t id="p01-s04-t11">facile</t>
+                <t id="p01-s04-t12">emotion</t>
+                <t id="p01-s04-t13">elicitor</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p01-s05">
+                <t id="p01-s05-t01">Cute</t>
+                <t id="p01-s05-t02" type="Coxhead-AWL-2,AR-AWL-2a">features</t>
+                <t id="p01-s05-t03" type="GSL-1">not</t>
+                <t id="p01-s05-t04" type="GSL-1">only</t>
+                <t id="p01-s05-t05" type="GSL-1">make</t>
+                <t id="p01-s05-t06" type="GSL-1">objects</t>
+                <t id="p01-s05-t07" type="GSL-1">more</t>
+                <t id="p01-s05-t08" type="GSL-1">user</t>
+                <t id="p01-s05-t09" type="GSL-1">friendly</t>
+                <t id="p01-s05-t10" type="GSL-1">and</t>
+                <t id="p01-s05-t11" type="Coxhead-AWL-1,AR-AWL-1a">approachable</t>
+                <punc>[</punc>
+                <t id="p01-s05-t12">3</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <t id="p01-s05-t13" type="GSL-1">but</t>
+                <t id="p01-s05-t14" type="GSL-1">also</t>
+                <t id="p01-s05-t15" type="Coxhead-AWL-8,AR-AWL-8b">induce</t>
+                <t id="p01-s05-t16" type="GSL-1">careful</t>
+                <t id="p01-s05-t17" type="GSL-2">behavioral</t>
+                <t id="p01-s05-t18" type="GSL-2">tendencies</t>
+                <t id="p01-s05-t19" type="GSL-1">in</t>
+                <t id="p01-s05-t20" type="GSL-1">the</t>
+                <t id="p01-s05-t21" type="GSL-1">users</t>
+                <punc>,</punc>
+                <t id="p01-s05-t22" type="GSL-1">which</t>
+                <t id="p01-s05-t23" type="GSL-1">is</t>
+                <t id="p01-s05-t24" type="Coxhead-AWL-1,AR-AWL-1a">beneficial</t>
+                <t id="p01-s05-t25" type="GSL-1">in</t>
+                <t id="p01-s05-t26" type="Coxhead-AWL-1,AR-AWL-1b">specific</t>
+                <t id="p01-s05-t27" type="GSL-1">situations</t>
+                <punc>,</punc>
+                <t id="p01-s05-t28" type="GSL-1">such</t>
+                <t id="p01-s05-t29" type="GSL-1">as</t>
+                <t id="p01-s05-t30" type="GSL-1">driving</t>
+                <t id="p01-s05-t31" type="GSL-1">and</t>
+                <t id="p01-s05-t32" type="GSL-1">office</t>
+                <t id="p01-s05-t33" type="GSL-1">work</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

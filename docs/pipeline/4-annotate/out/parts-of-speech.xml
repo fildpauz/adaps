@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Parts of Speech</title>
+    <citation>Rose, RL., “Academic Reading in Science and Engineering, Book 1”, DTP Publishing: Tokyo, Japan., Retrieved from https://www.amazon.co.jp/Academic-Reading-Science-Engineering-Book1/dp/4862115268</citation>
+    <url>https://www.amazon.co.jp/Academic-Reading-Science-Engineering-Book1/dp/4862115268</url>
+    <info type="arise">
+        <arise-info book="1"
+                    section="2"
+                    unit="1"
+                    part="1"
+                    item="A"
+                    firstpage="14"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence par-function="topic|supporting|concluding" id="p01-s01">
+                <t id="p01-s01-t01" type="GSL-1">There</t>
+                <t id="p01-s01-t02" type="GSL-1">is</t>
+                <t id="p01-s01-t03" type="GSL-1">still</t>
+                <t id="p01-s01-t04" type="GSL-1">much</t>
+                <t id="p01-s01-t05" type="Coxhead-AWL-4,AR-AWL-4a">debate</t>
+                <t id="p01-s01-t06" type="GSL-1">among</t>
+                <t id="p01-s01-t07" type="GSL-1">language</t>
+                <t id="p01-s01-t08" type="Coxhead-AWL-6,AR-AWL-6a">experts</t>
+                <t id="p01-s01-t09" type="GSL-1">about</t>
+                <t id="p01-s01-t10" type="GSL-1">how</t>
+                <t id="p01-s01-t11" type="GSL-1">to</t>
+                <t id="p01-s01-t12" type="GSL-1">classify</t>
+                <t id="p01-s01-t13" type="GSL-1">and</t>
+                <t id="p01-s01-t14" type="Coxhead-AWL-1,AR-AWL-1a">analyze</t>
+                <t id="p01-s01-t15" type="GSL-1">words</t>
+                <punc>,</punc>
+                <connector id="p01-s01-c01" type="" info="">
+                    <t id="p01-s01-t16" type="GSL-1">but</t>
+                </connector>
+                <t id="p01-s01-t17" type="GSL-1">most</t>
+                <t id="p01-s01-t18" type="Coxhead-AWL-1,AR-AWL-1a">analyses</t>
+                <t id="p01-s01-t19" type="GSL-1">depend</t>
+                <t id="p01-s01-t20" type="GSL-1">on</t>
+                <t id="p01-s01-t21" type="GSL-1">some</t>
+                <t id="p01-s01-t22" type="GSL-1">common</t>
+                <t id="p01-s01-t23" type="Coxhead-AWL-2,AR-AWL-2a">distinctions</t>
+                <t id="p01-s01-t24" type="GSL-1">and</t>
+                <t id="p01-s01-t25">well-known</t>
+                <t id="p01-s01-t26" type="Coxhead-AWL-2,AR-AWL-2a">categories</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p01-s02">
+                <connector id="p01-s02-c01" type="" info="">
+                    <t id="p01-s02-t01" type="GSL-1">Generally</t>
+                    <t id="p01-s02-t02" type="GSL-1">speaking</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p01-s02-t03" type="GSL-1">words</t>
+                <t id="p01-s02-t04" type="GSL-1">can</t>
+                <t id="p01-s02-t05" type="GSL-1">be</t>
+                <t id="p01-s02-t06" type="GSL-1">classified</t>
+                <t id="p01-s02-t07" type="GSL-1">into</t>
+                <t id="p01-s02-t08" type="GSL-1">two</t>
+                <t id="p01-s02-t09" type="GSL-1">broad</t>
+                <t id="p01-s02-t10" type="Coxhead-AWL-2,AR-AWL-2a">categories</t>
+                <punc>:</punc>
+                <t id="p01-s02-t11" type="GSL-1">content</t>
+                <t id="p01-s02-t12" type="GSL-1">words</t>
+                <t id="p01-s02-t13" type="GSL-1">and</t>
+                <t id="p01-s02-t14" type="Coxhead-AWL-1,AR-AWL-1a">function</t>
+                <t id="p01-s02-t15" type="GSL-1">words</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p01-s03">
+                <term id="p01-s03-e01" info="">
+                    <t id="p01-s03-t01" type="GSL-1">Content</t>
+                    <t id="p01-s03-t02" type="GSL-1">words</t>
+                </term>
+                <t id="p01-s03-t03" type="Coxhead-AWL-4,AR-AWL-4a">communicate</t>
+                <t id="p01-s03-t04" type="GSL-1">the</t>
+                <t id="p01-s03-t05" type="GSL-1">main</t>
+                <t id="p01-s03-t06" type="GSL-1">content</t>
+                <t id="p01-s03-t07" type="GSL-1">or</t>
+                <t id="p01-s03-t08" type="GSL-1">ideas</t>
+                <t id="p01-s03-t09" type="GSL-1">of</t>
+                <t id="p01-s03-t10" type="GSL-1">a</t>
+                <t id="p01-s03-t11" type="Coxhead-AWL-2,AR-AWL-2b">text</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p01-s04">
+                <anaphor id="p01-s04-a01" info="">
+                    <t id="p01-s04-t01" type="GSL-1">Here</t>
+                </anaphor>
+                <punc>,</punc>
+                <t id="p01-s04-t02" type="GSL-1">the</t>
+                <t id="p01-s04-t03">well-known</t>
+                <t id="p01-s04-t04" type="Coxhead-AWL-2,AR-AWL-2a">categories</t>
+                <punc>(</punc>
+                <t id="p01-s04-t05" type="GSL-1">sometimes</t>
+                <t id="p01-s04-t06" type="GSL-2">referred</t>
+                <t id="p01-s04-t07" type="GSL-1">to</t>
+                <t id="p01-s04-t08" type="GSL-1">as</t>
+                <term id="p01-s04-e01" info="">
+                    <t id="p01-s04-t09" type="GSL-1">parts</t>
+                    <t id="p01-s04-t10" type="GSL-1">of</t>
+                    <t id="p01-s04-t11" type="GSL-1">speech</t>
+                </term>
+                <punc>)</punc>
+                <t id="p01-s04-t12" type="GSL-1">include</t>
+                <t id="p01-s04-t13" type="GSL-2">nouns</t>
+                <punc>,</punc>
+                <t id="p01-s04-t14" type="GSL-2">verbs</t>
+                <punc>,</punc>
+                <t id="p01-s04-t15">adjectives</t>
+                <punc>,</punc>
+                <t id="p01-s04-t16" type="GSL-1">and</t>
+                <t id="p01-s04-t17">adverbs</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p01-s05">
+                <term id="p01-s05-e01" info="">
+                    <t id="p01-s05-t01" type="GSL-2">Nouns</t>
+                </term>
+                <t id="p01-s05-t02" type="GSL-1">point</t>
+                <t id="p01-s05-t03" type="GSL-1">to</t>
+                <t id="p01-s05-t04" type="GSL-1">people</t>
+                <punc>,</punc>
+                <t id="p01-s05-t05" type="GSL-1">objects</t>
+                <punc>,</punc>
+                <t id="p01-s05-t06" type="GSL-1">or</t>
+                <t id="p01-s05-t07" type="GSL-1">ideas</t>
+                <t id="p01-s05-t08" type="GSL-1">in</t>
+                <t id="p01-s05-t09" type="GSL-1">the</t>
+                <t id="p01-s05-t10" type="GSL-1">world</t>
+                <t id="p01-s05-t11" type="GSL-1">that</t>
+                <t id="p01-s05-t12" type="GSL-1">we</t>
+                <t id="p01-s05-t13" type="GSL-1">want</t>
+                <t id="p01-s05-t14" type="GSL-1">to</t>
+                <t id="p01-s05-t15" type="GSL-1">talk</t>
+                <t id="p01-s05-t16" type="GSL-1">about</t>
+                <t id="p01-s05-t17" type="GSL-1">such</t>
+                <t id="p01-s05-t18" type="GSL-1">as</t>
+                <emph>
+                    <t id="p01-s05-t19" type="GSL-1">student</t>
+                </emph>
+                <punc>,</punc>
+                <emph>
+                    <t id="p01-s05-t20">laboratory</t>
+                </emph>
+                <punc>,</punc>
+                <t id="p01-s05-t21" type="GSL-1">or</t>
+                <emph>
+                    <t id="p01-s05-t22" type="Coxhead-AWL-1,AR-AWL-1b">theory</t>
+                </emph>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p01-s06">
+                <connector id="p01-s06-c01" type="" info="">
+                    <t id="p01-s06-t01" type="Coxhead-AWL-3,AR-AWL-3a">Alternatively</t>
+                </connector>
+                <punc>,</punc>
+                <term id="p01-s06-e01" info="">
+                    <t id="p01-s06-t02" type="GSL-2">verbs</t>
+                </term>
+                <t id="p01-s06-t03" type="GSL-1">describe</t>
+                <t id="p01-s06-t04" type="GSL-1">some</t>
+                <t id="p01-s06-t05" type="GSL-1">relation</t>
+                <t id="p01-s06-t06" type="GSL-1">or</t>
+                <t id="p01-s06-t07" type="Coxhead-AWL-3,AR-AWL-3b">interaction</t>
+                <t id="p01-s06-t08" type="GSL-1">between</t>
+                <t id="p01-s06-t09" type="GSL-1">these</t>
+                <t id="p01-s06-t10" type="GSL-1">people</t>
+                <punc>,</punc>
+                <t id="p01-s06-t11" type="GSL-1">objects</t>
+                <punc>,</punc>
+                <t id="p01-s06-t12" type="GSL-1">and</t>
+                <t id="p01-s06-t13" type="GSL-1">ideas</t>
+                <punc>,</punc>
+                <t id="p01-s06-t14" type="GSL-1">such</t>
+                <t id="p01-s06-t15" type="GSL-1">as</t>
+                <emph>
+                    <t id="p01-s06-t16" type="GSL-1">observe</t>
+                </emph>
+                <punc>,</punc>
+                <emph>
+                    <t id="p01-s06-t17" type="Coxhead-AWL-1,AR-AWL-1a">analyze</t>
+                </emph>
+                <punc>,</punc>
+                <t id="p01-s06-t18" type="GSL-1">or</t>
+                <emph>
+                    <t id="p01-s06-t19" type="GSL-1">propose</t>
+                </emph>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p01-s07">
+                <term id="p01-s07-e01" info="">
+                    <t id="p01-s07-t01">Adjectives</t>
+                </term>
+                <t id="p01-s07-t02" type="Coxhead-AWL-1,AR-AWL-1a">identify</t>
+                <t id="p01-s07-t03" type="GSL-1">some</t>
+                <t id="p01-s07-t04" type="GSL-1">characteristic</t>
+                <t id="p01-s07-t05" type="GSL-1">of</t>
+                <t id="p01-s07-t06" type="GSL-1">the</t>
+                <t id="p01-s07-t07" type="GSL-1">people</t>
+                <punc>,</punc>
+                <t id="p01-s07-t08" type="GSL-1">objects</t>
+                <punc>,</punc>
+                <t id="p01-s07-t09" type="GSL-1">or</t>
+                <t id="p01-s07-t10" type="GSL-1">ideas</t>
+                <t id="p01-s07-t11" type="GSL-1">such</t>
+                <t id="p01-s07-t12" type="GSL-1">as</t>
+                <emph>
+                    <t id="p01-s07-t13" type="Coxhead-AWL-5,AR-AWL-5b">logical</t>
+                </emph>
+                <t id="p01-s07-t14" type="GSL-1">or</t>
+                <emph>
+                    <t id="p01-s07-t15" type="Coxhead-AWL-6,AR-AWL-6b">rational</t>
+                </emph>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p01-s08">
+                <connector id="p01-s08-c01" type="" info="">
+                    <t id="p01-s08-t01" type="Coxhead-AWL-2,AR-AWL-2a">Finally</t>
+                </connector>
+                <punc>,</punc>
+                <term id="p01-s08-e01" info="">
+                    <t id="p01-s08-t02">adverbs</t>
+                </term>
+                <t id="p01-s08-t03" type="Coxhead-AWL-1,AR-AWL-1a">identify</t>
+                <t id="p01-s08-t04" type="GSL-1">some</t>
+                <t id="p01-s08-t05" type="GSL-1">characteristic</t>
+                <t id="p01-s08-t06" type="GSL-1">of</t>
+                <t id="p01-s08-t07" type="GSL-1">the</t>
+                <t id="p01-s08-t08" type="GSL-1">relations</t>
+                <t id="p01-s08-t09" type="GSL-1">or</t>
+                <t id="p01-s08-t10" type="Coxhead-AWL-3,AR-AWL-3b">interactions</t>
+                <t id="p01-s08-t11" type="GSL-1">described</t>
+                <t id="p01-s08-t12" type="GSL-1">by</t>
+                <t id="p01-s08-t13" type="GSL-2">verbs</t>
+                <t id="p01-s08-t14" type="GSL-1">such</t>
+                <t id="p01-s08-t15" type="GSL-1">as</t>
+                <emph>
+                    <t id="p01-s08-t16" type="GSL-1">completely</t>
+                </emph>
+                <t id="p01-s08-t17" type="GSL-1">or</t>
+                <emph>
+                    <t id="p01-s08-t18" type="GSL-2">falsely</t>
+                </emph>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence par-function="topic|supporting|concluding" id="p02-s01">
+                <term id="p02-s01-e01" info="">
+                    <t id="p02-s01-t01" type="Coxhead-AWL-1,AR-AWL-1a">Function</t>
+                    <t id="p02-s01-t02" type="GSL-1">words</t>
+                </term>
+                <punc>,</punc>
+                <connector id="p02-s01-c01" type="" info="">
+                    <t id="p02-s01-t03" type="GSL-1">on</t>
+                    <t id="p02-s01-t04" type="GSL-1">the</t>
+                    <t id="p02-s01-t05" type="GSL-1">other</t>
+                    <t id="p02-s01-t06" type="GSL-1">hand</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p02-s01-t07" type="GSL-1">show</t>
+                <t id="p02-s01-t08" type="GSL-1">the</t>
+                <t id="p02-s01-t09" type="Coxhead-AWL-1,AR-AWL-1b">structure</t>
+                <t id="p02-s01-t10" type="GSL-1">of</t>
+                <t id="p02-s01-t11" type="GSL-1">a</t>
+                <t id="p02-s01-t12" type="Coxhead-AWL-2,AR-AWL-2b">text</t>
+                <t id="p02-s01-t13" type="GSL-1">and</t>
+                <t id="p02-s01-t14" type="GSL-1">how</t>
+                <t id="p02-s01-t15" type="GSL-1">content</t>
+                <t id="p02-s01-t16" type="GSL-1">words</t>
+                <t id="p02-s01-t17" type="GSL-1">relate</t>
+                <t id="p02-s01-t18" type="GSL-1">to</t>
+                <t id="p02-s01-t19" type="GSL-1">one</t>
+                <t id="p02-s01-t20" type="GSL-1">another</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p02-s02">
+                <term id="p02-s02-e01" info="">
+                    <t id="p02-s02-t01">Pronouns</t>
+                </term>
+                <punc>,</punc>
+                <t id="p02-s02-t02" type="GSL-1">like</t>
+                <t id="p02-s02-t03" type="GSL-2">nouns</t>
+                <punc>,</punc>
+                <t id="p02-s02-t04" type="GSL-1">point</t>
+                <t id="p02-s02-t05" type="GSL-1">to</t>
+                <t id="p02-s02-t06" type="GSL-1">people</t>
+                <punc>,</punc>
+                <t id="p02-s02-t07" type="GSL-1">objects</t>
+                <punc>,</punc>
+                <t id="p02-s02-t08" type="GSL-1">or</t>
+                <t id="p02-s02-t09" type="GSL-1">ideas</t>
+                <punc>,</punc>
+                <t id="p02-s02-t10" type="GSL-1">but</t>
+                <t id="p02-s02-t11" type="Coxhead-AWL-1,AR-AWL-1b">specifically</t>
+                <punc>,</punc>
+                <t id="p02-s02-t12" type="GSL-1">ones</t>
+                <t id="p02-s02-t13" type="GSL-1">that</t>
+                <t id="p02-s02-t14" type="GSL-1">have</t>
+                <t id="p02-s02-t15" type="GSL-1">been</t>
+                <t id="p02-s02-t16" type="Coxhead-AWL-1,AR-AWL-1a">identified</t>
+                <t id="p02-s02-t17" type="GSL-1">or</t>
+                <t id="p02-s02-t18" type="Coxhead-AWL-3,AR-AWL-3a">implied</t>
+                <t id="p02-s02-t19" type="GSL-1">in</t>
+                <t id="p02-s02-t20" type="GSL-1">the</t>
+                <t id="p02-s02-t21" type="Coxhead-AWL-1,AR-AWL-1a">context</t>
+                <t id="p02-s02-t22" type="GSL-1">such</t>
+                <t id="p02-s02-t23" type="GSL-1">as</t>
+                <emph>
+                    <t id="p02-s02-t24" type="GSL-1">it</t>
+                </emph>
+                <punc>,</punc>
+                <emph>
+                    <t id="p02-s02-t25" type="GSL-1">they</t>
+                </emph>
+                <punc>,</punc>
+                <t id="p02-s02-t26" type="GSL-1">or</t>
+                <emph>
+                    <t id="p02-s02-t27" type="GSL-1">this</t>
+                </emph>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p02-s03">
+                <term id="p02-s03-e01" info="">
+                    <t id="p02-s03-t01">Prepositions</t>
+                </term>
+                <t id="p02-s03-t02" type="GSL-1">are</t>
+                <t id="p02-s03-t03" type="GSL-1">difficult</t>
+                <t id="p02-s03-t04" type="GSL-1">to</t>
+                <t id="p02-s03-t05" type="Coxhead-AWL-1,AR-AWL-1a">define</t>
+                <t id="p02-s03-t06" type="GSL-1">but</t>
+                <t id="p02-s03-t07" type="GSL-1">include</t>
+                <t id="p02-s03-t08" type="GSL-1">words</t>
+                <t id="p02-s03-t09" type="GSL-1">that</t>
+                <t id="p02-s03-t10" type="GSL-1">show</t>
+                <t id="p02-s03-t11" type="GSL-1">relations</t>
+                <t id="p02-s03-t12" type="GSL-1">to</t>
+                <t id="p02-s03-t13" type="GSL-1">or</t>
+                <t id="p02-s03-t14" type="Coxhead-AWL-3,AR-AWL-3b">interactions</t>
+                <t id="p02-s03-t15" type="GSL-1">with</t>
+                <t id="p02-s03-t16" type="GSL-1">people</t>
+                <punc>,</punc>
+                <t id="p02-s03-t17" type="GSL-1">objects</t>
+                <punc>,</punc>
+                <t id="p02-s03-t18" type="GSL-1">and</t>
+                <t id="p02-s03-t19" type="GSL-1">ideas</t>
+                <t id="p02-s03-t20" type="GSL-1">and</t>
+                <t id="p02-s03-t21" type="GSL-1">often</t>
+                <t id="p02-s03-t22" type="Coxhead-AWL-1,AR-AWL-1a">identify</t>
+                <t id="p02-s03-t23" type="GSL-1">a</t>
+                <t id="p02-s03-t24" type="GSL-1">direction</t>
+                <t id="p02-s03-t25" type="GSL-1">or</t>
+                <t id="p02-s03-t26" type="GSL-1">a</t>
+                <t id="p02-s03-t27" type="GSL-2">connection</t>
+                <t id="p02-s03-t28" type="GSL-1">such</t>
+                <t id="p02-s03-t29" type="GSL-1">as</t>
+                <emph>
+                    <t id="p02-s03-t30" type="GSL-1">to</t>
+                </emph>
+                <punc>,</punc>
+                <emph>
+                    <t id="p02-s03-t31" type="GSL-1">against</t>
+                </emph>
+                <punc>,</punc>
+                <emph>
+                    <t id="p02-s03-t32" type="GSL-1">by</t>
+                </emph>
+                <punc>,</punc>
+                <t id="p02-s03-t33" type="GSL-1">or</t>
+                <emph>
+                    <t id="p02-s03-t34" type="GSL-1">since</t>
+                </emph>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p02-s04">
+                <term id="p02-s04-e01" info="">
+                    <t id="p02-s04-t01">Conjunctions</t>
+                </term>
+                <t id="p02-s04-t02" type="GSL-1">are</t>
+                <t id="p02-s04-t03" type="GSL-1">words</t>
+                <t id="p02-s04-t04" type="GSL-1">that</t>
+                <t id="p02-s04-t05" type="GSL-2">connect</t>
+                <t id="p02-s04-t06" type="GSL-1">various</t>
+                <t id="p02-s04-t07" type="Coxhead-AWL-1,AR-AWL-1b">structural</t>
+                <t id="p02-s04-t08" type="GSL-1">units</t>
+                <t id="p02-s04-t09" type="GSL-1">of</t>
+                <t id="p02-s04-t10" type="GSL-1">a</t>
+                <t id="p02-s04-t11" type="Coxhead-AWL-2,AR-AWL-2b">text</t>
+                <t id="p02-s04-t12" type="GSL-1">from</t>
+                <t id="p02-s04-t13" type="GSL-1">simple</t>
+                <t id="p02-s04-t14" type="GSL-2">nouns</t>
+                <t id="p02-s04-t15" type="GSL-1">or</t>
+                <t id="p02-s04-t16" type="GSL-2">verbs</t>
+                <t id="p02-s04-t17" type="GSL-1">all</t>
+                <t id="p02-s04-t18" type="GSL-1">the</t>
+                <t id="p02-s04-t19" type="GSL-1">way</t>
+                <t id="p02-s04-t20" type="GSL-1">up</t>
+                <t id="p02-s04-t21" type="GSL-1">to</t>
+                <t id="p02-s04-t22" type="GSL-1">whole</t>
+                <t id="p02-s04-t23" type="GSL-2">sentences</t>
+                <t id="p02-s04-t24" type="GSL-1">into</t>
+                <t id="p02-s04-t25" type="GSL-1">larger</t>
+                <t id="p02-s04-t26" type="Coxhead-AWL-1,AR-AWL-1b">structural</t>
+                <t id="p02-s04-t27" type="GSL-1">units</t>
+                <t id="p02-s04-t28" type="GSL-1">such</t>
+                <t id="p02-s04-t29" type="GSL-1">as</t>
+                <emph>
+                    <t id="p02-s04-t30" type="GSL-1">and</t>
+                </emph>
+                <punc>,</punc>
+                <emph>
+                    <t id="p02-s04-t31" type="GSL-1">but</t>
+                </emph>
+                <punc>,</punc>
+                <t id="p02-s04-t32" type="GSL-1">or</t>
+                <emph>
+                    <t id="p02-s04-t33" type="GSL-1">or</t>
+                </emph>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p02-s05">
+                <connector id="p02-s05-c01" type="" info="">
+                    <t id="p02-s05-t01" type="Coxhead-AWL-2,AR-AWL-2a">Finally</t>
+                </connector>
+                <punc>,</punc>
+                <term id="p02-s05-e01" info="">
+                    <t id="p02-s05-t02" type="GSL-1">articles</t>
+                </term>
+                <t id="p02-s05-t03" type="GSL-1">is</t>
+                <t id="p02-s05-t04" type="GSL-1">a</t>
+                <t id="p02-s05-t05" type="GSL-1">small</t>
+                <punc>,</punc>
+                <t id="p02-s05-t06" type="GSL-1">but</t>
+                <t id="p02-s05-t07" type="GSL-1">important</t>
+                <t id="p02-s05-t08" type="Coxhead-AWL-2,AR-AWL-2a">category</t>
+                <t id="p02-s05-t09" type="GSL-1">that</t>
+                <t id="p02-s05-t10" type="GSL-1">includes</t>
+                <t id="p02-s05-t11" type="GSL-1">words</t>
+                <t id="p02-s05-t12" type="GSL-1">that</t>
+                <t id="p02-s05-t13" type="Coxhead-AWL-1,AR-AWL-1b">indicate</t>
+                <t id="p02-s05-t14" type="GSL-1">whether</t>
+                <t id="p02-s05-t15" type="GSL-1">the</t>
+                <t id="p02-s05-t16" type="GSL-1">person</t>
+                <punc>,</punc>
+                <t id="p02-s05-t17" type="GSL-1">object</t>
+                <punc>,</punc>
+                <t id="p02-s05-t18" type="GSL-1">or</t>
+                <t id="p02-s05-t19" type="GSL-1">idea</t>
+                <t id="p02-s05-t20" type="GSL-1">is</t>
+                <t id="p02-s05-t21" type="GSL-1">general</t>
+                <t id="p02-s05-t22" type="GSL-1">or</t>
+                <t id="p02-s05-t23" type="Coxhead-AWL-1,AR-AWL-1b">specific</t>
+                <punc>,</punc>
+                <t id="p02-s05-t24" type="GSL-1">such</t>
+                <t id="p02-s05-t25" type="GSL-1">as</t>
+                <emph>
+                    <t id="p02-s05-t26" type="GSL-1">a(n)</t>
+                </emph>
+                <punc>,</punc>
+                <emph>
+                    <t id="p02-s05-t28" type="GSL-1">the</t>
+                </emph>
+                <punc>,</punc>
+                <t id="p02-s05-t29" type="GSL-1">or</t>
+                <emph>
+                    <t id="p02-s05-t30" type="GSL-1">some</t>
+                </emph>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
