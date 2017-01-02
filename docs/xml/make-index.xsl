@@ -46,7 +46,7 @@
             </xsl:attribute>
             <xsl:element name="h2">
                 <xsl:attribute name="class">
-                    <xsl:text>w3-padding-medium</xsl:text>
+                    <xsl:text>w3-padding-medium w3-text-shadow</xsl:text>
                 </xsl:attribute>
                 <xsl:value-of select="document('arise_structure.xml')//book[@number=$booknum]/@shorttext"/>
             </xsl:element>
@@ -163,7 +163,7 @@
             </xsl:attribute>
             <xsl:element name="h2">
                 <xsl:attribute name="class">
-                    <xsl:text>w3-padding-medium</xsl:text>
+                    <xsl:text>w3-padding-medium w3-text-shadow</xsl:text>
                 </xsl:attribute>
                 <xsl:text>Other</xsl:text>
             </xsl:element>
@@ -296,7 +296,7 @@
                         <xsl:text>./images/adaps_logo.png</xsl:text>
                     </xsl:attribute>
                     <xsl:attribute name="class">
-                        <xsl:text>w3-round w3-image w3-animate-opacity</xsl:text>
+                        <xsl:text>w3-round-large w3-image w3-animate-opacity</xsl:text>
                     </xsl:attribute>
                     <xsl:attribute name="style">
                         <!--<xsl:text>max-widtht: 300px;</xsl:text>-->
@@ -311,6 +311,9 @@
                     <xsl:text>w3-margin</xsl:text>
                 </xsl:attribute>
                 <xsl:element name="h1">
+                    <xsl:attribute name="class">
+                        <xsl:text>w3-text-shadow</xsl:text>
+                    </xsl:attribute>
                     <xsl:text>Academic Document Annotation and Presentation Schema</xsl:text>
                 </xsl:element>
             </xsl:element>
@@ -352,16 +355,19 @@
                     <xsl:text>./images/adaps_icon.png</xsl:text>
                 </xsl:attribute>
                 <xsl:attribute name="class">
-                    <xsl:text>w3-round w3-image w3-left w3-margin-0</xsl:text>
+                    <xsl:text>w3-round-small w3-image w3-left w3-margin</xsl:text>
                 </xsl:attribute>
                 <xsl:attribute name="style">
-                    <xsl:text>max-width: 60px;</xsl:text>
+                    <xsl:text>max-height: 1.5em;</xsl:text>
                 </xsl:attribute>
                 <xsl:attribute name="alt">
                     <xsl:text>ADAPS icon</xsl:text>
                 </xsl:attribute>
             </xsl:element>
             <xsl:element name="p">
+                <xsl:attribute name="class">
+                    <xsl:text>w3-text-shadow</xsl:text>
+                </xsl:attribute>
                 <xsl:text>ADAPS</xsl:text>
             </xsl:element>
         </xsl:element>
