@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Henry Cavendish (Extract)</title>
+    <citation>Simple English Wikipedia: “Henry Cavendish”. Retrieved from https://simple.wikipedia.org/wiki/Henry_Cavendish on 20 Aug 2015.</citation>
+    <url>https://simple.wikipedia.org/wiki/Henry_Cavendish</url>
+    <info type="arise">
+        <arise-info book="2"
+                    section="2"
+                    unit="3"
+                    part="4"
+                    item="2"
+                    firstpage="23"/>
+    </info>
+    <body>
+        <paragraph>
+            <sentence>
+                <t>Henry</t>
+                <t>Cavendish</t>
+                <punc>(</punc>
+                <t>1731-1810</t>
+                <punc>)</punc>
+                <t>was</t>
+                <t>a</t>
+                <t>British</t>
+                <t>scientist</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>He</t>
+                <t>is</t>
+                <t>famous</t>
+                <t>for</t>
+                <t>discovering</t>
+                <t>hydrogen</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Cavendish</t>
+                <t>also</t>
+                <t>claimed</t>
+                <t>that</t>
+                <t>the</t>
+                <t>force</t>
+                <t>between</t>
+                <t>the</t>
+                <t>two</t>
+                <t>electrical</t>
+                <t>objects</t>
+                <t>gets</t>
+                <t>smaller</t>
+                <t>as</t>
+                <t>they</t>
+                <t>get</t>
+                <t>further</t>
+                <t>apart</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>If</t>
+                <t>the</t>
+                <t>distance</t>
+                <t>between</t>
+                <t>them</t>
+                <t>doubled</t>
+                <punc>,</punc>
+                <t>the</t>
+                <t>force</t>
+                <t>would</t>
+                <t>be</t>
+                <t>one</t>
+                <t>quarter</t>
+                <t>what</t>
+                <t>it</t>
+                <t>was</t>
+                <t>before</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>This</t>
+                <t>was</t>
+                <t>based</t>
+                <t>on</t>
+                <t>the</t>
+                <t>inverse-square</t>
+                <t>law</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

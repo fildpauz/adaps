@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Daylight saving time (Extract)</title>
+    <citation>Simple English Wikipedia: “Daylight saving time”. Retrieved from https://simple.wikipedia.org/wiki/Daylight_saving_time on 20 Aug 2015.</citation>
+    <url>https://simple.wikipedia.org/wiki/Daylight_saving_time</url>
+    <info type="arise">
+        <arise-info book="2"
+                    section="2"
+                    unit="2"
+                    part="4"
+                    item="1"
+                    firstpage="19"/>
+    </info>
+    <body>
+        <paragraph>
+            <sentence>
+                <t>During</t>
+                <t>the</t>
+                <t>summer</t>
+                <t>months</t>
+                <punc>,</punc>
+                <t>the</t>
+                <t>sun</t>
+                <t>stays</t>
+                <t>visible</t>
+                <t>for</t>
+                <t>a</t>
+                <t>longer</t>
+                <t>time</t>
+                <punc>,</punc>
+                <t>and</t>
+                <t>sunset</t>
+                <t>happens</t>
+                <t>late</t>
+                <t>in</t>
+                <t>the</t>
+                <t>day</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>For</t>
+                <t>this</t>
+                <t>reason</t>
+                <punc>,</punc>
+                <t>certain</t>
+                <t>countries</t>
+                <t>advance</t>
+                <t>the</t>
+                <t>time</t>
+                <t>by</t>
+                <t>one</t>
+                <t>hour</t>
+                <t>near</t>
+                <t>the</t>
+                <t>start</t>
+                <t>of</t>
+                <t>summer</t>
+                <punc>,</punc>
+                <t>and</t>
+                <t>put</t>
+                <t>it</t>
+                <t>back</t>
+                <t>one</t>
+                <t>hour</t>
+                <t>during</t>
+                <t>autumn</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>The</t>
+                <t>time</t>
+                <t>during</t>
+                <t>summer</t>
+                <t>is</t>
+                <t>called</t>
+                <t>Daylight</t>
+                <t>saving</t>
+                <t>time</t>
+                <punc>(</punc>
+                <t>DST</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
