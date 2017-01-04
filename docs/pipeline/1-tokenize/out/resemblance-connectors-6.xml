@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Edubuntu (Extract)</title>
+    <citation>Simple English Wikipedia: “Edubuntu”. Retrieved from https://simple.wikipedia.org/wiki/Edubuntu on 24 Aug 2015.</citation>
+    <url>https://simple.wikipedia.org/wiki/Edubuntu</url>
+    <info type="arise">
+        <arise-info book="2" section="2" unit="1" part="4" item="5" firstpage="16"/>
+    </info>
+    <body>
+        <paragraph>
+            <sentence>
+                <t>The</t>
+                <t>principal</t>
+                <t>design</t>
+                <t>goals</t>
+                <t>of</t>
+                <t>Edubuntu</t>
+                <t>are</t>
+                <t>easier</t>
+                <t>configuration</t>
+                <punc>,</punc>
+                <t>users</t>
+                <t>and</t>
+                <t>processes</t>
+                <punc>,</punc>
+                <t>together</t>
+                <t>with</t>
+                <t>ways</t>
+                <t>for</t>
+                <t>working</t>
+                <t>together</t>
+                <t>in</t>
+                <t>classrooms</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Equally</t>
+                <t>important</t>
+                <t>is</t>
+                <t>the</t>
+                <t>gathering</t>
+                <t>together</t>
+                <t>of</t>
+                <t>the</t>
+                <t>best</t>
+                <t>available</t>
+                <t>free</t>
+                <t>software</t>
+                <t>and</t>
+                <t>digital</t>
+                <t>materials</t>
+                <t>for</t>
+                <t>education</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <punc>[</punc>
+                <punc>“</punc>
+                <t>Edubuntu</t>
+                <punc>”</punc>
+                <punc>]</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

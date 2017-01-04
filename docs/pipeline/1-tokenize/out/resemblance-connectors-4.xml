@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Company (Extract)</title>
+    <citation>Simple English Wikipedia: “Company”. Retrieved from https://simple.wikipedia.org/wiki/Company on 20 Aug 2015.</citation>
+    <url>https://simple.wikipedia.org/wiki/Company</url>
+    <info type="arise">
+        <arise-info book="2" section="2" unit="1" part="4" item="3" firstpage="15"/>
+    </info>
+    <body>
+        <paragraph>
+            <sentence>
+                <t>A</t>
+                <t>company</t>
+                <t>is</t>
+                <t>a</t>
+                <t>type</t>
+                <t>of</t>
+                <t>business</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>The</t>
+                <t>definition</t>
+                <t>of</t>
+                <t>the</t>
+                <t>term</t>
+                <t>varies</t>
+                <t>by</t>
+                <t>country</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>In</t>
+                <t>general</t>
+                <punc>,</punc>
+                <t>a</t>
+                <t>company</t>
+                <t>is</t>
+                <t>the</t>
+                <t>same</t>
+                <t>as</t>
+                <t>a</t>
+                <t>corporation</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>It</t>
+                <t>is</t>
+                <t>a</t>
+                <t>business</t>
+                <t>organization</t>
+                <t>which</t>
+                <t>makes</t>
+                <t>goods</t>
+                <t>in</t>
+                <t>an</t>
+                <t>organized</t>
+                <t>manner</t>
+                <t>and</t>
+                <t>sells</t>
+                <t>them</t>
+                <t>to</t>
+                <t>the</t>
+                <t>public</t>
+                <t>for</t>
+                <t>profit</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <punc>[</punc>
+                <punc>“</punc>
+                <t>Company</t>
+                <punc>”</punc>
+                <punc>]</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

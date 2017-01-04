@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Pure mathematics (Extract)</title>
+    <citation>Simple English Wikipedia: “Pure mathematics”. Retrieved from https://simple.wikipedia.org/wiki/Pure_mathematics on 22 Aug 2015.</citation>
+    <url>https://simple.wikipedia.org/wiki/Pure_mathematics</url>
+    <info type="arise">
+        <arise-info book="2" section="2" unit="1" part="4" item="4" firstpage="16"/>
+    </info>
+    <body>
+        <paragraph>
+            <sentence>
+                <t>Many</t>
+                <t>fields</t>
+                <t>of</t>
+                <t>mathematics</t>
+                <t>are</t>
+                <t>driven</t>
+                <t>and</t>
+                <t>motivated</t>
+                <t>by</t>
+                <t>applications</t>
+                <punc>:</punc>
+                <t>They</t>
+                <t>can</t>
+                <t>be</t>
+                <t>used</t>
+                <t>to</t>
+                <t>solve</t>
+                <t>real-world</t>
+                <t>problems</t>
+                <punc>,</punc>
+                <t>for</t>
+                <t>example</t>
+                <punc>,</punc>
+                <t>in</t>
+                <t>physics</t>
+                <t>or</t>
+                <t>engineering</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>In</t>
+                <t>contrast</t>
+                <punc>,</punc>
+                <t>pure</t>
+                <t>mathematics</t>
+                <t>studies</t>
+                <t>abstract</t>
+                <t>ideas</t>
+                <t>or</t>
+                <t>it</t>
+                <t>tries</t>
+                <t>to</t>
+                <t>make</t>
+                <t>proofs</t>
+                <t>more</t>
+                <t>beautiful</t>
+                <t>or</t>
+                <t>easier</t>
+                <t>to</t>
+                <t>understand</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <punc>[</punc>
+                <punc>“</punc>
+                <t>Pure</t>
+                <t>mathematics</t>
+                <punc>”</punc>
+                <punc>]</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

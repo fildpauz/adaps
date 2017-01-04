@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Nucleon (Extract)</title>
+    <citation>Simple English Wikipedia: “Nucleon”. Retrieved from https://simple.wikipedia.org/wiki/Nucleon on 20 Aug 2015.</citation>
+    <url>https://simple.wikipedia.org/wiki/Nucleon</url>
+    <info type="arise">
+        <arise-info book="2" section="2" unit="1" part="4" item="8" firstpage="16"/>
+    </info>
+    <body>
+        <paragraph>
+            <sentence>
+                <t>In</t>
+                <t>physics</t>
+                <t>and</t>
+                <t>chemistry</t>
+                <punc>,</punc>
+                <t>a</t>
+                <t>nucleon</t>
+                <t>refers</t>
+                <t>to</t>
+                <t>any</t>
+                <t>subatomic</t>
+                <t>particle</t>
+                <t>found</t>
+                <t>in</t>
+                <t>the</t>
+                <t>nucleus</t>
+                <t>of</t>
+                <t>an</t>
+                <t>atom</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>For</t>
+                <t>instance</t>
+                <punc>,</punc>
+                <t>protons</t>
+                <t>and</t>
+                <t>neutrons</t>
+                <t>are</t>
+                <t>nucleons</t>
+                <punc>,</punc>
+                <t>since</t>
+                <t>they</t>
+                <t>are</t>
+                <t>in</t>
+                <t>the</t>
+                <t>nucleus</t>
+                <t>of</t>
+                <t>the</t>
+                <t>atom</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Quarks</t>
+                <t>are</t>
+                <t>also</t>
+                <t>nucleons</t>
+                <t>if</t>
+                <t>they</t>
+                <t>are</t>
+                <t>found</t>
+                <t>inside</t>
+                <t>a</t>
+                <t>proton</t>
+                <t>or</t>
+                <t>neutron</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <punc>[</punc>
+                <punc>“</punc>
+                <t>Nucleon</t>
+                <punc>”</punc>
+                <punc>]</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

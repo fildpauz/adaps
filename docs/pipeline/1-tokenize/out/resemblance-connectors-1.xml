@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Struggle for existence (Extract)</title>
+    <citation>Simple English Wikipedia: “Struggle for existence”. Retrieved from https://simple.wikipedia.org/wiki/Struggle_for_ existence on 22 Aug 2015.</citation>
+    <url>https://simple.wikipedia.org/wiki/Struggle_for_existence</url>
+    <info type="arise">
+        <arise-info book="2" section="2" unit="1" part="4" item="0" firstpage="15"/>
+    </info>
+    <body>
+        <paragraph>
+            <sentence>
+                <t>The</t>
+                <t>struggle</t>
+                <t>for</t>
+                <t>existence</t>
+                <t>refers</t>
+                <t>to</t>
+                <t>the</t>
+                <t>competition</t>
+                <t>between</t>
+                <t>living</t>
+                <t>things</t>
+                <t>to</t>
+                <t>survive</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Many</t>
+                <t>natural</t>
+                <t>historians</t>
+                <t>have</t>
+                <t>noted</t>
+                <t>the</t>
+                <t>competition</t>
+                <t>between</t>
+                <t>animals</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Generally</t>
+                <t>speaking</t>
+                <punc>,</punc>
+                <t>they</t>
+                <t>have</t>
+                <t>been</t>
+                <t>interested</t>
+                <t>in</t>
+                <t>the</t>
+                <t>competition</t>
+                <t>between</t>
+                <t>species</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <punc>[</punc>
+                <punc>“</punc>
+                <t>Struggle</t>
+                <t>for</t>
+                <t>existence</t>
+                <punc>”</punc>
+                <punc>]</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

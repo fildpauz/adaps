@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Architecture (Extract)</title>
+    <citation>Simple English Wikipedia: “Architecture”. Retrieved from https://simple.wikipedia.org/wiki/Architecture on 20 Aug 2015.</citation>
+    <url>https://simple.wikipedia.org/wiki/Architecture</url>
+    <info type="arise">
+        <arise-info book="2" section="2" unit="1" part="4" item="1" firstpage="15"/>
+    </info>
+    <body>
+        <paragraph>
+            <sentence>
+                <t>Architecture</t>
+                <t>is</t>
+                <t>the</t>
+                <t>science</t>
+                <t>of</t>
+                <t>the</t>
+                <t>design</t>
+                <t>of</t>
+                <t>structures</t>
+                <t>or</t>
+                <t>buildings</t>
+                <t>such</t>
+                <t>as</t>
+                <t>houses</t>
+                <punc>,</punc>
+                <t>places</t>
+                <t>of</t>
+                <t>worship</t>
+                <punc>,</punc>
+                <t>office</t>
+                <t>buildings</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <punc>[</punc>
+                <punc>“</punc>
+                <t>Architecture</t>
+                <punc>”</punc>
+                <punc>]</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

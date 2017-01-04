@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Newton's laws of motion (Extract)</title>
+    <citation>Simple English Wikipedia: “Newton's laws of motion”. Retrieved from https://simple.wikipedia.org/wiki/Newton%27s_laws_of_motion on 20 Aug 2015.</citation>
+    <url>https://simple.wikipedia.org/wiki/Newton%27s_laws_of_motion</url>
+    <info type="arise">
+        <arise-info book="2" section="2" unit="1" part="4" item="2" firstpage="15"/>
+    </info>
+    <body>
+        <paragraph>
+            <sentence>
+                <t>Newton's</t>
+                <t>third</t>
+                <t>law</t>
+                <punc>:</punc>
+                <punc>“</punc>
+                <t>For</t>
+                <t>every</t>
+                <t>action</t>
+                <punc>,</punc>
+                <t>there</t>
+                <t>is</t>
+                <t>an</t>
+                <t>equal</t>
+                <t>and</t>
+                <t>opposite</t>
+                <t>reaction</t>
+                <punc>.</punc>
+                <punc>”</punc>
+            </sentence>
+            <sentence>
+                <t>This</t>
+                <t>is</t>
+                <t>best</t>
+                <t>understood</t>
+                <t>with</t>
+                <t>billiard</t>
+                <t>balls</t>
+                <punc>,</punc>
+                <t>where</t>
+                <t>you</t>
+                <t>can</t>
+                <t>easily</t>
+                <t>see</t>
+                <t>the</t>
+                <t>action/reaction</t>
+                <t>pairs</t>
+                <t>of</t>
+                <t>forces</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Likewise</t>
+                <punc>,</punc>
+                <t>when</t>
+                <t>you</t>
+                <t>kick</t>
+                <t>a</t>
+                <t>football</t>
+                <punc>,</punc>
+                <t>not</t>
+                <t>only</t>
+                <t>does</t>
+                <t>the</t>
+                <t>ball</t>
+                <t>move</t>
+                <punc>,</punc>
+                <t>but</t>
+                <t>you</t>
+                <t>feel</t>
+                <t>a</t>
+                <t>force</t>
+                <t>on</t>
+                <t>your</t>
+                <t>foot</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <punc>[</punc>
+                <punc>“</punc>
+                <t>Newton's</t>
+                <t>laws</t>
+                <t>of</t>
+                <t>motion</t>
+                <punc>”</punc>
+                <punc>]</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
