@@ -54,7 +54,7 @@ and open the template in the editor.
     <file name="paragraphs-6" path="../pipeline/5-detail-and-finish/in/paragraphs-6.xml"/>-->
     <file name="parts-of-speech" path="../pipeline/5-detail-and-finish/in/parts-of-speech.xml"/>
     <file name="population-growth" path="../pipeline/5-detail-and-finish/in/population-growth.xml"/>
-    <!--<file name="pseudoscience" path="../pipeline/5-detail-and-finish/in/pseudoscience.xml"/>-->
+    <file name="pseudoscience" path="../pipeline/5-detail-and-finish/in/pseudoscience.xml"/>
     <file name="reaction-statements" path="../pipeline/5-detail-and-finish/in/reaction-statements.xml"/>
 <!--    <file name="resemblance-connectors-1" path="../pipeline/5-detail-and-finish/in/resemblance-connectors-1.xml"/>
     <file name="resemblance-connectors-2" path="../pipeline/5-detail-and-finish/in/resemblance-connectors-2.xml"/>

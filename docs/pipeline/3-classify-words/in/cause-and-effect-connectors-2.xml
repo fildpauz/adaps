@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Daylight saving time (Extract)</title>
+    <citation>Simple English Wikipedia: “Daylight saving time”. Retrieved from https://simple.wikipedia.org/wiki/Daylight_saving_time on 20 Aug 2015.</citation>
+    <url>https://simple.wikipedia.org/wiki/Daylight_saving_time</url>
+    <info type="arise">
+        <arise-info book="2"
+                    section="2"
+                    unit="2"
+                    part="4"
+                    item="1"
+                    firstpage="19"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01">During</t>
+                <t id="p01-s01-t02">the</t>
+                <t id="p01-s01-t03">summer</t>
+                <t id="p01-s01-t04">months</t>
+                <punc>,</punc>
+                <t id="p01-s01-t05">the</t>
+                <t id="p01-s01-t06">sun</t>
+                <t id="p01-s01-t07">stays</t>
+                <t id="p01-s01-t08">visible</t>
+                <t id="p01-s01-t09">for</t>
+                <t id="p01-s01-t10">a</t>
+                <t id="p01-s01-t11">longer</t>
+                <t id="p01-s01-t12">time</t>
+                <punc>,</punc>
+                <t id="p01-s01-t13">and</t>
+                <t id="p01-s01-t14">sunset</t>
+                <t id="p01-s01-t15">happens</t>
+                <t id="p01-s01-t16">late</t>
+                <t id="p01-s01-t17">in</t>
+                <t id="p01-s01-t18">the</t>
+                <t id="p01-s01-t19">day</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01">For</t>
+                <t id="p01-s02-t02">this</t>
+                <t id="p01-s02-t03">reason</t>
+                <punc>,</punc>
+                <t id="p01-s02-t04">certain</t>
+                <t id="p01-s02-t05">countries</t>
+                <t id="p01-s02-t06">advance</t>
+                <t id="p01-s02-t07">the</t>
+                <t id="p01-s02-t08">time</t>
+                <t id="p01-s02-t09">by</t>
+                <t id="p01-s02-t10">one</t>
+                <t id="p01-s02-t11">hour</t>
+                <t id="p01-s02-t12">near</t>
+                <t id="p01-s02-t13">the</t>
+                <t id="p01-s02-t14">start</t>
+                <t id="p01-s02-t15">of</t>
+                <t id="p01-s02-t16">summer</t>
+                <punc>,</punc>
+                <t id="p01-s02-t17">and</t>
+                <t id="p01-s02-t18">put</t>
+                <t id="p01-s02-t19">it</t>
+                <t id="p01-s02-t20">back</t>
+                <t id="p01-s02-t21">one</t>
+                <t id="p01-s02-t22">hour</t>
+                <t id="p01-s02-t23">during</t>
+                <t id="p01-s02-t24">autumn</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s03">
+                <t id="p01-s03-t01">The</t>
+                <t id="p01-s03-t02">time</t>
+                <t id="p01-s03-t03">during</t>
+                <t id="p01-s03-t04">summer</t>
+                <t id="p01-s03-t05">is</t>
+                <t id="p01-s03-t06">called</t>
+                <t id="p01-s03-t07">Daylight</t>
+                <t id="p01-s03-t08">saving</t>
+                <t id="p01-s03-t09">time</t>
+                <punc>(</punc>
+                <t id="p01-s03-t10">DST</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

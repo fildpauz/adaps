@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Mussel (Extract)</title>
+    <citation>Simple English Wikipedia: “Mussel”. Retrieved from https://simple.wikipedia.org/wiki/Mussel on 20 Aug 2015.</citation>
+    <url>https://simple.wikipedia.org/wiki/Mussel</url>
+    <info type="arise">
+        <arise-info book="2"
+                    section="2"
+                    unit="2"
+                    part="4"
+                    item="3"
+                    firstpage="19"/>
+    </info>
+    <body>
+        <paragraph>
+            <sentence>
+                <t>Mussels</t>
+                <t>are</t>
+                <t>several</t>
+                <t>families</t>
+                <t>of</t>
+                <t>bivalve</t>
+                <t>molluscs</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Mussels</t>
+                <t>live</t>
+                <t>in</t>
+                <t>lakes</t>
+                <punc>,</punc>
+                <t>rivers</t>
+                <punc>,</punc>
+                <t>and</t>
+                <t>creeks</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>They</t>
+                <t>sometimes</t>
+                <t>also</t>
+                <t>live</t>
+                <t>in</t>
+                <t>intertidal</t>
+                <t>areas</t>
+                <t>along</t>
+                <t>coastlines</t>
+                <t>worldwide</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>The</t>
+                <t>freshwater</t>
+                <t>mussels</t>
+                <t>and</t>
+                <t>saltwater</t>
+                <t>mussels</t>
+                <t>are</t>
+                <t>not</t>
+                <t>closely</t>
+                <t>related</t>
+                <punc>,</punc>
+                <t>despite</t>
+                <t>the</t>
+                <t>fact</t>
+                <t>that</t>
+                <t>they</t>
+                <t>may</t>
+                <t>look</t>
+                <t>similar</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Edwin Hubble (Extract)</title>
+    <citation>Simple English Wikipedia: “Edwin Hubble”. Retrieved from https://simple.wikipedia.org/wiki/Edwin_Hubble on 20 Aug 2015.</citation>
+    <url>https://simple.wikipedia.org/wiki/Edwin_Hubble</url>
+    <info type="arise">
+        <arise-info book="2"
+                    section="2"
+                    unit="2"
+                    part="4"
+                    item="5"
+                    firstpage="20"/>
+    </info>
+    <body>
+        <paragraph>
+            <sentence>
+                <t>In</t>
+                <t>1929</t>
+                <t>Hubble</t>
+                <t>formulated</t>
+                <t>what</t>
+                <t>is</t>
+                <t>called</t>
+                <t>Hubble's</t>
+                <t>law</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>The</t>
+                <t>law</t>
+                <t>states</t>
+                <t>that</t>
+                <t>the</t>
+                <t>greater</t>
+                <t>the</t>
+                <t>distance</t>
+                <t>between</t>
+                <t>any</t>
+                <t>two</t>
+                <t>galaxies</t>
+                <punc>,</punc>
+                <t>the</t>
+                <t>greater</t>
+                <t>their</t>
+                <t>relative</t>
+                <t>speed</t>
+                <t>of</t>
+                <t>separation</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Georges</t>
+                <t>Lemaître</t>
+                <punc>,</punc>
+                <t>a</t>
+                <t>Belgian</t>
+                <t>priest</t>
+                <t>and</t>
+                <t>astronomer</t>
+                <punc>,</punc>
+                <t>had</t>
+                <t>published</t>
+                <t>the</t>
+                <t>idea</t>
+                <t>two</t>
+                <t>years</t>
+                <t>before</t>
+                <t>in</t>
+                <t>an</t>
+                <t>obscure</t>
+                <t>journal</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Nevertheless</t>
+                <punc>,</punc>
+                <t>the</t>
+                <t>idea</t>
+                <t>bears</t>
+                <t>Hubble's</t>
+                <t>name</t>
+                <t>to</t>
+                <t>this</t>
+                <t>day</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
