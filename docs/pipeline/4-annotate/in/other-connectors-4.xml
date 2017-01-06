@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Freedom of speech (Extract)</title>
+    <citation>Simple English Wikipedia: “Freedom of speech”. Retrieved from https://simple.wikipedia.org/wiki/Freedom_of_speech on 20 Aug 2015.</citation>
+    <url>https://simple.wikipedia.org/wiki/Freedom_of_speech</url>
+    <info type="arise">
+        <arise-info book="2"
+                    section="2"
+                    unit="3"
+                    part="4"
+                    item="3"
+                    firstpage="23"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01" type="GSL-1">As</t>
+                <t id="p01-s01-t02">Alexis</t>
+                <t id="p01-s01-t03">de</t>
+                <t id="p01-s01-t04">Tocqueville</t>
+                <connector>
+                    <t id="p01-s01-t05" type="GSL-1">pointed</t>
+                    <t id="p01-s01-t06" type="GSL-1">out</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p01-s01-t07" type="GSL-1">people</t>
+                <t id="p01-s01-t08" type="GSL-1">may</t>
+                <t id="p01-s01-t09" type="GSL-1">be</t>
+                <t id="p01-s01-t10">hesitant</t>
+                <t id="p01-s01-t11" type="GSL-1">to</t>
+                <t id="p01-s01-t12" type="GSL-1">speak</t>
+                <t id="p01-s01-t13" type="GSL-1">freely</t>
+                <t id="p01-s01-t14" type="GSL-1">not</t>
+                <t id="p01-s01-t15" type="GSL-1">because</t>
+                <t id="p01-s01-t16" type="GSL-1">of</t>
+                <t id="p01-s01-t17" type="GSL-1">fear</t>
+                <t id="p01-s01-t18" type="GSL-1">of</t>
+                <t id="p01-s01-t19" type="GSL-2">government</t>
+                <t id="p01-s01-t20">retribution</t>
+                <t id="p01-s01-t21" type="GSL-1">but</t>
+                <t id="p01-s01-t22" type="GSL-1">because</t>
+                <t id="p01-s01-t23" type="GSL-1">of</t>
+                <t id="p01-s01-t24" type="GSL-1">social</t>
+                <t id="p01-s01-t25" type="GSL-1">pressures</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <connector>
+                    <t id="p01-s02-t01" type="GSL-1">When</t>
+                </connector>
+                <t id="p01-s02-t02" type="GSL-1">an</t>
+                <t id="p01-s02-t03" type="Coxhead-AWL-1,AR-AWL-1b">individual</t>
+                <t id="p01-s02-t04">announces</t>
+                <t id="p01-s02-t05" type="GSL-1">an</t>
+                <t id="p01-s02-t06">unpopular</t>
+                <t id="p01-s02-t07" type="GSL-1">opinion</t>
+                <punc>,</punc>
+                <anaphor>
+                    <t id="p01-s02-t08" type="GSL-1">he</t>
+                    <t id="p01-s02-t09" type="GSL-1">or</t>
+                    <t id="p01-s02-t10" type="GSL-1">she</t>
+                </anaphor>
+                <t id="p01-s02-t11" type="GSL-1">may</t>
+                <t id="p01-s02-t12" type="GSL-1">face</t>
+                <t id="p01-s02-t13" type="GSL-1">the</t>
+                <t id="p01-s02-t14">disdain</t>
+                <t id="p01-s02-t15" type="GSL-1">of</t>
+                <anaphor>
+                    <t id="p01-s02-t16" type="GSL-1">their</t>
+                </anaphor>
+                <t id="p01-s02-t17" type="Coxhead-AWL-2,AR-AWL-2a">community</t>
+                <t id="p01-s02-t18" type="GSL-1">or</t>
+                <t id="p01-s02-t19" type="GSL-1">even</t>
+                <t id="p01-s02-t20" type="GSL-1">be</t>
+                <t id="p01-s02-t21" type="GSL-1">subjected</t>
+                <t id="p01-s02-t22" type="GSL-1">to</t>
+                <t id="p01-s02-t23" type="GSL-2">violent</t>
+                <t id="p01-s02-t24" type="Coxhead-AWL-3,AR-AWL-3b">reactions</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

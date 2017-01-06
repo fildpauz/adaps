@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Internet (Extract)</title>
+    <citation>Simple English Wikipedia: “Internet”. Retrieved from https://simple.wikipedia.org/wiki/Internet on 20 Aug 2015.</citation>
+    <url>https://simple.wikipedia.org/wiki/Internet</url>
+    <info type="arise">
+        <arise-info book="2"
+                    section="2"
+                    unit="2"
+                    part="4"
+                    item="4"
+                    firstpage="19"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01" type="GSL-1">The</t>
+                <t id="p01-s01-t02" type="GSL-1">most</t>
+                <t id="p01-s01-t03" type="GSL-1">used</t>
+                <t id="p01-s01-t04" type="GSL-1">service</t>
+                <t id="p01-s01-t05" type="GSL-1">on</t>
+                <t id="p01-s01-t06" type="GSL-1">the</t>
+                <t id="p01-s01-t07">Internet</t>
+                <t id="p01-s01-t08" type="GSL-1">is</t>
+                <t id="p01-s01-t09" type="GSL-1">the</t>
+                <t id="p01-s01-t10" type="GSL-1">World</t>
+                <t id="p01-s01-t11" type="GSL-1">Wide</t>
+                <t id="p01-s01-t12">Web</t>
+                <punc>(</punc>
+                <t id="p01-s01-t13" type="GSL-1">which</t>
+                <t id="p01-s01-t14" type="GSL-1">is</t>
+                <t id="p01-s01-t15" type="GSL-1">also</t>
+                <t id="p01-s01-t16" type="GSL-1">called</t>
+                <t id="p01-s01-t17" type="GSL-1">the</t>
+                <punc>"</punc>
+                <term>
+                    <t id="p01-s01-t18">Web</t>
+                </term>
+                <punc>"</punc>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <anaphor>
+                    <t id="p01-s02-t01" type="GSL-1">The</t>
+                    <t id="p01-s02-t02">Web</t>
+                </anaphor>
+                <t id="p01-s02-t03" type="GSL-1">contains</t>
+                <t id="p01-s02-t04">websites</t>
+                <punc>,</punc>
+                <t id="p01-s02-t05">blogs</t>
+                <punc>,</punc>
+                <t id="p01-s02-t06" type="GSL-1">and</t>
+                <t id="p01-s02-t07" type="GSL-1">also</t>
+                <t id="p01-s02-t08">wikis</t>
+                <t id="p01-s02-t09" type="GSL-1">like</t>
+                <t id="p01-s02-t10">Wikipedia</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s03">
+                <t id="p01-s03-t01">Webpages</t>
+                <t id="p01-s03-t02" type="GSL-1">on</t>
+                <t id="p01-s03-t03" type="GSL-1">the</t>
+                <t id="p01-s03-t04">internet</t>
+                <t id="p01-s03-t05" type="GSL-1">can</t>
+                <t id="p01-s03-t06" type="GSL-1">be</t>
+                <t id="p01-s03-t07" type="GSL-1">seen</t>
+                <t id="p01-s03-t08" type="GSL-1">and</t>
+                <t id="p01-s03-t09" type="GSL-1">read</t>
+                <t id="p01-s03-t10" type="GSL-1">by</t>
+                <t id="p01-s03-t11" type="GSL-1">anyone</t>
+                <connector>
+                    <t id="p01-s03-t12" type="GSL-1">unless</t>
+                </connector>
+                <anaphor>
+                    <t id="p01-s03-t13" type="GSL-1">the</t>
+                    <t id="p01-s03-t14" type="GSL-1">page</t>
+                </anaphor>
+                <t id="p01-s03-t15" type="GSL-1">needs</t>
+                <t id="p01-s03-t16" type="GSL-1">a</t>
+                <t id="p01-s03-t17">password</t>
+                <punc>,</punc>
+                <connector>
+                    <t id="p01-s03-t18" type="GSL-1">or</t>
+                </connector>
+                <anaphor>
+                    <t id="p01-s03-t19" type="GSL-1">it</t>
+                </anaphor>
+                <t id="p01-s03-t20" type="GSL-1">is</t>
+                <t id="p01-s03-t21" type="GSL-2">blocked</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
