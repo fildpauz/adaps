@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Identifiable Images of Bystanders Extracted from Corneal Reflections (Extract)</title>
+    <citation>Jenkins R, Kerr C, (2013), Identifiable Images of Bystanders Extracted from Corneal Reflections., PLoS ONE 8(12): e83325., doi:10.1371/journal.pone.0083325</citation>
+    <url>doi:10.1371/journal.pone.0083325</url>
+    <info type="arise">
+        <arise-info book="1"
+                    section="2"
+                    unit="6"
+                    part="1"
+                    item="D"
+                    firstpage="27"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01" type="Coxhead-AWL-2,AR-AWL-2b">Previous</t>
+                <t id="p01-s01-t02" type="Coxhead-AWL-5,AR-AWL-5b">psychological</t>
+                <t id="p01-s01-t03" type="Coxhead-AWL-1,AR-AWL-1b">research</t>
+                <t id="p01-s01-t04" type="GSL-1">has</t>
+                <t id="p01-s01-t05" type="Coxhead-AWL-1,AR-AWL-1a">established</t>
+                <t id="p01-s01-t06" type="GSL-1">that</t>
+                <t id="p01-s01-t07" type="GSL-1">humans</t>
+                <t id="p01-s01-t08" type="GSL-1">can</t>
+                <t id="p01-s01-t09" type="Coxhead-AWL-1,AR-AWL-1a">identify</t>
+                <t id="p01-s01-t10" type="GSL-1">faces</t>
+                <t id="p01-s01-t11" type="GSL-1">from</t>
+                <t id="p01-s01-t12" type="GSL-2">extremely</t>
+                <t id="p01-s01-t13" type="GSL-1">poor</t>
+                <t id="p01-s01-t14" type="GSL-1">quality</t>
+                <t id="p01-s01-t15" type="Coxhead-AWL-5,AR-AWL-5a">images</t>
+                <punc>,</punc>
+                <t id="p01-s01-t16" type="GSL-1">when</t>
+                <t id="p01-s01-t17" type="GSL-1">they</t>
+                <t id="p01-s01-t18" type="GSL-1">are</t>
+                <t id="p01-s01-t19" type="GSL-1">familiar</t>
+                <t id="p01-s01-t20" type="GSL-1">with</t>
+                <t id="p01-s01-t21" type="GSL-1">the</t>
+                <t id="p01-s01-t22" type="GSL-1">faces</t>
+                <t id="p01-s01-t23" type="GSL-1">concerned</t>
+                <punc>[</punc>
+                <t id="p01-s01-t24">4</t>
+                <punc>]</punc>
+                <punc>–</punc>
+                <punc>[</punc>
+                <t id="p01-s01-t25">7</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01" type="GSL-1">For</t>
+                <t id="p01-s02-t02" type="GSL-1">example</t>
+                <punc>,</punc>
+                <t id="p01-s02-t03">Yip &amp; Sinha</t>
+                <punc>[</punc>
+                <t id="p01-s02-t04">7</t>
+                <punc>]</punc>
+                <t id="p01-s02-t05" type="Coxhead-AWL-9,AR-AWL-9a">found</t>
+                <t id="p01-s02-t06" type="GSL-1">that</t>
+                <t id="p01-s02-t07">viewers</t>
+                <t id="p01-s02-t08" type="GSL-1">could</t>
+                <t id="p01-s02-t09" type="Coxhead-AWL-1,AR-AWL-1a">identify</t>
+                <t id="p01-s02-t10">blurred</t>
+                <t id="p01-s02-t11" type="GSL-2">photographs</t>
+                <t id="p01-s02-t12" type="GSL-1">of</t>
+                <t id="p01-s02-t13" type="GSL-1">familiar</t>
+                <t id="p01-s02-t14" type="GSL-1">faces</t>
+                <t id="p01-s02-t15" type="GSL-1">with</t>
+                <t id="p01-s02-t16" type="Coxhead-AWL-5,AR-AWL-5a">equivalent</t>
+                <t id="p01-s02-t17" type="Coxhead-AWL-5,AR-AWL-5a">image</t>
+                <t id="p01-s02-t18">resolutions</t>
+                <t id="p01-s02-t19" type="GSL-1">as</t>
+                <t id="p01-s02-t20" type="GSL-1">low</t>
+                <t id="p01-s02-t21" type="GSL-1">as</t>
+                <t id="p01-s02-t22">7×10 pixels</t>
+                <punc>(</punc>
+                <t id="p01-s02-t23" type="GSL-1">see</t>
+                <t id="p01-s02-t24" type="GSL-1">Figure</t>
+                <t id="p01-s02-t25">1</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s03">
+                <t id="p01-s03-t01" type="GSL-1">Here</t>
+                <t id="p01-s03-t02" type="GSL-1">we</t>
+                <t id="p01-s03-t03" type="Coxhead-AWL-8,AR-AWL-8a">exploit</t>
+                <t id="p01-s03-t04" type="GSL-1">the</t>
+                <t id="p01-s03-t05">robustness</t>
+                <t id="p01-s03-t06" type="GSL-1">of</t>
+                <t id="p01-s03-t07" type="GSL-1">familiar</t>
+                <t id="p01-s03-t08" type="GSL-1">face</t>
+                <t id="p01-s03-t09" type="GSL-1">recognition</t>
+                <t id="p01-s03-t10" type="GSL-1">to</t>
+                <t id="p01-s03-t11" type="GSL-1">mine</t>
+                <t id="p01-s03-t12">high-resolution</t>
+                <t id="p01-s03-t13">portrait</t>
+                <t id="p01-s03-t14" type="GSL-2">photographs</t>
+                <t id="p01-s03-t15" type="GSL-1">for</t>
+                <t id="p01-s03-t16">latent</t>
+                <t id="p01-s03-t17" type="GSL-2">information</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s04">
+                <t id="p01-s04-t01" type="Coxhead-AWL-1,AR-AWL-1b">Specifically</t>
+                <punc>,</punc>
+                <t id="p01-s04-t02" type="GSL-1">we</t>
+                <t id="p01-s04-t03" type="GSL-1">show</t>
+                <t id="p01-s04-t04" type="GSL-1">that</t>
+                <t id="p01-s04-t05" type="GSL-1">the</t>
+                <t id="p01-s04-t06" type="GSL-1">faces</t>
+                <t id="p01-s04-t07" type="GSL-1">of</t>
+                <t id="p01-s04-t08" type="GSL-2">hidden</t>
+                <t id="p01-s04-t09">bystanders</t>
+                <t id="p01-s04-t10" type="GSL-1">can</t>
+                <t id="p01-s04-t11" type="GSL-1">be</t>
+                <t id="p01-s04-t12" type="Coxhead-AWL-1,AR-AWL-1a">identified</t>
+                <t id="p01-s04-t13" type="Coxhead-AWL-8,AR-AWL-8b">via</t>
+                <t id="p01-s04-t14" type="GSL-2">reflections</t>
+                <t id="p01-s04-t15" type="GSL-1">in</t>
+                <t id="p01-s04-t16" type="GSL-1">the</t>
+                <t id="p01-s04-t17" type="GSL-1">eyes</t>
+                <t id="p01-s04-t18" type="GSL-1">of</t>
+                <t id="p01-s04-t19">photographic</t>
+                <t id="p01-s04-t20" type="GSL-1">subjects</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s05">
+                <t id="p01-s05-t01">Corneal</t>
+                <t id="p01-s05-t02" type="Coxhead-AWL-1,AR-AWL-1a">analysis</t>
+                <t id="p01-s05-t03" type="GSL-1">has</t>
+                <t id="p01-s05-t04" type="Coxhead-AWL-2,AR-AWL-2b">previously</t>
+                <t id="p01-s05-t05" type="GSL-1">been</t>
+                <t id="p01-s05-t06" type="GSL-1">used</t>
+                <t id="p01-s05-t07" type="GSL-1">to</t>
+                <t id="p01-s05-t08" type="Coxhead-AWL-6,AR-AWL-6b">recover</t>
+                <t id="p01-s05-t09" type="GSL-2">coarse</t>
+                <t id="p01-s05-t10" type="Coxhead-AWL-2,AR-AWL-2a">aspects</t>
+                <t id="p01-s05-t11" type="GSL-1">of</t>
+                <t id="p01-s05-t12" type="GSL-1">the</t>
+                <t id="p01-s05-t13" type="Coxhead-AWL-3,AR-AWL-3b">physical</t>
+                <t id="p01-s05-t14" type="Coxhead-AWL-1,AR-AWL-1a">environmental</t>
+                <punc>,</punc>
+                <t id="p01-s05-t15" type="GSL-1">such</t>
+                <t id="p01-s05-t16" type="GSL-1">as</t>
+                <t id="p01-s05-t17">ambient</t>
+                <t id="p01-s05-t18" type="GSL-1">lighting</t>
+                <t id="p01-s05-t19" type="GSL-1">conditions</t>
+                <punc>[</punc>
+                <t id="p01-s05-t20">8</t>
+                <punc>]</punc>
+                <punc>[</punc>
+                <t id="p01-s05-t21">9</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s06">
+                <t id="p01-s06-t01" type="GSL-1">The</t>
+                <t id="p01-s06-t02" type="GSL-1">present</t>
+                <t id="p01-s06-t03" type="GSL-1">findings</t>
+                <t id="p01-s06-t04" type="Coxhead-AWL-3,AR-AWL-3a">demonstrate</t>
+                <t id="p01-s06-t05" type="GSL-1">that</t>
+                <t id="p01-s06-t06">corneal</t>
+                <t id="p01-s06-t07" type="GSL-2">reflections</t>
+                <t id="p01-s06-t08" type="GSL-1">can</t>
+                <t id="p01-s06-t09" type="Coxhead-AWL-6,AR-AWL-6b">reveal</t>
+                <t id="p01-s06-t10" type="GSL-1">surprisingly</t>
+                <t id="p01-s06-t11" type="GSL-1">rich</t>
+                <t id="p01-s06-t12" type="GSL-2">information</t>
+                <t id="p01-s06-t13" type="GSL-1">about</t>
+                <t id="p01-s06-t14" type="GSL-1">the</t>
+                <t id="p01-s06-t15" type="GSL-1">social</t>
+                <t id="p01-s06-t16" type="Coxhead-AWL-1,AR-AWL-1a">environment</t>
+                <t id="p01-s06-t17" type="GSL-1">too</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

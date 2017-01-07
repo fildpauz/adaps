@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Newton's laws of motion (Extract)</title>
+    <citation>Simple English Wikipedia: “Newton's laws of motion”. Retrieved from https://simple.wikipedia.org/wiki/Newton%27s_laws_of_motion on 20 Aug 2015.</citation>
+    <url>https://simple.wikipedia.org/wiki/Newton%27s_laws_of_motion</url>
+    <info type="arise">
+        <arise-info book="2"
+                    section="2"
+                    unit="1"
+                    part="4"
+                    item="2"
+                    firstpage="15"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01">Newton's</t>
+                <t id="p01-s01-t02">third</t>
+                <t id="p01-s01-t03">law</t>
+                <punc>:</punc>
+                <punc>“</punc>
+                <t id="p01-s01-t04">For</t>
+                <t id="p01-s01-t05">every</t>
+                <t id="p01-s01-t06">action</t>
+                <punc>,</punc>
+                <t id="p01-s01-t07">there</t>
+                <t id="p01-s01-t08">is</t>
+                <t id="p01-s01-t09">an</t>
+                <t id="p01-s01-t10">equal</t>
+                <t id="p01-s01-t11">and</t>
+                <t id="p01-s01-t12">opposite</t>
+                <t id="p01-s01-t13">reaction</t>
+                <punc>.</punc>
+                <punc>”</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01">This</t>
+                <t id="p01-s02-t02">is</t>
+                <t id="p01-s02-t03">best</t>
+                <t id="p01-s02-t04">understood</t>
+                <t id="p01-s02-t05">with</t>
+                <t id="p01-s02-t06">billiard</t>
+                <t id="p01-s02-t07">balls</t>
+                <punc>,</punc>
+                <t id="p01-s02-t08">where</t>
+                <t id="p01-s02-t09">you</t>
+                <t id="p01-s02-t10">can</t>
+                <t id="p01-s02-t11">easily</t>
+                <t id="p01-s02-t12">see</t>
+                <t id="p01-s02-t13">the</t>
+                <t id="p01-s02-t14">action</t>
+                <punc>/</punc>
+                <t id="p01-s02-t15">reaction</t>
+                <t id="p01-s02-t16">pairs</t>
+                <t id="p01-s02-t17">of</t>
+                <t id="p01-s02-t18">forces</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s03">
+                <t id="p01-s03-t01">Likewise</t>
+                <punc>,</punc>
+                <t id="p01-s03-t02">when</t>
+                <t id="p01-s03-t03">you</t>
+                <t id="p01-s03-t04">kick</t>
+                <t id="p01-s03-t05">a</t>
+                <t id="p01-s03-t06">football</t>
+                <punc>,</punc>
+                <t id="p01-s03-t07">not</t>
+                <t id="p01-s03-t08">only</t>
+                <t id="p01-s03-t09">does</t>
+                <t id="p01-s03-t10">the</t>
+                <t id="p01-s03-t11">ball</t>
+                <t id="p01-s03-t12">move</t>
+                <punc>,</punc>
+                <t id="p01-s03-t13">but</t>
+                <t id="p01-s03-t14">you</t>
+                <t id="p01-s03-t15">feel</t>
+                <t id="p01-s03-t16">a</t>
+                <t id="p01-s03-t17">force</t>
+                <t id="p01-s03-t18">on</t>
+                <t id="p01-s03-t19">your</t>
+                <t id="p01-s03-t20">foot</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
