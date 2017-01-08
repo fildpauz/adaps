@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Henry Cavendish (Extract)</title>
+    <citation>Simple English Wikipedia: “Henry Cavendish”. Retrieved from https://simple.wikipedia.org/wiki/Henry_Cavendish on 20 Aug 2015.</citation>
+    <url>https://simple.wikipedia.org/wiki/Henry_Cavendish</url>
+    <info type="arise">
+        <arise-info book="2"
+                    section="2"
+                    unit="3"
+                    part="4"
+                    item="2"
+                    firstpage="23"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence par-function="topic" id="p01-s01">
+                <t id="p01-s01-t01">Henry</t>
+                <t id="p01-s01-t02">Cavendish</t>
+                <punc>(</punc>
+                <t id="p01-s01-t03">1731</t>
+                <punc>-</punc>
+                <t id="p01-s01-t04">1810</t>
+                <punc>)</punc>
+                <t id="p01-s01-t05" type="GSL-1">was</t>
+                <t id="p01-s01-t06" type="GSL-1">a</t>
+                <t id="p01-s01-t07">British</t>
+                <t id="p01-s01-t08" type="GSL-1">scientist</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s02">
+                <anaphor id="p01-s02-a01" info="p01-s01-t01:p01-s01-t02">
+                    <t id="p01-s02-t01" type="GSL-1">He</t>
+                </anaphor>
+                <t id="p01-s02-t02" type="GSL-1">is</t>
+                <t id="p01-s02-t03" type="GSL-1">famous</t>
+                <t id="p01-s02-t04" type="GSL-1">for</t>
+                <t id="p01-s02-t05" type="GSL-1">discovering</t>
+                <t id="p01-s02-t06">hydrogen</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s03">
+                <t id="p01-s03-t01">Cavendish</t>
+                <connector id="p01-s03-c01" type="elaboration" info="p01-s02-t01:p01-s02-t06,p01-s03-t01:p01-s03-t18">
+                    <t id="p01-s03-t02" type="GSL-1">also</t>
+                </connector>
+                <connector id="p01-s03-c02" type="attribution" info="p01-s03-t01:p01-s03-t01,p01-s03-t05:p01-s03-t18">
+                    <t id="p01-s03-t03" type="GSL-1">claimed</t>
+                    <t id="p01-s03-t04" type="GSL-1">that</t>
+                </connector>
+                <t id="p01-s03-t05" type="GSL-1">the</t>
+                <t id="p01-s03-t06" type="GSL-1">force</t>
+                <t id="p01-s03-t07" type="GSL-1">between</t>
+                <t id="p01-s03-t08" type="GSL-1">the</t>
+                <t id="p01-s03-t09" type="GSL-1">two</t>
+                <t id="p01-s03-t10" type="GSL-2">electrical</t>
+                <t id="p01-s03-t11" type="GSL-1">objects</t>
+                <t id="p01-s03-t12" type="GSL-1">gets</t>
+                <t id="p01-s03-t13" type="GSL-1">smaller</t>
+                <t id="p01-s03-t14" type="GSL-1">as</t>
+                <anaphor id="p01-s03-a01" info="p01-s03-t09:p01-s03-t11">
+                    <t id="p01-s03-t15" type="GSL-1">they</t>
+                </anaphor>
+                <t id="p01-s03-t16" type="GSL-1">get</t>
+                <t id="p01-s03-t17" type="GSL-1">further</t>
+                <t id="p01-s03-t18" type="GSL-2">apart</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s04">
+                <connector id="p01-s04-c01" type="condition" info="p01-s04-t02:p01-s04-t06,p01-s04-t07:p01-s04-t16">
+                    <t id="p01-s04-t01" type="GSL-1">If</t>
+                </connector>
+                <t id="p01-s04-t02" type="GSL-1">the</t>
+                <t id="p01-s04-t03" type="GSL-1">distance</t>
+                <t id="p01-s04-t04" type="GSL-1">between</t>
+                <anaphor id="p01-s04-a01" info="p01-s03-t09:p01-s03-t11">
+                    <t id="p01-s04-t05" type="GSL-1">them</t>
+                </anaphor>
+                <t id="p01-s04-t06" type="GSL-2">doubled</t>
+                <punc>,</punc>
+                <anaphor id="p01-s04-a02" info="p01-s03-t05:p01-s03-t11">
+                    <t id="p01-s04-t07" type="GSL-1">the</t>
+                    <t id="p01-s04-t08" type="GSL-1">force</t>
+                </anaphor>
+                <t id="p01-s04-t09" type="GSL-1">would</t>
+                <t id="p01-s04-t10" type="GSL-1">be</t>
+                <t id="p01-s04-t11" type="GSL-1">one</t>
+                <t id="p01-s04-t12" type="GSL-1">quarter</t>
+                <t id="p01-s04-t13" type="GSL-1">what</t>
+                <anaphor id="p01-s04-a03" info="p01-s04-t07:p01-s04-t08">
+                    <t id="p01-s04-t14" type="GSL-1">it</t>
+                </anaphor>
+                <t id="p01-s04-t15" type="GSL-1">was</t>
+                <t id="p01-s04-t16" type="GSL-1">before</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s05">
+                <anaphor id="p01-s05-a01" info="p01-s04-t01:p01-s04-t16">
+                    <t id="p01-s05-t01" type="GSL-1">This</t>
+                </anaphor>
+                <t id="p01-s05-t02" type="GSL-1">was</t>
+                <t id="p01-s05-t03" type="GSL-1">based</t>
+                <t id="p01-s05-t04" type="GSL-1">on</t>
+                <t id="p01-s05-t05" type="GSL-1">the</t>
+                <t id="p01-s05-t06">inverse</t>
+                <punc>-</punc>
+                <t id="p01-s05-t07" type="GSL-1">square</t>
+                <t id="p01-s05-t08" type="GSL-1">law</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

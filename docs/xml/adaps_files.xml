@@ -11,13 +11,13 @@ and open the template in the editor.
     <file name="algorithm" path="../pipeline/5-detail-and-finish/in/algorithm.xml"/>
     <file name="antihistamines" path="../pipeline/5-detail-and-finish/in/algorithm.xml"/>
     <file name="body-shape-index" path="../pipeline/5-detail-and-finish/in/body-shape-index.xml"/>
-<!--    <file name="cause-and-effect-connectors-1" path="../pipeline/5-detail-and-finish/in/cause-and-effect-connectors-1.xml"/>
+    <file name="cause-and-effect-connectors-1" path="../pipeline/5-detail-and-finish/in/cause-and-effect-connectors-1.xml"/>
     <file name="cause-and-effect-connectors-2" path="../pipeline/5-detail-and-finish/in/cause-and-effect-connectors-2.xml"/>
     <file name="cause-and-effect-connectors-3" path="../pipeline/5-detail-and-finish/in/cause-and-effect-connectors-3.xml"/>
     <file name="cause-and-effect-connectors-4" path="../pipeline/5-detail-and-finish/in/cause-and-effect-connectors-4.xml"/>
     <file name="cause-and-effect-connectors-5" path="../pipeline/5-detail-and-finish/in/cause-and-effect-connectors-5.xml"/>
     <file name="cause-and-effect-connectors-6" path="../pipeline/5-detail-and-finish/in/cause-and-effect-connectors-6.xml"/>
-    <file name="cause-and-effect-connectors-7" path="../pipeline/5-detail-and-finish/in/cause-and-effect-connectors-7.xml"/>-->
+    <file name="cause-and-effect-connectors-7" path="../pipeline/5-detail-and-finish/in/cause-and-effect-connectors-7.xml"/>
     <file name="color-diffusion-online" path="../pipeline/5-detail-and-finish/in/color-diffusion-online.xml"/>
     <file name="counting-and-motion" path="../pipeline/5-detail-and-finish/in/counting-and-motion.xml"/>
     <file name="counting-and-motion2" path="../pipeline/5-detail-and-finish/in/counting-and-motion2.xml"/>
@@ -41,11 +41,11 @@ and open the template in the editor.
     <file name="language-learning-subj" path="../pipeline/5-detail-and-finish/in/language-learning-subj.xml"/>
     <file name="maria-mitchell" path="../pipeline/5-detail-and-finish/in/maria-mitchell.xml"/>
     <file name="origami-robot" path="../pipeline/5-detail-and-finish/in/origami-robot.xml"/>
-<!--    <file name="other-connectors-1" path="../pipeline/5-detail-and-finish/in/other-connectors-1.xml"/>
+    <file name="other-connectors-1" path="../pipeline/5-detail-and-finish/in/other-connectors-1.xml"/>
     <file name="other-connectors-2" path="../pipeline/5-detail-and-finish/in/other-connectors-2.xml"/>
     <file name="other-connectors-3" path="../pipeline/5-detail-and-finish/in/other-connectors-3.xml"/>
     <file name="other-connectors-4" path="../pipeline/5-detail-and-finish/in/other-connectors-4.xml"/>
-    <file name="other-connectors-5" path="../pipeline/5-detail-and-finish/in/other-connectors-5.xml"/>-->
+    <file name="other-connectors-5" path="../pipeline/5-detail-and-finish/in/other-connectors-5.xml"/>
 <!--    <file name="paragraphs-1" path="../pipeline/5-detail-and-finish/in/paragraphs-1.xml"/>
     <file name="paragraphs-2" path="../pipeline/5-detail-and-finish/in/paragraphs-2.xml"/>
     <file name="paragraphs-3" path="../pipeline/5-detail-and-finish/in/paragraphs-3.xml"/>
