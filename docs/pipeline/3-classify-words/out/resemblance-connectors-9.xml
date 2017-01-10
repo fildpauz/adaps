@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Nucleon (Extract)</title>
+    <citation>Simple English Wikipedia: “Nucleon”. Retrieved from https://simple.wikipedia.org/wiki/Nucleon on 20 Aug 2015.</citation>
+    <url>https://simple.wikipedia.org/wiki/Nucleon</url>
+    <info type="arise">
+        <arise-info book="2"
+                    section="2"
+                    unit="1"
+                    part="4"
+                    item="8"
+                    firstpage="16"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01" type="GSL-1">In</t>
+                <t id="p01-s01-t02">physics</t>
+                <t id="p01-s01-t03" type="GSL-1">and</t>
+                <t id="p01-s01-t04">chemistry</t>
+                <punc>,</punc>
+                <t id="p01-s01-t05" type="GSL-1">a</t>
+                <t id="p01-s01-t06">nucleon</t>
+                <t id="p01-s01-t07" type="GSL-2">refers</t>
+                <t id="p01-s01-t08" type="GSL-1">to</t>
+                <t id="p01-s01-t09" type="GSL-1">any</t>
+                <t id="p01-s01-t10">subatomic</t>
+                <t id="p01-s01-t11" type="GSL-1">particle</t>
+                <t id="p01-s01-t12" type="Coxhead-AWL-9,AR-AWL-9a">found</t>
+                <t id="p01-s01-t13" type="GSL-1">in</t>
+                <t id="p01-s01-t14" type="GSL-1">the</t>
+                <t id="p01-s01-t15">nucleus</t>
+                <t id="p01-s01-t16" type="GSL-1">of</t>
+                <t id="p01-s01-t17" type="GSL-1">an</t>
+                <t id="p01-s01-t18">atom</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01" type="GSL-1">For</t>
+                <t id="p01-s02-t02" type="Coxhead-AWL-3,AR-AWL-3a">instance</t>
+                <punc>,</punc>
+                <t id="p01-s02-t03">protons</t>
+                <t id="p01-s02-t04" type="GSL-1">and</t>
+                <t id="p01-s02-t05">neutrons</t>
+                <t id="p01-s02-t06" type="GSL-1">are</t>
+                <t id="p01-s02-t07">nucleons</t>
+                <punc>,</punc>
+                <t id="p01-s02-t08" type="GSL-1">since</t>
+                <t id="p01-s02-t09" type="GSL-1">they</t>
+                <t id="p01-s02-t10" type="GSL-1">are</t>
+                <t id="p01-s02-t11" type="GSL-1">in</t>
+                <t id="p01-s02-t12" type="GSL-1">the</t>
+                <t id="p01-s02-t13">nucleus</t>
+                <t id="p01-s02-t14" type="GSL-1">of</t>
+                <t id="p01-s02-t15" type="GSL-1">the</t>
+                <t id="p01-s02-t16">atom</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s03">
+                <t id="p01-s03-t01">Quarks</t>
+                <t id="p01-s03-t02" type="GSL-1">are</t>
+                <t id="p01-s03-t03" type="GSL-1">also</t>
+                <t id="p01-s03-t04">nucleons</t>
+                <t id="p01-s03-t05" type="GSL-1">if</t>
+                <t id="p01-s03-t06" type="GSL-1">they</t>
+                <t id="p01-s03-t07" type="GSL-1">are</t>
+                <t id="p01-s03-t08" type="Coxhead-AWL-9,AR-AWL-9a">found</t>
+                <t id="p01-s03-t09" type="GSL-2">inside</t>
+                <t id="p01-s03-t10" type="GSL-1">a</t>
+                <t id="p01-s03-t11">proton</t>
+                <t id="p01-s03-t12" type="GSL-1">or</t>
+                <t id="p01-s03-t13">neutron</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

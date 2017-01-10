@@ -94,7 +94,7 @@
 <!ELEMENT emph (t|punc|abbr|anaphor|term)*>
 
 <!--- Put your DTDDoc comment here. -->
-<!ELEMENT connector (t|anaphor)*>
+<!ELEMENT connector (t|anaphor|punc)*>
 <!ATTLIST connector
     id CDATA #IMPLIED
     type CDATA #IMPLIED

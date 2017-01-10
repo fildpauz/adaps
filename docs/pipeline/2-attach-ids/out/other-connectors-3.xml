@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Henry Cavendish (Extract)</title>
+    <citation>Simple English Wikipedia: “Henry Cavendish”. Retrieved from https://simple.wikipedia.org/wiki/Henry_Cavendish on 20 Aug 2015.</citation>
+    <url>https://simple.wikipedia.org/wiki/Henry_Cavendish</url>
+    <info type="arise">
+        <arise-info book="2"
+                    section="2"
+                    unit="3"
+                    part="4"
+                    item="2"
+                    firstpage="23"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01">Henry</t>
+                <t id="p01-s01-t02">Cavendish</t>
+                <punc>(</punc>
+                <t id="p01-s01-t03">1731</t>
+                <punc>-</punc>
+                <t id="p01-s01-t04">1810</t>
+                <punc>)</punc>
+                <t id="p01-s01-t05">was</t>
+                <t id="p01-s01-t06">a</t>
+                <t id="p01-s01-t07">British</t>
+                <t id="p01-s01-t08">scientist</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01">He</t>
+                <t id="p01-s02-t02">is</t>
+                <t id="p01-s02-t03">famous</t>
+                <t id="p01-s02-t04">for</t>
+                <t id="p01-s02-t05">discovering</t>
+                <t id="p01-s02-t06">hydrogen</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s03">
+                <t id="p01-s03-t01">Cavendish</t>
+                <t id="p01-s03-t02">also</t>
+                <t id="p01-s03-t03">claimed</t>
+                <t id="p01-s03-t04">that</t>
+                <t id="p01-s03-t05">the</t>
+                <t id="p01-s03-t06">force</t>
+                <t id="p01-s03-t07">between</t>
+                <t id="p01-s03-t08">the</t>
+                <t id="p01-s03-t09">two</t>
+                <t id="p01-s03-t10">electrical</t>
+                <t id="p01-s03-t11">objects</t>
+                <t id="p01-s03-t12">gets</t>
+                <t id="p01-s03-t13">smaller</t>
+                <t id="p01-s03-t14">as</t>
+                <t id="p01-s03-t15">they</t>
+                <t id="p01-s03-t16">get</t>
+                <t id="p01-s03-t17">further</t>
+                <t id="p01-s03-t18">apart</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s04">
+                <t id="p01-s04-t01">If</t>
+                <t id="p01-s04-t02">the</t>
+                <t id="p01-s04-t03">distance</t>
+                <t id="p01-s04-t04">between</t>
+                <t id="p01-s04-t05">them</t>
+                <t id="p01-s04-t06">doubled</t>
+                <punc>,</punc>
+                <t id="p01-s04-t07">the</t>
+                <t id="p01-s04-t08">force</t>
+                <t id="p01-s04-t09">would</t>
+                <t id="p01-s04-t10">be</t>
+                <t id="p01-s04-t11">one</t>
+                <t id="p01-s04-t12">quarter</t>
+                <t id="p01-s04-t13">what</t>
+                <t id="p01-s04-t14">it</t>
+                <t id="p01-s04-t15">was</t>
+                <t id="p01-s04-t16">before</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s05">
+                <t id="p01-s05-t01">This</t>
+                <t id="p01-s05-t02">was</t>
+                <t id="p01-s05-t03">based</t>
+                <t id="p01-s05-t04">on</t>
+                <t id="p01-s05-t05">the</t>
+                <t id="p01-s05-t06">inverse</t>
+                <punc>-</punc>
+                <t id="p01-s05-t07">square</t>
+                <t id="p01-s05-t08">law</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

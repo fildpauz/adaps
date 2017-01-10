@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Solar System (Extract)</title>
+    <citation>Simple English Wikipedia: “Solar System”. Retrieved from https://simple.wikipedia.org/wiki/Solar_System on 20 Aug 2015.</citation>
+    <url>https://simple.wikipedia.org/wiki/Solar_System</url>
+    <info type="arise">
+        <arise-info book="2"
+                    section="2"
+                    unit="1"
+                    part="4"
+                    item="6"
+                    firstpage="16"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01" type="GSL-1">The</t>
+                <t id="p01-s01-t02">Solar</t>
+                <t id="p01-s01-t03" type="GSL-1">System</t>
+                <t id="p01-s01-t04" type="GSL-1">is</t>
+                <t id="p01-s01-t05" type="GSL-1">the</t>
+                <t id="p01-s01-t06" type="GSL-1">Sun</t>
+                <t id="p01-s01-t07" type="GSL-1">and</t>
+                <t id="p01-s01-t08" type="GSL-1">all</t>
+                <t id="p01-s01-t09" type="GSL-1">the</t>
+                <t id="p01-s01-t10" type="GSL-1">objects</t>
+                <t id="p01-s01-t11" type="GSL-1">in</t>
+                <t id="p01-s01-t12">orbit</t>
+                <t id="p01-s01-t13" type="GSL-1">around</t>
+                <t id="p01-s01-t14" type="GSL-1">it</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01" type="GSL-1">The</t>
+                <t id="p01-s02-t02" type="GSL-1">Sun</t>
+                <t id="p01-s02-t03" type="GSL-1">is</t>
+                <t id="p01-s02-t04">orbited</t>
+                <t id="p01-s02-t05" type="GSL-1">by</t>
+                <t id="p01-s02-t06">planets</t>
+                <punc>,</punc>
+                <t id="p01-s02-t07">asteroids</t>
+                <punc>,</punc>
+                <t id="p01-s02-t08">comets</t>
+                <t id="p01-s02-t09" type="GSL-1">and</t>
+                <t id="p01-s02-t10" type="GSL-1">other</t>
+                <t id="p01-s02-t11" type="GSL-1">things</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s03">
+                <t id="p01-s03-t01" type="GSL-1">Six</t>
+                <t id="p01-s03-t02" type="GSL-1">of</t>
+                <t id="p01-s03-t03" type="GSL-1">the</t>
+                <t id="p01-s03-t04">planets</t>
+                <t id="p01-s03-t05" type="GSL-1">and</t>
+                <t id="p01-s03-t06" type="GSL-1">three</t>
+                <t id="p01-s03-t07" type="GSL-1">of</t>
+                <t id="p01-s03-t08" type="GSL-1">the</t>
+                <t id="p01-s03-t09">dwarf</t>
+                <t id="p01-s03-t10">planets</t>
+                <t id="p01-s03-t11" type="GSL-1">are</t>
+                <t id="p01-s03-t12">orbited</t>
+                <t id="p01-s03-t13" type="GSL-1">by</t>
+                <t id="p01-s03-t14" type="GSL-1">moons</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s04">
+                <t id="p01-s04-t01" type="Coxhead-AWL-6,AR-AWL-6a">Furthermore</t>
+                <punc>,</punc>
+                <t id="p01-s04-t02">planetary</t>
+                <t id="p01-s04-t03" type="GSL-2">dust</t>
+                <t id="p01-s04-t04">orbits</t>
+                <t id="p01-s04-t05" type="GSL-1">the</t>
+                <t id="p01-s04-t06" type="GSL-1">gas</t>
+                <t id="p01-s04-t07">giants</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

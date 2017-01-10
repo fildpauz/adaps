@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Identifiable Images of Bystanders Extracted from Corneal Reflections (Extract)</title>
+    <citation>Jenkins R, Kerr C, (2013), Identifiable Images of Bystanders Extracted from Corneal Reflections., PLoS ONE 8(12): e83325., doi:10.1371/journal.pone.0083325</citation>
+    <url>doi:10.1371/journal.pone.0083325</url>
+    <info type="arise">
+        <arise-info book="1"
+                    section="2"
+                    unit="6"
+                    part="1"
+                    item="D"
+                    firstpage="27"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01">Previous</t>
+                <t id="p01-s01-t02">psychological</t>
+                <t id="p01-s01-t03">research</t>
+                <t id="p01-s01-t04">has</t>
+                <t id="p01-s01-t05">established</t>
+                <t id="p01-s01-t06">that</t>
+                <t id="p01-s01-t07">humans</t>
+                <t id="p01-s01-t08">can</t>
+                <t id="p01-s01-t09">identify</t>
+                <t id="p01-s01-t10">faces</t>
+                <t id="p01-s01-t11">from</t>
+                <t id="p01-s01-t12">extremely</t>
+                <t id="p01-s01-t13">poor</t>
+                <t id="p01-s01-t14">quality</t>
+                <t id="p01-s01-t15">images</t>
+                <punc>,</punc>
+                <t id="p01-s01-t16">when</t>
+                <t id="p01-s01-t17">they</t>
+                <t id="p01-s01-t18">are</t>
+                <t id="p01-s01-t19">familiar</t>
+                <t id="p01-s01-t20">with</t>
+                <t id="p01-s01-t21">the</t>
+                <t id="p01-s01-t22">faces</t>
+                <t id="p01-s01-t23">concerned</t>
+                <punc>[</punc>
+                <t id="p01-s01-t24">4</t>
+                <punc>]</punc>
+                <punc>–</punc>
+                <punc>[</punc>
+                <t id="p01-s01-t25">7</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01">For</t>
+                <t id="p01-s02-t02">example</t>
+                <punc>,</punc>
+                <t id="p01-s02-t03">Yip &amp; Sinha</t>
+                <punc>[</punc>
+                <t id="p01-s02-t04">7</t>
+                <punc>]</punc>
+                <t id="p01-s02-t05">found</t>
+                <t id="p01-s02-t06">that</t>
+                <t id="p01-s02-t07">viewers</t>
+                <t id="p01-s02-t08">could</t>
+                <t id="p01-s02-t09">identify</t>
+                <t id="p01-s02-t10">blurred</t>
+                <t id="p01-s02-t11">photographs</t>
+                <t id="p01-s02-t12">of</t>
+                <t id="p01-s02-t13">familiar</t>
+                <t id="p01-s02-t14">faces</t>
+                <t id="p01-s02-t15">with</t>
+                <t id="p01-s02-t16">equivalent</t>
+                <t id="p01-s02-t17">image</t>
+                <t id="p01-s02-t18">resolutions</t>
+                <t id="p01-s02-t19">as</t>
+                <t id="p01-s02-t20">low</t>
+                <t id="p01-s02-t21">as</t>
+                <t id="p01-s02-t22">7×10 pixels</t>
+                <punc>(</punc>
+                <t id="p01-s02-t23">see</t>
+                <t id="p01-s02-t24">Figure</t>
+                <t id="p01-s02-t25">1</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s03">
+                <t id="p01-s03-t01">Here</t>
+                <t id="p01-s03-t02">we</t>
+                <t id="p01-s03-t03">exploit</t>
+                <t id="p01-s03-t04">the</t>
+                <t id="p01-s03-t05">robustness</t>
+                <t id="p01-s03-t06">of</t>
+                <t id="p01-s03-t07">familiar</t>
+                <t id="p01-s03-t08">face</t>
+                <t id="p01-s03-t09">recognition</t>
+                <t id="p01-s03-t10">to</t>
+                <t id="p01-s03-t11">mine</t>
+                <t id="p01-s03-t12">high-resolution</t>
+                <t id="p01-s03-t13">portrait</t>
+                <t id="p01-s03-t14">photographs</t>
+                <t id="p01-s03-t15">for</t>
+                <t id="p01-s03-t16">latent</t>
+                <t id="p01-s03-t17">information</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s04">
+                <t id="p01-s04-t01">Specifically</t>
+                <punc>,</punc>
+                <t id="p01-s04-t02">we</t>
+                <t id="p01-s04-t03">show</t>
+                <t id="p01-s04-t04">that</t>
+                <t id="p01-s04-t05">the</t>
+                <t id="p01-s04-t06">faces</t>
+                <t id="p01-s04-t07">of</t>
+                <t id="p01-s04-t08">hidden</t>
+                <t id="p01-s04-t09">bystanders</t>
+                <t id="p01-s04-t10">can</t>
+                <t id="p01-s04-t11">be</t>
+                <t id="p01-s04-t12">identified</t>
+                <t id="p01-s04-t13">via</t>
+                <t id="p01-s04-t14">reflections</t>
+                <t id="p01-s04-t15">in</t>
+                <t id="p01-s04-t16">the</t>
+                <t id="p01-s04-t17">eyes</t>
+                <t id="p01-s04-t18">of</t>
+                <t id="p01-s04-t19">photographic</t>
+                <t id="p01-s04-t20">subjects</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s05">
+                <t id="p01-s05-t01">Corneal</t>
+                <t id="p01-s05-t02">analysis</t>
+                <t id="p01-s05-t03">has</t>
+                <t id="p01-s05-t04">previously</t>
+                <t id="p01-s05-t05">been</t>
+                <t id="p01-s05-t06">used</t>
+                <t id="p01-s05-t07">to</t>
+                <t id="p01-s05-t08">recover</t>
+                <t id="p01-s05-t09">coarse</t>
+                <t id="p01-s05-t10">aspects</t>
+                <t id="p01-s05-t11">of</t>
+                <t id="p01-s05-t12">the</t>
+                <t id="p01-s05-t13">physical</t>
+                <t id="p01-s05-t14">environmental</t>
+                <punc>,</punc>
+                <t id="p01-s05-t15">such</t>
+                <t id="p01-s05-t16">as</t>
+                <t id="p01-s05-t17">ambient</t>
+                <t id="p01-s05-t18">lighting</t>
+                <t id="p01-s05-t19">conditions</t>
+                <punc>[</punc>
+                <t id="p01-s05-t20">8</t>
+                <punc>]</punc>
+                <punc>[</punc>
+                <t id="p01-s05-t21">9</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s06">
+                <t id="p01-s06-t01">The</t>
+                <t id="p01-s06-t02">present</t>
+                <t id="p01-s06-t03">findings</t>
+                <t id="p01-s06-t04">demonstrate</t>
+                <t id="p01-s06-t05">that</t>
+                <t id="p01-s06-t06">corneal</t>
+                <t id="p01-s06-t07">reflections</t>
+                <t id="p01-s06-t08">can</t>
+                <t id="p01-s06-t09">reveal</t>
+                <t id="p01-s06-t10">surprisingly</t>
+                <t id="p01-s06-t11">rich</t>
+                <t id="p01-s06-t12">information</t>
+                <t id="p01-s06-t13">about</t>
+                <t id="p01-s06-t14">the</t>
+                <t id="p01-s06-t15">social</t>
+                <t id="p01-s06-t16">environment</t>
+                <t id="p01-s06-t17">too</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

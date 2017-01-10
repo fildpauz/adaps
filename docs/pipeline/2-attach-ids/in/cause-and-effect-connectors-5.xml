@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Internet (Extract)</title>
+    <citation>Simple English Wikipedia: “Internet”. Retrieved from https://simple.wikipedia.org/wiki/Internet on 20 Aug 2015.</citation>
+    <url>https://simple.wikipedia.org/wiki/Internet</url>
+    <info type="arise">
+        <arise-info book="2"
+                    section="2"
+                    unit="2"
+                    part="4"
+                    item="4"
+                    firstpage="19"/>
+    </info>
+    <body>
+        <paragraph>
+            <sentence>
+                <t>The</t>
+                <t>most</t>
+                <t>used</t>
+                <t>service</t>
+                <t>on</t>
+                <t>the</t>
+                <t>Internet</t>
+                <t>is</t>
+                <t>the</t>
+                <t>World</t>
+                <t>Wide</t>
+                <t>Web</t>
+                <punc>(</punc>
+                <t>which</t>
+                <t>is</t>
+                <t>also</t>
+                <t>called</t>
+                <t>the</t>
+                <punc>"</punc>
+                <t>Web</t>
+                <punc>"</punc>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>The</t>
+                <t>Web</t>
+                <t>contains</t>
+                <t>websites</t>
+                <punc>,</punc>
+                <t>blogs</t>
+                <punc>,</punc>
+                <t>and</t>
+                <t>also</t>
+                <t>wikis</t>
+                <t>like</t>
+                <t>Wikipedia</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Webpages</t>
+                <t>on</t>
+                <t>the</t>
+                <t>internet</t>
+                <t>can</t>
+                <t>be</t>
+                <t>seen</t>
+                <t>and</t>
+                <t>read</t>
+                <t>by</t>
+                <t>anyone</t>
+                <t>unless</t>
+                <t>the</t>
+                <t>page</t>
+                <t>needs</t>
+                <t>a</t>
+                <t>password</t>
+                <punc>,</punc>
+                <t>or</t>
+                <t>it</t>
+                <t>is</t>
+                <t>blocked</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

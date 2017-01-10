@@ -12,6 +12,8 @@ Surround abbreviations in the text with the `abbr` element.
 </abbr>
 ```
 
+There may be many abbreviations used in academic texts, especially such things as measurement units. However, for the ADAPS mark-up, **only** abbrevations that are explicitly defined in the text should be marked (e.g., "Massachusetts Institute of Technology (MIT)...").
+
 ## Technical terms
 
 Surround technical terms with the `term` element.
@@ -22,6 +24,8 @@ Surround technical terms with the `term` element.
 </term>
 ```
 
+Similar to _abbreviations_ above, there may be many technical terms in a text. But for the ADAPS system, only those technical terms which are explicitly defined in the text should be marked (e.g., "Cells (the basic units of an organism)...").
+
 ## Connectors
 
 Surround logical connectors with the `connector` element.
@@ -31,6 +35,8 @@ Surround logical connectors with the `connector` element.
     <t id="p6-s2-t24" type="GSL1">after</t>
 </connector>
 ```
+
+Logical connectors are usually one or two word phrases that connect two larger ideas together in a logical manner (e.g., to indicate similarity between ideas, or cause-and-effect). In the ADAPS system, however, only connectors that connect full sentences (i.e., standalone clauses) should be marked. Thus, an _and_ that connects a couple of nouns (e.g., "apple and orange") is not a connector.
 
 ## Anaphors
 

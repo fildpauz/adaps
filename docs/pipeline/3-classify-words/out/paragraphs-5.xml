@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Facebook Use Predicts Declines in Subjective Well-Being in Young Adults (Extract 1)</title>
+    <citation>Kross E, Verduyn P, Demiralp E, Park J, Lee DS, et al., (2013), Facebook Use Predicts Declines in Subjective Well-Being in Young Adults., PLoS ONE 8(8): e69841., doi:10.1371/journal.pone.0069841</citation>
+    <url>doi:10.1371/journal.pone.0069841</url>
+    <info type="arise">
+        <arise-info book="1"
+                    section="2"
+                    unit="6"
+                    part="2"
+                    item="E"
+                    firstpage="28"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01" type="GSL-1">Within</t>
+                <t id="p01-s01-t02" type="GSL-1">a</t>
+                <t id="p01-s01-t03" type="GSL-1">relatively</t>
+                <t id="p01-s01-t04" type="GSL-1">short</t>
+                <t id="p01-s01-t05">timespan</t>
+                <punc>,</punc>
+                <t id="p01-s01-t06">Facebook</t>
+                <t id="p01-s01-t07" type="GSL-1">has</t>
+                <t id="p01-s01-t08" type="Coxhead-AWL-9,AR-AWL-9b">revolutionized</t>
+                <t id="p01-s01-t09" type="GSL-1">the</t>
+                <t id="p01-s01-t10" type="GSL-1">way</t>
+                <t id="p01-s01-t11" type="GSL-1">people</t>
+                <t id="p01-s01-t12" type="Coxhead-AWL-3,AR-AWL-3b">interact</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01" type="GSL-1">Yet</t>
+                <punc>,</punc>
+                <t id="p01-s02-t02" type="GSL-1">whether</t>
+                <t id="p01-s02-t03" type="GSL-1">using</t>
+                <t id="p01-s02-t04">Facebook</t>
+                <t id="p01-s02-t05" type="Coxhead-AWL-4,AR-AWL-4b">predicts</t>
+                <t id="p01-s02-t06" type="GSL-1">changes</t>
+                <t id="p01-s02-t07" type="GSL-1">in</t>
+                <t id="p01-s02-t08">subjective</t>
+                <t id="p01-s02-t09">well-being</t>
+                <t id="p01-s02-t10" type="GSL-1">over</t>
+                <t id="p01-s02-t11" type="GSL-1">time</t>
+                <t id="p01-s02-t12" type="GSL-1">is</t>
+                <t id="p01-s02-t13" type="GSL-1">unknown</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s03">
+                <t id="p01-s03-t01" type="GSL-1">We</t>
+                <t id="p01-s03-t02" type="GSL-1">addressed</t>
+                <t id="p01-s03-t03" type="GSL-1">this</t>
+                <t id="p01-s03-t04" type="Coxhead-AWL-1,AR-AWL-1b">issue</t>
+                <t id="p01-s03-t05" type="GSL-1">by</t>
+                <t id="p01-s03-t06" type="GSL-2">performing</t>
+                <t id="p01-s03-t07">lagged</t>
+                <t id="p01-s03-t08" type="Coxhead-AWL-1,AR-AWL-1a">analyses</t>
+                <t id="p01-s03-t09" type="GSL-1">on</t>
+                <t id="p01-s03-t10" type="GSL-1">experience</t>
+                <t id="p01-s03-t11" type="GSL-2">sampled</t>
+                <t id="p01-s03-t12" type="Coxhead-AWL-1,AR-AWL-1a">data</t>
+                <punc>,</punc>
+                <t id="p01-s03-t13" type="GSL-1">an</t>
+                <t id="p01-s03-t14" type="Coxhead-AWL-1,AR-AWL-1a">approach</t>
+                <t id="p01-s03-t15" type="GSL-1">that</t>
+                <t id="p01-s03-t16" type="GSL-1">allowed</t>
+                <t id="p01-s03-t17" type="GSL-1">us</t>
+                <t id="p01-s03-t18" type="GSL-1">to</t>
+                <t id="p01-s03-t19" type="GSL-1">take</t>
+                <t id="p01-s03-t20" type="GSL-1">advantage</t>
+                <t id="p01-s03-t21" type="GSL-1">of</t>
+                <t id="p01-s03-t22" type="GSL-1">the</t>
+                <t id="p01-s03-t23" type="GSL-1">relative</t>
+                <t id="p01-s03-t24">timing</t>
+                <t id="p01-s03-t25" type="GSL-1">of</t>
+                <t id="p01-s03-t26">participants'</t>
+                <t id="p01-s03-t27" type="GSL-1">naturally</t>
+                <t id="p01-s03-t28" type="Coxhead-AWL-1,AR-AWL-1b">occurring</t>
+                <t id="p01-s03-t29" type="GSL-2">behaviors</t>
+                <t id="p01-s03-t30" type="GSL-1">and</t>
+                <t id="p01-s03-t31" type="Coxhead-AWL-5,AR-AWL-5b">psychological</t>
+                <t id="p01-s03-t32" type="GSL-1">states</t>
+                <t id="p01-s03-t33" type="GSL-1">to</t>
+                <t id="p01-s03-t34" type="GSL-1">draw</t>
+                <t id="p01-s03-t35" type="Coxhead-AWL-7,AR-AWL-7b">inferences</t>
+                <t id="p01-s03-t36" type="GSL-1">about</t>
+                <t id="p01-s03-t37" type="GSL-1">their</t>
+                <t id="p01-s03-t38" type="GSL-1">likely</t>
+                <t id="p01-s03-t39">causal</t>
+                <t id="p01-s03-t40" type="Coxhead-AWL-3,AR-AWL-3b">sequence</t>
+                <punc>[</punc>
+                <t id="p01-s03-t41">17</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p01-s03-t42">18</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s04">
+                <t id="p01-s04-t01" type="GSL-1">These</t>
+                <t id="p01-s04-t02" type="Coxhead-AWL-1,AR-AWL-1a">analyses</t>
+                <t id="p01-s04-t03" type="Coxhead-AWL-1,AR-AWL-1b">indicated</t>
+                <t id="p01-s04-t04" type="GSL-1">that</t>
+                <t id="p01-s04-t05">Facebook</t>
+                <t id="p01-s04-t06" type="GSL-1">use</t>
+                <t id="p01-s04-t07" type="Coxhead-AWL-4,AR-AWL-4b">predicts</t>
+                <t id="p01-s04-t08" type="Coxhead-AWL-5,AR-AWL-5a">declines</t>
+                <t id="p01-s04-t09" type="GSL-1">in</t>
+                <t id="p01-s04-t10" type="GSL-1">the</t>
+                <t id="p01-s04-t11" type="GSL-1">two</t>
+                <t id="p01-s04-t12" type="Coxhead-AWL-3,AR-AWL-3a">components</t>
+                <t id="p01-s04-t13" type="GSL-1">of</t>
+                <t id="p01-s04-t14">subjective</t>
+                <t id="p01-s04-t15">well-being</t>
+                <punc>:</punc>
+                <t id="p01-s04-t16" type="GSL-1">how</t>
+                <t id="p01-s04-t17" type="GSL-1">people</t>
+                <t id="p01-s04-t18" type="GSL-1">feel</t>
+                <t id="p01-s04-t19" type="GSL-1">moment</t>
+                <t id="p01-s04-t20" type="GSL-1">to</t>
+                <t id="p01-s04-t21" type="GSL-1">moment</t>
+                <t id="p01-s04-t22" type="GSL-1">and</t>
+                <t id="p01-s04-t23" type="GSL-1">how</t>
+                <t id="p01-s04-t24" type="GSL-2">satisfied</t>
+                <t id="p01-s04-t25" type="GSL-1">they</t>
+                <t id="p01-s04-t26" type="GSL-1">are</t>
+                <t id="p01-s04-t27" type="GSL-1">with</t>
+                <t id="p01-s04-t28" type="GSL-1">their</t>
+                <t id="p01-s04-t29" type="GSL-1">lives</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

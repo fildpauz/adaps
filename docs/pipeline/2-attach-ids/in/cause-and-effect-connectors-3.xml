@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Water (Extract)</title>
+    <citation>Simple English Wikipedia: “Water”. Retrieved from https://simple.wikipedia.org/wiki/Water on 20 Aug 2015.</citation>
+    <url>https://simple.wikipedia.org/wiki/Water</url>
+    <info type="arise">
+        <arise-info book="2"
+                    section="2"
+                    unit="2"
+                    part="4"
+                    item="2"
+                    firstpage="19"/>
+    </info>
+    <body>
+        <paragraph>
+            <sentence>
+                <t>Water</t>
+                <t>is</t>
+                <t>the</t>
+                <t>most</t>
+                <t>common</t>
+                <t>liquid</t>
+                <t>on</t>
+                <t>Earth</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>It</t>
+                <t>covers</t>
+                <t>about</t>
+                <t>71.4%</t>
+                <t>of</t>
+                <t>the</t>
+                <t>Earth</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Pure</t>
+                <t>water</t>
+                <t>has</t>
+                <t>no</t>
+                <t>smell</t>
+                <punc>,</punc>
+                <t>taste</t>
+                <punc>,</punc>
+                <t>or</t>
+                <t>color</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>If</t>
+                <t>water</t>
+                <t>gets</t>
+                <t>very</t>
+                <t>cold</t>
+                <punc>(</punc>
+                <t>below</t>
+                <t>0</t>
+                <t>degrees</t>
+                <t>Celsius</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t>it</t>
+                <t>freezes</t>
+                <t>and</t>
+                <t>becomes</t>
+                <t>ice</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>If</t>
+                <t>water</t>
+                <t>gets</t>
+                <t>very</t>
+                <t>hot</t>
+                <punc>(</punc>
+                <t>above</t>
+                <t>100</t>
+                <t>degrees</t>
+                <t>Celsius</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t>it</t>
+                <t>boils</t>
+                <t>and</t>
+                <t>becomes</t>
+                <t>steam</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

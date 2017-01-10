@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Newton's laws of motion (Extract)</title>
+    <citation>Simple English Wikipedia: “Newton's laws of motion”. Retrieved from https://simple.wikipedia.org/wiki/Newton%27s_laws_of_motion on 20 Aug 2015.</citation>
+    <url>https://simple.wikipedia.org/wiki/Newton%27s_laws_of_motion</url>
+    <info type="arise">
+        <arise-info book="2"
+                    section="2"
+                    unit="1"
+                    part="4"
+                    item="2"
+                    firstpage="15"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01">Newton's</t>
+                <t id="p01-s01-t02" type="GSL-1">third</t>
+                <t id="p01-s01-t03" type="GSL-1">law</t>
+                <punc>:</punc>
+                <punc>“</punc>
+                <t id="p01-s01-t04" type="GSL-1">For</t>
+                <t id="p01-s01-t05" type="GSL-1">every</t>
+                <t id="p01-s01-t06" type="GSL-1">action</t>
+                <punc>,</punc>
+                <t id="p01-s01-t07" type="GSL-1">there</t>
+                <t id="p01-s01-t08" type="GSL-1">is</t>
+                <t id="p01-s01-t09" type="GSL-1">an</t>
+                <t id="p01-s01-t10" type="GSL-1">equal</t>
+                <t id="p01-s01-t11" type="GSL-1">and</t>
+                <t id="p01-s01-t12" type="GSL-2">opposite</t>
+                <t id="p01-s01-t13" type="Coxhead-AWL-3,AR-AWL-3b">reaction</t>
+                <punc>.</punc>
+                <punc>”</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01" type="GSL-1">This</t>
+                <t id="p01-s02-t02" type="GSL-1">is</t>
+                <t id="p01-s02-t03" type="GSL-1">best</t>
+                <t id="p01-s02-t04" type="GSL-1">understood</t>
+                <t id="p01-s02-t05" type="GSL-1">with</t>
+                <t id="p01-s02-t06">billiard</t>
+                <t id="p01-s02-t07" type="GSL-1">balls</t>
+                <punc>,</punc>
+                <t id="p01-s02-t08" type="GSL-1">where</t>
+                <t id="p01-s02-t09" type="GSL-1">you</t>
+                <t id="p01-s02-t10" type="GSL-1">can</t>
+                <t id="p01-s02-t11" type="GSL-1">easily</t>
+                <t id="p01-s02-t12" type="GSL-1">see</t>
+                <t id="p01-s02-t13" type="GSL-1">the</t>
+                <t id="p01-s02-t14" type="GSL-1">action</t>
+                <punc>/</punc>
+                <t id="p01-s02-t15" type="Coxhead-AWL-3,AR-AWL-3b">reaction</t>
+                <t id="p01-s02-t16" type="GSL-2">pairs</t>
+                <t id="p01-s02-t17" type="GSL-1">of</t>
+                <t id="p01-s02-t18" type="GSL-1">forces</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s03">
+                <t id="p01-s03-t01" type="Coxhead-AWL-10,AR-AWL-10">Likewise</t>
+                <punc>,</punc>
+                <t id="p01-s03-t02" type="GSL-1">when</t>
+                <t id="p01-s03-t03" type="GSL-1">you</t>
+                <t id="p01-s03-t04" type="GSL-2">kick</t>
+                <t id="p01-s03-t05" type="GSL-1">a</t>
+                <t id="p01-s03-t06" type="GSL-2">football</t>
+                <punc>,</punc>
+                <t id="p01-s03-t07" type="GSL-1">not</t>
+                <t id="p01-s03-t08" type="GSL-1">only</t>
+                <t id="p01-s03-t09" type="GSL-1">does</t>
+                <t id="p01-s03-t10" type="GSL-1">the</t>
+                <t id="p01-s03-t11" type="GSL-1">ball</t>
+                <t id="p01-s03-t12" type="GSL-1">move</t>
+                <punc>,</punc>
+                <t id="p01-s03-t13" type="GSL-1">but</t>
+                <t id="p01-s03-t14" type="GSL-1">you</t>
+                <t id="p01-s03-t15" type="GSL-1">feel</t>
+                <t id="p01-s03-t16" type="GSL-1">a</t>
+                <t id="p01-s03-t17" type="GSL-1">force</t>
+                <t id="p01-s03-t18" type="GSL-1">on</t>
+                <t id="p01-s03-t19" type="GSL-1">your</t>
+                <t id="p01-s03-t20" type="GSL-2">foot</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

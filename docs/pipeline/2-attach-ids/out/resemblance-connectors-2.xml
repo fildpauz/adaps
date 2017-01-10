@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Architecture (Extract)</title>
+    <citation>Simple English Wikipedia: “Architecture”. Retrieved from https://simple.wikipedia.org/wiki/Architecture on 20 Aug 2015.</citation>
+    <url>https://simple.wikipedia.org/wiki/Architecture</url>
+    <info type="arise">
+        <arise-info book="2"
+                    section="2"
+                    unit="1"
+                    part="4"
+                    item="1"
+                    firstpage="15"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01">Architecture</t>
+                <t id="p01-s01-t02">is</t>
+                <t id="p01-s01-t03">the</t>
+                <t id="p01-s01-t04">science</t>
+                <t id="p01-s01-t05">of</t>
+                <t id="p01-s01-t06">the</t>
+                <t id="p01-s01-t07">design</t>
+                <t id="p01-s01-t08">of</t>
+                <t id="p01-s01-t09">structures</t>
+                <t id="p01-s01-t10">or</t>
+                <t id="p01-s01-t11">buildings</t>
+                <t id="p01-s01-t12">such</t>
+                <t id="p01-s01-t13">as</t>
+                <t id="p01-s01-t14">houses</t>
+                <punc>,</punc>
+                <t id="p01-s01-t15">places</t>
+                <t id="p01-s01-t16">of</t>
+                <t id="p01-s01-t17">worship</t>
+                <punc>,</punc>
+                <t id="p01-s01-t18">office</t>
+                <t id="p01-s01-t19">buildings</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

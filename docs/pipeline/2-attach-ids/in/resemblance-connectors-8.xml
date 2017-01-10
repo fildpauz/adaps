@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Water (Extract)</title>
+    <citation>Simple English Wikipedia: “Food group”. Retrieved from https://simple.wikipedia.org/wiki/Food_group on 20 Aug 2015.</citation>
+    <url>https://simple.wikipedia.org/wiki/Food_group</url>
+    <info type="arise">
+        <arise-info book="2" section="2" unit="1" part="4" item="7" firstpage="16"/>
+    </info>
+    <body>
+        <paragraph>
+            <sentence>
+                <t>Water</t>
+                <t>is</t>
+                <t>treated</t>
+                <t>in</t>
+                <t>very</t>
+                <t>different</t>
+                <t>ways</t>
+                <t>by</t>
+                <t>different</t>
+                <t>nutrition</t>
+                <t>guides</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Some</t>
+                <t>nutrition</t>
+                <t>guides</t>
+                <t>do</t>
+                <t>not</t>
+                <t>include</t>
+                <t>water</t>
+                <punc>,</punc>
+                <t>while</t>
+                <t>others</t>
+                <t>include</t>
+                <t>it</t>
+                <punc>,</punc>
+                <t>and</t>
+                <t>yet</t>
+                <t>others</t>
+                <t>make</t>
+                <t>it</t>
+                <t>the</t>
+                <t>most</t>
+                <t>important</t>
+                <t>part</t>
+                <t>or</t>
+                <t>basic</t>
+                <t>part</t>
+                <t>of</t>
+                <t>the</t>
+                <t>guide</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

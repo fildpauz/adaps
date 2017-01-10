@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Evolution (Extract)</title>
+    <citation>Simple English Wikipedia: “Evolution”. Retrieved from https://simple.wikipedia.org/wiki/Evolution on 20 Aug 2015.</citation>
+    <url>https://simple.wikipedia.org/wiki/Evolution</url>
+    <info type="arise">
+        <arise-info book="2"
+                    section="2"
+                    unit="3"
+                    part="4"
+                    item="0"
+                    firstpage="23"/>
+    </info>
+    <body>
+        <paragraph>
+            <sentence>
+                <t>When</t>
+                <t>biologists</t>
+                <t>look</t>
+                <t>at</t>
+                <t>living</t>
+                <t>things</t>
+                <punc>,</punc>
+                <t>they</t>
+                <t>see</t>
+                <t>that</t>
+                <t>animals</t>
+                <t>and</t>
+                <t>plants</t>
+                <t>belong</t>
+                <t>to</t>
+                <t>groups</t>
+                <t>which</t>
+                <t>have</t>
+                <t>something</t>
+                <t>in</t>
+                <t>common</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Charles</t>
+                <t>Darwin</t>
+                <t>explained</t>
+                <t>that</t>
+                <t>this</t>
+                <t>followed</t>
+                <t>naturally</t>
+                <t>if</t>
+                <punc>"</punc>
+                <t>we</t>
+                <t>admit</t>
+                <t>the</t>
+                <t>common</t>
+                <t>parentage</t>
+                <t>of</t>
+                <t>allied</t>
+                <t>forms</t>
+                <punc>,</punc>
+                <t>together</t>
+                <t>with</t>
+                <t>their</t>
+                <t>modification</t>
+                <t>through</t>
+                <t>variation</t>
+                <t>and</t>
+                <t>natural</t>
+                <t>selection</t>
+                <punc>"</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>1st century BC (Extract)</title>
+    <citation>Simple English Wikipedia: “1st century BC”. Retrieved from https://simple.wikipedia.org/wiki/1st_century_BC on 20 Aug 2015.</citation>
+    <url>https://simple.wikipedia.org/wiki/1st_century_BC</url>
+    <info type="arise">
+        <arise-info book="2"
+                    section="2"
+                    unit="2"
+                    part="4"
+                    item="0"
+                    firstpage="19"/>
+    </info>
+    <body>
+        <paragraph>
+            <sentence>
+                <t>The</t>
+                <t>1st</t>
+                <t>century</t>
+                <t>BC</t>
+                <t>started</t>
+                <t>on</t>
+                <t>January</t>
+                <t>1</t>
+                <punc>,</punc>
+                <t>100</t>
+                <t>BC</t>
+                <t>and</t>
+                <t>ended</t>
+                <t>on</t>
+                <t>December</t>
+                <t>31</t>
+                <punc>,</punc>
+                <t>1</t>
+                <t>BC</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>An</t>
+                <t>alternative</t>
+                <t>name</t>
+                <t>for</t>
+                <t>this</t>
+                <t>century</t>
+                <t>is</t>
+                <t>the</t>
+                <t>last</t>
+                <t>century</t>
+                <t>BC</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>The</t>
+                <t>AD/BC</t>
+                <t>notation</t>
+                <t>does</t>
+                <t>not</t>
+                <t>use</t>
+                <t>a</t>
+                <t>year</t>
+                <t>zero</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Scientific</t>
+                <t>notation</t>
+                <t>does</t>
+                <punc>,</punc>
+                <t>however</t>
+                <t>use</t>
+                <t>a</t>
+                <t>minus</t>
+                <t>sign</t>
+                <punc>,</punc>
+                <t>so</t>
+                <punc>'</punc>
+                <t>2</t>
+                <t>BC</t>
+                <punc>'</punc>
+                <t>is</t>
+                <t>equal</t>
+                <t>to</t>
+                <punc>'</punc>
+                <t>year</t>
+                <t>−1</t>
+                <punc>'</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

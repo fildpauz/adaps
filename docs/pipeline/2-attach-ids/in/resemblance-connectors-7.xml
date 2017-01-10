@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Solar System (Extract)</title>
+    <citation>Simple English Wikipedia: “Solar System”. Retrieved from https://simple.wikipedia.org/wiki/Solar_System on 20 Aug 2015.</citation>
+    <url>https://simple.wikipedia.org/wiki/Solar_System</url>
+    <info type="arise">
+        <arise-info book="2" section="2" unit="1" part="4" item="6" firstpage="16"/>
+    </info>
+    <body>
+        <paragraph>
+            <sentence>
+                <t>The</t>
+                <t>Solar</t>
+                <t>System</t>
+                <t>is</t>
+                <t>the</t>
+                <t>Sun</t>
+                <t>and</t>
+                <t>all</t>
+                <t>the</t>
+                <t>objects</t>
+                <t>in</t>
+                <t>orbit</t>
+                <t>around</t>
+                <t>it</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>The</t>
+                <t>Sun</t>
+                <t>is</t>
+                <t>orbited</t>
+                <t>by</t>
+                <t>planets</t>
+                <punc>,</punc>
+                <t>asteroids</t>
+                <punc>,</punc>
+                <t>comets</t>
+                <t>and</t>
+                <t>other</t>
+                <t>things</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Six</t>
+                <t>of</t>
+                <t>the</t>
+                <t>planets</t>
+                <t>and</t>
+                <t>three</t>
+                <t>of</t>
+                <t>the</t>
+                <t>dwarf</t>
+                <t>planets</t>
+                <t>are</t>
+                <t>orbited</t>
+                <t>by</t>
+                <t>moons</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Furthermore</t>
+                <punc>,</punc>
+                <t>planetary</t>
+                <t>dust</t>
+                <t>orbits</t>
+                <t>the</t>
+                <t>gas</t>
+                <t>giants</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
