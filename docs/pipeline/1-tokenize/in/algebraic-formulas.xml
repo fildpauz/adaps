@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<title>Algebraic Formulas (Extract from OpenStax, Calculus Volume 1)</title>
+<citation>OpenStax, Calculus Volume 1. OpenStax CNX.  ‎2016‎/‎11‎‎/5‎. Download for free at http://cnx.org/contents/8b89d172-2927-466f-8661-01abc7ccdba4@2.39</citation>
+<url>http://cnx.org/contents/8b89d172-2927-466f-8661-01abc7ccdba4@2.39</url>
+<info type="textbook"></info>
+<body>
+Sometimes we are not given the values of a function in table form, rather we are given the values in an explicit formula. Formulas arise in many applications. For example, the area of a circle of radius r is given by the formula A(r)=πr 2 . When an object is thrown upward from the ground with an initial velocity v0 ft/s, its height above the ground from the time it is thrown until it hits the ground is given by the formula s(t)=−16t2 +v0t. When P dollars are invested in an account at an annual interest rate r compounded continuously, the amount of money after t years is given by the formula A(t)=Pert . Algebraic formulas are important tools to calculate function values. Often we also represent these functions visually in graph form.
+
+Given an algebraic formula for a function f, the graph of f is the set of points (x,f(x)), where x is in the domain of f and f(x) is in the range. To graph a function given by a formula, it is helpful to begin by using the formula to create a table of inputs and outputs. If the domain of f consists of an infinite number of values, we cannot list all of them, but because listing some of the inputs and outputs can be very useful, it is often a good way to begin.
+
+When creating a table of inputs and outputs, we typically check to determine whether zero is an output. Those values of x where f(x)=0 are called the zeros of a function. For example, the zeros of f(x)=x 2 −4 are x=±2. The zeros determine where the graph of f intersects the x-axis, which gives us more information about the shape of the graph of the function. The graph of a function may never intersect the x-axis, or it may intersect multiple (or even infinitely many) times.
+
+Another point of interest is the y-intercept, if it exists. The y-intercept is given by (0,f(0)).
+
+Since a function has exactly one output for each input, the graph of a function can have, at most, one y-intercept. If x=0 is in the domain of a function f, then f has exactly one y-intercept. If x=0 is not in the domain of f, then f has no y-intercept. Similarly, for any real number c, if c is in the domain of f, there is exactly one output f(c), and the line x=c intersects the graph of f exactly once. On the other hand, if c is not in the domain of f,f(c) is not defined and the line x=c does not intersect the graph of f. This property is summarized in the vertical line test.
+
+Note: Rule: Vertical Line Test
+
+Given a function f, every vertical line that may be drawn intersects the graph of f no more than once. If any vertical line intersects a set of points more than once, the set of points does not represent a function.
+
+We can use this test to determine whether a set of plotted points represents the graph of a function (Figure).
+</body>
+</document>
