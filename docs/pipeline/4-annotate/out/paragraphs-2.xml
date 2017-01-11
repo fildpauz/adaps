@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Costa Rican volcano erupts, alert issued (Extract)</title>
+    <citation>Wikinews: “Costa Rican volcano erupts, alert issued”, 8 January 2010. Retrieved from http://en.wikinews.org/wiki/Costa_Rican_volcano_erupts,_alert_issued on 18 February 2015.</citation>
+    <url>http://en.wikinews.org/wiki/Costa_Rican_volcano_erupts,_alert_issued</url>
+    <info type="arise">
+        <arise-info book="1" section="2" unit="6" part="1" item="B" firstpage="27"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence par-function="topic|supporting|concluding" id="p01-s01">
+                <t id="p01-s01-t01">Costa</t>
+                <t id="p01-s01-t02">Rica's</t>
+                <t id="p01-s01-t03">Turrialba</t>
+                <t id="p01-s01-t04">volcano</t>
+                <t id="p01-s01-t05">erupted</t>
+                <t id="p01-s01-t06" type="GSL-1">for</t>
+                <t id="p01-s01-t07" type="GSL-1">the</t>
+                <t id="p01-s01-t08" type="GSL-1">first</t>
+                <t id="p01-s01-t09" type="GSL-1">time</t>
+                <t id="p01-s01-t10" type="GSL-1">in</t>
+                <t id="p01-s01-t11" type="GSL-1">more</t>
+                <t id="p01-s01-t12" type="GSL-1">than</t>
+                <t id="p01-s01-t13" type="GSL-1">a</t>
+                <t id="p01-s01-t14" type="GSL-2">century</t>
+                <t id="p01-s01-t15" type="GSL-1">yesterday</t>
+                <punc>,</punc>
+                <t id="p01-s01-t16">spewing</t>
+                <t id="p01-s01-t17" type="GSL-2">ash</t>
+                <t id="p01-s01-t18" type="GSL-1">and</t>
+                <t id="p01-s01-t19" type="GSL-2">prompting</t>
+                <t id="p01-s01-t20" type="GSL-1">the</t>
+                <t id="p01-s01-t21">evacuation</t>
+                <t id="p01-s01-t22" type="GSL-1">of</t>
+                <t id="p01-s01-t23" type="GSL-1">a</t>
+                <t id="p01-s01-t24" type="GSL-1">small</t>
+                <t id="p01-s01-t25" type="GSL-1">group</t>
+                <t id="p01-s01-t26" type="GSL-1">of</t>
+                <t id="p01-s01-t27" type="GSL-1">people</t>
+                <t id="p01-s01-t28" type="GSL-1">living</t>
+                <t id="p01-s01-t29" type="GSL-1">in</t>
+                <t id="p01-s01-t30" type="GSL-1">nearby</t>
+                <t id="p01-s01-t31" type="Coxhead-AWL-2,AR-AWL-2a">communities</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p01-s02">
+                <t id="p01-s02-t01" type="GSL-1">The</t>
+                <t id="p01-s02-t02" type="GSL-2">government</t>
+                <t id="p01-s02-t03" type="GSL-1">has</t>
+                <t id="p01-s02-t04" type="GSL-1">also</t>
+                <t id="p01-s02-t05" type="Coxhead-AWL-1,AR-AWL-1b">issued</t>
+                <t id="p01-s02-t06" type="GSL-1">an</t>
+                <t id="p01-s02-t07">alert</t>
+                <connector id="p01-s02-c01" type="" info="">
+                    <t id="p01-s02-t08" type="GSL-1">saying</t>
+                    <t id="p01-s02-t09" type="GSL-1">that</t>
+                </connector>
+                <anaphor id="p01-s02-a01" info="">
+                    <t id="p01-s02-t10" type="GSL-1">such</t>
+                    <t id="p01-s02-t11" type="GSL-1">activity</t>
+                </anaphor>
+                <t id="p01-s02-t12" type="GSL-1">may</t>
+                <t id="p01-s02-t13">recur</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence par-function="topic|supporting|concluding" id="p02-s01">
+                <t id="p02-s01-t01" type="Coxhead-AWL-1,AR-AWL-1a">Authorities</t>
+                <t id="p02-s01-t02" type="Coxhead-AWL-5,AR-AWL-5b">monitoring</t>
+                <t id="p02-s01-t03">Turrialba's</t>
+                <t id="p02-s01-t04" type="GSL-1">activity</t>
+                <t id="p02-s01-t05" type="GSL-1">increased</t>
+                <t id="p02-s01-t06" type="GSL-1">a</t>
+                <t id="p02-s01-t07">volcano</t>
+                <t id="p02-s01-t08">alert</t>
+                <t id="p02-s01-t09" type="GSL-1">level</t>
+                <t id="p02-s01-t10" type="GSL-1">yesterday</t>
+                <punc>,</punc>
+                <connector id="p02-s01-c01" type="" info="">
+                    <t id="p02-s01-t11" type="GSL-1">saying</t>
+                </connector>
+                <punc>“</punc>
+                <t id="p02-s01-t12" type="Coxhead-AWL-8,AR-AWL-8b">intense</t>
+                <punc>”</punc>
+                <t id="p02-s01-t13" type="GSL-1">but</t>
+                <punc>“</punc>
+                <t id="p02-s01-t14" type="GSL-1">low</t>
+                <punc>”</punc>
+                <t id="p02-s01-t15">seismic</t>
+                <t id="p02-s01-t16" type="GSL-1">activity</t>
+                <t id="p02-s01-t17" type="GSL-1">continued</t>
+                <t id="p02-s01-t18" type="GSL-1">in</t>
+                <t id="p02-s01-t19" type="GSL-1">the</t>
+                <t id="p02-s01-t20">crater</t>
+                <t id="p02-s01-t21" type="Coxhead-AWL-1,AR-AWL-1a">area</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p03">
+            <sentence par-function="topic|supporting|concluding" id="p03-s01">
+                <t id="p03-s01-t01" type="GSL-1">Officials</t>
+                <connector id="p03-s01-c01" type="" info="">
+                    <t id="p03-s01-t02" type="GSL-1">also</t>
+                </connector>
+                <t id="p03-s01-t03" type="GSL-1">say</t>
+                <t id="p03-s01-t04" type="GSL-1">winds</t>
+                <t id="p03-s01-t05" type="GSL-1">could</t>
+                <t id="p03-s01-t06" type="GSL-1">blow</t>
+                <t id="p03-s01-t07" type="GSL-1">some</t>
+                <t id="p03-s01-t08" type="GSL-1">of</t>
+                <t id="p03-s01-t09" type="GSL-1">the</t>
+                <t id="p03-s01-t10" type="GSL-2">ash</t>
+                <t id="p03-s01-t11" type="GSL-1">from</t>
+                <anaphor id="p03-s01-a01" info="">
+                    <t id="p03-s01-t12" type="GSL-1">the</t>
+                    <t id="p03-s01-t13">3,328-meter</t>
+                    <t id="p03-s01-t14">volcano</t>
+                </anaphor>
+                <t id="p03-s01-t15" type="GSL-1">toward</t>
+                <t id="p03-s01-t16" type="GSL-1">the</t>
+                <t id="p03-s01-t17">Costa</t>
+                <t id="p03-s01-t18">Rican</t>
+                <t id="p03-s01-t19" type="GSL-1">capital</t>
+                <punc>,</punc>
+                <t id="p03-s01-t20">San</t>
+                <t id="p03-s01-t21">Jose</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p03-s02">
+                <t id="p03-s02-t01" type="GSL-1">The</t>
+                <t id="p03-s02-t02">Costa</t>
+                <t id="p03-s02-t03">Rican</t>
+                <t id="p03-s02-t04" type="GSL-2">agricultural</t>
+                <t id="p03-s02-t05" type="Coxhead-AWL-6,AR-AWL-6b">ministry</t>
+                <connector id="p03-s02-c01" type="" info="">
+                    <t id="p03-s02-t06" type="GSL-2">cautioned</t>
+                    <t id="p03-s02-t07" type="GSL-1">that</t>
+                </connector>
+                <t id="p03-s02-t08" type="GSL-1">about</t>
+                <t id="p03-s02-t09">800</t>
+                <t id="p03-s02-t10" type="GSL-1">farm</t>
+                <t id="p03-s02-t11" type="GSL-1">animals</t>
+                <t id="p03-s02-t12" type="GSL-1">could</t>
+                <t id="p03-s02-t13" type="GSL-1">be</t>
+                <t id="p03-s02-t14" type="GSL-1">at</t>
+                <t id="p03-s02-t15" type="GSL-2">risk</t>
+                <t id="p03-s02-t16" type="GSL-1">due</t>
+                <t id="p03-s02-t17" type="GSL-1">to</t>
+                <t id="p03-s02-t18" type="GSL-2">ashes</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p04">
+            <sentence par-function="topic|supporting|concluding" id="p04-s01">
+                <anaphor id="p04-s01-a01" info="">
+                    <t id="p04-s01-t01" type="GSL-1">The</t>
+                    <t id="p04-s01-t02">volcano</t>
+                </anaphor>
+                <t id="p04-s01-t03" type="GSL-1">last</t>
+                <t id="p04-s01-t04">erupted</t>
+                <t id="p04-s01-t05" type="GSL-1">in</t>
+                <t id="p04-s01-t06">1856</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p04-s02">
+                <anaphor id="p04-s02-a01" info="">
+                    <t id="p04-s02-t01" type="GSL-1">It</t>
+                </anaphor>
+                <t id="p04-s02-t02" type="GSL-1">is</t>
+                <t id="p04-s02-t03" type="Coxhead-AWL-3,AR-AWL-3b">located</t>
+                <t id="p04-s02-t04" type="GSL-1">around</t>
+                <t id="p04-s02-t05">80</t>
+                <t id="p04-s02-t06" type="GSL-2">kilometres</t>
+                <t id="p04-s02-t07" type="GSL-1">east</t>
+                <t id="p04-s02-t08" type="GSL-1">of</t>
+                <t id="p04-s02-t09">San</t>
+                <t id="p04-s02-t10">Jose</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
