@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Tom Sawyer (Extract)</title>
+    <citation>Twain, Mark (1884) Tom Sawyer. The American Publishing Company. Retrieved from http://www.gutenberg.org/files/74/74-h/74-h.htm on 14 February 2014.</citation>
+    <url>http://www.gutenberg.org/files/74/74-h/74-h.htm</url>
+    <info type="arise">
+        <arise-info book="1" section="2" unit="6" part="1" item="C" firstpage="27"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence par-function="topic|supporting|concluding" id="p01-s01">
+                <punc>“</punc>
+                <t id="p01-s01-t01">TOM</t>
+                <punc>!</punc>
+                <punc>”</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence par-function="topic|supporting|concluding" id="p02-s01">
+                <t id="p02-s01-t01" type="GSL-1">No</t>
+                <t id="p02-s01-t02" type="GSL-1">answer</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p03">
+            <sentence par-function="topic|supporting|concluding" id="p03-s01">
+                <punc>“</punc>
+                <t id="p03-s01-t01">TOM</t>
+                <punc>!</punc>
+                <punc>”</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p04">
+            <sentence par-function="topic|supporting|concluding" id="p04-s01">
+                <t id="p04-s01-t01" type="GSL-1">No</t>
+                <t id="p04-s01-t02" type="GSL-1">answer</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p05">
+            <sentence par-function="topic|supporting|concluding" id="p05-s01">
+                <punc>“</punc>
+                <t id="p05-s01-t01">What's</t>
+                <t id="p05-s01-t02" type="GSL-1">gone</t>
+                <t id="p05-s01-t03" type="GSL-1">with</t>
+                <anaphor id="p05-s01-a01" info="">
+                    <t id="p05-s01-t04" type="GSL-1">that</t>
+                    <t id="p05-s01-t05" type="GSL-1">boy</t>
+                </anaphor>
+                <punc>,</punc>
+                <t id="p05-s01-t06" type="GSL-1">I</t>
+                <t id="p05-s01-t07" type="GSL-1">wonder</t>
+                <punc>?</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p05-s02">
+                <t id="p05-s02-t01" type="GSL-1">You</t>
+                <t id="p05-s02-t02">TOM</t>
+                <punc>!</punc>
+                <punc>”</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p06">
+            <sentence par-function="topic|supporting|concluding" id="p06-s01">
+                <t id="p06-s01-t01" type="GSL-1">No</t>
+                <t id="p06-s01-t02" type="GSL-1">answer</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p07">
+            <sentence par-function="topic|supporting|concluding" id="p07-s01">
+                <t id="p07-s01-t01" type="GSL-1">The</t>
+                <t id="p07-s01-t02" type="GSL-1">old</t>
+                <t id="p07-s01-t03" type="GSL-1">lady</t>
+                <t id="p07-s01-t04" type="GSL-1">pulled</t>
+                <anaphor id="p07-s01-a01" info="">
+                    <t id="p07-s01-t05" type="GSL-1">her</t>
+                </anaphor>
+                <t id="p07-s01-t06">spectacles</t>
+                <t id="p07-s01-t07" type="GSL-1">down</t>
+                <t id="p07-s01-t08" type="GSL-1">and</t>
+                <t id="p07-s01-t09" type="GSL-1">looked</t>
+                <t id="p07-s01-t10" type="GSL-1">over</t>
+                <anaphor id="p07-s01-a02" info="">
+                    <t id="p07-s01-t11" type="GSL-1">them</t>
+                </anaphor>
+                <t id="p07-s01-t12" type="GSL-1">about</t>
+                <t id="p07-s01-t13" type="GSL-1">the</t>
+                <t id="p07-s01-t14" type="GSL-1">room</t>
+                <punc>;</punc>
+                <connector id="p07-s01-c01" type="" info="">
+                    <t id="p07-s01-t15" type="GSL-1">then</t>
+                </connector>
+                <anaphor id="p07-s01-a03" info="">
+                    <t id="p07-s01-t16" type="GSL-1">she</t>
+                </anaphor>
+                <t id="p07-s01-t17" type="GSL-1">put</t>
+                <anaphor id="p07-s01-a04" info="">
+                    <t id="p07-s01-t18" type="GSL-1">them</t>
+                </anaphor>
+                <t id="p07-s01-t19" type="GSL-1">up</t>
+                <t id="p07-s01-t20" type="GSL-1">and</t>
+                <t id="p07-s01-t21" type="GSL-1">looked</t>
+                <t id="p07-s01-t22" type="GSL-1">out</t>
+                <t id="p07-s01-t23" type="GSL-1">under</t>
+                <anaphor id="p07-s01-a05" info="">
+                    <t id="p07-s01-t24" type="GSL-1">them</t>
+                </anaphor>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p07-s02">
+                <anaphor id="p07-s02-a01" info="">
+                    <t id="p07-s02-t01" type="GSL-1">She</t>
+                </anaphor>
+                <t id="p07-s02-t02" type="GSL-2">seldom</t>
+                <t id="p07-s02-t03" type="GSL-1">or</t>
+                <t id="p07-s02-t04" type="GSL-1">never</t>
+                <t id="p07-s02-t05" type="GSL-1">looked</t>
+                <t id="p07-s02-t06" type="GSL-1">through</t>
+                <anaphor id="p07-s02-a02" info="">
+                    <t id="p07-s02-t07" type="GSL-1">them</t>
+                </anaphor>
+                <t id="p07-s02-t08" type="GSL-1">for</t>
+                <t id="p07-s02-t09" type="GSL-1">so</t>
+                <t id="p07-s02-t10" type="GSL-1">small</t>
+                <t id="p07-s02-t11" type="GSL-1">a</t>
+                <t id="p07-s02-t12" type="GSL-1">thing</t>
+                <t id="p07-s02-t13" type="GSL-1">as</t>
+                <t id="p07-s02-t14" type="GSL-1">a</t>
+                <t id="p07-s02-t15" type="GSL-1">boy</t>
+                <punc>;</punc>
+                <anaphor id="p07-s02-a03" info="">
+                    <t id="p07-s02-t16" type="GSL-1">they</t>
+                </anaphor>
+                <t id="p07-s02-t17" type="GSL-1">were</t>
+                <anaphor id="p07-s02-a04" info="">
+                    <t id="p07-s02-t18" type="GSL-1">her</t>
+                </anaphor>
+                <t id="p07-s02-t19" type="GSL-1">state</t>
+                <t id="p07-s02-t20" type="GSL-2">pair</t>
+                <punc>,</punc>
+                <t id="p07-s02-t21" type="GSL-1">the</t>
+                <t id="p07-s02-t22" type="GSL-2">pride</t>
+                <t id="p07-s02-t23" type="GSL-1">of</t>
+                <anaphor id="p07-s02-a05" info="">
+                    <t id="p07-s02-t24" type="GSL-1">her</t>
+                </anaphor>
+                <t id="p07-s02-t25" type="GSL-1">heart</t>
+                <punc>,</punc>
+                <t id="p07-s02-t26" type="GSL-1">and</t>
+                <t id="p07-s02-t27" type="GSL-1">were</t>
+                <t id="p07-s02-t28" type="GSL-1">built</t>
+                <t id="p07-s02-t29" type="GSL-1">for</t>
+                <punc>“</punc>
+                <t id="p07-s02-t30" type="Coxhead-AWL-5,AR-AWL-5b">style</t>
+                <punc>,</punc>
+                <punc>”</punc>
+                <t id="p07-s02-t31" type="GSL-1">not</t>
+                <t id="p07-s02-t32" type="GSL-1">service</t>
+                <punc>—</punc>
+                <anaphor id="p07-s02-a06" info="">
+                    <t id="p07-s02-t33" type="GSL-1">she</t>
+                </anaphor>
+                <t id="p07-s02-t34" type="GSL-1">could</t>
+                <t id="p07-s02-t35" type="GSL-1">have</t>
+                <t id="p07-s02-t36" type="GSL-1">seen</t>
+                <t id="p07-s02-t37" type="GSL-1">through</t>
+                <t id="p07-s02-t38" type="GSL-1">a</t>
+                <t id="p07-s02-t39" type="GSL-2">pair</t>
+                <t id="p07-s02-t40" type="GSL-1">of</t>
+                <t id="p07-s02-t41">stove-lids</t>
+                <t id="p07-s02-t42" type="GSL-1">just</t>
+                <t id="p07-s02-t43" type="GSL-1">as</t>
+                <t id="p07-s02-t44" type="GSL-1">well</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p07-s03">
+                <anaphor id="p07-s03-a01" info="">
+                    <t id="p07-s03-t01" type="GSL-1">She</t>
+                </anaphor>
+                <t id="p07-s03-t02" type="GSL-1">looked</t>
+                <t id="p07-s03-t03">perplexed</t>
+                <t id="p07-s03-t04" type="GSL-1">for</t>
+                <t id="p07-s03-t05" type="GSL-1">a</t>
+                <t id="p07-s03-t06" type="GSL-1">moment</t>
+                <punc>,</punc>
+                <t id="p07-s03-t07" type="GSL-1">and</t>
+                <t id="p07-s03-t08" type="GSL-1">then</t>
+                <connector id="p07-s03-c01" type="" info="">
+                    <t id="p07-s03-t09" type="GSL-1">said</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p07-s03-t10" type="GSL-1">not</t>
+                <t id="p07-s03-t11" type="GSL-2">fiercely</t>
+                <punc>,</punc>
+                <t id="p07-s03-t12" type="GSL-1">but</t>
+                <t id="p07-s03-t13" type="GSL-1">still</t>
+                <t id="p07-s03-t14" type="GSL-2">loud</t>
+                <t id="p07-s03-t15" type="GSL-1">enough</t>
+                <t id="p07-s03-t16" type="GSL-1">for</t>
+                <t id="p07-s03-t17" type="GSL-1">the</t>
+                <t id="p07-s03-t18" type="GSL-1">furniture</t>
+                <t id="p07-s03-t19" type="GSL-1">to</t>
+                <t id="p07-s03-t20" type="GSL-1">hear</t>
+                <punc>:</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p08">
+            <sentence par-function="topic|supporting|concluding" id="p08-s01">
+                <punc>“</punc>
+                <t id="p08-s01-t01" type="GSL-1">Well</t>
+                <punc>,</punc>
+                <t id="p08-s01-t02" type="GSL-1">I</t>
+                <t id="p08-s01-t03" type="GSL-1">lay</t>
+                <t id="p08-s01-t04" type="GSL-1">if</t>
+                <t id="p08-s01-t05" type="GSL-1">I</t>
+                <t id="p08-s01-t06" type="GSL-1">get</t>
+                <t id="p08-s01-t07" type="GSL-1">hold</t>
+                <t id="p08-s01-t08" type="GSL-1">of</t>
+                <t id="p08-s01-t09" type="GSL-1">you</t>
+                <t id="p08-s01-t10">I'll—</t>
+                <punc>”</punc>
+                <punc>...</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
