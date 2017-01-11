@@ -34,7 +34,7 @@
 <!--- Put your DTDDoc comment here. -->
 <!ELEMENT info (arise-info)?>
 <!ATTLIST info
-    type (arise|science-news|other) #REQUIRED
+    type (arise|science-news|wikipedia|research-article|textbook|other) #REQUIRED
   >
 
 <!--- Put your DTDDoc comment here. -->
@@ -66,12 +66,18 @@
   >
 
 <!--- Put your DTDDoc comment here. -->
-<!ELEMENT t (#PCDATA)>
+<!ELEMENT t (#PCDATA|sup|sub)*>
 <!ATTLIST t
     id CDATA #IMPLIED
     type CDATA #IMPLIED
     parts CDATA #IMPLIED
   >
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT sup (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT sub (#PCDATA)>
 
 <!--- Put your DTDDoc comment here. -->
 <!ELEMENT punc (#PCDATA)>

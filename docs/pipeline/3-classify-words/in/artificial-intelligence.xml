@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Artificial intelligence</title>
+    <citation>Wikipedia contributors, "Artificial intelligence," Wikipedia, The Free Encyclopedia, https://simple.wikipedia.org/w/index.php?title=Artificial_intelligence&amp;oldid=5553123 (accessed January 10, 2017).</citation>
+    <url>https://simple.wikipedia.org/w/index.php?title=Artificial_intelligence</url>
+    <info type="wikipedia"/>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01">Artificial</t>
+                <t id="p01-s01-t02">intelligence</t>
+                <punc>(</punc>
+                <t id="p01-s01-t03">AI</t>
+                <punc>)</punc>
+                <t id="p01-s01-t04">is</t>
+                <t id="p01-s01-t05">the</t>
+                <t id="p01-s01-t06">ability</t>
+                <t id="p01-s01-t07">of</t>
+                <t id="p01-s01-t08">a</t>
+                <t id="p01-s01-t09">computer</t>
+                <t id="p01-s01-t10">program</t>
+                <t id="p01-s01-t11">or</t>
+                <t id="p01-s01-t12">a</t>
+                <t id="p01-s01-t13">machine</t>
+                <t id="p01-s01-t14">to</t>
+                <t id="p01-s01-t15">think</t>
+                <t id="p01-s01-t16">and</t>
+                <t id="p01-s01-t17">learn</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01">It</t>
+                <t id="p01-s02-t02">is</t>
+                <t id="p01-s02-t03">also</t>
+                <t id="p01-s02-t04">a</t>
+                <t id="p01-s02-t05">field</t>
+                <t id="p01-s02-t06">of</t>
+                <t id="p01-s02-t07">study</t>
+                <t id="p01-s02-t08">which</t>
+                <t id="p01-s02-t09">tries</t>
+                <t id="p01-s02-t10">to</t>
+                <t id="p01-s02-t11">make</t>
+                <t id="p01-s02-t12">computers</t>
+                <punc>“</punc>
+                <t id="p01-s02-t13">smart</t>
+                <punc>”</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s03">
+                <t id="p01-s03-t01">John</t>
+                <t id="p01-s03-t02">McCarthy</t>
+                <t id="p01-s03-t03">came</t>
+                <t id="p01-s03-t04">up</t>
+                <t id="p01-s03-t05">with</t>
+                <t id="p01-s03-t06">the</t>
+                <t id="p01-s03-t07">name</t>
+                <punc>“</punc>
+                <t id="p01-s03-t08">artificial</t>
+                <t id="p01-s03-t09">intelligence</t>
+                <punc>”</punc>
+                <t id="p01-s03-t10">in</t>
+                <t id="p01-s03-t11">1955</t>
+                <punc>.</punc>
+                <t id="p01-s03-t12">[1]</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence id="p02-s01">
+                <t id="p02-s01-t01">In</t>
+                <t id="p02-s01-t02">general</t>
+                <t id="p02-s01-t03">use</t>
+                <punc>,</punc>
+                <t id="p02-s01-t04">the</t>
+                <t id="p02-s01-t05">term</t>
+                <punc>“</punc>
+                <t id="p02-s01-t06">artificial</t>
+                <t id="p02-s01-t07">intelligence</t>
+                <punc>”</punc>
+                <t id="p02-s01-t08">means</t>
+                <t id="p02-s01-t09">a</t>
+                <t id="p02-s01-t10">machine</t>
+                <t id="p02-s01-t11">which</t>
+                <t id="p02-s01-t12">mimics</t>
+                <t id="p02-s01-t13">human</t>
+                <t id="p02-s01-t14">cognition</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s02">
+                <t id="p02-s02-t01">At</t>
+                <t id="p02-s02-t02">least</t>
+                <t id="p02-s02-t03">some</t>
+                <t id="p02-s02-t04">of</t>
+                <t id="p02-s02-t05">the</t>
+                <t id="p02-s02-t06">things</t>
+                <t id="p02-s02-t07">we</t>
+                <t id="p02-s02-t08">associate</t>
+                <t id="p02-s02-t09">with</t>
+                <t id="p02-s02-t10">other</t>
+                <t id="p02-s02-t11">minds</t>
+                <punc>,</punc>
+                <t id="p02-s02-t12">such</t>
+                <t id="p02-s02-t13">as</t>
+                <t id="p02-s02-t14">learning</t>
+                <t id="p02-s02-t15">and</t>
+                <t id="p02-s02-t16">problem</t>
+                <t id="p02-s02-t17">solving</t>
+                <t id="p02-s02-t18">can</t>
+                <t id="p02-s02-t19">be</t>
+                <t id="p02-s02-t20">done</t>
+                <t id="p02-s02-t21">by</t>
+                <t id="p02-s02-t22">computers</t>
+                <punc>,</punc>
+                <t id="p02-s02-t23">though</t>
+                <t id="p02-s02-t24">not</t>
+                <t id="p02-s02-t25">in</t>
+                <t id="p02-s02-t26">the</t>
+                <t id="p02-s02-t27">same</t>
+                <t id="p02-s02-t28">way</t>
+                <t id="p02-s02-t29">as</t>
+                <t id="p02-s02-t30">we</t>
+                <t id="p02-s02-t31">do</t>
+                <punc>.</punc>
+                <t id="p02-s02-t32">[2]</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p03">
+            <sentence id="p03-s01">
+                <t id="p03-s01-t01">An</t>
+                <t id="p03-s01-t02">ideal</t>
+                <punc>(</punc>
+                <t id="p03-s01-t03">perfect</t>
+                <punc>)</punc>
+                <t id="p03-s01-t04">intelligent</t>
+                <t id="p03-s01-t05">machine</t>
+                <t id="p03-s01-t06">is</t>
+                <t id="p03-s01-t07">a</t>
+                <t id="p03-s01-t08">flexible</t>
+                <t id="p03-s01-t09">agent</t>
+                <t id="p03-s01-t10">which</t>
+                <t id="p03-s01-t11">perceives</t>
+                <t id="p03-s01-t12">its</t>
+                <t id="p03-s01-t13">environment</t>
+                <t id="p03-s01-t14">and</t>
+                <t id="p03-s01-t15">takes</t>
+                <t id="p03-s01-t16">actions</t>
+                <t id="p03-s01-t17">to</t>
+                <t id="p03-s01-t18">maximize</t>
+                <t id="p03-s01-t19">its</t>
+                <t id="p03-s01-t20">chance</t>
+                <t id="p03-s01-t21">of</t>
+                <t id="p03-s01-t22">success</t>
+                <t id="p03-s01-t23">at</t>
+                <t id="p03-s01-t24">some</t>
+                <t id="p03-s01-t25">goal</t>
+                <punc>.</punc>
+                <t id="p03-s01-t26">[3]</t>
+            </sentence>
+            <sentence id="p03-s02">
+                <t id="p03-s02-t01">As</t>
+                <t id="p03-s02-t02">machines</t>
+                <t id="p03-s02-t03">become</t>
+                <t id="p03-s02-t04">increasingly</t>
+                <t id="p03-s02-t05">capable</t>
+                <punc>,</punc>
+                <t id="p03-s02-t06">mental</t>
+                <t id="p03-s02-t07">facilities</t>
+                <t id="p03-s02-t08">once</t>
+                <t id="p03-s02-t09">thought</t>
+                <t id="p03-s02-t10">to</t>
+                <t id="p03-s02-t11">require</t>
+                <t id="p03-s02-t12">intelligence</t>
+                <t id="p03-s02-t13">are</t>
+                <t id="p03-s02-t14">removed</t>
+                <t id="p03-s02-t15">from</t>
+                <t id="p03-s02-t16">the</t>
+                <t id="p03-s02-t17">definition</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s03">
+                <t id="p03-s03-t01">For</t>
+                <t id="p03-s03-t02">example</t>
+                <punc>,</punc>
+                <t id="p03-s03-t03">optical</t>
+                <t id="p03-s03-t04">character</t>
+                <t id="p03-s03-t05">recognition</t>
+                <t id="p03-s03-t06">is</t>
+                <t id="p03-s03-t07">no</t>
+                <t id="p03-s03-t08">longer</t>
+                <t id="p03-s03-t09">perceived</t>
+                <t id="p03-s03-t10">as</t>
+                <t id="p03-s03-t11">an</t>
+                <t id="p03-s03-t12">exemplar</t>
+                <t id="p03-s03-t13">of</t>
+                <punc>“</punc>
+                <t id="p03-s03-t14">artificial</t>
+                <t id="p03-s03-t15">intelligence</t>
+                <punc>”</punc>
+                <punc>:</punc>
+                <t id="p03-s03-t16">it</t>
+                <t id="p03-s03-t17">is</t>
+                <t id="p03-s03-t18">just</t>
+                <t id="p03-s03-t19">a</t>
+                <t id="p03-s03-t20">routine</t>
+                <t id="p03-s03-t21">technology</t>
+                <punc>.</punc>
+                <t id="p03-s03-t22">[4]</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p04">
+            <sentence id="p04-s01">
+                <t id="p04-s01-t01">At</t>
+                <t id="p04-s01-t02">present</t>
+                <t id="p04-s01-t03">we</t>
+                <t id="p04-s01-t04">use</t>
+                <t id="p04-s01-t05">the</t>
+                <t id="p04-s01-t06">term</t>
+                <t id="p04-s01-t07">AI</t>
+                <t id="p04-s01-t08">for</t>
+                <t id="p04-s01-t09">successfully</t>
+                <t id="p04-s01-t10">understanding</t>
+                <t id="p04-s01-t11">human</t>
+                <t id="p04-s01-t12">speech</t>
+                <punc>,</punc>
+                <t id="p04-s01-t13">[2]</t>
+                <t id="p04-s01-t14">competing</t>
+                <t id="p04-s01-t15">at</t>
+                <t id="p04-s01-t16">a</t>
+                <t id="p04-s01-t17">high</t>
+                <t id="p04-s01-t18">level</t>
+                <t id="p04-s01-t19">in</t>
+                <t id="p04-s01-t20">strategic</t>
+                <t id="p04-s01-t21">game</t>
+                <t id="p04-s01-t22">systems</t>
+                <punc>(</punc>
+                <t id="p04-s01-t23">such</t>
+                <t id="p04-s01-t24">as</t>
+                <t id="p04-s01-t25">Chess</t>
+                <t id="p04-s01-t26">and</t>
+                <t id="p04-s01-t27">Go</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p04-s01-t28">self</t>
+                <punc>-</punc>
+                <t id="p04-s01-t29">driving</t>
+                <t id="p04-s01-t30">cars</t>
+                <punc>,</punc>
+                <t id="p04-s01-t31">and</t>
+                <t id="p04-s01-t32">interpreting</t>
+                <t id="p04-s01-t33">complex</t>
+                <t id="p04-s01-t34">data</t>
+                <punc>.</punc>
+                <t id="p04-s01-t35">[5]</t>
+            </sentence>
+            <sentence id="p04-s02">
+                <t id="p04-s02-t01">Some</t>
+                <t id="p04-s02-t02">people</t>
+                <t id="p04-s02-t03">also</t>
+                <t id="p04-s02-t04">consider</t>
+                <t id="p04-s02-t05">AI</t>
+                <t id="p04-s02-t06">a</t>
+                <t id="p04-s02-t07">danger</t>
+                <t id="p04-s02-t08">to</t>
+                <t id="p04-s02-t09">humanity</t>
+                <t id="p04-s02-t10">if</t>
+                <t id="p04-s02-t11">it</t>
+                <t id="p04-s02-t12">progresses</t>
+                <t id="p04-s02-t13">unabatedly</t>
+                <punc>.</punc>
+                <t id="p04-s02-t14">[6]</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p05">
+            <sentence id="p05-s01">
+                <t id="p05-s01-t01">An</t>
+                <t id="p05-s01-t02">extreme</t>
+                <t id="p05-s01-t03">goal</t>
+                <t id="p05-s01-t04">of</t>
+                <t id="p05-s01-t05">AI</t>
+                <t id="p05-s01-t06">research</t>
+                <t id="p05-s01-t07">is</t>
+                <t id="p05-s01-t08">to</t>
+                <t id="p05-s01-t09">create</t>
+                <t id="p05-s01-t10">computer</t>
+                <t id="p05-s01-t11">programs</t>
+                <t id="p05-s01-t12">that</t>
+                <t id="p05-s01-t13">can</t>
+                <t id="p05-s01-t14">learn</t>
+                <punc>,</punc>
+                <t id="p05-s01-t15">solve</t>
+                <t id="p05-s01-t16">problems</t>
+                <punc>,</punc>
+                <t id="p05-s01-t17">and</t>
+                <t id="p05-s01-t18">think</t>
+                <t id="p05-s01-t19">logically</t>
+                <punc>.</punc>
+                <t id="p05-s01-t20">[7][8]</t>
+            </sentence>
+            <sentence id="p05-s02">
+                <t id="p05-s02-t01">In</t>
+                <t id="p05-s02-t02">practice</t>
+                <punc>,</punc>
+                <t id="p05-s02-t03">however</t>
+                <punc>,</punc>
+                <t id="p05-s02-t04">most</t>
+                <t id="p05-s02-t05">applications</t>
+                <t id="p05-s02-t06">have</t>
+                <t id="p05-s02-t07">picked</t>
+                <t id="p05-s02-t08">on</t>
+                <t id="p05-s02-t09">problems</t>
+                <t id="p05-s02-t10">which</t>
+                <t id="p05-s02-t11">computers</t>
+                <t id="p05-s02-t12">can</t>
+                <t id="p05-s02-t13">do</t>
+                <t id="p05-s02-t14">well</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p05-s03">
+                <t id="p05-s03-t01">Searching</t>
+                <t id="p05-s03-t02">data</t>
+                <t id="p05-s03-t03">bases</t>
+                <t id="p05-s03-t04">and</t>
+                <t id="p05-s03-t05">doing</t>
+                <t id="p05-s03-t06">calculations</t>
+                <t id="p05-s03-t07">are</t>
+                <t id="p05-s03-t08">things</t>
+                <t id="p05-s03-t09">computers</t>
+                <t id="p05-s03-t10">do</t>
+                <t id="p05-s03-t11">better</t>
+                <t id="p05-s03-t12">than</t>
+                <t id="p05-s03-t13">people</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p05-s04">
+                <t id="p05-s04-t01">On</t>
+                <t id="p05-s04-t02">the</t>
+                <t id="p05-s04-t03">other</t>
+                <t id="p05-s04-t04">hand</t>
+                <punc>,</punc>
+                <punc>“</punc>
+                <t id="p05-s04-t05">perceiving</t>
+                <t id="p05-s04-t06">its</t>
+                <t id="p05-s04-t07">environment</t>
+                <punc>”</punc>
+                <t id="p05-s04-t08">in</t>
+                <t id="p05-s04-t09">any</t>
+                <t id="p05-s04-t10">real</t>
+                <t id="p05-s04-t11">sense</t>
+                <t id="p05-s04-t12">is</t>
+                <t id="p05-s04-t13">way</t>
+                <t id="p05-s04-t14">beyond</t>
+                <t id="p05-s04-t15">present</t>
+                <punc>-</punc>
+                <t id="p05-s04-t16">day</t>
+                <t id="p05-s04-t17">computing</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p06">
+            <sentence id="p06-s01">
+                <t id="p06-s01-t01">AI</t>
+                <t id="p06-s01-t02">involves</t>
+                <t id="p06-s01-t03">many</t>
+                <t id="p06-s01-t04">different</t>
+                <t id="p06-s01-t05">fields</t>
+                <t id="p06-s01-t06">like</t>
+                <t id="p06-s01-t07">computer</t>
+                <t id="p06-s01-t08">science</t>
+                <punc>,</punc>
+                <t id="p06-s01-t09">mathematics</t>
+                <punc>,</punc>
+                <t id="p06-s01-t10">linguistics</t>
+                <punc>,</punc>
+                <t id="p06-s01-t11">psychology</t>
+                <punc>,</punc>
+                <t id="p06-s01-t12">neuroscience</t>
+                <punc>,</punc>
+                <t id="p06-s01-t13">and</t>
+                <t id="p06-s01-t14">philosophy</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p06-s02">
+                <t id="p06-s02-t01">Eventually</t>
+                <t id="p06-s02-t02">researchers</t>
+                <t id="p06-s02-t03">hope</t>
+                <t id="p06-s02-t04">to</t>
+                <t id="p06-s02-t05">create</t>
+                <t id="p06-s02-t06">a</t>
+                <punc>“</punc>
+                <t id="p06-s02-t07">general</t>
+                <t id="p06-s02-t08">artificial</t>
+                <t id="p06-s02-t09">intelligence</t>
+                <punc>”</punc>
+                <t id="p06-s02-t10">which</t>
+                <t id="p06-s02-t11">can</t>
+                <t id="p06-s02-t12">solve</t>
+                <t id="p06-s02-t13">many</t>
+                <t id="p06-s02-t14">problems</t>
+                <t id="p06-s02-t15">instead</t>
+                <t id="p06-s02-t16">of</t>
+                <t id="p06-s02-t17">focusing</t>
+                <t id="p06-s02-t18">on</t>
+                <t id="p06-s02-t19">just</t>
+                <t id="p06-s02-t20">one</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p06-s03">
+                <t id="p06-s03-t01">Researchers</t>
+                <t id="p06-s03-t02">are</t>
+                <t id="p06-s03-t03">also</t>
+                <t id="p06-s03-t04">trying</t>
+                <t id="p06-s03-t05">to</t>
+                <t id="p06-s03-t06">create</t>
+                <t id="p06-s03-t07">creative</t>
+                <t id="p06-s03-t08">and</t>
+                <t id="p06-s03-t09">emotional</t>
+                <t id="p06-s03-t10">AI</t>
+                <t id="p06-s03-t11">which</t>
+                <t id="p06-s03-t12">can</t>
+                <t id="p06-s03-t13">possibly</t>
+                <t id="p06-s03-t14">empathize</t>
+                <t id="p06-s03-t15">or</t>
+                <t id="p06-s03-t16">create</t>
+                <t id="p06-s03-t17">art</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p06-s04">
+                <t id="p06-s04-t01">Many</t>
+                <t id="p06-s04-t02">approaches</t>
+                <t id="p06-s04-t03">and</t>
+                <t id="p06-s04-t04">tools</t>
+                <t id="p06-s04-t05">have</t>
+                <t id="p06-s04-t06">been</t>
+                <t id="p06-s04-t07">tried</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p07">
+            <sentence id="p07-s01">
+                <t id="p07-s01-t01">History</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p08">
+            <sentence id="p08-s01">
+                <t id="p08-s01-t01">Objects</t>
+                <t id="p08-s01-t02">that</t>
+                <t id="p08-s01-t03">look</t>
+                <t id="p08-s01-t04">and</t>
+                <t id="p08-s01-t05">act</t>
+                <t id="p08-s01-t06">like</t>
+                <t id="p08-s01-t07">humans</t>
+                <t id="p08-s01-t08">exist</t>
+                <t id="p08-s01-t09">in</t>
+                <t id="p08-s01-t10">every</t>
+                <t id="p08-s01-t11">major</t>
+                <t id="p08-s01-t12">civilization</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s02">
+                <t id="p08-s02-t01">The</t>
+                <t id="p08-s02-t02">first</t>
+                <t id="p08-s02-t03">appearance</t>
+                <t id="p08-s02-t04">of</t>
+                <t id="p08-s02-t05">artificial</t>
+                <t id="p08-s02-t06">intelligence</t>
+                <t id="p08-s02-t07">is</t>
+                <t id="p08-s02-t08">in</t>
+                <t id="p08-s02-t09">Greek</t>
+                <t id="p08-s02-t10">myths</t>
+                <punc>,</punc>
+                <t id="p08-s02-t11">like</t>
+                <t id="p08-s02-t12">Talos</t>
+                <t id="p08-s02-t13">of</t>
+                <t id="p08-s02-t14">Crete</t>
+                <t id="p08-s02-t15">or</t>
+                <t id="p08-s02-t16">the</t>
+                <t id="p08-s02-t17">bronze</t>
+                <t id="p08-s02-t18">robot</t>
+                <t id="p08-s02-t19">of</t>
+                <t id="p08-s02-t20">Hephaestus</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s03">
+                <t id="p08-s03-t01">Humanoid</t>
+                <t id="p08-s03-t02">robots</t>
+                <t id="p08-s03-t03">were</t>
+                <t id="p08-s03-t04">built</t>
+                <t id="p08-s03-t05">by</t>
+                <t id="p08-s03-t06">Yan</t>
+                <t id="p08-s03-t07">Shi</t>
+                <punc>,</punc>
+                <t id="p08-s03-t08">Hero</t>
+                <t id="p08-s03-t09">of</t>
+                <t id="p08-s03-t10">Alexandria</t>
+                <punc>,</punc>
+                <t id="p08-s03-t11">and</t>
+                <t id="p08-s03-t12">Al</t>
+                <punc>-</punc>
+                <t id="p08-s03-t13">Jazari</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s04">
+                <t id="p08-s04-t01">Sentient</t>
+                <t id="p08-s04-t02">machines</t>
+                <t id="p08-s04-t03">became</t>
+                <t id="p08-s04-t04">popular</t>
+                <t id="p08-s04-t05">in</t>
+                <t id="p08-s04-t06">fiction</t>
+                <t id="p08-s04-t07">during</t>
+                <t id="p08-s04-t08">the</t>
+                <t id="p08-s04-t09">19th</t>
+                <t id="p08-s04-t10">and</t>
+                <t id="p08-s04-t11">20th</t>
+                <t id="p08-s04-t12">centuries</t>
+                <t id="p08-s04-t13">with</t>
+                <t id="p08-s04-t14">the</t>
+                <t id="p08-s04-t15">stories</t>
+                <t id="p08-s04-t16">of</t>
+                <t id="p08-s04-t17">Frankenstein</t>
+                <t id="p08-s04-t18">and</t>
+                <t id="p08-s04-t19">R.U.R</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p09">
+            <sentence id="p09-s01">
+                <t id="p09-s01-t01">Formal</t>
+                <t id="p09-s01-t02">logic</t>
+                <t id="p09-s01-t03">was</t>
+                <t id="p09-s01-t04">developed</t>
+                <t id="p09-s01-t05">by</t>
+                <t id="p09-s01-t06">ancient</t>
+                <t id="p09-s01-t07">Greek</t>
+                <t id="p09-s01-t08">philosophers</t>
+                <t id="p09-s01-t09">and</t>
+                <t id="p09-s01-t10">mathematicians</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p09-s02">
+                <t id="p09-s02-t01">This</t>
+                <t id="p09-s02-t02">study</t>
+                <t id="p09-s02-t03">of</t>
+                <t id="p09-s02-t04">logic</t>
+                <t id="p09-s02-t05">produced</t>
+                <t id="p09-s02-t06">the</t>
+                <t id="p09-s02-t07">idea</t>
+                <t id="p09-s02-t08">of</t>
+                <t id="p09-s02-t09">a</t>
+                <t id="p09-s02-t10">computer</t>
+                <t id="p09-s02-t11">in</t>
+                <t id="p09-s02-t12">the</t>
+                <t id="p09-s02-t13">19th</t>
+                <t id="p09-s02-t14">and</t>
+                <t id="p09-s02-t15">20th</t>
+                <t id="p09-s02-t16">century</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p09-s03">
+                <t id="p09-s03-t01">Mathematician</t>
+                <t id="p09-s03-t02">Alan</t>
+                <t id="p09-s03-t03">Turing's</t>
+                <t id="p09-s03-t04">theory</t>
+                <t id="p09-s03-t05">of</t>
+                <t id="p09-s03-t06">computation</t>
+                <t id="p09-s03-t07">said</t>
+                <t id="p09-s03-t08">that</t>
+                <t id="p09-s03-t09">any</t>
+                <t id="p09-s03-t10">mathematical</t>
+                <t id="p09-s03-t11">problem</t>
+                <t id="p09-s03-t12">could</t>
+                <t id="p09-s03-t13">be</t>
+                <t id="p09-s03-t14">solved</t>
+                <t id="p09-s03-t15">by</t>
+                <t id="p09-s03-t16">processing</t>
+                <t id="p09-s03-t17">1's</t>
+                <t id="p09-s03-t18">and</t>
+                <t id="p09-s03-t19">0's</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p09-s04">
+                <t id="p09-s04-t01">Advances</t>
+                <t id="p09-s04-t02">in</t>
+                <t id="p09-s04-t03">neurology</t>
+                <punc>,</punc>
+                <t id="p09-s04-t04">information</t>
+                <t id="p09-s04-t05">theory</t>
+                <punc>,</punc>
+                <t id="p09-s04-t06">and</t>
+                <t id="p09-s04-t07">cybernetics</t>
+                <t id="p09-s04-t08">convinced</t>
+                <t id="p09-s04-t09">a</t>
+                <t id="p09-s04-t10">small</t>
+                <t id="p09-s04-t11">group</t>
+                <t id="p09-s04-t12">of</t>
+                <t id="p09-s04-t13">researchers</t>
+                <t id="p09-s04-t14">that</t>
+                <t id="p09-s04-t15">an</t>
+                <t id="p09-s04-t16">electronic</t>
+                <t id="p09-s04-t17">brain</t>
+                <t id="p09-s04-t18">was</t>
+                <t id="p09-s04-t19">possible</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p10">
+            <sentence id="p10-s01">
+                <t id="p10-s01-t01">AI</t>
+                <t id="p10-s01-t02">research</t>
+                <t id="p10-s01-t03">really</t>
+                <t id="p10-s01-t04">started</t>
+                <t id="p10-s01-t05">with</t>
+                <t id="p10-s01-t06">a</t>
+                <t id="p10-s01-t07">conference</t>
+                <t id="p10-s01-t08">at</t>
+                <t id="p10-s01-t09">Dartmouth</t>
+                <t id="p10-s01-t10">College</t>
+                <t id="p10-s01-t11">in</t>
+                <t id="p10-s01-t12">1956</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p10-s02">
+                <t id="p10-s02-t01">It</t>
+                <t id="p10-s02-t02">was</t>
+                <t id="p10-s02-t03">a</t>
+                <t id="p10-s02-t04">month</t>
+                <t id="p10-s02-t05">long</t>
+                <t id="p10-s02-t06">brainstorming</t>
+                <t id="p10-s02-t07">session</t>
+                <t id="p10-s02-t08">attended</t>
+                <t id="p10-s02-t09">by</t>
+                <t id="p10-s02-t10">many</t>
+                <t id="p10-s02-t11">people</t>
+                <t id="p10-s02-t12">with</t>
+                <t id="p10-s02-t13">interests</t>
+                <t id="p10-s02-t14">in</t>
+                <t id="p10-s02-t15">AI</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p10-s03">
+                <t id="p10-s03-t01">At</t>
+                <t id="p10-s03-t02">the</t>
+                <t id="p10-s03-t03">conference</t>
+                <t id="p10-s03-t04">they</t>
+                <t id="p10-s03-t05">wrote</t>
+                <t id="p10-s03-t06">programs</t>
+                <t id="p10-s03-t07">that</t>
+                <t id="p10-s03-t08">were</t>
+                <t id="p10-s03-t09">amazing</t>
+                <t id="p10-s03-t10">at</t>
+                <t id="p10-s03-t11">the</t>
+                <t id="p10-s03-t12">time</t>
+                <punc>,</punc>
+                <t id="p10-s03-t13">beating</t>
+                <t id="p10-s03-t14">people</t>
+                <t id="p10-s03-t15">at</t>
+                <t id="p10-s03-t16">checkers</t>
+                <t id="p10-s03-t17">or</t>
+                <t id="p10-s03-t18">solving</t>
+                <t id="p10-s03-t19">word</t>
+                <t id="p10-s03-t20">problems</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p10-s04">
+                <t id="p10-s04-t01">The</t>
+                <t id="p10-s04-t02">Department</t>
+                <t id="p10-s04-t03">of</t>
+                <t id="p10-s04-t04">Defense</t>
+                <t id="p10-s04-t05">started</t>
+                <t id="p10-s04-t06">giving</t>
+                <t id="p10-s04-t07">a</t>
+                <t id="p10-s04-t08">lot</t>
+                <t id="p10-s04-t09">of</t>
+                <t id="p10-s04-t10">money</t>
+                <t id="p10-s04-t11">to</t>
+                <t id="p10-s04-t12">AI</t>
+                <t id="p10-s04-t13">research</t>
+                <t id="p10-s04-t14">and</t>
+                <t id="p10-s04-t15">labs</t>
+                <t id="p10-s04-t16">were</t>
+                <t id="p10-s04-t17">created</t>
+                <t id="p10-s04-t18">all</t>
+                <t id="p10-s04-t19">over</t>
+                <t id="p10-s04-t20">the</t>
+                <t id="p10-s04-t21">world</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p11">
+            <sentence id="p11-s01">
+                <t id="p11-s01-t01">Unfortunately</t>
+                <punc>,</punc>
+                <t id="p11-s01-t02">researchers</t>
+                <t id="p11-s01-t03">really</t>
+                <t id="p11-s01-t04">underestimated</t>
+                <t id="p11-s01-t05">just</t>
+                <t id="p11-s01-t06">how</t>
+                <t id="p11-s01-t07">hard</t>
+                <t id="p11-s01-t08">some</t>
+                <t id="p11-s01-t09">problems</t>
+                <t id="p11-s01-t10">were</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p11-s02">
+                <t id="p11-s02-t01">The</t>
+                <t id="p11-s02-t02">tools</t>
+                <t id="p11-s02-t03">they</t>
+                <t id="p11-s02-t04">had</t>
+                <t id="p11-s02-t05">used</t>
+                <t id="p11-s02-t06">still</t>
+                <t id="p11-s02-t07">did</t>
+                <t id="p11-s02-t08">not</t>
+                <t id="p11-s02-t09">give</t>
+                <t id="p11-s02-t10">computers</t>
+                <t id="p11-s02-t11">things</t>
+                <t id="p11-s02-t12">like</t>
+                <t id="p11-s02-t13">emotions</t>
+                <t id="p11-s02-t14">or</t>
+                <t id="p11-s02-t15">common</t>
+                <t id="p11-s02-t16">sense</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p11-s03">
+                <t id="p11-s03-t01">Mathematician</t>
+                <t id="p11-s03-t02">James</t>
+                <t id="p11-s03-t03">Lighthill</t>
+                <t id="p11-s03-t04">wrote</t>
+                <t id="p11-s03-t05">a</t>
+                <t id="p11-s03-t06">report</t>
+                <t id="p11-s03-t07">on</t>
+                <t id="p11-s03-t08">AI</t>
+                <t id="p11-s03-t09">saying</t>
+                <t id="p11-s03-t10">that</t>
+                <punc>“</punc>
+                <t id="p11-s03-t11">in</t>
+                <t id="p11-s03-t12">no</t>
+                <t id="p11-s03-t13">part</t>
+                <t id="p11-s03-t14">of</t>
+                <t id="p11-s03-t15">the</t>
+                <t id="p11-s03-t16">field</t>
+                <t id="p11-s03-t17">have</t>
+                <t id="p11-s03-t18">discoveries</t>
+                <t id="p11-s03-t19">made</t>
+                <t id="p11-s03-t20">so</t>
+                <t id="p11-s03-t21">far</t>
+                <t id="p11-s03-t22">produced</t>
+                <t id="p11-s03-t23">the</t>
+                <t id="p11-s03-t24">major</t>
+                <t id="p11-s03-t25">impact</t>
+                <t id="p11-s03-t26">that</t>
+                <t id="p11-s03-t27">was</t>
+                <t id="p11-s03-t28">then</t>
+                <t id="p11-s03-t29">promised</t>
+                <punc>”</punc>
+                <t id="p11-s03-t30">.</t>
+                <t id="p11-s03-t31">[9]</t>
+            </sentence>
+            <sentence id="p11-s04">
+                <t id="p11-s04-t01">The</t>
+                <t id="p11-s04-t02">U.S</t>
+                <t id="p11-s04-t03">and</t>
+                <t id="p11-s04-t04">British</t>
+                <t id="p11-s04-t05">governments</t>
+                <t id="p11-s04-t06">wanted</t>
+                <t id="p11-s04-t07">to</t>
+                <t id="p11-s04-t08">fund</t>
+                <t id="p11-s04-t09">more</t>
+                <t id="p11-s04-t10">productive</t>
+                <t id="p11-s04-t11">projects</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p11-s05">
+                <t id="p11-s05-t01">Funding</t>
+                <t id="p11-s05-t02">for</t>
+                <t id="p11-s05-t03">AI</t>
+                <t id="p11-s05-t04">research</t>
+                <t id="p11-s05-t05">was</t>
+                <t id="p11-s05-t06">cut</t>
+                <punc>,</punc>
+                <t id="p11-s05-t07">starting</t>
+                <t id="p11-s05-t08">an</t>
+                <punc>“</punc>
+                <t id="p11-s05-t09">AI</t>
+                <t id="p11-s05-t10">winter</t>
+                <punc>”</punc>
+                <t id="p11-s05-t11">where</t>
+                <t id="p11-s05-t12">little</t>
+                <t id="p11-s05-t13">research</t>
+                <t id="p11-s05-t14">was</t>
+                <t id="p11-s05-t15">done</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p12">
+            <sentence id="p12-s01">
+                <t id="p12-s01-t01">AI</t>
+                <t id="p12-s01-t02">research</t>
+                <t id="p12-s01-t03">revived</t>
+                <t id="p12-s01-t04">in</t>
+                <t id="p12-s01-t05">the</t>
+                <t id="p12-s01-t06">1980s</t>
+                <t id="p12-s01-t07">because</t>
+                <t id="p12-s01-t08">of</t>
+                <t id="p12-s01-t09">the</t>
+                <t id="p12-s01-t10">popularity</t>
+                <t id="p12-s01-t11">of</t>
+                <t id="p12-s01-t12">expert</t>
+                <t id="p12-s01-t13">systems</t>
+                <punc>,</punc>
+                <t id="p12-s01-t14">which</t>
+                <t id="p12-s01-t15">simulated</t>
+                <t id="p12-s01-t16">the</t>
+                <t id="p12-s01-t17">knowledge</t>
+                <t id="p12-s01-t18">of</t>
+                <t id="p12-s01-t19">a</t>
+                <t id="p12-s01-t20">human</t>
+                <t id="p12-s01-t21">expert</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p12-s02">
+                <t id="p12-s02-t01">By</t>
+                <t id="p12-s02-t02">1985</t>
+                <punc>,</punc>
+                <t id="p12-s02-t03">1</t>
+                <t id="p12-s02-t04">billion</t>
+                <t id="p12-s02-t05">dollars</t>
+                <t id="p12-s02-t06">were</t>
+                <t id="p12-s02-t07">spent</t>
+                <t id="p12-s02-t08">on</t>
+                <t id="p12-s02-t09">AI</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p12-s03">
+                <t id="p12-s03-t01">New</t>
+                <punc>,</punc>
+                <t id="p12-s03-t02">faster</t>
+                <t id="p12-s03-t03">computers</t>
+                <t id="p12-s03-t04">convinced</t>
+                <t id="p12-s03-t05">U.S</t>
+                <t id="p12-s03-t06">and</t>
+                <t id="p12-s03-t07">British</t>
+                <t id="p12-s03-t08">governments</t>
+                <t id="p12-s03-t09">to</t>
+                <t id="p12-s03-t10">start</t>
+                <t id="p12-s03-t11">funding</t>
+                <t id="p12-s03-t12">AI</t>
+                <t id="p12-s03-t13">research</t>
+                <t id="p12-s03-t14">again</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p12-s04">
+                <t id="p12-s04-t01">However</t>
+                <punc>,</punc>
+                <t id="p12-s04-t02">the</t>
+                <t id="p12-s04-t03">market</t>
+                <t id="p12-s04-t04">for</t>
+                <t id="p12-s04-t05">Lisp</t>
+                <t id="p12-s04-t06">machines</t>
+                <t id="p12-s04-t07">collapsed</t>
+                <t id="p12-s04-t08">in</t>
+                <t id="p12-s04-t09">1987</t>
+                <t id="p12-s04-t10">and</t>
+                <t id="p12-s04-t11">funding</t>
+                <t id="p12-s04-t12">was</t>
+                <t id="p12-s04-t13">pulled</t>
+                <t id="p12-s04-t14">again</t>
+                <punc>,</punc>
+                <t id="p12-s04-t15">starting</t>
+                <t id="p12-s04-t16">an</t>
+                <t id="p12-s04-t17">even</t>
+                <t id="p12-s04-t18">longer</t>
+                <t id="p12-s04-t19">AI</t>
+                <t id="p12-s04-t20">winter</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p13">
+            <sentence id="p13-s01">
+                <t id="p13-s01-t01">AI</t>
+                <t id="p13-s01-t02">revived</t>
+                <t id="p13-s01-t03">again</t>
+                <t id="p13-s01-t04">in</t>
+                <t id="p13-s01-t05">the</t>
+                <t id="p13-s01-t06">90s</t>
+                <t id="p13-s01-t07">and</t>
+                <t id="p13-s01-t08">early</t>
+                <t id="p13-s01-t09">2000s</t>
+                <t id="p13-s01-t10">with</t>
+                <t id="p13-s01-t11">its</t>
+                <t id="p13-s01-t12">use</t>
+                <t id="p13-s01-t13">in</t>
+                <t id="p13-s01-t14">data</t>
+                <t id="p13-s01-t15">mining</t>
+                <t id="p13-s01-t16">and</t>
+                <t id="p13-s01-t17">medical</t>
+                <t id="p13-s01-t18">diagnosis</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p13-s02">
+                <t id="p13-s02-t01">This</t>
+                <t id="p13-s02-t02">was</t>
+                <t id="p13-s02-t03">possible</t>
+                <t id="p13-s02-t04">because</t>
+                <t id="p13-s02-t05">of</t>
+                <t id="p13-s02-t06">faster</t>
+                <t id="p13-s02-t07">computers</t>
+                <t id="p13-s02-t08">and</t>
+                <t id="p13-s02-t09">focusing</t>
+                <t id="p13-s02-t10">on</t>
+                <t id="p13-s02-t11">solving</t>
+                <t id="p13-s02-t12">more</t>
+                <t id="p13-s02-t13">specific</t>
+                <t id="p13-s02-t14">problems</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p13-s03">
+                <t id="p13-s03-t01">In</t>
+                <t id="p13-s03-t02">1997</t>
+                <punc>,</punc>
+                <t id="p13-s03-t03">Deep</t>
+                <t id="p13-s03-t04">Blue</t>
+                <t id="p13-s03-t05">became</t>
+                <t id="p13-s03-t06">the</t>
+                <t id="p13-s03-t07">first</t>
+                <t id="p13-s03-t08">computer</t>
+                <t id="p13-s03-t09">program</t>
+                <t id="p13-s03-t10">to</t>
+                <t id="p13-s03-t11">beat</t>
+                <t id="p13-s03-t12">chess</t>
+                <t id="p13-s03-t13">world</t>
+                <t id="p13-s03-t14">champion</t>
+                <t id="p13-s03-t15">Garry</t>
+                <t id="p13-s03-t16">Kasparov</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p13-s04">
+                <t id="p13-s04-t01">Faster</t>
+                <t id="p13-s04-t02">computers</t>
+                <punc>,</punc>
+                <t id="p13-s04-t03">advances</t>
+                <t id="p13-s04-t04">in</t>
+                <t id="p13-s04-t05">deep</t>
+                <t id="p13-s04-t06">learning</t>
+                <punc>,</punc>
+                <t id="p13-s04-t07">and</t>
+                <t id="p13-s04-t08">access</t>
+                <t id="p13-s04-t09">to</t>
+                <t id="p13-s04-t10">more</t>
+                <t id="p13-s04-t11">data</t>
+                <t id="p13-s04-t12">have</t>
+                <t id="p13-s04-t13">made</t>
+                <t id="p13-s04-t14">AI</t>
+                <t id="p13-s04-t15">popular</t>
+                <t id="p13-s04-t16">throughout</t>
+                <t id="p13-s04-t17">the</t>
+                <t id="p13-s04-t18">world</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p13-s05">
+                <t id="p13-s05-t01">In</t>
+                <t id="p13-s05-t02">2011</t>
+                <t id="p13-s05-t03">IBM</t>
+                <t id="p13-s05-t04">Watson</t>
+                <t id="p13-s05-t05">beat</t>
+                <t id="p13-s05-t06">the</t>
+                <t id="p13-s05-t07">top</t>
+                <t id="p13-s05-t08">two</t>
+                <t id="p13-s05-t09">Jeopardy!</t>
+                <t id="p13-s05-t10">players</t>
+                <t id="p13-s05-t11">Brad</t>
+                <t id="p13-s05-t12">Rutter</t>
+                <t id="p13-s05-t13">and</t>
+                <t id="p13-s05-t14">Ken</t>
+                <t id="p13-s05-t15">Jennings</t>
+                <punc>,</punc>
+                <t id="p13-s05-t16">and</t>
+                <t id="p13-s05-t17">in</t>
+                <t id="p13-s05-t18">2016</t>
+                <t id="p13-s05-t19">Google's</t>
+                <t id="p13-s05-t20">AlphaGo</t>
+                <t id="p13-s05-t21">beat</t>
+                <t id="p13-s05-t22">top</t>
+                <t id="p13-s05-t23">Go</t>
+                <t id="p13-s05-t24">player</t>
+                <t id="p13-s05-t25">Lee</t>
+                <t id="p13-s05-t26">Sedol</t>
+                <t id="p13-s05-t27">4</t>
+                <t id="p13-s05-t28">out</t>
+                <t id="p13-s05-t29">of</t>
+                <t id="p13-s05-t30">5</t>
+                <t id="p13-s05-t31">times</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

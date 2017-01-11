@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>When Math Hurts: Math Anxiety Predicts Pain Network Activation in Anticipation of Doing Math (Extract)</title>
+    <citation>Lyons IM, Beilock SL (2012) When Math Hurts: Math Anxiety Predicts Pain Network Activation in Anticipation of Doing Math. PLoS ONE 7(10): e48076. doi:10.1371/journal.pone.0048076</citation>
+    <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0048076</url>
+    <info type="research-article"/>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01">Math</t>
+                <t id="p01-s01-t02">can</t>
+                <t id="p01-s01-t03">be</t>
+                <t id="p01-s01-t04">difficult</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01">For</t>
+                <t id="p01-s02-t02">some</t>
+                <punc>,</punc>
+                <t id="p01-s02-t03">even</t>
+                <t id="p01-s02-t04">the</t>
+                <t id="p01-s02-t05">mere</t>
+                <t id="p01-s02-t06">prospect</t>
+                <t id="p01-s02-t07">of</t>
+                <t id="p01-s02-t08">doing</t>
+                <t id="p01-s02-t09">math</t>
+                <t id="p01-s02-t10">is</t>
+                <t id="p01-s02-t11">harrowing</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s03">
+                <t id="p01-s03-t01">Those</t>
+                <t id="p01-s03-t02">with</t>
+                <t id="p01-s03-t03">high</t>
+                <t id="p01-s03-t04">levels</t>
+                <t id="p01-s03-t05">of</t>
+                <t id="p01-s03-t06">mathematics</t>
+                <t id="p01-s03-t07">anxiety</t>
+                <punc>(</punc>
+                <t id="p01-s03-t08">HMAs</t>
+                <punc>)</punc>
+                <t id="p01-s03-t09">report</t>
+                <t id="p01-s03-t10">feelings</t>
+                <t id="p01-s03-t11">of</t>
+                <t id="p01-s03-t12">tension</t>
+                <punc>,</punc>
+                <t id="p01-s03-t13">apprehension</t>
+                <punc>,</punc>
+                <t id="p01-s03-t14">and</t>
+                <t id="p01-s03-t15">fear</t>
+                <t id="p01-s03-t16">of</t>
+                <t id="p01-s03-t17">math</t>
+                <punc>[</punc>
+                <t id="p01-s03-t18">1</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s04">
+                <t id="p01-s04-t01">HMAs</t>
+                <t id="p01-s04-t02">underperform</t>
+                <t id="p01-s04-t03">in</t>
+                <t id="p01-s04-t04">math</t>
+                <t id="p01-s04-t05">relative</t>
+                <t id="p01-s04-t06">to</t>
+                <t id="p01-s04-t07">their</t>
+                <t id="p01-s04-t08">low</t>
+                <punc>-</punc>
+                <t id="p01-s04-t09">math</t>
+                <punc>-</punc>
+                <t id="p01-s04-t10">anxious</t>
+                <t id="p01-s04-t11">counterparts</t>
+                <punc>[</punc>
+                <t id="p01-s04-t12">2</t>
+                <punc>]</punc>
+                <t id="p01-s04-t13">and</t>
+                <t id="p01-s04-t14">tend</t>
+                <t id="p01-s04-t15">to</t>
+                <t id="p01-s04-t16">avoid</t>
+                <t id="p01-s04-t17">math</t>
+                <t id="p01-s04-t18">and</t>
+                <t id="p01-s04-t19">math</t>
+                <punc>-</punc>
+                <t id="p01-s04-t20">related</t>
+                <t id="p01-s04-t21">situations</t>
+                <punc>,</punc>
+                <t id="p01-s04-t22">which</t>
+                <t id="p01-s04-t23">in</t>
+                <t id="p01-s04-t24">turn</t>
+                <t id="p01-s04-t25">can</t>
+                <t id="p01-s04-t26">bias</t>
+                <t id="p01-s04-t27">them</t>
+                <t id="p01-s04-t28">away</t>
+                <t id="p01-s04-t29">from</t>
+                <t id="p01-s04-t30">taking</t>
+                <t id="p01-s04-t31">math</t>
+                <t id="p01-s04-t32">classes</t>
+                <t id="p01-s04-t33">or</t>
+                <t id="p01-s04-t34">even</t>
+                <t id="p01-s04-t35">entire</t>
+                <t id="p01-s04-t36">math</t>
+                <punc>-</punc>
+                <t id="p01-s04-t37">related</t>
+                <t id="p01-s04-t38">career</t>
+                <t id="p01-s04-t39">paths</t>
+                <punc>[</punc>
+                <t id="p01-s04-t40">3</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s05">
+                <t id="p01-s05-t01">But</t>
+                <t id="p01-s05-t02">what</t>
+                <t id="p01-s05-t03">underlies</t>
+                <t id="p01-s05-t04">the</t>
+                <t id="p01-s05-t05">actual</t>
+                <t id="p01-s05-t06">feelings</t>
+                <t id="p01-s05-t07">of</t>
+                <t id="p01-s05-t08">dread</t>
+                <t id="p01-s05-t09">effected</t>
+                <t id="p01-s05-t10">by</t>
+                <t id="p01-s05-t11">math</t>
+                <t id="p01-s05-t12">anxiety</t>
+                <punc>?</punc>
+            </sentence>
+            <sentence id="p01-s06">
+                <t id="p01-s06-t01">Are</t>
+                <t id="p01-s06-t02">HMAs'</t>
+                <t id="p01-s06-t03">feelings</t>
+                <t id="p01-s06-t04">about</t>
+                <t id="p01-s06-t05">math</t>
+                <t id="p01-s06-t06">merely</t>
+                <t id="p01-s06-t07">psychological</t>
+                <t id="p01-s06-t08">epiphenomena</t>
+                <punc>?</punc>
+            </sentence>
+            <sentence id="p01-s07">
+                <t id="p01-s07-t01">Or</t>
+                <t id="p01-s07-t02">is</t>
+                <t id="p01-s07-t03">their</t>
+                <t id="p01-s07-t04">anxiety</t>
+                <t id="p01-s07-t05">grounded</t>
+                <t id="p01-s07-t06">in</t>
+                <t id="p01-s07-t07">simulation</t>
+                <t id="p01-s07-t08">of</t>
+                <t id="p01-s07-t09">a</t>
+                <t id="p01-s07-t10">concrete</t>
+                <punc>,</punc>
+                <t id="p01-s07-t11">visceral</t>
+                <t id="p01-s07-t12">sensation</t>
+                <t id="p01-s07-t13">–</t>
+                <t id="p01-s07-t14">such</t>
+                <t id="p01-s07-t15">as</t>
+                <t id="p01-s07-t16">pain</t>
+                <t id="p01-s07-t17">–</t>
+                <t id="p01-s07-t18">about</t>
+                <t id="p01-s07-t19">which</t>
+                <t id="p01-s07-t20">they</t>
+                <t id="p01-s07-t21">have</t>
+                <t id="p01-s07-t22">every</t>
+                <t id="p01-s07-t23">right</t>
+                <t id="p01-s07-t24">to</t>
+                <t id="p01-s07-t25">feel</t>
+                <t id="p01-s07-t26">anxious</t>
+                <punc>?</punc>
+            </sentence>
+            <sentence id="p01-s08">
+                <t id="p01-s08-t01">Answering</t>
+                <t id="p01-s08-t02">these</t>
+                <t id="p01-s08-t03">questions</t>
+                <t id="p01-s08-t04">is</t>
+                <t id="p01-s08-t05">important</t>
+                <t id="p01-s08-t06">for</t>
+                <t id="p01-s08-t07">determining</t>
+                <t id="p01-s08-t08">how</t>
+                <t id="p01-s08-t09">to</t>
+                <t id="p01-s08-t10">reverse</t>
+                <t id="p01-s08-t11">HMAs'</t>
+                <t id="p01-s08-t12">tendency</t>
+                <t id="p01-s08-t13">to</t>
+                <t id="p01-s08-t14">avoid</t>
+                <t id="p01-s08-t15">math</t>
+                <punc>-</punc>
+                <t id="p01-s08-t16">related</t>
+                <t id="p01-s08-t17">situations</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence id="p02-s01">
+                <t id="p02-s01-t01">Interoception</t>
+                <punc>(</punc>
+                <t id="p02-s01-t02">one's</t>
+                <t id="p02-s01-t03">sense</t>
+                <t id="p02-s01-t04">of</t>
+                <t id="p02-s01-t05">the</t>
+                <t id="p02-s01-t06">body's</t>
+                <t id="p02-s01-t07">physiological</t>
+                <t id="p02-s01-t08">homeostasis</t>
+                <punc>[</punc>
+                <t id="p02-s01-t09">4</t>
+                <punc>]</punc>
+                <punc>)</punc>
+                <t id="p02-s01-t10">has</t>
+                <t id="p02-s01-t11">been</t>
+                <t id="p02-s01-t12">shown</t>
+                <t id="p02-s01-t13">to</t>
+                <t id="p02-s01-t14">increase</t>
+                <t id="p02-s01-t15">with</t>
+                <t id="p02-s01-t16">heightened</t>
+                <t id="p02-s01-t17">levels</t>
+                <t id="p02-s01-t18">of</t>
+                <t id="p02-s01-t19">anxiety</t>
+                <punc>[</punc>
+                <t id="p02-s01-t20">5</t>
+                <punc>]</punc>
+                <t id="p02-s01-t21">and</t>
+                <t id="p02-s01-t22">thus</t>
+                <t id="p02-s01-t23">leads</t>
+                <t id="p02-s01-t24">to</t>
+                <t id="p02-s01-t25">increased</t>
+                <t id="p02-s01-t26">sensitivity</t>
+                <t id="p02-s01-t27">to</t>
+                <t id="p02-s01-t28">physical</t>
+                <t id="p02-s01-t29">pain</t>
+                <punc>[</punc>
+                <t id="p02-s01-t30">6</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p02-s01-t31">7</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s02">
+                <t id="p02-s02-t01">Here</t>
+                <t id="p02-s02-t02">we</t>
+                <t id="p02-s02-t03">ask</t>
+                <t id="p02-s02-t04">whether</t>
+                <t id="p02-s02-t05">simply</t>
+                <t id="p02-s02-t06">thinking</t>
+                <t id="p02-s02-t07">about</t>
+                <punc>(</punc>
+                <t id="p02-s02-t08">i.e.</t>
+                <punc>,</punc>
+                <t id="p02-s02-t09">anticipating</t>
+                <punc>)</punc>
+                <t id="p02-s02-t10">math</t>
+                <t id="p02-s02-t11">can</t>
+                <t id="p02-s02-t12">elicit</t>
+                <t id="p02-s02-t13">a</t>
+                <t id="p02-s02-t14">neural</t>
+                <t id="p02-s02-t15">pain</t>
+                <t id="p02-s02-t16">response</t>
+                <t id="p02-s02-t17">in</t>
+                <t id="p02-s02-t18">HMAs</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s03">
+                <t id="p02-s03-t01">Other</t>
+                <t id="p02-s03-t02">psychological</t>
+                <t id="p02-s03-t03">causes</t>
+                <t id="p02-s03-t04">of</t>
+                <t id="p02-s03-t05">pain</t>
+                <t id="p02-s03-t06">have</t>
+                <t id="p02-s03-t07">been</t>
+                <t id="p02-s03-t08">reported</t>
+                <punc>,</punc>
+                <t id="p02-s03-t09">such</t>
+                <t id="p02-s03-t10">as</t>
+                <t id="p02-s03-t11">when</t>
+                <t id="p02-s03-t12">one</t>
+                <t id="p02-s03-t13">experiences</t>
+                <t id="p02-s03-t14">social</t>
+                <t id="p02-s03-t15">rejection</t>
+                <punc>[</punc>
+                <t id="p02-s03-t16">8</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p02-s03-t17">9</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p02-s03-t18">10</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s04">
+                <t id="p02-s04-t01">Some</t>
+                <t id="p02-s04-t02">researchers</t>
+                <t id="p02-s04-t03">examining</t>
+                <t id="p02-s04-t04">the</t>
+                <t id="p02-s04-t05">overlap</t>
+                <t id="p02-s04-t06">between</t>
+                <t id="p02-s04-t07">social</t>
+                <t id="p02-s04-t08">rejection</t>
+                <t id="p02-s04-t09">and</t>
+                <t id="p02-s04-t10">physical</t>
+                <t id="p02-s04-t11">pain</t>
+                <t id="p02-s04-t12">have</t>
+                <t id="p02-s04-t13">put</t>
+                <t id="p02-s04-t14">forth</t>
+                <t id="p02-s04-t15">the</t>
+                <t id="p02-s04-t16">evolutionary</t>
+                <t id="p02-s04-t17">explanation</t>
+                <t id="p02-s04-t18">that</t>
+                <t id="p02-s04-t19">it</t>
+                <t id="p02-s04-t20">is</t>
+                <t id="p02-s04-t21">adaptive</t>
+                <t id="p02-s04-t22">for</t>
+                <t id="p02-s04-t23">a</t>
+                <t id="p02-s04-t24">highly</t>
+                <t id="p02-s04-t25">social</t>
+                <t id="p02-s04-t26">species</t>
+                <t id="p02-s04-t27">to</t>
+                <t id="p02-s04-t28">place</t>
+                <t id="p02-s04-t29">strong</t>
+                <t id="p02-s04-t30">deterrents</t>
+                <t id="p02-s04-t31">on</t>
+                <t id="p02-s04-t32">anti</t>
+                <punc>-</punc>
+                <t id="p02-s04-t33">social</t>
+                <t id="p02-s04-t34">behavior</t>
+                <punc>[</punc>
+                <t id="p02-s04-t35">11</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p02-s04-t36">12</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s05">
+                <t id="p02-s05-t01">Mathematics</t>
+                <punc>,</punc>
+                <t id="p02-s05-t02">by</t>
+                <t id="p02-s05-t03">contrast</t>
+                <punc>,</punc>
+                <t id="p02-s05-t04">is</t>
+                <t id="p02-s05-t05">a</t>
+                <t id="p02-s05-t06">recent</t>
+                <t id="p02-s05-t07">cultural</t>
+                <t id="p02-s05-t08">invention</t>
+                <punc>,</punc>
+                <t id="p02-s05-t09">and</t>
+                <t id="p02-s05-t10">hence</t>
+                <t id="p02-s05-t11">it</t>
+                <t id="p02-s05-t12">seems</t>
+                <t id="p02-s05-t13">unlikely</t>
+                <t id="p02-s05-t14">that</t>
+                <t id="p02-s05-t15">a</t>
+                <t id="p02-s05-t16">purely</t>
+                <t id="p02-s05-t17">evolutionary</t>
+                <t id="p02-s05-t18">mechanism</t>
+                <t id="p02-s05-t19">would</t>
+                <t id="p02-s05-t20">drive</t>
+                <t id="p02-s05-t21">a</t>
+                <t id="p02-s05-t22">neural</t>
+                <t id="p02-s05-t23">pain</t>
+                <t id="p02-s05-t24">response</t>
+                <t id="p02-s05-t25">elicited</t>
+                <t id="p02-s05-t26">by</t>
+                <t id="p02-s05-t27">the</t>
+                <t id="p02-s05-t28">prospect</t>
+                <t id="p02-s05-t29">of</t>
+                <t id="p02-s05-t30">doing</t>
+                <t id="p02-s05-t31">math</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s06">
+                <t id="p02-s06-t01">Thus</t>
+                <punc>,</punc>
+                <t id="p02-s06-t02">math</t>
+                <t id="p02-s06-t03">anxiety</t>
+                <t id="p02-s06-t04">is</t>
+                <t id="p02-s06-t05">an</t>
+                <t id="p02-s06-t06">ideal</t>
+                <t id="p02-s06-t07">test</t>
+                <t id="p02-s06-t08">bed</t>
+                <t id="p02-s06-t09">for</t>
+                <t id="p02-s06-t10">expanding</t>
+                <t id="p02-s06-t11">our</t>
+                <t id="p02-s06-t12">understanding</t>
+                <t id="p02-s06-t13">of</t>
+                <t id="p02-s06-t14">how</t>
+                <t id="p02-s06-t15">physically</t>
+                <t id="p02-s06-t16">innocuous</t>
+                <t id="p02-s06-t17">situations</t>
+                <t id="p02-s06-t18">might</t>
+                <t id="p02-s06-t19">elicit</t>
+                <t id="p02-s06-t20">a</t>
+                <t id="p02-s06-t21">neural</t>
+                <t id="p02-s06-t22">response</t>
+                <t id="p02-s06-t23">reflective</t>
+                <t id="p02-s06-t24">of</t>
+                <t id="p02-s06-t25">actual</t>
+                <t id="p02-s06-t26">physical</t>
+                <t id="p02-s06-t27">pain</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p03">
+            <sentence id="p03-s01">
+                <t id="p03-s01-t01">We</t>
+                <t id="p03-s01-t02">hypothesized</t>
+                <t id="p03-s01-t03">that</t>
+                <t id="p03-s01-t04">subjective</t>
+                <t id="p03-s01-t05">ratings</t>
+                <t id="p03-s01-t06">of</t>
+                <t id="p03-s01-t07">math</t>
+                <t id="p03-s01-t08">anxiety</t>
+                <t id="p03-s01-t09">would</t>
+                <t id="p03-s01-t10">be</t>
+                <t id="p03-s01-t11">positively</t>
+                <t id="p03-s01-t12">related</t>
+                <t id="p03-s01-t13">to</t>
+                <t id="p03-s01-t14">activity</t>
+                <t id="p03-s01-t15">in</t>
+                <t id="p03-s01-t16">regions</t>
+                <t id="p03-s01-t17">associated</t>
+                <t id="p03-s01-t18">with</t>
+                <t id="p03-s01-t19">the</t>
+                <t id="p03-s01-t20">experience</t>
+                <t id="p03-s01-t21">of</t>
+                <t id="p03-s01-t22">pain</t>
+                <punc>(</punc>
+                <t id="p03-s01-t23">e.g.</t>
+                <punc>,</punc>
+                <t id="p03-s01-t24">insular</t>
+                <t id="p03-s01-t25">cortices</t>
+                <punc>[</punc>
+                <t id="p03-s01-t26">13</t>
+                <punc>]</punc>
+                <punc>)</punc>
+                <t id="p03-s01-t27">while</t>
+                <t id="p03-s01-t28">anticipating</t>
+                <t id="p03-s01-t29">an</t>
+                <t id="p03-s01-t30">upcoming</t>
+                <t id="p03-s01-t31">math</t>
+                <t id="p03-s01-t32">task</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s02">
+                <t id="p03-s02-t01">On</t>
+                <t id="p03-s02-t02">the</t>
+                <t id="p03-s02-t03">surface</t>
+                <punc>,</punc>
+                <t id="p03-s02-t04">one</t>
+                <t id="p03-s02-t05">might</t>
+                <t id="p03-s02-t06">assume</t>
+                <t id="p03-s02-t07">that</t>
+                <t id="p03-s02-t08">any</t>
+                <t id="p03-s02-t09">pain</t>
+                <t id="p03-s02-t10">experiences</t>
+                <t id="p03-s02-t11">associated</t>
+                <t id="p03-s02-t12">with</t>
+                <t id="p03-s02-t13">math</t>
+                <t id="p03-s02-t14">anxiety</t>
+                <t id="p03-s02-t15">would</t>
+                <t id="p03-s02-t16">occur</t>
+                <t id="p03-s02-t17">during</t>
+                <t id="p03-s02-t18">math</t>
+                <t id="p03-s02-t19">performance</t>
+                <t id="p03-s02-t20">itself</t>
+                <punc>:</punc>
+                <t id="p03-s02-t21">If</t>
+                <t id="p03-s02-t22">someone</t>
+                <t id="p03-s02-t23">is</t>
+                <t id="p03-s02-t24">made</t>
+                <t id="p03-s02-t25">anxious</t>
+                <t id="p03-s02-t26">by</t>
+                <t id="p03-s02-t27">something</t>
+                <punc>(</punc>
+                <t id="p03-s02-t28">in</t>
+                <t id="p03-s02-t29">this</t>
+                <t id="p03-s02-t30">case</t>
+                <punc>,</punc>
+                <t id="p03-s02-t31">math</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p03-s02-t32">then</t>
+                <t id="p03-s02-t33">doing</t>
+                <t id="p03-s02-t34">that</t>
+                <t id="p03-s02-t35">thing</t>
+                <t id="p03-s02-t36">may</t>
+                <t id="p03-s02-t37">feel</t>
+                <t id="p03-s02-t38">painful</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s03">
+                <t id="p03-s03-t01">However</t>
+                <punc>,</punc>
+                <t id="p03-s03-t02">as</t>
+                <t id="p03-s03-t03">mentioned</t>
+                <t id="p03-s03-t04">previously</t>
+                <punc>,</punc>
+                <t id="p03-s03-t05">mathematics</t>
+                <t id="p03-s03-t06">is</t>
+                <t id="p03-s03-t07">a</t>
+                <t id="p03-s03-t08">recent</t>
+                <t id="p03-s03-t09">cultural</t>
+                <t id="p03-s03-t10">invention</t>
+                <punc>,</punc>
+                <t id="p03-s03-t11">so</t>
+                <t id="p03-s03-t12">it</t>
+                <t id="p03-s03-t13">seems</t>
+                <t id="p03-s03-t14">unlikely</t>
+                <t id="p03-s03-t15">that</t>
+                <t id="p03-s03-t16">pain</t>
+                <t id="p03-s03-t17">responses</t>
+                <t id="p03-s03-t18">specific</t>
+                <t id="p03-s03-t19">to</t>
+                <t id="p03-s03-t20">math</t>
+                <t id="p03-s03-t21">have</t>
+                <t id="p03-s03-t22">been</t>
+                <t id="p03-s03-t23">evolutionarily</t>
+                <t id="p03-s03-t24">selected</t>
+                <t id="p03-s03-t25">for</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s04">
+                <t id="p03-s04-t01">This</t>
+                <t id="p03-s04-t02">means</t>
+                <t id="p03-s04-t03">that</t>
+                <t id="p03-s04-t04">any</t>
+                <t id="p03-s04-t05">observed</t>
+                <t id="p03-s04-t06">relation</t>
+                <t id="p03-s04-t07">between</t>
+                <t id="p03-s04-t08">math</t>
+                <t id="p03-s04-t09">anxiety</t>
+                <t id="p03-s04-t10">and</t>
+                <t id="p03-s04-t11">pain</t>
+                <t id="p03-s04-t12">would</t>
+                <t id="p03-s04-t13">likely</t>
+                <t id="p03-s04-t14">be</t>
+                <t id="p03-s04-t15">more</t>
+                <t id="p03-s04-t16">dependent</t>
+                <t id="p03-s04-t17">upon</t>
+                <t id="p03-s04-t18">one's</t>
+                <t id="p03-s04-t19">feelings</t>
+                <t id="p03-s04-t20">and</t>
+                <t id="p03-s04-t21">worries</t>
+                <t id="p03-s04-t22">about</t>
+                <t id="p03-s04-t23">math</t>
+                <punc>(</punc>
+                <t id="p03-s04-t24">i.e.</t>
+                <punc>,</punc>
+                <t id="p03-s04-t25">their</t>
+                <t id="p03-s04-t26">psychological</t>
+                <t id="p03-s04-t27">interpretation</t>
+                <t id="p03-s04-t28">or</t>
+                <t id="p03-s04-t29">anticipation</t>
+                <t id="p03-s04-t30">of</t>
+                <t id="p03-s04-t31">the</t>
+                <t id="p03-s04-t32">event</t>
+                <punc>)</punc>
+                <t id="p03-s04-t33">than</t>
+                <t id="p03-s04-t34">something</t>
+                <t id="p03-s04-t35">inherent</t>
+                <t id="p03-s04-t36">in</t>
+                <t id="p03-s04-t37">the</t>
+                <t id="p03-s04-t38">math</t>
+                <t id="p03-s04-t39">task</t>
+                <t id="p03-s04-t40">itself</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s05">
+                <t id="p03-s05-t01">Given</t>
+                <t id="p03-s05-t02">that</t>
+                <t id="p03-s05-t03">people</t>
+                <t id="p03-s05-t04">have</t>
+                <t id="p03-s05-t05">a</t>
+                <t id="p03-s05-t06">greater</t>
+                <t id="p03-s05-t07">tendency</t>
+                <t id="p03-s05-t08">to</t>
+                <t id="p03-s05-t09">worry</t>
+                <t id="p03-s05-t10">–</t>
+                <t id="p03-s05-t11">and</t>
+                <t id="p03-s05-t12">have</t>
+                <t id="p03-s05-t13">more</t>
+                <t id="p03-s05-t14">cognitive</t>
+                <t id="p03-s05-t15">resources</t>
+                <t id="p03-s05-t16">available</t>
+                <t id="p03-s05-t17">to</t>
+                <t id="p03-s05-t18">do</t>
+                <t id="p03-s05-t19">so</t>
+                <t id="p03-s05-t20">–</t>
+                <t id="p03-s05-t21">when</t>
+                <t id="p03-s05-t22">they</t>
+                <t id="p03-s05-t23">are</t>
+                <t id="p03-s05-t24">not</t>
+                <t id="p03-s05-t25">engaged</t>
+                <t id="p03-s05-t26">in</t>
+                <t id="p03-s05-t27">a</t>
+                <t id="p03-s05-t28">goal</t>
+                <punc>-</punc>
+                <t id="p03-s05-t29">directed</t>
+                <t id="p03-s05-t30">task</t>
+                <punc>[</punc>
+                <t id="p03-s05-t31">14</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <punc>[</punc>
+                <t id="p03-s05-t32">15</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <t id="p03-s05-t33">simply</t>
+                <t id="p03-s05-t34">anticipating</t>
+                <t id="p03-s05-t35">doing</t>
+                <t id="p03-s05-t36">math</t>
+                <t id="p03-s05-t37">may</t>
+                <t id="p03-s05-t38">be</t>
+                <t id="p03-s05-t39">most</t>
+                <t id="p03-s05-t40">likely</t>
+                <t id="p03-s05-t41">to</t>
+                <t id="p03-s05-t42">induce</t>
+                <t id="p03-s05-t43">a</t>
+                <t id="p03-s05-t44">neural</t>
+                <t id="p03-s05-t45">pain</t>
+                <t id="p03-s05-t46">response</t>
+                <t id="p03-s05-t47">among</t>
+                <t id="p03-s05-t48">the</t>
+                <t id="p03-s05-t49">highly</t>
+                <t id="p03-s05-t50">math</t>
+                <punc>-</punc>
+                <t id="p03-s05-t51">anxious</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

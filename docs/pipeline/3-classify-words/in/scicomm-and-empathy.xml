@@ -1,0 +1,1427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Online science communication and the importance of empathy</title>
+    <citation>Miller-Struttman, Nicole. (2016). "Online science communication and the importance of empathy". PLOS Ecology Community (a PLOS blog), December 9.</citation>
+    <url>http://blogs.plos.org/ecology/2016/12/09/online-science-communication-and-the-importance-of-empathy/</url>
+    <info type="science-news"/>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01">Science</t>
+                <t id="p01-s01-t02">communication</t>
+                <t id="p01-s01-t03">remains</t>
+                <t id="p01-s01-t04">as</t>
+                <t id="p01-s01-t05">challenging</t>
+                <t id="p01-s01-t06">as</t>
+                <t id="p01-s01-t07">it</t>
+                <t id="p01-s01-t08">is</t>
+                <t id="p01-s01-t09">necessary</t>
+                <t id="p01-s01-t10">in</t>
+                <t id="p01-s01-t11">the</t>
+                <t id="p01-s01-t12">era</t>
+                <t id="p01-s01-t13">of</t>
+                <t id="p01-s01-t14">big</t>
+                <t id="p01-s01-t15">data</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01">Scientists</t>
+                <t id="p01-s02-t02">are</t>
+                <t id="p01-s02-t03">encouraged</t>
+                <t id="p01-s02-t04">to</t>
+                <t id="p01-s02-t05">reach</t>
+                <t id="p01-s02-t06">out</t>
+                <t id="p01-s02-t07">to</t>
+                <t id="p01-s02-t08">non</t>
+                <punc>-</punc>
+                <t id="p01-s02-t09">experts</t>
+                <t id="p01-s02-t10">through</t>
+                <t id="p01-s02-t11">social</t>
+                <t id="p01-s02-t12">media</t>
+                <punc>,</punc>
+                <t id="p01-s02-t13">collaborations</t>
+                <t id="p01-s02-t14">with</t>
+                <t id="p01-s02-t15">citizen</t>
+                <t id="p01-s02-t16">scientists</t>
+                <punc>,</punc>
+                <t id="p01-s02-t17">and</t>
+                <t id="p01-s02-t18">non</t>
+                <punc>-</punc>
+                <t id="p01-s02-t19">technical</t>
+                <t id="p01-s02-t20">abstracts</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s03">
+                <t id="p01-s03-t01">As</t>
+                <t id="p01-s03-t02">a</t>
+                <t id="p01-s03-t03">science</t>
+                <t id="p01-s03-t04">enthusiast</t>
+                <punc>(</punc>
+                <t id="p01-s03-t05">and</t>
+                <t id="p01-s03-t06">extrovert</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p01-s03-t07">I</t>
+                <t id="p01-s03-t08">truly</t>
+                <t id="p01-s03-t09">enjoy</t>
+                <t id="p01-s03-t10">making</t>
+                <t id="p01-s03-t11">these</t>
+                <t id="p01-s03-t12">connections</t>
+                <t id="p01-s03-t13">and</t>
+                <t id="p01-s03-t14">having</t>
+                <t id="p01-s03-t15">conversations</t>
+                <t id="p01-s03-t16">that</t>
+                <t id="p01-s03-t17">span</t>
+                <t id="p01-s03-t18">expertise</t>
+                <punc>,</punc>
+                <t id="p01-s03-t19">interests</t>
+                <t id="p01-s03-t20">and</t>
+                <t id="p01-s03-t21">geographic</t>
+                <t id="p01-s03-t22">barriers</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s04">
+                <t id="p01-s04-t01">However</t>
+                <punc>,</punc>
+                <t id="p01-s04-t02">recent</t>
+                <t id="p01-s04-t03">divisive</t>
+                <t id="p01-s04-t04">and</t>
+                <t id="p01-s04-t05">impassioned</t>
+                <t id="p01-s04-t06">responses</t>
+                <t id="p01-s04-t07">to</t>
+                <t id="p01-s04-t08">the</t>
+                <t id="p01-s04-t09">surprising</t>
+                <t id="p01-s04-t10">election</t>
+                <t id="p01-s04-t11">results</t>
+                <t id="p01-s04-t12">in</t>
+                <t id="p01-s04-t13">the</t>
+                <t id="p01-s04-t14">U.S.</t>
+                <t id="p01-s04-t15">made</t>
+                <t id="p01-s04-t16">me</t>
+                <t id="p01-s04-t17">question</t>
+                <t id="p01-s04-t18">how</t>
+                <t id="p01-s04-t19">effective</t>
+                <t id="p01-s04-t20">these</t>
+                <t id="p01-s04-t21">approaches</t>
+                <t id="p01-s04-t22">are</t>
+                <t id="p01-s04-t23">for</t>
+                <t id="p01-s04-t24">connecting</t>
+                <t id="p01-s04-t25">with</t>
+                <t id="p01-s04-t26">the</t>
+                <t id="p01-s04-t27">public</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence id="p02-s01">
+                <t id="p02-s01-t01">Are</t>
+                <t id="p02-s01-t02">we</t>
+                <t id="p02-s01-t03">all</t>
+                <t id="p02-s01-t04">just</t>
+                <t id="p02-s01-t05">stuck</t>
+                <t id="p02-s01-t06">in</t>
+                <t id="p02-s01-t07">our</t>
+                <t id="p02-s01-t08">own</t>
+                <t id="p02-s01-t09">echo</t>
+                <t id="p02-s01-t10">chambers</t>
+                <punc>,</punc>
+                <t id="p02-s01-t11">ignoring</t>
+                <t id="p02-s01-t12">those</t>
+                <t id="p02-s01-t13">that</t>
+                <t id="p02-s01-t14">disagree</t>
+                <t id="p02-s01-t15">with</t>
+                <t id="p02-s01-t16">us</t>
+                <punc>?</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p03">
+            <sentence id="p03-s01">
+                <t id="p03-s01-t01">How</t>
+                <t id="p03-s01-t02">do</t>
+                <t id="p03-s01-t03">we</t>
+                <t id="p03-s01-t04">break</t>
+                <t id="p03-s01-t05">out</t>
+                <t id="p03-s01-t06">of</t>
+                <t id="p03-s01-t07">these</t>
+                <t id="p03-s01-t08">silos</t>
+                <t id="p03-s01-t09">to</t>
+                <t id="p03-s01-t10">reach</t>
+                <t id="p03-s01-t11">those</t>
+                <t id="p03-s01-t12">that</t>
+                <t id="p03-s01-t13">disengage</t>
+                <t id="p03-s01-t14">from</t>
+                <t id="p03-s01-t15">science</t>
+                <t id="p03-s01-t16">or</t>
+                <t id="p03-s01-t17">stop</t>
+                <t id="p03-s01-t18">listening</t>
+                <t id="p03-s01-t19">when</t>
+                <t id="p03-s01-t20">we</t>
+                <t id="p03-s01-t21">focus</t>
+                <t id="p03-s01-t22">on</t>
+                <t id="p03-s01-t23">evidence</t>
+                <punc>?</punc>
+            </sentence>
+            <sentence id="p03-s02">
+                <t id="p03-s02-t01">Particularly</t>
+                <t id="p03-s02-t02">evidence</t>
+                <t id="p03-s02-t03">that</t>
+                <t id="p03-s02-t04">is</t>
+                <t id="p03-s02-t05">increasingly</t>
+                <t id="p03-s02-t06">large</t>
+                <t id="p03-s02-t07">in</t>
+                <t id="p03-s02-t08">volume</t>
+                <t id="p03-s02-t09">and</t>
+                <t id="p03-s02-t10">in</t>
+                <t id="p03-s02-t11">scale</t>
+                <punc>?</punc>
+            </sentence>
+            <sentence id="p03-s03">
+                <t id="p03-s03-t01">Recent</t>
+                <t id="p03-s03-t02">research</t>
+                <t id="p03-s03-t03">suggests</t>
+                <t id="p03-s03-t04">that</t>
+                <t id="p03-s03-t05">a</t>
+                <t id="p03-s03-t06">few</t>
+                <t id="p03-s03-t07">key</t>
+                <t id="p03-s03-t08">approaches</t>
+                <t id="p03-s03-t09">might</t>
+                <t id="p03-s03-t10">help</t>
+                <punc>:</punc>
+                <punc>(</punc>
+                <t id="p03-s03-t11">1</t>
+                <punc>)</punc>
+                <t id="p03-s03-t12">managing</t>
+                <t id="p03-s03-t13">our</t>
+                <t id="p03-s03-t14">social</t>
+                <t id="p03-s03-t15">media</t>
+                <t id="p03-s03-t16">use</t>
+                <t id="p03-s03-t17">with</t>
+                <t id="p03-s03-t18">purpose</t>
+                <punc>,</punc>
+                <punc>(</punc>
+                <t id="p03-s03-t19">2</t>
+                <punc>)</punc>
+                <t id="p03-s03-t20">tailoring</t>
+                <t id="p03-s03-t21">outreach</t>
+                <t id="p03-s03-t22">efforts</t>
+                <t id="p03-s03-t23">to</t>
+                <t id="p03-s03-t24">a</t>
+                <t id="p03-s03-t25">distinct</t>
+                <t id="p03-s03-t26">public</t>
+                <punc>,</punc>
+                <t id="p03-s03-t27">and</t>
+                <punc>(</punc>
+                <t id="p03-s03-t28">3</t>
+                <punc>)</punc>
+                <t id="p03-s03-t29">empathizing</t>
+                <t id="p03-s03-t30">with</t>
+                <t id="p03-s03-t31">our</t>
+                <t id="p03-s03-t32">audience(s)</t>
+                <t id="p03-s03-t33">in</t>
+                <t id="p03-s03-t34">a</t>
+                <t id="p03-s03-t35">deep</t>
+                <punc>,</punc>
+                <t id="p03-s03-t36">meaningful</t>
+                <t id="p03-s03-t37">way</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p04">
+            <sentence id="p04-s01">
+                <t id="p04-s01-t01">Social</t>
+                <t id="p04-s01-t02">Media</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p05">
+            <sentence id="p05-s01">
+                <t id="p05-s01-t01">Many</t>
+                <t id="p05-s01-t02">of</t>
+                <t id="p05-s01-t03">us</t>
+                <t id="p05-s01-t04">attempt</t>
+                <t id="p05-s01-t05">to</t>
+                <t id="p05-s01-t06">broaden</t>
+                <t id="p05-s01-t07">our</t>
+                <t id="p05-s01-t08">impact</t>
+                <t id="p05-s01-t09">by</t>
+                <t id="p05-s01-t10">sharing</t>
+                <t id="p05-s01-t11">interesting</t>
+                <t id="p05-s01-t12">studies</t>
+                <t id="p05-s01-t13">with</t>
+                <t id="p05-s01-t14">friends</t>
+                <punc>,</punc>
+                <t id="p05-s01-t15">family</t>
+                <punc>,</punc>
+                <t id="p05-s01-t16">colleagues</t>
+                <punc>,</punc>
+                <t id="p05-s01-t17">and</t>
+                <t id="p05-s01-t18">the</t>
+                <t id="p05-s01-t19">broader</t>
+                <t id="p05-s01-t20">public</t>
+                <t id="p05-s01-t21">on</t>
+                <t id="p05-s01-t22">social</t>
+                <t id="p05-s01-t23">media</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p05-s02">
+                <t id="p05-s02-t01">While</t>
+                <t id="p05-s02-t02">the</t>
+                <t id="p05-s02-t03">potential</t>
+                <t id="p05-s02-t04">to</t>
+                <t id="p05-s02-t05">interact</t>
+                <t id="p05-s02-t06">directly</t>
+                <t id="p05-s02-t07">with</t>
+                <t id="p05-s02-t08">non</t>
+                <punc>-</punc>
+                <t id="p05-s02-t09">experts</t>
+                <t id="p05-s02-t10">through</t>
+                <t id="p05-s02-t11">social</t>
+                <t id="p05-s02-t12">media</t>
+                <t id="p05-s02-t13">is</t>
+                <t id="p05-s02-t14">immense</t>
+                <punc>,</punc>
+                <t id="p05-s02-t15">confirmation</t>
+                <t id="p05-s02-t16">bias</t>
+                <punc>(</punc>
+                <t id="p05-s02-t17">the</t>
+                <t id="p05-s02-t18">tendency</t>
+                <t id="p05-s02-t19">to</t>
+                <t id="p05-s02-t20">interpret</t>
+                <t id="p05-s02-t21">and</t>
+                <t id="p05-s02-t22">share</t>
+                <t id="p05-s02-t23">information</t>
+                <t id="p05-s02-t24">that</t>
+                <t id="p05-s02-t25">supports</t>
+                <t id="p05-s02-t26">one's</t>
+                <t id="p05-s02-t27">existing</t>
+                <t id="p05-s02-t28">beliefs</t>
+                <punc>)</punc>
+                <t id="p05-s02-t29">provides</t>
+                <t id="p05-s02-t30">a</t>
+                <t id="p05-s02-t31">significant</t>
+                <t id="p05-s02-t32">barrier</t>
+                <t id="p05-s02-t33">to</t>
+                <t id="p05-s02-t34">reaching</t>
+                <t id="p05-s02-t35">non</t>
+                <punc>-</punc>
+                <t id="p05-s02-t36">traditional</t>
+                <t id="p05-s02-t37">and</t>
+                <t id="p05-s02-t38">contrarian</t>
+                <t id="p05-s02-t39">publics</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p05-s03">
+                <t id="p05-s03-t01">Insights</t>
+                <t id="p05-s03-t02">from</t>
+                <t id="p05-s03-t03">network</t>
+                <t id="p05-s03-t04">analyses</t>
+                <t id="p05-s03-t05">suggest</t>
+                <t id="p05-s03-t06">that</t>
+                <t id="p05-s03-t07">these</t>
+                <t id="p05-s03-t08">barriers</t>
+                <t id="p05-s03-t09">can</t>
+                <t id="p05-s03-t10">be</t>
+                <t id="p05-s03-t11">overcome</t>
+                <t id="p05-s03-t12">by</t>
+                <t id="p05-s03-t13">managing</t>
+                <t id="p05-s03-t14">our</t>
+                <t id="p05-s03-t15">connections</t>
+                <t id="p05-s03-t16">and</t>
+                <t id="p05-s03-t17">crafting</t>
+                <t id="p05-s03-t18">our</t>
+                <t id="p05-s03-t19">messages</t>
+                <t id="p05-s03-t20">carefully</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p05-s04">
+                <t id="p05-s04-t01">We</t>
+                <t id="p05-s04-t02">might</t>
+                <t id="p05-s04-t03">think</t>
+                <t id="p05-s04-t04">that</t>
+                <t id="p05-s04-t05">those</t>
+                <t id="p05-s04-t06">individuals</t>
+                <t id="p05-s04-t07">that</t>
+                <t id="p05-s04-t08">have</t>
+                <t id="p05-s04-t09">the</t>
+                <t id="p05-s04-t10">most</t>
+                <t id="p05-s04-t11">links</t>
+                <t id="p05-s04-t12">are</t>
+                <t id="p05-s04-t13">the</t>
+                <t id="p05-s04-t14">most</t>
+                <t id="p05-s04-t15">effective</t>
+                <t id="p05-s04-t16">communicators</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p05-s05">
+                <t id="p05-s05-t01">However</t>
+                <punc>,</punc>
+                <t id="p05-s05-t02">individuals</t>
+                <t id="p05-s05-t03">that</t>
+                <t id="p05-s05-t04">reach</t>
+                <t id="p05-s05-t05">across</t>
+                <t id="p05-s05-t06">different</t>
+                <t id="p05-s05-t07">types</t>
+                <t id="p05-s05-t08">of</t>
+                <t id="p05-s05-t09">groups</t>
+                <punc>(</punc>
+                <t id="p05-s05-t10">aka</t>
+                <t id="p05-s05-t11">connectors</t>
+                <punc>)</punc>
+                <t id="p05-s05-t12">are</t>
+                <t id="p05-s05-t13">better</t>
+                <t id="p05-s05-t14">at</t>
+                <t id="p05-s05-t15">transferring</t>
+                <t id="p05-s05-t16">information</t>
+                <t id="p05-s05-t17">than</t>
+                <t id="p05-s05-t18">individuals</t>
+                <t id="p05-s05-t19">who</t>
+                <t id="p05-s05-t20">merely</t>
+                <t id="p05-s05-t21">have</t>
+                <t id="p05-s05-t22">many</t>
+                <t id="p05-s05-t23">connections</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p05-s06">
+                <t id="p05-s06-t01">These</t>
+                <t id="p05-s06-t02">results</t>
+                <t id="p05-s06-t03">suggest</t>
+                <t id="p05-s06-t04">that</t>
+                <t id="p05-s06-t05">modest</t>
+                <t id="p05-s06-t06">yet</t>
+                <t id="p05-s06-t07">true</t>
+                <t id="p05-s06-t08">outreach</t>
+                <t id="p05-s06-t09">efforts</t>
+                <t id="p05-s06-t10">spread</t>
+                <t id="p05-s06-t11">ideas</t>
+                <t id="p05-s06-t12">to</t>
+                <t id="p05-s06-t13">previously</t>
+                <t id="p05-s06-t14">isolated</t>
+                <t id="p05-s06-t15">communities</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p06">
+            <sentence id="p06-s01">
+                <t id="p06-s01-t01">The</t>
+                <t id="p06-s01-t02">key</t>
+                <t id="p06-s01-t03">to</t>
+                <t id="p06-s01-t04">creating</t>
+                <t id="p06-s01-t05">connections</t>
+                <t id="p06-s01-t06">outside</t>
+                <t id="p06-s01-t07">of</t>
+                <t id="p06-s01-t08">our</t>
+                <t id="p06-s01-t09">silos</t>
+                <punc>,</punc>
+                <t id="p06-s01-t10">according</t>
+                <t id="p06-s01-t11">to</t>
+                <t id="p06-s01-t12">Williams</t>
+                <t id="p06-s01-t13">et al.</t>
+                <punc>(</punc>
+                <t id="p06-s01-t14">2015</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p06-s01-t15">is</t>
+                <t id="p06-s01-t16">fostering</t>
+                <t id="p06-s01-t17">respectful</t>
+                <t id="p06-s01-t18">interactions</t>
+                <t id="p06-s01-t19">with</t>
+                <t id="p06-s01-t20">those</t>
+                <t id="p06-s01-t21">that</t>
+                <t id="p06-s01-t22">do</t>
+                <t id="p06-s01-t23">not</t>
+                <t id="p06-s01-t24">share</t>
+                <t id="p06-s01-t25">our</t>
+                <t id="p06-s01-t26">views</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p07">
+            <sentence id="p07-s01">
+                <t id="p07-s01-t01">Twitter</t>
+                <t id="p07-s01-t02">discussions</t>
+                <t id="p07-s01-t03">on</t>
+                <t id="p07-s01-t04">climate</t>
+                <t id="p07-s01-t05">change</t>
+                <t id="p07-s01-t06">exhibited</t>
+                <t id="p07-s01-t07">confirmation</t>
+                <t id="p07-s01-t08">bias</t>
+                <t id="p07-s01-t09">but</t>
+                <t id="p07-s01-t10">also</t>
+                <t id="p07-s01-t11">depolarization</t>
+                <t id="p07-s01-t12">through</t>
+                <t id="p07-s01-t13">open</t>
+                <t id="p07-s01-t14">forums</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p07-s02">
+                <t id="p07-s02-t01">Negativity</t>
+                <t id="p07-s02-t02">polarized</t>
+                <t id="p07-s02-t03">the</t>
+                <t id="p07-s02-t04">debate</t>
+                <punc>,</punc>
+                <t id="p07-s02-t05">but</t>
+                <t id="p07-s02-t06">respectful</t>
+                <t id="p07-s02-t07">discourse</t>
+                <t id="p07-s02-t08">among</t>
+                <t id="p07-s02-t09">those</t>
+                <t id="p07-s02-t10">with</t>
+                <t id="p07-s02-t11">differing</t>
+                <t id="p07-s02-t12">attitudes</t>
+                <t id="p07-s02-t13">depolarized</t>
+                <t id="p07-s02-t14">the</t>
+                <t id="p07-s02-t15">debate</t>
+                <punc>,</punc>
+                <t id="p07-s02-t16">leading</t>
+                <t id="p07-s02-t17">to</t>
+                <t id="p07-s02-t18">more</t>
+                <t id="p07-s02-t19">substantive</t>
+                <t id="p07-s02-t20">discussions</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p08">
+            <sentence id="p08-s01">
+                <t id="p08-s01-t01">Citizen</t>
+                <t id="p08-s01-t02">Science</t>
+                <t id="p08-s01-t03">and</t>
+                <t id="p08-s01-t04">Crowd</t>
+                <t id="p08-s01-t05">Sourcing</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p09">
+            <sentence id="p09-s01">
+                <t id="p09-s01-t01">Technology</t>
+                <t id="p09-s01-t02">has</t>
+                <t id="p09-s01-t03">revolutionized</t>
+                <t id="p09-s01-t04">how</t>
+                <t id="p09-s01-t05">the</t>
+                <t id="p09-s01-t06">public</t>
+                <t id="p09-s01-t07">engages</t>
+                <t id="p09-s01-t08">in</t>
+                <t id="p09-s01-t09">science</t>
+                <punc>,</punc>
+                <t id="p09-s01-t10">particularly</t>
+                <t id="p09-s01-t11">data</t>
+                <t id="p09-s01-t12">acquisition</t>
+                <punc>,</punc>
+                <t id="p09-s01-t13">interpretation</t>
+                <t id="p09-s01-t14">and</t>
+                <t id="p09-s01-t15">dissemination</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p09-s02">
+                <t id="p09-s02-t01">The</t>
+                <t id="p09-s02-t02">potential</t>
+                <t id="p09-s02-t03">benefits</t>
+                <t id="p09-s02-t04">of</t>
+                <t id="p09-s02-t05">citizen</t>
+                <t id="p09-s02-t06">science</t>
+                <t id="p09-s02-t07">and</t>
+                <t id="p09-s02-t08">crowd</t>
+                <t id="p09-s02-t09">sourcing</t>
+                <t id="p09-s02-t10">projects</t>
+                <t id="p09-s02-t11">are</t>
+                <t id="p09-s02-t12">immense</t>
+                <punc>,</punc>
+                <t id="p09-s02-t13">but</t>
+                <t id="p09-s02-t14">there</t>
+                <t id="p09-s02-t15">are</t>
+                <t id="p09-s02-t16">significant</t>
+                <t id="p09-s02-t17">challenges</t>
+                <t id="p09-s02-t18">as</t>
+                <t id="p09-s02-t19">well</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p09-s03">
+                <t id="p09-s03-t01">Paramount</t>
+                <t id="p09-s03-t02">among</t>
+                <t id="p09-s03-t03">them</t>
+                <t id="p09-s03-t04">is</t>
+                <t id="p09-s03-t05">the</t>
+                <t id="p09-s03-t06">reliance</t>
+                <t id="p09-s03-t07">on</t>
+                <punc>“</punc>
+                <t id="p09-s03-t08">near</t>
+                <punc>-</punc>
+                <t id="p09-s03-t09">experts</t>
+                <punc>”</punc>
+                <t id="p09-s03-t10">and</t>
+                <t id="p09-s03-t11">amateur</t>
+                <t id="p09-s03-t12">scientists</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p09-s04">
+                <t id="p09-s04-t01">Domroese</t>
+                <t id="p09-s04-t02">and</t>
+                <t id="p09-s04-t03">Johnson</t>
+                <punc>(</punc>
+                <t id="p09-s04-t04">2016</t>
+                <punc>)</punc>
+                <t id="p09-s04-t05">suggest</t>
+                <t id="p09-s04-t06">that</t>
+                <t id="p09-s04-t07">understanding</t>
+                <t id="p09-s04-t08">what</t>
+                <t id="p09-s04-t09">motivates</t>
+                <t id="p09-s04-t10">citizen</t>
+                <t id="p09-s04-t11">scientists</t>
+                <t id="p09-s04-t12">to</t>
+                <t id="p09-s04-t13">get</t>
+                <t id="p09-s04-t14">involved</t>
+                <t id="p09-s04-t15">–</t>
+                <t id="p09-s04-t16">not</t>
+                <t id="p09-s04-t17">what</t>
+                <t id="p09-s04-t18">we</t>
+                <t id="p09-s04-t19">think</t>
+                <t id="p09-s04-t20">motivates</t>
+                <t id="p09-s04-t21">them</t>
+                <t id="p09-s04-t22">–</t>
+                <t id="p09-s04-t23">is</t>
+                <t id="p09-s04-t24">the</t>
+                <t id="p09-s04-t25">first</t>
+                <t id="p09-s04-t26">step</t>
+                <t id="p09-s04-t27">to</t>
+                <t id="p09-s04-t28">deepening</t>
+                <t id="p09-s04-t29">their</t>
+                <t id="p09-s04-t30">involvement</t>
+                <t id="p09-s04-t31">and</t>
+                <t id="p09-s04-t32">attracting</t>
+                <t id="p09-s04-t33">diverse</t>
+                <t id="p09-s04-t34">participants</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p09-s05">
+                <t id="p09-s05-t01">In</t>
+                <t id="p09-s05-t02">their</t>
+                <t id="p09-s05-t03">study</t>
+                <t id="p09-s05-t04">of</t>
+                <t id="p09-s05-t05">the</t>
+                <t id="p09-s05-t06">Great</t>
+                <t id="p09-s05-t07">Pollinator</t>
+                <t id="p09-s05-t08">Project</t>
+                <punc>,</punc>
+                <t id="p09-s05-t09">they</t>
+                <t id="p09-s05-t10">found</t>
+                <t id="p09-s05-t11">that</t>
+                <t id="p09-s05-t12">many</t>
+                <t id="p09-s05-t13">participants</t>
+                <t id="p09-s05-t14">wanted</t>
+                <t id="p09-s05-t15">to</t>
+                <t id="p09-s05-t16">learn</t>
+                <t id="p09-s05-t17">more</t>
+                <t id="p09-s05-t18">about</t>
+                <t id="p09-s05-t19">the</t>
+                <t id="p09-s05-t20">study</t>
+                <t id="p09-s05-t21">organism</t>
+                <punc>(</punc>
+                <t id="p09-s05-t22">bees</t>
+                <punc>)</punc>
+                <t id="p09-s05-t23">and</t>
+                <t id="p09-s05-t24">to</t>
+                <t id="p09-s05-t25">contribute</t>
+                <t id="p09-s05-t26">to</t>
+                <t id="p09-s05-t27">the</t>
+                <t id="p09-s05-t28">scientific</t>
+                <t id="p09-s05-t29">process</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p09-s06">
+                <t id="p09-s06-t01">They</t>
+                <t id="p09-s06-t02">were</t>
+                <t id="p09-s06-t03">less</t>
+                <t id="p09-s06-t04">concerned</t>
+                <t id="p09-s06-t05">with</t>
+                <t id="p09-s06-t06">helping</t>
+                <t id="p09-s06-t07">the</t>
+                <t id="p09-s06-t08">environment</t>
+                <punc>,</punc>
+                <t id="p09-s06-t09">as</t>
+                <t id="p09-s06-t10">had</t>
+                <t id="p09-s06-t11">been</t>
+                <t id="p09-s06-t12">presumed</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p09-s07">
+                <t id="p09-s07-t01">In</t>
+                <t id="p09-s07-t02">response</t>
+                <punc>,</punc>
+                <t id="p09-s07-t03">the</t>
+                <t id="p09-s07-t04">authors</t>
+                <t id="p09-s07-t05">suggest</t>
+                <t id="p09-s07-t06">aligning</t>
+                <t id="p09-s07-t07">the</t>
+                <t id="p09-s07-t08">project</t>
+                <t id="p09-s07-t09">goals</t>
+                <t id="p09-s07-t10">with</t>
+                <t id="p09-s07-t11">those</t>
+                <t id="p09-s07-t12">of</t>
+                <t id="p09-s07-t13">the</t>
+                <t id="p09-s07-t14">citizen</t>
+                <t id="p09-s07-t15">participants</t>
+                <punc>,</punc>
+                <t id="p09-s07-t16">both</t>
+                <t id="p09-s07-t17">while</t>
+                <t id="p09-s07-t18">designing</t>
+                <t id="p09-s07-t19">and</t>
+                <t id="p09-s07-t20">implementing</t>
+                <t id="p09-s07-t21">the</t>
+                <t id="p09-s07-t22">project</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p09-s08">
+                <t id="p09-s08-t01">However</t>
+                <punc>,</punc>
+                <t id="p09-s08-t02">as</t>
+                <t id="p09-s08-t03">Domroese</t>
+                <t id="p09-s08-t04">and</t>
+                <t id="p09-s08-t05">Johnson</t>
+                <t id="p09-s08-t06">point</t>
+                <t id="p09-s08-t07">out</t>
+                <punc>,</punc>
+                <t id="p09-s08-t08">the</t>
+                <t id="p09-s08-t09">diversity</t>
+                <t id="p09-s08-t10">of</t>
+                <t id="p09-s08-t11">the</t>
+                <t id="p09-s08-t12">participants</t>
+                <t id="p09-s08-t13">in</t>
+                <t id="p09-s08-t14">this</t>
+                <t id="p09-s08-t15">project</t>
+                <t id="p09-s08-t16">was</t>
+                <t id="p09-s08-t17">very</t>
+                <t id="p09-s08-t18">low</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p09-s09">
+                <t id="p09-s09-t01">The</t>
+                <t id="p09-s09-t02">vast</t>
+                <t id="p09-s09-t03">majority</t>
+                <t id="p09-s09-t04">of</t>
+                <t id="p09-s09-t05">participants</t>
+                <t id="p09-s09-t06">were</t>
+                <t id="p09-s09-t07">white</t>
+                <punc>(</punc>
+                <t id="p09-s09-t08">89%</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p09-s09-t09">female</t>
+                <punc>(</punc>
+                <t id="p09-s09-t10">76%</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p09-s09-t11">over</t>
+                <t id="p09-s09-t12">the</t>
+                <t id="p09-s09-t13">age</t>
+                <t id="p09-s09-t14">of</t>
+                <t id="p09-s09-t15">50</t>
+                <punc>(</punc>
+                <t id="p09-s09-t16">64%</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p09-s09-t17">and</t>
+                <t id="p09-s09-t18">highly</t>
+                <t id="p09-s09-t19">educated</t>
+                <punc>(</punc>
+                <t id="p09-s09-t20">&gt;75%</t>
+                <t id="p09-s09-t21">had</t>
+                <t id="p09-s09-t22">college</t>
+                <t id="p09-s09-t23">degree</t>
+                <t id="p09-s09-t24">or</t>
+                <t id="p09-s09-t25">higher</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p09-s10">
+                <t id="p09-s10-t01">This</t>
+                <t id="p09-s10-t02">pattern</t>
+                <t id="p09-s10-t03">is</t>
+                <t id="p09-s10-t04">surprising</t>
+                <t id="p09-s10-t05">given</t>
+                <t id="p09-s10-t06">the</t>
+                <t id="p09-s10-t07">location</t>
+                <t id="p09-s10-t08">of</t>
+                <t id="p09-s10-t09">the</t>
+                <t id="p09-s10-t10">project</t>
+                <punc>:</punc>
+                <t id="p09-s10-t11">New</t>
+                <t id="p09-s10-t12">York</t>
+                <t id="p09-s10-t13">City</t>
+                <punc>(</punc>
+                <t id="p09-s10-t14">arguably</t>
+                <t id="p09-s10-t15">one</t>
+                <t id="p09-s10-t16">of</t>
+                <t id="p09-s10-t17">the</t>
+                <t id="p09-s10-t18">most</t>
+                <t id="p09-s10-t19">diverse</t>
+                <t id="p09-s10-t20">cities</t>
+                <t id="p09-s10-t21">in</t>
+                <t id="p09-s10-t22">the</t>
+                <t id="p09-s10-t23">world</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p09-s10-t24">which</t>
+                <t id="p09-s10-t25">begs</t>
+                <t id="p09-s10-t26">the</t>
+                <t id="p09-s10-t27">question</t>
+                <punc>:</punc>
+                <t id="p09-s10-t28">How</t>
+                <t id="p09-s10-t29">do</t>
+                <t id="p09-s10-t30">we</t>
+                <t id="p09-s10-t31">effectively</t>
+                <t id="p09-s10-t32">encourage</t>
+                <t id="p09-s10-t33">diverse</t>
+                <t id="p09-s10-t34">citizen</t>
+                <t id="p09-s10-t35">populations</t>
+                <t id="p09-s10-t36">to</t>
+                <t id="p09-s10-t37">participate</t>
+                <t id="p09-s10-t38">in</t>
+                <t id="p09-s10-t39">science</t>
+                <punc>?</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p10">
+            <sentence id="p10-s01">
+                <t id="p10-s01-t01">Design</t>
+                <t id="p10-s01-t02">Thinking</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p11">
+            <sentence id="p11-s01">
+                <t id="p11-s01-t01">Design</t>
+                <t id="p11-s01-t02">Thinking</t>
+                <t id="p11-s01-t03">may</t>
+                <t id="p11-s01-t04">provide</t>
+                <t id="p11-s01-t05">a</t>
+                <t id="p11-s01-t06">framework</t>
+                <t id="p11-s01-t07">for</t>
+                <t id="p11-s01-t08">reaching</t>
+                <t id="p11-s01-t09">diverse</t>
+                <t id="p11-s01-t10">and</t>
+                <t id="p11-s01-t11">under</t>
+                <punc>-</punc>
+                <t id="p11-s01-t12">represented</t>
+                <t id="p11-s01-t13">publics</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p11-s02">
+                <t id="p11-s02-t01">While</t>
+                <t id="p11-s02-t02">similar</t>
+                <t id="p11-s02-t03">to</t>
+                <t id="p11-s02-t04">scientific</t>
+                <t id="p11-s02-t05">thinking</t>
+                <t id="p11-s02-t06">in</t>
+                <t id="p11-s02-t07">several</t>
+                <t id="p11-s02-t08">ways</t>
+                <punc>,</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p12">
+            <sentence id="p12-s01">
+                <t id="p12-s01-t01">design</t>
+                <t id="p12-s01-t02">thinking</t>
+                <t id="p12-s01-t03">includes</t>
+                <t id="p12-s01-t04">a</t>
+                <t id="p12-s01-t05">crucial</t>
+                <t id="p12-s01-t06">step</t>
+                <t id="p12-s01-t07">that</t>
+                <t id="p12-s01-t08">scientific</t>
+                <t id="p12-s01-t09">thinking</t>
+                <t id="p12-s01-t10">does</t>
+                <t id="p12-s01-t11">not</t>
+                <punc>:</punc>
+                <t id="p12-s01-t12">empathizing</t>
+                <t id="p12-s01-t13">with</t>
+                <t id="p12-s01-t14">your</t>
+                <t id="p12-s01-t15">audience</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p13">
+            <sentence id="p13-s01">
+                <t id="p13-s01-t01">It</t>
+                <t id="p13-s01-t02">requires</t>
+                <t id="p13-s01-t03">that</t>
+                <t id="p13-s01-t04">the</t>
+                <t id="p13-s01-t05">designer</t>
+                <t id="p13-s01-t06">put</t>
+                <t id="p13-s01-t07">themselves</t>
+                <t id="p13-s01-t08">in</t>
+                <t id="p13-s01-t09">the</t>
+                <t id="p13-s01-t10">shoes</t>
+                <t id="p13-s01-t11">of</t>
+                <t id="p13-s01-t12">their</t>
+                <t id="p13-s01-t13">audience</t>
+                <punc>,</punc>
+                <t id="p13-s01-t14">understand</t>
+                <t id="p13-s01-t15">what</t>
+                <t id="p13-s01-t16">motivates</t>
+                <t id="p13-s01-t17">them</t>
+                <punc>(</punc>
+                <t id="p13-s01-t18">as</t>
+                <t id="p13-s01-t19">Domroese</t>
+                <t id="p13-s01-t20">and</t>
+                <t id="p13-s01-t21">Johnson</t>
+                <t id="p13-s01-t22">suggest</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p13-s01-t23">consider</t>
+                <t id="p13-s01-t24">how</t>
+                <t id="p13-s01-t25">they</t>
+                <t id="p13-s01-t26">will</t>
+                <t id="p13-s01-t27">interact</t>
+                <t id="p13-s01-t28">with</t>
+                <t id="p13-s01-t29">and</t>
+                <t id="p13-s01-t30">perceive</t>
+                <t id="p13-s01-t31">the</t>
+                <punc>‘</punc>
+                <t id="p13-s01-t32">product</t>
+                <punc>’</punc>
+                <punc>,</punc>
+                <t id="p13-s01-t33">and</t>
+                <t id="p13-s01-t34">appeal</t>
+                <t id="p13-s01-t35">to</t>
+                <t id="p13-s01-t36">the</t>
+                <t id="p13-s01-t37">perspective</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p13-s02">
+                <t id="p13-s02-t01">Yajima</t>
+                <punc>(</punc>
+                <t id="p13-s02-t02">2015</t>
+                <punc>)</punc>
+                <t id="p13-s02-t03">summarizes</t>
+                <t id="p13-s02-t04">how</t>
+                <t id="p13-s02-t05">design</t>
+                <t id="p13-s02-t06">thinking</t>
+                <t id="p13-s02-t07">can</t>
+                <punc>“</punc>
+                <t id="p13-s02-t08">catalyze</t>
+                <t id="p13-s02-t09">scientific</t>
+                <t id="p13-s02-t10">innovation</t>
+                <punc>”</punc>
+                <t id="p13-s02-t11">but</t>
+                <t id="p13-s02-t12">also</t>
+                <t id="p13-s02-t13">why</t>
+                <t id="p13-s02-t14">it</t>
+                <t id="p13-s02-t15">might</t>
+                <t id="p13-s02-t16">be</t>
+                <t id="p13-s02-t17">a</t>
+                <t id="p13-s02-t18">strange</t>
+                <t id="p13-s02-t19">fit</t>
+                <t id="p13-s02-t20">for</t>
+                <t id="p13-s02-t21">scientists</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p13-s03">
+                <t id="p13-s03-t01">We</t>
+                <t id="p13-s03-t02">are</t>
+                <t id="p13-s03-t03">trained</t>
+                <t id="p13-s03-t04">to</t>
+                <t id="p13-s03-t05">think</t>
+                <punc>(</punc>
+                <t id="p13-s03-t06">to</t>
+                <t id="p13-s03-t07">the</t>
+                <t id="p13-s03-t08">degree</t>
+                <t id="p13-s03-t09">possible</t>
+                <punc>)</punc>
+                <t id="p13-s03-t10">without</t>
+                <t id="p13-s03-t11">emotion</t>
+                <punc>,</punc>
+                <t id="p13-s03-t12">to</t>
+                <t id="p13-s03-t13">focus</t>
+                <t id="p13-s03-t14">on</t>
+                <t id="p13-s03-t15">the</t>
+                <t id="p13-s03-t16">data</t>
+                <punc>,</punc>
+                <t id="p13-s03-t17">the</t>
+                <t id="p13-s03-t18">facts</t>
+                <punc>,</punc>
+                <t id="p13-s03-t19">and</t>
+                <t id="p13-s03-t20">not</t>
+                <t id="p13-s03-t21">respond</t>
+                <t id="p13-s03-t22">to</t>
+                <t id="p13-s03-t23">or</t>
+                <t id="p13-s03-t24">portray</t>
+                <t id="p13-s03-t25">our</t>
+                <t id="p13-s03-t26">results</t>
+                <t id="p13-s03-t27">in</t>
+                <t id="p13-s03-t28">an</t>
+                <t id="p13-s03-t29">emotional</t>
+                <t id="p13-s03-t30">way</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p13-s04">
+                <t id="p13-s04-t01">However</t>
+                <punc>,</punc>
+                <t id="p13-s04-t02">we</t>
+                <t id="p13-s04-t03">are</t>
+                <t id="p13-s04-t04">all</t>
+                <t id="p13-s04-t05">human</t>
+                <t id="p13-s04-t06">and</t>
+                <t id="p13-s04-t07">cannot</t>
+                <t id="p13-s04-t08">disassociate</t>
+                <t id="p13-s04-t09">from</t>
+                <t id="p13-s04-t10">the</t>
+                <t id="p13-s04-t11">emotional</t>
+                <t id="p13-s04-t12">reality</t>
+                <t id="p13-s04-t13">of</t>
+                <t id="p13-s04-t14">our</t>
+                <t id="p13-s04-t15">experience</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p13-s05">
+                <t id="p13-s05-t01">Understanding</t>
+                <t id="p13-s05-t02">what</t>
+                <t id="p13-s05-t03">is</t>
+                <t id="p13-s05-t04">important</t>
+                <t id="p13-s05-t05">to</t>
+                <t id="p13-s05-t06">our</t>
+                <t id="p13-s05-t07">audience</t>
+                <t id="p13-s05-t08">allows</t>
+                <t id="p13-s05-t09">us</t>
+                <t id="p13-s05-t10">to</t>
+                <t id="p13-s05-t11">integrate</t>
+                <t id="p13-s05-t12">that</t>
+                <t id="p13-s05-t13">perspective</t>
+                <t id="p13-s05-t14">–</t>
+                <t id="p13-s05-t15">not</t>
+                <t id="p13-s05-t16">only</t>
+                <t id="p13-s05-t17">into</t>
+                <t id="p13-s05-t18">our</t>
+                <punc>‘</punc>
+                <t id="p13-s05-t19">products</t>
+                <punc>’</punc>
+                <t id="p13-s05-t20">–</t>
+                <t id="p13-s05-t21">but</t>
+                <t id="p13-s05-t22">into</t>
+                <t id="p13-s05-t23">our</t>
+                <t id="p13-s05-t24">own</t>
+                <t id="p13-s05-t25">thinking</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p13-s06">
+                <t id="p13-s06-t01">Now</t>
+                <t id="p13-s06-t02">let's</t>
+                <t id="p13-s06-t03">be</t>
+                <t id="p13-s06-t04">clear</t>
+                <punc>:</punc>
+                <t id="p13-s06-t05">there</t>
+                <t id="p13-s06-t06">are</t>
+                <t id="p13-s06-t07">many</t>
+                <t id="p13-s06-t08">publics</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p13-s07">
+                <t id="p13-s07-t01">We</t>
+                <t id="p13-s07-t02">will</t>
+                <t id="p13-s07-t03">not</t>
+                <t id="p13-s07-t04">be</t>
+                <t id="p13-s07-t05">able</t>
+                <t id="p13-s07-t06">to</t>
+                <t id="p13-s07-t07">involve</t>
+                <t id="p13-s07-t08">all</t>
+                <punc>,</punc>
+                <t id="p13-s07-t09">or</t>
+                <t id="p13-s07-t10">even</t>
+                <t id="p13-s07-t11">most</t>
+                <punc>,</punc>
+                <t id="p13-s07-t12">groups</t>
+                <t id="p13-s07-t13">of</t>
+                <t id="p13-s07-t14">people</t>
+                <t id="p13-s07-t15">with</t>
+                <t id="p13-s07-t16">any</t>
+                <t id="p13-s07-t17">one</t>
+                <t id="p13-s07-t18">program</t>
+                <t id="p13-s07-t19">or</t>
+                <t id="p13-s07-t20">design</t>
+                <punc>,</punc>
+                <t id="p13-s07-t21">so</t>
+                <t id="p13-s07-t22">we</t>
+                <t id="p13-s07-t23">need</t>
+                <t id="p13-s07-t24">to</t>
+                <t id="p13-s07-t25">focus</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p13-s08">
+                <t id="p13-s08-t01">Collaborating</t>
+                <t id="p13-s08-t02">with</t>
+                <t id="p13-s08-t03">a</t>
+                <t id="p13-s08-t04">specific</t>
+                <t id="p13-s08-t05">under</t>
+                <punc>-</punc>
+                <t id="p13-s08-t06">represented</t>
+                <t id="p13-s08-t07">group</t>
+                <t id="p13-s08-t08">to</t>
+                <t id="p13-s08-t09">design</t>
+                <t id="p13-s08-t10">a</t>
+                <t id="p13-s08-t11">project</t>
+                <t id="p13-s08-t12">that</t>
+                <t id="p13-s08-t13">addresses</t>
+                <t id="p13-s08-t14">their</t>
+                <t id="p13-s08-t15">needs</t>
+                <t id="p13-s08-t16">and</t>
+                <t id="p13-s08-t17">interests</t>
+                <t id="p13-s08-t18">is</t>
+                <t id="p13-s08-t19">a</t>
+                <t id="p13-s08-t20">crucial</t>
+                <t id="p13-s08-t21">first</t>
+                <t id="p13-s08-t22">step</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p14">
+            <sentence id="p14-s01">
+                <t id="p14-s01-t01">Next</t>
+                <t id="p14-s01-t02">Gen</t>
+                <t id="p14-s01-t03">Data</t>
+                <t id="p14-s01-t04">Visualization</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p15">
+            <sentence id="p15-s01">
+                <t id="p15-s01-t01">Connecting</t>
+                <t id="p15-s01-t02">the</t>
+                <t id="p15-s01-t03">public</t>
+                <t id="p15-s01-t04">to</t>
+                <t id="p15-s01-t05">big</t>
+                <t id="p15-s01-t06">data</t>
+                <t id="p15-s01-t07">is</t>
+                <t id="p15-s01-t08">particularly</t>
+                <t id="p15-s01-t09">challenging</t>
+                <punc>,</punc>
+                <t id="p15-s01-t10">as</t>
+                <t id="p15-s01-t11">the</t>
+                <t id="p15-s01-t12">data</t>
+                <t id="p15-s01-t13">are</t>
+                <t id="p15-s01-t14">often</t>
+                <t id="p15-s01-t15">complex</t>
+                <t id="p15-s01-t16">with</t>
+                <t id="p15-s01-t17">multifaceted</t>
+                <t id="p15-s01-t18">stories</t>
+                <t id="p15-s01-t19">to</t>
+                <t id="p15-s01-t20">tell</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p15-s02">
+                <t id="p15-s02-t01">Recent</t>
+                <t id="p15-s02-t02">work</t>
+                <t id="p15-s02-t03">suggests</t>
+                <t id="p15-s02-t04">that</t>
+                <t id="p15-s02-t05">art</t>
+                <punc>-</punc>
+                <t id="p15-s02-t06">based</t>
+                <punc>,</punc>
+                <t id="p15-s02-t07">interactive</t>
+                <t id="p15-s02-t08">displays</t>
+                <t id="p15-s02-t09">are</t>
+                <t id="p15-s02-t10">more</t>
+                <t id="p15-s02-t11">effective</t>
+                <t id="p15-s02-t12">at</t>
+                <t id="p15-s02-t13">fostering</t>
+                <t id="p15-s02-t14">understanding</t>
+                <t id="p15-s02-t15">of</t>
+                <t id="p15-s02-t16">complex</t>
+                <t id="p15-s02-t17">issues</t>
+                <punc>,</punc>
+                <t id="p15-s02-t18">such</t>
+                <t id="p15-s02-t19">as</t>
+                <t id="p15-s02-t20">climate</t>
+                <t id="p15-s02-t21">change</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p16">
+            <sentence id="p16-s01">
+                <t id="p16-s01-t01">Thomsen</t>
+                <punc>(</punc>
+                <t id="p16-s01-t02">2015</t>
+                <punc>)</punc>
+                <t id="p16-s01-t03">explains</t>
+                <t id="p16-s01-t04">that</t>
+                <t id="p16-s01-t05">by</t>
+                <t id="p16-s01-t06">eliciting</t>
+                <t id="p16-s01-t07">visceral</t>
+                <t id="p16-s01-t08">responses</t>
+                <t id="p16-s01-t09">and</t>
+                <t id="p16-s01-t10">stimulating</t>
+                <t id="p16-s01-t11">the</t>
+                <t id="p16-s01-t12">imagination</t>
+                <punc>,</punc>
+                <t id="p16-s01-t13">interactive</t>
+                <t id="p16-s01-t14">displays</t>
+                <t id="p16-s01-t15">can</t>
+                <t id="p16-s01-t16">deepen</t>
+                <t id="p16-s01-t17">understanding</t>
+                <t id="p16-s01-t18">and</t>
+                <t id="p16-s01-t19">may</t>
+                <t id="p16-s01-t20">elicit</t>
+                <t id="p16-s01-t21">behavioral</t>
+                <t id="p16-s01-t22">changes</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p17">
+            <sentence id="p17-s01">
+                <t id="p17-s01-t01">She</t>
+                <t id="p17-s01-t02">states</t>
+                <punc>,</punc>
+                <punc>“</punc>
+                <t id="p17-s01-t03">Consequently</t>
+                <punc>,</punc>
+                <punc>‘</punc>
+                <t id="p17-s01-t04">seeing</t>
+                <punc>’</punc>
+                <t id="p17-s01-t05">is</t>
+                <t id="p17-s01-t06">reconceptualized</t>
+                <t id="p17-s01-t07">as</t>
+                <t id="p17-s01-t08">questioning</t>
+                <punc>,</punc>
+                <t id="p17-s01-t09">not</t>
+                <t id="p17-s01-t10">believing</t>
+                <punc>”</punc>
+                <punc>,</punc>
+                <t id="p17-s01-t11">encouraging</t>
+                <t id="p17-s01-t12">analytical</t>
+                <t id="p17-s01-t13">thinking</t>
+                <t id="p17-s01-t14">while</t>
+                <t id="p17-s01-t15">allowing</t>
+                <t id="p17-s01-t16">the</t>
+                <t id="p17-s01-t17">audience</t>
+                <t id="p17-s01-t18">to</t>
+                <t id="p17-s01-t19">come</t>
+                <t id="p17-s01-t20">to</t>
+                <t id="p17-s01-t21">their</t>
+                <t id="p17-s01-t22">own</t>
+                <t id="p17-s01-t23">conclusions</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p17-s02">
+                <t id="p17-s02-t01">While</t>
+                <t id="p17-s02-t02">visualizations</t>
+                <t id="p17-s02-t03">improve</t>
+                <t id="p17-s02-t04">comprehension</t>
+                <t id="p17-s02-t05">and</t>
+                <t id="p17-s02-t06">decision</t>
+                <punc>-</punc>
+                <t id="p17-s02-t07">making</t>
+                <punc>,</punc>
+                <t id="p17-s02-t08">scientists</t>
+                <t id="p17-s02-t09">generally</t>
+                <t id="p17-s02-t10">rely</t>
+                <t id="p17-s02-t11">on</t>
+                <t id="p17-s02-t12">a</t>
+                <t id="p17-s02-t13">common</t>
+                <t id="p17-s02-t14">suite</t>
+                <t id="p17-s02-t15">of</t>
+                <t id="p17-s02-t16">display</t>
+                <t id="p17-s02-t17">types</t>
+                <punc>(</punc>
+                <t id="p17-s02-t18">graphs</t>
+                <punc>,</punc>
+                <t id="p17-s02-t19">tables</t>
+                <punc>,</punc>
+                <t id="p17-s02-t20">etc.</t>
+                <punc>)</punc>
+                <t id="p17-s02-t21">that</t>
+                <t id="p17-s02-t22">are</t>
+                <t id="p17-s02-t23">often</t>
+                <t id="p17-s02-t24">ineffective</t>
+                <t id="p17-s02-t25">for</t>
+                <t id="p17-s02-t26">expressing</t>
+                <t id="p17-s02-t27">patterns</t>
+                <t id="p17-s02-t28">in</t>
+                <t id="p17-s02-t29">large</t>
+                <punc>,</punc>
+                <t id="p17-s02-t30">complex</t>
+                <t id="p17-s02-t31">data</t>
+                <t id="p17-s02-t32">sets</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p17-s03">
+                <t id="p17-s03-t01">Augmented</t>
+                <t id="p17-s03-t02">reality</t>
+                <punc>(</punc>
+                <t id="p17-s03-t03">think</t>
+                <t id="p17-s03-t04">Pokémon</t>
+                <t id="p17-s03-t05">Go</t>
+                <punc>)</punc>
+                <t id="p17-s03-t06">and</t>
+                <t id="p17-s03-t07">game</t>
+                <punc>-</punc>
+                <t id="p17-s03-t08">based</t>
+                <t id="p17-s03-t09">platforms</t>
+                <t id="p17-s03-t10">have</t>
+                <t id="p17-s03-t11">the</t>
+                <t id="p17-s03-t12">potential</t>
+                <t id="p17-s03-t13">to</t>
+                <t id="p17-s03-t14">make</t>
+                <t id="p17-s03-t15">data</t>
+                <t id="p17-s03-t16">visualizations</t>
+                <t id="p17-s03-t17">truly</t>
+                <t id="p17-s03-t18">interactive</t>
+                <punc>,</punc>
+                <t id="p17-s03-t19">visceral</t>
+                <punc>,</punc>
+                <t id="p17-s03-t20">and</t>
+                <t id="p17-s03-t21">tangible</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p17-s04">
+                <t id="p17-s04-t01">Technological</t>
+                <t id="p17-s04-t02">advances</t>
+                <t id="p17-s04-t03">in</t>
+                <t id="p17-s04-t04">interactive</t>
+                <t id="p17-s04-t05">media</t>
+                <t id="p17-s04-t06">have</t>
+                <t id="p17-s04-t07">simplified</t>
+                <t id="p17-s04-t08">the</t>
+                <t id="p17-s04-t09">processes</t>
+                <t id="p17-s04-t10">for</t>
+                <t id="p17-s04-t11">creating</t>
+                <t id="p17-s04-t12">these</t>
+                <t id="p17-s04-t13">experiences</t>
+                <t id="p17-s04-t14">and</t>
+                <t id="p17-s04-t15">opening</t>
+                <t id="p17-s04-t16">them</t>
+                <t id="p17-s04-t17">up</t>
+                <t id="p17-s04-t18">to</t>
+                <t id="p17-s04-t19">the</t>
+                <t id="p17-s04-t20">masses</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p18">
+            <sentence id="p18-s01">
+                <t id="p18-s01-t01">It</t>
+                <t id="p18-s01-t02">is</t>
+                <t id="p18-s01-t03">an</t>
+                <t id="p18-s01-t04">exciting</t>
+                <t id="p18-s01-t05">time</t>
+                <t id="p18-s01-t06">to</t>
+                <t id="p18-s01-t07">be</t>
+                <t id="p18-s01-t08">a</t>
+                <t id="p18-s01-t09">science</t>
+                <t id="p18-s01-t10">communicator</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p18-s02">
+                <t id="p18-s02-t01">Social</t>
+                <t id="p18-s02-t02">and</t>
+                <t id="p18-s02-t03">interactive</t>
+                <t id="p18-s02-t04">media</t>
+                <t id="p18-s02-t05">offer</t>
+                <t id="p18-s02-t06">a</t>
+                <t id="p18-s02-t07">plethora</t>
+                <t id="p18-s02-t08">of</t>
+                <t id="p18-s02-t09">ways</t>
+                <t id="p18-s02-t10">to</t>
+                <t id="p18-s02-t11">connect</t>
+                <t id="p18-s02-t12">with</t>
+                <t id="p18-s02-t13">the</t>
+                <t id="p18-s02-t14">public</t>
+                <punc>,</punc>
+                <t id="p18-s02-t15">and</t>
+                <t id="p18-s02-t16">data</t>
+                <t id="p18-s02-t17">is</t>
+                <t id="p18-s02-t18">everywhere</t>
+                <t id="p18-s02-t19">in</t>
+                <t id="p18-s02-t20">our</t>
+                <t id="p18-s02-t21">society</t>
+                <t id="p18-s02-t22">–</t>
+                <t id="p18-s02-t23">not</t>
+                <t id="p18-s02-t24">just</t>
+                <t id="p18-s02-t25">the</t>
+                <t id="p18-s02-t26">sciences</t>
+                <t id="p18-s02-t27">–</t>
+                <t id="p18-s02-t28">making</t>
+                <t id="p18-s02-t29">our</t>
+                <t id="p18-s02-t30">jobs</t>
+                <t id="p18-s02-t31">even</t>
+                <t id="p18-s02-t32">more</t>
+                <t id="p18-s02-t33">important</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p18-s03">
+                <t id="p18-s03-t01">As</t>
+                <t id="p18-s03-t02">big</t>
+                <t id="p18-s03-t03">data</t>
+                <t id="p18-s03-t04">becomes</t>
+                <t id="p18-s03-t05">engrained</t>
+                <t id="p18-s03-t06">into</t>
+                <t id="p18-s03-t07">nearly</t>
+                <t id="p18-s03-t08">every</t>
+                <t id="p18-s03-t09">aspect</t>
+                <t id="p18-s03-t10">of</t>
+                <t id="p18-s03-t11">our</t>
+                <t id="p18-s03-t12">lives</t>
+                <punc>(</punc>
+                <t id="p18-s03-t13">including</t>
+                <t id="p18-s03-t14">presidential</t>
+                <t id="p18-s03-t15">campaigns</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p18-s03-t16">we</t>
+                <t id="p18-s03-t17">science</t>
+                <t id="p18-s03-t18">communicators</t>
+                <t id="p18-s03-t19">need</t>
+                <t id="p18-s03-t20">to</t>
+                <t id="p18-s03-t21">work</t>
+                <t id="p18-s03-t22">with</t>
+                <t id="p18-s03-t23">those</t>
+                <t id="p18-s03-t24">less</t>
+                <t id="p18-s03-t25">familiar</t>
+                <t id="p18-s03-t26">with</t>
+                <t id="p18-s03-t27">how</t>
+                <t id="p18-s03-t28">these</t>
+                <t id="p18-s03-t29">data</t>
+                <t id="p18-s03-t30">are</t>
+                <t id="p18-s03-t31">collected</t>
+                <punc>,</punc>
+                <t id="p18-s03-t32">analyzed</t>
+                <t id="p18-s03-t33">and</t>
+                <t id="p18-s03-t34">interpreted</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p18-s04">
+                <t id="p18-s04-t01">There</t>
+                <t id="p18-s04-t02">will</t>
+                <t id="p18-s04-t03">always</t>
+                <t id="p18-s04-t04">be</t>
+                <t id="p18-s04-t05">disagreement</t>
+                <t id="p18-s04-t06">on</t>
+                <t id="p18-s04-t07">the</t>
+                <t id="p18-s04-t08">societal</t>
+                <t id="p18-s04-t09">implications</t>
+                <t id="p18-s04-t10">of</t>
+                <t id="p18-s04-t11">the</t>
+                <t id="p18-s04-t12">results</t>
+                <punc>,</punc>
+                <t id="p18-s04-t13">but</t>
+                <t id="p18-s04-t14">in</t>
+                <t id="p18-s04-t15">today's</t>
+                <t id="p18-s04-t16">society</t>
+                <punc>,</punc>
+                <t id="p18-s04-t17">data</t>
+                <t id="p18-s04-t18">literacy</t>
+                <t id="p18-s04-t19">is</t>
+                <t id="p18-s04-t20">imperative</t>
+                <t id="p18-s04-t21">for</t>
+                <t id="p18-s04-t22">creating</t>
+                <t id="p18-s04-t23">an</t>
+                <t id="p18-s04-t24">informed</t>
+                <t id="p18-s04-t25">public</t>
+                <t id="p18-s04-t26">capable</t>
+                <t id="p18-s04-t27">of</t>
+                <t id="p18-s04-t28">coming</t>
+                <t id="p18-s04-t29">to</t>
+                <t id="p18-s04-t30">their</t>
+                <t id="p18-s04-t31">own</t>
+                <punc>,</punc>
+                <t id="p18-s04-t32">evidence</t>
+                <punc>-</punc>
+                <t id="p18-s04-t33">driven</t>
+                <t id="p18-s04-t34">conclusions</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
