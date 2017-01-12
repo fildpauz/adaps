@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Artificial intelligence</title>
+    <citation>Wikipedia contributors, "Artificial intelligence," Wikipedia, The Free Encyclopedia, https://simple.wikipedia.org/w/index.php?title=Artificial_intelligence&amp;oldid=5553123 (accessed January 10, 2017).</citation>
+    <url>https://simple.wikipedia.org/w/index.php?title=Artificial_intelligence</url>
+    <info type="wikipedia"/>
+    <body>
+        <paragraph id="p01">
+            <sentence par-function="topic|supporting|concluding" id="p01-s01">
+                <term id="p01-s01-e01" info="">
+                    <t id="p01-s01-t01" type="GSL-2">Artificial</t>
+                    <t id="p01-s01-t02" type="Coxhead-AWL-6,AR-AWL-6b">intelligence</t>
+                </term>
+                <punc>(</punc>
+                <abbr id="p01-s01-b01" info="">
+                    <t id="p01-s01-t03">AI</t>
+                </abbr>
+                <punc>)</punc>
+                <t id="p01-s01-t04" type="GSL-1">is</t>
+                <t id="p01-s01-t05" type="GSL-1">the</t>
+                <t id="p01-s01-t06" type="GSL-1">ability</t>
+                <t id="p01-s01-t07" type="GSL-1">of</t>
+                <t id="p01-s01-t08" type="GSL-1">a</t>
+                <t id="p01-s01-t09" type="Coxhead-AWL-2,AR-AWL-2a">computer</t>
+                <t id="p01-s01-t10" type="GSL-2">program</t>
+                <t id="p01-s01-t11" type="GSL-1">or</t>
+                <t id="p01-s01-t12" type="GSL-1">a</t>
+                <t id="p01-s01-t13" type="GSL-1">machine</t>
+                <t id="p01-s01-t14" type="GSL-1">to</t>
+                <t id="p01-s01-t15" type="GSL-1">think</t>
+                <t id="p01-s01-t16" type="GSL-1">and</t>
+                <t id="p01-s01-t17" type="GSL-1">learn</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p01-s02">
+                <anaphor id="p01-s02-a01" info="">
+                    <t id="p01-s02-t01" type="GSL-1">It</t>
+                </anaphor>
+                <t id="p01-s02-t02" type="GSL-1">is</t>
+                <connector id="p01-s02-c01" type="" info="">
+                    <t id="p01-s02-t03" type="GSL-1">also</t>
+                </connector>
+                <t id="p01-s02-t04" type="GSL-1">a</t>
+                <t id="p01-s02-t05" type="GSL-1">field</t>
+                <t id="p01-s02-t06" type="GSL-1">of</t>
+                <t id="p01-s02-t07" type="GSL-1">study</t>
+                <t id="p01-s02-t08" type="GSL-1">which</t>
+                <t id="p01-s02-t09" type="GSL-1">tries</t>
+                <t id="p01-s02-t10" type="GSL-1">to</t>
+                <t id="p01-s02-t11" type="GSL-1">make</t>
+                <t id="p01-s02-t12" type="Coxhead-AWL-2,AR-AWL-2a">computers</t>
+                <punc>“</punc>
+                <t id="p01-s02-t13">smart</t>
+                <punc>”</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p01-s03">
+                <t id="p01-s03-t01">John</t>
+                <t id="p01-s03-t02">McCarthy</t>
+                <t id="p01-s03-t03" type="GSL-1">came</t>
+                <t id="p01-s03-t04" type="GSL-1">up</t>
+                <t id="p01-s03-t05" type="GSL-1">with</t>
+                <t id="p01-s03-t06" type="GSL-1">the</t>
+                <t id="p01-s03-t07" type="GSL-1">name</t>
+                <punc>“</punc>
+                <t id="p01-s03-t08" type="GSL-2">artificial</t>
+                <t id="p01-s03-t09" type="Coxhead-AWL-6,AR-AWL-6b">intelligence</t>
+                <punc>”</punc>
+                <t id="p01-s03-t10" type="GSL-1">in</t>
+                <t id="p01-s03-t11">1955</t>
+                <punc>.</punc>
+                <t id="p01-s03-t12">[1]</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence par-function="topic|supporting|concluding" id="p02-s01">
+                <t id="p02-s01-t01" type="GSL-1">In</t>
+                <t id="p02-s01-t02" type="GSL-1">general</t>
+                <t id="p02-s01-t03" type="GSL-1">use</t>
+                <punc>,</punc>
+                <t id="p02-s01-t04" type="GSL-1">the</t>
+                <t id="p02-s01-t05" type="GSL-1">term</t>
+                <punc>“</punc>
+                <term id="p02-s01-e01" info="">
+                    <t id="p02-s01-t06" type="GSL-2">artificial</t>
+                    <t id="p02-s01-t07" type="Coxhead-AWL-6,AR-AWL-6b">intelligence</t>
+                </term>
+                <punc>”</punc>
+                <t id="p02-s01-t08" type="GSL-1">means</t>
+                <t id="p02-s01-t09" type="GSL-1">a</t>
+                <t id="p02-s01-t10" type="GSL-1">machine</t>
+                <t id="p02-s01-t11" type="GSL-1">which</t>
+                <t id="p02-s01-t12">mimics</t>
+                <t id="p02-s01-t13" type="GSL-1">human</t>
+                <t id="p02-s01-t14">cognition</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p02-s02">
+                <t id="p02-s02-t01" type="GSL-1">At</t>
+                <t id="p02-s02-t02" type="GSL-1">least</t>
+                <t id="p02-s02-t03" type="GSL-1">some</t>
+                <t id="p02-s02-t04" type="GSL-1">of</t>
+                <t id="p02-s02-t05" type="GSL-1">the</t>
+                <t id="p02-s02-t06" type="GSL-1">things</t>
+                <t id="p02-s02-t07" type="GSL-1">we</t>
+                <t id="p02-s02-t08" type="GSL-1">associate</t>
+                <t id="p02-s02-t09" type="GSL-1">with</t>
+                <t id="p02-s02-t10" type="GSL-1">other</t>
+                <t id="p02-s02-t11" type="GSL-1">minds</t>
+                <punc>,</punc>
+                <t id="p02-s02-t12" type="GSL-1">such</t>
+                <t id="p02-s02-t13" type="GSL-1">as</t>
+                <t id="p02-s02-t14" type="GSL-1">learning</t>
+                <t id="p02-s02-t15" type="GSL-1">and</t>
+                <t id="p02-s02-t16" type="GSL-1">problem</t>
+                <t id="p02-s02-t17" type="GSL-2">solving</t>
+                <t id="p02-s02-t18" type="GSL-1">can</t>
+                <t id="p02-s02-t19" type="GSL-1">be</t>
+                <t id="p02-s02-t20" type="GSL-1">done</t>
+                <t id="p02-s02-t21" type="GSL-1">by</t>
+                <t id="p02-s02-t22" type="Coxhead-AWL-2,AR-AWL-2a">computers</t>
+                <punc>,</punc>
+                <t id="p02-s02-t23" type="GSL-1">though</t>
+                <t id="p02-s02-t24" type="GSL-1">not</t>
+                <t id="p02-s02-t25" type="GSL-1">in</t>
+                <t id="p02-s02-t26" type="GSL-1">the</t>
+                <t id="p02-s02-t27" type="GSL-1">same</t>
+                <t id="p02-s02-t28" type="GSL-1">way</t>
+                <t id="p02-s02-t29" type="GSL-1">as</t>
+                <t id="p02-s02-t30" type="GSL-1">we</t>
+                <t id="p02-s02-t31" type="GSL-1">do</t>
+                <punc>.</punc>
+                <t id="p02-s02-t32">[2]</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p03">
+            <sentence par-function="topic|supporting|concluding" id="p03-s01">
+                <t id="p03-s01-t01" type="GSL-1">An</t>
+                <t id="p03-s01-t02" type="GSL-2">ideal</t>
+                <punc>(</punc>
+                <t id="p03-s01-t03" type="GSL-2">perfect</t>
+                <punc>)</punc>
+                <t id="p03-s01-t04" type="Coxhead-AWL-6,AR-AWL-6b">intelligent</t>
+                <t id="p03-s01-t05" type="GSL-1">machine</t>
+                <t id="p03-s01-t06" type="GSL-1">is</t>
+                <t id="p03-s01-t07" type="GSL-1">a</t>
+                <t id="p03-s01-t08" type="Coxhead-AWL-6,AR-AWL-6a">flexible</t>
+                <t id="p03-s01-t09" type="GSL-1">agent</t>
+                <t id="p03-s01-t10" type="GSL-1">which</t>
+                <t id="p03-s01-t11" type="Coxhead-AWL-2,AR-AWL-2b">perceives</t>
+                <anaphor id="p03-s01-a01" info="">
+                    <t id="p03-s01-t12" type="GSL-1">its</t>
+                </anaphor>
+                <t id="p03-s01-t13" type="Coxhead-AWL-1,AR-AWL-1a">environment</t>
+                <t id="p03-s01-t14" type="GSL-1">and</t>
+                <t id="p03-s01-t15" type="GSL-1">takes</t>
+                <t id="p03-s01-t16" type="GSL-1">actions</t>
+                <t id="p03-s01-t17" type="GSL-1">to</t>
+                <t id="p03-s01-t18" type="Coxhead-AWL-3,AR-AWL-3b">maximize</t>
+                <anaphor id="p03-s01-a02" info="">
+                    <t id="p03-s01-t19" type="GSL-1">its</t>
+                </anaphor>
+                <t id="p03-s01-t20" type="GSL-1">chance</t>
+                <t id="p03-s01-t21" type="GSL-1">of</t>
+                <t id="p03-s01-t22" type="GSL-1">success</t>
+                <t id="p03-s01-t23" type="GSL-1">at</t>
+                <t id="p03-s01-t24" type="GSL-1">some</t>
+                <t id="p03-s01-t25" type="Coxhead-AWL-4,AR-AWL-4a">goal</t>
+                <punc>.</punc>
+                <t id="p03-s01-t26">[3]</t>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p03-s02">
+                <t id="p03-s02-t01" type="GSL-1">As</t>
+                <t id="p03-s02-t02" type="GSL-1">machines</t>
+                <t id="p03-s02-t03" type="GSL-1">become</t>
+                <t id="p03-s02-t04" type="GSL-1">increasingly</t>
+                <t id="p03-s02-t05" type="Coxhead-AWL-6,AR-AWL-6a">capable</t>
+                <punc>,</punc>
+                <t id="p03-s02-t06" type="Coxhead-AWL-5,AR-AWL-5b">mental</t>
+                <t id="p03-s02-t07" type="Coxhead-AWL-5,AR-AWL-5a">facilities</t>
+                <t id="p03-s02-t08" type="GSL-1">once</t>
+                <t id="p03-s02-t09" type="GSL-1">thought</t>
+                <t id="p03-s02-t10" type="GSL-1">to</t>
+                <t id="p03-s02-t11" type="Coxhead-AWL-1,AR-AWL-1b">require</t>
+                <t id="p03-s02-t12" type="Coxhead-AWL-6,AR-AWL-6b">intelligence</t>
+                <t id="p03-s02-t13" type="GSL-1">are</t>
+                <t id="p03-s02-t14" type="Coxhead-AWL-3,AR-AWL-3b">removed</t>
+                <t id="p03-s02-t15" type="GSL-1">from</t>
+                <anaphor id="p03-s02-a01" info="">
+                    <t id="p03-s02-t16" type="GSL-1">the</t>
+                    <t id="p03-s02-t17" type="Coxhead-AWL-1,AR-AWL-1a">definition</t>
+                </anaphor>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p03-s03">
+                <connector id="p03-s03-c01" type="" info="">
+                    <t id="p03-s03-t01" type="GSL-1">For</t>
+                    <t id="p03-s03-t02" type="GSL-1">example</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p03-s03-t03">optical</t>
+                <t id="p03-s03-t04" type="GSL-1">character</t>
+                <t id="p03-s03-t05" type="GSL-1">recognition</t>
+                <t id="p03-s03-t06" type="GSL-1">is</t>
+                <t id="p03-s03-t07" type="GSL-1">no</t>
+                <t id="p03-s03-t08" type="GSL-1">longer</t>
+                <t id="p03-s03-t09" type="Coxhead-AWL-2,AR-AWL-2b">perceived</t>
+                <t id="p03-s03-t10" type="GSL-1">as</t>
+                <t id="p03-s03-t11" type="GSL-1">an</t>
+                <t id="p03-s03-t12">exemplar</t>
+                <t id="p03-s03-t13" type="GSL-1">of</t>
+                <punc>“</punc>
+                <t id="p03-s03-t14" type="GSL-2">artificial</t>
+                <t id="p03-s03-t15" type="Coxhead-AWL-6,AR-AWL-6b">intelligence</t>
+                <punc>”</punc>
+                <punc>:</punc>
+                <anaphor id="p03-s03-a01" info="">
+                    <t id="p03-s03-t16" type="GSL-1">it</t>
+                </anaphor>
+                <t id="p03-s03-t17" type="GSL-1">is</t>
+                <t id="p03-s03-t18" type="GSL-1">just</t>
+                <t id="p03-s03-t19" type="GSL-1">a</t>
+                <t id="p03-s03-t20">routine</t>
+                <t id="p03-s03-t21" type="Coxhead-AWL-3,AR-AWL-3b">technology</t>
+                <punc>.</punc>
+                <t id="p03-s03-t22">[4]</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p04">
+            <sentence par-function="topic|supporting|concluding" id="p04-s01">
+                <t id="p04-s01-t01" type="GSL-1">At</t>
+                <t id="p04-s01-t02" type="GSL-1">present</t>
+                <t id="p04-s01-t03" type="GSL-1">we</t>
+                <t id="p04-s01-t04" type="GSL-1">use</t>
+                <t id="p04-s01-t05" type="GSL-1">the</t>
+                <t id="p04-s01-t06" type="GSL-1">term</t>
+                <t id="p04-s01-t07">AI</t>
+                <t id="p04-s01-t08" type="GSL-1">for</t>
+                <t id="p04-s01-t09" type="GSL-1">successfully</t>
+                <t id="p04-s01-t10" type="GSL-1">understanding</t>
+                <t id="p04-s01-t11" type="GSL-1">human</t>
+                <t id="p04-s01-t12" type="GSL-1">speech</t>
+                <punc>,</punc>
+                <t id="p04-s01-t13">[2]</t>
+                <t id="p04-s01-t14" type="GSL-2">competing</t>
+                <t id="p04-s01-t15" type="GSL-1">at</t>
+                <t id="p04-s01-t16" type="GSL-1">a</t>
+                <t id="p04-s01-t17" type="GSL-1">high</t>
+                <t id="p04-s01-t18" type="GSL-1">level</t>
+                <t id="p04-s01-t19" type="GSL-1">in</t>
+                <t id="p04-s01-t20" type="Coxhead-AWL-2,AR-AWL-2b">strategic</t>
+                <t id="p04-s01-t21" type="GSL-1">game</t>
+                <t id="p04-s01-t22" type="GSL-1">systems</t>
+                <punc>(</punc>
+                <t id="p04-s01-t23" type="GSL-1">such</t>
+                <t id="p04-s01-t24" type="GSL-1">as</t>
+                <t id="p04-s01-t25">Chess</t>
+                <t id="p04-s01-t26" type="GSL-1">and</t>
+                <t id="p04-s01-t27" type="GSL-1">Go</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p04-s01-t28" type="GSL-2">self</t>
+                <punc>-</punc>
+                <t id="p04-s01-t29" type="GSL-1">driving</t>
+                <t id="p04-s01-t30" type="GSL-1">cars</t>
+                <punc>,</punc>
+                <t id="p04-s01-t31" type="GSL-1">and</t>
+                <t id="p04-s01-t32" type="Coxhead-AWL-1,AR-AWL-1b">interpreting</t>
+                <t id="p04-s01-t33" type="Coxhead-AWL-2,AR-AWL-2a">complex</t>
+                <t id="p04-s01-t34" type="Coxhead-AWL-1,AR-AWL-1a">data</t>
+                <punc>.</punc>
+                <t id="p04-s01-t35">[5]</t>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p04-s02">
+                <t id="p04-s02-t01" type="GSL-1">Some</t>
+                <t id="p04-s02-t02" type="GSL-1">people</t>
+                <t id="p04-s02-t03" type="GSL-1">also</t>
+                <t id="p04-s02-t04" type="GSL-1">consider</t>
+                <t id="p04-s02-t05">AI</t>
+                <t id="p04-s02-t06" type="GSL-1">a</t>
+                <t id="p04-s02-t07" type="GSL-1">danger</t>
+                <t id="p04-s02-t08" type="GSL-1">to</t>
+                <t id="p04-s02-t09">humanity</t>
+                <t id="p04-s02-t10" type="GSL-1">if</t>
+                <anaphor id="p04-s02-a01" info="">
+                    <t id="p04-s02-t11" type="GSL-1">it</t>
+                </anaphor>
+                <t id="p04-s02-t12" type="GSL-1">progresses</t>
+                <t id="p04-s02-t13">unabatedly</t>
+                <punc>.</punc>
+                <t id="p04-s02-t14">[6]</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p05">
+            <sentence par-function="topic|supporting|concluding" id="p05-s01">
+                <t id="p05-s01-t01" type="GSL-1">An</t>
+                <t id="p05-s01-t02" type="GSL-2">extreme</t>
+                <t id="p05-s01-t03" type="Coxhead-AWL-4,AR-AWL-4a">goal</t>
+                <t id="p05-s01-t04" type="GSL-1">of</t>
+                <t id="p05-s01-t05">AI</t>
+                <t id="p05-s01-t06" type="Coxhead-AWL-1,AR-AWL-1b">research</t>
+                <t id="p05-s01-t07" type="GSL-1">is</t>
+                <t id="p05-s01-t08" type="GSL-1">to</t>
+                <t id="p05-s01-t09" type="Coxhead-AWL-1,AR-AWL-1a">create</t>
+                <t id="p05-s01-t10" type="Coxhead-AWL-2,AR-AWL-2a">computer</t>
+                <t id="p05-s01-t11" type="GSL-2">programs</t>
+                <t id="p05-s01-t12" type="GSL-1">that</t>
+                <t id="p05-s01-t13" type="GSL-1">can</t>
+                <t id="p05-s01-t14" type="GSL-1">learn</t>
+                <punc>,</punc>
+                <t id="p05-s01-t15" type="GSL-2">solve</t>
+                <t id="p05-s01-t16" type="GSL-1">problems</t>
+                <punc>,</punc>
+                <t id="p05-s01-t17" type="GSL-1">and</t>
+                <t id="p05-s01-t18" type="GSL-1">think</t>
+                <t id="p05-s01-t19" type="Coxhead-AWL-5,AR-AWL-5b">logically</t>
+                <punc>.</punc>
+                <t id="p05-s01-t20">[7][8]</t>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p05-s02">
+                <t id="p05-s02-t01" type="GSL-1">In</t>
+                <t id="p05-s02-t02" type="GSL-2">practice</t>
+                <punc>,</punc>
+                <connector id="p05-s02-c01" type="" info="">
+                    <t id="p05-s02-t03" type="GSL-1">however</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p05-s02-t04" type="GSL-1">most</t>
+                <t id="p05-s02-t05" type="GSL-1">applications</t>
+                <t id="p05-s02-t06" type="GSL-1">have</t>
+                <t id="p05-s02-t07" type="GSL-2">picked</t>
+                <t id="p05-s02-t08" type="GSL-1">on</t>
+                <t id="p05-s02-t09" type="GSL-1">problems</t>
+                <t id="p05-s02-t10" type="GSL-1">which</t>
+                <t id="p05-s02-t11" type="Coxhead-AWL-2,AR-AWL-2a">computers</t>
+                <t id="p05-s02-t12" type="GSL-1">can</t>
+                <t id="p05-s02-t13" type="GSL-1">do</t>
+                <t id="p05-s02-t14" type="GSL-1">well</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p05-s03">
+                <t id="p05-s03-t01" type="GSL-2">Searching</t>
+                <t id="p05-s03-t02" type="Coxhead-AWL-1,AR-AWL-1a">data</t>
+                <t id="p05-s03-t03" type="GSL-1">bases</t>
+                <t id="p05-s03-t04" type="GSL-1">and</t>
+                <t id="p05-s03-t05" type="GSL-1">doing</t>
+                <t id="p05-s03-t06" type="GSL-2">calculations</t>
+                <t id="p05-s03-t07" type="GSL-1">are</t>
+                <t id="p05-s03-t08" type="GSL-1">things</t>
+                <t id="p05-s03-t09" type="Coxhead-AWL-2,AR-AWL-2a">computers</t>
+                <t id="p05-s03-t10" type="GSL-1">do</t>
+                <t id="p05-s03-t11" type="GSL-1">better</t>
+                <t id="p05-s03-t12" type="GSL-1">than</t>
+                <t id="p05-s03-t13" type="GSL-1">people</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p05-s04">
+                <connector id="p05-s04-c01" type="" info="">
+                    <t id="p05-s04-t01" type="GSL-1">On</t>
+                    <t id="p05-s04-t02" type="GSL-1">the</t>
+                    <t id="p05-s04-t03" type="GSL-1">other</t>
+                    <t id="p05-s04-t04" type="GSL-1">hand</t>
+                </connector>
+                <punc>,</punc>
+                <punc>“</punc>
+                <t id="p05-s04-t05" type="Coxhead-AWL-2,AR-AWL-2b">perceiving</t>
+                <t id="p05-s04-t06" type="GSL-1">its</t>
+                <t id="p05-s04-t07" type="Coxhead-AWL-1,AR-AWL-1a">environment</t>
+                <punc>”</punc>
+                <t id="p05-s04-t08" type="GSL-1">in</t>
+                <t id="p05-s04-t09" type="GSL-1">any</t>
+                <t id="p05-s04-t10" type="GSL-1">real</t>
+                <t id="p05-s04-t11" type="GSL-1">sense</t>
+                <t id="p05-s04-t12" type="GSL-1">is</t>
+                <t id="p05-s04-t13" type="GSL-1">way</t>
+                <t id="p05-s04-t14" type="GSL-1">beyond</t>
+                <t id="p05-s04-t15" type="GSL-1">present</t>
+                <punc>-</punc>
+                <t id="p05-s04-t16" type="GSL-1">day</t>
+                <t id="p05-s04-t17" type="Coxhead-AWL-2,AR-AWL-2a">computing</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p06">
+            <sentence par-function="topic|supporting|concluding" id="p06-s01">
+                <t id="p06-s01-t01">AI</t>
+                <t id="p06-s01-t02" type="Coxhead-AWL-1,AR-AWL-1b">involves</t>
+                <t id="p06-s01-t03" type="GSL-1">many</t>
+                <t id="p06-s01-t04" type="GSL-1">different</t>
+                <t id="p06-s01-t05" type="GSL-1">fields</t>
+                <t id="p06-s01-t06" type="GSL-1">like</t>
+                <t id="p06-s01-t07" type="Coxhead-AWL-2,AR-AWL-2a">computer</t>
+                <t id="p06-s01-t08" type="GSL-1">science</t>
+                <punc>,</punc>
+                <t id="p06-s01-t09">mathematics</t>
+                <punc>,</punc>
+                <t id="p06-s01-t10">linguistics</t>
+                <punc>,</punc>
+                <t id="p06-s01-t11" type="Coxhead-AWL-5,AR-AWL-5b">psychology</t>
+                <punc>,</punc>
+                <t id="p06-s01-t12">neuroscience</t>
+                <punc>,</punc>
+                <t id="p06-s01-t13" type="GSL-1">and</t>
+                <t id="p06-s01-t14" type="Coxhead-AWL-3,AR-AWL-3b">philosophy</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p06-s02">
+                <t id="p06-s02-t01" type="Coxhead-AWL-8,AR-AWL-8a">Eventually</t>
+                <t id="p06-s02-t02" type="Coxhead-AWL-1,AR-AWL-1b">researchers</t>
+                <t id="p06-s02-t03" type="GSL-1">hope</t>
+                <t id="p06-s02-t04" type="GSL-1">to</t>
+                <t id="p06-s02-t05" type="Coxhead-AWL-1,AR-AWL-1a">create</t>
+                <t id="p06-s02-t06" type="GSL-1">a</t>
+                <punc>“</punc>
+                <t id="p06-s02-t07" type="GSL-1">general</t>
+                <t id="p06-s02-t08" type="GSL-2">artificial</t>
+                <t id="p06-s02-t09" type="Coxhead-AWL-6,AR-AWL-6b">intelligence</t>
+                <punc>”</punc>
+                <t id="p06-s02-t10" type="GSL-1">which</t>
+                <t id="p06-s02-t11" type="GSL-1">can</t>
+                <t id="p06-s02-t12" type="GSL-2">solve</t>
+                <t id="p06-s02-t13" type="GSL-1">many</t>
+                <t id="p06-s02-t14" type="GSL-1">problems</t>
+                <t id="p06-s02-t15" type="GSL-1">instead</t>
+                <t id="p06-s02-t16" type="GSL-1">of</t>
+                <t id="p06-s02-t17" type="Coxhead-AWL-2,AR-AWL-2a">focusing</t>
+                <t id="p06-s02-t18" type="GSL-1">on</t>
+                <t id="p06-s02-t19" type="GSL-1">just</t>
+                <t id="p06-s02-t20" type="GSL-1">one</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p06-s03">
+                <t id="p06-s03-t01" type="Coxhead-AWL-1,AR-AWL-1b">Researchers</t>
+                <t id="p06-s03-t02" type="GSL-1">are</t>
+                <connector id="p06-s03-c01" type="" info="">
+                    <t id="p06-s03-t03" type="GSL-1">also</t>
+                </connector>
+                <t id="p06-s03-t04" type="GSL-1">trying</t>
+                <t id="p06-s03-t05" type="GSL-1">to</t>
+                <t id="p06-s03-t06" type="Coxhead-AWL-1,AR-AWL-1a">create</t>
+                <t id="p06-s03-t07" type="Coxhead-AWL-1,AR-AWL-1a">creative</t>
+                <t id="p06-s03-t08" type="GSL-1">and</t>
+                <t id="p06-s03-t09">emotional</t>
+                <t id="p06-s03-t10">AI</t>
+                <t id="p06-s03-t11" type="GSL-1">which</t>
+                <t id="p06-s03-t12" type="GSL-1">can</t>
+                <t id="p06-s03-t13" type="GSL-1">possibly</t>
+                <t id="p06-s03-t14">empathize</t>
+                <t id="p06-s03-t15" type="GSL-1">or</t>
+                <t id="p06-s03-t16" type="Coxhead-AWL-1,AR-AWL-1a">create</t>
+                <t id="p06-s03-t17" type="GSL-1">art</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p06-s04">
+                <t id="p06-s04-t01" type="GSL-1">Many</t>
+                <t id="p06-s04-t02" type="Coxhead-AWL-1,AR-AWL-1a">approaches</t>
+                <t id="p06-s04-t03" type="GSL-1">and</t>
+                <t id="p06-s04-t04" type="GSL-2">tools</t>
+                <t id="p06-s04-t05" type="GSL-1">have</t>
+                <t id="p06-s04-t06" type="GSL-1">been</t>
+                <t id="p06-s04-t07" type="GSL-1">tried</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p07">
+            <sentence par-function="topic|supporting|concluding" id="p07-s01">
+                <t id="p07-s01-t01" type="GSL-1">History</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p08">
+            <sentence par-function="topic|supporting|concluding" id="p08-s01">
+                <t id="p08-s01-t01" type="GSL-1">Objects</t>
+                <t id="p08-s01-t02" type="GSL-1">that</t>
+                <t id="p08-s01-t03" type="GSL-1">look</t>
+                <t id="p08-s01-t04" type="GSL-1">and</t>
+                <t id="p08-s01-t05" type="GSL-1">act</t>
+                <t id="p08-s01-t06" type="GSL-1">like</t>
+                <t id="p08-s01-t07" type="GSL-1">humans</t>
+                <t id="p08-s01-t08" type="GSL-1">exist</t>
+                <t id="p08-s01-t09" type="GSL-1">in</t>
+                <t id="p08-s01-t10" type="GSL-1">every</t>
+                <t id="p08-s01-t11" type="Coxhead-AWL-1,AR-AWL-1b">major</t>
+                <t id="p08-s01-t12">civilization</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p08-s02">
+                <t id="p08-s02-t01" type="GSL-1">The</t>
+                <t id="p08-s02-t02" type="GSL-1">first</t>
+                <t id="p08-s02-t03" type="GSL-1">appearance</t>
+                <t id="p08-s02-t04" type="GSL-1">of</t>
+                <t id="p08-s02-t05" type="GSL-2">artificial</t>
+                <t id="p08-s02-t06" type="Coxhead-AWL-6,AR-AWL-6b">intelligence</t>
+                <t id="p08-s02-t07" type="GSL-1">is</t>
+                <t id="p08-s02-t08" type="GSL-1">in</t>
+                <t id="p08-s02-t09">Greek</t>
+                <t id="p08-s02-t10">myths</t>
+                <punc>,</punc>
+                <t id="p08-s02-t11" type="GSL-1">like</t>
+                <t id="p08-s02-t12">Talos</t>
+                <t id="p08-s02-t13" type="GSL-1">of</t>
+                <t id="p08-s02-t14">Crete</t>
+                <t id="p08-s02-t15" type="GSL-1">or</t>
+                <t id="p08-s02-t16" type="GSL-1">the</t>
+                <t id="p08-s02-t17">bronze</t>
+                <t id="p08-s02-t18">robot</t>
+                <t id="p08-s02-t19" type="GSL-1">of</t>
+                <t id="p08-s02-t20">Hephaestus</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p08-s03">
+                <t id="p08-s03-t01">Humanoid</t>
+                <t id="p08-s03-t02">robots</t>
+                <t id="p08-s03-t03" type="GSL-1">were</t>
+                <t id="p08-s03-t04" type="GSL-1">built</t>
+                <t id="p08-s03-t05" type="GSL-1">by</t>
+                <t id="p08-s03-t06">Yan</t>
+                <t id="p08-s03-t07">Shi</t>
+                <punc>,</punc>
+                <t id="p08-s03-t08">Hero</t>
+                <t id="p08-s03-t09" type="GSL-1">of</t>
+                <t id="p08-s03-t10">Alexandria</t>
+                <punc>,</punc>
+                <t id="p08-s03-t11" type="GSL-1">and</t>
+                <t id="p08-s03-t12">Al</t>
+                <punc>-</punc>
+                <t id="p08-s03-t13">Jazari</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p08-s04">
+                <t id="p08-s04-t01">Sentient</t>
+                <t id="p08-s04-t02" type="GSL-1">machines</t>
+                <t id="p08-s04-t03" type="GSL-1">became</t>
+                <t id="p08-s04-t04" type="GSL-1">popular</t>
+                <t id="p08-s04-t05" type="GSL-1">in</t>
+                <t id="p08-s04-t06">fiction</t>
+                <t id="p08-s04-t07" type="GSL-2">during</t>
+                <t id="p08-s04-t08" type="GSL-1">the</t>
+                <t id="p08-s04-t09">19th</t>
+                <t id="p08-s04-t10" type="GSL-1">and</t>
+                <t id="p08-s04-t11">20th</t>
+                <t id="p08-s04-t12" type="GSL-2">centuries</t>
+                <t id="p08-s04-t13" type="GSL-1">with</t>
+                <t id="p08-s04-t14" type="GSL-1">the</t>
+                <t id="p08-s04-t15" type="GSL-1">stories</t>
+                <t id="p08-s04-t16" type="GSL-1">of</t>
+                <t id="p08-s04-t17">Frankenstein</t>
+                <t id="p08-s04-t18" type="GSL-1">and</t>
+                <t id="p08-s04-t19">R.U.R</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p09">
+            <sentence par-function="topic|supporting|concluding" id="p09-s01">
+                <t id="p09-s01-t01" type="GSL-2">Formal</t>
+                <t id="p09-s01-t02" type="Coxhead-AWL-5,AR-AWL-5b">logic</t>
+                <t id="p09-s01-t03" type="GSL-1">was</t>
+                <t id="p09-s01-t04" type="GSL-1">developed</t>
+                <t id="p09-s01-t05" type="GSL-1">by</t>
+                <t id="p09-s01-t06" type="GSL-1">ancient</t>
+                <t id="p09-s01-t07">Greek</t>
+                <t id="p09-s01-t08" type="Coxhead-AWL-3,AR-AWL-3b">philosophers</t>
+                <t id="p09-s01-t09" type="GSL-1">and</t>
+                <t id="p09-s01-t10">mathematicians</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p09-s02">
+                <anaphor id="p09-s02-a01" info="">
+                    <t id="p09-s02-t01" type="GSL-1">This</t>
+                    <t id="p09-s02-t02" type="GSL-1">study</t>
+                    <t id="p09-s02-t03" type="GSL-1">of</t>
+                    <t id="p09-s02-t04" type="Coxhead-AWL-5,AR-AWL-5b">logic</t>
+                </anaphor>
+                <t id="p09-s02-t05" type="GSL-1">produced</t>
+                <t id="p09-s02-t06" type="GSL-1">the</t>
+                <t id="p09-s02-t07" type="GSL-1">idea</t>
+                <t id="p09-s02-t08" type="GSL-1">of</t>
+                <t id="p09-s02-t09" type="GSL-1">a</t>
+                <t id="p09-s02-t10" type="Coxhead-AWL-2,AR-AWL-2a">computer</t>
+                <t id="p09-s02-t11" type="GSL-1">in</t>
+                <t id="p09-s02-t12" type="GSL-1">the</t>
+                <t id="p09-s02-t13">19th</t>
+                <t id="p09-s02-t14" type="GSL-1">and</t>
+                <t id="p09-s02-t15">20th</t>
+                <t id="p09-s02-t16" type="GSL-2">century</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p09-s03">
+                <t id="p09-s03-t01">Mathematician</t>
+                <t id="p09-s03-t02">Alan</t>
+                <t id="p09-s03-t03">Turing's</t>
+                <t id="p09-s03-t04" type="Coxhead-AWL-1,AR-AWL-1b">theory</t>
+                <t id="p09-s03-t05" type="GSL-1">of</t>
+                <t id="p09-s03-t06" type="Coxhead-AWL-2,AR-AWL-2a">computation</t>
+                <connector id="p09-s03-c01" type="" info="">
+                    <t id="p09-s03-t07" type="GSL-1">said</t>
+                    <t id="p09-s03-t08" type="GSL-1">that</t>
+                </connector>
+                <t id="p09-s03-t09" type="GSL-1">any</t>
+                <t id="p09-s03-t10">mathematical</t>
+                <t id="p09-s03-t11" type="GSL-1">problem</t>
+                <t id="p09-s03-t12" type="GSL-1">could</t>
+                <t id="p09-s03-t13" type="GSL-1">be</t>
+                <t id="p09-s03-t14" type="GSL-2">solved</t>
+                <t id="p09-s03-t15" type="GSL-1">by</t>
+                <t id="p09-s03-t16" type="Coxhead-AWL-1,AR-AWL-1b">processing</t>
+                <t id="p09-s03-t17">1's</t>
+                <t id="p09-s03-t18" type="GSL-1">and</t>
+                <t id="p09-s03-t19">0's</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p09-s04">
+                <t id="p09-s04-t01" type="GSL-1">Advances</t>
+                <t id="p09-s04-t02" type="GSL-1">in</t>
+                <t id="p09-s04-t03">neurology</t>
+                <punc>,</punc>
+                <t id="p09-s04-t04" type="GSL-2">information</t>
+                <t id="p09-s04-t05" type="Coxhead-AWL-1,AR-AWL-1b">theory</t>
+                <punc>,</punc>
+                <t id="p09-s04-t06" type="GSL-1">and</t>
+                <t id="p09-s04-t07">cybernetics</t>
+                <t id="p09-s04-t08" type="Coxhead-AWL-10,AR-AWL-10">convinced</t>
+                <t id="p09-s04-t09" type="GSL-1">a</t>
+                <t id="p09-s04-t10" type="GSL-1">small</t>
+                <t id="p09-s04-t11" type="GSL-1">group</t>
+                <t id="p09-s04-t12" type="GSL-1">of</t>
+                <t id="p09-s04-t13" type="Coxhead-AWL-1,AR-AWL-1b">researchers</t>
+                <t id="p09-s04-t14" type="GSL-1">that</t>
+                <t id="p09-s04-t15" type="GSL-1">an</t>
+                <t id="p09-s04-t16">electronic</t>
+                <t id="p09-s04-t17" type="GSL-2">brain</t>
+                <t id="p09-s04-t18" type="GSL-1">was</t>
+                <t id="p09-s04-t19" type="GSL-1">possible</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p10">
+            <sentence par-function="topic|supporting|concluding" id="p10-s01">
+                <t id="p10-s01-t01">AI</t>
+                <t id="p10-s01-t02" type="Coxhead-AWL-1,AR-AWL-1b">research</t>
+                <t id="p10-s01-t03" type="GSL-1">really</t>
+                <t id="p10-s01-t04" type="GSL-1">started</t>
+                <t id="p10-s01-t05" type="GSL-1">with</t>
+                <t id="p10-s01-t06" type="GSL-1">a</t>
+                <t id="p10-s01-t07" type="Coxhead-AWL-4,AR-AWL-4a">conference</t>
+                <t id="p10-s01-t08" type="GSL-1">at</t>
+                <t id="p10-s01-t09">Dartmouth</t>
+                <t id="p10-s01-t10" type="GSL-1">College</t>
+                <t id="p10-s01-t11" type="GSL-1">in</t>
+                <t id="p10-s01-t12">1956</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p10-s02">
+                <anaphor id="p10-s02-a01" info="">
+                    <t id="p10-s02-t01" type="GSL-1">It</t>
+                </anaphor>
+                <t id="p10-s02-t02" type="GSL-1">was</t>
+                <t id="p10-s02-t03" type="GSL-1">a</t>
+                <t id="p10-s02-t04" type="GSL-1">month</t>
+                <t id="p10-s02-t05" type="GSL-1">long</t>
+                <t id="p10-s02-t06">brainstorming</t>
+                <t id="p10-s02-t07">session</t>
+                <t id="p10-s02-t08" type="GSL-2">attended</t>
+                <t id="p10-s02-t09" type="GSL-1">by</t>
+                <t id="p10-s02-t10" type="GSL-1">many</t>
+                <t id="p10-s02-t11" type="GSL-1">people</t>
+                <t id="p10-s02-t12" type="GSL-1">with</t>
+                <t id="p10-s02-t13" type="GSL-1">interests</t>
+                <t id="p10-s02-t14" type="GSL-1">in</t>
+                <t id="p10-s02-t15">AI</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p10-s03">
+                <t id="p10-s03-t01" type="GSL-1">At</t>
+                <t id="p10-s03-t02" type="GSL-1">the</t>
+                <t id="p10-s03-t03" type="Coxhead-AWL-4,AR-AWL-4a">conference</t>
+                <anaphor id="p10-s03-a01" info="">
+                    <t id="p10-s03-t04" type="GSL-1">they</t>
+                </anaphor>
+                <t id="p10-s03-t05" type="GSL-1">wrote</t>
+                <t id="p10-s03-t06" type="GSL-2">programs</t>
+                <t id="p10-s03-t07" type="GSL-1">that</t>
+                <t id="p10-s03-t08" type="GSL-1">were</t>
+                <t id="p10-s03-t09">amazing</t>
+                <t id="p10-s03-t10" type="GSL-1">at</t>
+                <anaphor id="p10-s03-a02" info="">
+                    <t id="p10-s03-t11" type="GSL-1">the</t>
+                    <t id="p10-s03-t12" type="GSL-1">time</t>
+                </anaphor>
+                <punc>,</punc>
+                <t id="p10-s03-t13" type="GSL-2">beating</t>
+                <t id="p10-s03-t14" type="GSL-1">people</t>
+                <t id="p10-s03-t15" type="GSL-1">at</t>
+                <t id="p10-s03-t16">checkers</t>
+                <t id="p10-s03-t17" type="GSL-1">or</t>
+                <t id="p10-s03-t18" type="GSL-2">solving</t>
+                <t id="p10-s03-t19" type="GSL-1">word</t>
+                <t id="p10-s03-t20" type="GSL-1">problems</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p10-s04">
+                <t id="p10-s04-t01" type="GSL-1">The</t>
+                <t id="p10-s04-t02" type="GSL-1">Department</t>
+                <t id="p10-s04-t03" type="GSL-1">of</t>
+                <t id="p10-s04-t04">Defense</t>
+                <t id="p10-s04-t05" type="GSL-1">started</t>
+                <t id="p10-s04-t06" type="GSL-1">giving</t>
+                <t id="p10-s04-t07" type="GSL-1">a</t>
+                <t id="p10-s04-t08" type="GSL-2">lot</t>
+                <t id="p10-s04-t09" type="GSL-1">of</t>
+                <t id="p10-s04-t10" type="GSL-1">money</t>
+                <t id="p10-s04-t11" type="GSL-1">to</t>
+                <t id="p10-s04-t12">AI</t>
+                <t id="p10-s04-t13" type="Coxhead-AWL-1,AR-AWL-1b">research</t>
+                <connector id="p10-s04-c01" type="" info="">
+                    <t id="p10-s04-t14" type="GSL-1">and</t>
+                </connector>
+                <t id="p10-s04-t15">labs</t>
+                <t id="p10-s04-t16" type="GSL-1">were</t>
+                <t id="p10-s04-t17" type="Coxhead-AWL-1,AR-AWL-1a">created</t>
+                <t id="p10-s04-t18" type="GSL-1">all</t>
+                <t id="p10-s04-t19" type="GSL-1">over</t>
+                <t id="p10-s04-t20" type="GSL-1">the</t>
+                <t id="p10-s04-t21" type="GSL-1">world</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p11">
+            <sentence par-function="topic|supporting|concluding" id="p11-s01">
+                <connector id="p11-s01-c01" type="" info="">
+                    <t id="p11-s01-t01" type="GSL-1">Unfortunately</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p11-s01-t02" type="Coxhead-AWL-1,AR-AWL-1b">researchers</t>
+                <t id="p11-s01-t03" type="GSL-1">really</t>
+                <t id="p11-s01-t04" type="Coxhead-AWL-1,AR-AWL-1a">underestimated</t>
+                <t id="p11-s01-t05" type="GSL-1">just</t>
+                <t id="p11-s01-t06" type="GSL-1">how</t>
+                <t id="p11-s01-t07" type="GSL-1">hard</t>
+                <t id="p11-s01-t08" type="GSL-1">some</t>
+                <t id="p11-s01-t09" type="GSL-1">problems</t>
+                <t id="p11-s01-t10" type="GSL-1">were</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p11-s02">
+                <t id="p11-s02-t01" type="GSL-1">The</t>
+                <t id="p11-s02-t02" type="GSL-2">tools</t>
+                <anaphor id="p11-s02-a01" info="">
+                    <t id="p11-s02-t03" type="GSL-1">they</t>
+                </anaphor>
+                <t id="p11-s02-t04" type="GSL-1">had</t>
+                <t id="p11-s02-t05" type="GSL-1">used</t>
+                <t id="p11-s02-t06" type="GSL-1">still</t>
+                <t id="p11-s02-t07" type="GSL-1">did</t>
+                <t id="p11-s02-t08" type="GSL-1">not</t>
+                <t id="p11-s02-t09" type="GSL-1">give</t>
+                <t id="p11-s02-t10" type="Coxhead-AWL-2,AR-AWL-2a">computers</t>
+                <t id="p11-s02-t11" type="GSL-1">things</t>
+                <t id="p11-s02-t12" type="GSL-1">like</t>
+                <t id="p11-s02-t13">emotions</t>
+                <t id="p11-s02-t14" type="GSL-1">or</t>
+                <t id="p11-s02-t15" type="GSL-1">common</t>
+                <t id="p11-s02-t16" type="GSL-1">sense</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p11-s03">
+                <t id="p11-s03-t01">Mathematician</t>
+                <t id="p11-s03-t02">James</t>
+                <t id="p11-s03-t03">Lighthill</t>
+                <t id="p11-s03-t04" type="GSL-1">wrote</t>
+                <t id="p11-s03-t05" type="GSL-1">a</t>
+                <t id="p11-s03-t06" type="GSL-1">report</t>
+                <t id="p11-s03-t07" type="GSL-1">on</t>
+                <t id="p11-s03-t08">AI</t>
+                <connector id="p11-s03-c01" type="" info="">
+                    <t id="p11-s03-t09" type="GSL-1">saying</t>
+                    <t id="p11-s03-t10" type="GSL-1">that</t>
+                </connector>
+                <punc>“</punc>
+                <t id="p11-s03-t11" type="GSL-1">in</t>
+                <t id="p11-s03-t12" type="GSL-1">no</t>
+                <t id="p11-s03-t13" type="GSL-1">part</t>
+                <t id="p11-s03-t14" type="GSL-1">of</t>
+                <anaphor id="p11-s03-a01" info="">
+                    <t id="p11-s03-t15" type="GSL-1">the</t>
+                    <t id="p11-s03-t16" type="GSL-1">field</t>
+                </anaphor>
+                <t id="p11-s03-t17" type="GSL-1">have</t>
+                <t id="p11-s03-t18" type="GSL-1">discoveries</t>
+                <t id="p11-s03-t19" type="GSL-1">made</t>
+                <t id="p11-s03-t20" type="GSL-1">so</t>
+                <t id="p11-s03-t21" type="GSL-1">far</t>
+                <t id="p11-s03-t22" type="GSL-1">produced</t>
+                <t id="p11-s03-t23" type="GSL-1">the</t>
+                <t id="p11-s03-t24" type="Coxhead-AWL-1,AR-AWL-1b">major</t>
+                <t id="p11-s03-t25" type="Coxhead-AWL-2,AR-AWL-2a">impact</t>
+                <t id="p11-s03-t26" type="GSL-1">that</t>
+                <t id="p11-s03-t27" type="GSL-1">was</t>
+                <t id="p11-s03-t28" type="GSL-1">then</t>
+                <t id="p11-s03-t29" type="GSL-1">promised</t>
+                <punc>”</punc>
+                <t id="p11-s03-t30">.</t>
+                <t id="p11-s03-t31">[9]</t>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p11-s04">
+                <t id="p11-s04-t01" type="GSL-1">The</t>
+                <t id="p11-s04-t02">U.S</t>
+                <t id="p11-s04-t03" type="GSL-1">and</t>
+                <t id="p11-s04-t04">British</t>
+                <t id="p11-s04-t05" type="GSL-2">governments</t>
+                <t id="p11-s04-t06" type="GSL-1">wanted</t>
+                <t id="p11-s04-t07" type="GSL-1">to</t>
+                <t id="p11-s04-t08" type="Coxhead-AWL-3,AR-AWL-3a">fund</t>
+                <t id="p11-s04-t09" type="GSL-1">more</t>
+                <t id="p11-s04-t10" type="GSL-1">productive</t>
+                <t id="p11-s04-t11" type="Coxhead-AWL-4,AR-AWL-4b">projects</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p11-s05">
+                <t id="p11-s05-t01" type="Coxhead-AWL-3,AR-AWL-3a">Funding</t>
+                <t id="p11-s05-t02" type="GSL-1">for</t>
+                <t id="p11-s05-t03">AI</t>
+                <t id="p11-s05-t04" type="Coxhead-AWL-1,AR-AWL-1b">research</t>
+                <t id="p11-s05-t05" type="GSL-1">was</t>
+                <t id="p11-s05-t06" type="GSL-1">cut</t>
+                <punc>,</punc>
+                <t id="p11-s05-t07" type="GSL-1">starting</t>
+                <t id="p11-s05-t08" type="GSL-1">an</t>
+                <punc>“</punc>
+                <t id="p11-s05-t09">AI</t>
+                <t id="p11-s05-t10" type="GSL-1">winter</t>
+                <punc>”</punc>
+                <t id="p11-s05-t11" type="GSL-1">where</t>
+                <t id="p11-s05-t12" type="GSL-1">little</t>
+                <t id="p11-s05-t13" type="Coxhead-AWL-1,AR-AWL-1b">research</t>
+                <t id="p11-s05-t14" type="GSL-1">was</t>
+                <t id="p11-s05-t15" type="GSL-1">done</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p12">
+            <sentence par-function="topic|supporting|concluding" id="p12-s01">
+                <t id="p12-s01-t01">AI</t>
+                <t id="p12-s01-t02" type="Coxhead-AWL-1,AR-AWL-1b">research</t>
+                <t id="p12-s01-t03">revived</t>
+                <t id="p12-s01-t04" type="GSL-1">in</t>
+                <t id="p12-s01-t05" type="GSL-1">the</t>
+                <t id="p12-s01-t06">1980s</t>
+                <t id="p12-s01-t07" type="GSL-1">because</t>
+                <t id="p12-s01-t08" type="GSL-1">of</t>
+                <t id="p12-s01-t09" type="GSL-1">the</t>
+                <t id="p12-s01-t10" type="GSL-1">popularity</t>
+                <t id="p12-s01-t11" type="GSL-1">of</t>
+                <t id="p12-s01-t12" type="Coxhead-AWL-6,AR-AWL-6a">expert</t>
+                <t id="p12-s01-t13" type="GSL-1">systems</t>
+                <punc>,</punc>
+                <t id="p12-s01-t14" type="GSL-1">which</t>
+                <t id="p12-s01-t15" type="Coxhead-AWL-7,AR-AWL-7b">simulated</t>
+                <t id="p12-s01-t16" type="GSL-1">the</t>
+                <t id="p12-s01-t17" type="GSL-1">knowledge</t>
+                <t id="p12-s01-t18" type="GSL-1">of</t>
+                <t id="p12-s01-t19" type="GSL-1">a</t>
+                <t id="p12-s01-t20" type="GSL-1">human</t>
+                <t id="p12-s01-t21" type="Coxhead-AWL-6,AR-AWL-6a">expert</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p12-s02">
+                <t id="p12-s02-t01" type="GSL-1">By</t>
+                <t id="p12-s02-t02">1985</t>
+                <punc>,</punc>
+                <t id="p12-s02-t03">1</t>
+                <t id="p12-s02-t04" type="GSL-2">billion</t>
+                <t id="p12-s02-t05" type="GSL-1">dollars</t>
+                <t id="p12-s02-t06" type="GSL-1">were</t>
+                <t id="p12-s02-t07" type="GSL-1">spent</t>
+                <t id="p12-s02-t08" type="GSL-1">on</t>
+                <t id="p12-s02-t09">AI</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p12-s03">
+                <t id="p12-s03-t01" type="GSL-1">New</t>
+                <punc>,</punc>
+                <t id="p12-s03-t02" type="GSL-1">faster</t>
+                <t id="p12-s03-t03" type="Coxhead-AWL-2,AR-AWL-2a">computers</t>
+                <t id="p12-s03-t04" type="Coxhead-AWL-10,AR-AWL-10">convinced</t>
+                <t id="p12-s03-t05">U.S</t>
+                <t id="p12-s03-t06" type="GSL-1">and</t>
+                <t id="p12-s03-t07">British</t>
+                <t id="p12-s03-t08" type="GSL-2">governments</t>
+                <t id="p12-s03-t09" type="GSL-1">to</t>
+                <t id="p12-s03-t10" type="GSL-1">start</t>
+                <t id="p12-s03-t11" type="Coxhead-AWL-3,AR-AWL-3a">funding</t>
+                <t id="p12-s03-t12">AI</t>
+                <t id="p12-s03-t13" type="Coxhead-AWL-1,AR-AWL-1b">research</t>
+                <t id="p12-s03-t14" type="GSL-1">again</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p12-s04">
+                <connector id="p12-s04-c01" type="" info="">
+                    <t id="p12-s04-t01" type="GSL-1">However</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p12-s04-t02" type="GSL-1">the</t>
+                <t id="p12-s04-t03" type="GSL-1">market</t>
+                <t id="p12-s04-t04" type="GSL-1">for</t>
+                <t id="p12-s04-t05">Lisp</t>
+                <t id="p12-s04-t06" type="GSL-1">machines</t>
+                <t id="p12-s04-t07" type="Coxhead-AWL-10,AR-AWL-10">collapsed</t>
+                <t id="p12-s04-t08" type="GSL-1">in</t>
+                <t id="p12-s04-t09">1987</t>
+                <connector id="p12-s04-c02" type="" info="">
+                    <t id="p12-s04-t10" type="GSL-1">and</t>
+                </connector>
+                <t id="p12-s04-t11" type="Coxhead-AWL-3,AR-AWL-3a">funding</t>
+                <t id="p12-s04-t12" type="GSL-1">was</t>
+                <t id="p12-s04-t13" type="GSL-1">pulled</t>
+                <t id="p12-s04-t14" type="GSL-1">again</t>
+                <punc>,</punc>
+                <t id="p12-s04-t15" type="GSL-1">starting</t>
+                <t id="p12-s04-t16" type="GSL-1">an</t>
+                <t id="p12-s04-t17" type="GSL-1">even</t>
+                <t id="p12-s04-t18" type="GSL-1">longer</t>
+                <t id="p12-s04-t19">AI</t>
+                <t id="p12-s04-t20" type="GSL-1">winter</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p13">
+            <sentence par-function="topic|supporting|concluding" id="p13-s01">
+                <t id="p13-s01-t01">AI</t>
+                <t id="p13-s01-t02">revived</t>
+                <t id="p13-s01-t03" type="GSL-1">again</t>
+                <t id="p13-s01-t04" type="GSL-1">in</t>
+                <t id="p13-s01-t05" type="GSL-1">the</t>
+                <t id="p13-s01-t06">90s</t>
+                <t id="p13-s01-t07" type="GSL-1">and</t>
+                <t id="p13-s01-t08" type="GSL-1">early</t>
+                <t id="p13-s01-t09">2000s</t>
+                <t id="p13-s01-t10" type="GSL-1">with</t>
+                <anaphor id="p13-s01-a01" info="">
+                    <t id="p13-s01-t11" type="GSL-1">its</t>
+                </anaphor>
+                <t id="p13-s01-t12" type="GSL-1">use</t>
+                <t id="p13-s01-t13" type="GSL-1">in</t>
+                <t id="p13-s01-t14" type="Coxhead-AWL-1,AR-AWL-1a">data</t>
+                <t id="p13-s01-t15" type="GSL-1">mining</t>
+                <t id="p13-s01-t16" type="GSL-1">and</t>
+                <t id="p13-s01-t17" type="Coxhead-AWL-5,AR-AWL-5b">medical</t>
+                <t id="p13-s01-t18">diagnosis</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p13-s02">
+                <anaphor id="p13-s02-a01" info="">
+                    <t id="p13-s02-t01" type="GSL-1">This</t>
+                </anaphor>
+                <t id="p13-s02-t02" type="GSL-1">was</t>
+                <t id="p13-s02-t03" type="GSL-1">possible</t>
+                <t id="p13-s02-t04" type="GSL-1">because</t>
+                <t id="p13-s02-t05" type="GSL-1">of</t>
+                <t id="p13-s02-t06" type="GSL-1">faster</t>
+                <t id="p13-s02-t07" type="Coxhead-AWL-2,AR-AWL-2a">computers</t>
+                <t id="p13-s02-t08" type="GSL-1">and</t>
+                <t id="p13-s02-t09" type="Coxhead-AWL-2,AR-AWL-2a">focusing</t>
+                <t id="p13-s02-t10" type="GSL-1">on</t>
+                <t id="p13-s02-t11" type="GSL-2">solving</t>
+                <t id="p13-s02-t12" type="GSL-1">more</t>
+                <t id="p13-s02-t13" type="Coxhead-AWL-1,AR-AWL-1b">specific</t>
+                <t id="p13-s02-t14" type="GSL-1">problems</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p13-s03">
+                <t id="p13-s03-t01" type="GSL-1">In</t>
+                <t id="p13-s03-t02">1997</t>
+                <punc>,</punc>
+                <t id="p13-s03-t03" type="GSL-1">Deep</t>
+                <t id="p13-s03-t04" type="GSL-1">Blue</t>
+                <t id="p13-s03-t05" type="GSL-1">became</t>
+                <t id="p13-s03-t06" type="GSL-1">the</t>
+                <t id="p13-s03-t07" type="GSL-1">first</t>
+                <t id="p13-s03-t08" type="Coxhead-AWL-2,AR-AWL-2a">computer</t>
+                <t id="p13-s03-t09" type="GSL-2">program</t>
+                <t id="p13-s03-t10" type="GSL-1">to</t>
+                <t id="p13-s03-t11" type="GSL-2">beat</t>
+                <t id="p13-s03-t12">chess</t>
+                <t id="p13-s03-t13" type="GSL-1">world</t>
+                <t id="p13-s03-t14">champion</t>
+                <t id="p13-s03-t15">Garry</t>
+                <t id="p13-s03-t16">Kasparov</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p13-s04">
+                <t id="p13-s04-t01" type="GSL-1">Faster</t>
+                <t id="p13-s04-t02" type="Coxhead-AWL-2,AR-AWL-2a">computers</t>
+                <punc>,</punc>
+                <t id="p13-s04-t03" type="GSL-1">advances</t>
+                <t id="p13-s04-t04" type="GSL-1">in</t>
+                <t id="p13-s04-t05" type="GSL-1">deep</t>
+                <t id="p13-s04-t06" type="GSL-1">learning</t>
+                <punc>,</punc>
+                <t id="p13-s04-t07" type="GSL-1">and</t>
+                <t id="p13-s04-t08" type="Coxhead-AWL-4,AR-AWL-4a">access</t>
+                <t id="p13-s04-t09" type="GSL-1">to</t>
+                <t id="p13-s04-t10" type="GSL-1">more</t>
+                <t id="p13-s04-t11" type="Coxhead-AWL-1,AR-AWL-1a">data</t>
+                <t id="p13-s04-t12" type="GSL-1">have</t>
+                <t id="p13-s04-t13" type="GSL-1">made</t>
+                <t id="p13-s04-t14">AI</t>
+                <t id="p13-s04-t15" type="GSL-1">popular</t>
+                <t id="p13-s04-t16" type="GSL-1">throughout</t>
+                <t id="p13-s04-t17" type="GSL-1">the</t>
+                <t id="p13-s04-t18" type="GSL-1">world</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p13-s05">
+                <t id="p13-s05-t01" type="GSL-1">In</t>
+                <t id="p13-s05-t02">2011</t>
+                <t id="p13-s05-t03">IBM</t>
+                <t id="p13-s05-t04">Watson</t>
+                <t id="p13-s05-t05" type="GSL-2">beat</t>
+                <t id="p13-s05-t06" type="GSL-1">the</t>
+                <t id="p13-s05-t07" type="GSL-1">top</t>
+                <t id="p13-s05-t08" type="GSL-1">two</t>
+                <t id="p13-s05-t09">Jeopardy!</t>
+                <t id="p13-s05-t10" type="GSL-1">players</t>
+                <t id="p13-s05-t11">Brad</t>
+                <t id="p13-s05-t12">Rutter</t>
+                <t id="p13-s05-t13" type="GSL-1">and</t>
+                <t id="p13-s05-t14">Ken</t>
+                <t id="p13-s05-t15">Jennings</t>
+                <punc>,</punc>
+                <t id="p13-s05-t16" type="GSL-1">and</t>
+                <t id="p13-s05-t17" type="GSL-1">in</t>
+                <t id="p13-s05-t18">2016</t>
+                <t id="p13-s05-t19">Google's</t>
+                <t id="p13-s05-t20">AlphaGo</t>
+                <t id="p13-s05-t21" type="GSL-2">beat</t>
+                <t id="p13-s05-t22" type="GSL-1">top</t>
+                <t id="p13-s05-t23" type="GSL-1">Go</t>
+                <t id="p13-s05-t24" type="GSL-1">player</t>
+                <t id="p13-s05-t25">Lee</t>
+                <t id="p13-s05-t26">Sedol</t>
+                <t id="p13-s05-t27">4</t>
+                <t id="p13-s05-t28" type="GSL-1">out</t>
+                <t id="p13-s05-t29" type="GSL-1">of</t>
+                <t id="p13-s05-t30">5</t>
+                <t id="p13-s05-t31" type="GSL-1">times</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
