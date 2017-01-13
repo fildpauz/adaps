@@ -8,8 +8,11 @@ and open the template in the editor.
 
 <files>
     <file name="accuracy-precision" path="../pipeline/5-detail-and-finish/in/accuracy-precision.xml"/>
+    <!--<file name="algebraic-formulas" path="../pipeline/5-detail-and-finish/in/algebraic-formulas.xml"/>-->
     <file name="algorithm" path="../pipeline/5-detail-and-finish/in/algorithm.xml"/>
+    <!--<file name="algorithm-for-autism" path="../pipeline/5-detail-and-finish/in/algorithm-for-autism.xml"/>-->
     <file name="antihistamines" path="../pipeline/5-detail-and-finish/in/algorithm.xml"/>
+    <!--<file name="artificial-intelligence" path="../pipeline/5-detail-and-finish/in/artificial-intelligence.xml"/>-->
     <file name="body-shape-index" path="../pipeline/5-detail-and-finish/in/body-shape-index.xml"/>
     <file name="cause-and-effect-connectors-1" path="../pipeline/5-detail-and-finish/in/cause-and-effect-connectors-1.xml"/>
     <file name="cause-and-effect-connectors-2" path="../pipeline/5-detail-and-finish/in/cause-and-effect-connectors-2.xml"/>
@@ -31,6 +34,7 @@ and open the template in the editor.
     <file name="facebook1" path="../pipeline/5-detail-and-finish/in/facebook1.xml"/>
     <file name="facebook2" path="../pipeline/5-detail-and-finish/in/facebook2.xml"/>
     <file name="fashion" path="../pipeline/5-detail-and-finish/in/fashion.xml"/>
+    <!--<file name="gravity" path="../pipeline/5-detail-and-finish/in/gravity.xml"/>-->
     <file name="han-merchants" path="../pipeline/5-detail-and-finish/in/han-merchants.xml"/>
     <file name="hawaiian-crows" path="../pipeline/5-detail-and-finish/in/hawaiian-crows.xml"/>
     <file name="information-systems" path="../pipeline/5-detail-and-finish/in/information-systems.xml"/>
@@ -40,23 +44,24 @@ and open the template in the editor.
     <file name="language-learning-obj" path="../pipeline/5-detail-and-finish/in/language-learning-obj.xml"/>
     <file name="language-learning-subj" path="../pipeline/5-detail-and-finish/in/language-learning-subj.xml"/>
     <file name="maria-mitchell" path="../pipeline/5-detail-and-finish/in/maria-mitchell.xml"/>
+    <!--<file name="math-anxiety" path="../pipeline/5-detail-and-finish/in/math-anxiety.xml"/>-->
     <file name="origami-robot" path="../pipeline/5-detail-and-finish/in/origami-robot.xml"/>
     <file name="other-connectors-1" path="../pipeline/5-detail-and-finish/in/other-connectors-1.xml"/>
     <file name="other-connectors-2" path="../pipeline/5-detail-and-finish/in/other-connectors-2.xml"/>
     <file name="other-connectors-3" path="../pipeline/5-detail-and-finish/in/other-connectors-3.xml"/>
     <file name="other-connectors-4" path="../pipeline/5-detail-and-finish/in/other-connectors-4.xml"/>
     <file name="other-connectors-5" path="../pipeline/5-detail-and-finish/in/other-connectors-5.xml"/>
-<!--    <file name="paragraphs-1" path="../pipeline/5-detail-and-finish/in/paragraphs-1.xml"/>
+    <file name="paragraphs-1" path="../pipeline/5-detail-and-finish/in/paragraphs-1.xml"/>
     <file name="paragraphs-2" path="../pipeline/5-detail-and-finish/in/paragraphs-2.xml"/>
     <file name="paragraphs-3" path="../pipeline/5-detail-and-finish/in/paragraphs-3.xml"/>
     <file name="paragraphs-4" path="../pipeline/5-detail-and-finish/in/paragraphs-4.xml"/>
     <file name="paragraphs-5" path="../pipeline/5-detail-and-finish/in/paragraphs-5.xml"/>
-    <file name="paragraphs-6" path="../pipeline/5-detail-and-finish/in/paragraphs-6.xml"/>-->
+    <file name="paragraphs-6" path="../pipeline/5-detail-and-finish/in/paragraphs-6.xml"/>
     <file name="parts-of-speech" path="../pipeline/5-detail-and-finish/in/parts-of-speech.xml"/>
     <file name="population-growth" path="../pipeline/5-detail-and-finish/in/population-growth.xml"/>
     <file name="pseudoscience" path="../pipeline/5-detail-and-finish/in/pseudoscience.xml"/>
     <file name="reaction-statements" path="../pipeline/5-detail-and-finish/in/reaction-statements.xml"/>
-<!--    <file name="resemblance-connectors-1" path="../pipeline/5-detail-and-finish/in/resemblance-connectors-1.xml"/>
+    <file name="resemblance-connectors-1" path="../pipeline/5-detail-and-finish/in/resemblance-connectors-1.xml"/>
     <file name="resemblance-connectors-2" path="../pipeline/5-detail-and-finish/in/resemblance-connectors-2.xml"/>
     <file name="resemblance-connectors-3" path="../pipeline/5-detail-and-finish/in/resemblance-connectors-3.xml"/>
     <file name="resemblance-connectors-4" path="../pipeline/5-detail-and-finish/in/resemblance-connectors-4.xml"/>
@@ -64,11 +69,14 @@ and open the template in the editor.
     <file name="resemblance-connectors-6" path="../pipeline/5-detail-and-finish/in/resemblance-connectors-6.xml"/>
     <file name="resemblance-connectors-7" path="../pipeline/5-detail-and-finish/in/resemblance-connectors-7.xml"/>
     <file name="resemblance-connectors-8" path="../pipeline/5-detail-and-finish/in/resemblance-connectors-8.xml"/>
-    <file name="resemblance-connectors-9" path="../pipeline/5-detail-and-finish/in/resemblance-connectors-9.xml"/>-->
+    <file name="resemblance-connectors-9" path="../pipeline/5-detail-and-finish/in/resemblance-connectors-9.xml"/>
     <file name="robot-feedback" path="../pipeline/5-detail-and-finish/in/robot-feedback.xml"/>
+    <!--<file name="scicomm-and-empathy" path="../pipeline/5-detail-and-finish/in/scicomm-and-empathy.xml"/>-->
+    <!--<file name="scientific-literacy" path="../pipeline/5-detail-and-finish/in/scientific-literacy.xml"/>-->
     <file name="scope-of-biology" path="../pipeline/5-detail-and-finish/in/scope-of-biology.xml"/>
     <file name="size-mass-illusion" path="../pipeline/5-detail-and-finish/in/size-mass-illusion.xml"/>
     <file name="texting-and-walking" path="../pipeline/5-detail-and-finish/in/texting-and-walking.xml"/>
     <file name="water-filters" path="../pipeline/5-detail-and-finish/in/water-filters.xml"/>
+    <!--<file name="what-is-psychology" path="../pipeline/5-detail-and-finish/in/what-is-psychology.xml"/>-->
     <file name="wind-energy" path="../pipeline/5-detail-and-finish/in/wind-energy.xml"/>
 </files>
