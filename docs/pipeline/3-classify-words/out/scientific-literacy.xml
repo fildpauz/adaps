@@ -109,40 +109,38 @@
                 <t id="p01-s04-t12">literacy</t>
                 <t id="p01-s04-t13" type="GSL-1">has</t>
                 <punc>“</punc>
-                <emph>
-                    <t id="p01-s01-t01" type="GSL-1">become</t>
-                    <t id="p01-s01-t02" type="GSL-1">an</t>
-                    <t id="p01-s01-t03" type="GSL-2">umbrella</t>
-                    <t id="p01-s01-t04" type="Coxhead-AWL-1,AR-AWL-1a">concept</t>
-                    <t id="p01-s01-t05" type="GSL-1">with</t>
-                    <t id="p01-s01-t06" type="GSL-1">a</t>
-                    <t id="p01-s01-t07" type="Coxhead-AWL-3,AR-AWL-3b">sufficiently</t>
-                    <t id="p01-s01-t08" type="GSL-1">broad</t>
-                    <punc>,</punc>
-                    <t id="p01-s01-t09" type="GSL-2">composite</t>
-                    <t id="p01-s01-t10" type="GSL-1">meaning</t>
-                    <t id="p01-s01-t11" type="GSL-1">that</t>
-                    <t id="p01-s01-t12" type="GSL-1">it</t>
-                    <t id="p01-s01-t13" type="GSL-1">meant</t>
-                    <t id="p01-s01-t14" type="GSL-1">both</t>
-                    <t id="p01-s01-t15" type="GSL-1">everything</t>
-                    <punc>,</punc>
-                    <t id="p01-s01-t16" type="GSL-1">and</t>
-                    <t id="p01-s01-t17" type="GSL-1">nothing</t>
-                    <t id="p01-s01-t18" type="Coxhead-AWL-1,AR-AWL-1b">specific</t>
-                    <punc>,</punc>
-                    <t id="p01-s01-t19" type="GSL-1">about</t>
-                    <t id="p01-s01-t20" type="GSL-1">science</t>
-                    <t id="p01-s01-t21" type="GSL-2">education</t>
-                    <t id="p01-s01-t22" type="GSL-1">and</t>
-                    <t id="p01-s01-t23" type="GSL-1">the</t>
-                    <t id="p01-s01-t24">competency</t>
-                    <t id="p01-s01-t25" type="GSL-1">it</t>
-                    <t id="p01-s01-t26" type="Coxhead-AWL-2,AR-AWL-2b">sought</t>
-                    <t id="p01-s01-t27" type="GSL-1">to</t>
-                    <t id="p01-s01-t28" type="GSL-1">describe</t>
-                    <punc>.</punc>
-                </emph>
+                <t id="p01-s04-t14" type="GSL-1">become</t>
+                <t id="p01-s04-t15" type="GSL-1">an</t>
+                <t id="p01-s04-t16" type="GSL-2">umbrella</t>
+                <t id="p01-s04-t17" type="Coxhead-AWL-1,AR-AWL-1a">concept</t>
+                <t id="p01-s04-t18" type="GSL-1">with</t>
+                <t id="p01-s04-t19" type="GSL-1">a</t>
+                <t id="p01-s04-t20" type="Coxhead-AWL-3,AR-AWL-3b">sufficiently</t>
+                <t id="p01-s04-t21" type="GSL-1">broad</t>
+                <punc>,</punc>
+                <t id="p01-s04-t22" type="GSL-2">composite</t>
+                <t id="p01-s04-t23" type="GSL-1">meaning</t>
+                <t id="p01-s04-t24" type="GSL-1">that</t>
+                <t id="p01-s04-t25" type="GSL-1">it</t>
+                <t id="p01-s04-t26" type="GSL-1">meant</t>
+                <t id="p01-s04-t27" type="GSL-1">both</t>
+                <t id="p01-s04-t28" type="GSL-1">everything</t>
+                <punc>,</punc>
+                <t id="p01-s04-t29" type="GSL-1">and</t>
+                <t id="p01-s04-t30" type="GSL-1">nothing</t>
+                <t id="p01-s04-t31" type="Coxhead-AWL-1,AR-AWL-1b">specific</t>
+                <punc>,</punc>
+                <t id="p01-s04-t32" type="GSL-1">about</t>
+                <t id="p01-s04-t33" type="GSL-1">science</t>
+                <t id="p01-s04-t34" type="GSL-2">education</t>
+                <t id="p01-s04-t35" type="GSL-1">and</t>
+                <t id="p01-s04-t36" type="GSL-1">the</t>
+                <t id="p01-s04-t37">competency</t>
+                <t id="p01-s04-t38" type="GSL-1">it</t>
+                <t id="p01-s04-t39" type="Coxhead-AWL-2,AR-AWL-2b">sought</t>
+                <t id="p01-s04-t40" type="GSL-1">to</t>
+                <t id="p01-s04-t41" type="GSL-1">describe</t>
+                <punc>.</punc>
                 <punc>”</punc>
             </sentence>
             <sentence id="p01-s05">
@@ -158,40 +156,38 @@
                 <t id="p01-s05-t08" type="GSL-1">is</t>
                 <t id="p01-s05-t09" type="GSL-1">that</t>
                 <punc>“</punc>
-                <emph>
-                    <t id="p01-s01-t01" type="GSL-1">In</t>
-                    <t id="p01-s01-t02" type="GSL-1">the</t>
-                    <t id="p01-s01-t03" type="GSL-1">field</t>
-                    <t id="p01-s01-t04" type="GSL-1">of</t>
-                    <t id="p01-s01-t05" type="GSL-2">education</t>
-                    <punc>,</punc>
-                    <t id="p01-s01-t06" type="GSL-1">at</t>
-                    <t id="p01-s01-t07" type="GSL-1">least</t>
-                    <punc>,</punc>
-                    <t id="p01-s01-t08" type="GSL-1">the</t>
-                    <t id="p01-s01-t09" type="GSL-1">lack</t>
-                    <t id="p01-s01-t10" type="GSL-1">of</t>
-                    <t id="p01-s01-t11" type="Coxhead-AWL-3,AR-AWL-3a">consensus</t>
-                    <t id="p01-s01-t12" type="GSL-1">surrounding</t>
-                    <t id="p01-s01-t13" type="GSL-1">science</t>
-                    <t id="p01-s01-t14">literacy</t>
-                    <t id="p01-s01-t15" type="GSL-1">has</t>
-                    <t id="p01-s01-t16" type="GSL-1">not</t>
-                    <t id="p01-s01-t17" type="GSL-1">stopped</t>
-                    <t id="p01-s01-t18" type="GSL-1">it</t>
-                    <t id="p01-s01-t19" type="GSL-1">from</t>
-                    <t id="p01-s01-t20" type="Coxhead-AWL-4,AR-AWL-4b">occupying</t>
-                    <t id="p01-s01-t21" type="GSL-1">a</t>
-                    <t id="p01-s01-t22">prominent</t>
-                    <t id="p01-s01-t23" type="GSL-1">place</t>
-                    <t id="p01-s01-t24" type="GSL-1">in</t>
-                    <t id="p01-s01-t25" type="Coxhead-AWL-1,AR-AWL-1b">policy</t>
-                    <t id="p01-s01-t26">discourse</t>
-                </emph>
+                <t id="p01-s05-t10" type="GSL-1">In</t>
+                <t id="p01-s05-t11" type="GSL-1">the</t>
+                <t id="p01-s05-t12" type="GSL-1">field</t>
+                <t id="p01-s05-t13" type="GSL-1">of</t>
+                <t id="p01-s05-t14" type="GSL-2">education</t>
+                <punc>,</punc>
+                <t id="p01-s05-t15" type="GSL-1">at</t>
+                <t id="p01-s05-t16" type="GSL-1">least</t>
+                <punc>,</punc>
+                <t id="p01-s05-t17" type="GSL-1">the</t>
+                <t id="p01-s05-t18" type="GSL-1">lack</t>
+                <t id="p01-s05-t19" type="GSL-1">of</t>
+                <t id="p01-s05-t20" type="Coxhead-AWL-3,AR-AWL-3a">consensus</t>
+                <t id="p01-s05-t21" type="GSL-1">surrounding</t>
+                <t id="p01-s05-t22" type="GSL-1">science</t>
+                <t id="p01-s05-t23">literacy</t>
+                <t id="p01-s05-t24" type="GSL-1">has</t>
+                <t id="p01-s05-t25" type="GSL-1">not</t>
+                <t id="p01-s05-t26" type="GSL-1">stopped</t>
+                <t id="p01-s05-t27" type="GSL-1">it</t>
+                <t id="p01-s05-t28" type="GSL-1">from</t>
+                <t id="p01-s05-t29" type="Coxhead-AWL-4,AR-AWL-4b">occupying</t>
+                <t id="p01-s05-t30" type="GSL-1">a</t>
+                <t id="p01-s05-t31">prominent</t>
+                <t id="p01-s05-t32" type="GSL-1">place</t>
+                <t id="p01-s05-t33" type="GSL-1">in</t>
+                <t id="p01-s05-t34" type="Coxhead-AWL-1,AR-AWL-1b">policy</t>
+                <t id="p01-s05-t35">discourse</t>
                 <punc>”</punc>
                 <punc>(</punc>
-                <t id="p01-s05-t10">p.</t>
-                <t id="p01-s05-t11">2.6</t>
+                <t id="p01-s05-t36">p.</t>
+                <t id="p01-s05-t37">2.6</t>
                 <punc>)</punc>
                 <punc>.</punc>
             </sentence>
@@ -200,64 +196,62 @@
                 <t id="p01-s06-t02" type="Coxhead-AWL-2,AR-AWL-2a">finally</t>
                 <punc>,</punc>
                 <punc>“</punc>
-                <emph>
-                    <t id="p01-s01-t01" type="GSL-1">the</t>
-                    <t id="p01-s01-t02" type="Coxhead-AWL-1,AR-AWL-1a">data</t>
-                    <t id="p01-s01-t03" type="GSL-1">suggested</t>
-                    <t id="p01-s01-t04" type="GSL-1">almost</t>
-                    <t id="p01-s01-t05" type="GSL-1">no</t>
-                    <t id="p01-s01-t06" type="GSL-1">relationship</t>
-                    <t id="p01-s01-t07" type="GSL-1">between</t>
-                    <t id="p01-s01-t08" type="GSL-1">general</t>
-                    <t id="p01-s01-t09" type="GSL-1">science</t>
-                    <t id="p01-s01-t10" type="GSL-1">knowledge</t>
-                    <t id="p01-s01-t11" type="GSL-1">and</t>
-                    <t id="p01-s01-t12" type="Coxhead-AWL-4,AR-AWL-4a">attitudes</t>
-                    <t id="p01-s01-t13" type="GSL-1">about</t>
-                    <t id="p01-s01-t14">genetically</t>
-                    <t id="p01-s01-t15" type="Coxhead-AWL-5,AR-AWL-5b">modified</t>
-                    <t id="p01-s01-t16" type="GSL-1">food</t>
-                    <punc>,</punc>
-                    <t id="p01-s01-t17" type="GSL-1">a</t>
-                    <t id="p01-s01-t18" type="Coxhead-AWL-2,AR-AWL-2b">potentially</t>
-                    <t id="p01-s01-t19" type="Coxhead-AWL-3,AR-AWL-3b">negative</t>
-                    <t id="p01-s01-t20" type="GSL-1">relationship</t>
-                    <t id="p01-s01-t21" type="GSL-1">between</t>
-                    <t id="p01-s01-t22">biology</t>
-                    <punc>-</punc>
-                    <t id="p01-s01-t23" type="Coxhead-AWL-1,AR-AWL-1b">specific</t>
-                    <t id="p01-s01-t24" type="GSL-1">knowledge</t>
-                    <t id="p01-s01-t25" type="GSL-1">and</t>
-                    <t id="p01-s01-t26" type="Coxhead-AWL-4,AR-AWL-4a">attitudes</t>
-                    <t id="p01-s01-t27" type="GSL-1">about</t>
-                    <t id="p01-s01-t28">genetically</t>
-                    <t id="p01-s01-t29" type="Coxhead-AWL-5,AR-AWL-5b">modified</t>
-                    <t id="p01-s01-t30" type="GSL-1">food</t>
-                    <punc>,</punc>
-                    <t id="p01-s01-t31" type="GSL-1">and</t>
-                    <t id="p01-s01-t32" type="GSL-1">a</t>
-                    <t id="p01-s01-t33" type="GSL-1">small</t>
-                    <punc>,</punc>
-                    <t id="p01-s01-t34" type="GSL-1">but</t>
-                    <t id="p01-s01-t35" type="Coxhead-AWL-3,AR-AWL-3b">negative</t>
-                    <t id="p01-s01-t36" type="GSL-1">relationship</t>
-                    <t id="p01-s01-t37" type="GSL-1">between</t>
-                    <t id="p01-s01-t38" type="GSL-1">that</t>
-                    <t id="p01-s01-t39" type="GSL-1">same</t>
-                    <t id="p01-s01-t40" type="GSL-1">general</t>
-                    <t id="p01-s01-t41" type="GSL-1">science</t>
-                    <t id="p01-s01-t42" type="GSL-1">knowledge</t>
-                    <t id="p01-s01-t43" type="GSL-1">measure</t>
-                    <t id="p01-s01-t44" type="GSL-1">and</t>
-                    <t id="p01-s01-t45" type="Coxhead-AWL-4,AR-AWL-4a">attitudes</t>
-                    <t id="p01-s01-t46" type="GSL-1">toward</t>
-                    <t id="p01-s01-t47" type="Coxhead-AWL-1,AR-AWL-1a">environmental</t>
-                    <t id="p01-s01-t48" type="GSL-1">science</t>
-                </emph>
+                <t id="p01-s06-t03" type="GSL-1">the</t>
+                <t id="p01-s06-t04" type="Coxhead-AWL-1,AR-AWL-1a">data</t>
+                <t id="p01-s06-t05" type="GSL-1">suggested</t>
+                <t id="p01-s06-t06" type="GSL-1">almost</t>
+                <t id="p01-s06-t07" type="GSL-1">no</t>
+                <t id="p01-s06-t08" type="GSL-1">relationship</t>
+                <t id="p01-s06-t09" type="GSL-1">between</t>
+                <t id="p01-s06-t10" type="GSL-1">general</t>
+                <t id="p01-s06-t11" type="GSL-1">science</t>
+                <t id="p01-s06-t12" type="GSL-1">knowledge</t>
+                <t id="p01-s06-t13" type="GSL-1">and</t>
+                <t id="p01-s06-t14" type="Coxhead-AWL-4,AR-AWL-4a">attitudes</t>
+                <t id="p01-s06-t15" type="GSL-1">about</t>
+                <t id="p01-s06-t16">genetically</t>
+                <t id="p01-s06-t17" type="Coxhead-AWL-5,AR-AWL-5b">modified</t>
+                <t id="p01-s06-t18" type="GSL-1">food</t>
+                <punc>,</punc>
+                <t id="p01-s06-t19" type="GSL-1">a</t>
+                <t id="p01-s06-t20" type="Coxhead-AWL-2,AR-AWL-2b">potentially</t>
+                <t id="p01-s06-t21" type="Coxhead-AWL-3,AR-AWL-3b">negative</t>
+                <t id="p01-s06-t22" type="GSL-1">relationship</t>
+                <t id="p01-s06-t23" type="GSL-1">between</t>
+                <t id="p01-s06-t24">biology</t>
+                <punc>-</punc>
+                <t id="p01-s06-t25" type="Coxhead-AWL-1,AR-AWL-1b">specific</t>
+                <t id="p01-s06-t26" type="GSL-1">knowledge</t>
+                <t id="p01-s06-t27" type="GSL-1">and</t>
+                <t id="p01-s06-t28" type="Coxhead-AWL-4,AR-AWL-4a">attitudes</t>
+                <t id="p01-s06-t29" type="GSL-1">about</t>
+                <t id="p01-s06-t30">genetically</t>
+                <t id="p01-s06-t31" type="Coxhead-AWL-5,AR-AWL-5b">modified</t>
+                <t id="p01-s06-t32" type="GSL-1">food</t>
+                <punc>,</punc>
+                <t id="p01-s06-t33" type="GSL-1">and</t>
+                <t id="p01-s06-t34" type="GSL-1">a</t>
+                <t id="p01-s06-t35" type="GSL-1">small</t>
+                <punc>,</punc>
+                <t id="p01-s06-t36" type="GSL-1">but</t>
+                <t id="p01-s06-t37" type="Coxhead-AWL-3,AR-AWL-3b">negative</t>
+                <t id="p01-s06-t38" type="GSL-1">relationship</t>
+                <t id="p01-s06-t39" type="GSL-1">between</t>
+                <t id="p01-s06-t40" type="GSL-1">that</t>
+                <t id="p01-s06-t41" type="GSL-1">same</t>
+                <t id="p01-s06-t42" type="GSL-1">general</t>
+                <t id="p01-s06-t43" type="GSL-1">science</t>
+                <t id="p01-s06-t44" type="GSL-1">knowledge</t>
+                <t id="p01-s06-t45" type="GSL-1">measure</t>
+                <t id="p01-s06-t46" type="GSL-1">and</t>
+                <t id="p01-s06-t47" type="Coxhead-AWL-4,AR-AWL-4a">attitudes</t>
+                <t id="p01-s06-t48" type="GSL-1">toward</t>
+                <t id="p01-s06-t49" type="Coxhead-AWL-1,AR-AWL-1a">environmental</t>
+                <t id="p01-s06-t50" type="GSL-1">science</t>
                 <punc>”</punc>
                 <punc>(</punc>
-                <t id="p01-s06-t03">p.</t>
-                <t id="p01-s06-t04">5.4</t>
+                <t id="p01-s06-t51">p.</t>
+                <t id="p01-s06-t52">5.4</t>
                 <punc>)</punc>
                 <punc>.</punc>
             </sentence>
@@ -1296,123 +1290,119 @@
         </paragraph>
         <paragraph id="p10">
             <sentence id="p10-s01">
-                <emph>
-                    <t id="p10-s01-t01" type="GSL-1">A</t>
-                    <t id="p10-s01-t02" type="GSL-1">common</t>
-                    <t id="p10-s01-t03" type="GSL-1">example</t>
-                    <punc>[</punc>
-                    <t id="p10-s01-t04" type="GSL-1">of</t>
-                    <t id="p10-s01-t05" type="GSL-1">scientific</t>
-                    <t id="p10-s01-t06">illiteracy</t>
-                    <t id="p10-s01-t07">practiced</t>
-                    <t id="p10-s01-t08" type="GSL-1">by</t>
-                    <t id="p10-s01-t09" type="GSL-1">scientists</t>
-                    <t id="p10-s01-t10" type="GSL-1">and</t>
-                    <t id="p10-s01-t11" type="GSL-1">science</t>
-                    <t id="p10-s01-t12">communicators</t>
-                    <punc>]</punc>
-                    <t id="p10-s01-t13" type="GSL-1">is</t>
-                    <t id="p10-s01-t14" type="GSL-1">provided</t>
-                    <t id="p10-s01-t15" type="GSL-1">by</t>
-                    <t id="p10-s01-t16" type="GSL-1">studies</t>
-                    <t id="p10-s01-t17" type="GSL-1">of</t>
-                    <t id="p10-s01-t18" type="GSL-1">human</t>
-                    <t id="p10-s01-t19" type="GSL-2">disease</t>
-                    <t id="p10-s01-t20" type="GSL-1">in</t>
-                    <punc>“</punc>
-                    <t id="p10-s01-t21" type="GSL-2">model</t>
-                    <punc>”</punc>
-                    <t id="p10-s01-t22">organisms</t>
-                    <punc>,</punc>
-                    <t id="p10-s01-t23" type="Coxhead-AWL-2,AR-AWL-2b">ranging</t>
-                    <t id="p10-s01-t24" type="GSL-1">from</t>
-                    <t id="p10-s01-t25">yeasts</t>
-                    <t id="p10-s01-t26" type="GSL-1">to</t>
-                    <t id="p10-s01-t27">non</t>
-                    <punc>-</punc>
-                    <t id="p10-s01-t28" type="GSL-1">human</t>
-                    <t id="p10-s01-t29">primates</t>
-                    <punc>.</punc>
-                </emph>
+                <t id="p10-s01-t01" type="GSL-1">A</t>
+                <t id="p10-s01-t02" type="GSL-1">common</t>
+                <t id="p10-s01-t03" type="GSL-1">example</t>
+                <punc>[</punc>
+                <t id="p10-s01-t04" type="GSL-1">of</t>
+                <t id="p10-s01-t05" type="GSL-1">scientific</t>
+                <t id="p10-s01-t06">illiteracy</t>
+                <t id="p10-s01-t07">practiced</t>
+                <t id="p10-s01-t08" type="GSL-1">by</t>
+                <t id="p10-s01-t09" type="GSL-1">scientists</t>
+                <t id="p10-s01-t10" type="GSL-1">and</t>
+                <t id="p10-s01-t11" type="GSL-1">science</t>
+                <t id="p10-s01-t12">communicators</t>
+                <punc>]</punc>
+                <t id="p10-s01-t13" type="GSL-1">is</t>
+                <t id="p10-s01-t14" type="GSL-1">provided</t>
+                <t id="p10-s01-t15" type="GSL-1">by</t>
+                <t id="p10-s01-t16" type="GSL-1">studies</t>
+                <t id="p10-s01-t17" type="GSL-1">of</t>
+                <t id="p10-s01-t18" type="GSL-1">human</t>
+                <t id="p10-s01-t19" type="GSL-2">disease</t>
+                <t id="p10-s01-t20" type="GSL-1">in</t>
+                <punc>“</punc>
+                <t id="p10-s01-t21" type="GSL-2">model</t>
+                <punc>”</punc>
+                <t id="p10-s01-t22">organisms</t>
+                <punc>,</punc>
+                <t id="p10-s01-t23" type="Coxhead-AWL-2,AR-AWL-2b">ranging</t>
+                <t id="p10-s01-t24" type="GSL-1">from</t>
+                <t id="p10-s01-t25">yeasts</t>
+                <t id="p10-s01-t26" type="GSL-1">to</t>
+                <t id="p10-s01-t27">non</t>
+                <punc>-</punc>
+                <t id="p10-s01-t28" type="GSL-1">human</t>
+                <t id="p10-s01-t29">primates</t>
+                <punc>.</punc>
             </sentence>
             <sentence id="p10-s02">
-                <emph>
-                    <t id="p10-s01-t01" type="GSL-1">While</t>
-                    <t id="p10-s01-t02" type="GSL-1">there</t>
-                    <t id="p10-s01-t03" type="GSL-1">is</t>
-                    <t id="p10-s01-t04" type="GSL-1">no</t>
-                    <t id="p10-s01-t05" type="GSL-1">doubt</t>
-                    <t id="p10-s01-t06" type="GSL-1">that</t>
-                    <t id="p10-s01-t07" type="GSL-1">such</t>
-                    <t id="p10-s01-t08" type="GSL-1">studies</t>
-                    <t id="p10-s01-t09" type="GSL-1">have</t>
-                    <t id="p10-s01-t10" type="GSL-1">been</t>
-                    <punc>,</punc>
-                    <t id="p10-s01-t11" type="GSL-1">and</t>
-                    <t id="p10-s01-t12" type="GSL-1">continue</t>
-                    <t id="p10-s01-t13" type="GSL-1">to</t>
-                    <t id="p10-s01-t14" type="GSL-1">be</t>
-                    <t id="p10-s01-t15" type="GSL-2">critical</t>
-                    <t id="p10-s01-t16" type="GSL-1">to</t>
-                    <t id="p10-s01-t17" type="GSL-1">understanding</t>
-                    <t id="p10-s01-t18" type="GSL-1">how</t>
-                    <t id="p10-s01-t19">organisms</t>
-                    <t id="p10-s01-t20" type="GSL-1">work</t>
-                    <punc>(</punc>
-                    <t id="p10-s01-t21" type="GSL-1">and</t>
-                    <t id="p10-s01-t22" type="GSL-1">certainly</t>
-                    <t id="p10-s01-t23" type="GSL-2">deserving</t>
-                    <t id="p10-s01-t24" type="GSL-1">of</t>
-                    <t id="p10-s01-t25" type="GSL-1">public</t>
-                    <t id="p10-s01-t26" type="GSL-1">and</t>
-                    <t id="p10-s01-t27" type="GSL-1">private</t>
-                    <t id="p10-s01-t28" type="GSL-1">support</t>
-                    <punc>)</punc>
-                    <t id="p10-s01-t29">–</t>
-                    <t id="p10-s01-t30" type="GSL-1">their</t>
-                    <t id="p10-s01-t31" type="GSL-1">limitations</t>
-                    <t id="p10-s01-t32" type="GSL-1">need</t>
-                    <t id="p10-s01-t33" type="GSL-1">to</t>
-                    <t id="p10-s01-t34" type="GSL-1">be</t>
-                    <t id="p10-s01-t35" type="GSL-1">made</t>
-                    <t id="p10-s01-t36" type="Coxhead-AWL-6,AR-AWL-6a">explicit</t>
-                    <punc>,</punc>
-                    <t id="p10-s01-t37" type="GSL-1">while</t>
-                    <t id="p10-s01-t38" type="GSL-1">a</t>
-                    <t id="p10-s01-t39" type="GSL-2">mouse</t>
-                    <t id="p10-s01-t40" type="GSL-1">that</t>
-                    <t id="p10-s01-t41" type="Coxhead-AWL-6,AR-AWL-6a">displays</t>
-                    <t id="p10-s01-t42" type="GSL-2">behavioral</t>
-                    <t id="p10-s01-t43">defects</t>
-                    <punc>(</punc>
-                    <t id="p10-s01-t44" type="GSL-1">for</t>
-                    <t id="p10-s01-t45" type="GSL-1">a</t>
-                    <t id="p10-s01-t46" type="GSL-2">mouse</t>
-                    <punc>)</punc>
-                    <t id="p10-s01-t47" type="GSL-1">might</t>
-                    <t id="p10-s01-t48" type="GSL-1">well</t>
-                    <t id="p10-s01-t49" type="GSL-1">provide</t>
-                    <t id="p10-s01-t50" type="GSL-1">useful</t>
-                    <t id="p10-s01-t51" type="Coxhead-AWL-9,AR-AWL-9a">insights</t>
-                    <t id="p10-s01-t52" type="GSL-1">into</t>
-                    <t id="p10-s01-t53" type="GSL-1">the</t>
-                    <t id="p10-s01-t54" type="Coxhead-AWL-4,AR-AWL-4b">mechanisms</t>
-                    <t id="p10-s01-t55" type="Coxhead-AWL-1,AR-AWL-1b">involved</t>
-                    <t id="p10-s01-t56" type="GSL-1">in</t>
-                    <t id="p10-s01-t57" type="GSL-1">human</t>
-                    <t id="p10-s01-t58">autism</t>
-                    <punc>,</punc>
-                    <t id="p10-s01-t59" type="GSL-1">an</t>
-                    <t id="p10-s01-t60">autistic</t>
-                    <t id="p10-s01-t61" type="GSL-2">mouse</t>
-                    <t id="p10-s01-t62" type="GSL-1">may</t>
-                    <t id="p10-s01-t63" type="GSL-1">well</t>
-                    <t id="p10-s01-t64" type="GSL-1">be</t>
-                    <t id="p10-s01-t65" type="GSL-1">a</t>
-                    <t id="p10-s01-t66" type="GSL-1">scientific</t>
-                    <t id="p10-s01-t67">oxymoron</t>
-                    <punc>.</punc>
-                </emph>
+                <t id="p10-s02-t01" type="GSL-1">While</t>
+                <t id="p10-s02-t02" type="GSL-1">there</t>
+                <t id="p10-s02-t03" type="GSL-1">is</t>
+                <t id="p10-s02-t04" type="GSL-1">no</t>
+                <t id="p10-s02-t05" type="GSL-1">doubt</t>
+                <t id="p10-s02-t06" type="GSL-1">that</t>
+                <t id="p10-s02-t07" type="GSL-1">such</t>
+                <t id="p10-s02-t08" type="GSL-1">studies</t>
+                <t id="p10-s02-t09" type="GSL-1">have</t>
+                <t id="p10-s02-t10" type="GSL-1">been</t>
+                <punc>,</punc>
+                <t id="p10-s02-t11" type="GSL-1">and</t>
+                <t id="p10-s02-t12" type="GSL-1">continue</t>
+                <t id="p10-s02-t13" type="GSL-1">to</t>
+                <t id="p10-s02-t14" type="GSL-1">be</t>
+                <t id="p10-s02-t15" type="GSL-2">critical</t>
+                <t id="p10-s02-t16" type="GSL-1">to</t>
+                <t id="p10-s02-t17" type="GSL-1">understanding</t>
+                <t id="p10-s02-t18" type="GSL-1">how</t>
+                <t id="p10-s02-t19">organisms</t>
+                <t id="p10-s02-t20" type="GSL-1">work</t>
+                <punc>(</punc>
+                <t id="p10-s02-t21" type="GSL-1">and</t>
+                <t id="p10-s02-t22" type="GSL-1">certainly</t>
+                <t id="p10-s02-t23" type="GSL-2">deserving</t>
+                <t id="p10-s02-t24" type="GSL-1">of</t>
+                <t id="p10-s02-t25" type="GSL-1">public</t>
+                <t id="p10-s02-t26" type="GSL-1">and</t>
+                <t id="p10-s02-t27" type="GSL-1">private</t>
+                <t id="p10-s02-t28" type="GSL-1">support</t>
+                <punc>)</punc>
+                <t id="p10-s02-t29">–</t>
+                <t id="p10-s02-t30" type="GSL-1">their</t>
+                <t id="p10-s02-t31" type="GSL-1">limitations</t>
+                <t id="p10-s02-t32" type="GSL-1">need</t>
+                <t id="p10-s02-t33" type="GSL-1">to</t>
+                <t id="p10-s02-t34" type="GSL-1">be</t>
+                <t id="p10-s02-t35" type="GSL-1">made</t>
+                <t id="p10-s02-t36" type="Coxhead-AWL-6,AR-AWL-6a">explicit</t>
+                <punc>,</punc>
+                <t id="p10-s02-t37" type="GSL-1">while</t>
+                <t id="p10-s02-t38" type="GSL-1">a</t>
+                <t id="p10-s02-t39" type="GSL-2">mouse</t>
+                <t id="p10-s02-t40" type="GSL-1">that</t>
+                <t id="p10-s02-t41" type="Coxhead-AWL-6,AR-AWL-6a">displays</t>
+                <t id="p10-s02-t42" type="GSL-2">behavioral</t>
+                <t id="p10-s02-t43">defects</t>
+                <punc>(</punc>
+                <t id="p10-s02-t44" type="GSL-1">for</t>
+                <t id="p10-s02-t45" type="GSL-1">a</t>
+                <t id="p10-s02-t46" type="GSL-2">mouse</t>
+                <punc>)</punc>
+                <t id="p10-s02-t47" type="GSL-1">might</t>
+                <t id="p10-s02-t48" type="GSL-1">well</t>
+                <t id="p10-s02-t49" type="GSL-1">provide</t>
+                <t id="p10-s02-t50" type="GSL-1">useful</t>
+                <t id="p10-s02-t51" type="Coxhead-AWL-9,AR-AWL-9a">insights</t>
+                <t id="p10-s02-t52" type="GSL-1">into</t>
+                <t id="p10-s02-t53" type="GSL-1">the</t>
+                <t id="p10-s02-t54" type="Coxhead-AWL-4,AR-AWL-4b">mechanisms</t>
+                <t id="p10-s02-t55" type="Coxhead-AWL-1,AR-AWL-1b">involved</t>
+                <t id="p10-s02-t56" type="GSL-1">in</t>
+                <t id="p10-s02-t57" type="GSL-1">human</t>
+                <t id="p10-s02-t58">autism</t>
+                <punc>,</punc>
+                <t id="p10-s02-t59" type="GSL-1">an</t>
+                <t id="p10-s02-t60">autistic</t>
+                <t id="p10-s02-t61" type="GSL-2">mouse</t>
+                <t id="p10-s02-t62" type="GSL-1">may</t>
+                <t id="p10-s02-t63" type="GSL-1">well</t>
+                <t id="p10-s02-t64" type="GSL-1">be</t>
+                <t id="p10-s02-t65" type="GSL-1">a</t>
+                <t id="p10-s02-t66" type="GSL-1">scientific</t>
+                <t id="p10-s02-t67">oxymoron</t>
+                <punc>.</punc>
             </sentence>
         </paragraph>
         <paragraph id="p11">

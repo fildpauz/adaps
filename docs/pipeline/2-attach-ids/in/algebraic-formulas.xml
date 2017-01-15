@@ -54,17 +54,13 @@
                 <t>circle</t>
                 <t>of</t>
                 <t>radius</t>
-                <emph>
-                    <t>r</t>
-                </emph>
+                <t>r</t>
                 <t>is</t>
                 <t>given</t>
                 <t>by</t>
                 <t>the</t>
                 <t>formula</t>
-                <emph>
-                    <t>A(r)=πr<sup>2</sup></t>
-                </emph>
+                <t>A(r)=πr<sup>2</sup></t>
                 <punc>.</punc>
             </sentence>
             <sentence>
@@ -81,9 +77,7 @@
                 <t>an</t>
                 <t>initial</t>
                 <t>velocity</t>
-                <emph>
-                    <t>v<sub>0</sub> ft/s</t>
-                </emph>
+                <t>v<sub>0</sub> ft/s</t>
                 <punc>,</punc>
                 <t>its</t>
                 <t>height</t>
@@ -106,16 +100,12 @@
                 <t>by</t>
                 <t>the</t>
                 <t>formula</t>
-                <emph>
-                    <t>s(t)=−16t<sup>2</sup> + v<sub>0</sub>t</t>
-                </emph>
+                <t>s(t)=−16t<sup>2</sup> + v<sub>0</sub>t</t>
                 <punc>.</punc>
             </sentence>
             <sentence>
                 <t>When</t>
-                <emph>
-                    <t>P</t>
-                </emph>
+                <t>P</t>
                 <t>dollars</t>
                 <t>are</t>
                 <t>invested</t>
@@ -127,9 +117,7 @@
                 <t>annual</t>
                 <t>interest</t>
                 <t>rate</t>
-                <emph>
-                    <t>r</t>
-                </emph>
+                <t>r</t>
                 <t>compounded</t>
                 <t>continuously</t>
                 <punc>,</punc>
@@ -138,18 +126,14 @@
                 <t>of</t>
                 <t>money</t>
                 <t>after</t>
-                <emph>
-                    <t>t</t>
-                </emph>
+                <t>t</t>
                 <t>years</t>
                 <t>is</t>
                 <t>given</t>
                 <t>by</t>
                 <t>the</t>
                 <t>formula</t>
-                <emph>
-                    <t>A(t)=Pe<sup>rt</sup></t>
-                </emph>
+                <t>A(t)=Pe<sup>rt</sup></t>
                 <punc>.</punc>
             </sentence>
             <sentence>
@@ -187,9 +171,7 @@
                 <t>for</t>
                 <t>a</t>
                 <t>function</t>
-                <emph>
-                    <t>f</t>
-                </emph>
+                <t>f</t>
                 <punc>,</punc>
                 <t>the</t>
                 <t>graph</t>
@@ -200,26 +182,18 @@
                 <t>set</t>
                 <t>of</t>
                 <t>points</t>
-                <emph>
-                    <t>(x,f(x))</t>
-                </emph>
+                <t>(x,f(x))</t>
                 <punc>,</punc>
                 <t>where</t>
-                <emph>
-                    <t>x</t>
-                </emph>
+                <t>x</t>
                 <t>is</t>
                 <t>in</t>
                 <t>the</t>
                 <t>domain</t>
                 <t>of</t>
-                <emph>
-                    <t>f</t>
-                </emph>
+                <t>f</t>
                 <t>and</t>
-                <emph>
-                    <t>f(x)</t>
-                </emph>
+                <t>f(x)</t>
                 <t>is</t>
                 <t>in</t>
                 <t>the</t>
@@ -260,9 +234,7 @@
                 <t>the</t>
                 <t>domain</t>
                 <t>of</t>
-                <emph>
-                    <t>f</t>
-                </emph>
+                <t>f</t>
                 <t>consists</t>
                 <t>of</t>
                 <t>an</t>
@@ -330,13 +302,9 @@
                 <t>Those</t>
                 <t>values</t>
                 <t>of</t>
-                <emph>
-                    <t>x</t>
-                </emph>
+                <t>x</t>
                 <t>where</t>
-                <emph>
-                    <t>f(x)=0</t>
-                </emph>
+                <t>f(x)=0</t>
                 <t>are</t>
                 <t>called</t>
                 <t>the</t>
@@ -353,13 +321,9 @@
                 <t>the</t>
                 <t>zeros</t>
                 <t>of</t>
-                <emph>
-                    <t>f(x)=x<sup>2</sup> - 4</t>
-                </emph>
+                <t>f(x)=x<sup>2</sup> - 4</t>
                 <t>are</t>
-                <emph>
-                    <t>x=±2</t>
-                </emph>
+                <t>x=±2</t>
                 <punc>.</punc>
             </sentence>
             <sentence>
@@ -370,14 +334,10 @@
                 <t>the</t>
                 <t>graph</t>
                 <t>of</t>
-                <emph>
-                    <t>f</t>
-                </emph>
+                <t>f</t>
                 <t>intersects</t>
                 <t>the</t>
-                <emph>
-                    <t>x</t>
-                </emph>
+                <t>x</t>
                 <punc>-</punc>
                 <t>axis</t>
                 <punc>,</punc>
@@ -407,9 +367,7 @@
                 <t>never</t>
                 <t>intersect</t>
                 <t>the</t>
-                <emph>
-                    <t>x</t>
-                </emph>
+                <t>x</t>
                 <punc>-</punc>
                 <t>axis</t>
                 <punc>,</punc>
@@ -436,9 +394,7 @@
                 <t>interest</t>
                 <t>is</t>
                 <t>the</t>
-                <emph>
-                    <t>y</t>
-                </emph>
+                <t>y</t>
                 <punc>-</punc>
                 <t>intercept</t>
                 <punc>,</punc>
@@ -449,17 +405,13 @@
             </sentence>
             <sentence>
                 <t>The</t>
-                <emph>
-                    <t>y</t>
-                </emph>
+                <t>y</t>
                 <punc>-</punc>
                 <t>intercept</t>
                 <t>is</t>
                 <t>given</t>
                 <t>by</t>
-                <emph>
-                    <t>(0,f(0))</t>
-                </emph>
+                <t>(0,f(0))</t>
                 <punc>.</punc>
             </sentence>
         </paragraph>
@@ -488,18 +440,14 @@
                 <t>most</t>
                 <punc>,</punc>
                 <t>one</t>
-                <emph>
-                    <t>y</t>
-                </emph>
+                <t>y</t>
                 <punc>-</punc>
                 <t>intercept</t>
                 <punc>.</punc>
             </sentence>
             <sentence>
                 <t>If</t>
-                <emph>
-                    <t>x=0</t>
-                </emph>
+                <t>x=0</t>
                 <t>is</t>
                 <t>in</t>
                 <t>the</t>
@@ -507,46 +455,34 @@
                 <t>of</t>
                 <t>a</t>
                 <t>function</t>
-                <emph>
-                    <t>f</t>
-                </emph>
+                <t>f</t>
                 <punc>,</punc>
                 <t>then</t>
                 <t>f</t>
                 <t>has</t>
                 <t>exactly</t>
                 <t>one</t>
-                <emph>
-                    <t>y</t>
-                </emph>
+                <t>y</t>
                 <punc>-</punc>
                 <t>intercept</t>
                 <punc>.</punc>
             </sentence>
             <sentence>
                 <t>If</t>
-                <emph>
-                    <t>x=0</t>
-                </emph>
+                <t>x=0</t>
                 <t>is</t>
                 <t>not</t>
                 <t>in</t>
                 <t>the</t>
                 <t>domain</t>
                 <t>of</t>
-                <emph>
-                    <t>f</t>
-                </emph>
+                <t>f</t>
                 <punc>,</punc>
                 <t>then</t>
-                <emph>
-                    <t>f</t>
-                </emph>
+                <t>f</t>
                 <t>has</t>
                 <t>no</t>
-                <emph>
-                    <t>y</t>
-                </emph>
+                <t>y</t>
                 <punc>-</punc>
                 <t>intercept</t>
                 <punc>.</punc>
@@ -558,45 +494,33 @@
                 <t>any</t>
                 <t>real</t>
                 <t>number</t>
-                <emph>
-                    <t>c</t>
-                </emph>
+                <t>c</t>
                 <punc>,</punc>
                 <t>if</t>
-                <emph>
-                    <t>c</t>
-                </emph>
+                <t>c</t>
                 <t>is</t>
                 <t>in</t>
                 <t>the</t>
                 <t>domain</t>
                 <t>of</t>
-                <emph>
-                    <t>f</t>
-                </emph>
+                <t>f</t>
                 <punc>,</punc>
                 <t>there</t>
                 <t>is</t>
                 <t>exactly</t>
                 <t>one</t>
                 <t>output</t>
-                <emph>
-                    <t>f(c)</t>
-                </emph>
+                <t>f(c)</t>
                 <punc>,</punc>
                 <t>and</t>
                 <t>the</t>
                 <t>line</t>
-                <emph>
-                    <t>x=c</t>
-                </emph>
+                <t>x=c</t>
                 <t>intersects</t>
                 <t>the</t>
                 <t>graph</t>
                 <t>of</t>
-                <emph>
-                    <t>f</t>
-                </emph>
+                <t>f</t>
                 <t>exactly</t>
                 <t>once</t>
                 <punc>.</punc>
@@ -608,40 +532,30 @@
                 <t>hand</t>
                 <punc>,</punc>
                 <t>if</t>
-                <emph>
-                    <t>c</t>
-                </emph>
+                <t>c</t>
                 <t>is</t>
                 <t>not</t>
                 <t>in</t>
                 <t>the</t>
                 <t>domain</t>
                 <t>of</t>
-                <emph>
-                    <t>f</t>
-                </emph>
+                <t>f</t>
                 <punc>,</punc>
-                <emph>
-                    <t>f(c)</t>
-                </emph>
+                <t>f(c)</t>
                 <t>is</t>
                 <t>not</t>
                 <t>defined</t>
                 <t>and</t>
                 <t>the</t>
                 <t>line</t>
-                <emph>
-                    <t>x=c</t>
-                </emph>
+                <t>x=c</t>
                 <t>does</t>
                 <t>not</t>
                 <t>intersect</t>
                 <t>the</t>
                 <t>graph</t>
                 <t>of</t>
-                <emph>
-                    <t>f</t>
-                </emph>
+                <t>f</t>
                 <punc>.</punc>
             </sentence>
             <sentence>
@@ -673,9 +587,7 @@
                 <t>Given</t>
                 <t>a</t>
                 <t>function</t>
-                <emph>
-                    <t>f</t>
-                </emph>
+                <t>f</t>
                 <punc>,</punc>
                 <t>every</t>
                 <t>vertical</t>
@@ -688,9 +600,7 @@
                 <t>the</t>
                 <t>graph</t>
                 <t>of</t>
-                <emph>
-                    <t>f</t>
-                </emph>
+                <t>f</t>
                 <t>no</t>
                 <t>more</t>
                 <t>than</t>
