@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Algebraic Formulas (Extract from OpenStax, Calculus Volume 1)</title>
+    <citation>OpenStax, Calculus Volume 1. OpenStax CNX.  ‎2016‎/‎11‎‎/5‎. Download for free at http://cnx.org/contents/8b89d172-2927-466f-8661-01abc7ccdba4@2.39</citation>
+    <url>http://cnx.org/contents/8b89d172-2927-466f-8661-01abc7ccdba4@2.39</url>
+    <info type="textbook"/>
+    <body>
+        <paragraph id="p01">
+            <sentence par-function="topic" id="p01-s01">
+                <t id="p01-s01-t01" type="GSL-1">Sometimes</t>
+                <t id="p01-s01-t02" type="GSL-1">we</t>
+                <t id="p01-s01-t03" type="GSL-1">are</t>
+                <t id="p01-s01-t04" type="GSL-1">not</t>
+                <t id="p01-s01-t05" type="GSL-1">given</t>
+                <t id="p01-s01-t06" type="GSL-1">the</t>
+                <t id="p01-s01-t07" type="GSL-1">values</t>
+                <t id="p01-s01-t08" type="GSL-1">of</t>
+                <t id="p01-s01-t09" type="GSL-1">a</t>
+                <t id="p01-s01-t10" type="Coxhead-AWL-1,AR-AWL-1a">function</t>
+                <t id="p01-s01-t11" type="GSL-1">in</t>
+                <t id="p01-s01-t12" type="GSL-1">table</t>
+                <t id="p01-s01-t13" type="GSL-1">form</t>
+                <punc>,</punc>
+                <connector id="p01-s01-c01" type="contrast" info="p01-s01-t01:p01-s01-t13,p01-s01-t15:p01-s01-t23">
+                    <t id="p01-s01-t14" type="GSL-1">rather</t>
+                </connector>
+                <t id="p01-s01-t15" type="GSL-1">we</t>
+                <t id="p01-s01-t16" type="GSL-1">are</t>
+                <t id="p01-s01-t17" type="GSL-1">given</t>
+                <anaphor id="p01-s01-a01" info="p01-s01-t06:p01-s01-t10">
+                    <t id="p01-s01-t18" type="GSL-1">the</t>
+                    <t id="p01-s01-t19" type="GSL-1">values</t>
+                </anaphor>
+                <t id="p01-s01-t20" type="GSL-1">in</t>
+                <t id="p01-s01-t21" type="GSL-1">an</t>
+                <t id="p01-s01-t22" type="Coxhead-AWL-6,AR-AWL-6a">explicit</t>
+                <t id="p01-s01-t23" type="Coxhead-AWL-1,AR-AWL-1a">formula</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s02">
+                <t id="p01-s02-t01" type="Coxhead-AWL-1,AR-AWL-1a">Formulas</t>
+                <t id="p01-s02-t02" type="GSL-1">arise</t>
+                <t id="p01-s02-t03" type="GSL-1">in</t>
+                <t id="p01-s02-t04" type="GSL-1">many</t>
+                <t id="p01-s02-t05" type="GSL-1">applications</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s03">
+                <connector id="p01-s03-c01" type="example" info="p01-s02-t01:p01-s02-t05,p01-s03-t03:p01-s03-t16">
+                    <t id="p01-s03-t01" type="GSL-1">For</t>
+                    <t id="p01-s03-t02" type="GSL-1">example</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p01-s03-t03" type="GSL-1">the</t>
+                <t id="p01-s03-t04" type="Coxhead-AWL-1,AR-AWL-1a">area</t>
+                <t id="p01-s03-t05" type="GSL-1">of</t>
+                <t id="p01-s03-t06" type="GSL-1">a</t>
+                <t id="p01-s03-t07" type="GSL-1">circle</t>
+                <t id="p01-s03-t08" type="GSL-1">of</t>
+                <t id="p01-s03-t09">radius</t>
+                <emph>
+                    <t id="p01-s03-t10">r</t>
+                </emph>
+                <t id="p01-s03-t11" type="GSL-1">is</t>
+                <t id="p01-s03-t12" type="GSL-1">given</t>
+                <t id="p01-s03-t13" type="GSL-1">by</t>
+                <t id="p01-s03-t14" type="GSL-1">the</t>
+                <t id="p01-s03-t15" type="Coxhead-AWL-1,AR-AWL-1a">formula</t>
+                <emph>
+                    <t id="p01-s03-t16">A(r)=πr<sup>2</sup>
+                    </t>
+                </emph>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s04">
+                <connector id="p01-s04-c01" type="condition" info="p01-s04-t02:p01-s04-t14,p01-s04-t15:p01-s04-t36">
+                    <t id="p01-s04-t01" type="GSL-1">When</t>
+                </connector>
+                <t id="p01-s04-t02" type="GSL-1">an</t>
+                <t id="p01-s04-t03" type="GSL-1">object</t>
+                <t id="p01-s04-t04" type="GSL-1">is</t>
+                <t id="p01-s04-t05" type="GSL-1">thrown</t>
+                <t id="p01-s04-t06" type="GSL-2">upward</t>
+                <t id="p01-s04-t07" type="GSL-1">from</t>
+                <t id="p01-s04-t08" type="GSL-1">the</t>
+                <t id="p01-s04-t09" type="GSL-1">ground</t>
+                <t id="p01-s04-t10" type="GSL-1">with</t>
+                <t id="p01-s04-t11" type="GSL-1">an</t>
+                <t id="p01-s04-t12" type="Coxhead-AWL-3,AR-AWL-3a">initial</t>
+                <t id="p01-s04-t13">velocity</t>
+                <emph>
+                    <t id="p01-s04-t14">v<sub>0</sub>&nbsp;ft/s</t>
+                </emph>
+                <punc>,</punc>
+                <anaphor id="p01-s04-a01" info="p01-s04-t02:p01-s04-t03">
+                    <t id="p01-s04-t15" type="GSL-1">its</t>
+                </anaphor>
+                <t id="p01-s04-t16">height</t>
+                <t id="p01-s04-t17" type="GSL-1">above</t>
+                <t id="p01-s04-t18" type="GSL-1">the</t>
+                <t id="p01-s04-t19" type="GSL-1">ground</t>
+                <t id="p01-s04-t20" type="GSL-1">from</t>
+                <t id="p01-s04-t21" type="GSL-1">the</t>
+                <t id="p01-s04-t22" type="GSL-1">time</t>
+                <anaphor id="p01-s04-a02" info="p01-s04-t02:p01-s04-t03">
+                    <t id="p01-s04-t23" type="GSL-1">it</t>
+                </anaphor>
+                <t id="p01-s04-t24" type="GSL-1">is</t>
+                <t id="p01-s04-t25" type="GSL-1">thrown</t>
+                <t id="p01-s04-t26" type="GSL-1">until</t>
+                <anaphor id="p01-s04-a03" info="p01-s04-t02:p01-s04-t03">
+                    <t id="p01-s04-t27" type="GSL-1">it</t>
+                </anaphor>
+                <t id="p01-s04-t28" type="GSL-2">hits</t>
+                <t id="p01-s04-t29" type="GSL-1">the</t>
+                <t id="p01-s04-t30" type="GSL-1">ground</t>
+                <t id="p01-s04-t31" type="GSL-1">is</t>
+                <t id="p01-s04-t32" type="GSL-1">given</t>
+                <t id="p01-s04-t33" type="GSL-1">by</t>
+                <t id="p01-s04-t34" type="GSL-1">the</t>
+                <t id="p01-s04-t35" type="Coxhead-AWL-1,AR-AWL-1a">formula</t>
+                <emph>
+                    <t id="p01-s04-t36">s(t)=−16t<sup>2</sup>&nbsp;+&nbsp;v<sub>0</sub>t</t>
+                </emph>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s05">
+                <connector id="p01-s05-c01" type="condition" info="p01-s05-t02:p01-s05-t16,p01-s05-t17:p01-s05-t29">
+                    <t id="p01-s05-t01" type="GSL-1">When</t>
+                </connector>
+                <emph>
+                    <t id="p01-s05-t02">P</t>
+                </emph>
+                <t id="p01-s05-t03" type="GSL-1">dollars</t>
+                <t id="p01-s05-t04" type="GSL-1">are</t>
+                <t id="p01-s05-t05" type="Coxhead-AWL-2,AR-AWL-2b">invested</t>
+                <t id="p01-s05-t06" type="GSL-1">in</t>
+                <t id="p01-s05-t07" type="GSL-1">an</t>
+                <t id="p01-s05-t08" type="GSL-1">account</t>
+                <t id="p01-s05-t09" type="GSL-1">at</t>
+                <t id="p01-s05-t10" type="GSL-1">an</t>
+                <t id="p01-s05-t11" type="Coxhead-AWL-4,AR-AWL-4a">annual</t>
+                <t id="p01-s05-t12" type="GSL-1">interest</t>
+                <t id="p01-s05-t13" type="GSL-1">rate</t>
+                <emph>
+                    <t id="p01-s05-t14">r</t>
+                </emph>
+                <t id="p01-s05-t15" type="Coxhead-AWL-5,AR-AWL-5a">compounded</t>
+                <t id="p01-s05-t16" type="GSL-1">continuously</t>
+                <punc>,</punc>
+                <t id="p01-s05-t17" type="GSL-1">the</t>
+                <t id="p01-s05-t18" type="GSL-1">amount</t>
+                <t id="p01-s05-t19" type="GSL-1">of</t>
+                <t id="p01-s05-t20" type="GSL-1">money</t>
+                <t id="p01-s05-t21" type="GSL-1">after</t>
+                <emph>
+                    <t id="p01-s05-t22" type="GSL-1">t</t>
+                </emph>
+                <t id="p01-s05-t23" type="GSL-1">years</t>
+                <t id="p01-s05-t24" type="GSL-1">is</t>
+                <t id="p01-s05-t25" type="GSL-1">given</t>
+                <t id="p01-s05-t26" type="GSL-1">by</t>
+                <t id="p01-s05-t27" type="GSL-1">the</t>
+                <t id="p01-s05-t28" type="Coxhead-AWL-1,AR-AWL-1a">formula</t>
+                <emph>
+                    <t id="p01-s05-t29">A(t)=Pe<sup>rt</sup>
+                    </t>
+                </emph>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s06">
+                <term id="p01-s06-e01" info="p01-s06-t05:p01-s06-t09">
+                    <t id="p01-s06-t01">Algebraic</t>
+                    <t id="p01-s06-t02" type="Coxhead-AWL-1,AR-AWL-1a">formulas</t>
+                </term>
+                <t id="p01-s06-t03" type="GSL-1">are</t>
+                <t id="p01-s06-t04" type="GSL-1">important</t>
+                <t id="p01-s06-t05" type="GSL-2">tools</t>
+                <t id="p01-s06-t06" type="GSL-1">to</t>
+                <t id="p01-s06-t07" type="GSL-2">calculate</t>
+                <t id="p01-s06-t08" type="Coxhead-AWL-1,AR-AWL-1a">function</t>
+                <t id="p01-s06-t09" type="GSL-1">values</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s07">
+                <t id="p01-s07-t01" type="GSL-1">Often</t>
+                <t id="p01-s07-t02" type="GSL-1">we</t>
+                <t id="p01-s07-t03" type="GSL-1">also</t>
+                <t id="p01-s07-t04" type="GSL-1">represent</t>
+                <anaphor id="p01-s07-a01" info="p01-s06-t01:p01-s06-t02">
+                    <t id="p01-s07-t05" type="GSL-1">these</t>
+                    <t id="p01-s07-t06" type="Coxhead-AWL-1,AR-AWL-1a">functions</t>
+                </anaphor>
+                <t id="p01-s07-t07" type="Coxhead-AWL-8,AR-AWL-8b">visually</t>
+                <t id="p01-s07-t08" type="GSL-1">in</t>
+                <t id="p01-s07-t09">graph</t>
+                <t id="p01-s07-t10" type="GSL-1">form</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence par-function="topic" id="p02-s01">
+                <t id="p02-s01-t01" type="GSL-1">Given</t>
+                <t id="p02-s01-t02" type="GSL-1">an</t>
+                <t id="p02-s01-t03">algebraic</t>
+                <t id="p02-s01-t04" type="Coxhead-AWL-1,AR-AWL-1a">formula</t>
+                <t id="p02-s01-t05" type="GSL-1">for</t>
+                <t id="p02-s01-t06" type="GSL-1">a</t>
+                <t id="p02-s01-t07" type="Coxhead-AWL-1,AR-AWL-1a">function</t>
+                <emph>
+                    <t id="p02-s01-t08">f</t>
+                </emph>
+                <punc>,</punc>
+                <t id="p02-s01-t09" type="GSL-1">the</t>
+                <t id="p02-s01-t10">graph</t>
+                <t id="p02-s01-t11" type="GSL-1">of</t>
+                <emph>
+                    <t id="p02-s01-t12">f</t>
+                </emph>
+                <t id="p02-s01-t13" type="GSL-1">is</t>
+                <t id="p02-s01-t14" type="GSL-1">the</t>
+                <t id="p02-s01-t15" type="GSL-1">set</t>
+                <t id="p02-s01-t16" type="GSL-1">of</t>
+                <t id="p02-s01-t17" type="GSL-1">points</t>
+                <emph>
+                    <t id="p02-s01-t18">(x,f(x))</t>
+                </emph>
+                <punc>,</punc>
+                <t id="p02-s01-t19" type="GSL-1">where</t>
+                <emph>
+                    <t id="p02-s01-t20">x</t>
+                </emph>
+                <t id="p02-s01-t21" type="GSL-1">is</t>
+                <t id="p02-s01-t22" type="GSL-1">in</t>
+                <t id="p02-s01-t23" type="GSL-1">the</t>
+                <t id="p02-s01-t24" type="Coxhead-AWL-6,AR-AWL-6a">domain</t>
+                <t id="p02-s01-t25" type="GSL-1">of</t>
+                <emph>
+                    <t id="p02-s01-t26">f</t>
+                </emph>
+                <t id="p02-s01-t27" type="GSL-1">and</t>
+                <emph>
+                    <t id="p02-s01-t28">f(x)</t>
+                </emph>
+                <t id="p02-s01-t29" type="GSL-1">is</t>
+                <t id="p02-s01-t30" type="GSL-1">in</t>
+                <t id="p02-s01-t31" type="GSL-1">the</t>
+                <t id="p02-s01-t32" type="Coxhead-AWL-2,AR-AWL-2b">range</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p02-s02">
+                <t id="p02-s02-t01" type="GSL-1">To</t>
+                <t id="p02-s02-t02">graph</t>
+                <t id="p02-s02-t03" type="GSL-1">a</t>
+                <t id="p02-s02-t04" type="Coxhead-AWL-1,AR-AWL-1a">function</t>
+                <t id="p02-s02-t05" type="GSL-1">given</t>
+                <t id="p02-s02-t06" type="GSL-1">by</t>
+                <t id="p02-s02-t07" type="GSL-1">a</t>
+                <t id="p02-s02-t08" type="Coxhead-AWL-1,AR-AWL-1a">formula</t>
+                <punc>,</punc>
+                <t id="p02-s02-t09" type="GSL-1">it</t>
+                <t id="p02-s02-t10" type="GSL-1">is</t>
+                <t id="p02-s02-t11" type="GSL-1">helpful</t>
+                <t id="p02-s02-t12" type="GSL-1">to</t>
+                <t id="p02-s02-t13" type="GSL-1">begin</t>
+                <t id="p02-s02-t14" type="GSL-1">by</t>
+                <t id="p02-s02-t15" type="GSL-1">using</t>
+                <anaphor id="p02-s02-a01" info="p02-s02-t07:p02-s02-t08">
+                    <t id="p02-s02-t16" type="GSL-1">the</t>
+                    <t id="p02-s02-t17" type="Coxhead-AWL-1,AR-AWL-1a">formula</t>
+                </anaphor>
+                <t id="p02-s02-t18" type="GSL-1">to</t>
+                <t id="p02-s02-t19" type="Coxhead-AWL-1,AR-AWL-1a">create</t>
+                <t id="p02-s02-t20" type="GSL-1">a</t>
+                <t id="p02-s02-t21" type="GSL-1">table</t>
+                <t id="p02-s02-t22" type="GSL-1">of</t>
+                <t id="p02-s02-t23" type="Coxhead-AWL-6,AR-AWL-6b">inputs</t>
+                <t id="p02-s02-t24" type="GSL-1">and</t>
+                <t id="p02-s02-t25" type="Coxhead-AWL-4,AR-AWL-4b">outputs</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p02-s03">
+                <connector id="p02-s03-c01" type="condition" info="p02-s03-t02:p02-s03-t12,p02-s03-t13:p02-s03-t18">
+                    <t id="p02-s03-t01" type="GSL-1">If</t>
+                </connector>
+                <t id="p02-s03-t02" type="GSL-1">the</t>
+                <t id="p02-s03-t03" type="Coxhead-AWL-6,AR-AWL-6a">domain</t>
+                <t id="p02-s03-t04" type="GSL-1">of</t>
+                <emph>
+                    <t id="p02-s03-t05">f</t>
+                </emph>
+                <t id="p02-s03-t06" type="Coxhead-AWL-1,AR-AWL-1a">consists</t>
+                <t id="p02-s03-t07" type="GSL-1">of</t>
+                <t id="p02-s03-t08" type="GSL-1">an</t>
+                <t id="p02-s03-t09" type="Coxhead-AWL-7,AR-AWL-7a">infinite</t>
+                <t id="p02-s03-t10" type="GSL-1">number</t>
+                <t id="p02-s03-t11" type="GSL-1">of</t>
+                <t id="p02-s03-t12" type="GSL-1">values</t>
+                <punc>,</punc>
+                <t id="p02-s03-t13" type="GSL-1">we</t>
+                <t id="p02-s03-t14" type="GSL-1">cannot</t>
+                <t id="p02-s03-t15" type="GSL-2">list</t>
+                <t id="p02-s03-t16" type="GSL-1">all</t>
+                <t id="p02-s03-t17" type="GSL-1">of</t>
+                <anaphor id="p02-s03-a01" info="p02-s03-t08:p02-s03-t12">
+                    <t id="p02-s03-t18" type="GSL-1">them</t>
+                </anaphor>
+                <punc>,</punc>
+                <connector id="p02-s03-c02" type="violated expectation" info="p02-s03-t01:p02-s03-t18,p02-s03-t20:p02-s03-t39">
+                    <t id="p02-s03-t19" type="GSL-1">but</t>
+                </connector>
+                <connector id="p02-s03-c03" type="explanation" info="p02-s03-t21:p02-s03-t31,p02-s03-t32:p02-s03-t39">
+                    <t id="p02-s03-t20" type="GSL-1">because</t>
+                </connector>
+                <t id="p02-s03-t21" type="GSL-2">listing</t>
+                <t id="p02-s03-t22" type="GSL-1">some</t>
+                <t id="p02-s03-t23" type="GSL-1">of</t>
+                <anaphor id="p02-s03-a02" info="p02-s02-t23:p02-s02-t25">
+                    <t id="p02-s03-t24" type="GSL-1">the</t>
+                    <t id="p02-s03-t25" type="Coxhead-AWL-6,AR-AWL-6b">inputs</t>
+                    <t id="p02-s03-t26" type="GSL-1">and</t>
+                    <t id="p02-s03-t27" type="Coxhead-AWL-4,AR-AWL-4b">outputs</t>
+                </anaphor>
+                <t id="p02-s03-t28" type="GSL-1">can</t>
+                <t id="p02-s03-t29" type="GSL-1">be</t>
+                <t id="p02-s03-t30" type="GSL-1">very</t>
+                <t id="p02-s03-t31" type="GSL-1">useful</t>
+                <punc>,</punc>
+                <t id="p02-s03-t32" type="GSL-1">it</t>
+                <t id="p02-s03-t33" type="GSL-1">is</t>
+                <t id="p02-s03-t34" type="GSL-1">often</t>
+                <t id="p02-s03-t35" type="GSL-1">a</t>
+                <t id="p02-s03-t36" type="GSL-1">good</t>
+                <t id="p02-s03-t37" type="GSL-1">way</t>
+                <t id="p02-s03-t38" type="GSL-1">to</t>
+                <t id="p02-s03-t39" type="GSL-1">begin</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p03">
+            <sentence par-function="topic" id="p03-s01">
+                <connector id="p03-s01-c01" type="condition" info="p03-s01-t02:p03-s01-t08,p03-s01-t09:p03-s01-t18">
+                    <t id="p03-s01-t01" type="GSL-1">When</t>
+                </connector>
+                <t id="p03-s01-t02" type="Coxhead-AWL-1,AR-AWL-1a">creating</t>
+                <t id="p03-s01-t03" type="GSL-1">a</t>
+                <t id="p03-s01-t04" type="GSL-1">table</t>
+                <t id="p03-s01-t05" type="GSL-1">of</t>
+                <t id="p03-s01-t06" type="Coxhead-AWL-6,AR-AWL-6b">inputs</t>
+                <t id="p03-s01-t07" type="GSL-1">and</t>
+                <t id="p03-s01-t08" type="Coxhead-AWL-4,AR-AWL-4b">outputs</t>
+                <punc>,</punc>
+                <t id="p03-s01-t09" type="GSL-1">we</t>
+                <t id="p03-s01-t10" type="GSL-2">typically</t>
+                <t id="p03-s01-t11" type="GSL-2">check</t>
+                <t id="p03-s01-t12" type="GSL-1">to</t>
+                <t id="p03-s01-t13" type="GSL-1">determine</t>
+                <t id="p03-s01-t14" type="GSL-1">whether</t>
+                <t id="p03-s01-t15" type="GSL-2">zero</t>
+                <t id="p03-s01-t16" type="GSL-1">is</t>
+                <t id="p03-s01-t17" type="GSL-1">an</t>
+                <t id="p03-s01-t18" type="Coxhead-AWL-4,AR-AWL-4b">output</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p03-s02">
+                <t id="p03-s02-t01" type="GSL-1">Those</t>
+                <t id="p03-s02-t02" type="GSL-1">values</t>
+                <t id="p03-s02-t03" type="GSL-1">of</t>
+                <emph>
+                    <t id="p03-s02-t04">x</t>
+                </emph>
+                <t id="p03-s02-t05" type="GSL-1">where</t>
+                <emph>
+                    <t id="p03-s02-t06">f(x)=0</t>
+                </emph>
+                <t id="p03-s02-t07" type="GSL-1">are</t>
+                <t id="p03-s02-t08" type="GSL-1">called</t>
+                <t id="p03-s02-t09" type="GSL-1">the</t>
+                <term id="p03-s02-e01" info="p03-s02-t01:p03-s02-t06">
+                    <t id="p03-s02-t10" type="GSL-2">zeros</t>
+                </term>
+                <t id="p03-s02-t11" type="GSL-1">of</t>
+                <t id="p03-s02-t12" type="GSL-1">a</t>
+                <t id="p03-s02-t13" type="Coxhead-AWL-1,AR-AWL-1a">function</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p03-s03">
+                <connector id="p03-s03-c01" type="example" info="p03-s02-t01:p03-s02-t13,p03-s03-t03:p03-s03-t08">
+                    <t id="p03-s03-t01" type="GSL-1">For</t>
+                    <t id="p03-s03-t02" type="GSL-1">example</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p03-s03-t03" type="GSL-1">the</t>
+                <t id="p03-s03-t04" type="GSL-2">zeros</t>
+                <t id="p03-s03-t05" type="GSL-1">of</t>
+                <emph>
+                    <t id="p03-s03-t06">f(x)=x<sup>2</sup>&nbsp;-&nbsp;4</t>
+                </emph>
+                <t id="p03-s03-t07" type="GSL-1">are</t>
+                <emph>
+                    <t id="p03-s03-t08">x=±2</t>
+                </emph>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p03-s04">
+                <anaphor id="p03-s04-a01" info="p03-s02-t09:p03-s02-t13">
+                    <t id="p03-s04-t01" type="GSL-1">The</t>
+                    <t id="p03-s04-t02" type="GSL-2">zeros</t>
+                </anaphor>
+                <t id="p03-s04-t03" type="GSL-1">determine</t>
+                <t id="p03-s04-t04" type="GSL-1">where</t>
+                <t id="p03-s04-t05" type="GSL-1">the</t>
+                <t id="p03-s04-t06">graph</t>
+                <t id="p03-s04-t07" type="GSL-1">of</t>
+                <emph>
+                    <t id="p03-s04-t08">f</t>
+                </emph>
+                <t id="p03-s04-t09">intersects</t>
+                <t id="p03-s04-t10" type="GSL-1">the</t>
+                <emph>
+                    <t id="p03-s04-t11">x</t>
+                </emph>
+                <punc>-</punc>
+                <t id="p03-s04-t12">axis</t>
+                <punc>,</punc>
+                <t id="p03-s04-t13" type="GSL-1">which</t>
+                <t id="p03-s04-t14" type="GSL-1">gives</t>
+                <t id="p03-s04-t15" type="GSL-1">us</t>
+                <t id="p03-s04-t16" type="GSL-1">more</t>
+                <t id="p03-s04-t17" type="GSL-2">information</t>
+                <t id="p03-s04-t18" type="GSL-1">about</t>
+                <t id="p03-s04-t19" type="GSL-1">the</t>
+                <t id="p03-s04-t20" type="GSL-1">shape</t>
+                <t id="p03-s04-t21" type="GSL-1">of</t>
+                <t id="p03-s04-t22" type="GSL-1">the</t>
+                <t id="p03-s04-t23">graph</t>
+                <t id="p03-s04-t24" type="GSL-1">of</t>
+                <anaphor id="p03-s04-a02" info="p03-s02-t12:p03-s02-t13">
+                    <t id="p03-s04-t25" type="GSL-1">the</t>
+                    <t id="p03-s04-t26" type="Coxhead-AWL-1,AR-AWL-1a">function</t>
+                </anaphor>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p03-s05">
+                <t id="p03-s05-t01" type="GSL-1">The</t>
+                <t id="p03-s05-t02">graph</t>
+                <t id="p03-s05-t03" type="GSL-1">of</t>
+                <t id="p03-s05-t04" type="GSL-1">a</t>
+                <t id="p03-s05-t05" type="Coxhead-AWL-1,AR-AWL-1a">function</t>
+                <t id="p03-s05-t06" type="GSL-1">may</t>
+                <t id="p03-s05-t07" type="GSL-1">never</t>
+                <t id="p03-s05-t08">intersect</t>
+                <t id="p03-s05-t09" type="GSL-1">the</t>
+                <emph>
+                    <t id="p03-s05-t10">x</t>
+                </emph>
+                <punc>-</punc>
+                <t id="p03-s05-t11">axis</t>
+                <punc>,</punc>
+                <connector id="p03-s05-c01" type="contrast" info="p03-s05-t01:p03-s05-t11,p03-s05-t13:p03-s05-t21">
+                    <t id="p03-s05-t12" type="GSL-1">or</t>
+                </connector>
+                <anaphor id="p03-s05-a01" info="p03-s05-t01:p03-s05-t05">
+                    <t id="p03-s05-t13" type="GSL-1">it</t>
+                </anaphor>
+                <t id="p03-s05-t14" type="GSL-1">may</t>
+                <t id="p03-s05-t15">intersect</t>
+                <t id="p03-s05-t16" type="GSL-2">multiple</t>
+                <punc>(</punc>
+                <t id="p03-s05-t17" type="GSL-1">or</t>
+                <t id="p03-s05-t18" type="GSL-1">even</t>
+                <t id="p03-s05-t19" type="Coxhead-AWL-7,AR-AWL-7a">infinitely</t>
+                <t id="p03-s05-t20" type="GSL-1">many</t>
+                <punc>)</punc>
+                <t id="p03-s05-t21" type="GSL-1">times</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p04">
+            <sentence par-function="topic" id="p04-s01">
+                <t id="p04-s01-t01" type="GSL-1">Another</t>
+                <t id="p04-s01-t02" type="GSL-1">point</t>
+                <t id="p04-s01-t03" type="GSL-1">of</t>
+                <t id="p04-s01-t04" type="GSL-1">interest</t>
+                <t id="p04-s01-t05" type="GSL-1">is</t>
+                <t id="p04-s01-t06" type="GSL-1">the</t>
+                <emph>
+                    <t id="p04-s01-t07">y</t>
+                </emph>
+                <punc>-</punc>
+                <t id="p04-s01-t08">intercept</t>
+                <punc>,</punc>
+                <connector id="p04-s01-c01" type="condition" info="p04-s01-t10:p04-s01-t11,p04-s01-t01:p04-s01-t08">
+                    <t id="p04-s01-t09" type="GSL-1">if</t>
+                </connector>
+                <anaphor id="p04-s01-a01" info="p04-s01-t07:p04-s01-t08">
+                    <t id="p04-s01-t10" type="GSL-1">it</t>
+                </anaphor>
+                <t id="p04-s01-t11" type="GSL-1">exists</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p04-s02">
+                <t id="p04-s02-t01" type="GSL-1">The</t>
+                <emph>
+                    <t id="p04-s02-t02">y</t>
+                </emph>
+                <punc>-</punc>
+                <t id="p04-s02-t03">intercept</t>
+                <t id="p04-s02-t04" type="GSL-1">is</t>
+                <t id="p04-s02-t05" type="GSL-1">given</t>
+                <t id="p04-s02-t06" type="GSL-1">by</t>
+                <emph>
+                    <t id="p04-s02-t07">(0,f(0))</t>
+                </emph>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p05">
+            <sentence par-function="topic" id="p05-s01">
+                <connector id="p05-s01-c01" type="explanation" info="p05-s01-t02:p05-s01-t10,p05-s01-t11:p05-s01-t22">
+                    <t id="p05-s01-t01" type="GSL-1">Since</t>
+                </connector>
+                <t id="p05-s01-t02" type="GSL-1">a</t>
+                <t id="p05-s01-t03" type="Coxhead-AWL-1,AR-AWL-1a">function</t>
+                <t id="p05-s01-t04" type="GSL-1">has</t>
+                <t id="p05-s01-t05" type="GSL-2">exactly</t>
+                <t id="p05-s01-t06" type="GSL-1">one</t>
+                <t id="p05-s01-t07" type="Coxhead-AWL-4,AR-AWL-4b">output</t>
+                <t id="p05-s01-t08" type="GSL-1">for</t>
+                <t id="p05-s01-t09" type="GSL-1">each</t>
+                <t id="p05-s01-t10" type="Coxhead-AWL-6,AR-AWL-6b">input</t>
+                <punc>,</punc>
+                <t id="p05-s01-t11" type="GSL-1">the</t>
+                <t id="p05-s01-t12">graph</t>
+                <t id="p05-s01-t13" type="GSL-1">of</t>
+                <t id="p05-s01-t14" type="GSL-1">a</t>
+                <t id="p05-s01-t15" type="Coxhead-AWL-1,AR-AWL-1a">function</t>
+                <t id="p05-s01-t16" type="GSL-1">can</t>
+                <t id="p05-s01-t17" type="GSL-1">have</t>
+                <punc>,</punc>
+                <t id="p05-s01-t18" type="GSL-1">at</t>
+                <t id="p05-s01-t19" type="GSL-1">most</t>
+                <punc>,</punc>
+                <t id="p05-s01-t20" type="GSL-1">one</t>
+                <emph>
+                    <t id="p05-s01-t21">y</t>
+                </emph>
+                <punc>-</punc>
+                <t id="p05-s01-t22">intercept</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p05-s02">
+                <connector id="p05-s02-c01" type="condition" info="p05-s02-t02:p05-s02-t10,p05-s02-t12:p05-s02-t17">
+                    <t id="p05-s02-t01" type="GSL-1">If</t>
+                </connector>
+                <emph>
+                    <t id="p05-s02-t02">x=0</t>
+                </emph>
+                <t id="p05-s02-t03" type="GSL-1">is</t>
+                <t id="p05-s02-t04" type="GSL-1">in</t>
+                <t id="p05-s02-t05" type="GSL-1">the</t>
+                <t id="p05-s02-t06" type="Coxhead-AWL-6,AR-AWL-6a">domain</t>
+                <t id="p05-s02-t07" type="GSL-1">of</t>
+                <t id="p05-s02-t08" type="GSL-1">a</t>
+                <t id="p05-s02-t09" type="Coxhead-AWL-1,AR-AWL-1a">function</t>
+                <emph>
+                    <t id="p05-s02-t10">f</t>
+                </emph>
+                <punc>,</punc>
+                <connector id="p05-s02-c02" type="condition" info="p05-s02-t02:p05-s02-t10,p05-s02-t12:p05-s02-t17">
+                    <t id="p05-s02-t11" type="GSL-1">then</t>
+                </connector>
+                <emph>
+                    <t id="p05-s02-t12">f</t>
+                </emph>
+                <t id="p05-s02-t13" type="GSL-1">has</t>
+                <t id="p05-s02-t14" type="GSL-2">exactly</t>
+                <t id="p05-s02-t15" type="GSL-1">one</t>
+                <emph>
+                    <t id="p05-s02-t16">y</t>
+                </emph>
+                <punc>-</punc>
+                <t id="p05-s02-t17">intercept</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p05-s03">
+                <connector id="p05-s03-c01" type="condition" info="p05-s03-t02:p05-s03-t09,p05-s03-t11:p05-s03-t15">
+                    <t id="p05-s03-t01" type="GSL-1">If</t>
+                </connector>
+                <emph>
+                    <t id="p05-s03-t02">x=0</t>
+                </emph>
+                <t id="p05-s03-t03" type="GSL-1">is</t>
+                <t id="p05-s03-t04" type="GSL-1">not</t>
+                <t id="p05-s03-t05" type="GSL-1">in</t>
+                <t id="p05-s03-t06" type="GSL-1">the</t>
+                <t id="p05-s03-t07" type="Coxhead-AWL-6,AR-AWL-6a">domain</t>
+                <t id="p05-s03-t08" type="GSL-1">of</t>
+                <emph>
+                    <t id="p05-s03-t09">f</t>
+                </emph>
+                <punc>,</punc>
+                <connector id="p05-s03-c02" type="temporal sequence" info="p05-s03-t02:p05-s03-t09,p05-s03-t11:p05-s03-t15">
+                    <t id="p05-s03-t10" type="GSL-1">then</t>
+                </connector>
+                <emph>
+                    <t id="p05-s03-t11">f</t>
+                </emph>
+                <t id="p05-s03-t12" type="GSL-1">has</t>
+                <t id="p05-s03-t13" type="GSL-1">no</t>
+                <emph>
+                    <t id="p05-s03-t14">y</t>
+                </emph>
+                <punc>-</punc>
+                <t id="p05-s03-t15">intercept</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p05-s04">
+                <connector id="p05-s04-c01" type="similarity" info="p05-s03-t01:p05-s03-t15,p05-s04-t02:p05-s04-t02:p05-s04-t31">
+                    <t id="p05-s04-t01" type="Coxhead-AWL-1,AR-AWL-1b">Similarly</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p05-s04-t02" type="GSL-1">for</t>
+                <t id="p05-s04-t03" type="GSL-1">any</t>
+                <t id="p05-s04-t04" type="GSL-1">real</t>
+                <t id="p05-s04-t05" type="GSL-1">number</t>
+                <emph>
+                    <t id="p05-s04-t06">c</t>
+                </emph>
+                <punc>,</punc>
+                <connector id="p05-s04-c02" type="condition" info="p05-s04-t08:p05-s04-t14,p05-s04-t15:p05-s04-t31">
+                    <t id="p05-s04-t07" type="GSL-1">if</t>
+                </connector>
+                <emph>
+                    <t id="p05-s04-t08">c</t>
+                </emph>
+                <t id="p05-s04-t09" type="GSL-1">is</t>
+                <t id="p05-s04-t10" type="GSL-1">in</t>
+                <t id="p05-s04-t11" type="GSL-1">the</t>
+                <t id="p05-s04-t12" type="Coxhead-AWL-6,AR-AWL-6a">domain</t>
+                <t id="p05-s04-t13" type="GSL-1">of</t>
+                <emph>
+                    <t id="p05-s04-t14">f</t>
+                </emph>
+                <punc>,</punc>
+                <t id="p05-s04-t15" type="GSL-1">there</t>
+                <t id="p05-s04-t16" type="GSL-1">is</t>
+                <t id="p05-s04-t17" type="GSL-2">exactly</t>
+                <t id="p05-s04-t18" type="GSL-1">one</t>
+                <t id="p05-s04-t19" type="Coxhead-AWL-4,AR-AWL-4b">output</t>
+                <emph>
+                    <t id="p05-s04-t20">f(c)</t>
+                </emph>
+                <punc>,</punc>
+                <connector id="p05-s04-c03" type="elaboration" info="p05-s04-t15:p05-s04-t20,p05-s04-t22:p05-s04-t31">
+                    <t id="p05-s04-t21" type="GSL-1">and</t>
+                </connector>
+                <t id="p05-s04-t22" type="GSL-1">the</t>
+                <t id="p05-s04-t23" type="GSL-1">line</t>
+                <emph>
+                    <t id="p05-s04-t24">x=c</t>
+                </emph>
+                <t id="p05-s04-t25">intersects</t>
+                <t id="p05-s04-t26" type="GSL-1">the</t>
+                <t id="p05-s04-t27">graph</t>
+                <t id="p05-s04-t28" type="GSL-1">of</t>
+                <emph>
+                    <t id="p05-s04-t29">f</t>
+                </emph>
+                <t id="p05-s04-t30" type="GSL-2">exactly</t>
+                <t id="p05-s04-t31" type="GSL-1">once</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p05-s05">
+                <connector id="p05-s05-c01" type="contrast" info="p05-s04-t02:p05-s04-t31,p05-s05-t05:p05-s05-t05:p05-s05-t28">
+                    <t id="p05-s05-t01" type="GSL-1">On</t>
+                    <t id="p05-s05-t02" type="GSL-1">the</t>
+                    <t id="p05-s05-t03" type="GSL-1">other</t>
+                    <t id="p05-s05-t04" type="GSL-1">hand</t>
+                </connector>
+                <punc>,</punc>
+                <connector id="p05-s05-c02" type="condition" info="p05-s05-t06:p05-s05-t13,p05-s05-t14:p05-s05-t28">
+                    <t id="p05-s05-t05" type="GSL-1">if</t>
+                </connector>
+                <emph>
+                    <t id="p05-s05-t06">c</t>
+                </emph>
+                <t id="p05-s05-t07" type="GSL-1">is</t>
+                <t id="p05-s05-t08" type="GSL-1">not</t>
+                <t id="p05-s05-t09" type="GSL-1">in</t>
+                <t id="p05-s05-t10" type="GSL-1">the</t>
+                <t id="p05-s05-t11" type="Coxhead-AWL-6,AR-AWL-6a">domain</t>
+                <t id="p05-s05-t12" type="GSL-1">of</t>
+                <emph>
+                    <t id="p05-s05-t13">f</t>
+                </emph>
+                <punc>,</punc>
+                <emph>
+                    <t id="p05-s05-t14">f(c)</t>
+                </emph>
+                <t id="p05-s05-t15" type="GSL-1">is</t>
+                <t id="p05-s05-t16" type="GSL-1">not</t>
+                <t id="p05-s05-t17" type="Coxhead-AWL-1,AR-AWL-1a">defined</t>
+                <connector id="p05-s05-c03" type="elaboration" info="p05-s05-t14:p05-s05-t17,p05-s05-t19:p05-s05-t28">
+                    <t id="p05-s05-t18" type="GSL-1">and</t>
+                </connector>
+                <t id="p05-s05-t19" type="GSL-1">the</t>
+                <t id="p05-s05-t20" type="GSL-1">line</t>
+                <emph>
+                    <t id="p05-s05-t21">x=c</t>
+                </emph>
+                <t id="p05-s05-t22" type="GSL-1">does</t>
+                <t id="p05-s05-t23" type="GSL-1">not</t>
+                <t id="p05-s05-t24">intersect</t>
+                <t id="p05-s05-t25" type="GSL-1">the</t>
+                <t id="p05-s05-t26">graph</t>
+                <t id="p05-s05-t27" type="GSL-1">of</t>
+                <emph>
+                    <t id="p05-s05-t28">f</t>
+                </emph>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p05-s06">
+                <anaphor id="p05-s06-a01" info="p05-s05-t05:p05-s05-t28">
+                    <t id="p05-s06-t01" type="GSL-1">This</t>
+                    <t id="p05-s06-t02" type="GSL-1">property</t>
+                </anaphor>
+                <t id="p05-s06-t03" type="GSL-1">is</t>
+                <t id="p05-s06-t04" type="Coxhead-AWL-4,AR-AWL-4b">summarized</t>
+                <t id="p05-s06-t05" type="GSL-1">in</t>
+                <t id="p05-s06-t06" type="GSL-1">the</t>
+                <t id="p05-s06-t07">vertical</t>
+                <t id="p05-s06-t08" type="GSL-1">line</t>
+                <t id="p05-s06-t09" type="GSL-1">test</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p06">
+            <sentence par-function="" id="p06-s01">
+                <t id="p06-s01-t01" type="GSL-1">Note</t>
+                <punc>:</punc>
+                <t id="p06-s01-t02" type="GSL-1">Rule</t>
+                <punc>:</punc>
+                <t id="p06-s01-t03">Vertical</t>
+                <t id="p06-s01-t04" type="GSL-1">Line</t>
+                <t id="p06-s01-t05" type="GSL-1">Test</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p07">
+            <sentence par-function="" id="p07-s01">
+                <t id="p07-s01-t01" type="GSL-1">Given</t>
+                <t id="p07-s01-t02" type="GSL-1">a</t>
+                <t id="p07-s01-t03" type="Coxhead-AWL-1,AR-AWL-1a">function</t>
+                <emph>
+                    <t id="p07-s01-t04">f</t>
+                </emph>
+                <punc>,</punc>
+                <t id="p07-s01-t05" type="GSL-1">every</t>
+                <t id="p07-s01-t06">vertical</t>
+                <t id="p07-s01-t07" type="GSL-1">line</t>
+                <t id="p07-s01-t08" type="GSL-1">that</t>
+                <t id="p07-s01-t09" type="GSL-1">may</t>
+                <t id="p07-s01-t10" type="GSL-1">be</t>
+                <t id="p07-s01-t11" type="GSL-1">drawn</t>
+                <t id="p07-s01-t12">intersects</t>
+                <t id="p07-s01-t13" type="GSL-1">the</t>
+                <t id="p07-s01-t14">graph</t>
+                <t id="p07-s01-t15" type="GSL-1">of</t>
+                <emph>
+                    <t id="p07-s01-t16">f</t>
+                </emph>
+                <t id="p07-s01-t17" type="GSL-1">no</t>
+                <t id="p07-s01-t18" type="GSL-1">more</t>
+                <t id="p07-s01-t19" type="GSL-1">than</t>
+                <t id="p07-s01-t20" type="GSL-1">once</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="" id="p07-s02">
+                <connector id="p07-s02-c01" type="condition" info="p07-s02-t02:p07-s02-t12,p07-s02-t13:p07-s02-t21">
+                    <t id="p07-s02-t01" type="GSL-1">If</t>
+                </connector>
+                <t id="p07-s02-t02" type="GSL-1">any</t>
+                <t id="p07-s02-t03">vertical</t>
+                <t id="p07-s02-t04" type="GSL-1">line</t>
+                <t id="p07-s02-t05">intersects</t>
+                <t id="p07-s02-t06" type="GSL-1">a</t>
+                <t id="p07-s02-t07" type="GSL-1">set</t>
+                <t id="p07-s02-t08" type="GSL-1">of</t>
+                <t id="p07-s02-t09" type="GSL-1">points</t>
+                <t id="p07-s02-t10" type="GSL-1">more</t>
+                <t id="p07-s02-t11" type="GSL-1">than</t>
+                <t id="p07-s02-t12" type="GSL-1">once</t>
+                <punc>,</punc>
+                <t id="p07-s02-t13" type="GSL-1">the</t>
+                <t id="p07-s02-t14" type="GSL-1">set</t>
+                <t id="p07-s02-t15" type="GSL-1">of</t>
+                <t id="p07-s02-t16" type="GSL-1">points</t>
+                <t id="p07-s02-t17" type="GSL-1">does</t>
+                <t id="p07-s02-t18" type="GSL-1">not</t>
+                <t id="p07-s02-t19" type="GSL-1">represent</t>
+                <t id="p07-s02-t20" type="GSL-1">a</t>
+                <t id="p07-s02-t21" type="Coxhead-AWL-1,AR-AWL-1a">function</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p08">
+            <sentence par-function="" id="p08-s01">
+                <t id="p08-s01-t01" type="GSL-1">We</t>
+                <t id="p08-s01-t02" type="GSL-1">can</t>
+                <t id="p08-s01-t03" type="GSL-1">use</t>
+                <t id="p08-s01-t04" type="GSL-1">this</t>
+                <t id="p08-s01-t05" type="GSL-1">test</t>
+                <t id="p08-s01-t06" type="GSL-1">to</t>
+                <t id="p08-s01-t07" type="GSL-1">determine</t>
+                <t id="p08-s01-t08" type="GSL-1">whether</t>
+                <t id="p08-s01-t09" type="GSL-1">a</t>
+                <t id="p08-s01-t10" type="GSL-1">set</t>
+                <t id="p08-s01-t11" type="GSL-1">of</t>
+                <t id="p08-s01-t12">plotted</t>
+                <t id="p08-s01-t13" type="GSL-1">points</t>
+                <t id="p08-s01-t14" type="GSL-1">represents</t>
+                <t id="p08-s01-t15" type="GSL-1">the</t>
+                <t id="p08-s01-t16">graph</t>
+                <t id="p08-s01-t17" type="GSL-1">of</t>
+                <t id="p08-s01-t18" type="GSL-1">a</t>
+                <t id="p08-s01-t19" type="Coxhead-AWL-1,AR-AWL-1a">function</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

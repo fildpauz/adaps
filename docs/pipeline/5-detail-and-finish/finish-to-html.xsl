@@ -108,7 +108,7 @@
         </xsl:if>
         <xsl:apply-templates select="following-sibling::*[position()=1]" />
     </xsl:template>
-
+    
     <xsl:template match="punc">
         <xsl:choose>
             <xsl:when test=". = '('">
