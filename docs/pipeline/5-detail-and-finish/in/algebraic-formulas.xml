@@ -91,7 +91,7 @@
                 <t id="p01-s04-t12" type="Coxhead-AWL-3,AR-AWL-3a">initial</t>
                 <t id="p01-s04-t13">velocity</t>
                 <emph>
-                    <t id="p01-s04-t14">v<sub>0</sub>&nbsp;ft/s</t>
+                    <t id="p01-s04-t14">v<sub>0</sub> ft/s</t>
                 </emph>
                 <punc>,</punc>
                 <anaphor id="p01-s04-a01" info="p01-s04-t02:p01-s04-t03">
@@ -122,7 +122,7 @@
                 <t id="p01-s04-t34" type="GSL-1">the</t>
                 <t id="p01-s04-t35" type="Coxhead-AWL-1,AR-AWL-1a">formula</t>
                 <emph>
-                    <t id="p01-s04-t36">s(t)=−16t<sup>2</sup>&nbsp;+&nbsp;v<sub>0</sub>t</t>
+                    <t id="p01-s04-t36">s(t)=−16t<sup>2</sup> + v<sub>0</sub>t</t>
                 </emph>
                 <punc>.</punc>
             </sentence>
@@ -396,7 +396,7 @@
                 <t id="p03-s03-t04" type="GSL-2">zeros</t>
                 <t id="p03-s03-t05" type="GSL-1">of</t>
                 <emph>
-                    <t id="p03-s03-t06">f(x)=x<sup>2</sup>&nbsp;-&nbsp;4</t>
+                    <t id="p03-s03-t06">f(x)=x<sup>2</sup> - 4</t>
                 </emph>
                 <t id="p03-s03-t07" type="GSL-1">are</t>
                 <emph>

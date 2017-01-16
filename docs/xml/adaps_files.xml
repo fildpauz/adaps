@@ -8,7 +8,7 @@ and open the template in the editor.
 
 <files>
     <file name="accuracy-precision" path="../pipeline/5-detail-and-finish/in/accuracy-precision.xml"/>
-    <!--<file name="algebraic-formulas" path="../pipeline/5-detail-and-finish/in/algebraic-formulas.xml"/>-->
+    <file name="algebraic-formulas" path="../pipeline/5-detail-and-finish/in/algebraic-formulas.xml"/>
     <file name="algorithm" path="../pipeline/5-detail-and-finish/in/algorithm.xml"/>
     <!--<file name="algorithm-for-autism" path="../pipeline/5-detail-and-finish/in/algorithm-for-autism.xml"/>-->
     <file name="antihistamines" path="../pipeline/5-detail-and-finish/in/algorithm.xml"/>

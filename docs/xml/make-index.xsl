@@ -173,6 +173,24 @@
                     <xsl:with-param name="label">Science news</xsl:with-param>
                 </xsl:call-template>
             </xsl:if>
+            <xsl:if test="//document/info[@type='wikipedia']">
+                <xsl:call-template name="process-other-document-type">
+                    <xsl:with-param name="type">wikipedia</xsl:with-param>
+                    <xsl:with-param name="label">Wikipedia articles</xsl:with-param>
+                </xsl:call-template>
+            </xsl:if>
+            <xsl:if test="//document/info[@type='textbook']">
+                <xsl:call-template name="process-other-document-type">
+                    <xsl:with-param name="type">textbook</xsl:with-param>
+                    <xsl:with-param name="label">Textbook extracts</xsl:with-param>
+                </xsl:call-template>
+            </xsl:if>
+            <xsl:if test="//document/info[@type='research-article']">
+                <xsl:call-template name="process-other-document-type">
+                    <xsl:with-param name="type">research-article</xsl:with-param>
+                    <xsl:with-param name="label">Research article extracts</xsl:with-param>
+                </xsl:call-template>
+            </xsl:if>
         </xsl:element>
     </xsl:template>
     

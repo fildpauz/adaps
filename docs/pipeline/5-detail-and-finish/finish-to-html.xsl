@@ -2,6 +2,8 @@
 <xsl:stylesheet version="1.0"
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <xsl:output method="html" encoding="UTF-8" indent="yes" />
+    <!--<xsl:strip-space elements="paragraph sentence anaphor abbr term connector emph" />-->
+    <xsl:preserve-space elements="t" />
     <xsl:variable name="lowercase" select="'abcdefghijklmnopqrstuvwxyz'" />
     <xsl:variable name="uppercase" select="'ABCDEFGHIJKLMNOPQRSTUVWXYZ'" />
 
@@ -101,12 +103,23 @@
             <xsl:attribute name="content">
                 <xsl:value-of select="." />
             </xsl:attribute>
-            <xsl:value-of select="." />
+            <!--<xsl:value-of select="." />-->
+            <xsl:apply-templates select="text()|sub|sup"/>
         </xsl:element>
         <xsl:if test="following-sibling::*[position()=1][not(self::punc)]">
             <xsl:text> </xsl:text>
         </xsl:if>
         <xsl:apply-templates select="following-sibling::*[position()=1]" />
+    </xsl:template>
+    
+<!--    <xsl:template match="text()">
+        <xsl:value-of select="."/>
+    </xsl:template>-->
+    
+    <xsl:template match="sub|sup">
+        <xsl:copy>
+            <xsl:value-of select="."/>
+        </xsl:copy>
     </xsl:template>
     
     <xsl:template match="punc">
@@ -230,13 +243,13 @@
         <xsl:variable name="connectorID" select="@id" />
         <xsl:variable name="connectorType" select="@type" />
         <xsl:variable name="lhsStartID"
-                              select="substring-before(substring-before(@info, ','), ':')" />
+                      select="substring-before(substring-before(@info, ','), ':')" />
         <xsl:variable name="lhsEndID"
-                              select="substring-after(substring-before(@info, ','), ':')" />
+                      select="substring-after(substring-before(@info, ','), ':')" />
         <xsl:variable name="rhsStartID"
-                              select="substring-before(substring-after(@info, ','), ':')" />
+                      select="substring-before(substring-after(@info, ','), ':')" />
         <xsl:variable name="rhsEndID"
-                              select="substring-after(substring-after(@info, ','), ':')" />
+                      select="substring-after(substring-after(@info, ','), ':')" />
         <xsl:element name="span">
             <xsl:attribute name="id">
                 <xsl:value-of select="$connectorID" />
@@ -351,7 +364,7 @@
                         <xsl:with-param name="currentID" select="$nextID" />
                         <xsl:with-param name="endID" select="$endID" />
                         <xsl:with-param name="text"
-                                                                select="concat($text, ' ', $currentText)" />
+                                        select="concat($text, ' ', $currentText)" />
                     </xsl:call-template>
                 </xsl:otherwise>
             </xsl:choose>
@@ -484,6 +497,7 @@
     </xsl:template>
 
     <xsl:template match="node()|@*">
-        <xsl:value-of select="normalize-space(.)" />
+        <!--<xsl:value-of select="normalize-space(.)" />-->
+        <xsl:value-of select="." />
     </xsl:template>
 </xsl:stylesheet>

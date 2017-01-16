@@ -97,7 +97,7 @@
   >
 
 <!--- Put your DTDDoc comment here. -->
-<!ELEMENT emph (t|punc|abbr|anaphor|term)*>
+<!ELEMENT emph (t|punc|abbr|anaphor|term|connector)*>
 
 <!--- Put your DTDDoc comment here. -->
 <!ELEMENT connector (t|anaphor|punc)*>
