@@ -90,7 +90,7 @@
   >
 
 <!--- Put your DTDDoc comment here. -->
-<!ELEMENT anaphor (t|punc)*>
+<!ELEMENT anaphor (t|punc|anaphor)*>
 <!ATTLIST anaphor
     id CDATA #IMPLIED
     info CDATA #IMPLIED
