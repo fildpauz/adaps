@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Keeping Signals Straight: How Cells Process Information and Make Decisions (Extract)</title>
+    <citation>Laub MT (2016) Keeping Signals Straight: How Cells Process Information and Make Decisions. PLoS Biol 14(7): e1002519. doi:10.1371/journal.pbio.1002519
+        Retrieved from http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002519 on 25 Jan 2017.</citation>
+    <url>http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002519</url>
+    <info type="research-article"/>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01">Abstract</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence id="p02-s01">
+                <t id="p02-s01-t01">As</t>
+                <t id="p02-s01-t02">we</t>
+                <t id="p02-s01-t03">become</t>
+                <t id="p02-s01-t04">increasingly</t>
+                <t id="p02-s01-t05">dependent</t>
+                <t id="p02-s01-t06">on</t>
+                <t id="p02-s01-t07">electronic</t>
+                <t id="p02-s01-t08">information</t>
+                <punc>-</punc>
+                <t id="p02-s01-t09">processing</t>
+                <t id="p02-s01-t10">systems</t>
+                <t id="p02-s01-t11">at</t>
+                <t id="p02-s01-t12">home</t>
+                <t id="p02-s01-t13">and</t>
+                <t id="p02-s01-t14">work</t>
+                <punc>,</punc>
+                <t id="p02-s01-t15">it's</t>
+                <t id="p02-s01-t16">easy</t>
+                <t id="p02-s01-t17">to</t>
+                <t id="p02-s01-t18">lose</t>
+                <t id="p02-s01-t19">sight</t>
+                <t id="p02-s01-t20">of</t>
+                <t id="p02-s01-t21">the</t>
+                <t id="p02-s01-t22">fact</t>
+                <t id="p02-s01-t23">that</t>
+                <t id="p02-s01-t24">our</t>
+                <t id="p02-s01-t25">very</t>
+                <t id="p02-s01-t26">survival</t>
+                <t id="p02-s01-t27">depends</t>
+                <t id="p02-s01-t28">on</t>
+                <t id="p02-s01-t29">highly</t>
+                <t id="p02-s01-t30">complex</t>
+                <t id="p02-s01-t31">biological</t>
+                <t id="p02-s01-t32">information</t>
+                <punc>-</punc>
+                <t id="p02-s01-t33">processing</t>
+                <t id="p02-s01-t34">systems</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s02">
+                <t id="p02-s02-t01">Each</t>
+                <t id="p02-s02-t02">of</t>
+                <t id="p02-s02-t03">the</t>
+                <t id="p02-s02-t04">trillions</t>
+                <t id="p02-s02-t05">of</t>
+                <t id="p02-s02-t06">cells</t>
+                <t id="p02-s02-t07">that</t>
+                <t id="p02-s02-t08">form</t>
+                <t id="p02-s02-t09">the</t>
+                <t id="p02-s02-t10">human</t>
+                <t id="p02-s02-t11">body</t>
+                <t id="p02-s02-t12">has</t>
+                <t id="p02-s02-t13">the</t>
+                <t id="p02-s02-t14">ability</t>
+                <t id="p02-s02-t15">to</t>
+                <t id="p02-s02-t16">detect</t>
+                <t id="p02-s02-t17">and</t>
+                <t id="p02-s02-t18">respond</t>
+                <t id="p02-s02-t19">to</t>
+                <t id="p02-s02-t20">a</t>
+                <t id="p02-s02-t21">wide</t>
+                <t id="p02-s02-t22">range</t>
+                <t id="p02-s02-t23">of</t>
+                <t id="p02-s02-t24">stimuli</t>
+                <t id="p02-s02-t25">and</t>
+                <t id="p02-s02-t26">inputs</t>
+                <punc>,</punc>
+                <t id="p02-s02-t27">using</t>
+                <t id="p02-s02-t28">an</t>
+                <t id="p02-s02-t29">extraordinary</t>
+                <t id="p02-s02-t30">set</t>
+                <t id="p02-s02-t31">of</t>
+                <t id="p02-s02-t32">signaling</t>
+                <t id="p02-s02-t33">proteins</t>
+                <t id="p02-s02-t34">to</t>
+                <t id="p02-s02-t35">process</t>
+                <t id="p02-s02-t36">this</t>
+                <t id="p02-s02-t37">information</t>
+                <t id="p02-s02-t38">and</t>
+                <t id="p02-s02-t39">make</t>
+                <t id="p02-s02-t40">decisions</t>
+                <t id="p02-s02-t41">accordingly</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s03">
+                <t id="p02-s03-t01">Indeed</t>
+                <punc>,</punc>
+                <t id="p02-s03-t02">cells</t>
+                <t id="p02-s03-t03">in</t>
+                <t id="p02-s03-t04">all</t>
+                <t id="p02-s03-t05">organisms</t>
+                <t id="p02-s03-t06">rely</t>
+                <t id="p02-s03-t07">on</t>
+                <t id="p02-s03-t08">these</t>
+                <t id="p02-s03-t09">signaling</t>
+                <t id="p02-s03-t10">proteins</t>
+                <t id="p02-s03-t11">to</t>
+                <t id="p02-s03-t12">survive</t>
+                <t id="p02-s03-t13">and</t>
+                <t id="p02-s03-t14">proliferate</t>
+                <t id="p02-s03-t15">in</t>
+                <t id="p02-s03-t16">unpredictable</t>
+                <t id="p02-s03-t17">and</t>
+                <t id="p02-s03-t18">sometimes</t>
+                <t id="p02-s03-t19">rapidly</t>
+                <t id="p02-s03-t20">changing</t>
+                <t id="p02-s03-t21">environments</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s04">
+                <t id="p02-s04-t01">But</t>
+                <t id="p02-s04-t02">how</t>
+                <t id="p02-s04-t03">exactly</t>
+                <t id="p02-s04-t04">do</t>
+                <t id="p02-s04-t05">these</t>
+                <t id="p02-s04-t06">proteins</t>
+                <t id="p02-s04-t07">relay</t>
+                <t id="p02-s04-t08">information</t>
+                <t id="p02-s04-t09">within</t>
+                <t id="p02-s04-t10">cells</t>
+                <punc>,</punc>
+                <t id="p02-s04-t11">and</t>
+                <t id="p02-s04-t12">how</t>
+                <t id="p02-s04-t13">do</t>
+                <t id="p02-s04-t14">they</t>
+                <t id="p02-s04-t15">keep</t>
+                <t id="p02-s04-t16">a</t>
+                <t id="p02-s04-t17">multitude</t>
+                <t id="p02-s04-t18">of</t>
+                <t id="p02-s04-t19">incoming</t>
+                <t id="p02-s04-t20">signals</t>
+                <t id="p02-s04-t21">straight</t>
+                <punc>?</punc>
+            </sentence>
+            <sentence id="p02-s05">
+                <t id="p02-s05-t01">Here</t>
+                <punc>,</punc>
+                <t id="p02-s05-t02">I</t>
+                <t id="p02-s05-t03">describe</t>
+                <t id="p02-s05-t04">recent</t>
+                <t id="p02-s05-t05">efforts</t>
+                <t id="p02-s05-t06">to</t>
+                <t id="p02-s05-t07">understand</t>
+                <t id="p02-s05-t08">the</t>
+                <t id="p02-s05-t09">fidelity</t>
+                <t id="p02-s05-t10">of</t>
+                <t id="p02-s05-t11">information</t>
+                <t id="p02-s05-t12">flow</t>
+                <t id="p02-s05-t13">inside</t>
+                <t id="p02-s05-t14">cells</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s06">
+                <t id="p02-s06-t01">This</t>
+                <t id="p02-s06-t02">work</t>
+                <t id="p02-s06-t03">is</t>
+                <t id="p02-s06-t04">providing</t>
+                <t id="p02-s06-t05">fundamental</t>
+                <t id="p02-s06-t06">insight</t>
+                <t id="p02-s06-t07">into</t>
+                <t id="p02-s06-t08">how</t>
+                <t id="p02-s06-t09">cells</t>
+                <t id="p02-s06-t10">function</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s07">
+                <t id="p02-s07-t01">Additionally</t>
+                <punc>,</punc>
+                <t id="p02-s07-t02">it</t>
+                <t id="p02-s07-t03">may</t>
+                <t id="p02-s07-t04">lead</t>
+                <t id="p02-s07-t05">to</t>
+                <t id="p02-s07-t06">the</t>
+                <t id="p02-s07-t07">design</t>
+                <t id="p02-s07-t08">of</t>
+                <t id="p02-s07-t09">novel</t>
+                <t id="p02-s07-t10">antibiotics</t>
+                <t id="p02-s07-t11">that</t>
+                <t id="p02-s07-t12">disrupt</t>
+                <t id="p02-s07-t13">the</t>
+                <t id="p02-s07-t14">signaling</t>
+                <t id="p02-s07-t15">of</t>
+                <t id="p02-s07-t16">pathogenic</t>
+                <t id="p02-s07-t17">bacteria</t>
+                <t id="p02-s07-t18">or</t>
+                <t id="p02-s07-t19">it</t>
+                <t id="p02-s07-t20">could</t>
+                <t id="p02-s07-t21">help</t>
+                <t id="p02-s07-t22">to</t>
+                <t id="p02-s07-t23">guide</t>
+                <t id="p02-s07-t24">the</t>
+                <t id="p02-s07-t25">treatment</t>
+                <t id="p02-s07-t26">of</t>
+                <t id="p02-s07-t27">cancer</t>
+                <punc>,</punc>
+                <t id="p02-s07-t28">which</t>
+                <t id="p02-s07-t29">often</t>
+                <t id="p02-s07-t30">involves</t>
+                <t id="p02-s07-t31">information</t>
+                <punc>-</punc>
+                <t id="p02-s07-t32">processing</t>
+                <t id="p02-s07-t33">gone</t>
+                <t id="p02-s07-t34">awry</t>
+                <t id="p02-s07-t35">inside</t>
+                <t id="p02-s07-t36">human</t>
+                <t id="p02-s07-t37">cells</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
