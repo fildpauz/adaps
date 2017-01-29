@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>How Brain Waves Help Us Make Sense of Speech (Extract)</title>
+    <citation>Weaver J (2013) How Brain Waves Help Us Make Sense of Speech. PLoS Biol 11(12): e1001753. doi:10.1371/journal. pbio.1001753</citation>
+    <url>http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001753</url>
+    <info type="arise">
+        <arise-info book="2"
+                    section="2"
+                    unit="6"
+                    part="2"
+                    item="D"
+                    firstpage="29"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence par-function="topic" id="p01-s01">
+                <t id="p01-s01-t01" type="GSL-1">Understanding</t>
+                <t id="p01-s01-t02" type="GSL-1">a</t>
+                <t id="p01-s01-t03" type="GSL-2">sentence</t>
+                <t id="p01-s01-t04" type="GSL-1">that</t>
+                <t id="p01-s01-t05" type="GSL-1">someone</t>
+                <t id="p01-s01-t06" type="GSL-1">else</t>
+                <t id="p01-s01-t07">utters</t>
+                <t id="p01-s01-t08" type="GSL-1">may</t>
+                <t id="p01-s01-t09" type="GSL-1">seem</t>
+                <t id="p01-s01-t10">effortless</t>
+                <t id="p01-s01-t11" type="GSL-1">to</t>
+                <t id="p01-s01-t12" type="GSL-1">you</t>
+                <punc>,</punc>
+                <connector id="p01-s01-c01" type="violated expectation" info="p01-s01-t01:p01-s01-t12,p01-s01-t14:p01-s01-t33">
+                    <t id="p01-s01-t13" type="GSL-1">but</t>
+                </connector>
+                <anaphor id="p01-s01-a01" info="p01-s01-t01:p01-s01-t07">
+                    <t id="p01-s01-t14">it's</t>
+                </anaphor>
+                <t id="p01-s01-t15" type="GSL-1">actually</t>
+                <t id="p01-s01-t16" type="GSL-1">a</t>
+                <t id="p01-s01-t17" type="Coxhead-AWL-2,AR-AWL-2a">complex</t>
+                <t id="p01-s01-t18" type="Coxhead-AWL-1,AR-AWL-1b">process</t>
+                <connector id="p01-s01-c02" type="explanation" info="p01-s01-t14:p01-s01-t18,p01-s01-t20:p01-s01-t33">
+                    <t id="p01-s01-t19" type="GSL-1">because</t>
+                </connector>
+                <t id="p01-s01-t20" type="GSL-1">you</t>
+                <t id="p01-s01-t21" type="GSL-1">have</t>
+                <t id="p01-s01-t22" type="GSL-1">to</t>
+                <t id="p01-s01-t23">parse</t>
+                <anaphor id="p01-s01-a02" info="p01-s01-t02:p01-s01-t07">
+                    <t id="p01-s01-t24" type="GSL-1">that</t>
+                    <t id="p01-s01-t25" type="GSL-2">sentence</t>
+                </anaphor>
+                <t id="p01-s01-t26" type="GSL-1">into</t>
+                <t id="p01-s01-t27" type="GSL-1">many</t>
+                <t id="p01-s01-t28" type="GSL-1">parts</t>
+                <t id="p01-s01-t29" type="GSL-1">to</t>
+                <t id="p01-s01-t30" type="GSL-1">understand</t>
+                <t id="p01-s01-t31" type="GSL-1">what</t>
+                <anaphor id="p01-s01-a03" info="p01-s01-t02:p01-s01-t07">
+                    <t id="p01-s01-t32" type="GSL-1">it</t>
+                </anaphor>
+                <t id="p01-s01-t33" type="GSL-1">means</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s02">
+                <t id="p01-s02-t01" type="GSL-1">Speech</t>
+                <t id="p01-s02-t02" type="Coxhead-AWL-1,AR-AWL-1a">consists</t>
+                <t id="p01-s02-t03" type="GSL-1">of</t>
+                <t id="p01-s02-t04" type="GSL-1">a</t>
+                <t id="p01-s02-t05" type="Coxhead-AWL-7,AR-AWL-7a">hierarchy</t>
+                <t id="p01-s02-t06" type="GSL-1">of</t>
+                <t id="p01-s02-t07" type="Coxhead-AWL-3,AR-AWL-3a">components</t>
+                <t id="p01-s02-t08" type="GSL-1">that</t>
+                <t id="p01-s02-t09" type="GSL-1">each</t>
+                <t id="p01-s02-t10" type="GSL-1">takes</t>
+                <t id="p01-s02-t11" type="GSL-1">place</t>
+                <t id="p01-s02-t12" type="GSL-1">on</t>
+                <t id="p01-s02-t13" type="GSL-1">a</t>
+                <t id="p01-s02-t14" type="GSL-1">different</t>
+                <t id="p01-s02-t15">timescale</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s03">
+                <t id="p01-s03-t01" type="GSL-1">Speech</t>
+                <t id="p01-s03-t02">cues</t>
+                <t id="p01-s03-t03" type="GSL-1">such</t>
+                <t id="p01-s03-t04" type="GSL-1">as</t>
+                <t id="p01-s03-t05">intonation</t>
+                <t id="p01-s03-t06" type="Coxhead-AWL-1,AR-AWL-1b">occur</t>
+                <t id="p01-s03-t07" type="GSL-1">on</t>
+                <t id="p01-s03-t08" type="GSL-1">a</t>
+                <t id="p01-s03-t09" type="GSL-1">relatively</t>
+                <t id="p01-s03-t10" type="GSL-1">long</t>
+                <t id="p01-s03-t11">timescale</t>
+                <punc>,</punc>
+                <t id="p01-s03-t12">unfolding</t>
+                <t id="p01-s03-t13" type="GSL-1">over</t>
+                <t id="p01-s03-t14" type="GSL-1">hundreds</t>
+                <t id="p01-s03-t15" type="GSL-1">of</t>
+                <t id="p01-s03-t16">milliseconds</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s04">
+                <t id="p01-s04-t01" type="GSL-1">At</t>
+                <t id="p01-s04-t02" type="GSL-1">the</t>
+                <t id="p01-s04-t03" type="GSL-1">other</t>
+                <t id="p01-s04-t04" type="GSL-1">end</t>
+                <t id="p01-s04-t05" type="GSL-1">of</t>
+                <t id="p01-s04-t06" type="GSL-1">the</t>
+                <t id="p01-s04-t07">spectrum</t>
+                <t id="p01-s04-t08" type="GSL-1">is</t>
+                <t id="p01-s04-t09" type="GSL-1">the</t>
+                <t id="p01-s04-t10">phoneme</t>
+                <punc>—</punc>
+                <t id="p01-s04-t11" type="GSL-1">the</t>
+                <t id="p01-s04-t12" type="GSL-1">smallest</t>
+                <t id="p01-s04-t13" type="GSL-1">unit</t>
+                <t id="p01-s04-t14" type="GSL-1">of</t>
+                <t id="p01-s04-t15">speech</t>
+                <punc>—</punc>
+                <t id="p01-s04-t16" type="GSL-1">which</t>
+                <t id="p01-s04-t17" type="GSL-1">lasts</t>
+                <t id="p01-s04-t18" type="GSL-1">only</t>
+                <t id="p01-s04-t19" type="GSL-1">tens</t>
+                <t id="p01-s04-t20" type="GSL-1">of</t>
+                <t id="p01-s04-t21">milliseconds</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence par-function="topic" id="p02-s01">
+                <connector id="p02-s01-c01" type="similarity" info="p01-s02-t01:p01-s02-t15,p02-s01-t02:p02-s01-t23">
+                    <t id="p02-s01-t01" type="Coxhead-AWL-1,AR-AWL-1b">Similarly</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p02-s01-t02" type="Coxhead-AWL-2,AR-AWL-2a">distinct</t>
+                <t id="p02-s01-t03" type="GSL-1">sets</t>
+                <t id="p02-s01-t04" type="GSL-1">of</t>
+                <t id="p02-s01-t05">neurons</t>
+                <t id="p02-s01-t06" type="GSL-1">in</t>
+                <t id="p02-s01-t07" type="GSL-1">the</t>
+                <t id="p02-s01-t08" type="GSL-2">brain</t>
+                <t id="p02-s01-t09" type="GSL-1">fire</t>
+                <t id="p02-s01-t10">rhythmically</t>
+                <t id="p02-s01-t11" type="GSL-1">at</t>
+                <t id="p02-s01-t12" type="GSL-1">different</t>
+                <t id="p02-s01-t13" type="GSL-1">rates</t>
+                <punc>,</punc>
+                <connector id="p02-s01-c02" type="elaboration" info="p02-s01-t02:p02-s01-t13,p02-s01-t15:p02-s01-t23">
+                    <t id="p02-s01-t14" type="GSL-1">and</t>
+                </connector>
+                <anaphor id="p02-s01-a01" info="p02-s01-t09:p02-s01-t13">
+                    <t id="p02-s01-t15" type="GSL-1">these</t>
+                    <t id="p02-s01-t16">oscillations</t>
+                </anaphor>
+                <t id="p02-s01-t17" type="GSL-1">can</t>
+                <t id="p02-s01-t18" type="GSL-1">also</t>
+                <t id="p02-s01-t19" type="GSL-1">be</t>
+                <t id="p02-s01-t20" type="GSL-2">arranged</t>
+                <t id="p02-s01-t21" type="GSL-1">in</t>
+                <t id="p02-s01-t22" type="GSL-1">a</t>
+                <t id="p02-s01-t23" type="Coxhead-AWL-7,AR-AWL-7a">hierarchy</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p02-s02">
+                <connector id="p02-s02-c01" type="example" info="p02-s01-t15:p02-s01-t23,p02-s02-t03:p02-s02-t25">
+                    <t id="p02-s02-t01" type="GSL-1">For</t>
+                    <t id="p02-s02-t02" type="Coxhead-AWL-3,AR-AWL-3a">instance</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p02-s02-t03" type="GSL-2">slow</t>
+                <t id="p02-s02-t04">delta-wave</t>
+                <t id="p02-s02-t05">oscillations</t>
+                <t id="p02-s02-t06" type="GSL-1">can</t>
+                <t id="p02-s02-t07" type="GSL-1">influence</t>
+                <t id="p02-s02-t08" type="GSL-1">the</t>
+                <t id="p02-s02-t09">magnitude</t>
+                <t id="p02-s02-t10" type="GSL-1">of</t>
+                <t id="p02-s02-t11" type="GSL-1">faster</t>
+                <t id="p02-s02-t12">theta</t>
+                <t id="p02-s02-t13">oscillations</t>
+                <punc>,</punc>
+                <t id="p02-s02-t14" type="GSL-1">which</t>
+                <t id="p02-s02-t15" type="GSL-1">in</t>
+                <t id="p02-s02-t16" type="GSL-1">turn</t>
+                <t id="p02-s02-t17" type="GSL-1">can</t>
+                <t id="p02-s02-t18" type="Coxhead-AWL-5,AR-AWL-5a">alter</t>
+                <t id="p02-s02-t19" type="GSL-1">the</t>
+                <t id="p02-s02-t20">amplitude</t>
+                <t id="p02-s02-t21" type="GSL-1">of</t>
+                <t id="p02-s02-t22" type="GSL-1">even</t>
+                <t id="p02-s02-t23" type="GSL-1">faster</t>
+                <t id="p02-s02-t24">gamma</t>
+                <t id="p02-s02-t25">oscillations</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p02-s03">
+                <t id="p02-s03-t01">Rhythmic</t>
+                <t id="p02-s03-t02" type="GSL-2">brain</t>
+                <t id="p02-s03-t03" type="GSL-1">activity</t>
+                <t id="p02-s03-t04" type="GSL-1">plays</t>
+                <t id="p02-s03-t05" type="GSL-1">an</t>
+                <t id="p02-s03-t06" type="GSL-1">important</t>
+                <t id="p02-s03-t07" type="Coxhead-AWL-1,AR-AWL-1b">role</t>
+                <t id="p02-s03-t08" type="GSL-1">in</t>
+                <t id="p02-s03-t09" type="GSL-1">a</t>
+                <t id="p02-s03-t10" type="GSL-1">variety</t>
+                <t id="p02-s03-t11" type="GSL-1">of</t>
+                <t id="p02-s03-t12">cognitive</t>
+                <t id="p02-s03-t13" type="Coxhead-AWL-1,AR-AWL-1b">processes</t>
+                <punc>,</punc>
+                <t id="p02-s03-t14" type="GSL-1">including</t>
+                <t id="p02-s03-t15" type="GSL-2">attention</t>
+                <punc>,</punc>
+                <t id="p02-s03-t16" type="GSL-1">memory</t>
+                <punc>,</punc>
+                <t id="p02-s03-t17" type="GSL-1">and</t>
+                <t id="p02-s03-t18">decision-making</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

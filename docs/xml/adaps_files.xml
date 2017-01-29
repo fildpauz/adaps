@@ -14,7 +14,8 @@ and open the template in the editor.
     <file name="antihistamines" path="../pipeline/5-detail-and-finish/in/algorithm.xml"/>
     <file name="artificial-intelligence" path="../pipeline/5-detail-and-finish/in/artificial-intelligence.xml"/>
     <!--<file name="asteroid-crater" path="../pipeline/5-detail-and-finish/in/asteroid-crater.xml"/>-->
-    <file name="augmented-reality" path="../pipeline/5-detail-and-finish/in/augmented-reality.xml"/>
+    <!--<file name="augmented-reality" path="../pipeline/5-detail-and-finish/in/augmented-reality.xml"/>-->
+    <file name="basic-and-applied-science" path="../pipeline/5-detail-and-finish/in/basic-and-applied-science.xml"/>
     <file name="body-shape-index" path="../pipeline/5-detail-and-finish/in/body-shape-index.xml"/>
     <file name="cause-and-effect-connectors-1" path="../pipeline/5-detail-and-finish/in/cause-and-effect-connectors-1.xml"/>
     <file name="cause-and-effect-connectors-2" path="../pipeline/5-detail-and-finish/in/cause-and-effect-connectors-2.xml"/>
@@ -38,7 +39,7 @@ and open the template in the editor.
     <file name="facebook1" path="../pipeline/5-detail-and-finish/in/facebook1.xml"/>
     <file name="facebook2" path="../pipeline/5-detail-and-finish/in/facebook2.xml"/>
     <file name="fashion" path="../pipeline/5-detail-and-finish/in/fashion.xml"/>
-    <file name="fast-radio-telescope" path="../pipeline/5-detail-and-finish/in/fast-radio-telescope.xml"/>
+    <!--<file name="fast-radio-telescope" path="../pipeline/5-detail-and-finish/in/fast-radio-telescope.xml"/>-->
     <!--<file name="fracture-geology" path="../pipeline/5-detail-and-finish/in/fracture-geology.xml"/>-->
     <!--<file name="granite" path="../pipeline/5-detail-and-finish/in/granite.xml"/>-->
     <file name="gravity" path="../pipeline/5-detail-and-finish/in/gravity.xml"/>
@@ -46,13 +47,16 @@ and open the template in the editor.
     <file name="hawaiian-crows" path="../pipeline/5-detail-and-finish/in/hawaiian-crows.xml"/>
     <file name="information-systems" path="../pipeline/5-detail-and-finish/in/information-systems.xml"/>
     <file name="insulin" path="../pipeline/5-detail-and-finish/in/insulin.xml"/>
+    <file name="intensive-agriculture" path="../pipeline/5-detail-and-finish/in/intensive-agriculture.xml"/>
     <file name="kawaii" path="../pipeline/5-detail-and-finish/in/kawaii.xml"/>
     <file name="landslide" path="../pipeline/5-detail-and-finish/in/landslide.xml"/>
     <file name="language-learning-obj" path="../pipeline/5-detail-and-finish/in/language-learning-obj.xml"/>
     <file name="language-learning-subj" path="../pipeline/5-detail-and-finish/in/language-learning-subj.xml"/>
+    <file name="light-microscope" path="../pipeline/5-detail-and-finish/in/light-microscope.xml"/>
     <file name="maria-mitchell" path="../pipeline/5-detail-and-finish/in/maria-mitchell.xml"/>
     <file name="math-anxiety" path="../pipeline/5-detail-and-finish/in/math-anxiety.xml"/>
     <!--<file name="molluscan-community" path="../pipeline/5-detail-and-finish/in/molluscan-community.xml"/>-->
+    <file name="neurons" path="../pipeline/5-detail-and-finish/in/neurons.xml"/>
     <file name="origami-robot" path="../pipeline/5-detail-and-finish/in/origami-robot.xml"/>
     <file name="other-connectors-1" path="../pipeline/5-detail-and-finish/in/other-connectors-1.xml"/>
     <file name="other-connectors-2" path="../pipeline/5-detail-and-finish/in/other-connectors-2.xml"/>

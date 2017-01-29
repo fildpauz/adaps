@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Light microscopes (Extract from Biology)</title>
+    <citation>OpenStax College, Biology. OpenStax College. 30 May 2013</citation>
+    <url>http://cnx.org/content/col11448/latest/</url>
+    <info type="arise">
+        <arise-info book="1"
+                    section="3"
+                    unit="2"
+                    part="2"
+                    item="A"
+                    firstpage="36"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence par-function="topic" id="p01-s01">
+                <t id="p01-s01-t01" type="GSL-1">To</t>
+                <t id="p01-s01-t02" type="GSL-1">give</t>
+                <t id="p01-s01-t03" type="GSL-1">you</t>
+                <t id="p01-s01-t04" type="GSL-1">a</t>
+                <t id="p01-s01-t05" type="GSL-1">sense</t>
+                <t id="p01-s01-t06" type="GSL-1">of</t>
+                <t id="p01-s01-t07">cell</t>
+                <t id="p01-s01-t08" type="GSL-1">size</t>
+                <punc>,</punc>
+                <t id="p01-s01-t09" type="GSL-1">a</t>
+                <t id="p01-s01-t10" type="GSL-2">typical</t>
+                <t id="p01-s01-t11" type="GSL-1">human</t>
+                <t id="p01-s01-t12" type="GSL-1">red</t>
+                <t id="p01-s01-t13" type="GSL-1">blood</t>
+                <t id="p01-s01-t14">cell</t>
+                <t id="p01-s01-t15" type="GSL-1">is</t>
+                <t id="p01-s01-t16" type="GSL-1">about</t>
+                <t id="p01-s01-t17" type="GSL-1">eight</t>
+                <t id="p01-s01-t18">millionths</t>
+                <t id="p01-s01-t19" type="GSL-1">of</t>
+                <t id="p01-s01-t20" type="GSL-1">a</t>
+                <t id="p01-s01-t21">meter</t>
+                <t id="p01-s01-t22" type="GSL-1">or</t>
+                <t id="p01-s01-t23" type="GSL-1">eight</t>
+                <t id="p01-s01-t24">micrometers</t>
+                <punc>(</punc>
+                <t id="p01-s01-t25">abbreviated</t>
+                <t id="p01-s01-t26" type="GSL-1">as</t>
+                <t id="p01-s01-t27" type="GSL-1">eight</t>
+                <abbr id="p01-s01-b01" info="p01-s01-t24:p01-s01-t24">
+                    <t id="p01-s01-t28">μm</t>
+                </abbr>
+                <punc>)</punc>
+                <t id="p01-s01-t29" type="GSL-1">in</t>
+                <t id="p01-s01-t30">diameter</t>
+                <punc>;</punc>
+                <t id="p01-s01-t31" type="GSL-1">the</t>
+                <t id="p01-s01-t32" type="GSL-1">head</t>
+                <t id="p01-s01-t33" type="GSL-1">of</t>
+                <t id="p01-s01-t34" type="GSL-1">a</t>
+                <t id="p01-s01-t35" type="GSL-2">pin</t>
+                <t id="p01-s01-t36" type="GSL-1">of</t>
+                <t id="p01-s01-t37" type="GSL-1">is</t>
+                <t id="p01-s01-t38" type="GSL-1">about</t>
+                <t id="p01-s01-t39" type="GSL-1">two</t>
+                <t id="p01-s01-t40" type="GSL-1">thousandths</t>
+                <t id="p01-s01-t41" type="GSL-1">of</t>
+                <t id="p01-s01-t42" type="GSL-1">a</t>
+                <t id="p01-s01-t43">meter</t>
+                <punc>(</punc>
+                <t id="p01-s01-t44" type="GSL-1">two</t>
+                <abbr id="p01-s01-b02" info="p01-s01-t40:p01-s01-t43">
+                    <t id="p01-s01-t45">mm</t>
+                </abbr>
+                <punc>)</punc>
+                <t id="p01-s01-t46" type="GSL-1">in</t>
+                <t id="p01-s01-t47">diameter</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s02">
+                <anaphor id="p01-s02-a01" info="p01-s01-t09:p01-s01-t47">
+                    <t id="p01-s02-t01" type="GSL-1">That</t>
+                </anaphor>
+                <t id="p01-s02-t02" type="GSL-1">means</t>
+                <t id="p01-s02-t03" type="GSL-1">about</t>
+                <t id="p01-s02-t04">250</t>
+                <t id="p01-s02-t05" type="GSL-1">red</t>
+                <t id="p01-s02-t06" type="GSL-1">blood</t>
+                <t id="p01-s02-t07">cells</t>
+                <t id="p01-s02-t08" type="GSL-1">could</t>
+                <t id="p01-s02-t09" type="GSL-1">fit</t>
+                <t id="p01-s02-t10" type="GSL-1">on</t>
+                <t id="p01-s02-t11" type="GSL-1">the</t>
+                <t id="p01-s02-t12" type="GSL-1">head</t>
+                <t id="p01-s02-t13" type="GSL-1">of</t>
+                <t id="p01-s02-t14" type="GSL-1">a</t>
+                <t id="p01-s02-t15" type="GSL-2">pin</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence par-function="topic" id="p02-s01">
+                <t id="p02-s01-t01" type="GSL-1">Most</t>
+                <t id="p02-s01-t02" type="GSL-1">student</t>
+                <t id="p02-s01-t03">microscopes</t>
+                <t id="p02-s01-t04" type="GSL-1">are</t>
+                <t id="p02-s01-t05" type="GSL-1">classified</t>
+                <t id="p02-s01-t06" type="GSL-1">as</t>
+                <emph>
+                    <term id="p02-s01-e01" info="p02-s02-t01:p02-s02-t18">
+                        <t id="p02-s01-t07" type="GSL-1">light</t>
+                        <t id="p02-s01-t08">microscopes</t>
+                    </term>
+                </emph>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p02-s02">
+                <t id="p02-s02-t01" type="Coxhead-AWL-7,AR-AWL-7b">Visible</t>
+                <t id="p02-s02-t02" type="GSL-1">light</t>
+                <t id="p02-s02-t03" type="GSL-1">passes</t>
+                <t id="p02-s02-t04" type="GSL-1">and</t>
+                <t id="p02-s02-t05" type="GSL-1">is</t>
+                <t id="p02-s02-t06" type="GSL-2">bent</t>
+                <t id="p02-s02-t07" type="GSL-1">through</t>
+                <t id="p02-s02-t08" type="GSL-1">the</t>
+                <t id="p02-s02-t09">lens</t>
+                <t id="p02-s02-t10" type="GSL-1">system</t>
+                <t id="p02-s02-t11" type="GSL-1">to</t>
+                <t id="p02-s02-t12" type="Coxhead-AWL-5,AR-AWL-5a">enable</t>
+                <t id="p02-s02-t13" type="GSL-1">the</t>
+                <t id="p02-s02-t14" type="GSL-1">user</t>
+                <t id="p02-s02-t15" type="GSL-1">to</t>
+                <t id="p02-s02-t16" type="GSL-1">see</t>
+                <t id="p02-s02-t17" type="GSL-1">the</t>
+                <t id="p02-s02-t18">specimen</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p02-s03">
+                <t id="p02-s03-t01" type="GSL-1">Light</t>
+                <t id="p02-s03-t02">microscopes</t>
+                <t id="p02-s03-t03" type="GSL-1">are</t>
+                <t id="p02-s03-t04">advantageous</t>
+                <t id="p02-s03-t05" type="GSL-1">for</t>
+                <t id="p02-s03-t06" type="GSL-1">viewing</t>
+                <t id="p02-s03-t07" type="GSL-1">living</t>
+                <t id="p02-s03-t08">organisms</t>
+                <punc>,</punc>
+                <connector id="p02-s03-c01" type="violated expectation" info="p02-s03-t01:p02-s03-t08,p02-s03-t10:p02-s03-t27">
+                    <t id="p02-s03-t09" type="GSL-1">but</t>
+                </connector>
+                <connector id="p02-s03-c02" type="explanation" info="p02-s03-t16:p02-s03-t27,p02-s03-t11:p02-s03-t15">
+                    <t id="p02-s03-t10" type="GSL-1">since</t>
+                </connector>
+                <t id="p02-s03-t11" type="Coxhead-AWL-1,AR-AWL-1b">individual</t>
+                <t id="p02-s03-t12">cells</t>
+                <t id="p02-s03-t13" type="GSL-1">are</t>
+                <t id="p02-s03-t14" type="GSL-1">generally</t>
+                <t id="p02-s03-t15">transparent</t>
+                <punc>,</punc>
+                <anaphor id="p02-s03-a01" info="p02-s03-t11:p02-s03-t12">
+                    <t id="p02-s03-t16" type="GSL-1">their</t>
+                </anaphor>
+                <t id="p02-s03-t17" type="Coxhead-AWL-3,AR-AWL-3a">components</t>
+                <t id="p02-s03-t18" type="GSL-1">are</t>
+                <t id="p02-s03-t19" type="GSL-1">not</t>
+                <t id="p02-s03-t20" type="GSL-1">distinguishable</t>
+                <t id="p02-s03-t21" type="GSL-1">unless</t>
+                <t id="p02-s03-t22" type="GSL-1">they</t>
+                <t id="p02-s03-t23" type="GSL-1">are</t>
+                <t id="p02-s03-t24" type="GSL-1">colored</t>
+                <t id="p02-s03-t25" type="GSL-1">with</t>
+                <t id="p02-s03-t26" type="GSL-1">special</t>
+                <t id="p02-s03-t27" type="GSL-2">stains</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p02-s04">
+                <t id="p02-s04-t01" type="GSL-2">Staining</t>
+                <punc>,</punc>
+                <connector id="p02-s04-c01" type="violated expectation" info="p02-s03-t16:p02-s03-t27,p02-s04-t03:p02-s04-t06">
+                    <t id="p02-s04-t02" type="GSL-1">however</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p02-s04-t03" type="GSL-1">usually</t>
+                <t id="p02-s04-t04" type="GSL-1">kills</t>
+                <anaphor id="p02-s04-a01" info="p02-s03-t11:p02-s03-t12">
+                    <t id="p02-s04-t05" type="GSL-1">the</t>
+                    <t id="p02-s04-t06">cells</t>
+                </anaphor>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p02-s05">
+                <t id="p02-s05-t01" type="GSL-1">Light</t>
+                <t id="p02-s05-t02">microscopes</t>
+                <t id="p02-s05-t03" type="GSL-1">commonly</t>
+                <t id="p02-s05-t04" type="GSL-1">used</t>
+                <t id="p02-s05-t05" type="GSL-1">in</t>
+                <t id="p02-s05-t06" type="GSL-1">the</t>
+                <t id="p02-s05-t07">undergraduate</t>
+                <t id="p02-s05-t08" type="GSL-1">college</t>
+                <t id="p02-s05-t09">laboratory</t>
+                <t id="p02-s05-t10">magnify</t>
+                <t id="p02-s05-t11" type="GSL-1">up</t>
+                <t id="p02-s05-t12" type="GSL-1">to</t>
+                <t id="p02-s05-t13" type="Coxhead-AWL-4,AR-AWL-4a">approximately</t>
+                <t id="p02-s05-t14">400</t>
+                <t id="p02-s05-t15" type="GSL-1">times</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p02-s06">
+                <t id="p02-s06-t01" type="GSL-1">Two</t>
+                <t id="p02-s06-t02" type="Coxhead-AWL-4,AR-AWL-4b">parameters</t>
+                <t id="p02-s06-t03" type="GSL-1">that</t>
+                <t id="p02-s06-t04" type="GSL-1">are</t>
+                <t id="p02-s06-t05" type="GSL-1">important</t>
+                <t id="p02-s06-t06" type="GSL-1">in</t>
+                <t id="p02-s06-t07">microscopy</t>
+                <t id="p02-s06-t08" type="GSL-1">are</t>
+                <t id="p02-s06-t09">magnification</t>
+                <t id="p02-s06-t10" type="GSL-1">and</t>
+                <t id="p02-s06-t11" type="Coxhead-AWL-4,AR-AWL-4b">resolving</t>
+                <t id="p02-s06-t12" type="GSL-1">power</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p02-s07">
+                <term id="p02-s07-e01" info="p02-s07-t03:p02-s07-t10">
+                    <t id="p02-s07-t01">Magnification</t>
+                </term>
+                <t id="p02-s07-t02" type="GSL-1">is</t>
+                <t id="p02-s07-t03" type="GSL-1">the</t>
+                <t id="p02-s07-t04" type="Coxhead-AWL-1,AR-AWL-1b">process</t>
+                <t id="p02-s07-t05" type="GSL-1">of</t>
+                <t id="p02-s07-t06">enlarging</t>
+                <t id="p02-s07-t07" type="GSL-1">an</t>
+                <t id="p02-s07-t08" type="GSL-1">object</t>
+                <t id="p02-s07-t09" type="GSL-1">in</t>
+                <t id="p02-s07-t10" type="GSL-1">appearance</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p02-s08">
+                <term id="p02-s08-e01" info="p02-s08-t04:p02-s08-t15">
+                    <t id="p02-s08-t01" type="Coxhead-AWL-4,AR-AWL-4b">Resolving</t>
+                    <t id="p02-s08-t02" type="GSL-1">power</t>
+                </term>
+                <t id="p02-s08-t03" type="GSL-1">is</t>
+                <t id="p02-s08-t04" type="GSL-1">the</t>
+                <t id="p02-s08-t05" type="GSL-1">ability</t>
+                <t id="p02-s08-t06" type="GSL-1">of</t>
+                <t id="p02-s08-t07" type="GSL-1">a</t>
+                <t id="p02-s08-t08">microscope</t>
+                <t id="p02-s08-t09" type="GSL-1">to</t>
+                <t id="p02-s08-t10" type="GSL-1">distinguish</t>
+                <t id="p02-s08-t11" type="GSL-1">two</t>
+                <t id="p02-s08-t12" type="Coxhead-AWL-10,AR-AWL-10">adjacent</t>
+                <t id="p02-s08-t13" type="Coxhead-AWL-1,AR-AWL-1b">structures</t>
+                <t id="p02-s08-t14" type="GSL-1">as</t>
+                <t id="p02-s08-t15" type="GSL-1">separate</t>
+                <punc>:</punc>
+                <t id="p02-s08-t16" type="GSL-1">the</t>
+                <t id="p02-s08-t17" type="GSL-1">higher</t>
+                <t id="p02-s08-t18" type="GSL-1">the</t>
+                <t id="p02-s08-t19" type="Coxhead-AWL-4,AR-AWL-4b">resolution</t>
+                <punc>,</punc>
+                <t id="p02-s08-t20" type="GSL-1">the</t>
+                <t id="p02-s08-t21" type="GSL-1">better</t>
+                <t id="p02-s08-t22" type="GSL-1">the</t>
+                <t id="p02-s08-t23" type="Coxhead-AWL-8,AR-AWL-8a">clarity</t>
+                <t id="p02-s08-t24" type="GSL-1">and</t>
+                <t id="p02-s08-t25" type="GSL-1">detail</t>
+                <t id="p02-s08-t26" type="GSL-1">of</t>
+                <t id="p02-s08-t27" type="GSL-1">the</t>
+                <t id="p02-s08-t28" type="Coxhead-AWL-5,AR-AWL-5a">image</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p02-s09">
+                <connector id="p02-s09-c01" type="condition" info="p02-s09-t13:p02-s09-t19,p02-s09-t02:p02-s09-t12">
+                    <t id="p02-s09-t01" type="GSL-1">When</t>
+                </connector>
+                <t id="p02-s09-t02" type="GSL-1">oil</t>
+                <t id="p02-s09-t03">immersion</t>
+                <t id="p02-s09-t04">lenses</t>
+                <t id="p02-s09-t05" type="GSL-1">are</t>
+                <t id="p02-s09-t06" type="GSL-1">used</t>
+                <t id="p02-s09-t07" type="GSL-1">for</t>
+                <t id="p02-s09-t08" type="GSL-1">the</t>
+                <t id="p02-s09-t09" type="GSL-1">study</t>
+                <t id="p02-s09-t10" type="GSL-1">of</t>
+                <t id="p02-s09-t11" type="GSL-1">small</t>
+                <t id="p02-s09-t12" type="GSL-1">objects</t>
+                <punc>,</punc>
+                <t id="p02-s09-t13">magnification</t>
+                <t id="p02-s09-t14" type="GSL-1">is</t>
+                <t id="p02-s09-t15" type="GSL-1">usually</t>
+                <t id="p02-s09-t16" type="GSL-1">increased</t>
+                <t id="p02-s09-t17" type="GSL-1">to</t>
+                <t id="p02-s09-t18">1,000</t>
+                <t id="p02-s09-t19" type="GSL-1">times</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p02-s10">
+                <t id="p02-s10-t01" type="GSL-1">In</t>
+                <t id="p02-s10-t02" type="GSL-1">order</t>
+                <t id="p02-s10-t03" type="GSL-1">to</t>
+                <t id="p02-s10-t04" type="GSL-1">gain</t>
+                <t id="p02-s10-t05" type="GSL-1">a</t>
+                <t id="p02-s10-t06" type="GSL-1">better</t>
+                <t id="p02-s10-t07" type="GSL-1">understanding</t>
+                <t id="p02-s10-t08" type="GSL-1">of</t>
+                <t id="p02-s10-t09">cellular</t>
+                <t id="p02-s10-t10" type="Coxhead-AWL-1,AR-AWL-1b">structure</t>
+                <t id="p02-s10-t11" type="GSL-1">and</t>
+                <t id="p02-s10-t12" type="Coxhead-AWL-1,AR-AWL-1a">function</t>
+                <punc>,</punc>
+                <t id="p02-s10-t13" type="GSL-1">scientists</t>
+                <t id="p02-s10-t14" type="GSL-2">typically</t>
+                <t id="p02-s10-t15" type="GSL-1">use</t>
+                <t id="p02-s10-t16">electron</t>
+                <t id="p02-s10-t17">microscopes</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
