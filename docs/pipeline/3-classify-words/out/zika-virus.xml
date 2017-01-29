@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Zika virus</title>
+    <citation>Wikipedia contributors, “Zika virus,” Wikipedia, The Free Encyclopedia,
+        Retrieved from https://simple.wikipedia.org/w/index.php?title=Zika_virus&amp;oldid=5557111 on 25 Jan 2017.</citation>
+    <url>https://simple.wikipedia.org/wiki/Zika_virus</url>
+    <info type="wikipedia"/>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01">Zika</t>
+                <t id="p01-s01-t02">virus</t>
+                <punc>(</punc>
+                <t id="p01-s01-t03">ZIKV</t>
+                <punc>)</punc>
+                <t id="p01-s01-t04" type="GSL-1">belongs</t>
+                <t id="p01-s01-t05" type="GSL-1">to</t>
+                <t id="p01-s01-t06" type="GSL-1">the</t>
+                <t id="p01-s01-t07">virus</t>
+                <t id="p01-s01-t08" type="GSL-1">family</t>
+                <t id="p01-s01-t09">Flaviviridae</t>
+                <t id="p01-s01-t10" type="GSL-1">and</t>
+                <t id="p01-s01-t11" type="GSL-1">the</t>
+                <t id="p01-s01-t12">genus</t>
+                <t id="p01-s01-t13">Flavivirus</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01" type="GSL-1">It</t>
+                <t id="p01-s02-t02" type="GSL-1">is</t>
+                <t id="p01-s02-t03" type="GSL-1">spread</t>
+                <t id="p01-s02-t04" type="GSL-1">by</t>
+                <t id="p01-s02-t05">mosquitoes</t>
+                <t id="p01-s02-t06" type="GSL-1">from</t>
+                <t id="p01-s02-t07" type="GSL-1">the</t>
+                <t id="p01-s02-t08">genus</t>
+                <t id="p01-s02-t09">Aedes</t>
+                <punc>(</punc>
+                <t id="p01-s02-t10" type="GSL-1">like</t>
+                <t id="p01-s02-t11">Aedes</t>
+                <t id="p01-s02-t12">aegypti</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p01-s02-t13" type="GSL-1">which</t>
+                <t id="p01-s02-t14" type="GSL-1">which</t>
+                <t id="p01-s02-t15" type="GSL-1">are</t>
+                <t id="p01-s02-t16" type="GSL-1">active</t>
+                <t id="p01-s02-t17" type="GSL-2">during</t>
+                <t id="p01-s02-t18" type="GSL-1">the</t>
+                <t id="p01-s02-t19">daytime</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence id="p02-s01">
+                <t id="p02-s01-t01">Zika</t>
+                <t id="p02-s01-t02">virus</t>
+                <t id="p02-s01-t03" type="GSL-1">is</t>
+                <t id="p02-s01-t04" type="GSL-1">named</t>
+                <t id="p02-s01-t05" type="GSL-1">after</t>
+                <t id="p02-s01-t06">Uganda's</t>
+                <t id="p02-s01-t07">Zika</t>
+                <t id="p02-s01-t08" type="GSL-1">Forest</t>
+                <punc>,</punc>
+                <t id="p02-s01-t09" type="GSL-1">where</t>
+                <t id="p02-s01-t10" type="GSL-1">the</t>
+                <t id="p02-s01-t11">virus</t>
+                <t id="p02-s01-t12" type="GSL-1">was</t>
+                <t id="p02-s01-t13" type="GSL-1">first</t>
+                <t id="p02-s01-t14" type="GSL-1">discovered</t>
+                <t id="p02-s01-t15" type="GSL-1">in</t>
+                <t id="p02-s01-t16">1947</t>
+                <punc>.</punc>
+                <punc>[</punc>
+                <t id="p02-s01-t17">1</t>
+                <punc>]</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p03">
+            <sentence id="p03-s01">
+                <t id="p03-s01-t01">Zika</t>
+                <t id="p03-s01-t02">virus</t>
+                <t id="p03-s01-t03" type="GSL-1">can</t>
+                <t id="p03-s01-t04" type="GSL-1">cause</t>
+                <t id="p03-s01-t05" type="GSL-1">an</t>
+                <t id="p03-s01-t06">infectious</t>
+                <t id="p03-s01-t07" type="GSL-2">disease</t>
+                <t id="p03-s01-t08" type="GSL-1">called</t>
+                <t id="p03-s01-t09">Zika</t>
+                <t id="p03-s01-t10" type="GSL-2">fever</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s02">
+                <t id="p03-s02-t01">Zika</t>
+                <t id="p03-s02-t02" type="GSL-2">fever</t>
+                <t id="p03-s02-t03" type="GSL-1">often</t>
+                <t id="p03-s02-t04" type="GSL-1">causes</t>
+                <t id="p03-s02-t05" type="GSL-1">no</t>
+                <t id="p03-s02-t06">symptoms</t>
+                <punc>,</punc>
+                <t id="p03-s02-t07" type="GSL-1">or</t>
+                <t id="p03-s02-t08" type="GSL-1">only</t>
+                <t id="p03-s02-t09" type="GSL-2">mild</t>
+                <t id="p03-s02-t10">symptoms</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s03">
+                <t id="p03-s03-t01" type="GSL-1">Scientists</t>
+                <t id="p03-s03-t02" type="GSL-1">know</t>
+                <t id="p03-s03-t03" type="GSL-1">that</t>
+                <t id="p03-s03-t04" type="GSL-1">people</t>
+                <t id="p03-s03-t05" type="GSL-1">in</t>
+                <t id="p03-s03-t06">Africa</t>
+                <t id="p03-s03-t07" type="GSL-1">and</t>
+                <t id="p03-s03-t08">Asia</t>
+                <t id="p03-s03-t09" type="GSL-1">have</t>
+                <t id="p03-s03-t10" type="GSL-1">been</t>
+                <t id="p03-s03-t11" type="GSL-1">getting</t>
+                <t id="p03-s03-t12">Zika</t>
+                <t id="p03-s03-t13" type="GSL-2">fever</t>
+                <t id="p03-s03-t14" type="GSL-1">since</t>
+                <t id="p03-s03-t15" type="GSL-1">the</t>
+                <t id="p03-s03-t16">1950s</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s04">
+                <t id="p03-s04-t01" type="GSL-1">In</t>
+                <t id="p03-s04-t02">2014</t>
+                <punc>,</punc>
+                <t id="p03-s04-t03" type="GSL-1">the</t>
+                <t id="p03-s04-t04">virus</t>
+                <t id="p03-s04-t05" type="GSL-1">spread</t>
+                <t id="p03-s04-t06">eastward</t>
+                <t id="p03-s04-t07" type="GSL-1">across</t>
+                <t id="p03-s04-t08" type="GSL-1">the</t>
+                <t id="p03-s04-t09">Pacific</t>
+                <t id="p03-s04-t10" type="GSL-2">Ocean</t>
+                <punc>-</punc>
+                <t id="p03-s04-t11" type="GSL-1">first</t>
+                <t id="p03-s04-t12" type="GSL-1">to</t>
+                <t id="p03-s04-t13">French</t>
+                <t id="p03-s04-t14">Polynesia</t>
+                <punc>,</punc>
+                <t id="p03-s04-t15" type="GSL-1">then</t>
+                <t id="p03-s04-t16" type="GSL-1">to</t>
+                <t id="p03-s04-t17">Easter</t>
+                <t id="p03-s04-t18" type="GSL-2">Island</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s05">
+                <t id="p03-s05-t01" type="Coxhead-AWL-2,AR-AWL-2a">Finally</t>
+                <punc>,</punc>
+                <t id="p03-s05-t02" type="GSL-1">in</t>
+                <t id="p03-s05-t03">2015</t>
+                <punc>,</punc>
+                <t id="p03-s05-t04" type="GSL-1">it</t>
+                <t id="p03-s05-t05" type="GSL-1">spread</t>
+                <t id="p03-s05-t06" type="GSL-1">to</t>
+                <t id="p03-s05-t07">Mexico</t>
+                <punc>,</punc>
+                <t id="p03-s05-t08" type="GSL-1">Central</t>
+                <t id="p03-s05-t09">America</t>
+                <punc>,</punc>
+                <t id="p03-s05-t10" type="GSL-1">the</t>
+                <t id="p03-s05-t11">Caribbean</t>
+                <punc>,</punc>
+                <t id="p03-s05-t12" type="GSL-1">and</t>
+                <t id="p03-s05-t13" type="GSL-1">South</t>
+                <t id="p03-s05-t14">America</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s06">
+                <t id="p03-s06-t01" type="GSL-1">In</t>
+                <t id="p03-s06-t02" type="GSL-1">these</t>
+                <t id="p03-s06-t03" type="GSL-1">places</t>
+                <punc>,</punc>
+                <t id="p03-s06-t04">Zika</t>
+                <t id="p03-s06-t05">virus</t>
+                <t id="p03-s06-t06" type="GSL-1">has</t>
+                <t id="p03-s06-t07" type="GSL-1">become</t>
+                <t id="p03-s06-t08" type="GSL-1">a</t>
+                <t id="p03-s06-t09">pandemic</t>
+                <punc>.</punc>
+                <punc>[</punc>
+                <t id="p03-s06-t10">2</t>
+                <punc>]</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p04">
+            <sentence id="p04-s01">
+                <t id="p04-s01-t01" type="GSL-1">Background</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p05">
+            <sentence id="p05-s01">
+                <t id="p05-s01-t01">Zika</t>
+                <t id="p05-s01-t02">virus</t>
+                <t id="p05-s01-t03" type="GSL-1">is</t>
+                <t id="p05-s01-t04" type="GSL-1">related</t>
+                <t id="p05-s01-t05" type="GSL-1">to</t>
+                <t id="p05-s01-t06" type="GSL-1">West</t>
+                <t id="p05-s01-t07">Nile</t>
+                <t id="p05-s01-t08">virus</t>
+                <t id="p05-s01-t09" type="GSL-1">and</t>
+                <t id="p05-s01-t10" type="GSL-1">the</t>
+                <t id="p05-s01-t11" type="GSL-1">the</t>
+                <t id="p05-s01-t12">viruses</t>
+                <t id="p05-s01-t13" type="GSL-1">that</t>
+                <t id="p05-s01-t14" type="GSL-1">cause</t>
+                <t id="p05-s01-t15">dengue</t>
+                <t id="p05-s01-t16" type="GSL-2">fever</t>
+                <punc>,</punc>
+                <t id="p05-s01-t17" type="GSL-2">yellow</t>
+                <t id="p05-s01-t18" type="GSL-2">fever</t>
+                <punc>,</punc>
+                <t id="p05-s01-t19" type="GSL-1">and</t>
+                <t id="p05-s01-t20">Japanese</t>
+                <t id="p05-s01-t21">encephalitis</t>
+                <punc>.</punc>
+                <punc>[</punc>
+                <t id="p05-s01-t22">3</t>
+                <punc>]</punc>
+            </sentence>
+            <sentence id="p05-s02">
+                <t id="p05-s02-t01">Zika</t>
+                <t id="p05-s02-t02">virus</t>
+                <t id="p05-s02-t03" type="GSL-1">causes</t>
+                <t id="p05-s02-t04" type="GSL-1">an</t>
+                <t id="p05-s02-t05" type="GSL-1">illness</t>
+                <t id="p05-s02-t06" type="GSL-1">that</t>
+                <t id="p05-s02-t07" type="GSL-1">is</t>
+                <t id="p05-s02-t08" type="GSL-1">like</t>
+                <t id="p05-s02-t09" type="GSL-1">a</t>
+                <t id="p05-s02-t10" type="GSL-2">mild</t>
+                <t id="p05-s02-t11" type="GSL-1">form</t>
+                <t id="p05-s02-t12" type="GSL-1">of</t>
+                <t id="p05-s02-t13">dengue</t>
+                <t id="p05-s02-t14" type="GSL-2">fever</t>
+                <punc>.</punc>
+                <punc>[</punc>
+                <t id="p05-s02-t15">3</t>
+                <punc>]</punc>
+            </sentence>
+            <sentence id="p05-s03">
+                <t id="p05-s03-t01" type="GSL-1">It</t>
+                <t id="p05-s03-t02" type="GSL-1">is</t>
+                <t id="p05-s03-t03" type="GSL-2">treated</t>
+                <t id="p05-s03-t04" type="GSL-1">by</t>
+                <t id="p05-s03-t05" type="GSL-1">rest</t>
+                <punc>.</punc>
+                <punc>[</punc>
+                <t id="p05-s03-t06">4</t>
+                <punc>]</punc>
+            </sentence>
+            <sentence id="p05-s04">
+                <t id="p05-s04-t01" type="GSL-1">As</t>
+                <t id="p05-s04-t02" type="GSL-1">of</t>
+                <t id="p05-s04-t03">2016</t>
+                <punc>,</punc>
+                <t id="p05-s04-t04" type="GSL-1">there</t>
+                <t id="p05-s04-t05" type="GSL-1">is</t>
+                <t id="p05-s04-t06" type="GSL-1">no</t>
+                <t id="p05-s04-t07">medication</t>
+                <t id="p05-s04-t08" type="GSL-1">or</t>
+                <t id="p05-s04-t09">vaccine</t>
+                <t id="p05-s04-t10" type="GSL-1">that</t>
+                <t id="p05-s04-t11" type="GSL-1">can</t>
+                <t id="p05-s04-t12" type="GSL-1">prevent</t>
+                <t id="p05-s04-t13" type="GSL-1">the</t>
+                <t id="p05-s04-t14">Zika</t>
+                <t id="p05-s04-t15">virus</t>
+                <punc>.</punc>
+                <punc>[</punc>
+                <t id="p05-s04-t16">4</t>
+                <punc>]</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p06">
+            <sentence id="p06-s01">
+                <t id="p06-s01-t01">Pregnant</t>
+                <t id="p06-s01-t02" type="GSL-1">women</t>
+                <t id="p06-s01-t03" type="GSL-1">who</t>
+                <t id="p06-s01-t04" type="GSL-1">get</t>
+                <t id="p06-s01-t05" type="GSL-1">the</t>
+                <t id="p06-s01-t06">Zika</t>
+                <t id="p06-s01-t07">virus</t>
+                <t id="p06-s01-t08" type="GSL-1">can</t>
+                <t id="p06-s01-t09" type="GSL-1">spread</t>
+                <t id="p06-s01-t10" type="GSL-1">the</t>
+                <t id="p06-s01-t11">virus</t>
+                <t id="p06-s01-t12" type="GSL-1">to</t>
+                <t id="p06-s01-t13" type="GSL-1">their</t>
+                <t id="p06-s01-t14">fetuses</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p06-s02">
+                <t id="p06-s02-t01" type="GSL-1">When</t>
+                <t id="p06-s02-t02" type="GSL-1">they</t>
+                <t id="p06-s02-t03" type="GSL-1">are</t>
+                <t id="p06-s02-t04" type="GSL-1">born</t>
+                <punc>,</punc>
+                <t id="p06-s02-t05" type="GSL-1">these</t>
+                <t id="p06-s02-t06">newborns</t>
+                <t id="p06-s02-t07" type="GSL-1">may</t>
+                <t id="p06-s02-t08" type="GSL-1">be</t>
+                <t id="p06-s02-t09" type="GSL-1">more</t>
+                <t id="p06-s02-t10" type="GSL-1">likely</t>
+                <t id="p06-s02-t11" type="GSL-1">to</t>
+                <t id="p06-s02-t12" type="GSL-1">have</t>
+                <t id="p06-s02-t13">microcephaly</t>
+                <punc>.</punc>
+                <punc>[</punc>
+                <t id="p06-s02-t14">5</t>
+                <punc>]</punc>
+                <punc>[</punc>
+                <t id="p06-s02-t15">6</t>
+                <punc>]</punc>
+                <punc>[</punc>
+                <t id="p06-s02-t16">7</t>
+                <punc>]</punc>
+            </sentence>
+            <sentence id="p06-s03">
+                <t id="p06-s03-t01" type="GSL-1">In</t>
+                <t id="p06-s03-t02" type="GSL-1">places</t>
+                <t id="p06-s03-t03" type="GSL-1">where</t>
+                <t id="p06-s03-t04" type="GSL-1">the</t>
+                <t id="p06-s03-t05">Zika</t>
+                <t id="p06-s03-t06">virus</t>
+                <t id="p06-s03-t07" type="GSL-1">lives</t>
+                <punc>,</punc>
+                <t id="p06-s03-t08" type="GSL-1">people</t>
+                <t id="p06-s03-t09" type="GSL-1">are</t>
+                <t id="p06-s03-t10" type="GSL-1">more</t>
+                <t id="p06-s03-t11" type="GSL-1">likely</t>
+                <t id="p06-s03-t12" type="GSL-1">to</t>
+                <t id="p06-s03-t13" type="GSL-1">have</t>
+                <t id="p06-s03-t14" type="GSL-2">birth</t>
+                <t id="p06-s03-t15">defects</t>
+                <punc>,</punc>
+                <t id="p06-s03-t16">neurological</t>
+                <t id="p06-s03-t17" type="GSL-1">problems</t>
+                <t id="p06-s03-t18" type="GSL-1">like</t>
+                <t id="p06-s03-t19">Guillain</t>
+                <punc>-</punc>
+                <t id="p06-s03-t20">Barré</t>
+                <t id="p06-s03-t21">syndrome</t>
+                <punc>,</punc>
+                <t id="p06-s03-t22" type="GSL-1">and</t>
+                <t id="p06-s03-t23">autoimmune</t>
+                <t id="p06-s03-t24" type="GSL-2">diseases</t>
+                <punc>.</punc>
+                <punc>[</punc>
+                <t id="p06-s03-t25">8</t>
+                <punc>]</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p07">
+            <sentence id="p07-s01">
+                <t id="p07-s01-t01">2016</t>
+                <t id="p07-s01-t02" type="GSL-1">outbreak</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p08">
+            <sentence id="p08-s01">
+                <t id="p08-s01-t01" type="GSL-1">In</t>
+                <t id="p08-s01-t02" type="GSL-1">January</t>
+                <t id="p08-s01-t03">2016</t>
+                <punc>,</punc>
+                <t id="p08-s01-t04" type="GSL-1">the</t>
+                <t id="p08-s01-t05" type="GSL-1">United</t>
+                <t id="p08-s01-t06" type="GSL-1">States</t>
+                <t id="p08-s01-t07" type="GSL-1">Centers</t>
+                <t id="p08-s01-t08" type="GSL-1">for</t>
+                <t id="p08-s01-t09" type="GSL-2">Disease</t>
+                <t id="p08-s01-t10" type="GSL-1">Control</t>
+                <t id="p08-s01-t11" type="GSL-1">and</t>
+                <t id="p08-s01-t12" type="GSL-1">Prevention</t>
+                <punc>(</punc>
+                <t id="p08-s01-t13">CDC</t>
+                <punc>)</punc>
+                <t id="p08-s01-t14" type="Coxhead-AWL-3,AR-AWL-3b">published</t>
+                <t id="p08-s01-t15" type="GSL-2">advice</t>
+                <t id="p08-s01-t16" type="GSL-1">for</t>
+                <t id="p08-s01-t17" type="GSL-1">how</t>
+                <t id="p08-s01-t18" type="GSL-1">to</t>
+                <t id="p08-s01-t19" type="GSL-2">avoid</t>
+                <t id="p08-s01-t20" type="GSL-1">getting</t>
+                <t id="p08-s01-t21">Zika</t>
+                <t id="p08-s01-t22" type="GSL-2">fever</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p08-s02">
+                <t id="p08-s02-t01" type="GSL-1">They</t>
+                <t id="p08-s02-t02" type="GSL-1">suggested</t>
+                <t id="p08-s02-t03" type="GSL-1">that</t>
+                <t id="p08-s02-t04" type="GSL-1">when</t>
+                <t id="p08-s02-t05" type="GSL-1">traveling</t>
+                <t id="p08-s02-t06" type="GSL-1">to</t>
+                <t id="p08-s02-t07" type="GSL-1">places</t>
+                <t id="p08-s02-t08" type="GSL-1">where</t>
+                <t id="p08-s02-t09">Zika</t>
+                <t id="p08-s02-t10">virus</t>
+                <t id="p08-s02-t11" type="GSL-1">lives</t>
+                <punc>:</punc>
+                <punc>[</punc>
+                <t id="p08-s02-t12">9</t>
+                <punc>]</punc>
+                <punc>[</punc>
+                <t id="p08-s02-t13">10</t>
+                <punc>]</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p09">
+            <sentence id="p09-s01">
+                <t id="p09-s01-t01">Travelers</t>
+                <t id="p09-s01-t02" type="GSL-1">should</t>
+                <t id="p09-s01-t03" type="GSL-1">use</t>
+                <punc>“</punc>
+                <t id="p09-s01-t04" type="Coxhead-AWL-6,AR-AWL-6a">enhanced</t>
+                <t id="p09-s01-t05">precautions</t>
+                <punc>,</punc>
+                <punc>”</punc>
+                <t id="p09-s01-t06" type="GSL-1">meaning</t>
+                <t id="p09-s01-t07" type="GSL-1">they</t>
+                <t id="p09-s01-t08" type="GSL-1">should</t>
+                <t id="p09-s01-t09" type="GSL-1">be</t>
+                <t id="p09-s01-t10" type="GSL-1">as</t>
+                <t id="p09-s01-t11" type="GSL-1">careful</t>
+                <t id="p09-s01-t12" type="GSL-1">as</t>
+                <t id="p09-s01-t13" type="GSL-1">possible</t>
+                <t id="p09-s01-t14" type="GSL-1">to</t>
+                <t id="p09-s01-t15" type="GSL-2">avoid</t>
+                <t id="p09-s01-t16" type="GSL-1">getting</t>
+                <t id="p09-s01-t17" type="GSL-2">bitten</t>
+                <t id="p09-s01-t18" type="GSL-1">by</t>
+                <t id="p09-s01-t19">mosquitoes</t>
+                <t id="p09-s01-t20">Pregnant</t>
+                <t id="p09-s01-t21" type="GSL-1">women</t>
+                <t id="p09-s01-t22" type="GSL-1">should</t>
+                <t id="p09-s01-t23" type="GSL-1">think</t>
+                <t id="p09-s01-t24" type="GSL-1">about</t>
+                <t id="p09-s01-t25" type="GSL-1">not</t>
+                <t id="p09-s01-t26" type="GSL-1">traveling</t>
+                <t id="p09-s01-t27" type="GSL-1">to</t>
+                <t id="p09-s01-t28" type="GSL-1">these</t>
+                <t id="p09-s01-t29" type="Coxhead-AWL-1,AR-AWL-1a">areas</t>
+                <t id="p09-s01-t30" type="GSL-1">Other</t>
+                <t id="p09-s01-t31" type="GSL-2">governments</t>
+                <t id="p09-s01-t32" type="GSL-1">or</t>
+                <t id="p09-s01-t33" type="GSL-2">health</t>
+                <t id="p09-s01-t34" type="GSL-1">agencies</t>
+                <t id="p09-s01-t35" type="GSL-1">soon</t>
+                <t id="p09-s01-t36" type="Coxhead-AWL-1,AR-AWL-1b">issued</t>
+                <t id="p09-s01-t37" type="Coxhead-AWL-1,AR-AWL-1b">similar</t>
+                <t id="p09-s01-t38" type="GSL-1">travel</t>
+                <t id="p09-s01-t39">warnings</t>
+                <punc>.</punc>
+                <punc>[</punc>
+                <t id="p09-s01-t40">11</t>
+                <punc>]</punc>
+                <punc>[</punc>
+                <t id="p09-s01-t41">12</t>
+                <punc>]</punc>
+            </sentence>
+            <sentence id="p09-s02">
+                <t id="p09-s02-t01">Colombia</t>
+                <punc>,</punc>
+                <t id="p09-s02-t02" type="GSL-1">the</t>
+                <t id="p09-s02-t03">Dominican</t>
+                <t id="p09-s02-t04" type="GSL-1">Republic</t>
+                <punc>,</punc>
+                <t id="p09-s02-t05">Ecuador</t>
+                <punc>,</punc>
+                <t id="p09-s02-t06">El</t>
+                <t id="p09-s02-t07">Salvador</t>
+                <punc>,</punc>
+                <t id="p09-s02-t08" type="GSL-1">and</t>
+                <t id="p09-s02-t09">Jamaica</t>
+                <t id="p09-s02-t10" type="GSL-2">advised</t>
+                <t id="p09-s02-t11" type="GSL-1">women</t>
+                <t id="p09-s02-t12" type="GSL-1">not</t>
+                <t id="p09-s02-t13" type="GSL-1">to</t>
+                <t id="p09-s02-t14" type="GSL-1">get</t>
+                <t id="p09-s02-t15">pregnant</t>
+                <t id="p09-s02-t16" type="GSL-1">until</t>
+                <t id="p09-s02-t17" type="GSL-1">scientists</t>
+                <t id="p09-s02-t18" type="GSL-1">know</t>
+                <t id="p09-s02-t19" type="GSL-1">more</t>
+                <t id="p09-s02-t20" type="GSL-1">about</t>
+                <t id="p09-s02-t21" type="GSL-1">the</t>
+                <t id="p09-s02-t22" type="GSL-2">risks</t>
+                <t id="p09-s02-t23" type="GSL-1">of</t>
+                <t id="p09-s02-t24">Zika</t>
+                <t id="p09-s02-t25">virus</t>
+                <t id="p09-s02-t26" type="GSL-1">to</t>
+                <t id="p09-s02-t27">pregnant</t>
+                <t id="p09-s02-t28" type="GSL-1">women</t>
+                <punc>.</punc>
+                <punc>[</punc>
+                <t id="p09-s02-t29">13</t>
+                <punc>]</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p10">
+            <sentence id="p10-s01">
+                <t id="p10-s01-t01" type="GSL-1">On</t>
+                <t id="p10-s01-t02" type="GSL-1">February</t>
+                <t id="p10-s01-t03">2</t>
+                <punc>,</punc>
+                <t id="p10-s01-t04">2016</t>
+                <punc>,</punc>
+                <t id="p10-s01-t05" type="GSL-1">public</t>
+                <t id="p10-s01-t06" type="GSL-2">health</t>
+                <t id="p10-s01-t07" type="GSL-1">officials</t>
+                <t id="p10-s01-t08" type="GSL-1">in</t>
+                <t id="p10-s01-t09">Dallas</t>
+                <t id="p10-s01-t10">County</t>
+                <punc>,</punc>
+                <t id="p10-s01-t11">Texas</t>
+                <punc>,</punc>
+                <t id="p10-s01-t12" type="GSL-1">reported</t>
+                <t id="p10-s01-t13" type="GSL-1">the</t>
+                <t id="p10-s01-t14" type="GSL-1">first</t>
+                <t id="p10-s01-t15" type="GSL-1">case</t>
+                <t id="p10-s01-t16" type="GSL-1">of</t>
+                <t id="p10-s01-t17" type="GSL-1">somebody</t>
+                <t id="p10-s01-t18" type="GSL-1">getting</t>
+                <t id="p10-s01-t19">Zika</t>
+                <t id="p10-s01-t20">virus</t>
+                <t id="p10-s01-t21" type="GSL-1">in</t>
+                <t id="p10-s01-t22" type="GSL-1">the</t>
+                <t id="p10-s01-t23" type="GSL-1">United</t>
+                <t id="p10-s01-t24" type="GSL-1">States</t>
+                <punc>.</punc>
+                <punc>[</punc>
+                <t id="p10-s01-t25">14</t>
+                <punc>]</punc>
+                <punc>[</punc>
+                <t id="p10-s01-t26">15</t>
+                <punc>]</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
