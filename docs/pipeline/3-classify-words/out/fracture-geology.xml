@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Fracture (geology)</title>
+    <citation>Wikipedia contributors, “Fracture (geology),” Wikipedia, The Free Encyclopedia, Retrieved from https://simple.wikipedia.org/w/index.php?title=Fracture_(geology)&amp;oldid=4708627 (accessed on January 22, 2017)</citation>
+    <url>https://simple.wikipedia.org/w/index.php?title=Fracture_(geology)&amp;oldid=4708627</url>
+    <info type="wikipedia"/>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01" type="GSL-1">In</t>
+                <t id="p01-s01-t02">geology</t>
+                <punc>,</punc>
+                <t id="p01-s01-t03" type="GSL-1">a</t>
+                <t id="p01-s01-t04">fracture</t>
+                <t id="p01-s01-t05" type="GSL-1">is</t>
+                <t id="p01-s01-t06" type="GSL-1">any</t>
+                <t id="p01-s01-t07" type="GSL-1">kind</t>
+                <t id="p01-s01-t08" type="GSL-1">of</t>
+                <t id="p01-s01-t09" type="GSL-1">separation</t>
+                <t id="p01-s01-t10" type="GSL-1">or</t>
+                <t id="p01-s01-t11" type="GSL-1">break</t>
+                <t id="p01-s01-t12" type="GSL-1">in</t>
+                <t id="p01-s01-t13" type="GSL-1">a</t>
+                <t id="p01-s01-t14" type="GSL-1">rock</t>
+                <t id="p01-s01-t15" type="GSL-1">formation</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01" type="GSL-1">Examples</t>
+                <t id="p01-s02-t02" type="GSL-1">are</t>
+                <t id="p01-s02-t03" type="GSL-1">joints</t>
+                <t id="p01-s02-t04" type="GSL-1">or</t>
+                <t id="p01-s02-t05" type="GSL-2">faults</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s03">
+                <t id="p01-s03-t01" type="GSL-1">These</t>
+                <t id="p01-s03-t02" type="GSL-1">divides</t>
+                <t id="p01-s03-t03" type="GSL-1">the</t>
+                <t id="p01-s03-t04" type="GSL-1">rock</t>
+                <t id="p01-s03-t05" type="GSL-1">into</t>
+                <t id="p01-s03-t06" type="GSL-1">two</t>
+                <t id="p01-s03-t07" type="GSL-1">or</t>
+                <t id="p01-s03-t08" type="GSL-1">more</t>
+                <t id="p01-s03-t09" type="GSL-1">pieces</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s04">
+                <t id="p01-s04-t01" type="GSL-1">A</t>
+                <t id="p01-s04-t02">fracture</t>
+                <t id="p01-s04-t03" type="GSL-1">can</t>
+                <t id="p01-s04-t04" type="GSL-1">sometimes</t>
+                <t id="p01-s04-t05" type="GSL-1">form</t>
+                <t id="p01-s04-t06" type="GSL-1">a</t>
+                <t id="p01-s04-t07" type="GSL-1">deep</t>
+                <punc>,</punc>
+                <t id="p01-s04-t08" type="GSL-1">wide</t>
+                <t id="p01-s04-t09" type="GSL-2">crack</t>
+                <t id="p01-s04-t10" type="GSL-1">in</t>
+                <t id="p01-s04-t11" type="GSL-1">the</t>
+                <t id="p01-s04-t12" type="GSL-1">rock</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s05">
+                <t id="p01-s05-t01" type="GSL-1">They</t>
+                <t id="p01-s05-t02" type="GSL-1">are</t>
+                <t id="p01-s05-t03" type="GSL-1">usually</t>
+                <t id="p01-s05-t04" type="GSL-1">caused</t>
+                <t id="p01-s05-t05" type="GSL-1">when</t>
+                <t id="p01-s05-t06" type="GSL-1">the</t>
+                <t id="p01-s05-t07" type="GSL-1">rock</t>
+                <t id="p01-s05-t08" type="GSL-1">is</t>
+                <t id="p01-s05-t09" type="GSL-1">not</t>
+                <t id="p01-s05-t10" type="GSL-1">strong</t>
+                <t id="p01-s05-t11" type="GSL-1">enough</t>
+                <t id="p01-s05-t12" type="GSL-1">to</t>
+                <t id="p01-s05-t13" type="GSL-1">hold</t>
+                <t id="p01-s05-t14" type="GSL-1">up</t>
+                <t id="p01-s05-t15" type="GSL-1">under</t>
+                <t id="p01-s05-t16" type="GSL-1">too</t>
+                <t id="p01-s05-t17" type="GSL-1">much</t>
+                <t id="p01-s05-t18" type="Coxhead-AWL-4,AR-AWL-4b">stress</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s06">
+                <t id="p01-s06-t01" type="GSL-1">This</t>
+                <t id="p01-s06-t02" type="GSL-1">makes</t>
+                <t id="p01-s06-t03" type="GSL-1">the</t>
+                <t id="p01-s06-t04" type="GSL-1">rock</t>
+                <t id="p01-s06-t05" type="GSL-2">crack</t>
+                <t id="p01-s06-t06" type="GSL-1">along</t>
+                <t id="p01-s06-t07" type="GSL-1">its</t>
+                <t id="p01-s06-t08">weakest</t>
+                <t id="p01-s06-t09" type="GSL-1">point</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s07">
+                <t id="p01-s07-t01">Fractures</t>
+                <t id="p01-s07-t02" type="GSL-1">can</t>
+                <t id="p01-s07-t03" type="GSL-1">provide</t>
+                <t id="p01-s07-t04" type="Coxhead-AWL-4,AR-AWL-4a">access</t>
+                <t id="p01-s07-t05" type="GSL-1">for</t>
+                <t id="p01-s07-t06">fluids</t>
+                <punc>,</punc>
+                <t id="p01-s07-t07" type="GSL-1">like</t>
+                <t id="p01-s07-t08" type="GSL-1">water</t>
+                <t id="p01-s07-t09" type="GSL-1">or</t>
+                <t id="p01-s07-t10">hydrocarbons</t>
+                <punc>,</punc>
+                <t id="p01-s07-t11" type="GSL-1">to</t>
+                <t id="p01-s07-t12" type="GSL-1">move</t>
+                <t id="p01-s07-t13" type="GSL-1">into</t>
+                <t id="p01-s07-t14" type="GSL-1">the</t>
+                <t id="p01-s07-t15" type="GSL-1">rock</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

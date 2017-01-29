@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>What Are Society and Culture? (Extract from What Is Sociology?)</title>
+    <citation>OpenStax, What Is Sociology?. OpenStax CNX. Dec 22, 2016 Download for free at http://cnx.org/contents/5d97ba77-626b-4670-a1bb-c65fdd07bb0c@8.</citation>
+    <url>http://cnx.org/contents/5d97ba77-626b-4670-a1bb-c65fdd07bb0c@8</url>
+    <info type="textbook"/>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01">What</t>
+                <t id="p01-s01-t02">Are</t>
+                <t id="p01-s01-t03">Society</t>
+                <t id="p01-s01-t04">and</t>
+                <t id="p01-s01-t05">Culture</t>
+                <punc>?</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence id="p02-s01">
+                <t id="p02-s01-t01">Sociology</t>
+                <t id="p02-s01-t02">is</t>
+                <t id="p02-s01-t03">the</t>
+                <t id="p02-s01-t04">study</t>
+                <t id="p02-s01-t05">of</t>
+                <t id="p02-s01-t06">groups</t>
+                <t id="p02-s01-t07">and</t>
+                <t id="p02-s01-t08">group</t>
+                <t id="p02-s01-t09">interactions</t>
+                <punc>,</punc>
+                <t id="p02-s01-t10">societies</t>
+                <t id="p02-s01-t11">and</t>
+                <t id="p02-s01-t12">social</t>
+                <t id="p02-s01-t13">interactions</t>
+                <punc>,</punc>
+                <t id="p02-s01-t14">from</t>
+                <t id="p02-s01-t15">small</t>
+                <t id="p02-s01-t16">and</t>
+                <t id="p02-s01-t17">personal</t>
+                <t id="p02-s01-t18">groups</t>
+                <t id="p02-s01-t19">to</t>
+                <t id="p02-s01-t20">very</t>
+                <t id="p02-s01-t21">large</t>
+                <t id="p02-s01-t22">groups</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s02">
+                <t id="p02-s02-t01">A</t>
+                <t id="p02-s02-t02">group</t>
+                <t id="p02-s02-t03">of</t>
+                <t id="p02-s02-t04">people</t>
+                <t id="p02-s02-t05">who</t>
+                <t id="p02-s02-t06">live</t>
+                <t id="p02-s02-t07">in</t>
+                <t id="p02-s02-t08">a</t>
+                <t id="p02-s02-t09">defined</t>
+                <t id="p02-s02-t10">geographic</t>
+                <t id="p02-s02-t11">area</t>
+                <punc>,</punc>
+                <t id="p02-s02-t12">who</t>
+                <t id="p02-s02-t13">interact</t>
+                <t id="p02-s02-t14">with</t>
+                <t id="p02-s02-t15">one</t>
+                <t id="p02-s02-t16">another</t>
+                <punc>,</punc>
+                <t id="p02-s02-t17">and</t>
+                <t id="p02-s02-t18">who</t>
+                <t id="p02-s02-t19">share</t>
+                <t id="p02-s02-t20">a</t>
+                <t id="p02-s02-t21">common</t>
+                <t id="p02-s02-t22">culture</t>
+                <t id="p02-s02-t23">is</t>
+                <t id="p02-s02-t24">what</t>
+                <t id="p02-s02-t25">sociologists</t>
+                <t id="p02-s02-t26">call</t>
+                <t id="p02-s02-t27">a</t>
+                <t id="p02-s02-t28">society</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s03">
+                <t id="p02-s03-t01">Sociologists</t>
+                <t id="p02-s03-t02">study</t>
+                <t id="p02-s03-t03">all</t>
+                <t id="p02-s03-t04">aspects</t>
+                <t id="p02-s03-t05">and</t>
+                <t id="p02-s03-t06">levels</t>
+                <t id="p02-s03-t07">of</t>
+                <t id="p02-s03-t08">society</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s04">
+                <t id="p02-s04-t01">Sociologists</t>
+                <t id="p02-s04-t02">working</t>
+                <t id="p02-s04-t03">from</t>
+                <t id="p02-s04-t04">the</t>
+                <t id="p02-s04-t05">micro-level</t>
+                <t id="p02-s04-t06">study</t>
+                <t id="p02-s04-t07">small</t>
+                <t id="p02-s04-t08">groups</t>
+                <t id="p02-s04-t09">and</t>
+                <t id="p02-s04-t10">individual</t>
+                <t id="p02-s04-t11">interactions</t>
+                <punc>,</punc>
+                <t id="p02-s04-t12">while</t>
+                <t id="p02-s04-t13">those</t>
+                <t id="p02-s04-t14">using</t>
+                <t id="p02-s04-t15">macro-level</t>
+                <t id="p02-s04-t16">analysis</t>
+                <t id="p02-s04-t17">look</t>
+                <t id="p02-s04-t18">at</t>
+                <t id="p02-s04-t19">trends</t>
+                <t id="p02-s04-t20">among</t>
+                <t id="p02-s04-t21">and</t>
+                <t id="p02-s04-t22">between</t>
+                <t id="p02-s04-t23">large</t>
+                <t id="p02-s04-t24">groups</t>
+                <t id="p02-s04-t25">and</t>
+                <t id="p02-s04-t26">societies</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s05">
+                <t id="p02-s05-t01">For</t>
+                <t id="p02-s05-t02">example</t>
+                <punc>,</punc>
+                <t id="p02-s05-t03">a</t>
+                <t id="p02-s05-t04">micro-level</t>
+                <t id="p02-s05-t05">study</t>
+                <t id="p02-s05-t06">might</t>
+                <t id="p02-s05-t07">look</t>
+                <t id="p02-s05-t08">at</t>
+                <t id="p02-s05-t09">the</t>
+                <t id="p02-s05-t10">accepted</t>
+                <t id="p02-s05-t11">rules</t>
+                <t id="p02-s05-t12">of</t>
+                <t id="p02-s05-t13">conversation</t>
+                <t id="p02-s05-t14">in</t>
+                <t id="p02-s05-t15">various</t>
+                <t id="p02-s05-t16">groups</t>
+                <t id="p02-s05-t17">such</t>
+                <t id="p02-s05-t18">as</t>
+                <t id="p02-s05-t19">among</t>
+                <t id="p02-s05-t20">teenagers</t>
+                <t id="p02-s05-t21">or</t>
+                <t id="p02-s05-t22">business</t>
+                <t id="p02-s05-t23">professionals</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s06">
+                <t id="p02-s06-t01">In</t>
+                <t id="p02-s06-t02">contrast</t>
+                <punc>,</punc>
+                <t id="p02-s06-t03">a</t>
+                <t id="p02-s06-t04">macro-level</t>
+                <t id="p02-s06-t05">analysis</t>
+                <t id="p02-s06-t06">might</t>
+                <t id="p02-s06-t07">research</t>
+                <t id="p02-s06-t08">the</t>
+                <t id="p02-s06-t09">ways</t>
+                <t id="p02-s06-t10">that</t>
+                <t id="p02-s06-t11">language</t>
+                <t id="p02-s06-t12">use</t>
+                <t id="p02-s06-t13">has</t>
+                <t id="p02-s06-t14">changed</t>
+                <t id="p02-s06-t15">over</t>
+                <t id="p02-s06-t16">time</t>
+                <t id="p02-s06-t17">or</t>
+                <t id="p02-s06-t18">in</t>
+                <t id="p02-s06-t19">social</t>
+                <t id="p02-s06-t20">media</t>
+                <t id="p02-s06-t21">outlets</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p03">
+            <sentence id="p03-s01">
+                <t id="p03-s01-t01">The</t>
+                <t id="p03-s01-t02">term</t>
+                <t id="p03-s01-t03">culture</t>
+                <t id="p03-s01-t04">refers</t>
+                <t id="p03-s01-t05">to</t>
+                <t id="p03-s01-t06">the</t>
+                <t id="p03-s01-t07">group’s</t>
+                <t id="p03-s01-t08">shared</t>
+                <t id="p03-s01-t09">practices</t>
+                <punc>,</punc>
+                <t id="p03-s01-t10">values</t>
+                <punc>,</punc>
+                <t id="p03-s01-t11">and</t>
+                <t id="p03-s01-t12">beliefs</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s02">
+                <t id="p03-s02-t01">Culture</t>
+                <t id="p03-s02-t02">encompasses</t>
+                <t id="p03-s02-t03">a</t>
+                <t id="p03-s02-t04">group’s</t>
+                <t id="p03-s02-t05">way</t>
+                <t id="p03-s02-t06">of</t>
+                <t id="p03-s02-t07">life</t>
+                <punc>,</punc>
+                <t id="p03-s02-t08">from</t>
+                <t id="p03-s02-t09">routine</t>
+                <punc>,</punc>
+                <t id="p03-s02-t10">everyday</t>
+                <t id="p03-s02-t11">interactions</t>
+                <t id="p03-s02-t12">to</t>
+                <t id="p03-s02-t13">the</t>
+                <t id="p03-s02-t14">most</t>
+                <t id="p03-s02-t15">important</t>
+                <t id="p03-s02-t16">parts</t>
+                <t id="p03-s02-t17">of</t>
+                <t id="p03-s02-t18">group</t>
+                <t id="p03-s02-t19">members'</t>
+                <t id="p03-s02-t20">lives</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s03">
+                <t id="p03-s03-t01">It</t>
+                <t id="p03-s03-t02">includes</t>
+                <t id="p03-s03-t03">everything</t>
+                <t id="p03-s03-t04">produced</t>
+                <t id="p03-s03-t05">by</t>
+                <t id="p03-s03-t06">a</t>
+                <t id="p03-s03-t07">society</t>
+                <punc>,</punc>
+                <t id="p03-s03-t08">including</t>
+                <t id="p03-s03-t09">all</t>
+                <t id="p03-s03-t10">of</t>
+                <t id="p03-s03-t11">the</t>
+                <t id="p03-s03-t12">social</t>
+                <t id="p03-s03-t13">rules</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s04">
+                <t id="p03-s04-t01">Sociologists</t>
+                <t id="p03-s04-t02">often</t>
+                <t id="p03-s04-t03">study</t>
+                <t id="p03-s04-t04">culture</t>
+                <t id="p03-s04-t05">using</t>
+                <t id="p03-s04-t06">the</t>
+                <t id="p03-s04-t07">sociological</t>
+                <t id="p03-s04-t08">imagination</t>
+                <punc>,</punc>
+                <t id="p03-s04-t09">which</t>
+                <t id="p03-s04-t10">pioneer</t>
+                <t id="p03-s04-t11">sociologist</t>
+                <t id="p03-s04-t12">C</t>
+                <punc>.</punc>
+                <t id="p03-s04-t13">Wright</t>
+                <t id="p03-s04-t14">Mills</t>
+                <t id="p03-s04-t15">described</t>
+                <t id="p03-s04-t16">as</t>
+                <t id="p03-s04-t17">an</t>
+                <t id="p03-s04-t18">awareness</t>
+                <t id="p03-s04-t19">of</t>
+                <t id="p03-s04-t20">the</t>
+                <t id="p03-s04-t21">relationship</t>
+                <t id="p03-s04-t22">between</t>
+                <t id="p03-s04-t23">a</t>
+                <t id="p03-s04-t24">person’s</t>
+                <t id="p03-s04-t25">behavior</t>
+                <t id="p03-s04-t26">and</t>
+                <t id="p03-s04-t27">experience</t>
+                <t id="p03-s04-t28">and</t>
+                <t id="p03-s04-t29">the</t>
+                <t id="p03-s04-t30">wider</t>
+                <t id="p03-s04-t31">culture</t>
+                <t id="p03-s04-t32">that</t>
+                <t id="p03-s04-t33">shaped</t>
+                <t id="p03-s04-t34">the</t>
+                <t id="p03-s04-t35">person’s</t>
+                <t id="p03-s04-t36">choices</t>
+                <t id="p03-s04-t37">and</t>
+                <t id="p03-s04-t38">perceptions</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s05">
+                <t id="p03-s05-t01">It’s</t>
+                <t id="p03-s05-t02">a</t>
+                <t id="p03-s05-t03">way</t>
+                <t id="p03-s05-t04">of</t>
+                <t id="p03-s05-t05">seeing</t>
+                <t id="p03-s05-t06">our</t>
+                <t id="p03-s05-t07">own</t>
+                <t id="p03-s05-t08">and</t>
+                <t id="p03-s05-t09">other</t>
+                <t id="p03-s05-t10">people’s</t>
+                <t id="p03-s05-t11">behavior</t>
+                <t id="p03-s05-t12">in</t>
+                <t id="p03-s05-t13">relationship</t>
+                <t id="p03-s05-t14">to</t>
+                <t id="p03-s05-t15">history</t>
+                <t id="p03-s05-t16">and</t>
+                <t id="p03-s05-t17">social</t>
+                <t id="p03-s05-t18">structure</t>
+                <punc>(</punc>
+                <t id="p03-s05-t19">1959</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p04">
+            <sentence id="p04-s01">
+                <t id="p04-s01-t01">One</t>
+                <t id="p04-s01-t02">illustration</t>
+                <t id="p04-s01-t03">of</t>
+                <t id="p04-s01-t04">this</t>
+                <t id="p04-s01-t05">is</t>
+                <t id="p04-s01-t06">a</t>
+                <t id="p04-s01-t07">person’s</t>
+                <t id="p04-s01-t08">decision</t>
+                <t id="p04-s01-t09">to</t>
+                <t id="p04-s01-t10">marry</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p04-s02">
+                <t id="p04-s02-t01">In</t>
+                <t id="p04-s02-t02">the</t>
+                <t id="p04-s02-t03">United</t>
+                <t id="p04-s02-t04">States</t>
+                <punc>,</punc>
+                <t id="p04-s02-t05">this</t>
+                <t id="p04-s02-t06">choice</t>
+                <t id="p04-s02-t07">is</t>
+                <t id="p04-s02-t08">heavily</t>
+                <t id="p04-s02-t09">influenced</t>
+                <t id="p04-s02-t10">by</t>
+                <t id="p04-s02-t11">individual</t>
+                <t id="p04-s02-t12">feelings</t>
+                <punc>;</punc>
+                <t id="p04-s02-t13">however</t>
+                <punc>,</punc>
+                <t id="p04-s02-t14">the</t>
+                <t id="p04-s02-t15">social</t>
+                <t id="p04-s02-t16">acceptability</t>
+                <t id="p04-s02-t17">of</t>
+                <t id="p04-s02-t18">marriage</t>
+                <t id="p04-s02-t19">relative</t>
+                <t id="p04-s02-t20">to</t>
+                <t id="p04-s02-t21">the</t>
+                <t id="p04-s02-t22">person’s</t>
+                <t id="p04-s02-t23">circumstances</t>
+                <t id="p04-s02-t24">also</t>
+                <t id="p04-s02-t25">plays</t>
+                <t id="p04-s02-t26">a</t>
+                <t id="p04-s02-t27">part</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p04-s03">
+                <t id="p04-s03-t01">Remember</t>
+                <punc>,</punc>
+                <t id="p04-s03-t02">though</t>
+                <punc>,</punc>
+                <t id="p04-s03-t03">that</t>
+                <t id="p04-s03-t04">culture</t>
+                <t id="p04-s03-t05">is</t>
+                <t id="p04-s03-t06">a</t>
+                <t id="p04-s03-t07">product</t>
+                <t id="p04-s03-t08">of</t>
+                <t id="p04-s03-t09">the</t>
+                <t id="p04-s03-t10">people</t>
+                <t id="p04-s03-t11">in</t>
+                <t id="p04-s03-t12">a</t>
+                <t id="p04-s03-t13">society</t>
+                <punc>;</punc>
+                <t id="p04-s03-t14">sociologists</t>
+                <t id="p04-s03-t15">take</t>
+                <t id="p04-s03-t16">care</t>
+                <t id="p04-s03-t17">not</t>
+                <t id="p04-s03-t18">to</t>
+                <t id="p04-s03-t19">treat</t>
+                <t id="p04-s03-t20">the</t>
+                <t id="p04-s03-t21">concept</t>
+                <t id="p04-s03-t22">of</t>
+                <punc>“</punc>
+                <t id="p04-s03-t23">culture</t>
+                <punc>”</punc>
+                <t id="p04-s03-t24">as</t>
+                <t id="p04-s03-t25">though</t>
+                <t id="p04-s03-t26">it</t>
+                <t id="p04-s03-t27">were</t>
+                <t id="p04-s03-t28">alive</t>
+                <t id="p04-s03-t29">in</t>
+                <t id="p04-s03-t30">its</t>
+                <t id="p04-s03-t31">own</t>
+                <t id="p04-s03-t32">right</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p04-s04">
+                <t id="p04-s04-t01">Reification</t>
+                <t id="p04-s04-t02">is</t>
+                <t id="p04-s04-t03">an</t>
+                <t id="p04-s04-t04">error</t>
+                <t id="p04-s04-t05">of</t>
+                <t id="p04-s04-t06">treating</t>
+                <t id="p04-s04-t07">an</t>
+                <t id="p04-s04-t08">abstract</t>
+                <t id="p04-s04-t09">concept</t>
+                <t id="p04-s04-t10">as</t>
+                <t id="p04-s04-t11">though</t>
+                <t id="p04-s04-t12">it</t>
+                <t id="p04-s04-t13">has</t>
+                <t id="p04-s04-t14">a</t>
+                <t id="p04-s04-t15">real</t>
+                <punc>,</punc>
+                <t id="p04-s04-t16">material</t>
+                <t id="p04-s04-t17">existence</t>
+                <punc>(</punc>
+                <t id="p04-s04-t18">Sahn</t>
+                <t id="p04-s04-t19">2013</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
