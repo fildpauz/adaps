@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Introduction to Science and the Realm of Physics, Physical Quantities, and Units (Extract from College Physics)</title>
+    <citation>OpenStax, College Physics. OpenStax CNX. 2017/1/14 Download for free at http://cnx.org/contents/031da8d3-b525-429c-80cf-6c8ed997733a@9.58.</citation>
+    <url>http://cnx.org/contents/031da8d3-b525-429c-80cf-6c8ed997733a@9.58</url>
+    <info type="textbook"/>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01">What</t>
+                <t id="p01-s01-t02">is</t>
+                <t id="p01-s01-t03">your</t>
+                <t id="p01-s01-t04">first</t>
+                <t id="p01-s01-t05">reaction</t>
+                <t id="p01-s01-t06">when</t>
+                <t id="p01-s01-t07">you</t>
+                <t id="p01-s01-t08">hear</t>
+                <t id="p01-s01-t09">the</t>
+                <t id="p01-s01-t10">word</t>
+                <punc>“</punc>
+                <t id="p01-s01-t11">physics</t>
+                <punc>”</punc>
+                <punc>?</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01">Did</t>
+                <t id="p01-s02-t02">you</t>
+                <t id="p01-s02-t03">imagine</t>
+                <t id="p01-s02-t04">working</t>
+                <t id="p01-s02-t05">through</t>
+                <t id="p01-s02-t06">difficult</t>
+                <t id="p01-s02-t07">equations</t>
+                <t id="p01-s02-t08">or</t>
+                <t id="p01-s02-t09">memorizing</t>
+                <t id="p01-s02-t10">formulas</t>
+                <t id="p01-s02-t11">that</t>
+                <t id="p01-s02-t12">seem</t>
+                <t id="p01-s02-t13">to</t>
+                <t id="p01-s02-t14">have</t>
+                <t id="p01-s02-t15">no</t>
+                <t id="p01-s02-t16">real</t>
+                <t id="p01-s02-t17">use</t>
+                <t id="p01-s02-t18">in</t>
+                <t id="p01-s02-t19">life</t>
+                <t id="p01-s02-t20">outside</t>
+                <t id="p01-s02-t21">the</t>
+                <t id="p01-s02-t22">physics</t>
+                <t id="p01-s02-t23">classroom</t>
+                <punc>?</punc>
+            </sentence>
+            <sentence id="p01-s03">
+                <t id="p01-s03-t01">Many</t>
+                <t id="p01-s03-t02">people</t>
+                <t id="p01-s03-t03">come</t>
+                <t id="p01-s03-t04">to</t>
+                <t id="p01-s03-t05">the</t>
+                <t id="p01-s03-t06">subject</t>
+                <t id="p01-s03-t07">of</t>
+                <t id="p01-s03-t08">physics</t>
+                <t id="p01-s03-t09">with</t>
+                <t id="p01-s03-t10">a</t>
+                <t id="p01-s03-t11">bit</t>
+                <t id="p01-s03-t12">of</t>
+                <t id="p01-s03-t13">fear</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s04">
+                <t id="p01-s04-t01">But</t>
+                <t id="p01-s04-t02">as</t>
+                <t id="p01-s04-t03">you</t>
+                <t id="p01-s04-t04">begin</t>
+                <t id="p01-s04-t05">your</t>
+                <t id="p01-s04-t06">exploration</t>
+                <t id="p01-s04-t07">of</t>
+                <t id="p01-s04-t08">this</t>
+                <t id="p01-s04-t09">broad-</t>
+                <punc>-</punc>
+                <t id="p01-s04-t10">ranging</t>
+                <t id="p01-s04-t11">subject</t>
+                <punc>,</punc>
+                <t id="p01-s04-t12">you</t>
+                <t id="p01-s04-t13">may</t>
+                <t id="p01-s04-t14">soon</t>
+                <t id="p01-s04-t15">come</t>
+                <t id="p01-s04-t16">to</t>
+                <t id="p01-s04-t17">realize</t>
+                <t id="p01-s04-t18">that</t>
+                <t id="p01-s04-t19">physics</t>
+                <t id="p01-s04-t20">plays</t>
+                <t id="p01-s04-t21">a</t>
+                <t id="p01-s04-t22">much</t>
+                <t id="p01-s04-t23">larger</t>
+                <t id="p01-s04-t24">role</t>
+                <t id="p01-s04-t25">in</t>
+                <t id="p01-s04-t26">your</t>
+                <t id="p01-s04-t27">life</t>
+                <t id="p01-s04-t28">than</t>
+                <t id="p01-s04-t29">you</t>
+                <t id="p01-s04-t30">first</t>
+                <t id="p01-s04-t31">thought</t>
+                <punc>,</punc>
+                <t id="p01-s04-t32">no</t>
+                <t id="p01-s04-t33">matter</t>
+                <t id="p01-s04-t34">your</t>
+                <t id="p01-s04-t35">life</t>
+                <t id="p01-s04-t36">goals</t>
+                <t id="p01-s04-t37">or</t>
+                <t id="p01-s04-t38">career</t>
+                <t id="p01-s04-t39">choice</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence id="p02-s01">
+                <t id="p02-s01-t01">For</t>
+                <t id="p02-s01-t02">example</t>
+                <punc>,</punc>
+                <t id="p02-s01-t03">take</t>
+                <t id="p02-s01-t04">a</t>
+                <t id="p02-s01-t05">look</t>
+                <t id="p02-s01-t06">at</t>
+                <t id="p02-s01-t07">the</t>
+                <t id="p02-s01-t08">image</t>
+                <t id="p02-s01-t09">above</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s02">
+                <t id="p02-s02-t01">This</t>
+                <t id="p02-s02-t02">image</t>
+                <t id="p02-s02-t03">is</t>
+                <t id="p02-s02-t04">of</t>
+                <t id="p02-s02-t05">the</t>
+                <t id="p02-s02-t06">Andromeda</t>
+                <t id="p02-s02-t07">Galaxy</t>
+                <punc>,</punc>
+                <t id="p02-s02-t08">which</t>
+                <t id="p02-s02-t09">contains</t>
+                <t id="p02-s02-t10">billions</t>
+                <t id="p02-s02-t11">of</t>
+                <t id="p02-s02-t12">individual</t>
+                <t id="p02-s02-t13">stars</t>
+                <punc>,</punc>
+                <t id="p02-s02-t14">huge</t>
+                <t id="p02-s02-t15">clouds</t>
+                <t id="p02-s02-t16">of</t>
+                <t id="p02-s02-t17">gas</t>
+                <punc>,</punc>
+                <t id="p02-s02-t18">and</t>
+                <t id="p02-s02-t19">dust</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s03">
+                <t id="p02-s03-t01">Two</t>
+                <t id="p02-s03-t02">smaller</t>
+                <t id="p02-s03-t03">galaxies</t>
+                <t id="p02-s03-t04">are</t>
+                <t id="p02-s03-t05">also</t>
+                <t id="p02-s03-t06">visible</t>
+                <t id="p02-s03-t07">as</t>
+                <t id="p02-s03-t08">bright</t>
+                <t id="p02-s03-t09">blue</t>
+                <t id="p02-s03-t10">spots</t>
+                <t id="p02-s03-t11">in</t>
+                <t id="p02-s03-t12">the</t>
+                <t id="p02-s03-t13">background</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s04">
+                <t id="p02-s04-t01">At</t>
+                <t id="p02-s04-t02">a</t>
+                <t id="p02-s04-t03">staggering</t>
+                <t id="p02-s04-t04">2.5</t>
+                <t id="p02-s04-t05">million</t>
+                <t id="p02-s04-t06">light</t>
+                <t id="p02-s04-t07">years</t>
+                <t id="p02-s04-t08">from</t>
+                <t id="p02-s04-t09">the</t>
+                <t id="p02-s04-t10">Earth</t>
+                <punc>,</punc>
+                <t id="p02-s04-t11">this</t>
+                <t id="p02-s04-t12">galaxy</t>
+                <t id="p02-s04-t13">is</t>
+                <t id="p02-s04-t14">the</t>
+                <t id="p02-s04-t15">nearest</t>
+                <t id="p02-s04-t16">one</t>
+                <t id="p02-s04-t17">to</t>
+                <t id="p02-s04-t18">our</t>
+                <t id="p02-s04-t19">own</t>
+                <t id="p02-s04-t20">galaxy</t>
+                <punc>(</punc>
+                <t id="p02-s04-t21">which</t>
+                <t id="p02-s04-t22">is</t>
+                <t id="p02-s04-t23">called</t>
+                <t id="p02-s04-t24">the</t>
+                <t id="p02-s04-t25">Milky</t>
+                <t id="p02-s04-t26">Way</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s05">
+                <t id="p02-s05-t01">The</t>
+                <t id="p02-s05-t02">stars</t>
+                <t id="p02-s05-t03">and</t>
+                <t id="p02-s05-t04">planets</t>
+                <t id="p02-s05-t05">that</t>
+                <t id="p02-s05-t06">make</t>
+                <t id="p02-s05-t07">up</t>
+                <t id="p02-s05-t08">Andromeda</t>
+                <t id="p02-s05-t09">might</t>
+                <t id="p02-s05-t10">seem</t>
+                <t id="p02-s05-t11">to</t>
+                <t id="p02-s05-t12">be</t>
+                <t id="p02-s05-t13">the</t>
+                <t id="p02-s05-t14">furthest</t>
+                <t id="p02-s05-t15">thing</t>
+                <t id="p02-s05-t16">from</t>
+                <t id="p02-s05-t17">most</t>
+                <t id="p02-s05-t18">people's</t>
+                <t id="p02-s05-t19">regular</t>
+                <punc>,</punc>
+                <t id="p02-s05-t20">everyday</t>
+                <t id="p02-s05-t21">lives</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s06">
+                <t id="p02-s06-t01">But</t>
+                <t id="p02-s06-t02">Andromeda</t>
+                <t id="p02-s06-t03">is</t>
+                <t id="p02-s06-t04">a</t>
+                <t id="p02-s06-t05">great</t>
+                <t id="p02-s06-t06">starting</t>
+                <t id="p02-s06-t07">point</t>
+                <t id="p02-s06-t08">to</t>
+                <t id="p02-s06-t09">think</t>
+                <t id="p02-s06-t10">about</t>
+                <t id="p02-s06-t11">the</t>
+                <t id="p02-s06-t12">forces</t>
+                <t id="p02-s06-t13">that</t>
+                <t id="p02-s06-t14">hold</t>
+                <t id="p02-s06-t15">together</t>
+                <t id="p02-s06-t16">the</t>
+                <t id="p02-s06-t17">universe</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s07">
+                <t id="p02-s07-t01">The</t>
+                <t id="p02-s07-t02">forces</t>
+                <t id="p02-s07-t03">that</t>
+                <t id="p02-s07-t04">cause</t>
+                <t id="p02-s07-t05">Andromeda</t>
+                <t id="p02-s07-t06">to</t>
+                <t id="p02-s07-t07">act</t>
+                <t id="p02-s07-t08">as</t>
+                <t id="p02-s07-t09">it</t>
+                <t id="p02-s07-t10">does</t>
+                <t id="p02-s07-t11">are</t>
+                <t id="p02-s07-t12">the</t>
+                <t id="p02-s07-t13">same</t>
+                <t id="p02-s07-t14">forces</t>
+                <t id="p02-s07-t15">we</t>
+                <t id="p02-s07-t16">contend</t>
+                <t id="p02-s07-t17">with</t>
+                <t id="p02-s07-t18">here</t>
+                <t id="p02-s07-t19">on</t>
+                <t id="p02-s07-t20">Earth</t>
+                <punc>,</punc>
+                <t id="p02-s07-t21">whether</t>
+                <t id="p02-s07-t22">we</t>
+                <t id="p02-s07-t23">are</t>
+                <t id="p02-s07-t24">planning</t>
+                <t id="p02-s07-t25">to</t>
+                <t id="p02-s07-t26">send</t>
+                <t id="p02-s07-t27">a</t>
+                <t id="p02-s07-t28">rocket</t>
+                <t id="p02-s07-t29">into</t>
+                <t id="p02-s07-t30">space</t>
+                <t id="p02-s07-t31">or</t>
+                <t id="p02-s07-t32">simply</t>
+                <t id="p02-s07-t33">raise</t>
+                <t id="p02-s07-t34">the</t>
+                <t id="p02-s07-t35">walls</t>
+                <t id="p02-s07-t36">for</t>
+                <t id="p02-s07-t37">a</t>
+                <t id="p02-s07-t38">new</t>
+                <t id="p02-s07-t39">home</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s08">
+                <t id="p02-s08-t01">The</t>
+                <t id="p02-s08-t02">same</t>
+                <t id="p02-s08-t03">gravity</t>
+                <t id="p02-s08-t04">that</t>
+                <t id="p02-s08-t05">causes</t>
+                <t id="p02-s08-t06">the</t>
+                <t id="p02-s08-t07">stars</t>
+                <t id="p02-s08-t08">of</t>
+                <t id="p02-s08-t09">Andromeda</t>
+                <t id="p02-s08-t10">to</t>
+                <t id="p02-s08-t11">rotate</t>
+                <t id="p02-s08-t12">and</t>
+                <t id="p02-s08-t13">revolve</t>
+                <t id="p02-s08-t14">also</t>
+                <t id="p02-s08-t15">causes</t>
+                <t id="p02-s08-t16">water</t>
+                <t id="p02-s08-t17">to</t>
+                <t id="p02-s08-t18">flow</t>
+                <t id="p02-s08-t19">over</t>
+                <t id="p02-s08-t20">hydroelectric</t>
+                <t id="p02-s08-t21">dams</t>
+                <t id="p02-s08-t22">here</t>
+                <t id="p02-s08-t23">on</t>
+                <t id="p02-s08-t24">Earth</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s09">
+                <t id="p02-s09-t01">Tonight</t>
+                <punc>,</punc>
+                <t id="p02-s09-t02">take</t>
+                <t id="p02-s09-t03">a</t>
+                <t id="p02-s09-t04">moment</t>
+                <t id="p02-s09-t05">to</t>
+                <t id="p02-s09-t06">look</t>
+                <t id="p02-s09-t07">up</t>
+                <t id="p02-s09-t08">at</t>
+                <t id="p02-s09-t09">the</t>
+                <t id="p02-s09-t10">stars</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s10">
+                <t id="p02-s10-t01">The</t>
+                <t id="p02-s10-t02">forces</t>
+                <t id="p02-s10-t03">out</t>
+                <t id="p02-s10-t04">there</t>
+                <t id="p02-s10-t05">are</t>
+                <t id="p02-s10-t06">the</t>
+                <t id="p02-s10-t07">same</t>
+                <t id="p02-s10-t08">as</t>
+                <t id="p02-s10-t09">the</t>
+                <t id="p02-s10-t10">ones</t>
+                <t id="p02-s10-t11">here</t>
+                <t id="p02-s10-t12">on</t>
+                <t id="p02-s10-t13">Earth</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p02-s11">
+                <t id="p02-s11-t01">Through</t>
+                <t id="p02-s11-t02">a</t>
+                <t id="p02-s11-t03">study</t>
+                <t id="p02-s11-t04">of</t>
+                <t id="p02-s11-t05">physics</t>
+                <punc>,</punc>
+                <t id="p02-s11-t06">you</t>
+                <t id="p02-s11-t07">may</t>
+                <t id="p02-s11-t08">gain</t>
+                <t id="p02-s11-t09">a</t>
+                <t id="p02-s11-t10">greater</t>
+                <t id="p02-s11-t11">understanding</t>
+                <t id="p02-s11-t12">of</t>
+                <t id="p02-s11-t13">the</t>
+                <t id="p02-s11-t14">interconnectedness</t>
+                <t id="p02-s11-t15">of</t>
+                <t id="p02-s11-t16">everything</t>
+                <t id="p02-s11-t17">we</t>
+                <t id="p02-s11-t18">can</t>
+                <t id="p02-s11-t19">see</t>
+                <t id="p02-s11-t20">and</t>
+                <t id="p02-s11-t21">know</t>
+                <t id="p02-s11-t22">in</t>
+                <t id="p02-s11-t23">this</t>
+                <t id="p02-s11-t24">universe</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p03">
+            <sentence id="p03-s01">
+                <t id="p03-s01-t01">Think</t>
+                <t id="p03-s01-t02">now</t>
+                <t id="p03-s01-t03">about</t>
+                <t id="p03-s01-t04">all</t>
+                <t id="p03-s01-t05">of</t>
+                <t id="p03-s01-t06">the</t>
+                <t id="p03-s01-t07">technological</t>
+                <t id="p03-s01-t08">devices</t>
+                <t id="p03-s01-t09">that</t>
+                <t id="p03-s01-t10">you</t>
+                <t id="p03-s01-t11">use</t>
+                <t id="p03-s01-t12">on</t>
+                <t id="p03-s01-t13">a</t>
+                <t id="p03-s01-t14">regular</t>
+                <t id="p03-s01-t15">basis</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s02">
+                <t id="p03-s02-t01">Computers</t>
+                <punc>,</punc>
+                <t id="p03-s02-t02">smart</t>
+                <t id="p03-s02-t03">phones</t>
+                <punc>,</punc>
+                <t id="p03-s02-t04">GPS</t>
+                <t id="p03-s02-t05">systems</t>
+                <punc>,</punc>
+                <t id="p03-s02-t06">MP3</t>
+                <t id="p03-s02-t07">players</t>
+                <punc>,</punc>
+                <t id="p03-s02-t08">and</t>
+                <t id="p03-s02-t09">satellite</t>
+                <t id="p03-s02-t10">radio</t>
+                <t id="p03-s02-t11">might</t>
+                <t id="p03-s02-t12">come</t>
+                <t id="p03-s02-t13">to</t>
+                <t id="p03-s02-t14">mind</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s03">
+                <t id="p03-s03-t01">Next</t>
+                <punc>,</punc>
+                <t id="p03-s03-t02">think</t>
+                <t id="p03-s03-t03">about</t>
+                <t id="p03-s03-t04">the</t>
+                <t id="p03-s03-t05">most</t>
+                <t id="p03-s03-t06">exciting</t>
+                <t id="p03-s03-t07">modern</t>
+                <t id="p03-s03-t08">technologies</t>
+                <t id="p03-s03-t09">that</t>
+                <t id="p03-s03-t10">you</t>
+                <t id="p03-s03-t11">have</t>
+                <t id="p03-s03-t12">heard</t>
+                <t id="p03-s03-t13">about</t>
+                <t id="p03-s03-t14">in</t>
+                <t id="p03-s03-t15">the</t>
+                <t id="p03-s03-t16">news</t>
+                <punc>,</punc>
+                <t id="p03-s03-t17">such</t>
+                <t id="p03-s03-t18">as</t>
+                <t id="p03-s03-t19">trains</t>
+                <t id="p03-s03-t20">that</t>
+                <t id="p03-s03-t21">levitate</t>
+                <t id="p03-s03-t22">above</t>
+                <t id="p03-s03-t23">tracks</t>
+                <punc>,</punc>
+                <punc>“</punc>
+                <t id="p03-s03-t24">invisibility</t>
+                <t id="p03-s03-t25">cloaks</t>
+                <punc>”</punc>
+                <t id="p03-s03-t26">that</t>
+                <t id="p03-s03-t27">bend</t>
+                <t id="p03-s03-t28">light</t>
+                <t id="p03-s03-t29">around</t>
+                <t id="p03-s03-t30">them</t>
+                <punc>,</punc>
+                <t id="p03-s03-t31">and</t>
+                <t id="p03-s03-t32">microscopic</t>
+                <t id="p03-s03-t33">robots</t>
+                <t id="p03-s03-t34">that</t>
+                <t id="p03-s03-t35">fight</t>
+                <t id="p03-s03-t36">cancer</t>
+                <t id="p03-s03-t37">cells</t>
+                <t id="p03-s03-t38">in</t>
+                <t id="p03-s03-t39">our</t>
+                <t id="p03-s03-t40">bodies</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s04">
+                <t id="p03-s04-t01">All</t>
+                <t id="p03-s04-t02">of</t>
+                <t id="p03-s04-t03">these</t>
+                <t id="p03-s04-t04">groundbreaking</t>
+                <t id="p03-s04-t05">advancements</t>
+                <punc>,</punc>
+                <t id="p03-s04-t06">commonplace</t>
+                <t id="p03-s04-t07">or</t>
+                <t id="p03-s04-t08">unbelievable</t>
+                <punc>,</punc>
+                <t id="p03-s04-t09">rely</t>
+                <t id="p03-s04-t10">on</t>
+                <t id="p03-s04-t11">the</t>
+                <t id="p03-s04-t12">principles</t>
+                <t id="p03-s04-t13">of</t>
+                <t id="p03-s04-t14">physics</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s05">
+                <t id="p03-s05-t01">Aside</t>
+                <t id="p03-s05-t02">from</t>
+                <t id="p03-s05-t03">playing</t>
+                <t id="p03-s05-t04">a</t>
+                <t id="p03-s05-t05">significant</t>
+                <t id="p03-s05-t06">role</t>
+                <t id="p03-s05-t07">in</t>
+                <t id="p03-s05-t08">technology</t>
+                <punc>,</punc>
+                <t id="p03-s05-t09">professionals</t>
+                <t id="p03-s05-t10">such</t>
+                <t id="p03-s05-t11">as</t>
+                <t id="p03-s05-t12">engineers</t>
+                <punc>,</punc>
+                <t id="p03-s05-t13">pilots</t>
+                <punc>,</punc>
+                <t id="p03-s05-t14">physicians</t>
+                <punc>,</punc>
+                <t id="p03-s05-t15">physical</t>
+                <t id="p03-s05-t16">therapists</t>
+                <punc>,</punc>
+                <t id="p03-s05-t17">electricians</t>
+                <punc>,</punc>
+                <t id="p03-s05-t18">and</t>
+                <t id="p03-s05-t19">computer</t>
+                <t id="p03-s05-t20">programmers</t>
+                <t id="p03-s05-t21">apply</t>
+                <t id="p03-s05-t22">physics</t>
+                <t id="p03-s05-t23">concepts</t>
+                <t id="p03-s05-t24">in</t>
+                <t id="p03-s05-t25">their</t>
+                <t id="p03-s05-t26">daily</t>
+                <t id="p03-s05-t27">work</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s06">
+                <t id="p03-s06-t01">For</t>
+                <t id="p03-s06-t02">example</t>
+                <punc>,</punc>
+                <t id="p03-s06-t03">a</t>
+                <t id="p03-s06-t04">pilot</t>
+                <t id="p03-s06-t05">must</t>
+                <t id="p03-s06-t06">understand</t>
+                <t id="p03-s06-t07">how</t>
+                <t id="p03-s06-t08">wind</t>
+                <t id="p03-s06-t09">forces</t>
+                <t id="p03-s06-t10">affect</t>
+                <t id="p03-s06-t11">a</t>
+                <t id="p03-s06-t12">flight</t>
+                <t id="p03-s06-t13">path</t>
+                <t id="p03-s06-t14">and</t>
+                <t id="p03-s06-t15">a</t>
+                <t id="p03-s06-t16">physical</t>
+                <t id="p03-s06-t17">therapist</t>
+                <t id="p03-s06-t18">must</t>
+                <t id="p03-s06-t19">understand</t>
+                <t id="p03-s06-t20">how</t>
+                <t id="p03-s06-t21">the</t>
+                <t id="p03-s06-t22">muscles</t>
+                <t id="p03-s06-t23">in</t>
+                <t id="p03-s06-t24">the</t>
+                <t id="p03-s06-t25">body</t>
+                <t id="p03-s06-t26">experience</t>
+                <t id="p03-s06-t27">forces</t>
+                <t id="p03-s06-t28">as</t>
+                <t id="p03-s06-t29">they</t>
+                <t id="p03-s06-t30">move</t>
+                <t id="p03-s06-t31">and</t>
+                <t id="p03-s06-t32">bend</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p03-s07">
+                <t id="p03-s07-t01">As</t>
+                <t id="p03-s07-t02">you</t>
+                <t id="p03-s07-t03">will</t>
+                <t id="p03-s07-t04">learn</t>
+                <t id="p03-s07-t05">in</t>
+                <t id="p03-s07-t06">this</t>
+                <t id="p03-s07-t07">text</t>
+                <punc>,</punc>
+                <t id="p03-s07-t08">physics</t>
+                <t id="p03-s07-t09">principles</t>
+                <t id="p03-s07-t10">are</t>
+                <t id="p03-s07-t11">propelling</t>
+                <t id="p03-s07-t12">new</t>
+                <punc>,</punc>
+                <t id="p03-s07-t13">exciting</t>
+                <t id="p03-s07-t14">technologies</t>
+                <punc>,</punc>
+                <t id="p03-s07-t15">and</t>
+                <t id="p03-s07-t16">these</t>
+                <t id="p03-s07-t17">principles</t>
+                <t id="p03-s07-t18">are</t>
+                <t id="p03-s07-t19">applied</t>
+                <t id="p03-s07-t20">in</t>
+                <t id="p03-s07-t21">a</t>
+                <t id="p03-s07-t22">wide</t>
+                <t id="p03-s07-t23">range</t>
+                <t id="p03-s07-t24">of</t>
+                <t id="p03-s07-t25">careers</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p04">
+            <sentence id="p04-s01">
+                <t id="p04-s01-t01">In</t>
+                <t id="p04-s01-t02">this</t>
+                <t id="p04-s01-t03">text</t>
+                <punc>,</punc>
+                <t id="p04-s01-t04">you</t>
+                <t id="p04-s01-t05">will</t>
+                <t id="p04-s01-t06">begin</t>
+                <t id="p04-s01-t07">to</t>
+                <t id="p04-s01-t08">explore</t>
+                <t id="p04-s01-t09">the</t>
+                <t id="p04-s01-t10">history</t>
+                <t id="p04-s01-t11">of</t>
+                <t id="p04-s01-t12">the</t>
+                <t id="p04-s01-t13">formal</t>
+                <t id="p04-s01-t14">study</t>
+                <t id="p04-s01-t15">of</t>
+                <t id="p04-s01-t16">physics</t>
+                <punc>,</punc>
+                <t id="p04-s01-t17">beginning</t>
+                <t id="p04-s01-t18">with</t>
+                <t id="p04-s01-t19">natural</t>
+                <t id="p04-s01-t20">philosophy</t>
+                <t id="p04-s01-t21">and</t>
+                <t id="p04-s01-t22">the</t>
+                <t id="p04-s01-t23">ancient</t>
+                <t id="p04-s01-t24">Greeks</t>
+                <punc>,</punc>
+                <t id="p04-s01-t25">and</t>
+                <t id="p04-s01-t26">leading</t>
+                <t id="p04-s01-t27">up</t>
+                <t id="p04-s01-t28">through</t>
+                <t id="p04-s01-t29">a</t>
+                <t id="p04-s01-t30">review</t>
+                <t id="p04-s01-t31">of</t>
+                <t id="p04-s01-t32">Sir</t>
+                <t id="p04-s01-t33">Isaac</t>
+                <t id="p04-s01-t34">Newton</t>
+                <t id="p04-s01-t35">and</t>
+                <t id="p04-s01-t36">the</t>
+                <t id="p04-s01-t37">laws</t>
+                <t id="p04-s01-t38">of</t>
+                <t id="p04-s01-t39">physics</t>
+                <t id="p04-s01-t40">that</t>
+                <t id="p04-s01-t41">bear</t>
+                <t id="p04-s01-t42">his</t>
+                <t id="p04-s01-t43">name</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p04-s02">
+                <t id="p04-s02-t01">You</t>
+                <t id="p04-s02-t02">will</t>
+                <t id="p04-s02-t03">also</t>
+                <t id="p04-s02-t04">be</t>
+                <t id="p04-s02-t05">introduced</t>
+                <t id="p04-s02-t06">to</t>
+                <t id="p04-s02-t07">the</t>
+                <t id="p04-s02-t08">standards</t>
+                <t id="p04-s02-t09">scientists</t>
+                <t id="p04-s02-t10">use</t>
+                <t id="p04-s02-t11">when</t>
+                <t id="p04-s02-t12">they</t>
+                <t id="p04-s02-t13">study</t>
+                <t id="p04-s02-t14">physical</t>
+                <t id="p04-s02-t15">quantities</t>
+                <t id="p04-s02-t16">and</t>
+                <t id="p04-s02-t17">the</t>
+                <t id="p04-s02-t18">interrelated</t>
+                <t id="p04-s02-t19">system</t>
+                <t id="p04-s02-t20">of</t>
+                <t id="p04-s02-t21">measurements</t>
+                <t id="p04-s02-t22">most</t>
+                <t id="p04-s02-t23">of</t>
+                <t id="p04-s02-t24">the</t>
+                <t id="p04-s02-t25">scientific</t>
+                <t id="p04-s02-t26">community</t>
+                <t id="p04-s02-t27">uses</t>
+                <t id="p04-s02-t28">to</t>
+                <t id="p04-s02-t29">communicate</t>
+                <t id="p04-s02-t30">in</t>
+                <t id="p04-s02-t31">a</t>
+                <t id="p04-s02-t32">single</t>
+                <t id="p04-s02-t33">mathematical</t>
+                <t id="p04-s02-t34">language</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p04-s03">
+                <t id="p04-s03-t01">Finally</t>
+                <punc>,</punc>
+                <t id="p04-s03-t02">you</t>
+                <t id="p04-s03-t03">will</t>
+                <t id="p04-s03-t04">study</t>
+                <t id="p04-s03-t05">the</t>
+                <t id="p04-s03-t06">limits</t>
+                <t id="p04-s03-t07">of</t>
+                <t id="p04-s03-t08">our</t>
+                <t id="p04-s03-t09">ability</t>
+                <t id="p04-s03-t10">to</t>
+                <t id="p04-s03-t11">be</t>
+                <t id="p04-s03-t12">accurate</t>
+                <t id="p04-s03-t13">and</t>
+                <t id="p04-s03-t14">precise</t>
+                <punc>,</punc>
+                <t id="p04-s03-t15">and</t>
+                <t id="p04-s03-t16">the</t>
+                <t id="p04-s03-t17">reasons</t>
+                <t id="p04-s03-t18">scientists</t>
+                <t id="p04-s03-t19">go</t>
+                <t id="p04-s03-t20">to</t>
+                <t id="p04-s03-t21">painstaking</t>
+                <t id="p04-s03-t22">lengths</t>
+                <t id="p04-s03-t23">to</t>
+                <t id="p04-s03-t24">be</t>
+                <t id="p04-s03-t25">as</t>
+                <t id="p04-s03-t26">clear</t>
+                <t id="p04-s03-t27">as</t>
+                <t id="p04-s03-t28">possible</t>
+                <t id="p04-s03-t29">regarding</t>
+                <t id="p04-s03-t30">their</t>
+                <t id="p04-s03-t31">own</t>
+                <t id="p04-s03-t32">limitations</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
