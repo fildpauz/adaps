@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>The Power of Kawaii: Viewing Cute Images Promotes a Careful Behavior and Narrows Attentional Focus (Extract)</title>
+    <citation>Nittono H, Fukushima M, Yano A, Moriya H (2012) The Power of Kawaii: Viewing Cute Images Promotes a Careful Behavior and Narrows Attentional Focus. PLoS ONE 7(9): e46362. doi:10.1371/journal.pone.0046362</citation>
+    <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0046362</url>
+    <info type="arise">
+        <arise-info book="1"
+                    section="3"
+                    unit="5"
+                    part="4"
+                    item="1"
+                    firstpage="47"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01">The</t>
+                <t id="p01-s01-t02">participants</t>
+                <t id="p01-s01-t03">were</t>
+                <t id="p01-s01-t04">asked</t>
+                <t id="p01-s01-t05">to</t>
+                <t id="p01-s01-t06">perform</t>
+                <t id="p01-s01-t07">a</t>
+                <t id="p01-s01-t08">task</t>
+                <t id="p01-s01-t09">requiring</t>
+                <t id="p01-s01-t10">a</t>
+                <t id="p01-s01-t11">high</t>
+                <t id="p01-s01-t12">level</t>
+                <t id="p01-s01-t13">of</t>
+                <t id="p01-s01-t14">concentration</t>
+                <t id="p01-s01-t15">twice</t>
+                <punc>,</punc>
+                <t id="p01-s01-t16">with</t>
+                <t id="p01-s01-t17">a</t>
+                <t id="p01-s01-t18">break</t>
+                <t id="p01-s01-t19">of</t>
+                <t id="p01-s01-t20">a</t>
+                <t id="p01-s01-t21">few</t>
+                <t id="p01-s01-t22">minutes</t>
+                <t id="p01-s01-t23">between</t>
+                <t id="p01-s01-t24">the</t>
+                <t id="p01-s01-t25">tasks</t>
+                <t id="p01-s01-t26">for</t>
+                <t id="p01-s01-t27">mental</t>
+                <t id="p01-s01-t28">recovery</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Red, Purple and Pink: The Colors of Diffusion on Pinterest (Extract)</title>
+    <citation>Bakhshi S, Gilbert E (2015) Red, Purple and Pink: The Colors of Diffusion on Pinterest. PLoS ONE 10(2): e0117148. doi:10.1371/journal.pone.0117148</citation>
+    <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0117148</url>
+    <info type="arise">
+        <arise-info book="1"
+                    section="2"
+                    unit="3"
+                    part="1"
+                    item="C"
+                    firstpage="19"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01">Recently</t>
+                <punc>,</punc>
+                <t id="p01-s01-t02">we</t>
+                <t id="p01-s01-t03">have</t>
+                <t id="p01-s01-t04">seen</t>
+                <t id="p01-s01-t05">image</t>
+                <punc>-</punc>
+                <t id="p01-s01-t06">sharing</t>
+                <t id="p01-s01-t07">communities</t>
+                <t id="p01-s01-t08">truly</t>
+                <t id="p01-s01-t09">take</t>
+                <t id="p01-s01-t10">off—</t>
+                <punc>—</punc>
+                <t id="p01-s01-t11">sites</t>
+                <t id="p01-s01-t12">such</t>
+                <t id="p01-s01-t13">as</t>
+                <t id="p01-s01-t14">Pinterest</t>
+                <punc>,</punc>
+                <t id="p01-s01-t15">Imgur</t>
+                <t id="p01-s01-t16">and</t>
+                <t id="p01-s01-t17">Tumblr</t>
+                <punc>,</punc>
+                <t id="p01-s01-t18">just</t>
+                <t id="p01-s01-t19">to</t>
+                <t id="p01-s01-t20">name</t>
+                <t id="p01-s01-t21">a</t>
+                <t id="p01-s01-t22">few</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01">A</t>
+                <t id="p01-s02-t02">key</t>
+                <t id="p01-s02-t03">research</t>
+                <t id="p01-s02-t04">challenge</t>
+                <t id="p01-s02-t05">for</t>
+                <t id="p01-s02-t06">communities</t>
+                <t id="p01-s02-t07">like</t>
+                <t id="p01-s02-t08">these</t>
+                <t id="p01-s02-t09">is</t>
+                <t id="p01-s02-t10">uncovering</t>
+                <t id="p01-s02-t11">the</t>
+                <t id="p01-s02-t12">mechanisms</t>
+                <t id="p01-s02-t13">by</t>
+                <t id="p01-s02-t14">which</t>
+                <t id="p01-s02-t15">content</t>
+                <t id="p01-s02-t16">spreads</t>
+                <t id="p01-s02-t17">from</t>
+                <t id="p01-s02-t18">person</t>
+                <t id="p01-s02-t19">to</t>
+                <t id="p01-s02-t20">person</t>
+                <punc>(</punc>
+                <t id="p01-s02-t21">or</t>
+                <punc>“</punc>
+                <t id="p01-s02-t22">diffuses</t>
+                <punc>,</punc>
+                <punc>”</punc>
+                <t id="p01-s02-t23">adopting</t>
+                <t id="p01-s02-t24">the</t>
+                <t id="p01-s02-t25">term</t>
+                <t id="p01-s02-t26">from</t>
+                <t id="p01-s02-t27">the</t>
+                <t id="p01-s02-t28">academic</t>
+                <t id="p01-s02-t29">literature</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s03">
+                <t id="p01-s03-t01">For</t>
+                <t id="p01-s03-t02">example</t>
+                <punc>,</punc>
+                <t id="p01-s03-t03">a</t>
+                <t id="p01-s03-t04">study</t>
+                <t id="p01-s03-t05">of</t>
+                <t id="p01-s03-t06">the</t>
+                <t id="p01-s03-t07">most</t>
+                <t id="p01-s03-t08">widely</t>
+                <t id="p01-s03-t09">shared</t>
+                <t id="p01-s03-t10">New</t>
+                <t id="p01-s03-t11">York</t>
+                <t id="p01-s03-t12">Times</t>
+                <t id="p01-s03-t13">stories</t>
+                <t id="p01-s03-t14">found</t>
+                <t id="p01-s03-t15">that</t>
+                <t id="p01-s03-t16">they</t>
+                <t id="p01-s03-t17">tend</t>
+                <t id="p01-s03-t18">to</t>
+                <punc>“</punc>
+                <t id="p01-s03-t19">inspire</t>
+                <t id="p01-s03-t20">awe</t>
+                <punc>”</punc>
+                <t id="p01-s03-t21">in</t>
+                <t id="p01-s03-t22">their</t>
+                <t id="p01-s03-t23">readers</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s04">
+                <t id="p01-s04-t01">Drawing</t>
+                <t id="p01-s04-t02">on</t>
+                <t id="p01-s04-t03">a</t>
+                <t id="p01-s04-t04">corpus</t>
+                <t id="p01-s04-t05">of</t>
+                <t id="p01-s04-t06">one</t>
+                <t id="p01-s04-t07">million</t>
+                <t id="p01-s04-t08">images</t>
+                <t id="p01-s04-t09">crawled</t>
+                <t id="p01-s04-t10">from</t>
+                <t id="p01-s04-t11">Pinterest</t>
+                <punc>,</punc>
+                <t id="p01-s04-t12">we</t>
+                <t id="p01-s04-t13">find</t>
+                <t id="p01-s04-t14">that</t>
+                <t id="p01-s04-t15">color</t>
+                <t id="p01-s04-t16">significantly</t>
+                <t id="p01-s04-t17">drives</t>
+                <t id="p01-s04-t18">how</t>
+                <t id="p01-s04-t19">far</t>
+                <t id="p01-s04-t20">an</t>
+                <t id="p01-s04-t21">image</t>
+                <t id="p01-s04-t22">diffuses</t>
+                <punc>,</punc>
+                <t id="p01-s04-t23">even</t>
+                <t id="p01-s04-t24">after</t>
+                <t id="p01-s04-t25">partially</t>
+                <t id="p01-s04-t26">controlling</t>
+                <t id="p01-s04-t27">for</t>
+                <t id="p01-s04-t28">user</t>
+                <t id="p01-s04-t29">activity</t>
+                <t id="p01-s04-t30">and</t>
+                <t id="p01-s04-t31">network</t>
+                <t id="p01-s04-t32">structure</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

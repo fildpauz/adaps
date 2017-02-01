@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Robots Show Us How to Teach Them: Feedback from Robots Shapes Tutoring Behavior during Action Learning (Extract)</title>
+    <citation>Vollmer A-L, Mühlig M, Steil JJ, Pitsch K, Fritsch J, Rohlfing KJ, et al. (2014) Robots Show Us How to Teach Them: Feedback from Robots Shapes Tutoring Behavior during Action Learning. PLoS ONE 9(3): e91349. doi:10.1371/journal.pone.0091349</citation>
+    <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091349</url>
+    <info type="arise">
+        <arise-info book="1"
+                    section="2"
+                    unit="3"
+                    part="1"
+                    item="D"
+                    firstpage="19"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01">The</t>
+                <t id="p01-s01-t02">presented</t>
+                <t id="p01-s01-t03">work</t>
+                <t id="p01-s01-t04">challenges</t>
+                <t id="p01-s01-t05">the</t>
+                <t id="p01-s01-t06">predominant</t>
+                <t id="p01-s01-t07">assumption</t>
+                <t id="p01-s01-t08">of</t>
+                <t id="p01-s01-t09">a</t>
+                <t id="p01-s01-t10">unidirectional</t>
+                <t id="p01-s01-t11">knowledge</t>
+                <t id="p01-s01-t12">transfer</t>
+                <t id="p01-s01-t13">based</t>
+                <t id="p01-s01-t14">on</t>
+                <t id="p01-s01-t15">an</t>
+                <t id="p01-s01-t16">extensive</t>
+                <t id="p01-s01-t17">user</t>
+                <t id="p01-s01-t18">study</t>
+                <t id="p01-s01-t19">with</t>
+                <t id="p01-s01-t20">an</t>
+                <t id="p01-s01-t21">autonomously</t>
+                <t id="p01-s01-t22">interacting</t>
+                <t id="p01-s01-t23">humanoid</t>
+                <t id="p01-s01-t24">robot</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01">We</t>
+                <t id="p01-s02-t02">subscribe</t>
+                <t id="p01-s02-t03">to</t>
+                <t id="p01-s02-t04">a</t>
+                <t id="p01-s02-t05">perspective</t>
+                <t id="p01-s02-t06">present</t>
+                <t id="p01-s02-t07">in</t>
+                <t id="p01-s02-t08">research</t>
+                <t id="p01-s02-t09">in</t>
+                <t id="p01-s02-t10">social</t>
+                <t id="p01-s02-t11">human</t>
+                <punc>-</punc>
+                <t id="p01-s02-t12">human</t>
+                <t id="p01-s02-t13">interaction</t>
+                <t id="p01-s02-t14">emphasizing</t>
+                <t id="p01-s02-t15">the</t>
+                <t id="p01-s02-t16">process</t>
+                <t id="p01-s02-t17">of</t>
+                <t id="p01-s02-t18">alignment</t>
+                <t id="p01-s02-t19">between</t>
+                <t id="p01-s02-t20">mental</t>
+                <t id="p01-s02-t21">states</t>
+                <punc>,</punc>
+                <t id="p01-s02-t22">actions'</t>
+                <t id="p01-s02-t23">goals</t>
+                <punc>,</punc>
+                <t id="p01-s02-t24">and</t>
+                <t id="p01-s02-t25">communication</t>
+                <punc>...</punc>
+            </sentence>
+            <sentence id="p01-s03">
+                <t id="p01-s03-t01">Subscribing</t>
+                <t id="p01-s03-t02">to</t>
+                <t id="p01-s03-t03">the</t>
+                <t id="p01-s03-t04">interactive</t>
+                <t id="p01-s03-t05">view</t>
+                <t id="p01-s03-t06">in</t>
+                <t id="p01-s03-t07">Human</t>
+                <punc>-</punc>
+                <t id="p01-s03-t08">Robot</t>
+                <t id="p01-s03-t09">Interaction</t>
+                <punc>(</punc>
+                <t id="p01-s03-t10">HRI</t>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p01-s03-t11">it</t>
+                <t id="p01-s03-t12">is</t>
+                <t id="p01-s03-t13">not</t>
+                <t id="p01-s03-t14">the</t>
+                <t id="p01-s03-t15">user</t>
+                <t id="p01-s03-t16">alone</t>
+                <t id="p01-s03-t17">who</t>
+                <t id="p01-s03-t18">determines</t>
+                <t id="p01-s03-t19">what</t>
+                <t id="p01-s03-t20">is</t>
+                <t id="p01-s03-t21">being</t>
+                <t id="p01-s03-t22">demonstrated</t>
+                <punc>(</punc>
+                <t id="p01-s03-t23">Figure</t>
+                <t id="p01-s03-t24">1A</t>
+                <punc>)</punc>
+                <punc>(</punc>
+                <t id="p01-s03-t25">as</t>
+                <t id="p01-s03-t26">it</t>
+                <t id="p01-s03-t27">is</t>
+                <t id="p01-s03-t28">currently</t>
+                <t id="p01-s03-t29">implicitly</t>
+                <t id="p01-s03-t30">assumed</t>
+                <t id="p01-s03-t31">in</t>
+                <t id="p01-s03-t32">robot</t>
+                <t id="p01-s03-t33">imitation</t>
+                <t id="p01-s03-t34">learning</t>
+                <punc>)</punc>
+                <t id="p01-s03-t35">but</t>
+                <t id="p01-s03-t36">the</t>
+                <t id="p01-s03-t37">demonstration</t>
+                <t id="p01-s03-t38">has</t>
+                <t id="p01-s03-t39">to</t>
+                <t id="p01-s03-t40">emerge</t>
+                <t id="p01-s03-t41">with</t>
+                <t id="p01-s03-t42">the</t>
+                <t id="p01-s03-t43">feedback</t>
+                <t id="p01-s03-t44">of</t>
+                <t id="p01-s03-t45">the</t>
+                <t id="p01-s03-t46">learner</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence id="p02-s01">
+                <t id="p02-s01-t01">In</t>
+                <t id="p02-s01-t02">current</t>
+                <t id="p02-s01-t03">HRI</t>
+                <punc>,</punc>
+                <t id="p02-s01-t04">the</t>
+                <t id="p02-s01-t05">interactive</t>
+                <t id="p02-s01-t06">view</t>
+                <t id="p02-s01-t07">on</t>
+                <t id="p02-s01-t08">social</t>
+                <t id="p02-s01-t09">cognition</t>
+                <t id="p02-s01-t10">and</t>
+                <t id="p02-s01-t11">communication</t>
+                <t id="p02-s01-t12">has</t>
+                <t id="p02-s01-t13">not</t>
+                <t id="p02-s01-t14">been</t>
+                <t id="p02-s01-t15">tested</t>
+                <punc>,</punc>
+                <t id="p02-s01-t16">because</t>
+                <t id="p02-s01-t17">most</t>
+                <t id="p02-s01-t18">robots</t>
+                <t id="p02-s01-t19">are</t>
+                <t id="p02-s01-t20">barely</t>
+                <t id="p02-s01-t21">capable</t>
+                <t id="p02-s01-t22">of</t>
+                <t id="p02-s01-t23">a</t>
+                <t id="p02-s01-t24">real</t>
+                <t id="p02-s01-t25">interaction</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

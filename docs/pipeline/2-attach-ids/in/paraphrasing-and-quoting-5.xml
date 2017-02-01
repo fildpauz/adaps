@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Civil Engineering (Extract)</title>
+    <citation>Simple English Wikipedia: “Civil Engineering”. Retrieved from http://simple.wikipedia.org/wiki/Civil_engineering on 19 Feb 2015.</citation>
+    <url>http://simple.wikipedia.org/wiki/Civil_engineering</url>
+    <info type="arise">
+        <arise-info book="1" section="3" unit="5" part="4" item="3" firstpage="48"/>
+    </info>
+    <body>
+        <paragraph>
+            <sentence>
+                <t>Civil</t>
+                <t>engineering</t>
+                <t>is</t>
+                <t>made</t>
+                <t>up</t>
+                <t>of</t>
+                <t>many</t>
+                <t>different</t>
+                <t>areas</t>
+                <t>or</t>
+                <t>disciplines</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>Some</t>
+                <t>important</t>
+                <t>areas</t>
+                <t>are</t>
+                <t>geotechnical</t>
+                <punc>,</punc>
+                <t>structures</t>
+                <punc>,</punc>
+                <t>environmental</t>
+                <punc>,</punc>
+                <t>construction</t>
+                <t>management</t>
+                <punc>,</punc>
+                <t>hydrology</t>
+                <punc>,</punc>
+                <t>transportation</t>
+                <punc>,</punc>
+                <t>and</t>
+                <t>materials</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence>
+                <t>It</t>
+                <t>is</t>
+                <t>important</t>
+                <t>for</t>
+                <t>civil</t>
+                <t>engineers</t>
+                <t>to</t>
+                <t>have</t>
+                <t>an</t>
+                <t>understanding</t>
+                <t>of</t>
+                <t>all</t>
+                <t>these</t>
+                <t>disciplines</t>
+                <t>as</t>
+                <t>projects</t>
+                <t>often</t>
+                <t>involve</t>
+                <t>many</t>
+                <t>of</t>
+                <t>them</t>
+                <t>at</t>
+                <t>the</t>
+                <t>same</t>
+                <t>time</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
