@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Red, Purple and Pink: The Colors of Diffusion on Pinterest (Extract)</title>
+    <citation>Bakhshi S, Gilbert E (2015) Red, Purple and Pink: The Colors of Diffusion on Pinterest. PLoS ONE 10(2): e0117148. doi:10.1371/journal.pone.0117148</citation>
+    <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0117148</url>
+    <info type="arise">
+        <arise-info book="1"
+                    section="2"
+                    unit="3"
+                    part="1"
+                    item="C"
+                    firstpage="19"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence id="p01-s01">
+                <t id="p01-s01-t01" type="GSL-1">Recently</t>
+                <punc>,</punc>
+                <t id="p01-s01-t02" type="GSL-1">we</t>
+                <t id="p01-s01-t03" type="GSL-1">have</t>
+                <t id="p01-s01-t04" type="GSL-1">seen</t>
+                <t id="p01-s01-t05" type="Coxhead-AWL-5,AR-AWL-5a">image</t>
+                <punc>-</punc>
+                <t id="p01-s01-t06" type="GSL-1">sharing</t>
+                <t id="p01-s01-t07" type="Coxhead-AWL-2,AR-AWL-2a">communities</t>
+                <t id="p01-s01-t08" type="GSL-1">truly</t>
+                <t id="p01-s01-t09" type="GSL-1">take</t>
+                <t id="p01-s01-t10" type="GSL-1">off</t>
+                <punc>—</punc>
+                <t id="p01-s01-t11" type="Coxhead-AWL-2,AR-AWL-2b">sites</t>
+                <t id="p01-s01-t12" type="GSL-1">such</t>
+                <t id="p01-s01-t13" type="GSL-1">as</t>
+                <t id="p01-s01-t14">Pinterest</t>
+                <punc>,</punc>
+                <t id="p01-s01-t15">Imgur</t>
+                <t id="p01-s01-t16" type="GSL-1">and</t>
+                <t id="p01-s01-t17">Tumblr</t>
+                <punc>,</punc>
+                <t id="p01-s01-t18" type="GSL-1">just</t>
+                <t id="p01-s01-t19" type="GSL-1">to</t>
+                <t id="p01-s01-t20" type="GSL-1">name</t>
+                <t id="p01-s01-t21" type="GSL-1">a</t>
+                <t id="p01-s01-t22" type="GSL-1">few</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s02">
+                <t id="p01-s02-t01" type="GSL-1">A</t>
+                <t id="p01-s02-t02" type="GSL-2">key</t>
+                <t id="p01-s02-t03" type="Coxhead-AWL-1,AR-AWL-1b">research</t>
+                <t id="p01-s02-t04" type="Coxhead-AWL-5,AR-AWL-5a">challenge</t>
+                <t id="p01-s02-t05" type="GSL-1">for</t>
+                <t id="p01-s02-t06" type="Coxhead-AWL-2,AR-AWL-2a">communities</t>
+                <t id="p01-s02-t07" type="GSL-1">like</t>
+                <anaphor>
+                    <t id="p01-s02-t08" type="GSL-1">these</t>
+                </anaphor>
+                <t id="p01-s02-t09" type="GSL-1">is</t>
+                <t id="p01-s02-t10">uncovering</t>
+                <t id="p01-s02-t11" type="GSL-1">the</t>
+                <t id="p01-s02-t12" type="Coxhead-AWL-4,AR-AWL-4b">mechanisms</t>
+                <t id="p01-s02-t13" type="GSL-1">by</t>
+                <t id="p01-s02-t14" type="GSL-1">which</t>
+                <t id="p01-s02-t15" type="GSL-1">content</t>
+                <t id="p01-s02-t16" type="GSL-1">spreads</t>
+                <t id="p01-s02-t17" type="GSL-1">from</t>
+                <t id="p01-s02-t18" type="GSL-1">person</t>
+                <t id="p01-s02-t19" type="GSL-1">to</t>
+                <t id="p01-s02-t20" type="GSL-1">person</t>
+                <punc>(</punc>
+                <t id="p01-s02-t21" type="GSL-1">or</t>
+                <punc>“</punc>
+                <term>
+                    <t id="p01-s02-t22">diffuses</t>
+                </term>
+                <punc>,</punc>
+                <punc>”</punc>
+                <t id="p01-s02-t23" type="GSL-1">adopting</t>
+                <t id="p01-s02-t24" type="GSL-1">the</t>
+                <t id="p01-s02-t25" type="GSL-1">term</t>
+                <t id="p01-s02-t26" type="GSL-1">from</t>
+                <t id="p01-s02-t27" type="GSL-1">the</t>
+                <t id="p01-s02-t28" type="Coxhead-AWL-5,AR-AWL-5a">academic</t>
+                <t id="p01-s02-t29" type="GSL-1">literature</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s03">
+                <connector>
+                    <t id="p01-s03-t01" type="GSL-1">For</t>
+                    <t id="p01-s03-t02" type="GSL-1">example</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p01-s03-t03" type="GSL-1">a</t>
+                <t id="p01-s03-t04" type="GSL-1">study</t>
+                <t id="p01-s03-t05" type="GSL-1">of</t>
+                <t id="p01-s03-t06" type="GSL-1">the</t>
+                <t id="p01-s03-t07" type="GSL-1">most</t>
+                <t id="p01-s03-t08" type="GSL-1">widely</t>
+                <t id="p01-s03-t09" type="GSL-1">shared</t>
+                <emph>
+                    <t id="p01-s03-t10" type="GSL-1">New</t>
+                    <t id="p01-s03-t11">York</t>
+                    <t id="p01-s03-t12" type="GSL-1">Times</t>
+                </emph>
+                <t id="p01-s03-t13" type="GSL-1">stories</t>
+                <t id="p01-s03-t14" type="Coxhead-AWL-9,AR-AWL-9a">found</t>
+                <t id="p01-s03-t15" type="GSL-1">that</t>
+                <anaphor>
+                    <t id="p01-s03-t16" type="GSL-1">they</t>
+                </anaphor>
+                <t id="p01-s03-t17" type="GSL-2">tend</t>
+                <t id="p01-s03-t18" type="GSL-1">to</t>
+                <punc>“</punc>
+                <t id="p01-s03-t19">inspire</t>
+                <t id="p01-s03-t20">awe</t>
+                <punc>”</punc>
+                <t id="p01-s03-t21" type="GSL-1">in</t>
+                <anaphor>
+                    <t id="p01-s03-t22" type="GSL-1">their</t>
+                </anaphor>
+                <t id="p01-s03-t23" type="GSL-1">readers</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence id="p01-s04">
+                <t id="p01-s04-t01" type="GSL-1">Drawing</t>
+                <t id="p01-s04-t02" type="GSL-1">on</t>
+                <t id="p01-s04-t03" type="GSL-1">a</t>
+                <t id="p01-s04-t04">corpus</t>
+                <t id="p01-s04-t05" type="GSL-1">of</t>
+                <t id="p01-s04-t06" type="GSL-1">one</t>
+                <t id="p01-s04-t07" type="GSL-1">million</t>
+                <t id="p01-s04-t08" type="Coxhead-AWL-5,AR-AWL-5a">images</t>
+                <t id="p01-s04-t09">crawled</t>
+                <t id="p01-s04-t10" type="GSL-1">from</t>
+                <t id="p01-s04-t11">Pinterest</t>
+                <punc>,</punc>
+                <t id="p01-s04-t12" type="GSL-1">we</t>
+                <t id="p01-s04-t13" type="GSL-1">find</t>
+                <t id="p01-s04-t14" type="GSL-1">that</t>
+                <t id="p01-s04-t15" type="GSL-1">color</t>
+                <t id="p01-s04-t16" type="Coxhead-AWL-1,AR-AWL-1b">significantly</t>
+                <t id="p01-s04-t17" type="GSL-1">drives</t>
+                <t id="p01-s04-t18" type="GSL-1">how</t>
+                <t id="p01-s04-t19" type="GSL-1">far</t>
+                <t id="p01-s04-t20" type="GSL-1">an</t>
+                <t id="p01-s04-t21" type="Coxhead-AWL-5,AR-AWL-5a">image</t>
+                <t id="p01-s04-t22">diffuses</t>
+                <punc>,</punc>
+                <t id="p01-s04-t23" type="GSL-1">even</t>
+                <t id="p01-s04-t24" type="GSL-1">after</t>
+                <t id="p01-s04-t25" type="GSL-1">partially</t>
+                <t id="p01-s04-t26" type="GSL-1">controlling</t>
+                <t id="p01-s04-t27" type="GSL-1">for</t>
+                <t id="p01-s04-t28" type="GSL-1">user</t>
+                <t id="p01-s04-t29" type="GSL-1">activity</t>
+                <t id="p01-s04-t30" type="GSL-1">and</t>
+                <t id="p01-s04-t31" type="Coxhead-AWL-5,AR-AWL-5b">network</t>
+                <t id="p01-s04-t32" type="Coxhead-AWL-1,AR-AWL-1b">structure</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
