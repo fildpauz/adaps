@@ -14,7 +14,7 @@ and open the template in the editor.
     <file name="antihistamines" path="../pipeline/5-detail-and-finish/in/algorithm.xml"/>
     <file name="artificial-intelligence" path="../pipeline/5-detail-and-finish/in/artificial-intelligence.xml"/>
     <!--<file name="asteroid-crater" path="../pipeline/5-detail-and-finish/in/asteroid-crater.xml"/>-->
-    <!--<file name="augmented-reality" path="../pipeline/5-detail-and-finish/in/augmented-reality.xml"/>-->
+    <file name="augmented-reality" path="../pipeline/5-detail-and-finish/in/augmented-reality.xml"/>
     <file name="basic-and-applied-science" path="../pipeline/5-detail-and-finish/in/basic-and-applied-science.xml"/>
     <file name="body-shape-index" path="../pipeline/5-detail-and-finish/in/body-shape-index.xml"/>
     <file name="cause-and-effect-connectors-1" path="../pipeline/5-detail-and-finish/in/cause-and-effect-connectors-1.xml"/>
@@ -39,7 +39,7 @@ and open the template in the editor.
     <file name="facebook1" path="../pipeline/5-detail-and-finish/in/facebook1.xml"/>
     <file name="facebook2" path="../pipeline/5-detail-and-finish/in/facebook2.xml"/>
     <file name="fashion" path="../pipeline/5-detail-and-finish/in/fashion.xml"/>
-    <!--<file name="fast-radio-telescope" path="../pipeline/5-detail-and-finish/in/fast-radio-telescope.xml"/>-->
+    <file name="fast-radio-telescope" path="../pipeline/5-detail-and-finish/in/fast-radio-telescope.xml"/>
     <!--<file name="fracture-geology" path="../pipeline/5-detail-and-finish/in/fracture-geology.xml"/>-->
     <!--<file name="granite" path="../pipeline/5-detail-and-finish/in/granite.xml"/>-->
     <file name="gravity" path="../pipeline/5-detail-and-finish/in/gravity.xml"/>
@@ -69,8 +69,13 @@ and open the template in the editor.
     <file name="paragraphs-4" path="../pipeline/5-detail-and-finish/in/paragraphs-4.xml"/>
     <file name="paragraphs-5" path="../pipeline/5-detail-and-finish/in/paragraphs-5.xml"/>
     <file name="paragraphs-6" path="../pipeline/5-detail-and-finish/in/paragraphs-6.xml"/>
+    <!--<file name="paraphrasing-and-quoting-1" path="../pipeline/5-detail-and-finish/in/paraphrasing-and-quoting-1.xml"/>-->
+    <!--<file name="paraphrasing-and-quoting-2" path="../pipeline/5-detail-and-finish/in/paraphrasing-and-quoting-2.xml"/>-->
+    <!--<file name="paraphrasing-and-quoting-3" path="../pipeline/5-detail-and-finish/in/paraphrasing-and-quoting-3.xml"/>-->
+    <!--<file name="paraphrasing-and-quoting-4" path="../pipeline/5-detail-and-finish/in/paraphrasing-and-quoting-4.xml"/>-->
+    <!--<file name="paraphrasing-and-quoting-5" path="../pipeline/5-detail-and-finish/in/paraphrasing-and-quoting-5.xml"/>-->
     <file name="parts-of-speech" path="../pipeline/5-detail-and-finish/in/parts-of-speech.xml"/>
-    <!--<file name="physics-introduction" path="../pipeline/5-detail-and-finish/in/physics-introduction.xml"/>-->
+    <file name="physics-introduction" path="../pipeline/5-detail-and-finish/in/physics-introduction.xml"/>
     <file name="population-growth" path="../pipeline/5-detail-and-finish/in/population-growth.xml"/>
     <file name="pseudoscience" path="../pipeline/5-detail-and-finish/in/pseudoscience.xml"/>
     <file name="reaction-statements" path="../pipeline/5-detail-and-finish/in/reaction-statements.xml"/>
@@ -89,8 +94,10 @@ and open the template in the editor.
     <file name="scientific-literacy" path="../pipeline/5-detail-and-finish/in/scientific-literacy.xml"/>
     <file name="scope-of-biology" path="../pipeline/5-detail-and-finish/in/scope-of-biology.xml"/>
     <file name="size-mass-illusion" path="../pipeline/5-detail-and-finish/in/size-mass-illusion.xml"/>
-    <!--<file name="smartphone-data-collection" path="../pipeline/5-detail-and-finish/in/smartphone-data-collection.xml"/>-->
+    <file name="smartphone-data-collection" path="../pipeline/5-detail-and-finish/in/smartphone-data-collection.xml"/>
     <!--<file name="society-and-culture" path="../pipeline/5-detail-and-finish/in/society-and-culture.xml"/>-->
+    <!--<file name="technical-terms-1" path="../pipeline/5-detail-and-finish/in/technical-terms-1.xml"/>-->
+    <!--<file name="technical-terms-2" path="../pipeline/5-detail-and-finish/in/technical-terms-2.xml"/>-->
     <file name="texting-and-walking" path="../pipeline/5-detail-and-finish/in/texting-and-walking.xml"/>
     <file name="water-filters" path="../pipeline/5-detail-and-finish/in/water-filters.xml"/>
     <file name="what-is-psychology" path="../pipeline/5-detail-and-finish/in/what-is-psychology.xml"/>

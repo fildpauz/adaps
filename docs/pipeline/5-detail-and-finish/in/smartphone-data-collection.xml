@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Smartphone-Based Distributed Data Collection Enables Rapid Assessment of Shorebird Habitat Suitability (Extract)</title>
+    <citation>Thieler ER, Zeigler SL, Winslow LA, Hines MK, Read JS, Walker JI (2016) Smartphone-Based Distributed Data Collection Enables Rapid Assessment of Shorebird Habitat Suitability. PLoS ONE 11(11): e0164979. doi:10.1371/journal.pone.0164979</citation>
+    <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0164979</url>
+    <info type="research-article"/>
+    <body>
+        <paragraph id="p01">
+            <sentence par-function="" id="p01-s01">
+                <t id="p01-s01-t01" type="GSL-1">Introduction</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence par-function="topic" id="p02-s01">
+                <t id="p02-s01-t01" type="GSL-1">The</t>
+                <t id="p02-s01-t02">coastal</t>
+                <t id="p02-s01-t03">zone</t>
+                <t id="p02-s01-t04" type="GSL-1">is</t>
+                <t id="p02-s01-t05" type="GSL-1">a</t>
+                <t id="p02-s01-t06" type="GSL-1">highly</t>
+                <t id="p02-s01-t07" type="Coxhead-AWL-7,AR-AWL-7a">dynamic</t>
+                <t id="p02-s01-t08" type="Coxhead-AWL-1,AR-AWL-1a">environment</t>
+                <t id="p02-s01-t09" type="GSL-1">that</t>
+                <t id="p02-s01-t10" type="GSL-1">changes</t>
+                <t id="p02-s01-t11" type="GSL-1">in</t>
+                <t id="p02-s01-t12" type="Coxhead-AWL-1,AR-AWL-1b">response</t>
+                <t id="p02-s01-t13" type="GSL-1">to</t>
+                <t id="p02-s01-t14" type="GSL-1">a</t>
+                <t id="p02-s01-t15" type="GSL-1">variety</t>
+                <t id="p02-s01-t16" type="GSL-1">of</t>
+                <t id="p02-s01-t17" type="GSL-1">short</t>
+                <punc>-</punc>
+                <t id="p02-s01-t18" type="GSL-1">and</t>
+                <t id="p02-s01-t19" type="GSL-1">long</t>
+                <punc>-</punc>
+                <t id="p02-s01-t20" type="GSL-1">term</t>
+                <t id="p02-s01-t21" type="Coxhead-AWL-1,AR-AWL-1b">processes</t>
+                <punc>,</punc>
+                <t id="p02-s01-t22" type="GSL-1">such</t>
+                <t id="p02-s01-t23" type="GSL-1">as</t>
+                <t id="p02-s01-t24" type="GSL-2">storms</t>
+                <punc>,</punc>
+                <t id="p02-s01-t25" type="GSL-1">natural</t>
+                <t id="p02-s01-t26">vegetation</t>
+                <t id="p02-s01-t27" type="Coxhead-AWL-7,AR-AWL-7b">succession</t>
+                <punc>,</punc>
+                <t id="p02-s01-t28">anthropogenic</t>
+                <t id="p02-s01-t29" type="Coxhead-AWL-5,AR-AWL-5b">modifications</t>
+                <punc>,</punc>
+                <t id="p02-s01-t30">climate</t>
+                <t id="p02-s01-t31" type="GSL-1">change</t>
+                <punc>,</punc>
+                <t id="p02-s01-t32" type="GSL-1">and</t>
+                <t id="p02-s01-t33" type="GSL-1">sea</t>
+                <punc>-</punc>
+                <t id="p02-s01-t34" type="GSL-1">level</t>
+                <t id="p02-s01-t35" type="GSL-1">rise</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p02-s02">
+                <connector id="p02-s02-c01" type="violated expectation" info="p02-s01-t01:p02-s01-t35,p02-s02-t02:p02-s02-t31">
+                    <t id="p02-s02-t01" type="GSL-1">However</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p02-s02-t02" type="GSL-1">the</t>
+                <t id="p02-s02-t03" type="Coxhead-AWL-2,AR-AWL-2b">range</t>
+                <t id="p02-s02-t04" type="GSL-1">of</t>
+                <t id="p02-s02-t05" type="Coxhead-AWL-3,AR-AWL-3b">physical</t>
+                <t id="p02-s02-t06" type="GSL-1">and</t>
+                <t id="p02-s02-t07">biological</t>
+                <t id="p02-s02-t08" type="Coxhead-AWL-1,AR-AWL-1b">responses</t>
+                <t id="p02-s02-t09" type="GSL-1">of</t>
+                <t id="p02-s02-t10">beach</t>
+                <t id="p02-s02-t11" type="Coxhead-AWL-1,AR-AWL-1a">environments</t>
+                <t id="p02-s02-t12" type="GSL-1">to</t>
+                <t id="p02-s02-t13">climate</t>
+                <t id="p02-s02-t14" type="GSL-1">change</t>
+                <t id="p02-s02-t15" type="GSL-1">and</t>
+                <t id="p02-s02-t16" type="GSL-1">sea</t>
+                <t id="p02-s02-t17" type="GSL-1">level</t>
+                <t id="p02-s02-t18" type="GSL-1">rise</t>
+                <t id="p02-s02-t19" type="GSL-1">is</t>
+                <t id="p02-s02-t20" type="GSL-1">poorly</t>
+                <t id="p02-s02-t21" type="GSL-1">understood</t>
+                <t id="p02-s02-t22" type="GSL-1">at</t>
+                <t id="p02-s02-t23" type="GSL-1">the</t>
+                <t id="p02-s02-t24">temporal</t>
+                <t id="p02-s02-t25" type="GSL-1">and</t>
+                <t id="p02-s02-t26">spatial</t>
+                <t id="p02-s02-t27" type="GSL-2">scales</t>
+                <t id="p02-s02-t28" type="Coxhead-AWL-1,AR-AWL-1b">required</t>
+                <t id="p02-s02-t29" type="GSL-1">for</t>
+                <t id="p02-s02-t30" type="GSL-1">decision</t>
+                <t id="p02-s02-t31" type="GSL-1">making</t>
+                <punc>[</punc>
+                <t id="p02-s02-t32">1</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p02-s03">
+                <connector id="p02-s03-c01" type="similarity" info="p02-s02-t01:p02-s02-t31,p02-s03-t02:p02-s03-t30">
+                    <t id="p02-s03-t01" type="Coxhead-AWL-1,AR-AWL-1b">Similarly</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p02-s03-t02" type="GSL-1">the</t>
+                <t id="p02-s03-t03">cumulative</t>
+                <t id="p02-s03-t04" type="Coxhead-AWL-2,AR-AWL-2a">impacts</t>
+                <t id="p02-s03-t05" type="GSL-1">of</t>
+                <t id="p02-s03-t06" type="Coxhead-AWL-3,AR-AWL-3b">physical</t>
+                <t id="p02-s03-t07" type="GSL-1">and</t>
+                <t id="p02-s03-t08">biological</t>
+                <t id="p02-s03-t09" type="GSL-1">change</t>
+                <t id="p02-s03-t10" type="GSL-1">on</t>
+                <t id="p02-s03-t11" type="GSL-1">the</t>
+                <t id="p02-s03-t12" type="GSL-1">quantity</t>
+                <t id="p02-s03-t13" type="GSL-1">and</t>
+                <t id="p02-s03-t14" type="GSL-1">quality</t>
+                <t id="p02-s03-t15" type="GSL-1">of</t>
+                <t id="p02-s03-t16">coastal</t>
+                <t id="p02-s03-t17">habitats</t>
+                <t id="p02-s03-t18" type="GSL-1">are</t>
+                <t id="p02-s03-t19" type="GSL-1">not</t>
+                <t id="p02-s03-t20" type="GSL-1">well</t>
+                <t id="p02-s03-t21" type="GSL-1">understood</t>
+                <punc>,</punc>
+                <t id="p02-s03-t22" type="GSL-1">which</t>
+                <t id="p02-s03-t23" type="Coxhead-AWL-10,AR-AWL-10">poses</t>
+                <t id="p02-s03-t24" type="GSL-1">a</t>
+                <t id="p02-s03-t25" type="Coxhead-AWL-5,AR-AWL-5a">challenge</t>
+                <t id="p02-s03-t26" type="GSL-1">for</t>
+                <t id="p02-s03-t27" type="GSL-1">natural</t>
+                <t id="p02-s03-t28" type="Coxhead-AWL-2,AR-AWL-2b">resource</t>
+                <t id="p02-s03-t29" type="GSL-2">management</t>
+                <punc>[</punc>
+                <t id="p02-s03-t30">2</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p03">
+            <sentence par-function="topic" id="p03-s01">
+                <t id="p03-s01-t01" type="GSL-1">Observations</t>
+                <t id="p03-s01-t02" type="GSL-1">of</t>
+                <t id="p03-s01-t03">species</t>
+                <punc>,</punc>
+                <anaphor id="p03-s01-a01" info="p03-s01-t03:p03-s01-t03">
+                    <t id="p03-s01-t04" type="GSL-1">their</t>
+                </anaphor>
+                <t id="p03-s01-t05" type="GSL-1">local</t>
+                <t id="p03-s01-t06" type="Coxhead-AWL-1,AR-AWL-1a">context</t>
+                <punc>,</punc>
+                <t id="p03-s01-t07" type="GSL-1">and</t>
+                <t id="p03-s01-t08" type="GSL-1">population</t>
+                <t id="p03-s01-t09" type="Coxhead-AWL-7,AR-AWL-7a">dynamics</t>
+                <t id="p03-s01-t10" type="GSL-1">are</t>
+                <t id="p03-s01-t11" type="GSL-1">necessary</t>
+                <t id="p03-s01-t12" type="GSL-1">to</t>
+                <t id="p03-s01-t13" type="GSL-1">understand</t>
+                <t id="p03-s01-t14" type="GSL-1">and</t>
+                <t id="p03-s01-t15" type="Coxhead-AWL-4,AR-AWL-4b">predict</t>
+                <t id="p03-s01-t16" type="GSL-1">changes</t>
+                <t id="p03-s01-t17" type="GSL-1">in</t>
+                <t id="p03-s01-t18">habitat</t>
+                <t id="p03-s01-t19" type="Coxhead-AWL-1,AR-AWL-1a">availability</t>
+                <t id="p03-s01-t20" type="GSL-1">and</t>
+                <t id="p03-s01-t21" type="Coxhead-AWL-6,AR-AWL-6b">utilization</t>
+                <punc>[</punc>
+                <t id="p03-s01-t22">3</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p03-s02">
+                <t id="p03-s02-t01" type="GSL-1">Many</t>
+                <t id="p03-s02-t02">shorebird</t>
+                <t id="p03-s02-t03">species</t>
+                <punc>,</punc>
+                <t id="p03-s02-t04" type="GSL-1">including</t>
+                <t id="p03-s02-t05" type="GSL-1">the</t>
+                <t id="p03-s02-t06">piping</t>
+                <t id="p03-s02-t07">plover</t>
+                <punc>(</punc>
+                <term id="p03-s02-e01" info="p03-s02-t06:p03-s02-t07">
+                    <t id="p03-s02-t08">Charadrius</t>
+                    <t id="p03-s02-t09">melodus</t>
+                </term>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p03-s02-t10" type="Coxhead-AWL-6,AR-AWL-6b">utilize</t>
+                <t id="p03-s02-t11">habitats</t>
+                <t id="p03-s02-t12" type="Coxhead-AWL-9,AR-AWL-9a">found</t>
+                <t id="p03-s02-t13" type="GSL-1">on</t>
+                <t id="p03-s02-t14">coastal</t>
+                <t id="p03-s02-t15">beaches</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p03-s03">
+                <anaphor id="p03-s03-a01" info="p03-s02-t05:p03-s02-t07">
+                    <t id="p03-s03-t01" type="GSL-1">The</t>
+                    <t id="p03-s03-t02">piping</t>
+                    <t id="p03-s03-t03">plover</t>
+                </anaphor>
+                <t id="p03-s03-t04" type="GSL-1">was</t>
+                <t id="p03-s03-t05" type="GSL-2">listed</t>
+                <t id="p03-s03-t06" type="GSL-1">as</t>
+                <t id="p03-s03-t07" type="GSL-2">threatened</t>
+                <t id="p03-s03-t08" type="GSL-1">along</t>
+                <t id="p03-s03-t09" type="GSL-1">the</t>
+                <t id="p03-s03-t10">U.S.</t>
+                <t id="p03-s03-t11">Atlantic</t>
+                <t id="p03-s03-t12" type="GSL-1">coast</t>
+                <t id="p03-s03-t13" type="GSL-1">in</t>
+                <t id="p03-s03-t14">1986</t>
+                <punc>[</punc>
+                <t id="p03-s03-t15">4</t>
+                <punc>]</punc>
+                <punc>;</punc>
+                <t id="p03-s03-t16" type="GSL-1">recent</t>
+                <t id="p03-s03-t17" type="Coxhead-AWL-1,AR-AWL-1a">estimates</t>
+                <t id="p03-s03-t18" type="GSL-1">place</t>
+                <anaphor id="p03-s03-a02" info="p03-s03-t01:p03-s03-t03">
+                    <t id="p03-s03-t19" type="GSL-1">the</t>
+                    <t id="p03-s03-t20" type="GSL-1">population</t>
+                </anaphor>
+                <t id="p03-s03-t21" type="GSL-1">at</t>
+                <t id="p03-s03-t22" type="GSL-1">fewer</t>
+                <t id="p03-s03-t23" type="GSL-1">than</t>
+                <t id="p03-s03-t24">2000</t>
+                <t id="p03-s03-t25" type="GSL-2">pairs</t>
+                <punc>[</punc>
+                <t id="p03-s03-t26">5</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p03-s04">
+                <t id="p03-s04-t01" type="GSL-1">As</t>
+                <t id="p03-s04-t02" type="GSL-1">a</t>
+                <t id="p03-s04-t03">federally</t>
+                <t id="p03-s04-t04" type="GSL-2">listed</t>
+                <t id="p03-s04-t05">species</t>
+                <punc>,</punc>
+                <t id="p03-s04-t06" type="GSL-1">the</t>
+                <t id="p03-s04-t07">conservation</t>
+                <t id="p03-s04-t08" type="GSL-1">and</t>
+                <t id="p03-s04-t09" type="Coxhead-AWL-6,AR-AWL-6b">recovery</t>
+                <t id="p03-s04-t10" type="GSL-1">of</t>
+                <anaphor id="p03-s04-a01" info="p03-s03-t01:p03-s03-t03">
+                    <t id="p03-s04-t11" type="GSL-1">this</t>
+                    <t id="p03-s04-t12">species</t>
+                </anaphor>
+                <t id="p03-s04-t13" type="GSL-1">is</t>
+                <t id="p03-s04-t14">administered</t>
+                <t id="p03-s04-t15" type="GSL-1">under</t>
+                <t id="p03-s04-t16" type="GSL-1">provisions</t>
+                <t id="p03-s04-t17" type="GSL-1">of</t>
+                <t id="p03-s04-t18" type="GSL-1">the</t>
+                <t id="p03-s04-t19">Endangered</t>
+                <t id="p03-s04-t20">Species</t>
+                <t id="p03-s04-t21" type="GSL-1">Act</t>
+                <t id="p03-s04-t22" type="GSL-1">of</t>
+                <t id="p03-s04-t23">1973</t>
+                <t id="p03-s04-t24" type="GSL-1">and</t>
+                <t id="p03-s04-t25" type="GSL-1">includes</t>
+                <t id="p03-s04-t26" type="GSL-1">both</t>
+                <t id="p03-s04-t27" type="GSL-1">population</t>
+                <punc>-</punc>
+                <t id="p03-s04-t28" type="GSL-1">and</t>
+                <t id="p03-s04-t29">habitat</t>
+                <punc>-</punc>
+                <t id="p03-s04-t30" type="GSL-1">level</t>
+                <t id="p03-s04-t31" type="GSL-2">management</t>
+                <t id="p03-s04-t32" type="GSL-2">recommendations</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p03-s05">
+                <t id="p03-s05-t01" type="GSL-1">Because</t>
+                <t id="p03-s05-t02" type="GSL-1">of</t>
+                <t id="p03-s05-t03" type="GSL-1">the</t>
+                <t id="p03-s05-t04" type="Coxhead-AWL-7,AR-AWL-7a">dynamic</t>
+                <t id="p03-s05-t05" type="GSL-1">nature</t>
+                <t id="p03-s05-t06" type="GSL-1">of</t>
+                <t id="p03-s05-t07">piping</t>
+                <t id="p03-s05-t08">plover</t>
+                <t id="p03-s05-t09">habitat</t>
+                <punc>,</punc>
+                <t id="p03-s05-t10" type="GSL-1">the</t>
+                <t id="p03-s05-t11">efficacy</t>
+                <t id="p03-s05-t12" type="GSL-1">of</t>
+                <t id="p03-s05-t13" type="GSL-1">future</t>
+                <t id="p03-s05-t14">conservation</t>
+                <t id="p03-s05-t15" type="Coxhead-AWL-2,AR-AWL-2b">resource</t>
+                <t id="p03-s05-t16" type="Coxhead-AWL-6,AR-AWL-6a">allocation</t>
+                <t id="p03-s05-t17" type="GSL-1">and</t>
+                <t id="p03-s05-t18" type="GSL-2">management</t>
+                <t id="p03-s05-t19" type="GSL-1">can</t>
+                <t id="p03-s05-t20" type="GSL-1">be</t>
+                <t id="p03-s05-t21" type="GSL-2">improved</t>
+                <t id="p03-s05-t22" type="GSL-1">by</t>
+                <t id="p03-s05-t23" type="GSL-1">understanding</t>
+                <t id="p03-s05-t24" type="GSL-1">which</t>
+                <t id="p03-s05-t25" type="GSL-1">actions</t>
+                <t id="p03-s05-t26" type="GSL-1">are</t>
+                <t id="p03-s05-t27" type="GSL-1">most</t>
+                <t id="p03-s05-t28" type="GSL-1">likely</t>
+                <t id="p03-s05-t29" type="GSL-1">to</t>
+                <t id="p03-s05-t30" type="GSL-1">increase</t>
+                <t id="p03-s05-t31" type="GSL-1">the</t>
+                <t id="p03-s05-t32" type="Coxhead-AWL-10,AR-AWL-10">persistence</t>
+                <t id="p03-s05-t33" type="GSL-1">and</t>
+                <t id="p03-s05-t34">resilience</t>
+                <t id="p03-s05-t35" type="GSL-1">of</t>
+                <t id="p03-s05-t36" type="GSL-1">sensitive</t>
+                <t id="p03-s05-t37">coastal</t>
+                <t id="p03-s05-t38">habitats</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p03-s06">
+                <connector id="p03-s06-c01" type="cause" info="p03-s05-t01:p03-s05-t38,p03-s06-t02:p03-s06-t30">
+                    <t id="p03-s06-t01" type="GSL-1">Thus</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p03-s06-t02" type="Coxhead-AWL-10,AR-AWL-10">ongoing</t>
+                <t id="p03-s06-t03">species</t>
+                <t id="p03-s06-t04" type="Coxhead-AWL-6,AR-AWL-6b">recovery</t>
+                <t id="p03-s06-t05" type="GSL-1">efforts</t>
+                <t id="p03-s06-t06" type="GSL-1">can</t>
+                <t id="p03-s06-t07" type="Coxhead-AWL-1,AR-AWL-1a">benefit</t>
+                <t id="p03-s06-t08" type="GSL-1">from</t>
+                <t id="p03-s06-t09" type="GSL-2">information</t>
+                <t id="p03-s06-t10" type="GSL-1">about</t>
+                <t id="p03-s06-t11" type="GSL-1">the</t>
+                <t id="p03-s06-t12" type="GSL-1">future</t>
+                <t id="p03-s06-t13" type="Coxhead-AWL-1,AR-AWL-1a">distribution</t>
+                <t id="p03-s06-t14" type="GSL-1">and</t>
+                <t id="p03-s06-t15" type="Coxhead-AWL-4,AR-AWL-4a">attributes</t>
+                <t id="p03-s06-t16" type="GSL-1">of</t>
+                <t id="p03-s06-t17">plover</t>
+                <t id="p03-s06-t18">breeding</t>
+                <t id="p03-s06-t19">habitat</t>
+                <punc>,</punc>
+                <t id="p03-s06-t20" type="GSL-1">particularly</t>
+                <t id="p03-s06-t21" type="GSL-1">under</t>
+                <t id="p03-s06-t22" type="Coxhead-AWL-2,AR-AWL-2b">potential</t>
+                <t id="p03-s06-t23" type="GSL-2">threats</t>
+                <t id="p03-s06-t24" type="GSL-1">like</t>
+                <t id="p03-s06-t25" type="GSL-1">sea</t>
+                <punc>-</punc>
+                <t id="p03-s06-t26" type="GSL-1">level</t>
+                <t id="p03-s06-t27" type="GSL-1">rise</t>
+                <t id="p03-s06-t28" type="GSL-1">and</t>
+                <t id="p03-s06-t29">coastal</t>
+                <t id="p03-s06-t30" type="GSL-2">engineering</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p04">
+            <sentence par-function="topic" id="p04-s01">
+                <t id="p04-s01-t01">Atlantic</t>
+                <t id="p04-s01-t02" type="GSL-1">coast</t>
+                <t id="p04-s01-t03">piping</t>
+                <t id="p04-s01-t04">plover</t>
+                <t id="p04-s01-t05" type="GSL-2">nest</t>
+                <t id="p04-s01-t06" type="Coxhead-AWL-2,AR-AWL-2b">sites</t>
+                <t id="p04-s01-t07" type="GSL-1">are</t>
+                <t id="p04-s01-t08" type="GSL-2">typically</t>
+                <t id="p04-s01-t09" type="Coxhead-AWL-9,AR-AWL-9a">found</t>
+                <t id="p04-s01-t10" type="GSL-1">on</t>
+                <t id="p04-s01-t11" type="GSL-1">low</t>
+                <punc>-</punc>
+                <t id="p04-s01-t12" type="GSL-1">lying</t>
+                <t id="p04-s01-t13">beach</t>
+                <t id="p04-s01-t14" type="GSL-1">and</t>
+                <t id="p04-s01-t15">dune</t>
+                <t id="p04-s01-t16" type="GSL-1">systems</t>
+                <punc>(</punc>
+                <t id="p04-s01-t17">Fig</t>
+                <t id="p04-s01-t18">1</t>
+                <punc>;</punc>
+                <punc>[</punc>
+                <t id="p04-s01-t19">6</t>
+                <punc>,</punc>
+                <t id="p04-s01-t20">7</t>
+                <punc>]</punc>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p04-s02">
+                <anaphor id="p04-s02-a01" info="p04-s01-t01:p04-s01-t04">
+                    <t id="p04-s02-t01" type="GSL-1">These</t>
+                    <t id="p04-s02-t02" type="GSL-1">birds</t>
+                </anaphor>
+                <t id="p04-s02-t03" type="GSL-1">and</t>
+                <anaphor id="p04-s02-a02" info="p04-s01-t01:p04-s01-t04">
+                    <t id="p04-s02-t04" type="GSL-1">their</t>
+                </anaphor>
+                <t id="p04-s02-t05">habitats</t>
+                <t id="p04-s02-t06" type="Coxhead-AWL-1,AR-AWL-1b">respond</t>
+                <t id="p04-s02-t07" type="GSL-2">rapidly</t>
+                <t id="p04-s02-t08" type="GSL-1">to</t>
+                <t id="p04-s02-t09">coastal</t>
+                <t id="p04-s02-t10" type="Coxhead-AWL-1,AR-AWL-1b">processes</t>
+                <t id="p04-s02-t11" type="GSL-1">like</t>
+                <t id="p04-s02-t12">sediment</t>
+                <t id="p04-s02-t13">overwash</t>
+                <punc>,</punc>
+                <t id="p04-s02-t14">inlet</t>
+                <t id="p04-s02-t15" type="GSL-1">formation</t>
+                <punc>,</punc>
+                <t id="p04-s02-t16" type="GSL-1">and</t>
+                <t id="p04-s02-t17" type="GSL-2">island</t>
+                <t id="p04-s02-t18" type="Coxhead-AWL-6,AR-AWL-6b">migration</t>
+                <punc>[</punc>
+                <t id="p04-s02-t19">8</t>
+                <punc>]</punc>
+                <t id="p04-s02-t20" type="GSL-1">that</t>
+                <t id="p04-s02-t21" type="GSL-1">are</t>
+                <t id="p04-s02-t22" type="GSL-1">sensitive</t>
+                <t id="p04-s02-t23" type="GSL-1">to</t>
+                <t id="p04-s02-t24">climate</t>
+                <punc>-</punc>
+                <t id="p04-s02-t25" type="GSL-1">related</t>
+                <t id="p04-s02-t26" type="GSL-1">changes</t>
+                <t id="p04-s02-t27" type="GSL-1">in</t>
+                <t id="p04-s02-t28">storminess</t>
+                <t id="p04-s02-t29" type="GSL-1">and</t>
+                <t id="p04-s02-t30" type="GSL-1">the</t>
+                <t id="p04-s02-t31" type="GSL-1">rate</t>
+                <t id="p04-s02-t32" type="GSL-1">of</t>
+                <t id="p04-s02-t33" type="GSL-1">sea</t>
+                <punc>-</punc>
+                <t id="p04-s02-t34" type="GSL-1">level</t>
+                <t id="p04-s02-t35" type="GSL-1">rise</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p04-s03">
+                <anaphor id="p04-s03-a01" info="p04-s01-t01:p04-s01-t04">
+                    <t id="p04-s03-t01" type="GSL-1">The</t>
+                    <t id="p04-s03-t02">piping</t>
+                    <t id="p04-s03-t03">plover</t>
+                </anaphor>
+                <t id="p04-s03-t04" type="GSL-1">may</t>
+                <t id="p04-s03-t05" type="GSL-1">also</t>
+                <t id="p04-s03-t06" type="GSL-1">serve</t>
+                <t id="p04-s03-t07" type="GSL-1">as</t>
+                <t id="p04-s03-t08" type="GSL-1">a</t>
+                <t id="p04-s03-t09">surrogate</t>
+                <t id="p04-s03-t10">species</t>
+                <t id="p04-s03-t11" type="GSL-1">for</t>
+                <t id="p04-s03-t12" type="GSL-1">other</t>
+                <t id="p04-s03-t13">beach</t>
+                <punc>-</punc>
+                <t id="p04-s03-t14" type="GSL-2">nesting</t>
+                <t id="p04-s03-t15">shorebirds</t>
+                <punc>(</punc>
+                <t id="p04-s03-t16">e.g.</t>
+                <punc>,</punc>
+                <t id="p04-s03-t17">American</t>
+                <t id="p04-s03-t18">oystercatcher</t>
+                <punc>,</punc>
+                <term id="p04-s03-e01" info="p04-s03-t17:p04-s03-t18">
+                    <t id="p04-s03-t19">Haematopus</t>
+                    <t id="p04-s03-t20">palliates</t>
+                </term>
+                <punc>;</punc>
+                <t id="p04-s03-t21" type="GSL-1">least</t>
+                <t id="p04-s03-t22">tern</t>
+                <punc>,</punc>
+                <term id="p04-s03-e02" info="p04-s03-t21:p04-s03-t22">
+                    <t id="p04-s03-t23">Sternula</t>
+                    <t id="p04-s03-t24">antillarum</t>
+                </term>
+                <punc>;</punc>
+                <t id="p04-s03-t25" type="GSL-1">black</t>
+                <t id="p04-s03-t26">skimmer</t>
+                <punc>,</punc>
+                <term id="p04-s03-e03" info="p04-s03-t25:p04-s03-t26">
+                    <t id="p04-s03-t27">Rynchops</t>
+                    <t id="p04-s03-t28">niger</t>
+                </term>
+                <punc>)</punc>
+                <t id="p04-s03-t29" type="GSL-1">as</t>
+                <t id="p04-s03-t30" type="GSL-1">well</t>
+                <t id="p04-s03-t31" type="GSL-1">as</t>
+                <t id="p04-s03-t32" type="GSL-1">several</t>
+                <t id="p04-s03-t33">federally</t>
+                <t id="p04-s03-t34" type="GSL-2">listed</t>
+                <t id="p04-s03-t35" type="GSL-1">birds</t>
+                <punc>(</punc>
+                <t id="p04-s03-t36">e.g.</t>
+                <punc>,</punc>
+                <t id="p04-s03-t37">rufa</t>
+                <t id="p04-s03-t38" type="GSL-1">red</t>
+                <t id="p04-s03-t39" type="GSL-2">knot</t>
+                <punc>,</punc>
+                <term id="p04-s03-e04" info="p04-s03-t37:p04-s03-t39">
+                    <t id="p04-s03-t40">Calidris</t>
+                    <t id="p04-s03-t41">canutus</t>
+                    <t id="p04-s03-t42">rufa</t>
+                </term>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p04-s03-t43" type="GSL-1">plants</t>
+                <punc>(</punc>
+                <t id="p04-s03-t44">e.g.</t>
+                <punc>,</punc>
+                <t id="p04-s03-t45">seabeach</t>
+                <t id="p04-s03-t46">amaranth</t>
+                <punc>,</punc>
+                <term id="p04-s03-e05" info="p04-s03-t45:p04-s03-t46">
+                    <t id="p04-s03-t47">Amaranthus</t>
+                    <t id="p04-s03-t48">pumilus</t>
+                </term>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p04-s03-t49" type="GSL-1">and</t>
+                <t id="p04-s03-t50" type="GSL-2">insects</t>
+                <punc>(</punc>
+                <t id="p04-s03-t51">e.g.</t>
+                <punc>,</punc>
+                <t id="p04-s03-t52">northeastern</t>
+                <t id="p04-s03-t53">beach</t>
+                <t id="p04-s03-t54">tiger</t>
+                <t id="p04-s03-t55">beetle</t>
+                <punc>,</punc>
+                <term id="p04-s03-e06" info="p04-s03-t52:p04-s03-t55">
+                    <t id="p04-s03-t56">Cicindela</t>
+                    <t id="p04-s03-t57">dorsalis</t>
+                    <t id="p04-s03-t58">dorsalis</t>
+                </term>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p04-s04">
+                <connector id="p04-s04-c01" type="cause" info="p04-s03-t01:p04-s03-t58,p04-s04-t02:p04-s04-t25">
+                    <t id="p04-s04-t01" type="GSL-1">Therefore</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p04-s04-t02" type="GSL-1">the</t>
+                <t id="p04-s04-t03" type="GSL-1">ability</t>
+                <t id="p04-s04-t04" type="GSL-1">to</t>
+                <t id="p04-s04-t05" type="Coxhead-AWL-4,AR-AWL-4b">predict</t>
+                <t id="p04-s04-t06">piping</t>
+                <t id="p04-s04-t07">plover</t>
+                <t id="p04-s04-t08">habitat</t>
+                <t id="p04-s04-t09" type="Coxhead-AWL-1,AR-AWL-1a">availability</t>
+                <t id="p04-s04-t10" type="GSL-1">in</t>
+                <t id="p04-s04-t11" type="GSL-1">the</t>
+                <t id="p04-s04-t12" type="GSL-1">face</t>
+                <t id="p04-s04-t13" type="GSL-1">of</t>
+                <t id="p04-s04-t14">climate</t>
+                <t id="p04-s04-t15" type="GSL-1">change</t>
+                <t id="p04-s04-t16" type="GSL-1">can</t>
+                <t id="p04-s04-t17" type="GSL-1">have</t>
+                <t id="p04-s04-t18" type="GSL-1">broad</t>
+                <t id="p04-s04-t19" type="GSL-1">applicability</t>
+                <t id="p04-s04-t20" type="GSL-1">to</t>
+                <t id="p04-s04-t21" type="GSL-1">a</t>
+                <t id="p04-s04-t22" type="GSL-1">variety</t>
+                <t id="p04-s04-t23" type="GSL-1">of</t>
+                <t id="p04-s04-t24">coastal</t>
+                <t id="p04-s04-t25">species</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p05">
+            <sentence par-function="topic" id="p05-s01">
+                <t id="p05-s01-t01" type="GSL-1">As</t>
+                <t id="p05-s01-t02" type="GSL-1">part</t>
+                <t id="p05-s01-t03" type="GSL-1">of</t>
+                <t id="p05-s01-t04" type="GSL-1">the</t>
+                <t id="p05-s01-t05">species'</t>
+                <t id="p05-s01-t06" type="Coxhead-AWL-6,AR-AWL-6b">recovery</t>
+                <t id="p05-s01-t07" type="GSL-1">plan</t>
+                <punc>[</punc>
+                <t id="p05-s01-t08">9</t>
+                <punc>]</punc>
+                <punc>,</punc>
+                <t id="p05-s01-t09">piping</t>
+                <t id="p05-s01-t10">plovers</t>
+                <t id="p05-s01-t11" type="GSL-1">are</t>
+                <t id="p05-s01-t12" type="GSL-1">observed</t>
+                <t id="p05-s01-t13" type="GSL-1">by</t>
+                <t id="p05-s01-t14" type="GSL-1">a</t>
+                <t id="p05-s01-t15" type="GSL-1">large</t>
+                <t id="p05-s01-t16" type="GSL-1">number</t>
+                <t id="p05-s01-t17" type="GSL-1">of</t>
+                <t id="p05-s01-t18" type="GSL-1">trained</t>
+                <t id="p05-s01-t19" type="Coxhead-AWL-5,AR-AWL-5b">monitors</t>
+                <t id="p05-s01-t20" type="GSL-1">throughout</t>
+                <anaphor id="p05-s01-a01" info="p05-s01-t09:p05-s01-t10">
+                    <t id="p05-s01-t21" type="GSL-1">their</t>
+                </anaphor>
+                <t id="p05-s01-t22">geographic</t>
+                <t id="p05-s01-t23" type="Coxhead-AWL-1,AR-AWL-1a">distribution</t>
+                <punc>[</punc>
+                <t id="p05-s01-t24">10</t>
+                <punc>]</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p05-s02">
+                <t id="p05-s02-t01" type="Coxhead-AWL-5,AR-AWL-5b">Monitors</t>
+                <t id="p05-s02-t02" type="GSL-1">represent</t>
+                <t id="p05-s02-t03" type="Coxhead-AWL-6,AR-AWL-6a">federal</t>
+                <t id="p05-s02-t04" type="GSL-1">and</t>
+                <t id="p05-s02-t05" type="GSL-1">state</t>
+                <t id="p05-s02-t06" type="GSL-1">agencies</t>
+                <punc>,</punc>
+                <t id="p05-s02-t07">nongovernmental</t>
+                <t id="p05-s02-t08" type="GSL-1">organizations</t>
+                <punc>,</punc>
+                <t id="p05-s02-t09" type="GSL-1">and</t>
+                <t id="p05-s02-t10" type="GSL-1">land</t>
+                <punc>-</punc>
+                <t id="p05-s02-t11" type="GSL-1">owning</t>
+                <t id="p05-s02-t12" type="GSL-1">trusts</t>
+                <t id="p05-s02-t13" type="GSL-1">and</t>
+                <t id="p05-s02-t14" type="GSL-1">possess</t>
+                <t id="p05-s02-t15" type="Coxhead-AWL-1,AR-AWL-1b">varying</t>
+                <t id="p05-s02-t16" type="GSL-1">levels</t>
+                <t id="p05-s02-t17" type="GSL-1">of</t>
+                <t id="p05-s02-t18" type="Coxhead-AWL-6,AR-AWL-6a">expertise</t>
+                <t id="p05-s02-t19" type="GSL-1">in</t>
+                <t id="p05-s02-t20" type="Coxhead-AWL-1,AR-AWL-1a">environmental</t>
+                <t id="p05-s02-t21" type="Coxhead-AWL-1,AR-AWL-1a">assessment</t>
+                <t id="p05-s02-t22" type="GSL-1">and</t>
+                <t id="p05-s02-t23" type="GSL-1">use</t>
+                <t id="p05-s02-t24" type="GSL-1">of</t>
+                <t id="p05-s02-t25" type="GSL-1">specialized</t>
+                <t id="p05-s02-t26" type="Coxhead-AWL-7,AR-AWL-7a">equipment</t>
+                <punc>(</punc>
+                <t id="p05-s02-t27">e.g.</t>
+                <punc>,</punc>
+                <t id="p05-s02-t28" type="Coxhead-AWL-7,AR-AWL-7a">global</t>
+                <t id="p05-s02-t29">navigation</t>
+                <t id="p05-s02-t30">satellite</t>
+                <t id="p05-s02-t31" type="GSL-1">system</t>
+                <t id="p05-s02-t32" type="GSL-1">receiver</t>
+                <punc>,</punc>
+                <abbr id="p05-s02-b01" info="p05-s02-t28:p05-s02-t31">
+                    <t id="p05-s02-t33">GNSS</t>
+                </abbr>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p06">
+            <sentence par-function="topic" id="p06-s01">
+                <t id="p06-s01-t01" type="Coxhead-AWL-2,AR-AWL-2a">Acquiring</t>
+                <t id="p06-s01-t02" type="Coxhead-AWL-1,AR-AWL-1a">data</t>
+                <t id="p06-s01-t03" type="GSL-1">needed</t>
+                <t id="p06-s01-t04" type="GSL-1">to</t>
+                <t id="p06-s01-t05">quantify</t>
+                <t id="p06-s01-t06" type="GSL-1">and</t>
+                <t id="p06-s01-t07" type="GSL-1">understand</t>
+                <t id="p06-s01-t08">piping</t>
+                <t id="p06-s01-t09">plover</t>
+                <t id="p06-s01-t10">biogeomorphic</t>
+                <t id="p06-s01-t11" type="GSL-2">preferences</t>
+                <t id="p06-s01-t12" type="GSL-1">for</t>
+                <t id="p06-s01-t13" type="GSL-2">nesting</t>
+                <t id="p06-s01-t14">habitat</t>
+                <t id="p06-s01-t15" type="Coxhead-AWL-1,AR-AWL-1b">required</t>
+                <t id="p06-s01-t16" type="GSL-1">a</t>
+                <t id="p06-s01-t17" type="GSL-2">tool</t>
+                <t id="p06-s01-t18" type="Coxhead-AWL-2,AR-AWL-2a">designed</t>
+                <t id="p06-s01-t19" type="GSL-1">to</t>
+                <t id="p06-s01-t20" type="GSL-2">handle</t>
+                <t id="p06-s01-t21" type="Coxhead-AWL-6,AR-AWL-6a">diverse</t>
+                <t id="p06-s01-t22" type="GSL-1">users</t>
+                <t id="p06-s01-t23" type="GSL-1">and</t>
+                <t id="p06-s01-t24" type="Coxhead-AWL-5,AR-AWL-5a">challenging</t>
+                <t id="p06-s01-t25" type="GSL-1">conditions</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p06-s02">
+                <t id="p06-s02-t01" type="Coxhead-AWL-1,AR-AWL-1a">Data</t>
+                <t id="p06-s02-t02" type="GSL-1">needed</t>
+                <t id="p06-s02-t03" type="GSL-1">to</t>
+                <t id="p06-s02-t04" type="GSL-1">be</t>
+                <t id="p06-s02-t05">standardized</t>
+                <t id="p06-s02-t06" type="GSL-1">and</t>
+                <t id="p06-s02-t07" type="GSL-2">collected</t>
+                <t id="p06-s02-t08">synoptically</t>
+                <t id="p06-s02-t09" type="GSL-1">in</t>
+                <t id="p06-s02-t10" type="GSL-1">a</t>
+                <t id="p06-s02-t11">harsh</t>
+                <t id="p06-s02-t12" type="Coxhead-AWL-1,AR-AWL-1a">environment</t>
+                <t id="p06-s02-t13" type="GSL-1">that</t>
+                <t id="p06-s02-t14" type="GSL-1">includes</t>
+                <t id="p06-s02-t15" type="GSL-1">bright</t>
+                <t id="p06-s02-t16" type="GSL-1">sun</t>
+                <punc>,</punc>
+                <t id="p06-s02-t17">windblown</t>
+                <t id="p06-s02-t18" type="GSL-2">sand</t>
+                <punc>,</punc>
+                <t id="p06-s02-t19" type="GSL-1">and</t>
+                <t id="p06-s02-t20" type="GSL-1">salt</t>
+                <t id="p06-s02-t21">spray</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p06-s03">
+                <anaphor id="p06-s03-a01" info="p06-s02-t01:p06-s02-t21">
+                    <t id="p06-s03-t01" type="GSL-1">Such</t>
+                    <t id="p06-s03-t02" type="Coxhead-AWL-1,AR-AWL-1a">data</t>
+                    <t id="p06-s03-t03" type="GSL-2">collection</t>
+                </anaphor>
+                <t id="p06-s03-t04" type="GSL-1">often</t>
+                <t id="p06-s03-t05" type="Coxhead-AWL-1,AR-AWL-1b">requires</t>
+                <t id="p06-s03-t06" type="GSL-2">multiple</t>
+                <t id="p06-s03-t07">prohibitively</t>
+                <t id="p06-s03-t08" type="GSL-1">expensive</t>
+                <t id="p06-s03-t09" type="Coxhead-AWL-9,AR-AWL-9a">devices</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p06-s04">
+                <connector id="p06-s04-c01" type="cause" info="p06-s03-t01:p06-s03-t09,p06-s04-t02:p06-s04-t29">
+                    <t id="p06-s04-t01" type="GSL-1">Thus</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p06-s04-t02" type="GSL-1">a</t>
+                <t id="p06-s04-t03" type="GSL-2">satisfactory</t>
+                <t id="p06-s04-t04" type="GSL-2">solution</t>
+                <t id="p06-s04-t05" type="GSL-1">for</t>
+                <t id="p06-s04-t06" type="Coxhead-AWL-1,AR-AWL-1a">data</t>
+                <t id="p06-s04-t07" type="GSL-2">collection</t>
+                <t id="p06-s04-t08" type="GSL-1">along</t>
+                <t id="p06-s04-t09">~1500</t>
+                <t id="p06-s04-t10">km</t>
+                <t id="p06-s04-t11" type="GSL-1">of</t>
+                <t id="p06-s04-t12">coastline</t>
+                <t id="p06-s04-t13" type="Coxhead-AWL-1,AR-AWL-1b">required</t>
+                <t id="p06-s04-t14" type="GSL-1">a</t>
+                <t id="p06-s04-t15" type="GSL-1">low</t>
+                <punc>-</punc>
+                <t id="p06-s04-t16" type="GSL-1">cost</t>
+                <t id="p06-s04-t17" type="GSL-1">but</t>
+                <t id="p06-s04-t18" type="Coxhead-AWL-4,AR-AWL-4a">adequate</t>
+                <t id="p06-s04-t19" type="Coxhead-AWL-9,AR-AWL-9a">device</t>
+                <t id="p06-s04-t20" type="GSL-1">with</t>
+                <t id="p06-s04-t21" type="GSL-2">multiple</t>
+                <t id="p06-s04-t22">sensors</t>
+                <t id="p06-s04-t23" type="GSL-1">that</t>
+                <t id="p06-s04-t24" type="GSL-1">could</t>
+                <t id="p06-s04-t25" type="GSL-1">operate</t>
+                <t id="p06-s04-t26" type="GSL-1">in</t>
+                <t id="p06-s04-t27" type="GSL-1">a</t>
+                <t id="p06-s04-t28" type="GSL-1">demanding</t>
+                <t id="p06-s04-t29" type="Coxhead-AWL-1,AR-AWL-1a">environment</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p06-s05">
+                <connector id="p06-s05-c01" type="elaboration" info="p06-s04-t01:p06-s04-t29,p06-s05-t03:p06-s05-t23">
+                    <t id="p06-s05-t01" type="GSL-1">In</t>
+                    <t id="p06-s05-t02" type="GSL-1">addition</t>
+                </connector>
+                <punc>,</punc>
+                <t id="p06-s05-t03" type="GSL-1">an</t>
+                <t id="p06-s05-t04" type="Coxhead-AWL-1,AR-AWL-1a">analysis</t>
+                <t id="p06-s05-t05" type="Coxhead-AWL-1,AR-AWL-1b">method</t>
+                <t id="p06-s05-t06" type="GSL-1">was</t>
+                <t id="p06-s05-t07" type="GSL-1">necessary</t>
+                <t id="p06-s05-t08" type="GSL-1">that</t>
+                <t id="p06-s05-t09" type="GSL-1">could</t>
+                <t id="p06-s05-t10" type="Coxhead-AWL-9,AR-AWL-9a">accommodate</t>
+                <t id="p06-s05-t11" type="GSL-1">a</t>
+                <t id="p06-s05-t12">dataset</t>
+                <t id="p06-s05-t13" type="GSL-1">with</t>
+                <t id="p06-s05-t14" type="Coxhead-AWL-1,AR-AWL-1b">varying</t>
+                <t id="p06-s05-t15" type="GSL-1">levels</t>
+                <t id="p06-s05-t16" type="GSL-1">of</t>
+                <t id="p06-s05-t17" type="Coxhead-AWL-6,AR-AWL-6a">accuracy</t>
+                <t id="p06-s05-t18" type="GSL-1">and</t>
+                <t id="p06-s05-t19">subjective</t>
+                <t id="p06-s05-t20" type="GSL-1">observations</t>
+                <t id="p06-s05-t21" type="GSL-1">of</t>
+                <t id="p06-s05-t22">habitat</t>
+                <t id="p06-s05-t23" type="GSL-1">characteristics</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p07">
+            <sentence par-function="topic" id="p07-s01">
+                <t id="p07-s01-t01" type="GSL-1">Here</t>
+                <t id="p07-s01-t02" type="GSL-1">we</t>
+                <t id="p07-s01-t03" type="GSL-1">describe</t>
+                <t id="p07-s01-t04" type="GSL-1">the</t>
+                <t id="p07-s01-t05" type="GSL-1">development</t>
+                <punc>,</punc>
+                <t id="p07-s01-t06" type="Coxhead-AWL-3,AR-AWL-3a">initial</t>
+                <t id="p07-s01-t07" type="GSL-1">field</t>
+                <t id="p07-s01-t08">deployment</t>
+                <punc>,</punc>
+                <t id="p07-s01-t09" type="GSL-1">and</t>
+                <t id="p07-s01-t10" type="Coxhead-AWL-4,AR-AWL-4b">subsequent</t>
+                <t id="p07-s01-t11" type="Coxhead-AWL-5,AR-AWL-5b">modification</t>
+                <t id="p07-s01-t12" type="GSL-1">of</t>
+                <t id="p07-s01-t13" type="GSL-1">a</t>
+                <t id="p07-s01-t14">smartphone</t>
+                <t id="p07-s01-t15" type="GSL-1">application</t>
+                <t id="p07-s01-t16" type="GSL-1">called</t>
+                <term id="p07-s01-e01" info="p07-s01-t34:p07-s01-t33">
+                    <t id="p07-s01-t17">iPlover</t>
+                </term>
+                <t id="p07-s01-t18" type="GSL-1">that</t>
+                <t id="p07-s01-t19" type="GSL-1">supports</t>
+                <t id="p07-s01-t20" type="Coxhead-AWL-4,AR-AWL-4b">investigations</t>
+                <t id="p07-s01-t21" type="GSL-1">of</t>
+                <t id="p07-s01-t22" type="GSL-1">the</t>
+                <t id="p07-s01-t23" type="GSL-1">effects</t>
+                <t id="p07-s01-t24" type="GSL-1">of</t>
+                <t id="p07-s01-t25">coastal</t>
+                <t id="p07-s01-t26" type="GSL-1">change</t>
+                <t id="p07-s01-t27" type="GSL-1">on</t>
+                <t id="p07-s01-t28">piping</t>
+                <t id="p07-s01-t29">plover</t>
+                <t id="p07-s01-t30">habitat</t>
+                <t id="p07-s01-t31" type="Coxhead-AWL-1,AR-AWL-1a">availability</t>
+                <t id="p07-s01-t32" type="GSL-1">and</t>
+                <t id="p07-s01-t33" type="Coxhead-AWL-6,AR-AWL-6b">utilization</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p07-s02">
+                <anaphor id="p07-s02-a01" info="p07-s01-t04:p07-s01-t33">
+                    <t id="p07-s02-t01" type="GSL-1">This</t>
+                    <t id="p07-s02-t02" type="GSL-1">work</t>
+                </anaphor>
+                <t id="p07-s02-t03" type="GSL-1">is</t>
+                <t id="p07-s02-t04" type="GSL-1">one</t>
+                <t id="p07-s02-t05" type="Coxhead-AWL-3,AR-AWL-3a">component</t>
+                <t id="p07-s02-t06" type="GSL-1">of</t>
+                <t id="p07-s02-t07" type="GSL-1">a</t>
+                <t id="p07-s02-t08" type="GSL-1">larger</t>
+                <t id="p07-s02-t09" type="Coxhead-AWL-1,AR-AWL-1b">research</t>
+                <t id="p07-s02-t10" type="GSL-1">and</t>
+                <t id="p07-s02-t11" type="GSL-2">management</t>
+                <t id="p07-s02-t12" type="GSL-2">program</t>
+                <t id="p07-s02-t13" type="GSL-1">that</t>
+                <t id="p07-s02-t14" type="Coxhead-AWL-2,AR-AWL-2b">seeks</t>
+                <t id="p07-s02-t15" type="GSL-1">to</t>
+                <t id="p07-s02-t16" type="GSL-1">understand</t>
+                <t id="p07-s02-t17" type="GSL-1">and</t>
+                <t id="p07-s02-t18" type="Coxhead-AWL-5,AR-AWL-5b">sustain</t>
+                <t id="p07-s02-t19">ecological</t>
+                <t id="p07-s02-t20" type="GSL-1">value</t>
+                <punc>,</punc>
+                <t id="p07-s02-t21">ecosystem</t>
+                <t id="p07-s02-t22" type="GSL-1">services</t>
+                <punc>,</punc>
+                <t id="p07-s02-t23" type="GSL-1">and</t>
+                <t id="p07-s02-t24">habitat</t>
+                <t id="p07-s02-t25" type="GSL-2">suitability</t>
+                <t id="p07-s02-t26" type="GSL-1">of</t>
+                <t id="p07-s02-t27">beaches</t>
+                <t id="p07-s02-t28" type="GSL-1">in</t>
+                <t id="p07-s02-t29" type="GSL-1">the</t>
+                <t id="p07-s02-t30" type="GSL-1">face</t>
+                <t id="p07-s02-t31" type="GSL-1">of</t>
+                <t id="p07-s02-t32" type="GSL-2">storm</t>
+                <t id="p07-s02-t33" type="Coxhead-AWL-2,AR-AWL-2a">impacts</t>
+                <punc>,</punc>
+                <t id="p07-s02-t34">climate</t>
+                <t id="p07-s02-t35" type="GSL-1">change</t>
+                <punc>,</punc>
+                <t id="p07-s02-t36" type="GSL-1">and</t>
+                <t id="p07-s02-t37" type="GSL-1">sea</t>
+                <punc>-</punc>
+                <t id="p07-s02-t38" type="GSL-1">level</t>
+                <t id="p07-s02-t39" type="GSL-1">rise</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
