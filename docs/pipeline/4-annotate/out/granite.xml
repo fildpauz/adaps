@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Granite</title>
+    <citation>Wikipedia contributors, “Granite,” Wikipedia, The Free Encyclopedia, Retrieved from https://simple.wikipedia.org/w/index.php?title=Granite&amp;oldid=5540899 (accessed on January 22, 2017).</citation>
+    <url>https://simple.wikipedia.org/w/index.php?title=Granite&amp;oldid=5540899</url>
+    <info type="wikipedia"/>
+    <body>
+        <paragraph id="p01">
+            <sentence par-function="topic|supporting|concluding" id="p01-s01">
+                <term id="p01-s01-e01" info="">
+                    <t id="p01-s01-t01">Granite</t>
+                </term>
+                <t id="p01-s01-t02" type="GSL-1">is</t>
+                <t id="p01-s01-t03" type="GSL-1">a</t>
+                <t id="p01-s01-t04" type="GSL-1">kind</t>
+                <t id="p01-s01-t05" type="GSL-1">of</t>
+                <t id="p01-s01-t06">igneous</t>
+                <t id="p01-s01-t07" type="GSL-1">rock</t>
+                <punc>,</punc>
+                <t id="p01-s01-t08" type="Coxhead-AWL-9,AR-AWL-9a">found</t>
+                <t id="p01-s01-t09" type="GSL-1">on</t>
+                <t id="p01-s01-t10" type="GSL-1">Earth</t>
+                <t id="p01-s01-t11" type="GSL-1">but</t>
+                <t id="p01-s01-t12" type="GSL-1">nowhere</t>
+                <t id="p01-s01-t13" type="GSL-1">else</t>
+                <t id="p01-s01-t14" type="GSL-1">in</t>
+                <t id="p01-s01-t15" type="GSL-1">the</t>
+                <t id="p01-s01-t16">Solar</t>
+                <t id="p01-s01-t17" type="GSL-1">System</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p01-s02">
+                <anaphor id="p01-s02-a01" info="">
+                    <t id="p01-s02-t01" type="GSL-1">It</t>
+                </anaphor>
+                <t id="p01-s02-t02" type="GSL-1">is</t>
+                <t id="p01-s02-t03" type="GSL-1">formed</t>
+                <t id="p01-s02-t04" type="GSL-1">from</t>
+                <t id="p01-s02-t05" type="GSL-1">hot</t>
+                <punc>,</punc>
+                <t id="p01-s02-t06">molten</t>
+                <t id="p01-s02-t07">magma</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p01-s03">
+                <anaphor id="p01-s03-a01" info="">
+                    <t id="p01-s03-t01" type="GSL-1">Its</t>
+                </anaphor>
+                <t id="p01-s03-t02" type="GSL-1">colour</t>
+                <t id="p01-s03-t03" type="Coxhead-AWL-2,AR-AWL-2b">ranges</t>
+                <t id="p01-s03-t04" type="GSL-1">from</t>
+                <t id="p01-s03-t05" type="GSL-2">pink</t>
+                <t id="p01-s03-t06" type="GSL-1">to</t>
+                <t id="p01-s03-t07" type="GSL-2">grey</t>
+                <punc>,</punc>
+                <t id="p01-s03-t08" type="GSL-1">according</t>
+                <t id="p01-s03-t09" type="GSL-1">to</t>
+                <t id="p01-s03-t10" type="GSL-1">the</t>
+                <t id="p01-s03-t11" type="Coxhead-AWL-3,AR-AWL-3b">proportions</t>
+                <t id="p01-s03-t12" type="GSL-1">of</t>
+                <anaphor id="p01-s03-a02" info="">
+                    <t id="p01-s03-t13" type="GSL-1">its</t>
+                </anaphor>
+                <t id="p01-s03-t14" type="GSL-2">minerals</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence par-function="topic|supporting|concluding" id="p02-s01">
+                <anaphor id="p02-s01-a01" info="">
+                    <t id="p02-s01-t01" type="GSL-1">The</t>
+                    <t id="p02-s01-t02">magma</t>
+                </anaphor>
+                <t id="p02-s01-t03" type="GSL-1">is</t>
+                <t id="p02-s01-t04" type="GSL-1">forced</t>
+                <t id="p02-s01-t05" type="GSL-1">between</t>
+                <t id="p02-s01-t06" type="GSL-1">other</t>
+                <t id="p02-s01-t07" type="Coxhead-AWL-3,AR-AWL-3b">layers</t>
+                <t id="p02-s01-t08" type="GSL-1">of</t>
+                <t id="p02-s01-t09" type="GSL-1">rock</t>
+                <t id="p02-s01-t10" type="GSL-1">by</t>
+                <t id="p02-s01-t11" type="GSL-1">the</t>
+                <t id="p02-s01-t12" type="GSL-1">pressure</t>
+                <t id="p02-s01-t13" type="GSL-1">under</t>
+                <t id="p02-s01-t14" type="GSL-1">the</t>
+                <t id="p02-s01-t15">Earth's</t>
+                <t id="p02-s01-t16" type="GSL-1">surface</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p02-s02">
+                <anaphor id="p02-s02-a01" info="">
+                    <t id="p02-s02-t01" type="GSL-1">The</t>
+                    <t id="p02-s02-t02">magma</t>
+                </anaphor>
+                <t id="p02-s02-t03" type="GSL-2">cools</t>
+                <t id="p02-s02-t04" type="GSL-1">and</t>
+                <t id="p02-s02-t05" type="GSL-1">turns</t>
+                <t id="p02-s02-t06" type="GSL-2">slowly</t>
+                <t id="p02-s02-t07" type="GSL-1">into</t>
+                <t id="p02-s02-t08" type="GSL-2">solid</t>
+                <t id="p02-s02-t09" type="GSL-1">stone</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p02-s03">
+                <t id="p02-s03-t01">Granite</t>
+                <t id="p02-s03-t02" type="GSL-1">has</t>
+                <t id="p02-s03-t03" type="GSL-1">many</t>
+                <t id="p02-s03-t04" type="GSL-1">different</t>
+                <t id="p02-s03-t05" type="GSL-1">types</t>
+                <t id="p02-s03-t06" type="GSL-1">of</t>
+                <t id="p02-s03-t07" type="GSL-2">minerals</t>
+                <t id="p02-s03-t08" type="GSL-1">in</t>
+                <anaphor id="p02-s03-a01" info="">
+                    <t id="p02-s03-t09" type="GSL-1">it</t>
+                </anaphor>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p02-s04">
+                <anaphor id="p02-s04-a01" info="">
+                    <t id="p02-s04-t01" type="GSL-1">These</t>
+                </anaphor>
+                <t id="p02-s04-t02" type="GSL-1">include</t>
+                <t id="p02-s04-t03">quartz</t>
+                <punc>,</punc>
+                <t id="p02-s04-t04">feldspar</t>
+                <punc>,</punc>
+                <t id="p02-s04-t05">hornblende</t>
+                <punc>,</punc>
+                <t id="p02-s04-t06" type="GSL-1">and</t>
+                <t id="p02-s04-t07" type="GSL-1">sometimes</t>
+                <t id="p02-s04-t08">mica</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p02-s05">
+                <t id="p02-s05-t01" type="GSL-1">As</t>
+                <anaphor id="p02-s05-a01" info="">
+                    <t id="p02-s05-t02" type="GSL-1">the</t>
+                    <t id="p02-s05-t03">magma</t>
+                </anaphor>
+                <t id="p02-s05-t04" type="GSL-2">cools</t>
+                <punc>,</punc>
+                <anaphor id="p02-s05-a02" info="">
+                    <t id="p02-s05-t05" type="GSL-1">these</t>
+                    <t id="p02-s05-t06" type="GSL-2">minerals</t>
+                </anaphor>
+                <t id="p02-s05-t07" type="GSL-1">form</t>
+                <t id="p02-s05-t08">crystals</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p02-s06">
+                <anaphor id="p02-s06-a01" info="">
+                    <t id="p02-s06-t01" type="GSL-1">The</t>
+                    <t id="p02-s06-t02">crystals</t>
+                </anaphor>
+                <t id="p02-s06-t03" type="GSL-1">can</t>
+                <t id="p02-s06-t04" type="GSL-1">be</t>
+                <t id="p02-s06-t05" type="GSL-1">seen</t>
+                <t id="p02-s06-t06" type="GSL-1">easily</t>
+                <connector id="p02-s06-c01" type="" info="">
+                    <t id="p02-s06-t07" type="GSL-1">if</t>
+                </connector>
+                <anaphor id="p02-s06-a02" info="">
+                    <t id="p02-s06-t08" type="GSL-1">the</t>
+                    <t id="p02-s06-t09">granite</t>
+                </anaphor>
+                <t id="p02-s06-t10" type="GSL-1">is</t>
+                <t id="p02-s06-t11" type="GSL-1">cut</t>
+                <t id="p02-s06-t12" type="GSL-1">and</t>
+                <t id="p02-s06-t13" type="GSL-2">polished</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p03">
+            <sentence par-function="topic|supporting|concluding" id="p03-s01">
+                <t id="p03-s01-t01">Granite</t>
+                <t id="p03-s01-t02" type="GSL-1">is</t>
+                <t id="p03-s01-t03" type="GSL-1">a</t>
+                <t id="p03-s01-t04" type="GSL-1">common</t>
+                <t id="p03-s01-t05" type="GSL-1">stone</t>
+                <t id="p03-s01-t06" type="GSL-1">on</t>
+                <t id="p03-s01-t07" type="GSL-1">Earth</t>
+                <punc>,</punc>
+                <t id="p03-s01-t08" type="GSL-1">and</t>
+                <t id="p03-s01-t09" type="GSL-1">makes</t>
+                <t id="p03-s01-t10" type="GSL-1">up</t>
+                <t id="p03-s01-t11" type="GSL-1">a</t>
+                <t id="p03-s01-t12" type="GSL-1">big</t>
+                <t id="p03-s01-t13" type="GSL-1">part</t>
+                <t id="p03-s01-t14" type="GSL-1">of</t>
+                <term id="p03-s01-e01" info="">
+                    <t id="p03-s01-t15" type="GSL-1">the</t>
+                    <t id="p03-s01-t16">crust</t>
+                </term>
+                <punc>(</punc>
+                <t id="p03-s01-t17" type="GSL-1">the</t>
+                <t id="p03-s01-t18">Earth's</t>
+                <t id="p03-s01-t19" type="GSL-1">outer</t>
+                <t id="p03-s01-t20" type="Coxhead-AWL-3,AR-AWL-3b">layer</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p03-s02">
+                <anaphor id="p03-s02-a01" info="">
+                    <t id="p03-s02-t01" type="GSL-1">It</t>
+                </anaphor>
+                <t id="p03-s02-t02" type="GSL-1">is</t>
+                <t id="p03-s02-t03" type="GSL-1">usually</t>
+                <t id="p03-s02-t04" type="Coxhead-AWL-9,AR-AWL-9a">found</t>
+                <t id="p03-s02-t05" type="GSL-1">in</t>
+                <t id="p03-s02-t06" type="GSL-1">the</t>
+                <t id="p03-s02-t07">continental</t>
+                <t id="p03-s02-t08" type="GSL-2">plates</t>
+                <t id="p03-s02-t09" type="GSL-1">of</t>
+                <t id="p03-s02-t10" type="GSL-1">the</t>
+                <t id="p03-s02-t11">Earth's</t>
+                <t id="p03-s02-t12">crust</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p03-s03">
+                <connector id="p03-s03-c01" type="" info="">
+                    <t id="p03-s03-t01" type="GSL-1">Although</t>
+                </connector>
+                <anaphor id="p03-s03-a01" info="">
+                    <t id="p03-s03-t02" type="GSL-1">it</t>
+                </anaphor>
+                <t id="p03-s03-t03" type="GSL-1">forms</t>
+                <t id="p03-s03-t04" type="GSL-1">under</t>
+                <t id="p03-s03-t05" type="GSL-1">the</t>
+                <t id="p03-s03-t06" type="GSL-1">surface</t>
+                <t id="p03-s03-t07" type="GSL-1">of</t>
+                <t id="p03-s03-t08" type="GSL-1">the</t>
+                <t id="p03-s03-t09" type="GSL-1">Earth</t>
+                <punc>,</punc>
+                <t id="p03-s03-t10" type="GSL-1">there</t>
+                <t id="p03-s03-t11" type="GSL-1">are</t>
+                <t id="p03-s03-t12" type="GSL-1">many</t>
+                <t id="p03-s03-t13" type="GSL-1">places</t>
+                <t id="p03-s03-t14" type="GSL-1">where</t>
+                <anaphor id="p03-s03-a02" info="">
+                    <t id="p03-s03-t15" type="GSL-1">it</t>
+                </anaphor>
+                <t id="p03-s03-t16" type="GSL-1">has</t>
+                <t id="p03-s03-t17" type="GSL-1">been</t>
+                <t id="p03-s03-t18" type="GSL-1">forced</t>
+                <t id="p03-s03-t19" type="GSL-2">upwards</t>
+                <t id="p03-s03-t20" type="GSL-1">by</t>
+                <t id="p03-s03-t21">tectonic</t>
+                <t id="p03-s03-t22" type="GSL-1">movement</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p03-s04">
+                <connector id="p03-s04-c01" type="" info="">
+                    <t id="p03-s04-t01" type="GSL-1">When</t>
+                </connector>
+                <t id="p03-s04-t02" type="GSL-2">plates</t>
+                <t id="p03-s04-t03" type="GSL-1">in</t>
+                <t id="p03-s04-t04" type="GSL-1">the</t>
+                <t id="p03-s04-t05">Earth's</t>
+                <t id="p03-s04-t06">crust</t>
+                <t id="p03-s04-t07" type="GSL-1">move</t>
+                <t id="p03-s04-t08" type="GSL-1">together</t>
+                <punc>,</punc>
+                <anaphor id="p03-s04-a01" info="">
+                    <t id="p03-s04-t09" type="GSL-1">they</t>
+                </anaphor>
+                <t id="p03-s04-t10" type="GSL-1">get</t>
+                <t id="p03-s04-t11" type="GSL-2">bent</t>
+                <t id="p03-s04-t12" type="GSL-1">and</t>
+                <t id="p03-s04-t13" type="GSL-2">pushed</t>
+                <t id="p03-s04-t14" type="GSL-2">upwards</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p03-s05">
+                <connector id="p03-s05-c01" type="" info="">
+                    <t id="p03-s05-t01" type="GSL-1">When</t>
+                </connector>
+                <anaphor id="p03-s05-a01" info="">
+                    <t id="p03-s05-t02" type="GSL-1">this</t>
+                </anaphor>
+                <t id="p03-s05-t03" type="GSL-1">happens</t>
+                <punc>,</punc>
+                <t id="p03-s05-t04">granite</t>
+                <t id="p03-s05-t05" type="GSL-1">mountains</t>
+                <t id="p03-s05-t06" type="GSL-1">can</t>
+                <t id="p03-s05-t07" type="GSL-1">be</t>
+                <t id="p03-s05-t08" type="GSL-1">formed</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p04">
+            <sentence par-function="topic|supporting|concluding" id="p04-s01">
+                <t id="p04-s01-t01" type="GSL-1">Uses</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p05">
+            <sentence par-function="topic|supporting|concluding" id="p05-s01">
+                <t id="p05-s01-t01">Granite</t>
+                <t id="p05-s01-t02" type="GSL-1">is</t>
+                <t id="p05-s01-t03">dense</t>
+                <punc>,</punc>
+                <t id="p05-s01-t04" type="GSL-1">and</t>
+                <t id="p05-s01-t05" type="GSL-1">can</t>
+                <t id="p05-s01-t06" type="GSL-1">be</t>
+                <t id="p05-s01-t07" type="GSL-1">cut</t>
+                <punc>,</punc>
+                <t id="p05-s01-t08">carved</t>
+                <t id="p05-s01-t09" type="GSL-1">and</t>
+                <t id="p05-s01-t10" type="GSL-1">shaped</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p05-s02">
+                <anaphor id="p05-s02-a01" info="">
+                    <t id="p05-s02-t01" type="GSL-1">It</t>
+                </anaphor>
+                <t id="p05-s02-t02" type="GSL-1">is</t>
+                <t id="p05-s02-t03">resistant</t>
+                <t id="p05-s02-t04" type="GSL-1">to</t>
+                <t id="p05-s02-t05" type="GSL-1">water</t>
+                <t id="p05-s02-t06" type="GSL-1">and</t>
+                <t id="p05-s02-t07">pollution</t>
+                <punc>,</punc>
+                <t id="p05-s02-t08" type="GSL-1">and</t>
+                <t id="p05-s02-t09" type="GSL-1">has</t>
+                <t id="p05-s02-t10" type="GSL-1">a</t>
+                <t id="p05-s02-t11" type="Coxhead-AWL-2,AR-AWL-2b">range</t>
+                <t id="p05-s02-t12" type="GSL-1">of</t>
+                <t id="p05-s02-t13" type="GSL-1">different</t>
+                <t id="p05-s02-t14" type="GSL-1">colours</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p06">
+            <sentence par-function="topic|supporting|concluding" id="p06-s01">
+                <t id="p06-s01-t01" type="GSL-2">Kitchen</t>
+                <t id="p06-s01-t02">benches</t>
+                <t id="p06-s01-t03" type="GSL-1">are</t>
+                <t id="p06-s01-t04" type="GSL-1">often</t>
+                <t id="p06-s01-t05" type="GSL-1">made</t>
+                <t id="p06-s01-t06" type="GSL-1">of</t>
+                <t id="p06-s01-t07" type="GSL-2">polished</t>
+                <t id="p06-s01-t08">granite</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p06-s02">
+                <t id="p06-s02-t01">Granite</t>
+                <t id="p06-s02-t02" type="GSL-1">is</t>
+                <t id="p06-s02-t03" type="Coxhead-AWL-9,AR-AWL-9a">found</t>
+                <t id="p06-s02-t04" type="GSL-1">in</t>
+                <t id="p06-s02-t05" type="GSL-1">many</t>
+                <t id="p06-s02-t06" type="GSL-1">countries</t>
+                <t id="p06-s02-t07" type="GSL-1">of</t>
+                <t id="p06-s02-t08" type="GSL-1">the</t>
+                <t id="p06-s02-t09" type="GSL-1">world</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="topic|supporting|concluding" id="p06-s03">
+                <t id="p06-s03-t01" type="GSL-1">Some</t>
+                <t id="p06-s03-t02" type="GSL-1">countries</t>
+                <t id="p06-s03-t03" type="GSL-1">have</t>
+                <t id="p06-s03-t04" type="GSL-1">beautifully</t>
+                <t id="p06-s03-t05" type="GSL-2">patterned</t>
+                <t id="p06-s03-t06">granite</t>
+                <t id="p06-s03-t07" type="GSL-1">which</t>
+                <t id="p06-s03-t08" type="GSL-1">is</t>
+                <t id="p06-s03-t09">quarried</t>
+                <punc>(</punc>
+                <t id="p06-s03-t10" type="GSL-1">cut</t>
+                <t id="p06-s03-t11" type="GSL-1">in</t>
+                <t id="p06-s03-t12" type="GSL-1">open</t>
+                <t id="p06-s03-t13" type="GSL-1">mines</t>
+                <punc>)</punc>
+                <t id="p06-s03-t14" type="GSL-1">and</t>
+                <t id="p06-s03-t15" type="GSL-1">sold</t>
+                <t id="p06-s03-t16" type="GSL-1">for</t>
+                <t id="p06-s03-t17" type="GSL-1">building</t>
+                <t id="p06-s03-t18" type="GSL-1">material</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
