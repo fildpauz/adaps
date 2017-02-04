@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Robots Show Us How to Teach Them: Feedback from Robots Shapes Tutoring Behavior during Action Learning (Extract)</title>
+    <citation>Vollmer A-L, Mühlig M, Steil JJ, Pitsch K, Fritsch J, Rohlfing KJ, et al. (2014) Robots Show Us How to Teach Them: Feedback from Robots Shapes Tutoring Behavior during Action Learning. PLoS ONE 9(3): e91349. doi:10.1371/journal.pone.0091349</citation>
+    <url>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091349</url>
+    <info type="arise">
+        <arise-info book="1"
+                    section="2"
+                    unit="3"
+                    part="1"
+                    item="D"
+                    firstpage="19"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence par-function="topic" id="p01-s01">
+                <t id="p01-s01-t01" type="GSL-1">The</t>
+                <t id="p01-s01-t02" type="GSL-1">presented</t>
+                <t id="p01-s01-t03" type="GSL-1">work</t>
+                <t id="p01-s01-t04" type="Coxhead-AWL-5,AR-AWL-5a">challenges</t>
+                <t id="p01-s01-t05" type="GSL-1">the</t>
+                <t id="p01-s01-t06" type="Coxhead-AWL-8,AR-AWL-8b">predominant</t>
+                <t id="p01-s01-t07" type="Coxhead-AWL-1,AR-AWL-1a">assumption</t>
+                <t id="p01-s01-t08" type="GSL-1">of</t>
+                <t id="p01-s01-t09" type="GSL-1">a</t>
+                <t id="p01-s01-t10">unidirectional</t>
+                <t id="p01-s01-t11" type="GSL-1">knowledge</t>
+                <t id="p01-s01-t12" type="Coxhead-AWL-2,AR-AWL-2b">transfer</t>
+                <t id="p01-s01-t13" type="GSL-1">based</t>
+                <t id="p01-s01-t14" type="GSL-1">on</t>
+                <t id="p01-s01-t15" type="GSL-1">an</t>
+                <t id="p01-s01-t16" type="GSL-1">extensive</t>
+                <t id="p01-s01-t17" type="GSL-1">user</t>
+                <t id="p01-s01-t18" type="GSL-1">study</t>
+                <t id="p01-s01-t19" type="GSL-1">with</t>
+                <t id="p01-s01-t20" type="GSL-1">an</t>
+                <t id="p01-s01-t21">autonomously</t>
+                <t id="p01-s01-t22" type="Coxhead-AWL-3,AR-AWL-3b">interacting</t>
+                <t id="p01-s01-t23">humanoid</t>
+                <t id="p01-s01-t24">robot</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s02">
+                <t id="p01-s02-t01" type="GSL-1">We</t>
+                <t id="p01-s02-t02">subscribe</t>
+                <t id="p01-s02-t03" type="GSL-1">to</t>
+                <t id="p01-s02-t04" type="GSL-1">a</t>
+                <t id="p01-s02-t05" type="Coxhead-AWL-5,AR-AWL-5b">perspective</t>
+                <t id="p01-s02-t06" type="GSL-1">present</t>
+                <t id="p01-s02-t07" type="GSL-1">in</t>
+                <t id="p01-s02-t08" type="Coxhead-AWL-1,AR-AWL-1b">research</t>
+                <t id="p01-s02-t09" type="GSL-1">in</t>
+                <t id="p01-s02-t10" type="GSL-1">social</t>
+                <t id="p01-s02-t11" type="GSL-1">human</t>
+                <punc>-</punc>
+                <t id="p01-s02-t12" type="GSL-1">human</t>
+                <t id="p01-s02-t13" type="Coxhead-AWL-3,AR-AWL-3b">interaction</t>
+                <t id="p01-s02-t14" type="Coxhead-AWL-3,AR-AWL-3a">emphasizing</t>
+                <t id="p01-s02-t15" type="GSL-1">the</t>
+                <t id="p01-s02-t16" type="Coxhead-AWL-1,AR-AWL-1b">process</t>
+                <t id="p01-s02-t17" type="GSL-1">of</t>
+                <t id="p01-s02-t18">alignment</t>
+                <t id="p01-s02-t19" type="GSL-1">between</t>
+                <t id="p01-s02-t20" type="Coxhead-AWL-5,AR-AWL-5b">mental</t>
+                <t id="p01-s02-t21" type="GSL-1">states</t>
+                <punc>,</punc>
+                <t id="p01-s02-t22">actions'</t>
+                <t id="p01-s02-t23" type="Coxhead-AWL-4,AR-AWL-4a">goals</t>
+                <punc>,</punc>
+                <t id="p01-s02-t24" type="GSL-1">and</t>
+                <t id="p01-s02-t25" type="Coxhead-AWL-4,AR-AWL-4a">communication</t>
+                <punc>...</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s03">
+                <t id="p01-s03-t01">Subscribing</t>
+                <t id="p01-s03-t02" type="GSL-1">to</t>
+                <t id="p01-s03-t03" type="GSL-1">the</t>
+                <t id="p01-s03-t04" type="Coxhead-AWL-3,AR-AWL-3b">interactive</t>
+                <t id="p01-s03-t05" type="GSL-1">view</t>
+                <t id="p01-s03-t06" type="GSL-1">in</t>
+                <t id="p01-s03-t07" type="GSL-1">Human</t>
+                <punc>-</punc>
+                <t id="p01-s03-t08">Robot</t>
+                <t id="p01-s03-t09" type="Coxhead-AWL-3,AR-AWL-3b">Interaction</t>
+                <punc>(</punc>
+                <abbr id="p01-s03-b01" info="p01-s03-t07:p01-s03-t09">
+                    <t id="p01-s03-t10">HRI</t>
+                </abbr>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p01-s03-t11" type="GSL-1">it</t>
+                <t id="p01-s03-t12" type="GSL-1">is</t>
+                <t id="p01-s03-t13" type="GSL-1">not</t>
+                <t id="p01-s03-t14" type="GSL-1">the</t>
+                <t id="p01-s03-t15" type="GSL-1">user</t>
+                <t id="p01-s03-t16" type="GSL-1">alone</t>
+                <t id="p01-s03-t17" type="GSL-1">who</t>
+                <t id="p01-s03-t18" type="GSL-1">determines</t>
+                <t id="p01-s03-t19" type="GSL-1">what</t>
+                <t id="p01-s03-t20" type="GSL-1">is</t>
+                <t id="p01-s03-t21" type="GSL-1">being</t>
+                <t id="p01-s03-t22" type="Coxhead-AWL-3,AR-AWL-3a">demonstrated</t>
+                <punc>(</punc>
+                <t id="p01-s03-t23" type="GSL-1">Figure</t>
+                <t id="p01-s03-t24">1A</t>
+                <punc>)</punc>
+                <punc>(</punc>
+                <t id="p01-s03-t25" type="GSL-1">as</t>
+                <anaphor id="p01-s03-a01" info="p01-s03-t14:p01-s03-t22">
+                    <t id="p01-s03-t26" type="GSL-1">it</t>
+                </anaphor>
+                <t id="p01-s03-t27" type="GSL-1">is</t>
+                <t id="p01-s03-t28" type="GSL-1">currently</t>
+                <t id="p01-s03-t29" type="Coxhead-AWL-8,AR-AWL-8a">implicitly</t>
+                <t id="p01-s03-t30" type="Coxhead-AWL-1,AR-AWL-1a">assumed</t>
+                <t id="p01-s03-t31" type="GSL-1">in</t>
+                <t id="p01-s03-t32">robot</t>
+                <t id="p01-s03-t33" type="GSL-2">imitation</t>
+                <t id="p01-s03-t34" type="GSL-1">learning</t>
+                <punc>)</punc>
+                <connector id="p01-s03-c01" type="violated expectation" info="p01-s03-t11:p01-s03-t34,p01-s03-t36:p01-s03-t46">
+                    <t id="p01-s03-t35" type="GSL-1">but</t>
+                </connector>
+                <t id="p01-s03-t36" type="GSL-1">the</t>
+                <t id="p01-s03-t37" type="Coxhead-AWL-3,AR-AWL-3a">demonstration</t>
+                <t id="p01-s03-t38" type="GSL-1">has</t>
+                <t id="p01-s03-t39" type="GSL-1">to</t>
+                <t id="p01-s03-t40" type="Coxhead-AWL-4,AR-AWL-4a">emerge</t>
+                <t id="p01-s03-t41" type="GSL-1">with</t>
+                <t id="p01-s03-t42" type="GSL-1">the</t>
+                <t id="p01-s03-t43">feedback</t>
+                <t id="p01-s03-t44" type="GSL-1">of</t>
+                <t id="p01-s03-t45" type="GSL-1">the</t>
+                <t id="p01-s03-t46" type="GSL-1">learner</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence par-function="" id="p02-s01">
+                <t id="p02-s01-t01" type="GSL-1">In</t>
+                <t id="p02-s01-t02" type="GSL-1">current</t>
+                <t id="p02-s01-t03">HRI</t>
+                <punc>,</punc>
+                <t id="p02-s01-t04" type="GSL-1">the</t>
+                <t id="p02-s01-t05" type="Coxhead-AWL-3,AR-AWL-3b">interactive</t>
+                <t id="p02-s01-t06" type="GSL-1">view</t>
+                <t id="p02-s01-t07" type="GSL-1">on</t>
+                <t id="p02-s01-t08" type="GSL-1">social</t>
+                <t id="p02-s01-t09">cognition</t>
+                <t id="p02-s01-t10" type="GSL-1">and</t>
+                <t id="p02-s01-t11" type="Coxhead-AWL-4,AR-AWL-4a">communication</t>
+                <t id="p02-s01-t12" type="GSL-1">has</t>
+                <t id="p02-s01-t13" type="GSL-1">not</t>
+                <t id="p02-s01-t14" type="GSL-1">been</t>
+                <t id="p02-s01-t15" type="GSL-1">tested</t>
+                <punc>,</punc>
+                <connector id="p02-s01-c01" type="explanation" info="p02-s01-t01:p02-s01-t15,p02-s01-t17:p02-s01-t25">
+                    <t id="p02-s01-t16" type="GSL-1">because</t>
+                </connector>
+                <t id="p02-s01-t17" type="GSL-1">most</t>
+                <t id="p02-s01-t18">robots</t>
+                <t id="p02-s01-t19" type="GSL-1">are</t>
+                <t id="p02-s01-t20" type="GSL-2">barely</t>
+                <t id="p02-s01-t21" type="Coxhead-AWL-6,AR-AWL-6a">capable</t>
+                <t id="p02-s01-t22" type="GSL-1">of</t>
+                <t id="p02-s01-t23" type="GSL-1">a</t>
+                <t id="p02-s01-t24" type="GSL-1">real</t>
+                <t id="p02-s01-t25" type="Coxhead-AWL-3,AR-AWL-3b">interaction</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>

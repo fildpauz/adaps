@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Molecules (Extract from Biology)</title>
+    <citation>OpenStax College, Biology. OpenStax College. 30 May 2013. </citation>
+    <url>http://cnx.org/content/col11448/latest/</url>
+    <info type="arise">
+        <arise-info book="1"
+                    section="3"
+                    unit="5"
+                    part="3"
+                    item="D"
+                    firstpage="47"/>
+    </info>
+    <body>
+        <paragraph id="p01">
+            <sentence par-function="topic" id="p01-s01">
+                <t id="p01-s01-t01" type="GSL-1">Living</t>
+                <t id="p01-s01-t02" type="GSL-1">things</t>
+                <t id="p01-s01-t03" type="GSL-1">are</t>
+                <t id="p01-s01-t04" type="GSL-1">highly</t>
+                <t id="p01-s01-t05" type="GSL-1">organized</t>
+                <t id="p01-s01-t06" type="GSL-1">and</t>
+                <t id="p01-s01-t07" type="Coxhead-AWL-1,AR-AWL-1b">structured</t>
+                <punc>,</punc>
+                <t id="p01-s01-t08" type="GSL-1">following</t>
+                <t id="p01-s01-t09" type="GSL-1">a</t>
+                <t id="p01-s01-t10" type="Coxhead-AWL-7,AR-AWL-7a">hierarchy</t>
+                <t id="p01-s01-t11" type="GSL-1">that</t>
+                <t id="p01-s01-t12" type="GSL-1">can</t>
+                <t id="p01-s01-t13" type="GSL-1">be</t>
+                <t id="p01-s01-t14" type="GSL-2">examined</t>
+                <t id="p01-s01-t15" type="GSL-1">on</t>
+                <t id="p01-s01-t16" type="GSL-1">a</t>
+                <t id="p01-s01-t17" type="GSL-2">scale</t>
+                <t id="p01-s01-t18" type="GSL-1">from</t>
+                <t id="p01-s01-t19" type="GSL-1">small</t>
+                <t id="p01-s01-t20" type="GSL-1">to</t>
+                <t id="p01-s01-t21" type="GSL-1">large</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s02">
+                <term id="p01-s02-e01" info="p01-s02-t04:p01-s02-t11">
+                    <t id="p01-s02-t01" type="GSL-1">The</t>
+                    <t id="p01-s02-t02">atom</t>
+                </term>
+                <t id="p01-s02-t03" type="GSL-1">is</t>
+                <t id="p01-s02-t04" type="GSL-1">the</t>
+                <t id="p01-s02-t05" type="GSL-1">smallest</t>
+                <t id="p01-s02-t06" type="GSL-1">and</t>
+                <t id="p01-s02-t07" type="GSL-1">most</t>
+                <t id="p01-s02-t08" type="Coxhead-AWL-5,AR-AWL-5a">fundamental</t>
+                <t id="p01-s02-t09" type="GSL-1">unit</t>
+                <t id="p01-s02-t10" type="GSL-1">of</t>
+                <t id="p01-s02-t11" type="GSL-1">matter</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s03">
+                <anaphor id="p01-s03-a01" info="p01-s02-t01:p01-s02-t02">
+                    <t id="p01-s03-t01" type="GSL-1">It</t>
+                </anaphor>
+                <t id="p01-s03-t02" type="Coxhead-AWL-1,AR-AWL-1a">consists</t>
+                <t id="p01-s03-t03" type="GSL-1">of</t>
+                <t id="p01-s03-t04" type="GSL-1">a</t>
+                <t id="p01-s03-t05">nucleus</t>
+                <t id="p01-s03-t06" type="GSL-1">surrounded</t>
+                <t id="p01-s03-t07" type="GSL-1">by</t>
+                <t id="p01-s03-t08">electrons</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s04">
+                <t id="p01-s04-t01">Atoms</t>
+                <t id="p01-s04-t02" type="GSL-1">form</t>
+                <t id="p01-s04-t03">molecules</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s05">
+                <term id="p01-s05-e01" info="p01-s05-t04:p01-s05-t20">
+                    <t id="p01-s05-t01" type="GSL-1">A</t>
+                    <t id="p01-s05-t02">molecule</t>
+                </term>
+                <t id="p01-s05-t03" type="GSL-1">is</t>
+                <t id="p01-s05-t04" type="GSL-1">a</t>
+                <t id="p01-s05-t05" type="Coxhead-AWL-7,AR-AWL-7a">chemical</t>
+                <t id="p01-s05-t06" type="Coxhead-AWL-1,AR-AWL-1b">structure</t>
+                <t id="p01-s05-t07" type="Coxhead-AWL-1,AR-AWL-1a">consisting</t>
+                <t id="p01-s05-t08" type="GSL-1">of</t>
+                <t id="p01-s05-t09" type="GSL-1">at</t>
+                <t id="p01-s05-t10" type="GSL-1">least</t>
+                <t id="p01-s05-t11" type="GSL-1">two</t>
+                <t id="p01-s05-t12">atoms</t>
+                <t id="p01-s05-t13" type="GSL-1">held</t>
+                <t id="p01-s05-t14" type="GSL-1">together</t>
+                <t id="p01-s05-t15" type="GSL-1">by</t>
+                <t id="p01-s05-t16" type="GSL-1">one</t>
+                <t id="p01-s05-t17" type="GSL-1">or</t>
+                <t id="p01-s05-t18" type="GSL-1">more</t>
+                <t id="p01-s05-t19" type="Coxhead-AWL-7,AR-AWL-7a">chemical</t>
+                <t id="p01-s05-t20" type="Coxhead-AWL-6,AR-AWL-6a">bonds</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p01-s06">
+                <t id="p01-s06-t01" type="GSL-1">Many</t>
+                <t id="p01-s06-t02">molecules</t>
+                <t id="p01-s06-t03" type="GSL-1">that</t>
+                <t id="p01-s06-t04" type="GSL-1">are</t>
+                <t id="p01-s06-t05">biologically</t>
+                <t id="p01-s06-t06" type="GSL-1">important</t>
+                <t id="p01-s06-t07" type="GSL-1">are</t>
+                <term id="p01-s06-e01" info="p01-s06-t09:p01-s06-t16">
+                    <t id="p01-s06-t08">macromolecules</t>
+                </term>
+                <punc>,</punc>
+                <t id="p01-s06-t09" type="GSL-1">large</t>
+                <t id="p01-s06-t10">molecules</t>
+                <t id="p01-s06-t11" type="GSL-1">that</t>
+                <t id="p01-s06-t12" type="GSL-1">are</t>
+                <t id="p01-s06-t13" type="GSL-2">typically</t>
+                <t id="p01-s06-t14" type="GSL-1">formed</t>
+                <t id="p01-s06-t15" type="GSL-1">by</t>
+                <t id="p01-s06-t16">polymerization</t>
+                <punc>(</punc>
+                <t id="p01-s06-t17" type="GSL-1">a</t>
+                <term id="p01-s06-e02" info="p01-s06-t20:p01-s06-t31">
+                    <t id="p01-s06-t18">polymer</t>
+                </term>
+                <t id="p01-s06-t19" type="GSL-1">is</t>
+                <t id="p01-s06-t20" type="GSL-1">a</t>
+                <t id="p01-s06-t21" type="GSL-1">large</t>
+                <t id="p01-s06-t22">molecule</t>
+                <t id="p01-s06-t23" type="GSL-1">that</t>
+                <t id="p01-s06-t24" type="GSL-1">is</t>
+                <t id="p01-s06-t25" type="GSL-1">made</t>
+                <t id="p01-s06-t26" type="GSL-1">by</t>
+                <t id="p01-s06-t27" type="GSL-2">combining</t>
+                <t id="p01-s06-t28" type="GSL-1">smaller</t>
+                <t id="p01-s06-t29" type="GSL-1">units</t>
+                <t id="p01-s06-t30" type="GSL-1">called</t>
+                <term id="p01-s06-e03" info="p01-s06-t28:p01-s06-t36">
+                    <t id="p01-s06-t31">monomers</t>
+                </term>
+                <punc>,</punc>
+                <t id="p01-s06-t32" type="GSL-1">which</t>
+                <t id="p01-s06-t33" type="GSL-1">are</t>
+                <t id="p01-s06-t34" type="GSL-1">simpler</t>
+                <t id="p01-s06-t35" type="GSL-1">than</t>
+                <t id="p01-s06-t36">macromolecules</t>
+                <punc>)</punc>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="concluding" id="p01-s07">
+                <t id="p01-s07-t01" type="GSL-1">An</t>
+                <t id="p01-s07-t02" type="GSL-1">example</t>
+                <t id="p01-s07-t03" type="GSL-1">of</t>
+                <t id="p01-s07-t04" type="GSL-1">a</t>
+                <t id="p01-s07-t05">macromolecule</t>
+                <t id="p01-s07-t06" type="GSL-1">is</t>
+                <t id="p01-s07-t07">deoxyribonucleic</t>
+                <t id="p01-s07-t08">acid</t>
+                <punc>(</punc>
+                <abbr id="p01-s07-b01" info="p01-s07-t07:p01-s07-t08">
+                    <t id="p01-s07-t09">DNA</t>
+                </abbr>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p01-s07-t10" type="GSL-1">which</t>
+                <t id="p01-s07-t11" type="GSL-1">contains</t>
+                <t id="p01-s07-t12" type="GSL-1">the</t>
+                <t id="p01-s07-t13" type="Coxhead-AWL-6,AR-AWL-6b">instructions</t>
+                <t id="p01-s07-t14" type="GSL-1">for</t>
+                <t id="p01-s07-t15" type="GSL-1">the</t>
+                <t id="p01-s07-t16" type="Coxhead-AWL-1,AR-AWL-1b">structure</t>
+                <t id="p01-s07-t17" type="GSL-1">and</t>
+                <t id="p01-s07-t18" type="Coxhead-AWL-1,AR-AWL-1a">functioning</t>
+                <t id="p01-s07-t19" type="GSL-1">of</t>
+                <t id="p01-s07-t20" type="GSL-1">all</t>
+                <t id="p01-s07-t21" type="GSL-1">living</t>
+                <t id="p01-s07-t22">organisms</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
