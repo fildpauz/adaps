@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE document
+  SYSTEM "../../../xml/adaps.dtd">
+<document>
+    <title>Researchers discover giant asteroid impact crater in Antarctica</title>
+    <citation>Wikinews contributors, “Researchers discover giant asteroid impact crater in Antarctica,” Wikinews, The free news source you can write, Retrieved from https://en.wikinews.org/w/index.php?title=Researchers_discover_giant_asteroid_impact_crater_in_Antarctica&amp;oldid=3853451 (accessed on January 22, 2017).</citation>
+    <url>https://en.wikinews.org/w/index.php?title=Researchers_discover_giant_asteroid_impact_crater_in_Antarctica&amp;oldid=3853451</url>
+    <info type="science-news"/>
+    <body>
+        <paragraph id="p01">
+            <sentence par-function="" id="p01-s01">
+                <t id="p01-s01-t01" type="GSL-1">Saturday</t>
+                <punc>,</punc>
+                <t id="p01-s01-t02" type="GSL-1">June</t>
+                <t id="p01-s01-t03">3</t>
+                <punc>,</punc>
+                <t id="p01-s01-t04">2006</t>
+            </sentence>
+        </paragraph>
+        <paragraph id="p02">
+            <sentence par-function="" id="p02-s01">
+                <t id="p02-s01-t01" type="Coxhead-AWL-1,AR-AWL-1b">Researchers</t>
+                <t id="p02-s01-t02" type="GSL-1">have</t>
+                <t id="p02-s01-t03" type="Coxhead-AWL-9,AR-AWL-9a">found</t>
+                <t id="p02-s01-t04" type="GSL-1">a</t>
+                <t id="p02-s01-t05">giant</t>
+                <t id="p02-s01-t06">asteroid</t>
+                <t id="p02-s01-t07" type="Coxhead-AWL-2,AR-AWL-2a">impact</t>
+                <t id="p02-s01-t08">crater</t>
+                <t id="p02-s01-t09" type="GSL-1">under</t>
+                <t id="p02-s01-t10" type="GSL-1">the</t>
+                <t id="p02-s01-t11">Wilkes</t>
+                <t id="p02-s01-t12" type="GSL-1">Land</t>
+                <t id="p02-s01-t13" type="GSL-2">ice</t>
+                <t id="p02-s01-t14" type="GSL-2">sheet</t>
+                <t id="p02-s01-t15" type="GSL-1">of</t>
+                <t id="p02-s01-t16">Antarctica</t>
+                <connector id="p02-s01-c01" type="elaboration" info="p02-s01-t01:p02-s01-t16,p02-s01-t18:p02-s01-t30">
+                    <t id="p02-s01-t17" type="GSL-1">and</t>
+                </connector>
+                <anaphor id="p02-s01-a01" info="p02-s01-t04:p02-s01-t08">
+                    <t id="p02-s01-t18" type="GSL-1">it</t>
+                </anaphor>
+                <t id="p02-s01-t19" type="GSL-1">may</t>
+                <t id="p02-s01-t20" type="GSL-1">have</t>
+                <t id="p02-s01-t21" type="GSL-1">been</t>
+                <t id="p02-s01-t22" type="GSL-2">responsible</t>
+                <t id="p02-s01-t23" type="GSL-1">for</t>
+                <t id="p02-s01-t24" type="Coxhead-AWL-1,AR-AWL-1a">creating</t>
+                <t id="p02-s01-t25" type="GSL-1">the</t>
+                <t id="p02-s01-t26" type="GSL-1">conditions</t>
+                <t id="p02-s01-t27" type="GSL-1">in</t>
+                <t id="p02-s01-t28" type="GSL-1">which</t>
+                <t id="p02-s01-t29">dinosaurs</t>
+                <t id="p02-s01-t30" type="Coxhead-AWL-5,AR-AWL-5a">evolved</t>
+                <punc>,</punc>
+                <t id="p02-s01-t31" type="GSL-1">but</t>
+                <t id="p02-s01-t32" type="GSL-1">may</t>
+                <t id="p02-s01-t33" type="GSL-1">also</t>
+                <t id="p02-s01-t34" type="GSL-1">have</t>
+                <t id="p02-s01-t35" type="GSL-1">been</t>
+                <t id="p02-s01-t36" type="GSL-1">the</t>
+                <t id="p02-s01-t37" type="GSL-1">cause</t>
+                <t id="p02-s01-t38" type="GSL-1">of</t>
+                <t id="p02-s01-t39" type="GSL-1">a</t>
+                <t id="p02-s01-t40" type="GSL-1">mass</t>
+                <t id="p02-s01-t41">extinction</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p03">
+            <sentence par-function="" id="p03-s01">
+                <punc>“</punc>
+                <anaphor id="p03-s01-a01" info="p02-s01-t04:p02-s01-t16">
+                    <t id="p03-s01-t01" type="GSL-1">This</t>
+                    <t id="p03-s01-t02">Wilkes</t>
+                    <t id="p03-s01-t03" type="GSL-1">Land</t>
+                    <t id="p03-s01-t04" type="Coxhead-AWL-2,AR-AWL-2a">impact</t>
+                </anaphor>
+                <t id="p03-s01-t05" type="GSL-1">is</t>
+                <t id="p03-s01-t06" type="GSL-1">much</t>
+                <t id="p03-s01-t07" type="GSL-1">bigger</t>
+                <t id="p03-s01-t08" type="GSL-1">than</t>
+                <t id="p03-s01-t09" type="GSL-1">the</t>
+                <t id="p03-s01-t10" type="Coxhead-AWL-2,AR-AWL-2a">impact</t>
+                <t id="p03-s01-t11" type="GSL-1">that</t>
+                <t id="p03-s01-t12" type="GSL-1">killed</t>
+                <t id="p03-s01-t13" type="GSL-1">the</t>
+                <t id="p03-s01-t14">dinosaurs</t>
+                <punc>,</punc>
+                <t id="p03-s01-t15" type="GSL-1">and</t>
+                <t id="p03-s01-t16" type="GSL-2">probably</t>
+                <t id="p03-s01-t17" type="GSL-1">would</t>
+                <t id="p03-s01-t18" type="GSL-1">have</t>
+                <t id="p03-s01-t19" type="GSL-1">caused</t>
+                <t id="p03-s01-t20">catastrophic</t>
+                <t id="p03-s01-t21" type="GSL-2">damage</t>
+                <t id="p03-s01-t22" type="GSL-1">at</t>
+                <t id="p03-s01-t23" type="GSL-1">the</t>
+                <t id="p03-s01-t24" type="GSL-1">time</t>
+                <punc>,</punc>
+                <punc>”</punc>
+                <connector id="p03-s01-c01" type="attribution" info="p03-s01-t26:p03-s01-t35,p03-s01-t01:p03-s01-t24">
+                    <t id="p03-s01-t25" type="GSL-1">said</t>
+                </connector>
+                <t id="p03-s01-t26">Ohio</t>
+                <t id="p03-s01-t27" type="GSL-1">State</t>
+                <t id="p03-s01-t28" type="GSL-1">University</t>
+                <t id="p03-s01-t29">Professor</t>
+                <t id="p03-s01-t30" type="GSL-1">of</t>
+                <t id="p03-s01-t31">geological</t>
+                <t id="p03-s01-t32" type="GSL-1">sciences</t>
+                <punc>,</punc>
+                <t id="p03-s01-t33">Ralph</t>
+                <t id="p03-s01-t34">von</t>
+                <t id="p03-s01-t35">Fres</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p04">
+            <sentence par-function="topic" id="p04-s01">
+                <punc>“</punc>
+                <t id="p04-s01-t01" type="GSL-1">All</t>
+                <t id="p04-s01-t02" type="GSL-1">the</t>
+                <t id="p04-s01-t03" type="Coxhead-AWL-1,AR-AWL-1a">environmental</t>
+                <t id="p04-s01-t04" type="GSL-1">changes</t>
+                <t id="p04-s01-t05" type="GSL-1">that</t>
+                <t id="p04-s01-t06" type="GSL-1">would</t>
+                <t id="p04-s01-t07" type="GSL-1">have</t>
+                <t id="p04-s01-t08" type="GSL-1">resulted</t>
+                <t id="p04-s01-t09" type="GSL-1">from</t>
+                <anaphor id="p04-s01-a01" info="p02-s01-t04:p02-s01-t16">
+                    <t id="p04-s01-t10" type="GSL-1">the</t>
+                    <t id="p04-s01-t11" type="Coxhead-AWL-2,AR-AWL-2a">impact</t>
+                </anaphor>
+                <t id="p04-s01-t12" type="GSL-1">would</t>
+                <t id="p04-s01-t13" type="GSL-1">have</t>
+                <t id="p04-s01-t14" type="Coxhead-AWL-1,AR-AWL-1a">created</t>
+                <t id="p04-s01-t15" type="GSL-1">a</t>
+                <t id="p04-s01-t16" type="GSL-1">highly</t>
+                <t id="p04-s01-t17">caustic</t>
+                <t id="p04-s01-t18" type="Coxhead-AWL-1,AR-AWL-1a">environment</t>
+                <t id="p04-s01-t19" type="GSL-1">that</t>
+                <t id="p04-s01-t20" type="GSL-1">was</t>
+                <t id="p04-s01-t21" type="GSL-1">really</t>
+                <t id="p04-s01-t22" type="GSL-1">hard</t>
+                <t id="p04-s01-t23" type="GSL-1">to</t>
+                <t id="p04-s01-t24">endure</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p04-s02">
+                <connector id="p04-s02-c01" type="cause" info="p04-s01-t10:p04-s01-t24,p04-s02-t02:p04-s02-t14">
+                    <t id="p04-s02-t01" type="GSL-1">So</t>
+                </connector>
+                <t id="p04-s02-t02" type="GSL-1">it</t>
+                <t id="p04-s02-t03" type="GSL-1">makes</t>
+                <t id="p04-s02-t04" type="GSL-1">sense</t>
+                <t id="p04-s02-t05" type="GSL-1">that</t>
+                <t id="p04-s02-t06" type="GSL-1">a</t>
+                <t id="p04-s02-t07" type="GSL-2">lot</t>
+                <t id="p04-s02-t08" type="GSL-1">of</t>
+                <t id="p04-s02-t09" type="GSL-1">life</t>
+                <t id="p04-s02-t10" type="GSL-1">went</t>
+                <t id="p04-s02-t11">extinct</t>
+                <t id="p04-s02-t12" type="GSL-1">at</t>
+                <anaphor id="p04-s02-a02" info="p03-s01-t23:p03-s01-t24">
+                    <t id="p04-s02-t13" type="GSL-1">that</t>
+                    <t id="p04-s02-t14" type="GSL-1">time</t>
+                </anaphor>
+                <punc>,</punc>
+                <punc>”</punc>
+                <connector id="p04-s02-c02" type="attribution" info="p04-s02-t16:p04-s02-t17,p04-s02-t02:p04-s02-t14">
+                    <t id="p04-s02-t15" type="GSL-1">added</t>
+                </connector>
+                <t id="p04-s02-t16">von</t>
+                <t id="p04-s02-t17">Fres</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p05">
+            <sentence par-function="topic" id="p05-s01">
+                <anaphor id="p05-s01-a01" info="p02-s01-t04:p02-s01-t08">
+                    <t id="p05-s01-t01" type="GSL-1">The</t>
+                    <t id="p05-s01-t02">crater</t>
+                </anaphor>
+                <t id="p05-s01-t03" type="GSL-1">is</t>
+                <t id="p05-s01-t04" type="GSL-1">over</t>
+                <t id="p05-s01-t05">300</t>
+                <t id="p05-s01-t06" type="GSL-1">miles</t>
+                <t id="p05-s01-t07" type="GSL-1">wide</t>
+                <t id="p05-s01-t08" type="GSL-1">and</t>
+                <t id="p05-s01-t09" type="GSL-1">was</t>
+                <t id="p05-s01-t10" type="GSL-1">made</t>
+                <t id="p05-s01-t11" type="GSL-1">about</t>
+                <t id="p05-s01-t12">250</t>
+                <t id="p05-s01-t13" type="GSL-1">million</t>
+                <t id="p05-s01-t14" type="GSL-1">years</t>
+                <t id="p05-s01-t15" type="GSL-1">ago</t>
+                <t id="p05-s01-t16" type="GSL-1">by</t>
+                <t id="p05-s01-t17" type="GSL-1">an</t>
+                <t id="p05-s01-t18">asteroid</t>
+                <t id="p05-s01-t19" type="GSL-1">nearly</t>
+                <t id="p05-s01-t20">30</t>
+                <t id="p05-s01-t21" type="GSL-1">miles</t>
+                <t id="p05-s01-t22" type="GSL-1">wide</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p05-s02">
+                <t id="p05-s02-t01" type="Coxhead-AWL-1,AR-AWL-1b">Researchers</t>
+                <connector id="p05-s02-c01" type="attribution" info=":p05-s02-t01:p05-s02-t01,p05-s02-t04:p05-s02-t24">
+                    <t id="p05-s02-t02" type="GSL-1">say</t>
+                    <t id="p05-s02-t03" type="GSL-1">that</t>
+                </connector>
+                <anaphor id="p05-s02-a01" info="p02-s01-t04:p02-s01-t16">
+                    <t id="p05-s02-t04" type="GSL-1">it</t>
+                </anaphor>
+                <t id="p05-s02-t05" type="GSL-1">may</t>
+                <t id="p05-s02-t06" type="GSL-1">have</t>
+                <t id="p05-s02-t07" type="GSL-1">caused</t>
+                <t id="p05-s02-t08" type="GSL-1">an</t>
+                <t id="p05-s02-t09">Earth-wide</t>
+                <t id="p05-s02-t10">Extinction</t>
+                <t id="p05-s02-t11" type="GSL-1">Level</t>
+                <t id="p05-s02-t12" type="GSL-1">Event</t>
+                <punc>(</punc>
+                <abbr id="p05-s02-b01" info="p05-s02-t10:p05-s02-t12">
+                    <t id="p05-s02-t13">ELE</t>
+                </abbr>
+                <punc>)</punc>
+                <punc>,</punc>
+                <t id="p05-s02-t14" type="GSL-1">but</t>
+                <t id="p05-s02-t15" type="GSL-1">also</t>
+                <t id="p05-s02-t16" type="GSL-1">may</t>
+                <t id="p05-s02-t17" type="GSL-1">have</t>
+                <t id="p05-s02-t18" type="Coxhead-AWL-1,AR-AWL-1a">created</t>
+                <t id="p05-s02-t19" type="GSL-1">the</t>
+                <t id="p05-s02-t20" type="GSL-1">conditions</t>
+                <t id="p05-s02-t21" type="GSL-1">under</t>
+                <t id="p05-s02-t22" type="GSL-1">which</t>
+                <t id="p05-s02-t23">dinosaurs</t>
+                <t id="p05-s02-t24" type="Coxhead-AWL-5,AR-AWL-5a">evolved</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p05-s03">
+                <t id="p05-s03-t01" type="GSL-1">The</t>
+                <t id="p05-s03-t02">species</t>
+                <t id="p05-s03-t03" type="GSL-1">that</t>
+                <t id="p05-s03-t04" type="Coxhead-AWL-1,AR-AWL-1a">benefited</t>
+                <t id="p05-s03-t05" type="GSL-1">include</t>
+                <t id="p05-s03-t06" type="GSL-1">the</t>
+                <term id="p05-s03-e01" info="p05-s03-t08:p05-s03-t13">
+                    <t id="p05-s03-t07">archosaurs</t>
+                </term>
+                <punc>,</punc>
+                <t id="p05-s03-t08" type="GSL-1">the</t>
+                <t id="p05-s03-t09" type="GSL-2">immediate</t>
+                <t id="p05-s03-t10">ancestors</t>
+                <t id="p05-s03-t11" type="GSL-1">of</t>
+                <t id="p05-s03-t12" type="GSL-1">the</t>
+                <t id="p05-s03-t13">dinosaurs</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+        <paragraph id="p06">
+            <sentence par-function="topic" id="p06-s01">
+                <t id="p06-s01-t01" type="GSL-1">It</t>
+                <t id="p06-s01-t02" type="GSL-1">is</t>
+                <t id="p06-s01-t03" type="GSL-1">thought</t>
+                <t id="p06-s01-t04" type="GSL-1">that</t>
+                <t id="p06-s01-t05" type="GSL-1">nearly</t>
+                <t id="p06-s01-t06">96%</t>
+                <t id="p06-s01-t07" type="GSL-1">of</t>
+                <t id="p06-s01-t08" type="GSL-1">Earth's</t>
+                <t id="p06-s01-t09" type="GSL-2">ocean</t>
+                <t id="p06-s01-t10" type="GSL-1">life</t>
+                <t id="p06-s01-t11" type="GSL-1">and</t>
+                <t id="p06-s01-t12" type="GSL-1">at</t>
+                <t id="p06-s01-t13" type="GSL-1">least</t>
+                <t id="p06-s01-t14">70%</t>
+                <t id="p06-s01-t15" type="GSL-1">of</t>
+                <t id="p06-s01-t16" type="GSL-1">animals</t>
+                <t id="p06-s01-t17" type="GSL-1">on</t>
+                <t id="p06-s01-t18" type="GSL-1">land</t>
+                <t id="p06-s01-t19" type="GSL-1">were</t>
+                <t id="p06-s01-t20" type="GSL-1">made</t>
+                <t id="p06-s01-t21">extinct</t>
+                <punc>.</punc>
+            </sentence>
+            <sentence par-function="supporting" id="p06-s02">
+                <anaphor id="p06-s02-a01" info="p02-s01-t04:p02-s01-t07">
+                    <t id="p06-s02-t01" type="GSL-1">The</t>
+                    <t id="p06-s02-t02" type="Coxhead-AWL-2,AR-AWL-2a">impact</t>
+                    <t id="p06-s02-t03" type="GSL-1">itself</t>
+                </anaphor>
+                <t id="p06-s02-t04" type="GSL-1">may</t>
+                <t id="p06-s02-t05" type="GSL-1">also</t>
+                <t id="p06-s02-t06" type="GSL-1">have</t>
+                <t id="p06-s02-t07" type="GSL-1">caused</t>
+                <t id="p06-s02-t08" type="GSL-1">the</t>
+                <t id="p06-s02-t09">supercontinent</t>
+                <t id="p06-s02-t10">Gondwana</t>
+                <t id="p06-s02-t11" type="GSL-1">to</t>
+                <t id="p06-s02-t12" type="GSL-1">break</t>
+                <punc>,</punc>
+                <t id="p06-s02-t13" type="Coxhead-AWL-7,AR-AWL-7b">ultimately</t>
+                <t id="p06-s02-t14" type="GSL-1">forming</t>
+                <t id="p06-s02-t15">Australia</t>
+                <punc>.</punc>
+            </sentence>
+        </paragraph>
+    </body>
+</document>
