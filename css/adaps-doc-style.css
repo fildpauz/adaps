@@ -149,7 +149,7 @@ h3 {
 	font-size: 0.8em;
 }
 
-#footer,
+#myfooter,
 #internal-header {
     color: #fff !important;
     background-color: #3a4b53 !important;
@@ -162,11 +162,11 @@ h3 {
     overflow: auto;
 }
 
-#footer {
+#myfooter {
     margin-top: 16px!important;
 }
 
-#footer img,
+#myfooter img,
 #internal-header img {
     border-radius: 2px!important;
     float: left!important;
@@ -179,7 +179,7 @@ h3 {
     margin: 8px!important;
 }
 
-#footer img {
+#myfooter img {
     margin: 16px!important;
 }
 
