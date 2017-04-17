@@ -1,0 +1,63 @@
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>About ADAPS</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="stylesheet" href="./css/w3.css">
+      <link rel="stylesheet" href="./css/w3-theme-blue-grey.css"><script>
+                function myFunction(id) {
+                var x = document.getElementById(id);
+                if (x.className.indexOf("w3-show") == -1) {
+                x.className += " w3-show";
+                } else { 
+                x.className = x.className.replace(" w3-show", "");
+                }
+                }
+            </script></head>
+   <body>
+      <div id="header" class="w3-container w3-theme-d2 w3-center" style="">
+         <div class="w3-margin"><img src="./images/adaps_logo.png" class="w3-round-large w3-image w3-animate-opacity" style="" alt="ADAPS logo"></div>
+         <div class="w3-margin">
+            <h1 class="w3-text-shadow">About ADAPS</h1>
+         </div>
+      </div>
+      <div id="content" class="w3-container">
+          <p>Academic Document Annotation and Presentation Schema (ADAPS) is a system for annotating various linguistic features of an academic test and then presenting these documents in a web browser in a way that allows a reader to interact with document dynamically. The texts selected here are mostly texts used in the textbook, <i>Academic Reading in Science and Engineering, Book 1 and 2</i> (<i>ARiSE 1</i>, <i>ARiSE 2</i>) as well as some other texts. This "About" page is intended to give a quick overview of the project for users of the pages.</p>
+          <h2 class="w3-text-shadow">Linguistic annotation</h2>
+          <p>Several linguistic features are annotated in each text. These are described below.</p>
+          <h3 class="w3-text-shadow">Vocabulary</h3>
+          <p>Three types of vocabulary are annotated: words word families in the <a href="https://en.wikipedia.org/wiki/General_Service_List">General Service List 1</a> (GSL1) and <a href="https://en.wikipedia.org/wiki/General_Service_List">General Service List 2</a> (GSL2) as defined by West (1953) as well as those in the word families in the <a href="http://www.victoria.ac.nz/lals/resources/academicwordlist/">Academic Word List</a> (AWL) defined by Coxhead (2000). These have been annotated automatically, so there is a small chance that some highlighted words are not being used in the semantic sense in which they are listed in the respective lists.</p>
+          <p>In addition, technical terms and abbreviations are also annotated when there is an explicit definition of them given in the text. Technical terms that the author apparently thought sufficiently familiar to their audience and which have no accompanying definition are not annotated.</p>
+          <h3 class="w3-text-shadow">Logical connectors</h3>
+          <p>Logical connectors are annotated in the text following a scheme adapted from Hobbs (<a href="http://www.isi.edu/~hobbs/ocsd.pdf">1985</a>) and Wolf and Gibson (<a href="http://cognet.mit.edu/journal/10.1162/0891201054223977">2005</a>). Eleven categories of connectors are annotated as follows.</p>
+          <ul class="w3-ul">
+              <li>similarity - Idea 1 and idea 2 are similar to each other: 1 Cats are good companions. <i>Similarly</i>, 2 dogs are good companions.</li>
+              <li>contrast - Idea 1 and idea 2 are different from each other: 1 Birds fly in the air, <i>while</i> 2 fish swim in water.</li>
+              <li>elaboration - Idea 2 provides extra information or detail related to idea 1: 1 Dolphins make whistle and clicking noises to each other. <i>Furthermore</i>, 2 dolphins communicate by jumping above the water's surface.</li>
+              <li>generalization - Idea 2 is a more general idea that includes idea 1: 1 Koko the gorilla uses some sign language with her trainer. <i>In general</i>, 2 many animals have learned human communication systems.</li>
+              <li>example - Idea 2 is a specific example or instance of idea 1: 1 Elephants are social animals. <i>To illustrate</i>, 2 Indian elephants live in family units.</li>
+              <li>cause - Event 1 is a cause of event 2: 1 Mary worked more than 15 hours a day for two weeks. <i>As a result</i>, 2 she had a heart attack and went to the hospital.</li>
+              <li>explanation - Event 2 explains event 1 in some way: 1 Brian became a millionaire instantly <i>because</i> 2 he won the grand prize in the year-end lottery.</li>
+              <li>condition - One event is a condition that must be true for the other event to become true: 1 John will enter the university <i>if</i> 2 he manages to pass the entrance exam.</li>
+              <li>violated expectation - One event contradicts an expectation that the other event typically causes: 1 <i>Although</i> the construction worker slipped and fell 12 floors, 2 he walked away with only a broken arm.</li>
+              <li>temporal sequence - Idea 1 is in some kind of temporal (time-based) relation with idea 2: 1 The surveys were distributed to the students <i>and then</i> 2 they filled in the survey sheets at their own pace.</li>
+              <li>attribution - The content of idea 2 is being attributed to the person or organization in idea 1: 1 The experimenters <i>reported</i> that 2 the results were very new and hadn't been properly analyzed yet.</li>
+          </ul>
+          <p>Only those connectors which connect two full standalone clauses are annotated (with the exception of attribution).</p>
+          <h3 class="w3-text-shadow">Topic sentences</h3>
+          <p>Following the common analysis of paragraph structure into topic, supporting, and concluding sentences, each sentence in a paragraph are annotated with one of these three role labels.</p>
+          <h3 class="w3-text-shadow">Cohesive (anaphoric) connectors</h3>
+          <p>Words and phrases that depend on some other words or phrases in the text to specify their exact reference are also annotated. This mostly includes pronominal phrases (regular or demonstrative pronouns), but also includes some definite noun phrases and some other unusual anaphoric phrases. These are only annotated when there is another word or phrase in the text which it can be connected to. External references are therefore not annotated.</p>
+          <h2 class="w3-text-shadow">Using the on-screen presentation</h2>
+          <p>At the top of each document is a row of buttons that allows the user to turn and of the annotations. When the AWL words are highlighted, clicking on one AWL word will bring up a the first gloss of the word from the <a href="http://www.ldoceonline.com/">Longman Dictionary of Contemporary English</a>. This connection is made automatically and there is no guarantee that the first gloss corresponds to the semantic sense actually intended in the text. The GSL1 and GSL2 words can be similarly highlighted, but do not have glosses.</p>
+          <p>When the technical terms and abbreviations are highlighted, hovering the cursor over a highlighted portion will enable a pop-up containing the definition, as defined elsewhere in the document.</p>
+          <p>Finally, when logical connectors are highlighted, hovering the cursor over a highlighted connector will enable a pop-up containing the type of connector as well as the two ideas in the document itself which are being connected.</p>
+          <h2 class="w3-text-shadow">A note about the texts</h2>
+          <p>All the texts listed on the contents page are taken from open-source archives and are reproduced here under open licenses from the respective sources. In accordance with those licenses, the annotated reproductions here may also be reproduced freely elsewhere provided that attribution is given. If you hold a license to one of the works shown here and believe that the ADAPS reproduction infringes on your rights, please contact the maintainer of this project (see note below).</p>
+          <h2 class="w3-text-shadow">A note about the ADAPS project</h2>
+          <p>The ADAPS project is being maintained as an open-source project in a GitHub public repository. If you are interested in working on the project or creating your own fork of it or simply want to contact the developer for more information, please go to the <a href="https://github.com/fildpauz/adaps">GitHub project page</a>.</p>
+      </div>
+      <div id="footer" class="w3-container w3-theme-d4 w3-margin-top"><img src="./images/adaps_icon.png" class="w3-round-small w3-image w3-left w3-margin" style="max-height: 1.5em;" alt="ADAPS icon"><p class="w3-text-shadow">ADAPS</p>
+      </div>
+   </body>
+</html>
