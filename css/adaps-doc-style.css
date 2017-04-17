@@ -148,3 +148,68 @@ h3 {
 	text-align: left;
 	font-size: 0.8em;
 }
+
+#footer,
+#internal-header {
+    color: #fff !important;
+    background-color: #3a4b53 !important;
+    padding: 0.01em 16px;
+    box-sizing: inherit;
+    display: block;
+    font-family: Verdana,sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    overflow: auto;
+}
+
+#footer {
+    margin-top: 16px!important;
+}
+
+#footer img,
+#internal-header img {
+    border-radius: 2px!important;
+    float: left!important;
+    max-width: 100%;
+    height: auto;
+    border-style: none;
+}
+
+#internal-header img {
+    margin: 8px!important;
+}
+
+#footer img {
+    margin: 16px!important;
+}
+
+#internal-header div.links {
+    box-sizing: inherit;
+    display: block;
+    font-family: Verdana,sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    overflow: auto;
+    height: 100%;
+    float: left;
+}
+
+div.links a.link {
+    display: inline-block;
+    margin-left: 1em;
+    color: #fff;
+    text-decoration: none;
+}
+
+div.links a.link:hover {
+    color: #bbb;
+    text-decoration: underline;
+}
+
+.vertical-align {
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(50%);
+    -ms-transform: translateY(50%);
+    transform: translateY(50%);
+}

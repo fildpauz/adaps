@@ -357,7 +357,7 @@
                 Engineering, Books 1 and 2 (ARiSE1, ARiSE2)</i> in order to enable a
             closer study of academic texts with respect to the various linguistic
             features of texts studied in the textbooks. Click on one of the
-            following texts to study it in detail.</xsl:element>
+            following texts to study it in detail.  Click <a href="./about.html">here</a> to learn more about how use ADAPS.</xsl:element>
     </xsl:template>
     
     <xsl:template name="print-footer-div">
